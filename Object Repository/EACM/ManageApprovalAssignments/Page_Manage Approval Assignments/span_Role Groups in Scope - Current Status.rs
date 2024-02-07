@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Role Groups in Scope - Current Status</name>
+   <tag></tag>
+   <elementGuidId>9fc81c57-3aef-43a1-b815-669af1da7f74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SR_R485447514490922889_tab']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SR_R485447514490922889_tab > a.t-Tabs-link > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a0c2b0e-9ff4-40f1-9989-8921bf58c034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role Groups in Scope - Current Status</value>
+      <webElementGuid>91b6afa4-457f-4965-8ac7-112b94fc8a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR_R485447514490922889_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
+      <webElementGuid>2b8d69d8-97f9-475c-8b2e-d0afb1a884ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SR_R485447514490922889_tab']/a/span</value>
+      <webElementGuid>99b83997-21a4-47b7-bf1f-624b5dd4867c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/ul/li/a/span</value>
+      <webElementGuid>19d3e0aa-144d-4435-97fc-9471726950da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Role Groups in Scope - Current Status' or . = 'Role Groups in Scope - Current Status')]</value>
+      <webElementGuid>84e89358-f503-41a0-9e08-343311564301</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

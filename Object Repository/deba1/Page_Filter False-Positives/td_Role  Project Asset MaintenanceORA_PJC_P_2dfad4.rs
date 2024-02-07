@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Role  Project Asset MaintenanceORA_PJC_P_2dfad4</name>
+   <tag></tag>
+   <elementGuidId>03492685-73be-4e3f-a486-93e3d3d2e959</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='145575447502330201_orig']/tbody/tr[2]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e5caccad-8869-46f1-93c6-cb5bf34de2e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>7466fc2b-38da-4aa4-ace3-7f2a1e2081dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C145576213828330209</value>
+      <webElementGuid>04d4a681-ed8b-4cf3-a642-026b1048d0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role : Project Asset Maintenance[ORA_PJC_PROJECT_ASSET_MAINTENANCE_DUTY]->Role : Project Accountant[ORA_PJF_PROJECT_ACCOUNTANT_JOB]</value>
+      <webElementGuid>7d65a91d-e447-4cd1-a9c1-9b7908de39e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;145575447502330201_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>75d0174e-c8ff-4279-88d3-ac9bf4a036ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='145575447502330201_orig']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>ad677a1d-52a3-4c7e-8575-139ba0efb11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>0dd2bf13-592b-4b8b-a6de-ea5d924117df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Role : Project Asset Maintenance[ORA_PJC_PROJECT_ASSET_MAINTENANCE_DUTY]->Role : Project Accountant[ORA_PJF_PROJECT_ACCOUNTANT_JOB]' or . = 'Role : Project Asset Maintenance[ORA_PJC_PROJECT_ASSET_MAINTENANCE_DUTY]->Role : Project Accountant[ORA_PJF_PROJECT_ACCOUNTANT_JOB]')]</value>
+      <webElementGuid>71b1bb02-6b96-4b87-840b-4c8ae74124b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

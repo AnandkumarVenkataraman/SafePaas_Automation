@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>bb7c76d5-398c-44be-82fb-70503c784714</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-search</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;162629910086149811_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tR&quot;]/a[1]/span[@class=&quot;fa fa-search&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[2]/table/tbody/tr[2]/td[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d0792fa6-9ddd-4e58-b539-f14f6a33d1f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>ec0af73c-3d5d-4c75-87fe-d77c10c29772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cb8e8079-a2e1-42cc-9828-83a28f5617a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;162629910086149811_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tR&quot;]/a[1]/span[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>87cfb204-cf75-4588-8f35-f31ff6d10a97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='162629910086149811_orig']/tbody/tr[2]/td[2]/a/span</value>
+      <webElementGuid>c744dbcb-5957-4ec3-9935-280ffab472ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a/span</value>
+      <webElementGuid>8df125ad-4226-42a5-849c-127c83a7cff9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

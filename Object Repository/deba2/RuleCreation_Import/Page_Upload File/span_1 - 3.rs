@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1 - 3</name>
+   <tag></tag>
+   <elementGuidId>7a307317-9dc8-4367-a1f9-fe9cac51a7d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#report_R5758606676794473 > div.t-Report-wrap > table.t-Report-pagination.t-Report-pagination--bottom > tbody > tr > td > table > tbody > tr > td.pagination > span.t-Report-paginationText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_R5758606676794473']/div/table[2]/tbody/tr/td/table/tbody/tr/td[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4388a9c-1126-4846-82b0-2d0a3e1c07cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-paginationText</value>
+      <webElementGuid>0c68cbee-0a12-4e15-8715-92dfa359ffab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 - 3</value>
+      <webElementGuid>d9806a06-904e-4855-aea9-4093fb77a308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_R5758606676794473&quot;)/div[@class=&quot;t-Report-wrap&quot;]/table[@class=&quot;t-Report-pagination t-Report-pagination--bottom&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;pagination&quot;]/span[@class=&quot;t-Report-paginationText&quot;]</value>
+      <webElementGuid>980fe25d-5ebb-409f-9be2-1ebafff6a94f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_R5758606676794473']/div/table[2]/tbody/tr/td/table/tbody/tr/td[3]/span</value>
+      <webElementGuid>a471a163-aa12-4004-8cdf-e8ba3c3d2358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table[2]/tbody/tr/td/table/tbody/tr/td[3]/span</value>
+      <webElementGuid>cf5848b3-4196-40d0-9ea8-f6895945b85b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1 - 3' or . = '1 - 3')]</value>
+      <webElementGuid>dcb9af8d-d05f-4795-b60d-97b63d375ed5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

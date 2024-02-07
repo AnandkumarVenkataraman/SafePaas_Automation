@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_My InboxMy Dashboard</name>
+   <tag></tag>
+   <elementGuidId>83f54764-420a-4928-b8ca-0bf3aa8cfe9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabContainer']/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.t-Tabs.t-Tabs--simple.a-Tabs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>9661eb87-77b2-40f0-8950-d5f00b72d5b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Tabs t-Tabs--simple a-Tabs</value>
+      <webElementGuid>f379f6bc-74c5-49c2-826d-e386cc7e7529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tablist</value>
+      <webElementGuid>eeb2b724-8f8d-47e7-9a86-ebb54072b9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My InboxMy Dashboard</value>
+      <webElementGuid>cd31326d-b405-4182-bd0b-0156f25269f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabContainer&quot;)/div[@class=&quot;t-TabsRegion-items&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple a-Tabs&quot;]</value>
+      <webElementGuid>d3435877-28d1-49d1-8316-802bf8685ca2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabContainer']/div/ul</value>
+      <webElementGuid>2d2c7aa5-c983-4335-9fc0-e1debca8c7ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul</value>
+      <webElementGuid>77aeb572-ee4e-4999-bf38-37bd7b585d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'My InboxMy Dashboard' or . = 'My InboxMy Dashboard')]</value>
+      <webElementGuid>57a802a1-3e17-4eab-bf2e-f8d8acd50a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

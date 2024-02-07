@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ALLNew</name>
+   <tag></tag>
+   <elementGuidId>82e78f74-bc7f-4ec3-8efd-0c71b5873ee0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P58_RULE_TAGS_RIGHT']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P58_RULE_TAGS_RIGHT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c5ea33e7-9df1-46ff-8ad9-0a2d64f54e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Move to</value>
+      <webElementGuid>294fc1ba-e816-4985-9f63-2c942172fd27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>36fd740f-4bb2-42eb-bcf8-07d00e884bdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P58_RULE_TAGS_RIGHT</value>
+      <webElementGuid>f33f6160-b4a0-4deb-96e6-1ddd22137dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>7ff4b118-76ab-452a-bf83-7dffb453af2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P58_RULE_TAGS</value>
+      <webElementGuid>7c6488d2-9ff9-440d-b8a4-93f757374715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shuttle_right apex-item-select</value>
+      <webElementGuid>3f155450-b445-4fc3-b2dc-8c1472f05c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+ALL
+New</value>
+      <webElementGuid>66db3455-2871-44e5-854b-a12a61895dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P58_RULE_TAGS_RIGHT&quot;)</value>
+      <webElementGuid>a425495a-6e08-434a-88d5-e8e54262bc10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P58_RULE_TAGS_RIGHT']</value>
+      <webElementGuid>c38f69a9-6fdb-4b63-920c-18508272bfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P58_RULE_TAGS']/table/tbody/tr/td[3]/select</value>
+      <webElementGuid>cce262a6-009d-4257-8a2e-1072dd1ad7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/select</value>
+      <webElementGuid>78bb1bb9-696f-40da-a9ef-4775edeec1b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Move to' and @id = 'P58_RULE_TAGS_RIGHT' and @name = 'P58_RULE_TAGS' and (text() = '
+ALL
+New' or . = '
+ALL
+New')]</value>
+      <webElementGuid>7c49fe00-ff44-41f6-9a36-acbd232ae70f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

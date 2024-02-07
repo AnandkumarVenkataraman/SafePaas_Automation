@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Maintain Customer Master vs. Maintain_be9380</name>
+   <tag></tag>
+   <elementGuidId>addcdd9a-20fd-40ec-a740-ef8b7c829ab5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4682b4b9-d97e-4d66-b4dd-bdb6700eb6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:7137304586324:::3:P3_NID:76226</value>
+      <webElementGuid>bd1b1f2c-36f7-4540-a8bc-fc49f634294b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Maintain Customer Master vs. Maintain Supplier Master_Jan162024_V3 has been sent for your approval - Owner</value>
+      <webElementGuid>7ac372c5-f005-44e6-8963-2cdc6611443a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>26c48eae-7191-4c69-9276-fd0a9b9a47c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>a4d48de6-b6a5-4e91-94e0-8e9b09a604e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Maintain Customer Master vs. Maintain Supplier Master_Jan162024_V3 has been sent for your approval - Owner')]</value>
+      <webElementGuid>77948bbc-f3a8-49e3-bd97-92eb49773489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:7137304586324:::3:P3_NID:76226')]</value>
+      <webElementGuid>fd0a0d37-8574-48d3-b263-07f23475a04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>43a0189e-c779-4b14-bc78-4b2bbdac2d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:7137304586324:::3:P3_NID:76226' and (text() = 'The Maintain Customer Master vs. Maintain Supplier Master_Jan162024_V3 has been sent for your approval - Owner' or . = 'The Maintain Customer Master vs. Maintain Supplier Master_Jan162024_V3 has been sent for your approval - Owner')]</value>
+      <webElementGuid>46dd131e-2a88-4189-a1cb-8ec52abdad3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

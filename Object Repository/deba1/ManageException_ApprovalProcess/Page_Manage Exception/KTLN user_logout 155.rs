@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>KTLN user_logout 155</name>
+   <tag></tag>
+   <elementGuidId>d5dd096c-c722-445e-a346-e56ef0ab0a0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/ul/li[2]/div/span[1]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_L29085486908535153_1 > div.a-Menu-inner > span.a-Menu-labelContainer > span.a-Menu-statusCol</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>756d49ad-dd50-43ec-b6f5-3e7c6876f1ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Menu-statusCol</value>
+      <webElementGuid>bc65b8bc-4a89-41f7-9721-529fd7294b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_L29085486908535153_1&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]/span[@class=&quot;a-Menu-statusCol&quot;]</value>
+      <webElementGuid>2c45b1f9-f875-4962-8310-bee5358e4bb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu_L29085486908535153_1']/div/span/span</value>
+      <webElementGuid>b8eaf62d-7390-4d9e-b82f-348105e99598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span/span</value>
+      <webElementGuid>cea1e8b3-c409-49bf-8b61-5c118cf44a53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

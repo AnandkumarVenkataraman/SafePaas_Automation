@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>oneCERP_1CloudERP_Environment</name>
+   <tag></tag>
+   <elementGuidId>b59b8cdc-9c08-4c57-b1fa-ef09c108c7de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[1]/div/div/div/div/div/div/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
+CERP_1
+CloudERP
+EBizApp_JDBC_Env
+KTLN_CloudERP
+McD_GRM_ENV
+SFP304T
+SailPoint_ENV2
+SailPoint_Env
+TririgaDB_Env
+' or . = 'Select any one
+CERP_1
+CloudERP
+EBizApp_JDBC_Env
+KTLN_CloudERP
+McD_GRM_ENV
+SFP304T
+SailPoint_ENV2
+SailPoint_Env
+TririgaDB_Env
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P0_ENVIRONMENT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>168feead-2e69-4a74-9f01-9c0eaf170e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P0_ENVIRONMENT</value>
+      <webElementGuid>f853d5d4-1f2a-4c73-9022-512d5616e335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P0_ENVIRONMENT</value>
+      <webElementGuid>c9a918ac-230f-4751-971b-106fa017cc25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>485588a0-9086-472e-941b-39cc9568c23d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>60dc16d1-f769-49e1-bc52-d95754fe69f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>557eab5f-4acc-42e6-92e1-cbcbef0f5b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P0_ENVIRONMENT');</value>
+      <webElementGuid>b75f75d0-434e-42f7-850f-dd9f39997bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+CERP_1
+CloudERP
+EBizApp_JDBC_Env
+KTLN_CloudERP
+McD_GRM_ENV
+SFP304T
+SailPoint_ENV2
+SailPoint_Env
+TririgaDB_Env
+</value>
+      <webElementGuid>87094e42-53bc-4522-84f6-7f66a97d09a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
+      <webElementGuid>9d3dba65-bbb1-40b4-8f31-a46976f0bca7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P0_ENVIRONMENT']</value>
+      <webElementGuid>bfd193c8-e962-47f3-97e4-59d7cdb3a20f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>8ad65a35-9d35-4787-a654-bf88b3e0cf2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>9c3526bf-dfaf-457a-88c7-32a6f41d5ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
+CERP_1
+CloudERP
+EBizApp_JDBC_Env
+KTLN_CloudERP
+McD_GRM_ENV
+SFP304T
+SailPoint_ENV2
+SailPoint_Env
+TririgaDB_Env
+' or . = 'Select any one
+CERP_1
+CloudERP
+EBizApp_JDBC_Env
+KTLN_CloudERP
+McD_GRM_ENV
+SFP304T
+SailPoint_ENV2
+SailPoint_Env
+TririgaDB_Env
+')]</value>
+      <webElementGuid>1b49dd23-6d07-4695-a9b3-e49033a0d89d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

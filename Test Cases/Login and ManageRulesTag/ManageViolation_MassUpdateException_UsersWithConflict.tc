@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManageViolation_MassUpdateException_UsersWithConflict</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd235a6d-da73-4aea-8ba9-37bb9dc4254b</testCaseGuid>
+</TestCaseEntity>

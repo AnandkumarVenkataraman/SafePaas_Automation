@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Exclude  Unexclude All</name>
+   <tag></tag>
+   <elementGuidId>f6aa643c-ce48-4b13-8504-f9c08b5920df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-Button.a-IRR-button.a-IRR-button--actions.js-menuButton.excludeBtnE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eRep_toolbar_controls']/div[4]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c586e16-283c-4ccd-b93a-6c0ac2e8c32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Button a-IRR-button a-IRR-button--actions js-menuButton excludeBtnE</value>
+      <webElementGuid>46a0479d-20a3-441b-a49f-d5884a26a34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exclude / Unexclude All</value>
+      <webElementGuid>48a65c7b-f077-42d7-920b-5618940a7b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eRep_toolbar_controls&quot;)/div[@class=&quot;a-IRR-controlGroup a-IRR-controlGroup--options&quot;]/div[@class=&quot;a-IRR-actions&quot;]/button[@class=&quot;a-Button a-IRR-button a-IRR-button--actions js-menuButton excludeBtnE&quot;]</value>
+      <webElementGuid>a5604aa2-ff8c-4a8a-9da2-2262a0ef08f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eRep_toolbar_controls']/div[4]/div/button</value>
+      <webElementGuid>dd4b67af-defe-46b8-8596-1c65d72904ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>8d1241c4-41aa-4ee5-ad29-bf300ffe903d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Exclude / Unexclude All' or . = 'Exclude / Unexclude All')]</value>
+      <webElementGuid>ecb468bf-2c44-498e-b8ce-42199f4ed061</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ToggleEditRule Name  AR vs. GL Rule</name>
+   <tag></tag>
+   <elementGuidId>2804fa49-901e-4194-8ff6-fc02285aad5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.a-IRR-controls-item.a-IRR-controls-item--filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div[2]/div[2]/ul/li[1]/span[1]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7047b255-6a9d-498f-a925-14dafcfc8225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-controls-item a-IRR-controls-item--filter</value>
+      <webElementGuid>cee711ab-b482-4bab-a6b8-fc419793e7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>7ea2e1e8-d49b-4eb0-8eee-f0ba3ad87ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>control_text_261091375693104592</value>
+      <webElementGuid>6f85d9a1-4580-4cf4-aebc-dc3fb1db35bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ToggleEditRule Name = 'AR vs. GL Rule'</value>
+      <webElementGuid>483a98f8-51e1-43b7-bcfa-d58ee5dc6b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a_Collapsible1_search_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]</value>
+      <webElementGuid>424edfa6-241a-413f-888a-ec9040f32f59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_search_control_panel_content']/ul/li</value>
+      <webElementGuid>1243fc82-2563-48c4-b6ef-8cf2d3316252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li</value>
+      <webElementGuid>f8d8dc1e-b906-43a1-bb7d-47c266308050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;ToggleEditRule Name = &quot; , &quot;'&quot; , &quot;AR vs. GL Rule&quot; , &quot;'&quot;) or . = concat(&quot;ToggleEditRule Name = &quot; , &quot;'&quot; , &quot;AR vs. GL Rule&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>023c368f-c2b8-4a86-b5e4-a1673dc96b2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

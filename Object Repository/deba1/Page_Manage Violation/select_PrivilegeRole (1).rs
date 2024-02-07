@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PrivilegeRole (1)</name>
+   <tag></tag>
+   <elementGuidId>09ec8297-9ebc-4dd3-a9c0-085fce42916e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P74_EXCEPTION_TYPE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P74_EXCEPTION_TYPE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4c93a776-f6e5-46ab-81de-f2d96d21c3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P74_EXCEPTION_TYPE</value>
+      <webElementGuid>d59e626f-106f-4c44-b660-afcb5d5074c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P74_EXCEPTION_TYPE</value>
+      <webElementGuid>e01f09f3-c02c-4e6a-9f4c-5a50aca73186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>6d305870-27c5-4dd9-9ac9-43030170c0fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3009b45d-2e58-4067-9d83-7230c20af69b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d0039f9c-5e20-4025-88fb-2ec05f3e4772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>%
+Privilege
+Role
+</value>
+      <webElementGuid>73806f0c-3204-4631-98c1-ce086e755ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P74_EXCEPTION_TYPE&quot;)</value>
+      <webElementGuid>6fb471d6-eb45-4b76-88dc-711dcafd6b0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P74_EXCEPTION_TYPE']</value>
+      <webElementGuid>159299d1-01b0-418d-be2c-9a518f46adb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P74_EXCEPTION_TYPE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>aaa95aa4-d681-4f56-a9e0-99429e8547ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>07a07df5-a3ce-4ae1-afd5-55364b99e1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P74_EXCEPTION_TYPE' and @name = 'P74_EXCEPTION_TYPE' and (text() = '%
+Privilege
+Role
+' or . = '%
+Privilege
+Role
+')]</value>
+      <webElementGuid>8934ff77-6a58-49c9-ae61-1526ac0f2248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

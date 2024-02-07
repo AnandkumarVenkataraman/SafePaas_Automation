@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_If Condition is not selected, it will be_5fb211</name>
+   <tag></tag>
+   <elementGuidId>42ba027a-fe5b-4f87-836d-a6192b83b29c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ruleEntriesIG']/div[2]/div[2]/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.red-note > ul > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cfa7f48b-2e53-4181-aaa0-83fdcc3f356c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> If Condition is not selected, it will be considered as &quot;OR&quot; by default</value>
+      <webElementGuid>f18545b4-8de9-484c-9af0-9f1ec849d81a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleEntriesIG&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/div[@class=&quot;red-note&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>0836a8af-7b70-4e99-8333-678f831d709b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ruleEntriesIG']/div[2]/div[2]/div/ul/li</value>
+      <webElementGuid>b24c8ec2-4a02-4426-b4a0-fe69888c9cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li</value>
+      <webElementGuid>1891dda1-b76e-4d6c-91bb-0c024c52d4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' If Condition is not selected, it will be considered as &quot;OR&quot; by default' or . = ' If Condition is not selected, it will be considered as &quot;OR&quot; by default')]</value>
+      <webElementGuid>9b062e1a-e07f-4a23-bfa6-138b77d81278</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OpenCanceledClosed</name>
+   <tag></tag>
+   <elementGuidId>08c7d257-5c43-4bf3-89aa-31729c33a0ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.t-Form-itemWrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P1_NOTIFICATIONS_CONTAINER']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81c5ddab-c1bb-4332-84bc-cb83c14840db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-itemWrapper</value>
+      <webElementGuid>9ba03695-17b2-45a6-a6a1-a8532c92b7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>%
+Open
+Canceled
+Closed
+</value>
+      <webElementGuid>b96b3893-75aa-4182-94af-9d7f9e300464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P1_NOTIFICATIONS_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-10&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]</value>
+      <webElementGuid>b4199b12-106e-4d9e-9058-375b21384dcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P1_NOTIFICATIONS_CONTAINER']/div[2]/div</value>
+      <webElementGuid>a08edf9e-5e15-4606-a672-065925b33f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>94f4ee5d-d31c-4467-b7d0-de9b07b5b6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '%
+Open
+Canceled
+Closed
+' or . = '%
+Open
+Canceled
+Closed
+')]</value>
+      <webElementGuid>58246c32-f5f0-4881-9f08-afa3d86db071</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

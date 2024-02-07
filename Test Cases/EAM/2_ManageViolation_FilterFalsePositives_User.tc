@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2_ManageViolation_FilterFalsePositives_User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5666b9f7-864d-44aa-bf4b-280027a625a8</testCaseGuid>
+</TestCaseEntity>

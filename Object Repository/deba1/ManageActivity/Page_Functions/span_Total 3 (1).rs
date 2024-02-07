@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total 3 (1)</name>
+   <tag></tag>
+   <elementGuidId>9f384c4b-63bf-4020-b4da-3b34dac165a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ruleEntriesIG_ig_grid_vc_pageRange']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-GV-pageRange</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c11aecd6-5d6c-4b54-abef-3bcb089fb5db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-pageRange</value>
+      <webElementGuid>0655a8e5-05cc-49b1-9371-9bba201e4682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total 3</value>
+      <webElementGuid>de987c2a-c8b6-4b9c-93ea-f58e8014685d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleEntriesIG_ig_grid_vc_pageRange&quot;)/span[@class=&quot;a-GV-pageRange&quot;]</value>
+      <webElementGuid>0f0a8dcb-3d0c-410e-8925-fa29bba4b34a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='ruleEntriesIG_ig_grid_vc_pageRange']/span[2]</value>
+      <webElementGuid>82df0722-b6c7-4582-8281-bac6aade8a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/span[2]</value>
+      <webElementGuid>fe90b8bd-454b-4780-8d70-ceafc6ac3eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total 3' or . = 'Total 3')]</value>
+      <webElementGuid>4e7705b1-e7a6-49be-a08b-849f729622ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

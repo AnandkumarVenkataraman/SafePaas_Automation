@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total 3 (1)</name>
+   <tag></tag>
+   <elementGuidId>bc974380-c0e7-4ee4-affd-2fd90f174939</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-GV-pageRange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='oItemsSodJdbcIg_ig_grid_vc_pageRange']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ebc8194-6eb8-46e6-9bac-411f7e636fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-pageRange</value>
+      <webElementGuid>71265c75-aea1-4594-aa61-7f8f4026b245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total 3</value>
+      <webElementGuid>b10d05d2-200b-4cf0-91b6-99ff528ef680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oItemsSodJdbcIg_ig_grid_vc_pageRange&quot;)/span[@class=&quot;a-GV-pageRange&quot;]</value>
+      <webElementGuid>9d7e51dc-f1d5-49fb-ab2b-30ce8c658fed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='oItemsSodJdbcIg_ig_grid_vc_pageRange']/span[2]</value>
+      <webElementGuid>b5ad2b14-a473-4f71-9164-b4a83f42a4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/span[2]</value>
+      <webElementGuid>641e7b51-f0e4-4fca-b5e5-1bd203bc2948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total 3' or . = 'Total 3')]</value>
+      <webElementGuid>3a1b4409-7eac-4363-8b25-a7dbace036bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

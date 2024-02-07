@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Mitigations and Controls (1) (1) (1) (1) (1)</name>
+   <tag></tag>
+   <elementGuidId>bd4feeb2-c805-4695-8bb3-de96e747a144</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P10_EXCEPTION_TYPE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P10_EXCEPTION_TYPE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>696b23e2-3d44-475a-9431-ab48485f9bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P10_EXCEPTION_TYPE</value>
+      <webElementGuid>1471a596-72c4-4153-a3ab-540686d583e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P10_EXCEPTION_TYPE</value>
+      <webElementGuid>dc852e33-6d8f-4382-aeaf-19836824d164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>de90d144-175c-4aa1-b8d5-34bf1c2e794f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>efe03fa5-f605-4298-9f3a-e358ff8cff58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>9939ba74-94b6-4bd8-a4ad-d920d6a807ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Mitigations and Controls
+</value>
+      <webElementGuid>9c853c09-1f72-4fcb-a6c8-bb71359a674a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_EXCEPTION_TYPE&quot;)</value>
+      <webElementGuid>a6cd5473-1ea4-41dd-a413-90b2ae1a83f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P10_EXCEPTION_TYPE']</value>
+      <webElementGuid>ad59f1e4-b979-49e4-b5de-0bcfb987f3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P10_EXCEPTION_TYPE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>aecabf80-9f08-4865-a62b-d775ce7ae9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>5bd0ff22-cdbd-45aa-afba-c787156a9f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P10_EXCEPTION_TYPE' and @name = 'P10_EXCEPTION_TYPE' and (text() = '
+Mitigations and Controls
+' or . = '
+Mitigations and Controls
+')]</value>
+      <webElementGuid>23a6672e-b368-49b9-b795-70f2a6c7b311</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

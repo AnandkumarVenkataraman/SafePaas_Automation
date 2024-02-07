@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_a-Icon icon-irr-no-results</name>
+   <tag></tag>
+   <elementGuidId>5f25a8a8-2a85-421a-b636-4dea725c7559</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R485447514490922889_data_panel']/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-IRR-noDataMsg-icon > span.a-Icon.icon-irr-no-results</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bdbb7405-7075-4b0a-a07b-250f094adc11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-irr-no-results</value>
+      <webElementGuid>2052e6a8-c5d2-4ab0-8970-da1c9185bb40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>28a413b4-122e-40a5-a45d-eb990795450d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R485447514490922889_data_panel&quot;)/div[@class=&quot;a-IRR-noDataMsg&quot;]/div[@class=&quot;a-IRR-noDataMsg-icon&quot;]/span[@class=&quot;a-Icon icon-irr-no-results&quot;]</value>
+      <webElementGuid>3d805e3f-dd35-4d60-8e0a-0d51b0629bdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R485447514490922889_data_panel']/div/div/span</value>
+      <webElementGuid>fb5a7cb4-ee90-40be-8e16-24aa692cac84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/span</value>
+      <webElementGuid>8b12a091-d1a8-4842-8aee-8cb7469c93d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

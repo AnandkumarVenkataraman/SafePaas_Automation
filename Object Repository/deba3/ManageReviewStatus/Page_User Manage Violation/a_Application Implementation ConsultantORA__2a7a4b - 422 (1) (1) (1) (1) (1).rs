@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Application Implementation ConsultantORA__2a7a4b - 422 (1) (1) (1) (1) (1)</name>
+   <tag></tag>
+   <elementGuidId>ca0bb1f5-7ab9-4367-911b-0b506c827a88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d8e9cc32-d129-483b-92c2-5f3f511b5307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:apex.navigation.dialog('f?p=1550:5:6535383806764::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5409,1260892903,15765,60047136,17269,AP_CREATE_PAYABLES_INVOICE_PRIV\u0026cs=19EE34C36D9E5BAD67B92C7DFB80E6A64\u0026p_dialog_cs=vh_FtmWSizQnq_o6axHg4vsgj0yjcR7X53nTHcTEqTAUUrpxXN3daORJbZapojyhbEoEDjL_VbEswDMwsfsZxQ',{title:'Role-Privileges',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R130017182606652435'));</value>
+      <webElementGuid>0ff0606d-b9e4-4184-827b-f1d2cce92df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application Implementation Consultant[ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB]</value>
+      <webElementGuid>c677a1fc-5518-4edd-b92f-e8b1aef0fa13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;130017252170652436_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>f0238aba-90e4-4aab-a9eb-9c84f19a1136</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='130017252170652436_orig']/tbody/tr[2]/td[7]/a</value>
+      <webElementGuid>b9b67303-7104-4007-961e-65ff1a391de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Application Implementation Consultant[ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB]')]</value>
+      <webElementGuid>a69fffba-deb8-4605-8b70-f3a35ac6db07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:apex.navigation.dialog('f?p=1550:5:6535383806764::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5409,1260892903,15765,60047136,17269,AP_CREATE_PAYABLES_INVOICE_PRIV\u0026cs=19EE34C36D9E5BAD67B92C7DFB80E6A64\u0026p_dialog_cs=vh_FtmWSizQnq_o6axHg4vsgj0yjcR7X53nTHcTEqTAUUrpxXN3daORJbZapojyhbEoEDjL_VbEswDMwsfsZxQ',{title:'Role-Privileges',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R130017182606652435'));&quot;)]</value>
+      <webElementGuid>9a3c93e1-3e0f-4022-a675-37b53b7ccb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+      <webElementGuid>b0432216-cd1c-4467-9068-2bd85b374061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1550:5:6535383806764::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5409,1260892903,15765,60047136,17269,AP_CREATE_PAYABLES_INVOICE_PRIV\u0026cs=19EE34C36D9E5BAD67B92C7DFB80E6A64\u0026p_dialog_cs=vh_FtmWSizQnq_o6axHg4vsgj0yjcR7X53nTHcTEqTAUUrpxXN3daORJbZapojyhbEoEDjL_VbEswDMwsfsZxQ&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;Role-Privileges&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#R130017182606652435&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'Application Implementation Consultant[ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB]' or . = 'Application Implementation Consultant[ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB]')]</value>
+      <webElementGuid>a5c01027-fe14-4fa6-809c-b96c947b3f7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

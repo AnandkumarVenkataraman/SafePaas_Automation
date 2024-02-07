@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneDPATELKATALON_ADMINKTL_c5e368 (1)</name>
+   <tag></tag>
+   <elementGuidId>5e1e145d-3381-48eb-9bc9-d184cbbe3657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_USER_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_USER_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6b55c05d-5050-45d5-bdaf-0fd50b602674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_USER_ID</value>
+      <webElementGuid>767ae523-df87-41d0-9548-95ba0a7fc0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P30_USER_ID</value>
+      <webElementGuid>0c3caca6-65a9-472a-b247-8fa0cce93b3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>73f493e3-c64c-4c82-bd54-20cdbc04914f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0fb0e5d8-e06c-45fd-bb06-77d1904ba958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d16df6f1-511a-40c0-bc1b-d4b49c732f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+DPATEL
+KATALON_ADMIN
+KTLN_EACM_USER1
+KTLN_EAM_USER1
+N/A
+</value>
+      <webElementGuid>c81baddb-f74f-4ba2-9ba7-4a83fa19b7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_USER_ID&quot;)</value>
+      <webElementGuid>87bec06f-ebc9-4890-9067-1a2ecd6a00cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_USER_ID']</value>
+      <webElementGuid>0aafae66-2b66-4e89-b838-235a332659e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_USER_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>1e0fd9e3-26f2-426e-a3d2-13cb5a071d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a3cccf53-9878-47a0-bf37-5f17615483bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P30_USER_ID' and @name = 'P30_USER_ID' and (text() = 'Select any One
+DPATEL
+KATALON_ADMIN
+KTLN_EACM_USER1
+KTLN_EAM_USER1
+N/A
+' or . = 'Select any One
+DPATEL
+KATALON_ADMIN
+KTLN_EACM_USER1
+KTLN_EAM_USER1
+N/A
+')]</value>
+      <webElementGuid>339a91b9-9e5f-4a72-a378-2639c590bd63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

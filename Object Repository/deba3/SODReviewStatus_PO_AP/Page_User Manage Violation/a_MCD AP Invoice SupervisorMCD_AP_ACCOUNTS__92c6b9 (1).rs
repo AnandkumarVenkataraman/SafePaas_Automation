@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MCD AP Invoice SupervisorMCD_AP_ACCOUNTS__92c6b9 (1)</name>
+   <tag></tag>
+   <elementGuidId>f12e7ee3-1fcd-496e-9424-5daa8ab1ad0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='130017252170652436_orig']/tbody/tr[2]/td[11]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75f76a74-7e0d-451b-b432-4a23c7d61f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:apex.navigation.dialog('f?p=1550:5:14343128730833::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5409,1260898317,15808,60069926,20107,Approve\u002520Payables\u002520Invoices\u0026cs=17C1A206F903F3A3EB348529C08EE58BB\u0026p_dialog_cs=7wa3YtyyYLyRlWZLq1p-IUrgvaci7hU3cb4TNQrZJpw59qdyWSoVIosSYoxG8Y9tix6j4F_MwZyxRMUWbkHhIw',{title:'Role-Privileges',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R130017182606652435'));</value>
+      <webElementGuid>26508d25-0ad4-46d6-94f8-47d6146cf104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MCD AP Invoice Supervisor[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM]</value>
+      <webElementGuid>233e3054-12e6-4036-b7d6-facd98984439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;130017252170652436_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>1133be49-583f-49eb-aebc-9e3e9fe041d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='130017252170652436_orig']/tbody/tr[2]/td[11]/a</value>
+      <webElementGuid>1632be24-792b-4d1b-8a6e-754c4e9c81ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MCD AP Invoice Supervisor[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM]')]</value>
+      <webElementGuid>0d7e8591-5842-4ab9-ad15-2736d9138d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:apex.navigation.dialog('f?p=1550:5:14343128730833::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5409,1260898317,15808,60069926,20107,Approve\u002520Payables\u002520Invoices\u0026cs=17C1A206F903F3A3EB348529C08EE58BB\u0026p_dialog_cs=7wa3YtyyYLyRlWZLq1p-IUrgvaci7hU3cb4TNQrZJpw59qdyWSoVIosSYoxG8Y9tix6j4F_MwZyxRMUWbkHhIw',{title:'Role-Privileges',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R130017182606652435'));&quot;)]</value>
+      <webElementGuid>6d7593c7-233d-4e8a-84a7-9d9790a0714e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/a</value>
+      <webElementGuid>39ae10b6-3a58-4425-8319-6c8317f7af54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1550:5:14343128730833::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5409,1260898317,15808,60069926,20107,Approve\u002520Payables\u002520Invoices\u0026cs=17C1A206F903F3A3EB348529C08EE58BB\u0026p_dialog_cs=7wa3YtyyYLyRlWZLq1p-IUrgvaci7hU3cb4TNQrZJpw59qdyWSoVIosSYoxG8Y9tix6j4F_MwZyxRMUWbkHhIw&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;Role-Privileges&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#R130017182606652435&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'MCD AP Invoice Supervisor[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM]' or . = 'MCD AP Invoice Supervisor[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM]')]</value>
+      <webElementGuid>4c83400d-4dba-4d42-bca9-9a13821acf8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

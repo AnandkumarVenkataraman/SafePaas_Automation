@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>3bec2181-4b4a-4bc5-a865-c1b3a38f4712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.bootstrap-switch-handle-on.bootstrap-switch-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P15_WFLOW_APPROVAL_CONTAINER']/div[2]/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a430c76-581d-4503-9076-7baa57a6bb5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-switch-handle-on bootstrap-switch-success</value>
+      <webElementGuid>fed53b73-ed27-4df2-bdbc-513bbef06947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>14c9381c-67e8-43b0-856c-45a32153057b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P15_WFLOW_APPROVAL_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-4&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]/div[@class=&quot;bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-id-P15_WFLOW_APPROVAL bootstrap-switch-mini bootstrap-switch-animate&quot;]/div[@class=&quot;bootstrap-switch-container&quot;]/span[@class=&quot;bootstrap-switch-handle-on bootstrap-switch-success&quot;]</value>
+      <webElementGuid>f539de5b-0fea-4c81-a4ac-b265a0bc1eab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P15_WFLOW_APPROVAL_CONTAINER']/div[2]/div/div/div/span</value>
+      <webElementGuid>706bcf21-a6f6-4d23-a589-1cff0ffb5816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div/div[2]/div/div/div/span</value>
+      <webElementGuid>4cd1b043-8f26-4307-beb5-4984f82f83ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>081ab763-1fd3-4c30-8628-414e8de53928</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

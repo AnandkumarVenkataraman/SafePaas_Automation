@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Approve Payables Invoice vs. Asset Co_39abe9</name>
+   <tag></tag>
+   <elementGuidId>919dfa3c-4fb1-4f8c-bce8-ed32fa75efa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e8af08f-7773-4a0c-a4bd-bb69f9d32354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:15221864359335:::3:P3_NID:76005</value>
+      <webElementGuid>7ccb72fd-0020-4411-8328-bc52178b79c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner</value>
+      <webElementGuid>80260992-ab7e-4740-9bc8-beb5a010d72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>93df8225-8cd2-43ff-a2e7-d08a443b0a44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>0feaae9d-3a85-4f0d-9acf-945f0f1f54e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>19cca0cd-36a1-45c5-9559-c0b2bac236e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:15221864359335:::3:P3_NID:76005')]</value>
+      <webElementGuid>c1f77cd3-0e2b-48b6-b4a8-e01b7b00325e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>3436ee9d-e4c5-4fcc-99d7-1dd1d8528f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:15221864359335:::3:P3_NID:76005' and (text() = 'The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner' or . = 'The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>2f0bbd2e-c492-49cc-adc4-bcbbe5d0488d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1 - 7</name>
+   <tag></tag>
+   <elementGuidId>1c5f51f1-a389-4be4-8197-4b2f32c983d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.t-Report-paginationText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_search']/div/table[2]/tbody/tr/td/table/tbody/tr/td[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>34cefaf3-13fd-411a-97fe-ef06f6391406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-paginationText</value>
+      <webElementGuid>f9dc499e-022c-4dd2-b992-3f7dc4e4727d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 - 7</value>
+      <webElementGuid>e77b6419-de75-405e-9abd-38db9879eb22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_search&quot;)/div[@class=&quot;t-Report-wrap&quot;]/table[@class=&quot;t-Report-pagination t-Report-pagination--bottom&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;pagination&quot;]/span[@class=&quot;t-Report-paginationText&quot;]</value>
+      <webElementGuid>e5df7e0d-6633-4eae-9186-2bd8a86a7e31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_search']/div/table[2]/tbody/tr/td/table/tbody/tr/td[3]/span</value>
+      <webElementGuid>7721954c-446c-4b2a-a081-81c7e4febc87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span</value>
+      <webElementGuid>3eebc656-3f9b-4619-a97b-c2235a802b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1 - 7' or . = '1 - 7')]</value>
+      <webElementGuid>d70656c6-cf42-4a3e-8f0c-095a8c49bfe6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

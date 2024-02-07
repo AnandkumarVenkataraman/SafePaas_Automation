@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>login SOD TEST data</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3cdfbebc-538a-452f-83bd-4edcb0fcc485</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>KTLN_SODTest_Dec22_V4_All KTLN_SODTest_Dec22_V4_All</data>
+   <data>KTLN_SODTest_Dec27_V1_All KTLN_SODTest_Dec27_V1_All</data>
+   <data>KTLN_SODTest_Jan05_V2_All KTLN_SODTest_Jan05_V2_All</data>
+   <data>KTLN_SODTest_Jan10_V2_All KTLN_SODTest_Jan10_V2_All</data>
+   <data>null null</data>
+   <data>null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>SOD test name</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>SOD test description</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10_SODTest_After MassUpdateException_RolesWithConflict</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3e8e4f4-b295-4b36-9e0a-2569dc302be1</testCaseGuid>
+</TestCaseEntity>

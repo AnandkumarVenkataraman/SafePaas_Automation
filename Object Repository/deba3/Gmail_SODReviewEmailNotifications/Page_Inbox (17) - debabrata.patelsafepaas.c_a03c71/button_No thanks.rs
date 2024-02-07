@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No thanks</name>
+   <tag></tag>
+   <elementGuidId>a9af37fd-be40-47a2-8d6d-d31e5a38901a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.by7.T-I.T-I-JW.T-I-Zf-aw2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>39c32f64-27f0-4eb4-8792-865b63a6c556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>by7 T-I T-I-JW T-I-Zf-aw2</value>
+      <webElementGuid>ffbcb37f-564c-422c-9d1a-055054768e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jslog</name>
+      <type>Main</type>
+      <value>122573; u014N:cOuCgd,xr6bB</value>
+      <webElementGuid>9c64eb06-c923-40e9-b090-3a6910d5db97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67793262-c62c-4883-aa86-42cab8fd65b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No thanks</value>
+      <webElementGuid>6e1fa0e7-5b83-4cfa-8f47-0ff1d4a628d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;aAX&quot;]/body[@class=&quot;aAU&quot;]/div[@class=&quot;bjd anN ahP&quot;]/div[@class=&quot;bi9 bi6&quot;]/div[@class=&quot;SQD3t&quot;]/button[@class=&quot;by7 T-I T-I-JW T-I-Zf-aw2&quot;]</value>
+      <webElementGuid>8a877641-a733-43f1-b8e7-2a68a3298241</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>a57fdfc5-0b52-4c8c-a018-d3bd803436a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'No thanks' or . = 'No thanks')]</value>
+      <webElementGuid>0ab0f010-59ba-4908-82ee-57796cc3bb29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

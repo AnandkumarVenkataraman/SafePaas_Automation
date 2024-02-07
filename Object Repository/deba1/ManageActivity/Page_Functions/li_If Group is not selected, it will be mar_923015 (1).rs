@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_If Group is not selected, it will be mar_923015 (1)</name>
+   <tag></tag>
+   <elementGuidId>3cf147a5-b9b7-4d23-8a64-ad007b31eceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ruleEntriesIG']/div[2]/div[2]/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.red-note > ul > li:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>40fdfe3e-dab6-4cc2-b618-b2c558bc2f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> If Group is not selected, it will be marked as &quot;1&quot; by default</value>
+      <webElementGuid>8c54d0c5-c0d9-4c1f-a134-ef976c9f7096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleEntriesIG&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/div[@class=&quot;red-note&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>280089f8-ae8d-4a3d-a82c-f83d21387747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ruleEntriesIG']/div[2]/div[2]/div/ul/li[2]</value>
+      <webElementGuid>c0d6895f-aa36-4d34-ac7a-ef35a897d15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[2]</value>
+      <webElementGuid>d0ce42e3-6e02-4131-a68e-af3fd8d98e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' If Group is not selected, it will be marked as &quot;1&quot; by default' or . = ' If Group is not selected, it will be marked as &quot;1&quot; by default')]</value>
+      <webElementGuid>ff06f063-08d0-4e07-85e8-ea40c8e29e6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

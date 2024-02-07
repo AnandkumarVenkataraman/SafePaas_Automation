@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneKTLN_SODTest_Jan05_V2__779108</name>
+   <tag></tag>
+   <elementGuidId>36883fd8-64b0-482f-81da-1f071cea2204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P1_TEST']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P1_TEST</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>927911ab-f42e-41dc-b067-31128c36900e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P1_TEST</value>
+      <webElementGuid>02c9579b-a815-4e0e-a969-05da28e48051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P1_TEST</value>
+      <webElementGuid>65b798aa-f593-4167-9fb7-9a96c0463b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>326068ca-a831-44d1-bca3-4d9ecfe6c9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4ff7a5c1-4120-4198-8b98-bf20545b8193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>24d3ee66-b326-4794-83f9-5af043ebc1e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P1_TEST');</value>
+      <webElementGuid>2af4dac3-5990-4bf7-a89a-edcb5998de1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+KTLN_SODTest_Jan05_V2_All
+KTLN_SODTest_Jan05_V1_All
+KTLN_SODTest_Feb2_V1
+KTLN_SODTest_Feb1_V1
+KTLN_SODTest_Jan31_V1
+KTLN_SODTest_Jan24_V2_PO_AP
+KTLN_SODTest_Jan24_V1
+KTLN_SODTest_Jan21_V1
+KTLN_SODTest_Jan10_V2_All
+KTLN_SODTest_Jan10_V1_All
+KTLN_SODTest_Dec27_V1_All
+KTLN_SODTest_Dec22_V4_All
+KTLN_SODTest_Dec22_V3_RA
+KTLN_SODTest_Dec22_V3_All
+KTLN_SODTest_Dec22_V1_ALL
+KTLN_SODTest_Dec22_V2_RA
+KTLN_SODTest_Dec22_V1_RA
+KTLN_SODTest_Dec21_V2_All
+KTLN_SODTest_Dec21_All
+KTLN_SODTest_Dec21_V4_RA
+KTLN_SODTest_Dec21_V3_RA
+KTLN_SODTest_Dec21_V2_RA
+KTLN_SODTest_Dec21_V1_RA
+KTLN_SODTest_Dec20_V3
+KTLN_SODTest_Dec20_V2
+KTLN_SODTest_Dec05_V1
+KTLN_SODTest_Dec24_V1
+KTLN_SODTest_Dec22_V1
+KTLN_SODTest_Dec21_V1
+KTLN_SODTest_Dec20_V1
+KTLN_SODTest_Dec19_V1
+KTLN_SODTest_Dec13_V1
+SODTest_Dec12_V1
+SODTest_Dec11_V1
+SODTest_Nov3_V4
+SODTest_Nov3_Preventive_V1
+SODTest_Nov3_V3
+SODTest_Nov3_V2
+SODTest_Nov3_V1
+SOD_Nov2_V2
+SOD_Nov2
+SOD_Oct5_v1
+SOD_Oct2_v2
+SOD_Oct2_v1
+KTLN_MAY5_V1
+KTLN_MAY4_V1
+KTLN_MAY3_V1
+KTLN_MAY2_V1
+KTLN_APRIL18_V3
+KTLN_APRIL18_V2
+KTLN_APRIL18_V1
+KTLN_APR17_V2
+KTLN_APR17_V1
+</value>
+      <webElementGuid>15f72adf-633d-4b06-9a43-26c50a39aeb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P1_TEST&quot;)</value>
+      <webElementGuid>8cb8315f-5bad-4539-aa82-09b29583bd86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P1_TEST']</value>
+      <webElementGuid>78d653c3-8b7a-4ead-9dcb-dc432b7b3ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P1_TEST_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b602f68d-ac5c-4654-ae60-f3686e760cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>f6fa3de8-b3e0-47a4-a422-88c7085e9963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P1_TEST' and @name = 'P1_TEST' and (text() = 'Select any one
+KTLN_SODTest_Jan05_V2_All
+KTLN_SODTest_Jan05_V1_All
+KTLN_SODTest_Feb2_V1
+KTLN_SODTest_Feb1_V1
+KTLN_SODTest_Jan31_V1
+KTLN_SODTest_Jan24_V2_PO_AP
+KTLN_SODTest_Jan24_V1
+KTLN_SODTest_Jan21_V1
+KTLN_SODTest_Jan10_V2_All
+KTLN_SODTest_Jan10_V1_All
+KTLN_SODTest_Dec27_V1_All
+KTLN_SODTest_Dec22_V4_All
+KTLN_SODTest_Dec22_V3_RA
+KTLN_SODTest_Dec22_V3_All
+KTLN_SODTest_Dec22_V1_ALL
+KTLN_SODTest_Dec22_V2_RA
+KTLN_SODTest_Dec22_V1_RA
+KTLN_SODTest_Dec21_V2_All
+KTLN_SODTest_Dec21_All
+KTLN_SODTest_Dec21_V4_RA
+KTLN_SODTest_Dec21_V3_RA
+KTLN_SODTest_Dec21_V2_RA
+KTLN_SODTest_Dec21_V1_RA
+KTLN_SODTest_Dec20_V3
+KTLN_SODTest_Dec20_V2
+KTLN_SODTest_Dec05_V1
+KTLN_SODTest_Dec24_V1
+KTLN_SODTest_Dec22_V1
+KTLN_SODTest_Dec21_V1
+KTLN_SODTest_Dec20_V1
+KTLN_SODTest_Dec19_V1
+KTLN_SODTest_Dec13_V1
+SODTest_Dec12_V1
+SODTest_Dec11_V1
+SODTest_Nov3_V4
+SODTest_Nov3_Preventive_V1
+SODTest_Nov3_V3
+SODTest_Nov3_V2
+SODTest_Nov3_V1
+SOD_Nov2_V2
+SOD_Nov2
+SOD_Oct5_v1
+SOD_Oct2_v2
+SOD_Oct2_v1
+KTLN_MAY5_V1
+KTLN_MAY4_V1
+KTLN_MAY3_V1
+KTLN_MAY2_V1
+KTLN_APRIL18_V3
+KTLN_APRIL18_V2
+KTLN_APRIL18_V1
+KTLN_APR17_V2
+KTLN_APR17_V1
+' or . = 'Select any one
+KTLN_SODTest_Jan05_V2_All
+KTLN_SODTest_Jan05_V1_All
+KTLN_SODTest_Feb2_V1
+KTLN_SODTest_Feb1_V1
+KTLN_SODTest_Jan31_V1
+KTLN_SODTest_Jan24_V2_PO_AP
+KTLN_SODTest_Jan24_V1
+KTLN_SODTest_Jan21_V1
+KTLN_SODTest_Jan10_V2_All
+KTLN_SODTest_Jan10_V1_All
+KTLN_SODTest_Dec27_V1_All
+KTLN_SODTest_Dec22_V4_All
+KTLN_SODTest_Dec22_V3_RA
+KTLN_SODTest_Dec22_V3_All
+KTLN_SODTest_Dec22_V1_ALL
+KTLN_SODTest_Dec22_V2_RA
+KTLN_SODTest_Dec22_V1_RA
+KTLN_SODTest_Dec21_V2_All
+KTLN_SODTest_Dec21_All
+KTLN_SODTest_Dec21_V4_RA
+KTLN_SODTest_Dec21_V3_RA
+KTLN_SODTest_Dec21_V2_RA
+KTLN_SODTest_Dec21_V1_RA
+KTLN_SODTest_Dec20_V3
+KTLN_SODTest_Dec20_V2
+KTLN_SODTest_Dec05_V1
+KTLN_SODTest_Dec24_V1
+KTLN_SODTest_Dec22_V1
+KTLN_SODTest_Dec21_V1
+KTLN_SODTest_Dec20_V1
+KTLN_SODTest_Dec19_V1
+KTLN_SODTest_Dec13_V1
+SODTest_Dec12_V1
+SODTest_Dec11_V1
+SODTest_Nov3_V4
+SODTest_Nov3_Preventive_V1
+SODTest_Nov3_V3
+SODTest_Nov3_V2
+SODTest_Nov3_V1
+SOD_Nov2_V2
+SOD_Nov2
+SOD_Oct5_v1
+SOD_Oct2_v2
+SOD_Oct2_v1
+KTLN_MAY5_V1
+KTLN_MAY4_V1
+KTLN_MAY3_V1
+KTLN_MAY2_V1
+KTLN_APRIL18_V3
+KTLN_APRIL18_V2
+KTLN_APRIL18_V1
+KTLN_APR17_V2
+KTLN_APR17_V1
+')]</value>
+      <webElementGuid>9621b06e-0192-46e6-a9a8-2b3e817b917f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

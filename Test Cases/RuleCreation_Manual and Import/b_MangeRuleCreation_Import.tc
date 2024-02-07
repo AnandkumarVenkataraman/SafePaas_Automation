@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>b_MangeRuleCreation_Import</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4629bfae-ab45-4263-b6ee-c7c7604f1d8a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7df8a602-dc9b-4a09-bf2a-d3693b9a66cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\debabrata.patel\\\\Documents\\\\EAM_Rules_Template.csv'</defaultValue>
+      <description></description>
+      <id>7df8a602-dc9b-4a09-bf2a-d3693b9a66cd</id>
+      <masked>false</masked>
+      <name>X</name>
+   </variable>
+</TestCaseEntity>

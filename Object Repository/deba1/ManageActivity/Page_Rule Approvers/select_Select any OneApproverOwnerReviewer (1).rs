@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneApproverOwnerReviewer (1)</name>
+   <tag></tag>
+   <elementGuidId>7868e511-be67-4dac-bef7-dbb354aed3cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_ROLE_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_ROLE_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e3245708-466d-4d4a-9d6b-5d5c1bc4e5ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_ROLE_ID</value>
+      <webElementGuid>2dbcfaf0-17ff-4af1-b8c4-c23398d4e942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P30_ROLE_ID</value>
+      <webElementGuid>a4231d70-906e-4628-8dc4-72ee6eb173da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>1599ca69-21aa-4741-85f3-3bfaa971eb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9992c811-d81c-40ec-b293-9c1021a40e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>47c2c106-c711-4384-889e-79b5c41d8740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+Approver
+Owner
+Reviewer
+</value>
+      <webElementGuid>4ef5f88f-5e29-468a-a2f4-9eea4946bb16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_ROLE_ID&quot;)</value>
+      <webElementGuid>4874c295-438f-43d7-93c4-f183d5fe0204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_ROLE_ID']</value>
+      <webElementGuid>5044dd48-352b-446a-889e-b2d5b4a04a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_ROLE_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b8575559-a1cc-41b5-ae5e-52576e21fd36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>98af4552-27cc-4c72-91a3-ffa86b026b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P30_ROLE_ID' and @name = 'P30_ROLE_ID' and (text() = 'Select any One
+Approver
+Owner
+Reviewer
+' or . = 'Select any One
+Approver
+Owner
+Reviewer
+')]</value>
+      <webElementGuid>584f763a-0614-4a03-96ff-848bdef928c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

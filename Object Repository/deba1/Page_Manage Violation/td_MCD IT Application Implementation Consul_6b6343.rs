@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MCD IT Application Implementation Consul_6b6343</name>
+   <tag></tag>
+   <elementGuidId>e6eb1305-9fac-4ad6-a700-3254ebd4d64d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='259198704773637840']/tbody/tr[2]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>38ebb85f-1863-4197-9d9d-4442fec350bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>201f2655-4afc-4a29-8c62-a3b025b15bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>START_ENTRY_NAME</value>
+      <webElementGuid>2dbd7842-8f41-4352-ab93-a7df98ce15bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MCD IT Application Implementation Consultant[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM2]</value>
+      <webElementGuid>417c12b3-9018-409c-a941-485df956e942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;259198704773637840&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>27c890e1-04d5-4513-b492-2ff8f5b38ec7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='259198704773637840']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>ec173f43-d964-4690-b0c1-730a6f7099b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>68885196-42fd-4884-be1a-250dad688467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'MCD IT Application Implementation Consultant[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM2]' or . = 'MCD IT Application Implementation Consultant[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM2]')]</value>
+      <webElementGuid>4873de75-4fbf-43c8-a594-66209bd302dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_User Name (1) (1) (1) (1) (1) - 171</name>
+   <tag></tag>
+   <elementGuidId>6f79b8c2-1506-4fed-94a3-e9161e590e4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#C130017304800652437 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div[2]/div[2]/div[6]/div[1]/div/div[1]/table/tr/th[2]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'User Name' or . = 'User Name')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b418f24-ced0-48c7-a502-507e9195f972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>f539c797-e568-4242-9fac-bb1b63a32175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>130017304800652437</value>
+      <webElementGuid>56784699-f160-4b2a-ac78-d43a0bc15565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>34654ae8-1827-4442-8d1e-34a6b71e6900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Name</value>
+      <webElementGuid>5b1ae5fe-29b9-43a0-ae7b-d270615a1a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;130017252170652436&quot;)/tr[1]/th[@id=&quot;C130017304800652437&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>9a68602d-c259-4700-a530-8a691ba1ed35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C130017304800652437']/a</value>
+      <webElementGuid>da1af2a4-ae22-41b2-94cd-99674f2749d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'User Name')])[3]</value>
+      <webElementGuid>3ce799f1-068e-4247-a786-87703107c601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div[2]/div[5]/div/div/div/table/tr/th/a</value>
+      <webElementGuid>16c8406c-ba6d-487b-b15c-090e0fb012b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'User Name' or . = 'User Name')]</value>
+      <webElementGuid>0c05196e-2d42-414e-aedd-d076c6132cce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

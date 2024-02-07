@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_t-Form-inputContainer col col-10</name>
+   <tag></tag>
+   <elementGuidId>87d73fa6-b4b3-4910-af04-846acd0ef272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P43_RULE_NAME_CONTAINER']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P43_RULE_NAME_CONTAINER > div.t-Form-inputContainer.col.col-10</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5b74e41-bdd8-4813-8cbf-06db6645a2b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-inputContainer col col-10</value>
+      <webElementGuid>36c0eedf-461d-4f41-a8f8-e5ac106d75df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P43_RULE_NAME_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-10&quot;]</value>
+      <webElementGuid>0429e7c2-9b8e-42e2-981e-075a670da8b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P43_RULE_NAME_CONTAINER']/div[2]</value>
+      <webElementGuid>83c9e5a7-191b-4551-b5fa-10814625be5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>5597b491-f58e-4a53-bede-5eb0664656b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

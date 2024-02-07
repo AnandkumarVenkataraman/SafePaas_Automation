@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Role Groups in Scope with Entire History</name>
+   <tag></tag>
+   <elementGuidId>65ae1e1d-d1df-44b5-bc47-e81620afc87c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SR_R134136923578779043_tab']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SR_R134136923578779043_tab > a.t-Tabs-link > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e675c9f3-8c2b-46fa-b7f5-727fe1bc6d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role Groups in Scope with Entire History</value>
+      <webElementGuid>95d8adac-7882-4141-8d7f-17dba87c98e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR_R134136923578779043_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
+      <webElementGuid>7cda23b4-12d8-4d12-8ba2-9ab41dafd725</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SR_R134136923578779043_tab']/a/span</value>
+      <webElementGuid>24f14f56-5146-4907-84d9-8547f808179b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>f6887f52-3dea-4e21-9456-d44bd9ff2efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Role Groups in Scope with Entire History' or . = 'Role Groups in Scope with Entire History')]</value>
+      <webElementGuid>c2df1fa1-848a-493f-9039-5160cd72e5b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

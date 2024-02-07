@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Create Payments vs. Enter Customer Re_711b41</name>
+   <tag></tag>
+   <elementGuidId>5e35ca5d-1a2b-4fde-9b83-16f78b6d64d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>709c586a-13e9-4381-bdbe-ba77cd2f546f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:115731149861:::3:P3_NID:76559</value>
+      <webElementGuid>9fa89a7e-1bdc-4c98-a243-7ed16aff5a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner</value>
+      <webElementGuid>b7dc8920-edea-4395-bd5f-c1b80708c350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>f321f0ea-9629-4226-947f-91abee19d588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>cdc43e0a-8c51-4c6b-89a0-ac9a73b0b9a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>8b1f2f73-d052-4ee7-bd0a-8d7942f9be6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:115731149861:::3:P3_NID:76559')]</value>
+      <webElementGuid>7591d06d-0a96-4520-b499-1bbe0005f448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>3faca4ed-6a53-4e82-b0e1-272efadd73e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:115731149861:::3:P3_NID:76559' and (text() = 'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner' or . = 'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>0d0f6048-4624-4d9f-a5aa-b8047258ee0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

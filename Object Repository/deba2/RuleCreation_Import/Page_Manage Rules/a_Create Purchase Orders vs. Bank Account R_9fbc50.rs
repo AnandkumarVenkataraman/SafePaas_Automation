@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Purchase Orders vs. Bank Account R_9fbc50</name>
+   <tag></tag>
+   <elementGuidId>b53bf5e9-f3c0-4c1d-932a-f00036b44182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b0d1ea7c-db51-4f28-a038-1fd6ca475938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:707622460223::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:19932,19932,7</value>
+      <webElementGuid>10271bd2-71c5-48d2-8f72-9df0b976a7b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Purchase Orders vs. Bank Account Reconciliation Rule_Jan172024</value>
+      <webElementGuid>36d96b63-2212-42da-9a0d-b10e16da7040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>ab186f2c-20da-467f-ad1f-e6d1e0401ec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[2]/td/a</value>
+      <webElementGuid>0dfd4ef0-9a76-40e5-af9d-b5e18c77ec13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create Purchase Orders vs. Bank Account Reconciliation Rule_Jan172024')]</value>
+      <webElementGuid>787467b2-926b-4834-a32c-e334c1b98594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:707622460223::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:19932,19932,7')]</value>
+      <webElementGuid>6a38e991-db27-4eff-b04f-8a9598f39ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>bac8ccd4-6b4b-4924-b9c1-55165bc5dc65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:707622460223::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:19932,19932,7' and (text() = 'Create Purchase Orders vs. Bank Account Reconciliation Rule_Jan172024' or . = 'Create Purchase Orders vs. Bank Account Reconciliation Rule_Jan172024')]</value>
+      <webElementGuid>df718ab8-7ed3-4fd8-8f70-74c2c6592d34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

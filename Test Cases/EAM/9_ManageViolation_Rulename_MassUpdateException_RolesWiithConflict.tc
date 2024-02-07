@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9_ManageViolation_Rulename_MassUpdateException_RolesWiithConflict</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecbbdf17-cf95-417a-8100-dd990095f7a3</testCaseGuid>
+</TestCaseEntity>

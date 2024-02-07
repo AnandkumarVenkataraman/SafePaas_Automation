@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneHIGHMEDIUMLOW (1)</name>
+   <tag></tag>
+   <elementGuidId>d369864f-135c-422e-9338-dccdf886524e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P11_CLASSIFICATION']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P11_CLASSIFICATION</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>85e55fa7-48ae-4e88-a21a-3d466c370936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P11_CLASSIFICATION</value>
+      <webElementGuid>4e504270-4adb-4ab9-bdbe-959f7847a266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P11_CLASSIFICATION</value>
+      <webElementGuid>1b1c54b1-ddd9-4069-b4bb-16eb2fed7ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>a16cf213-383b-4b5b-929f-8f4916b09f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2bdecb6a-5432-4fe7-a50e-e896d92cad53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>804785f7-f4cd-4437-aade-f551013308c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+HIGH
+MEDIUM
+LOW
+</value>
+      <webElementGuid>0661a346-2e79-4684-86bd-859338caea22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P11_CLASSIFICATION&quot;)</value>
+      <webElementGuid>075e97ee-6c09-47e4-ab29-ee24ff10a62d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P11_CLASSIFICATION']</value>
+      <webElementGuid>5c1771d7-be56-40b5-adf4-185f3138a39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P11_CLASSIFICATION_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>40b8840e-5409-4b03-a120-ed87ef57746b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/select</value>
+      <webElementGuid>2ff7d635-5ae5-4c8d-be1f-bdb8affb3708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P11_CLASSIFICATION' and @name = 'P11_CLASSIFICATION' and (text() = 'Select any One
+HIGH
+MEDIUM
+LOW
+' or . = 'Select any One
+HIGH
+MEDIUM
+LOW
+')]</value>
+      <webElementGuid>f940c878-0bea-482a-924a-269c7b7561aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

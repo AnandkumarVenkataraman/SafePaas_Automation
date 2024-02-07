@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Remediate Action and Justification fields_daba0f</name>
+   <tag></tag>
+   <elementGuidId>83f0da54-07d1-4d48-970e-c7887c8bcf79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P10_RULE_OWNER_MSG_CONTAINER']/div[2]/div/span/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8b56c73f-f156-47ec-8c17-69bbd7d51726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Remediate Action and Justification fields are mandatory if applying a remediating action</value>
+      <webElementGuid>70cbee8c-3329-4ed4-9580-fa6a1bee0199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_RULE_OWNER_MSG_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-10&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]/span[@class=&quot;t-Form-itemText t-Form-itemText--pre&quot;]/p[1]</value>
+      <webElementGuid>74457548-43a9-4b8a-bf5a-96f1229a3736</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P10_RULE_OWNER_MSG_CONTAINER']/div[2]/div/span/p</value>
+      <webElementGuid>6ec772ed-7a04-43d5-95f4-8fa3eb2a44f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>bfbd2dd5-73d1-430c-9a09-c7098c97ceff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '* Remediate Action and Justification fields are mandatory if applying a remediating action' or . = '* Remediate Action and Justification fields are mandatory if applying a remediating action')]</value>
+      <webElementGuid>b400ec33-5702-4e34-9a15-ab97b53d1bcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

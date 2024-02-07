@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Bank Account Reconciliation and Creat_697bee_1 (1)</name>
+   <tag></tag>
+   <elementGuidId>86a8782f-09fd-47a4-8c36-ff73f7d159b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[2]/div[2]/div[2]/div[1]/div/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[6]/div[1]/table/tbody/tr[2]/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1000:3:160919364112:::3:P3_NID:76165' and (text() = 'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner' or . = 'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>33f69054-2e0e-4650-8fc4-b67339899c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:160919364112:::3:P3_NID:76165</value>
+      <webElementGuid>e09a636c-cf2c-4fe3-b23a-b34c5fdb9fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner</value>
+      <webElementGuid>9243a3c3-c84e-4a90-95b9-c82ac44f130c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>374dbec5-0061-4768-a902-7719f68673db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>7d8494cf-08c2-4c8d-9029-b6aa72ce957b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner')]</value>
+      <webElementGuid>82590543-fb5f-4d11-82d0-d5fa3da32164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:160919364112:::3:P3_NID:76165')]</value>
+      <webElementGuid>4961e8e1-4784-42fb-a11e-62523104bdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>224e388e-9699-4899-b69c-cb9dfbe7b888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:160919364112:::3:P3_NID:76165' and (text() = 'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner' or . = 'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner')]</value>
+      <webElementGuid>b60d6535-54f6-4509-841a-28b7e3c80216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

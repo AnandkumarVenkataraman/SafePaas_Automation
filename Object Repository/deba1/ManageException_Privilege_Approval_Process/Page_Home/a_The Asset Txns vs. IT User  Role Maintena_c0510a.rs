@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Asset Txns vs. IT User  Role Maintena_c0510a</name>
+   <tag></tag>
+   <elementGuidId>7cc86fea-6f43-46e5-a4d4-40ecefd5f5dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>45202838-0a56-49d7-b302-8a238957fc00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:17212786980151:::3:P3_NID:76026</value>
+      <webElementGuid>49aefe65-680e-40d1-92cf-d478d6faf74b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Asset Txns vs. IT User &amp; Role Maintenance Rule has been sent for your approval - Owner</value>
+      <webElementGuid>8c8780fa-c844-4cb9-a61e-4f9288d63a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>f6f574d1-7f6b-4c48-8e1b-5b9f63ff55ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>e001c17c-7c68-4d80-bc16-1203dc9a59ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Asset Txns vs. IT User &amp; Role Maintenance Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>a7f807c2-fc25-404b-ab1b-9959473c909c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:17212786980151:::3:P3_NID:76026')]</value>
+      <webElementGuid>9e8156d2-5e14-4686-819e-8a24ab2d8e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>272c845d-2d9b-4bf2-aeb7-1aad520b7f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:17212786980151:::3:P3_NID:76026' and (text() = 'The Asset Txns vs. IT User &amp; Role Maintenance Rule has been sent for your approval - Owner' or . = 'The Asset Txns vs. IT User &amp; Role Maintenance Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>6eaadbe2-831e-4773-b8ba-c5fcb8bbb780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

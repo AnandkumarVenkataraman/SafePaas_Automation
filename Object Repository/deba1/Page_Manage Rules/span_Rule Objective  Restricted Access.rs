@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rule Objective  Restricted Access</name>
+   <tag></tag>
+   <elementGuidId>6f904ee4-6536-49b3-83b3-2b0933955be6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#control_text_259710620289328028</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='control_text_259710620289328028']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d946472-645d-4bc8-9574-bc92e08b1cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>control_text_259710620289328028</value>
+      <webElementGuid>8cfc0b29-5838-4b1e-b632-f1774f49a0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rule Objective = 'Restricted Access'</value>
+      <webElementGuid>b03d3b2a-552f-4937-8a93-d60eecad0530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;control_text_259710620289328028&quot;)</value>
+      <webElementGuid>725651ca-277e-46ae-932c-cbe126f15f8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='control_text_259710620289328028']</value>
+      <webElementGuid>8b379de8-7909-4af5-a36c-feb1d8992a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_R247793226539899118_control_panel_content']/ul/li[4]/span[3]/a/span[2]</value>
+      <webElementGuid>e65ef9fe-43f2-4f8d-b798-9bd086f2c952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[4]/following::span[1]</value>
+      <webElementGuid>81e61e62-3b0e-44dc-9351-e7bdf5eb223d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[4]/following::span[5]</value>
+      <webElementGuid>edb641d8-73e2-4aca-ab56-94854adce52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[5]/preceding::span[3]</value>
+      <webElementGuid>477f7eee-5ca4-4e32-948e-31a1e3df1de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[5]/preceding::span[7]</value>
+      <webElementGuid>35b7a8dd-343a-45b4-b55b-c469c9baa2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span[3]/a/span[2]</value>
+      <webElementGuid>49ffe8c3-c673-49e2-b571-ff980e906948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'control_text_259710620289328028' and (text() = concat(&quot;Rule Objective = &quot; , &quot;'&quot; , &quot;Restricted Access&quot; , &quot;'&quot;) or . = concat(&quot;Rule Objective = &quot; , &quot;'&quot; , &quot;Restricted Access&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>fefa5872-e323-413e-b3dc-c783c1d6a6c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

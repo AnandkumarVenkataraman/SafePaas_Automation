@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MCD HRPY Payroll Tax Full AccessMCD_HRPY_5936c9 (1)</name>
+   <tag></tag>
+   <elementGuidId>21392a8e-ed7a-48aa-a16f-6dea14113337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='134133965085779013_orig']/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>25527be9-9664-40d8-abda-322e9274fe57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>8602366b-2d3a-4ec1-b945-37fc80ed195d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C134134248961779016</value>
+      <webElementGuid>0314348d-3bc7-4276-a0cf-d2ad17e8b95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MCD HRPY Payroll Tax Full Access[MCD_HRPY_PAYROLL_TAX_FULL_ACCESS_DATA]</value>
+      <webElementGuid>ae68af72-144e-48e6-9b7a-e302ad11bf7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;134133965085779013_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>3de4c242-d41d-43cc-86e9-e343ceca6029</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='134133965085779013_orig']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>8b20adc6-ce88-44a3-8cc2-18c3b14e78c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>b18f49fa-b8b2-4d90-b26a-9177e2e01e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'MCD HRPY Payroll Tax Full Access[MCD_HRPY_PAYROLL_TAX_FULL_ACCESS_DATA]' or . = 'MCD HRPY Payroll Tax Full Access[MCD_HRPY_PAYROLL_TAX_FULL_ACCESS_DATA]')]</value>
+      <webElementGuid>4643e926-c875-4796-8bc1-0198d453318e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

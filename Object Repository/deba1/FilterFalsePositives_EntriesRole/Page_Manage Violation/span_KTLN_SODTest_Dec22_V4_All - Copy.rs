@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KTLN_SODTest_Dec22_V4_All - Copy</name>
+   <tag></tag>
+   <elementGuidId>42f8e17b-5760-4380-838a-dbadecf67fd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'KTLN_SODTest_Dec22_V4_All' or . = 'KTLN_SODTest_Dec22_V4_All')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.popup-lov-highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[7]/div[2]/div[2]/div/div[3]/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3a2d7ae-af71-4ead-a3cc-7b1a23e1c59d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-lov-highlight</value>
+      <webElementGuid>e5cb0639-667d-471e-aedb-f8c15455dc37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KTLN_SODTest_Dec22_V4_All</value>
+      <webElementGuid>8bdb07e6-8011-4a52-8dad-ab5bd80f2cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_74_P74_REQUEST_NAME_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]/span[@class=&quot;popup-lov-highlight&quot;]</value>
+      <webElementGuid>51bfa1ae-839e-435b-a21e-5d9820793bde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_74_P74_REQUEST_NAME_dlg']/div[2]/div/div[3]/ul/li/span</value>
+      <webElementGuid>1d8a0a62-756a-48f1-9afc-32163011ac89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/span</value>
+      <webElementGuid>0d8ba9e4-2faa-4048-ad5e-4d34848d10ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'KTLN_SODTest_Dec22_V4_All' or . = 'KTLN_SODTest_Dec22_V4_All')]</value>
+      <webElementGuid>a61aa17a-f17d-46c6-965f-ed8877ad07f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total 60</name>
+   <tag></tag>
+   <elementGuidId>b076feb3-5ad7-4110-9cc3-b789cbe674cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#R409135957861231789_ig_grid_vc_pageRange > span.a-GV-pageRange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='R409135957861231789_ig_grid_vc_pageRange']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8cc8a54d-d345-497d-81d7-b3cdf391c958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-pageRange</value>
+      <webElementGuid>2ad87cc4-90e1-4441-839b-9f29eff2e674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total 60</value>
+      <webElementGuid>19c9c95a-3253-4def-a40f-cfdcbfc39389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R409135957861231789_ig_grid_vc_pageRange&quot;)/span[@class=&quot;a-GV-pageRange&quot;]</value>
+      <webElementGuid>d61e2509-8cfa-4f91-9d8f-61f283c24d84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='R409135957861231789_ig_grid_vc_pageRange']/span[2]</value>
+      <webElementGuid>0a02d80f-0b05-402e-a88d-2830a01a0fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div/div[5]/div[3]/div/div[5]/div[3]/span/span[2]</value>
+      <webElementGuid>0bc80721-92e0-462f-9286-d1679113fb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total 60' or . = 'Total 60')]</value>
+      <webElementGuid>8fa237d9-f0a1-4cfa-9514-423223408db7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Create Purchase Orders vs. Approve Payab_057454</name>
+   <tag></tag>
+   <elementGuidId>d8841b16-5fd7-4d92-b57e-1d74ab337c3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='152275474837790524_orig']/tbody/tr[10]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>25a1a80e-bf15-43b8-846f-ff3b3aedfb2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>61abe970-1330-462d-9fc6-b60b4a68c317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C152275823006790528</value>
+      <webElementGuid>04da43ba-0431-47af-8df7-48d99acecb3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Purchase Orders vs. Approve Payables Invoices Rule_Jan162024</value>
+      <webElementGuid>3851ae98-e49a-44e4-b7e7-8b31185e3aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;152275474837790524_orig&quot;)/tbody[1]/tr[10]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>5a2278ae-3c49-421c-8277-a4734de82321</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='152275474837790524_orig']/tbody/tr[10]/td[2]</value>
+      <webElementGuid>64792718-4cf2-42a4-b090-38d6d175711e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[2]</value>
+      <webElementGuid>b8b371ed-1046-4351-a858-231646d78b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Create Purchase Orders vs. Approve Payables Invoices Rule_Jan162024' or . = 'Create Purchase Orders vs. Approve Payables Invoices Rule_Jan162024')]</value>
+      <webElementGuid>329c8bc3-a0a0-45fe-abdb-05dbd338e3fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

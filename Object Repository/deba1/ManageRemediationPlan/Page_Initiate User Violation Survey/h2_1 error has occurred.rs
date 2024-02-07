@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_1 error has occurred</name>
+   <tag></tag>
+   <elementGuidId>49fd24e4-1804-46d3-8d5d-68fa478d177d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.a-Notification-title.aErrMsgTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4ef571d9-fdd0-4a5e-ad7f-018e33b15cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Notification-title aErrMsgTitle</value>
+      <webElementGuid>e341b95b-b516-442c-a1c9-ff0adc56c78d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 error has occurred</value>
+      <webElementGuid>464c198a-81b1-485b-83c3-d725f249a6da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Notification&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-body&quot;]/div[@class=&quot;a-Notification a-Notification--error&quot;]/h2[@class=&quot;a-Notification-title aErrMsgTitle&quot;]</value>
+      <webElementGuid>7abc3e70-b449-43b6-8c1c-c52ef0ddf1b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Notification']/div/div[2]/div/div/h2</value>
+      <webElementGuid>c6788707-482c-4531-802a-f8b4cebf67eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>12f197b7-4316-4d1b-8ded-00ba82401a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '1 error has occurred' or . = '1 error has occurred')]</value>
+      <webElementGuid>86ce1b46-ac02-4ccb-b301-1c71e4a90fc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

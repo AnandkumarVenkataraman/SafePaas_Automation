@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MCD AR Collection ManagerMCD_IEX_COLLECT_666485</name>
+   <tag></tag>
+   <elementGuidId>90d501e9-c50c-4fce-b936-8a17e2f07f99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='134133965085779013_orig']/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>705b5bc3-ea76-4e13-ab14-6560f69b3309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>d29fc972-985b-491a-a1d2-c587b38a2258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C134134248961779016</value>
+      <webElementGuid>b7bb27c7-0597-4963-bd00-218bebd247fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MCD AR Collection Manager[MCD_IEX_COLLECTIONS_MANAGER_JOB_CUSTOM]</value>
+      <webElementGuid>b7325353-0a1f-4f4c-9bcb-39ae83edc270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;134133965085779013_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>7f3a9489-b58b-466a-8a57-b13424d84be4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='134133965085779013_orig']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>3c9f3e8f-329b-4468-b30f-34597f3a991b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>0c6abdc1-dedc-4e59-b7c1-e0f7095e6f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'MCD AR Collection Manager[MCD_IEX_COLLECTIONS_MANAGER_JOB_CUSTOM]' or . = 'MCD AR Collection Manager[MCD_IEX_COLLECTIONS_MANAGER_JOB_CUSTOM]')]</value>
+      <webElementGuid>06bb083a-998e-4661-99bd-ee98c9960550</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

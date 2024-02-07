@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Bank Account Reconciliation and Enter_ab725a_1 (1)</name>
+   <tag></tag>
+   <elementGuidId>10114b32-0bb2-4e88-82a7-ca8bd22f1b1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[2]/div[2]/div[2]/div[1]/div/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[6]/div[1]/table/tbody/tr[2]/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1000:3:160919364112:::3:P3_NID:76166' and (text() = 'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner' or . = 'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>010a5f4b-a1a3-47ba-a6a3-2f4058b14a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:160919364112:::3:P3_NID:76166</value>
+      <webElementGuid>2c2b3e6a-c89f-4bde-afdd-598c273b6b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner</value>
+      <webElementGuid>8c2b4522-b062-438a-b178-0ee6a1a3e41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>01af3483-ff55-466d-bf73-0016a2522955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>7a19581e-faa7-423b-843c-097a95bb09a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner')]</value>
+      <webElementGuid>91fd2f24-a714-4e02-abbc-11466c1b06ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:160919364112:::3:P3_NID:76166')]</value>
+      <webElementGuid>9c2f206e-0cbd-4d4f-bb74-d4e913794b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>0ea59978-2790-48f9-889a-d33f32d0cfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:160919364112:::3:P3_NID:76166' and (text() = 'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner' or . = 'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner')]</value>
+      <webElementGuid>9f174d3a-8610-499b-b7af-9f6991df51a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

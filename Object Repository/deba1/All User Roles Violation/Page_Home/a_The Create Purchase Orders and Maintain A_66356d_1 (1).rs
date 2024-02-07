@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Create Purchase Orders and Maintain A_66356d_1 (1)</name>
+   <tag></tag>
+   <elementGuidId>c87d1456-6f45-4e5f-8040-eb67d6051d6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>888ccae4-09cd-4376-8227-853ec0c50072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:2097006801526:::3:P3_NID:76095</value>
+      <webElementGuid>14c4b3be-d4a4-44e8-81eb-73c9ef876401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Create Purchase Orders and Maintain AP Configurations has been sent for your approval - Owner</value>
+      <webElementGuid>2e321065-4084-428f-a55a-20259ad318f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>f6c30ad5-cbcb-4445-af28-1f543883a7ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>82b09510-4deb-4e1a-a51b-1318b02b7452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Create Purchase Orders and Maintain AP Configurations has been sent for your approval - Owner')]</value>
+      <webElementGuid>fe0177e3-4720-42af-b056-a02b94f172c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:2097006801526:::3:P3_NID:76095')]</value>
+      <webElementGuid>7e050694-82a1-40d9-a803-24e4d3e06fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>62bae10b-3a98-4d5a-ad51-77af569baf3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:2097006801526:::3:P3_NID:76095' and (text() = 'The Create Purchase Orders and Maintain AP Configurations has been sent for your approval - Owner' or . = 'The Create Purchase Orders and Maintain AP Configurations has been sent for your approval - Owner')]</value>
+      <webElementGuid>3c400ad1-288b-4465-8753-b4fc3a2b5eca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
