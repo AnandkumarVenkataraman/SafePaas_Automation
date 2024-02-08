@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>2_ManageRoleGroups_NewEnv</name>
+   <name>3_ManageRoleGroups_NewEnv</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>36907b70-f540-42cf-88b3-6d403b202223</testCaseGuid>
