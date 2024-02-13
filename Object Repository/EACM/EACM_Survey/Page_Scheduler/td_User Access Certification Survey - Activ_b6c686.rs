@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_User Access Certification Survey - Activ_b6c686</name>
+   <tag></tag>
+   <elementGuidId>4d5f59fa-bd27-4ffa-af92-28686192170f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='175260905822064323_orig']/tbody/tr[2]/td[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f0860cc9-b971-41ad-8b6c-80fa9dec361f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>948ebf0a-3a68-4824-a2e1-aa7ad797afee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C175262485437064338</value>
+      <webElementGuid>37229911-993e-4d3f-b6f6-b37fe9f320bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Access Certification Survey - Active from 09-Feb-2024 to 10-Feb-2024</value>
+      <webElementGuid>7b9a21a3-d8be-4a6e-b93d-62b74d17c3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;175260905822064323_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>0efcaeab-90f3-417e-a76c-4fd047f4f210</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='175260905822064323_orig']/tbody/tr[2]/td[8]</value>
+      <webElementGuid>f6b857ad-51ce-4792-9144-1dbf5e6dd6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>631a398c-05e2-4104-941e-a8cb49c9793a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'User Access Certification Survey - Active from 09-Feb-2024 to 10-Feb-2024' or . = 'User Access Certification Survey - Active from 09-Feb-2024 to 10-Feb-2024')]</value>
+      <webElementGuid>9deec9d2-c5b5-460f-ae8f-c8568086d8f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

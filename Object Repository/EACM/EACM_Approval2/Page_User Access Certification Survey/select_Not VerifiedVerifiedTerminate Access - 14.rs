@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Not VerifiedVerifiedTerminate Access - 14</name>
+   <tag></tag>
+   <elementGuidId>ea9336bc-5c33-46b8-a25a-62025fb67f8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'C484081257635932120' and @name = '484081257635932120' and (text() = 'Not Verified
+Verified
+Terminate Access
+' or . = 'Not Verified
+Verified
+Terminate Access
+')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[4]/div[3]/div[1]/div[2]/div[4]/table/tbody/tr[4]/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C484081257635932120</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4555fd56-aa23-4e15-8474-c951c617dd7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>C484081257635932120</value>
+      <webElementGuid>f09d3b9a-bf83-4ca0-9c26-ce7a7e4242a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>484081257635932120</value>
+      <webElementGuid>7427b8b3-c74f-42c8-a6d7-0fbef0c67c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>60163c24-47cd-4a89-a716-4b4d1ae1fff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>78b5707b-eb40-4523-b030-3cc0937a38e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d547819d-bc80-4c83-929b-4fca135f799d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8083e1e8-929d-474e-8bb9-24aa270c787d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C484081257635932120_HDR</value>
+      <webElementGuid>f018e0d6-70cc-4441-8ca2-0e0e0bcf8731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not Verified
+Verified
+Terminate Access
+</value>
+      <webElementGuid>8ce575fa-f44d-45a9-8cf9-9425374b3ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;C484081257635932120&quot;)</value>
+      <webElementGuid>f0fc0f22-6341-4b64-a8d0-aea2d84807ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='C484081257635932120']</value>
+      <webElementGuid>2dc32c2d-2340-4cac-933e-fcc9b4976693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='uacReport_ig_grid_vc_cur']/div/select</value>
+      <webElementGuid>75353a63-130a-4f03-8e74-edbbb25f961a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/select</value>
+      <webElementGuid>67f287fc-6190-4930-aefb-2d523309daf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'C484081257635932120' and @name = '484081257635932120' and (text() = 'Not Verified
+Verified
+Terminate Access
+' or . = 'Not Verified
+Verified
+Terminate Access
+')]</value>
+      <webElementGuid>a77607c1-1f84-451f-a2b8-e389611e26e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Certification job was initiated successf_889d6e</name>
+   <tag></tag>
+   <elementGuidId>f51fc12d-b256-4931-8eb5-137f4ce76cba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.t-Alert-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>cef20c10-87b7-42d6-b1c3-4373a8188886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Alert-title</value>
+      <webElementGuid>0e2d1f8a-5280-4c40-93ea-2e29306d4a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler</value>
+      <webElementGuid>8c095497-069c-4275-8109-91b32daf4bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
+      <webElementGuid>b43cdb26-d48f-4b47-8491-b141ff2ceee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      <webElementGuid>78444af0-8c2e-4b0e-b5e4-debcc43dcd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>e4c820f3-ccae-48b0-b900-3444f37333b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler' or . = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler')]</value>
+      <webElementGuid>c4b3d20b-1b15-4962-a498-cd2561fdfe2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
