@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneKTLN_EACM_Survey_Feb12_597753</name>
+   <tag></tag>
+   <elementGuidId>57d0ff9c-a635-4a55-8009-6700532eae07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P7_USER_ACCESS_TEST</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P7_USER_ACCESS_TEST']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>98fb656a-87fe-488b-8c38-214856907a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P7_USER_ACCESS_TEST</value>
+      <webElementGuid>81a4a0f5-eb2d-4cab-a2d2-f7a9e400b464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P7_USER_ACCESS_TEST</value>
+      <webElementGuid>7179da05-b10e-462f-ac72-1724370603c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>ed79a3f7-da05-4d80-adc3-7c8f857dc519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1db0516d-7846-4fd1-bce1-c05c7dda4349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>214d0ee5-d8b9-446c-8892-89e175789a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P7_USER_ACCESS_TEST');</value>
+      <webElementGuid>d8b93033-6ad9-4735-8b66-81e359e51c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+KTLN_EACM_Survey_Feb12_V1
+KTLN_EACM_Survey_Feb9_V1
+KTLN_EACM_Survey_Feb9_V2
+KTLN_EACM_Survey_Feb9_V3
+Test11
+Test12
+Test123
+Test2
+Test3
+Test4
+Test5
+Test6
+test1
+test2
+</value>
+      <webElementGuid>270d51aa-010b-4be9-b2c3-cc91ac2cc290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P7_USER_ACCESS_TEST&quot;)</value>
+      <webElementGuid>c40bfd9b-0fcf-4879-bb6c-7760836d48de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P7_USER_ACCESS_TEST']</value>
+      <webElementGuid>a2fc0642-c0b0-4617-85bf-20a379664534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P7_USER_ACCESS_TEST_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>240d28ca-a861-48f4-add1-0ce78c2dd4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>7add2572-a2af-44be-a876-660fc8713ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P7_USER_ACCESS_TEST' and @name = 'P7_USER_ACCESS_TEST' and (text() = 'Select any one
+KTLN_EACM_Survey_Feb12_V1
+KTLN_EACM_Survey_Feb9_V1
+KTLN_EACM_Survey_Feb9_V2
+KTLN_EACM_Survey_Feb9_V3
+Test11
+Test12
+Test123
+Test2
+Test3
+Test4
+Test5
+Test6
+test1
+test2
+' or . = 'Select any one
+KTLN_EACM_Survey_Feb12_V1
+KTLN_EACM_Survey_Feb9_V1
+KTLN_EACM_Survey_Feb9_V2
+KTLN_EACM_Survey_Feb9_V3
+Test11
+Test12
+Test123
+Test2
+Test3
+Test4
+Test5
+Test6
+test1
+test2
+')]</value>
+      <webElementGuid>c107ad94-81a3-4d4b-973c-7460d00aa70f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

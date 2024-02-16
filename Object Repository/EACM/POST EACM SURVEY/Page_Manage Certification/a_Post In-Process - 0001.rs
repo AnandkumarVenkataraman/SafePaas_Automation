@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Post In-Process - 0001</name>
+   <tag></tag>
+   <elementGuidId>0ddab295-9edd-48b6-97e7-c2d91f271a47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[6]/div[1]/div/div[3]/table/tbody/tr[2]/td[10]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1001:10:14766084256794:::RP,RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:16005,Y' and (text() = 'Post In-Process' or . = 'Post In-Process')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2bc3ca13-ccdc-4815-8a8d-7dd9b6e0fda5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1001:10:14766084256794:::RP,RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:16005,Y</value>
+      <webElementGuid>7a34bdb7-3f36-443f-8094-2d78e8c99509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-status</name>
+      <type>Main</type>
+      <value>Post</value>
+      <webElementGuid>251c506e-8f44-458d-9145-7ef07dbb79de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Post In-Process</value>
+      <webElementGuid>d29a2518-949c-4f37-9e97-63c5d2f99db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;311382674342716621_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>540e6770-36f2-4427-b9ba-0bbfd5aa9e6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='311382674342716621_orig']/tbody/tr[2]/td[10]/a</value>
+      <webElementGuid>8f17553d-5f7a-4807-891f-ae3d827c3988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Post In-Process')]</value>
+      <webElementGuid>592b880f-8051-4d88-a75b-10c637da8973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1001:10:14766084256794:::RP,RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:16005,Y')]</value>
+      <webElementGuid>aa704c8e-3a17-4765-bbfa-a8a22c719c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/a</value>
+      <webElementGuid>af7e1938-b275-486b-82f7-bed62090fe9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1001:10:14766084256794:::RP,RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:16005,Y' and (text() = 'Post In-Process' or . = 'Post In-Process')]</value>
+      <webElementGuid>5ba8a84b-a423-41c9-892a-4b1e9b280432</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

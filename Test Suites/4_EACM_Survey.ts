@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>4b94c665-9571-40df-b966-438af6076dba</testSuiteGuid>
    <testCaseLink>
-      <guid>87dfd513-6fd8-4f51-91f7-9c17431bc7cc</guid>
+      <guid>7bf85143-1a47-45d9-a54d-c70a28d3e283</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/4_EACM_Survey</testCaseId>
+      <testCaseId>Test Cases/EACM/4_EACM_Survey_Verified</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

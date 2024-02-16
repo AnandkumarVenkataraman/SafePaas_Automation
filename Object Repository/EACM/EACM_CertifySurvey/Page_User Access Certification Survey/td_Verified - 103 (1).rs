@@ -6,12 +6,12 @@
    <elementGuidId>06ac1e12-ca9e-4887-90e7-528b0af4c80f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#uacReport_ig_grid_vc_cur</value>
+         <key>XPATH</key>
+         <value>//td[@id='uacReport_ig_grid_vc_cur']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div[4]/div[3]/div[1]/div[2]/div[4]/table/tbody/tr[2]/td[6]</value>
+         <key>CSS</key>
+         <value>#uacReport_ig_grid_vc_cur</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>2f557585-1de8-494e-a1d6-e4a9a88c5fca</webElementGuid>
+      <webElementGuid>11050370-5f54-4b6d-9a73-464339bfd833</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>a5bb4beb-e474-448f-b188-834a9fc05a60</webElementGuid>
+      <webElementGuid>a94a753c-a06b-432e-9b8d-b319a1d1f20d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0c1c5fda-b5c5-4b19-8a3d-2d366263cf58</webElementGuid>
+      <webElementGuid>6436c94d-c03f-4a4e-a20d-3041e01d8164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tS is-focused</value>
-      <webElementGuid>232d8fa0-3f47-41b6-85b6-af907b377a19</webElementGuid>
+      <webElementGuid>7c006535-0914-4918-a19d-d3d11d8d9a7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>uacReport_ig_grid_vc_ctx C484081257635932120_HDR uacReport_ig_grid_vc_cur</value>
-      <webElementGuid>b91773cc-054b-4cf0-98a2-5172206cea34</webElementGuid>
+      <webElementGuid>3fec5640-d3f7-4b15-8186-44a38e216376</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>uacReport_ig_grid_vc_cur</value>
-      <webElementGuid>deacc18b-8ef7-4277-b1fa-a166db2f50c4</webElementGuid>
+      <webElementGuid>65f78eaa-66a4-42d7-be3b-557a2000eef1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Verified</value>
-      <webElementGuid>2c878e9f-8b0a-4926-bab0-7ccd5fe77f5a</webElementGuid>
+      <webElementGuid>90253907-e771-4548-aec3-f40b8ed25857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;uacReport_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>fd4c3176-278b-42be-8a10-c4b05f0e9c80</webElementGuid>
+      <webElementGuid>c6def8bf-abf9-45e8-9a68-2ab338fce831</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='uacReport_ig_grid_vc_cur']</value>
-      <webElementGuid>6d800edb-975d-405f-a2bb-69c80753aa00</webElementGuid>
+      <webElementGuid>ada969e7-74a0-4907-87e1-6fb80b8b04ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='uacReport_ig_grid_vc']/div[2]/div[4]/table/tbody/tr/td[6]</value>
-      <webElementGuid>1c23c3c9-9814-43c7-9521-16d20458cf00</webElementGuid>
+      <webElementGuid>cab74261-2d2b-4291-9948-591ac5fb190d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]</value>
-      <webElementGuid>66e45696-ed27-4081-b71b-3f6b3afea4bc</webElementGuid>
+      <webElementGuid>8a4c287c-ce34-4356-9b08-d5083dc544d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[@id = 'uacReport_ig_grid_vc_cur' and (text() = 'Verified' or . = 'Verified')]</value>
-      <webElementGuid>c8261a69-194a-480e-966a-fd3e85c574b3</webElementGuid>
+      <webElementGuid>ce22b82a-cdbe-462b-84a4-6fbd5c86d605</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

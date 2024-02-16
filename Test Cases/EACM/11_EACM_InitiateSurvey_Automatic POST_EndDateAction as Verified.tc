@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11_EACM_InitiateSurvey_Automatic POST_EndDateAction as Verified</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df3e4cbf-bc29-44be-ad85-d57e7ed53827</testCaseGuid>
+</TestCaseEntity>

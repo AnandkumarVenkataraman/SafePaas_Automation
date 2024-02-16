@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_No - EnforceJustification_Yes</name>
+   <tag></tag>
+   <elementGuidId>cb8b2071-c01b-4b01-a803-2be15c2e0fa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'No' or . = 'No')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[3]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P41_EACM_MAND_JUSTIF > div.apex-item-grid.radio_group > div.apex-item-grid-row > div.apex-item-option > label.u-radio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d4b02133-ebf0-4376-aeab-b08393a483ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-radio</value>
+      <webElementGuid>271c25f8-cb0d-4a49-808e-690d94c47d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P41_EACM_MAND_JUSTIF_0</value>
+      <webElementGuid>1b20a4d9-1b89-4c0b-9c44-783f9697737c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No</value>
+      <webElementGuid>c9eeeebe-6ea9-49b2-8c81-bbea421d655d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P41_EACM_MAND_JUSTIF&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
+      <webElementGuid>9dfdf0bb-248e-4ab5-a654-a9862948256b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P41_EACM_MAND_JUSTIF']/div/div/div/label</value>
+      <webElementGuid>f956b2df-04f7-4f6a-9e82-929c91e3e985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>f6d9f66e-d2ce-4a49-9602-6b42053383bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'No' or . = 'No')]</value>
+      <webElementGuid>f7d757be-751c-483b-9a19-ab4318b96a73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,15 +6,15 @@
    <elementGuidId>dbb1da2b-7deb-4fee-8830-be05d80d3262</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[2]/td[7]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ui-state-default.ui-state-hover</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(@href, '#')])[2]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
