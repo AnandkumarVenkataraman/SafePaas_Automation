@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Assign Access Groups IT-Roles_G1</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>92c82963-a7dd-4682-bc03-94f68d2c74ee</dataFileGUID>
+   <dataSourceUrl>C:\Users\MARIAISABEL.BRUM\Downloads\Scope Roles\Assign Access Groups IT-Roles_G1.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Assign Access Groups</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

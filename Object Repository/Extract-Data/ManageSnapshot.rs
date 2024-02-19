@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ManageSnapshot</name>
+   <tag></tag>
+   <elementGuidId>11a2e2ef-deb9-4476-843e-e1ffad492851</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[1]/div[1]/div/ul/li[3]/ul/li[1]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[1]/div[1]/div/ul/li[3]/ul/li[1]/div[2]/a</value>
+      <webElementGuid>73cd1ace-0777-4420-b0c0-677032cfda54</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

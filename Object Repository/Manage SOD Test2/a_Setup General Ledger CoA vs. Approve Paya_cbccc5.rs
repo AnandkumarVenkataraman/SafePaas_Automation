@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Setup General Ledger CoA vs. Approve Paya_cbccc5</name>
+   <tag></tag>
+   <elementGuidId>baccf14c-aa18-4ae4-a8cf-3ddae98f57b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[12]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89800a19-e2a9-4558-9172-1d1825e3d5f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18787,16861,7</value>
+      <webElementGuid>f85ca4c3-7c0a-4fc0-a74a-aacfbef6bd8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setup General Ledger CoA vs. Approve Payables Invoices Rule</value>
+      <webElementGuid>6578bf62-f4f5-4ce9-ad50-5edad4ab13c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[12]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>8316a8f0-a580-4a0c-a017-7c81d3ba86a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[12]/td/a</value>
+      <webElementGuid>45f7367a-bbf4-4d1c-b6dd-b36f9c24c4e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Setup General Ledger CoA vs. Approve Payables Invoices Rule')]</value>
+      <webElementGuid>4f949aa7-e8ce-430a-b6b9-8d64aba9060a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[10]/following::a[1]</value>
+      <webElementGuid>3dee86c2-0e2f-4235-bc32-ecd855333caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EAM_USER1'])[11]/following::a[1]</value>
+      <webElementGuid>33e16492-0150-4555-8d68-c71cc92a4bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup General Ledger CoA vs. Approve Payables Invoices Rule'])[2]/preceding::a[1]</value>
+      <webElementGuid>a7afa825-4ed2-49f3-89c4-33c592f123d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[8]/preceding::a[1]</value>
+      <webElementGuid>af6ac2d0-3940-42cf-8fbb-1afb5bc507c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Setup General Ledger CoA vs. Approve Payables Invoices Rule']/parent::*</value>
+      <webElementGuid>f9a055c3-3024-4641-ba0e-d72731dc2c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18787,16861,7')]</value>
+      <webElementGuid>7d77c4f8-45f7-40c0-9ac0-9ccd7616f03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td/a</value>
+      <webElementGuid>858e3cd8-b145-4636-b97c-757bdec21ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18787,16861,7' and (text() = 'Setup General Ledger CoA vs. Approve Payables Invoices Rule' or . = 'Setup General Ledger CoA vs. Approve Payables Invoices Rule')]</value>
+      <webElementGuid>8e2f0dbe-839d-4299-ae2b-68e5a8fb8e0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

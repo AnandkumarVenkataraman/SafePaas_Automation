@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AU - ERP Cloud - FSR Maintenance (Approv_b96d84</name>
+   <tag></tag>
+   <elementGuidId>dff5143b-90d2-4e85-a2f1-d4a75bbaf927</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[12]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0c97e66f-ff6d-4216-8077-6d437358387d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-cell</value>
+      <webElementGuid>f4702360-faad-461a-8a6d-b4e416da6bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>ROLE_NAME</value>
+      <webElementGuid>df23c098-8f11-4b05-8440-5e0d64b14ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AU - ERP Cloud - FSR Maintenance (Approval Required)</value>
+      <webElementGuid>29cfd0a0-2f50-4f11-93fd-61b6c00f6450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_scopeRoles&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[12]/td[@class=&quot;t-Report-cell&quot;]</value>
+      <webElementGuid>2dd5eb23-20de-4c87-b797-aa74e91cb8fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[12]/td[2]</value>
+      <webElementGuid>51b74a22-85a3-4d30-89f2-662eb5a259be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[22]/following::td[2]</value>
+      <webElementGuid>56a7ebdc-cfbb-4aa4-aa43-a1acb3c715b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[21]/following::td[4]</value>
+      <webElementGuid>5139bf42-ee26-4a29-aa0e-2269b07f8d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AU - ERP Cloud - FSR Maintenance (Approval Required)'])[2]/preceding::td[1]</value>
+      <webElementGuid>eb8db1da-a5c3-4a54-b452-e871262d344c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[23]/preceding::td[4]</value>
+      <webElementGuid>30fd8dd4-9d7e-4f4d-826d-2471baf37bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AU - ERP Cloud - FSR Maintenance (Approval Required)']/parent::*</value>
+      <webElementGuid>4dd196f7-00d5-4a65-a930-7dc2cc08db24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td[2]</value>
+      <webElementGuid>16f21b40-9c8c-491f-9c73-d067f7b5e5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'AU - ERP Cloud - FSR Maintenance (Approval Required)' or . = 'AU - ERP Cloud - FSR Maintenance (Approval Required)')]</value>
+      <webElementGuid>f3142683-545e-4d73-9649-fec0867d2ad8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

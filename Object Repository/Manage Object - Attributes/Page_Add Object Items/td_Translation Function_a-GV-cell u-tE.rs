@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Translation Function_a-GV-cell u-tE</name>
+   <tag></tag>
+   <elementGuidId>5ad3f023-c4aa-4876-829d-2089638ed10e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.a-GV-cell.u-tE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='igSod_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>69d09db5-605f-4b7d-845d-682523438558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>a2529caa-f460-4ba5-8096-994a8dbc6bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>21be98eb-2ec1-4367-bc5e-9f6cd736a7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tE</value>
+      <webElementGuid>023e91e0-4202-4dbd-ac60-09cfe6650660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;igSod_ig_grid_vc&quot;)/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table a-GV-table--checkbox&quot;]/tbody[1]/tr[@class=&quot;a-GV-row is-inserted is-selected is-hover&quot;]/td[@class=&quot;a-GV-cell u-tE&quot;]</value>
+      <webElementGuid>09d07bfc-f5de-4135-b63c-bdcc76563981</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='igSod_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[2]</value>
+      <webElementGuid>cc6d5b2a-8bd6-48e3-b4f7-4f62be299c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>d0fc59d8-8ed2-411d-becd-ac64976efb3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

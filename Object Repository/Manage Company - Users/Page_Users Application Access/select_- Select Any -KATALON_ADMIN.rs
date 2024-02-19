@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select Any -KATALON_ADMIN</name>
+   <tag></tag>
+   <elementGuidId>9588bc76-df37-4b83-a572-94e1c009eef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='C154513240193312332']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C154513240193312332</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2a392d06-f97d-40f4-a59e-f5232bfdfebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>C154513240193312332</value>
+      <webElementGuid>d9248a5a-fd29-421c-beee-aefa5a4f76e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>154513240193312332</value>
+      <webElementGuid>8f81972b-8b0c-4d9e-800b-78949e991ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>49bc0a33-33dc-4dad-8509-b7b9641f7cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>92164037-a252-4973-b8f3-9b89e8fedd6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>09ed24fa-5c11-4165-8bfb-a3c0839f816a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>149fe587-06dd-42e6-9c33-1707645d4353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C154513240193312332_HDR</value>
+      <webElementGuid>6f82cb3c-2fda-4b8a-aee5-512159e550eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select Any -
+KATALON_ADMIN
+</value>
+      <webElementGuid>72fdfa16-6ca1-42ec-99c9-cd82b23c0041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;C154513240193312332&quot;)</value>
+      <webElementGuid>0eb34404-9535-442a-afa7-6f6c10c5a487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='C154513240193312332']</value>
+      <webElementGuid>0e8ce9aa-a583-4a7d-bb41-7248b5f5583f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='R259422667645149962_ig_grid_vc_cur']/div/select</value>
+      <webElementGuid>d3ab444f-07eb-4fb5-8046-807cc8d4d7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expires On'])[2]/following::select[1]</value>
+      <webElementGuid>145239b9-fea0-46d3-ba04-7e3e7193da56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sorted Ascending 2'])[2]/following::select[1]</value>
+      <webElementGuid>716d9415-e7e0-4b45-b3ce-7eb9bc45d9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Monitor'])[2]/preceding::select[1]</value>
+      <webElementGuid>8b8c9e39-d4e8-4add-93dd-d5e8f161d9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::select[1]</value>
+      <webElementGuid>727acad4-2b8c-4053-adec-7f12231ef133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/select</value>
+      <webElementGuid>6e4a209b-1ebb-4a25-8f66-16759c4dddf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'C154513240193312332' and @name = '154513240193312332' and (text() = '- Select Any -
+KATALON_ADMIN
+' or . = '- Select Any -
+KATALON_ADMIN
+')]</value>
+      <webElementGuid>83895fb2-050f-47ce-9aed-73301b452339</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

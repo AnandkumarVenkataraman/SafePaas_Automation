@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Description_t-Form-itemWrapper</name>
+   <tag></tag>
+   <elementGuidId>c204c80c-dd31-46e5-be66-734e4f4467e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P35_REQUEST_DESCRIPTION_CONTAINER']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_REQUEST_DESCRIPTION_CONTAINER > div.t-Form-inputContainer.col.col-10 > div.t-Form-itemWrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>241dc584-7744-4f77-9c80-6bcb72f5ec34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-itemWrapper</value>
+      <webElementGuid>a8b1e974-915d-4cc9-95cf-90d2dd60c7c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_REQUEST_DESCRIPTION_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-10&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]</value>
+      <webElementGuid>9fa89547-e218-4031-ae8f-6b8a311d63cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_REQUEST_DESCRIPTION_CONTAINER']/div[2]/div</value>
+      <webElementGuid>b24c0354-5319-4ae8-b235-66a5400c767a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description :'])[1]/following::div[2]</value>
+      <webElementGuid>d03fb7f4-03ec-452c-b57d-af58b4e12983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name :'])[1]/following::div[8]</value>
+      <webElementGuid>03b99490-783c-464f-8c39-2a46944a0a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Type :'])[1]/preceding::div[1]</value>
+      <webElementGuid>3aea63ca-ab97-4f84-a017-ac288390ac68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Tags'])[1]/preceding::div[7]</value>
+      <webElementGuid>79538a3d-2343-4873-a72f-49c9f7693490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>d8baa162-bf14-48ec-b876-b9f5c4d0a5b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

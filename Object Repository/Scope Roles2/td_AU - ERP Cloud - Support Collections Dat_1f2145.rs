@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AU - ERP Cloud - Support Collections Dat_1f2145</name>
+   <tag></tag>
+   <elementGuidId>8a6e2ea9-1f89-4a32-b434-61b77621c50e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[4]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ae710d1b-da40-4fd7-9e10-355e45d6f5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-cell</value>
+      <webElementGuid>7e218888-ae36-412d-9599-0b6215732716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>ROLE_NAME</value>
+      <webElementGuid>4faf4698-0ad2-4a83-8f46-25729b10d5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AU - ERP Cloud - Support Collections Data Specialist (Approval Required)</value>
+      <webElementGuid>e26e8735-933d-4f35-8f00-da28b89edbad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_scopeRoles&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[4]/td[@class=&quot;t-Report-cell&quot;]</value>
+      <webElementGuid>3410ec1a-869c-42c0-8772-14f0fa0c58ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[4]/td[2]</value>
+      <webElementGuid>3eaccd86-bdba-4565-afb6-0de2977f7b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[6]/following::td[2]</value>
+      <webElementGuid>73e6d087-4744-4220-8291-640752ac7825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[5]/following::td[4]</value>
+      <webElementGuid>311249c7-dcf9-48a3-a959-f23448e9f747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AU - ERP Cloud - Support Collections Data Specialist (Approval Required)'])[2]/preceding::td[1]</value>
+      <webElementGuid>8fcb35d5-cfbf-4c93-8cfc-baf2d7837d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[7]/preceding::td[4]</value>
+      <webElementGuid>9ae351ee-297f-4b38-a1eb-fe5afff56de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AU - ERP Cloud - Support Collections Data Specialist (Approval Required)']/parent::*</value>
+      <webElementGuid>c5b592a8-7a9e-46b3-a7cb-ee2cd5765f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]</value>
+      <webElementGuid>c33141f0-dd55-414b-81d2-22d624a8d479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'AU - ERP Cloud - Support Collections Data Specialist (Approval Required)' or . = 'AU - ERP Cloud - Support Collections Data Specialist (Approval Required)')]</value>
+      <webElementGuid>e4368369-f556-448a-af4f-40f69921e5f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Extend_ui-widget-overlay ui-front</name>
+   <tag></tag>
+   <elementGuidId>048800af-ad28-43ce-b87c-7c467df99c3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='t_PageBody']/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-widget-overlay.ui-front</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e309b2e-c85b-4c60-9680-a3ca3e4f5570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-overlay ui-front</value>
+      <webElementGuid>640b81fc-7a41-4d5c-b930-d2f36b4401b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-widget-overlay ui-front&quot;]</value>
+      <webElementGuid>a456ce36-0383-465a-8a84-3422a9adbe95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='t_PageBody']/div[7]</value>
+      <webElementGuid>e821191f-9b0f-49c1-a82f-85ed0f017414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>3e1a7d26-15eb-4267-85d5-312af90f0e37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

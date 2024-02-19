@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total 5</name>
+   <tag></tag>
+   <elementGuidId>99be1715-de18-42f9-bf65-b9cd47cb404f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='OBJ_API_ig_grid_vc_pageRange']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#OBJ_API_ig_grid_vc_pageRange > span.a-GV-pageRange</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2366f6f5-08f9-4883-acd8-e95266e063d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-pageRange</value>
+      <webElementGuid>7c79492b-95ca-454a-aa49-a11f2d8f1169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total 5</value>
+      <webElementGuid>62e41fd2-14d4-4135-b4b2-3e616c09ca90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OBJ_API_ig_grid_vc_pageRange&quot;)/span[@class=&quot;a-GV-pageRange&quot;]</value>
+      <webElementGuid>8a5fdca0-6902-4245-a28f-6c720378f5c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='OBJ_API_ig_grid_vc_pageRange']/span[2]</value>
+      <webElementGuid>f5ad8712-62ca-4921-aaee-10bccf80ce2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page rows'])[3]/following::span[1]</value>
+      <webElementGuid>02f99d39-cf0a-4582-8f90-4b3d5914d75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[27]/following::span[7]</value>
+      <webElementGuid>117a999b-e91b-4693-9681-c05cca993a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report View'])[3]/preceding::span[1]</value>
+      <webElementGuid>2135b620-e80b-4736-87cc-5c4f51477355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Row 1 of 5'])[2]/preceding::span[8]</value>
+      <webElementGuid>cd009a77-eb5f-419f-b675-7571eb3e746a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]/div/div[5]/div[3]/div/div[5]/div[3]/span/span[2]</value>
+      <webElementGuid>43dea986-cd2d-4a63-8d31-c3306392c2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total 5' or . = 'Total 5')]</value>
+      <webElementGuid>cc376371-0bb4-49b1-8295-97f35ae2e4a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

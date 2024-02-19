@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_NZ - ERP Cloud - AP Invoice Supervisor (_986394</name>
+   <tag></tag>
+   <elementGuidId>f9581187-048c-4dde-a518-16ca11351b7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[11]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ce70be46-ff1f-4174-8adc-35bee339b331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-cell</value>
+      <webElementGuid>358e71b7-09c2-4ed6-a22b-04ef9159f469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>ROLE_NAME</value>
+      <webElementGuid>a83c7c04-8db9-42d4-8a41-39c195a12156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NZ - ERP Cloud - AP Invoice Supervisor (Approval Required)</value>
+      <webElementGuid>41cc9683-5c7d-4610-a510-41d4ac3faa1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_scopeRoles&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[11]/td[@class=&quot;t-Report-cell&quot;]</value>
+      <webElementGuid>693d4173-8b3e-40ef-ad48-cafa0974fd40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[11]/td[2]</value>
+      <webElementGuid>a8807523-bc36-460f-a0f3-f389ab4d057b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[20]/following::td[2]</value>
+      <webElementGuid>859375a3-1c61-44e2-8aec-ec219cf803d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[19]/following::td[4]</value>
+      <webElementGuid>ae024d02-b230-43e4-9ffe-1ca42248b63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NZ - ERP Cloud - AP Invoice Supervisor (Approval Required)'])[2]/preceding::td[1]</value>
+      <webElementGuid>742cab4c-d103-40e4-8a53-565f646c1621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[21]/preceding::td[4]</value>
+      <webElementGuid>d8747ad9-acff-49c6-bc72-ce6574fee6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NZ - ERP Cloud - AP Invoice Supervisor (Approval Required)']/parent::*</value>
+      <webElementGuid>1e453a64-127b-4263-8fe2-e50555edf42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[11]/td[2]</value>
+      <webElementGuid>6e7ce9a0-a572-40cf-986a-90673fc6c2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'NZ - ERP Cloud - AP Invoice Supervisor (Approval Required)' or . = 'NZ - ERP Cloud - AP Invoice Supervisor (Approval Required)')]</value>
+      <webElementGuid>144f1108-229c-4735-b8b7-25371b069621</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

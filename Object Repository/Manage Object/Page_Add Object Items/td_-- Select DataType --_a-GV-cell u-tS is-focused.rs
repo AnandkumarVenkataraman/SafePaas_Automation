@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_-- Select DataType --_a-GV-cell u-tS is-focused</name>
+   <tag></tag>
+   <elementGuidId>70b2e441-0dfe-4f35-ab67-13c500d59955</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='igSod_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[6]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.a-GV-cell.u-tS.is-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d4cdd761-4073-4892-bf99-849aeb1a4c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>9d607ae5-61d2-427b-95ca-c6eae25cbb1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>60f731b3-09a0-4a07-b07c-461ec45f2201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-focused</value>
+      <webElementGuid>df167a5c-accc-4673-97fb-3d89a007c7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;igSod_ig_grid_vc&quot;)/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table a-GV-table--checkbox&quot;]/tbody[1]/tr[@class=&quot;a-GV-row is-inserted is-hover is-selected&quot;]/td[@class=&quot;a-GV-cell u-tS is-focused&quot;]</value>
+      <webElementGuid>31b582f0-3eeb-4f0a-8975-3758cf1dc14a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='igSod_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[6]/td[3]</value>
+      <webElementGuid>4bb67f2e-0435-40d8-a04b-0129cf401b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[3]</value>
+      <webElementGuid>e4fc747b-0a15-49ad-9df5-f3cc5a30834b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

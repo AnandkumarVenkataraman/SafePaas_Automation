@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneKATALON_ADMIN</name>
+   <tag></tag>
+   <elementGuidId>762a7468-ad90-49e5-8ec1-1ea84a32d247</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P45_USER_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P45_USER_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>056c3556-9d8b-43dd-a9eb-de78f2b919b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P45_USER_ID</value>
+      <webElementGuid>e6cb7b17-3ae1-470d-9d0d-95a38e32b36c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P45_USER_ID</value>
+      <webElementGuid>b6bcea64-7cc6-4785-be34-13e127a234b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>b3772cb5-a3d4-4f1b-938d-b2e5c5127d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>516d9b01-fa97-4d35-ac0a-a07a279604a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>df09f27c-7e7c-4066-9523-d49d58dd7462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+KATALON_ADMIN
+</value>
+      <webElementGuid>5bb9f637-c184-498b-9443-21e586c1b5ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P45_USER_ID&quot;)</value>
+      <webElementGuid>c21835b5-6c73-4632-86f4-3fb00a949d01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P45_USER_ID']</value>
+      <webElementGuid>80f6af14-a817-4fe2-a006-02a8a3bed6fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P45_USER_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>5f00ad0c-4479-4265-90f9-ceb6b90d228d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::select[1]</value>
+      <webElementGuid>33300bec-a7ea-4243-92f7-df6c64693445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::select[1]</value>
+      <webElementGuid>dffdcef8-a693-4b28-b756-11cc4bdd2fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Access'])[1]/preceding::select[1]</value>
+      <webElementGuid>03ed67f3-587c-4ec9-a406-a709edc90a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KAT_ADMIN'])[1]/preceding::select[1]</value>
+      <webElementGuid>0dd1d567-3f73-401c-b9ae-d5415beb4b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d61721f5-588e-4025-9326-1637f4253507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P45_USER_ID' and @name = 'P45_USER_ID' and (text() = 'Select any one
+KATALON_ADMIN
+' or . = 'Select any one
+KATALON_ADMIN
+')]</value>
+      <webElementGuid>eecacc33-9bd5-40c0-9764-f4b0c85ed949</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

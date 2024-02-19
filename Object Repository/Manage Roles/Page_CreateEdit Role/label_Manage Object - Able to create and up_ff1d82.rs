@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Object - Able to create and up_ff1d82</name>
+   <tag></tag>
+   <elementGuidId>6ee6533b-ac5f-4bf2-a19c-d4d53a0f4f88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P43_FUNCTION_WRITE_ACCESS']/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>632bdf21-c374-4520-a681-c3c3b60d941b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>545c415f-fb6d-4c81-9f91-e22d4403242c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P43_FUNCTION_WRITE_ACCESS_2</value>
+      <webElementGuid>1692e61b-0383-48e6-8c88-e892850596bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Object - Able to create and update Object</value>
+      <webElementGuid>56dffcb6-277a-437c-a1aa-826d2a24ed2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P43_FUNCTION_WRITE_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>db2f7b6f-10f0-43ba-ab95-37c65c091132</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P43_FUNCTION_WRITE_ACCESS']/div[3]/label</value>
+      <webElementGuid>258e9852-32df-45f4-965c-a26ccbb4d3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Data Source - Able to create and update Datasource'])[1]/following::label[1]</value>
+      <webElementGuid>7d2cc9f8-9273-421c-993d-3cab7a8ac207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Snapshot - Able to Extract Snapshot'])[1]/following::label[2]</value>
+      <webElementGuid>d27a2323-be58-437b-97ea-dc589b19977b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Object Set - Able to create and update Object Set'])[1]/preceding::label[1]</value>
+      <webElementGuid>b3aaa5e7-5885-477b-8866-664621cf7fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Roles - Able to create and update Roles'])[1]/preceding::label[2]</value>
+      <webElementGuid>82e6da36-4c46-4355-8d20-00512d2ee527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Object - Able to create and update Object']/parent::*</value>
+      <webElementGuid>a4169e9a-b8f9-40f9-9c22-c4b7a132192b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div[3]/label</value>
+      <webElementGuid>6f691dfd-e743-4cc0-aac3-05b01c2c9582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Object - Able to create and update Object' or . = 'Manage Object - Able to create and update Object')]</value>
+      <webElementGuid>3f5e74c9-7a6b-49fd-86ec-3b4ed4adf42d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

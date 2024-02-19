@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>e87c705b-5d20-44c2-99b1-8c649455bb94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='igSod_ig_grid_vc_cur']/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#igSod_ig_grid_vc_cur > div.a-GV-columnItem > div.ig-simple-checkbox.ig-simple-checkbox-item.ig-simple-checkbox-enabled > div.ig-simple-checkbox.checkbox_group.apex-item-checkbox > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ffa27440-ac62-4ba0-9307-a60c86e9bb7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>C146571352911766611_0_0</value>
+      <webElementGuid>8d8c9f41-f38c-430a-aa49-5887416e5f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;igSod_ig_grid_vc_cur&quot;)/div[@class=&quot;a-GV-columnItem&quot;]/div[@class=&quot;ig-simple-checkbox ig-simple-checkbox-item ig-simple-checkbox-enabled&quot;]/div[@class=&quot;ig-simple-checkbox checkbox_group apex-item-checkbox&quot;]/label[1]</value>
+      <webElementGuid>cf401c6e-9db3-4846-9a7d-d2a22c457891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='igSod_ig_grid_vc_cur']/div/div/div/label</value>
+      <webElementGuid>c01b6ab6-6f43-42d9-ab15-ee7e6242bc60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/div/div/label</value>
+      <webElementGuid>3c91ab7c-d814-401b-bd30-667560db1f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

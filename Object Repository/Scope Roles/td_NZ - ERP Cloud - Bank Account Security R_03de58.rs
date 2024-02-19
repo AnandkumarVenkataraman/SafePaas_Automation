@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_NZ - ERP Cloud - Bank Account Security R_03de58</name>
+   <tag></tag>
+   <elementGuidId>49df3ac4-a311-46ac-ac89-60f215c56980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[13]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>180b8e5f-c5f3-49e2-8c72-1e9dc8211ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-cell</value>
+      <webElementGuid>00100d33-532a-4c67-a2e4-93ea51548814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>ROLE_NAME</value>
+      <webElementGuid>ee4a5d1f-c98d-4201-9c51-df00ed4970b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NZ - ERP Cloud - Bank Account Security Role (Approval Required)</value>
+      <webElementGuid>fcb34df9-0b65-49bd-a541-81021a277cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_scopeRoles&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[13]/td[@class=&quot;t-Report-cell&quot;]</value>
+      <webElementGuid>3cdf1da5-734e-4db0-8b14-57c540d4bf45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[13]/td[2]</value>
+      <webElementGuid>18de9007-09d5-4434-8a58-65edc6157ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[24]/following::td[2]</value>
+      <webElementGuid>0c5ed057-79db-405f-8071-a199955e5804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[23]/following::td[4]</value>
+      <webElementGuid>153f6b6d-d443-4494-8089-f24fdb3abbb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NZ - ERP Cloud - Bank Account Security Role (Approval Required)'])[2]/preceding::td[1]</value>
+      <webElementGuid>6cb619e7-8765-403b-bef7-29d93457dd3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[25]/preceding::td[4]</value>
+      <webElementGuid>7765cd88-0f1a-435e-96a1-4b060202a899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NZ - ERP Cloud - Bank Account Security Role (Approval Required)']/parent::*</value>
+      <webElementGuid>314adade-9fa1-4b12-8fc7-978887b9ebeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td[2]</value>
+      <webElementGuid>cb7f1971-4f34-4dba-80f2-b28cc0f1d3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'NZ - ERP Cloud - Bank Account Security Role (Approval Required)' or . = 'NZ - ERP Cloud - Bank Account Security Role (Approval Required)')]</value>
+      <webElementGuid>04831331-6331-4e75-8711-8f8539796d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

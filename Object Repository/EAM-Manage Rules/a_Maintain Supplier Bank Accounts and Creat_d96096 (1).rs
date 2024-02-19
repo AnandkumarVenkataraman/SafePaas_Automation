@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Maintain Supplier Bank Accounts and Creat_d96096 (1)</name>
+   <tag></tag>
+   <elementGuidId>dbc16fef-51c3-4576-a9e7-120e4d22df5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_R248216521157003604']/div/div/table/tbody/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.t-Report-cell > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5b79cfda-8901-4f40-ac19-e29a486eba0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:8796765673256:::9:P9_RULE_REV_ID,P9_RULE_ID:18729,17466</value>
+      <webElementGuid>07d5d39f-de98-4936-9578-e4ec68ff6410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maintain Supplier Bank Accounts and Create Payables Invoices</value>
+      <webElementGuid>9babb6f7-c2ad-45eb-9c4d-5f4cd830b9aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_R248216521157003604&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[1]/td[@class=&quot;t-Report-cell&quot;]/a[1]</value>
+      <webElementGuid>f5179cec-bb6d-408a-adec-28179294ea87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_R248216521157003604']/div/div/table/tbody/tr/td/a</value>
+      <webElementGuid>e827e113-f44a-4e79-8eb0-05c2d54bb3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Maintain Supplier Bank Accounts and Create Payables Invoices')]</value>
+      <webElementGuid>3ef215f0-58b5-4cd7-8adb-016960a03604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Status'])[2]/following::a[1]</value>
+      <webElementGuid>e3099a82-1fe8-4c97-bef4-63b7c9d2fee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated By'])[2]/following::a[2]</value>
+      <webElementGuid>9ab49199-919e-4db4-a986-099f6dcaf566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintain Supplier Bank Accounts and Create Payables Invoices'])[4]/preceding::a[1]</value>
+      <webElementGuid>28ffd59c-3924-4fbf-8d98-f55b6a9a3475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[2]/preceding::a[1]</value>
+      <webElementGuid>0ac95d51-2263-4f61-a15c-ae502fd61355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:8796765673256:::9:P9_RULE_REV_ID,P9_RULE_ID:18729,17466')]</value>
+      <webElementGuid>72824871-60c2-42c5-981e-57fc2f7a8b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>108f674f-c6fa-484f-9704-3f0793956584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:8796765673256:::9:P9_RULE_REV_ID,P9_RULE_ID:18729,17466' and (text() = 'Maintain Supplier Bank Accounts and Create Payables Invoices' or . = 'Maintain Supplier Bank Accounts and Create Payables Invoices')]</value>
+      <webElementGuid>6ec1489d-01a7-4a67-adc2-f33032151227</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

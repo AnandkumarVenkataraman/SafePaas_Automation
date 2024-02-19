@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Snapshot - Able to Extract Snapshot</name>
+   <tag></tag>
+   <elementGuidId>8eca5487-ca24-4ead-a3c7-9cd796baafd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P43_FUNCTION_WRITE_ACCESS > div.apex-item-option > label.u-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P43_FUNCTION_WRITE_ACCESS']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6fd31e62-2ffb-4be6-9e49-921642116060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>44ae7235-97f6-41a8-a817-a13f49c93f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P43_FUNCTION_WRITE_ACCESS_0</value>
+      <webElementGuid>8bbf6d6c-d766-4138-8378-9640953bca95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Snapshot - Able to Extract Snapshot</value>
+      <webElementGuid>b1dc67e1-851f-4119-8019-516c14451e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P43_FUNCTION_WRITE_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>2279bcdd-15aa-45a4-bc08-d3911acdcb36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P43_FUNCTION_WRITE_ACCESS']/div/label</value>
+      <webElementGuid>1ee53038-b6c5-4f2e-bb8c-891fbb8451b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Function Write Access'])[1]/following::label[1]</value>
+      <webElementGuid>ec205d4d-bbaa-48bb-8577-80026225f48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles - View only Assign Roles'])[1]/following::label[1]</value>
+      <webElementGuid>3f55f930-b589-49ec-945c-1f46fea19182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Data Source - Able to create and update Datasource'])[1]/preceding::label[1]</value>
+      <webElementGuid>ce0681e8-fd2c-4535-a550-655c9c3a28c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Object - Able to create and update Object'])[1]/preceding::label[2]</value>
+      <webElementGuid>8f2c2beb-6681-467a-93c7-0cee211286be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Snapshot - Able to Extract Snapshot']/parent::*</value>
+      <webElementGuid>a5209ab9-0c00-4b99-84a5-4f8684689162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>828fca01-fdcb-4816-a6e3-af1a38eb3425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Snapshot - Able to Extract Snapshot' or . = 'Manage Snapshot - Able to Extract Snapshot')]</value>
+      <webElementGuid>b0c2376a-c73a-4752-8798-260eeaac9e7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

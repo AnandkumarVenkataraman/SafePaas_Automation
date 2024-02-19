@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_NZ - ERP Cloud - GL Close Coordinator (A_fe2504</name>
+   <tag></tag>
+   <elementGuidId>b143a7d1-af3f-429f-9521-591330d79422</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[8]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a09e8a0c-3991-4820-94b5-4c65f241da75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-cell</value>
+      <webElementGuid>c9e33d78-7677-4bb8-a755-559a8593e396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>ROLE_NAME</value>
+      <webElementGuid>e28d03e6-2972-4a4f-961a-8f9a275731bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NZ - ERP Cloud - GL Close Coordinator (Approval Required)</value>
+      <webElementGuid>fe3a6d0b-4adb-40c5-a155-53fc5050d73c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_scopeRoles&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[8]/td[@class=&quot;t-Report-cell&quot;]</value>
+      <webElementGuid>c053f06a-348e-4a29-8d38-c018306cddab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_scopeRoles']/div/div/table/tbody/tr[8]/td[2]</value>
+      <webElementGuid>1c9c0e33-f5a5-41cd-8c48-ea5f7d4db25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[14]/following::td[2]</value>
+      <webElementGuid>84dd2893-efb3-4f7f-ac1e-e05029732c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[13]/following::td[4]</value>
+      <webElementGuid>c5600d68-327d-4eb1-8e0d-e8b74f5f8deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NZ - ERP Cloud - GL Close Coordinator (Approval Required)'])[2]/preceding::td[1]</value>
+      <webElementGuid>58baf4a9-4c4c-4d10-8821-4f8200ced0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[15]/preceding::td[4]</value>
+      <webElementGuid>fda993da-554c-45d7-8c41-87bd144a910d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NZ - ERP Cloud - GL Close Coordinator (Approval Required)']/parent::*</value>
+      <webElementGuid>429c782b-76b6-4ec5-9efe-b014ad0850e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]</value>
+      <webElementGuid>ed7734a8-7a17-46c4-84c9-377d4fc12774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'NZ - ERP Cloud - GL Close Coordinator (Approval Required)' or . = 'NZ - ERP Cloud - GL Close Coordinator (Approval Required)')]</value>
+      <webElementGuid>44fb5b35-6831-42db-b805-690335f07fbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Purchase Agreements vs. Manage Pay_34abea</name>
+   <tag></tag>
+   <elementGuidId>3e0992ed-d8d7-4f4b-ae4c-e231c35530d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[9]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>84fd0b46-45bd-451f-8ad4-7aad33fea430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18789,17467,7</value>
+      <webElementGuid>3d111974-49f3-48b4-bb2f-f3ce471424d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Purchase Agreements vs. Manage Payables Activities</value>
+      <webElementGuid>38e3ce07-2422-4d84-8fad-0142e31837e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[9]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>11baa148-2d64-4730-bcdb-f13614a1884e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[9]/td/a</value>
+      <webElementGuid>02f1478c-b680-4cbe-9173-e3ce19d41153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create Purchase Agreements vs. Manage Payables Activities')]</value>
+      <webElementGuid>7943efb6-929e-4b0a-8944-bba64828f30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[7]/following::a[1]</value>
+      <webElementGuid>04da6387-2960-4db5-a877-53924b6e93f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EAM_USER1'])[7]/following::a[1]</value>
+      <webElementGuid>8b55c6c6-04fe-4929-95ba-0b0c75aadec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Purchase Agreements vs. Manage Payables Activities'])[2]/preceding::a[1]</value>
+      <webElementGuid>b30be0bf-75df-42f4-8516-f5d4729af9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[5]/preceding::a[1]</value>
+      <webElementGuid>e298e58e-2b37-4c73-b374-a64c0d7d2012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Purchase Agreements vs. Manage Payables Activities']/parent::*</value>
+      <webElementGuid>a5d03f7d-250a-4a7a-bc65-14b80351e703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18789,17467,7')]</value>
+      <webElementGuid>93c38282-f432-4de8-9bdc-8953cac21731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td/a</value>
+      <webElementGuid>d47c1f45-47a6-4330-a0ea-cf1a4abd47a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18789,17467,7' and (text() = 'Create Purchase Agreements vs. Manage Payables Activities' or . = 'Create Purchase Agreements vs. Manage Payables Activities')]</value>
+      <webElementGuid>97fee8f7-f0ee-40f7-9a1e-064ba39fbfe5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

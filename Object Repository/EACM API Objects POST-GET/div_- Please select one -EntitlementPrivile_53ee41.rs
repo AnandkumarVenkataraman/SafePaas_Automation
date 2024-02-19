@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_- Please select one -EntitlementPrivile_53ee41</name>
+   <tag></tag>
+   <elementGuidId>8f5b23a1-859f-4ea1-b1d1-a09ee40009c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P33_SUPP_MAX_HIERARCHY_CONTAINER']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P33_SUPP_MAX_HIERARCHY_CONTAINER > div.t-Form-inputContainer.col.col-4 > div.t-Form-itemWrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b631222f-8f43-4cf9-b6e7-181e72f2cff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-itemWrapper</value>
+      <webElementGuid>695d073a-48b0-4ebe-9c6e-44fbc6f63241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select one -
+Entitlement
+Privilege
+Role
+it
+</value>
+      <webElementGuid>d68e0b10-6069-456b-b1aa-28f25d25fb7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P33_SUPP_MAX_HIERARCHY_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-4&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]</value>
+      <webElementGuid>085f8be9-bcee-46dc-9417-7ca68ca9548c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P33_SUPP_MAX_HIERARCHY_CONTAINER']/div[2]/div</value>
+      <webElementGuid>b88c7489-aa9c-48cd-9de1-fea2fa46eba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stop Second Datasource Hierarchy at Entry Type'])[1]/following::div[2]</value>
+      <webElementGuid>33ad8aea-5abb-4fe4-9ede-8dd47b6d6065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary Datasource'])[1]/following::div[7]</value>
+      <webElementGuid>ff60e386-b7a7-4e69-a998-7321e4deb297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main Table'])[1]/preceding::div[1]</value>
+      <webElementGuid>3e6be695-c835-46a5-bb45-cbd9c2a3530c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Links'])[1]/preceding::div[7]</value>
+      <webElementGuid>7ec7ea74-0713-4414-811d-193abc3d5adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>d0783fc4-d593-412e-9764-7b27a3ff2f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '- Please select one -
+Entitlement
+Privilege
+Role
+it
+' or . = '- Please select one -
+Entitlement
+Privilege
+Role
+it
+')]</value>
+      <webElementGuid>b273b09c-0033-4134-9dec-1e9c23068a81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

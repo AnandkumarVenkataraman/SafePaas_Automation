@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Select Paginationrow(s) 1 - 15 of 2016 -_a668d2</name>
+   <tag></tag>
+   <elementGuidId>23ef2c4a-4252-4bf1-a09b-480518c30a7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_scopeRoles']/div/table[2]/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.t-Report-pagination.t-Report-pagination--bottom > tbody > tr > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e93d0cb5-5128-4e57-86fb-4a04382992ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>caaf635e-ad99-4a6a-84d3-bc4860e785c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>right</value>
+      <webElementGuid>4d2562f1-9cae-424c-aded-11c937a221a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Paginationrow(s) 1 - 15 of 2016 - 20 of 20
+  Next
+</value>
+      <webElementGuid>ddafa229-9776-476d-8619-49284fddc28f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_scopeRoles&quot;)/div[@class=&quot;t-Report-wrap&quot;]/table[@class=&quot;t-Report-pagination t-Report-pagination--bottom&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>14762440-90f1-44a0-8682-f452d600f694</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_scopeRoles']/div/table[2]/tbody/tr/td</value>
+      <webElementGuid>b67d2352-e570-4be0-b2ee-668eb68277ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[30]/following::td[1]</value>
+      <webElementGuid>6129dbcd-0ad6-443d-99d8-54fc9f74c4cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[29]/following::td[3]</value>
+      <webElementGuid>86354f31-7549-4fcb-a338-f8f7122fffd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td</value>
+      <webElementGuid>92622a78-eefc-40d0-9f45-05e4d19baaaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Select Paginationrow(s) 1 - 15 of 2016 - 20 of 20
+  Next
+' or . = 'Select Paginationrow(s) 1 - 15 of 2016 - 20 of 20
+  Next
+')]</value>
+      <webElementGuid>18d6fc1a-1e6e-42b6-9b80-44eb729a6b4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

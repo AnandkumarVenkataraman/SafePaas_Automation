@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Primary owner</name>
+   <tag></tag>
+   <elementGuidId>bd0daa95-0ed5-4e82-b65e-db40af60dae2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C163796619047746488']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C163796619047746488 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>778cd4e4-d705-41e8-b1be-791bb1815c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>17bfdba2-2001-493d-aef3-3a9a62bdc484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>163796619047746488</value>
+      <webElementGuid>79874f14-f624-4e9c-bada-246880d5446e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>047ca8f1-28e6-4318-95c5-2a6e2f6089c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Primary owner</value>
+      <webElementGuid>d78f7860-61e5-4536-bcd1-69a92e4d287f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;325069098919960516&quot;)/tr[1]/th[@id=&quot;C163796619047746488&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>67ff03b9-9055-460e-b0ce-7dcae49c0402</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C163796619047746488']/a</value>
+      <webElementGuid>c5baa042-44b5-4c1e-a81e-7dd1af95a909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Primary owner')]</value>
+      <webElementGuid>e2bacaa5-6109-4f4d-9e9e-71cbd07a60de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::a[1]</value>
+      <webElementGuid>4940e3f7-2e92-4e9a-ba42-e7ded963a6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::a[2]</value>
+      <webElementGuid>fd15182e-c93a-4aef-8bef-587d1e7eef0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary owner'])[4]/preceding::a[1]</value>
+      <webElementGuid>bf718607-84f3-4649-be58-58f1c96fb198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by'])[1]/preceding::a[2]</value>
+      <webElementGuid>ee96c180-d9b6-4e0b-b8a6-cf577fb6d8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/a</value>
+      <webElementGuid>959c9a8b-e058-40c6-9aa5-77627c70bb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Primary owner' or . = 'Primary owner')]</value>
+      <webElementGuid>0db9c2fd-1c17-4f94-b1f0-4bdc75e3c771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

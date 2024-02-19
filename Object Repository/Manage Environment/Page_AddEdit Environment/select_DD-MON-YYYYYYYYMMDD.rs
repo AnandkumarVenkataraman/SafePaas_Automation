@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_DD-MON-YYYYYYYYMMDD</name>
+   <tag></tag>
+   <elementGuidId>18691219-e8ed-478a-b3c3-c33a2a8541e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P13_DATE_FORMAT']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_DATE_FORMAT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>08497b46-4b4a-4e46-956a-aa4a8c4661ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P13_DATE_FORMAT</value>
+      <webElementGuid>a2a76298-b9f0-4578-9ec8-a3a53cd02320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P13_DATE_FORMAT</value>
+      <webElementGuid>9ec0c1c5-9a4e-4b76-9fea-4e4c329a3233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>21a4d8f6-8f68-488e-a8db-680afe4a5bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>85fd48b1-68ca-4bb4-b546-f216a760ea7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f42d6a79-7778-45df-af72-4f81765880d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DD-MON-YYYY
+YYYYMMDD
+</value>
+      <webElementGuid>06574211-e873-4c71-a25b-0b076c4b9d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_DATE_FORMAT&quot;)</value>
+      <webElementGuid>e55ee76c-5767-4577-968e-1185ed84e8bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P13_DATE_FORMAT']</value>
+      <webElementGuid>910ba703-338e-44f2-9736-f260da6d06b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P13_DATE_FORMAT_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>a9a16c85-c168-4bd4-90b7-04d34732d79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Format'])[1]/following::select[1]</value>
+      <webElementGuid>8508ad20-871d-4ef9-a326-6d51a606b381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consolidated Level'])[1]/following::select[1]</value>
+      <webElementGuid>0af2c198-f9cd-4ce1-b13e-9d352e37ad91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Enabled'])[1]/preceding::select[1]</value>
+      <webElementGuid>0a87dd5f-0de2-4a34-8f14-b0fda73735a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Certification'])[2]/preceding::select[1]</value>
+      <webElementGuid>0a5ef4e5-d68f-492c-864e-c0efaf9e34e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>23bb447b-3c5c-46cf-b0bb-76c2848f4d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P13_DATE_FORMAT' and @name = 'P13_DATE_FORMAT' and (text() = 'DD-MON-YYYY
+YYYYMMDD
+' or . = 'DD-MON-YYYY
+YYYYMMDD
+')]</value>
+      <webElementGuid>7cf078c5-290e-4e13-855b-2b288842d7c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Receipt Accounting vs. Enter Accounts Rec_b0800f</name>
+   <tag></tag>
+   <elementGuidId>8ae799a2-bc33-4dc3-b117-5bde49e7529c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[6]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>53fbb6ad-9d00-4b3d-8aaa-0318341e0f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18999,18991,7</value>
+      <webElementGuid>33710fc9-f8a8-48ce-8b5b-6ddf95185bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Receipt Accounting vs. Enter Accounts Receivables Invoice Rule</value>
+      <webElementGuid>63f0148c-7057-4f6a-bb5c-463a3d8918d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[6]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>63bb3315-9590-4e63-9c65-8dba84ff1837</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[6]/td/a</value>
+      <webElementGuid>37c0ac2e-7448-465d-bb36-a050d33e538b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Receipt Accounting vs. Enter Accounts Receivables Invoice Rule')]</value>
+      <webElementGuid>6a96322b-a48c-4912-8416-97b6da3bf095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[4]/following::a[1]</value>
+      <webElementGuid>34ebaa96-cb19-43d8-9607-594101e7a1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[4]/following::a[1]</value>
+      <webElementGuid>b1073603-fbac-4944-9f90-fb946b024973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt Accounting vs. Enter Accounts Receivables Invoice Rule'])[2]/preceding::a[1]</value>
+      <webElementGuid>ee47387b-a057-43b6-86f0-128ab53d98c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[3]/preceding::a[1]</value>
+      <webElementGuid>0251f2d5-0b17-4a05-81e5-62e3441efb66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Receipt Accounting vs. Enter Accounts Receivables Invoice Rule']/parent::*</value>
+      <webElementGuid>86cefe45-1b76-47a6-a4d3-1856cf8a9f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18999,18991,7')]</value>
+      <webElementGuid>b20ceccf-2193-4827-8b9b-65fd78c188fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td/a</value>
+      <webElementGuid>82123e06-d6f9-4177-8255-0fe016b6e245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18999,18991,7' and (text() = 'Receipt Accounting vs. Enter Accounts Receivables Invoice Rule' or . = 'Receipt Accounting vs. Enter Accounts Receivables Invoice Rule')]</value>
+      <webElementGuid>785e3010-356b-4dbf-9890-d345f0adc30e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

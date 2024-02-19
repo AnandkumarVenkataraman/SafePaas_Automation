@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OK</name>
+   <tag></tag>
+   <elementGuidId>a3caeb2b-5d1c-439f-9967-0fe978de98fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[74]/div[3]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[74]/div[3]/div/button[2]</value>
+      <webElementGuid>19acaa50-6c4b-40be-9283-390e68280402</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

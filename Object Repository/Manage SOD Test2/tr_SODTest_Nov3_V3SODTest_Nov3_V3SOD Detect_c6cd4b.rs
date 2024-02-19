@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_SODTest_Nov3_V3SODTest_Nov3_V3SOD Detect_c6cd4b</name>
+   <tag></tag>
+   <elementGuidId>425a6499-f03c-4ab9-b520-14c2d88b520c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='169645300712451664']/tbody/tr[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>d5aff792-da0f-440b-9f86-21139dadbb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    SODTest_Nov3_V3SODTest_Nov3_V3SOD Detective1003-NOV-23 10:1703-NOV-23 10:22Closed03-NOV-23KTLN_EAM_USER1Test Log</value>
+      <webElementGuid>1ea56d1b-a433-415d-b673-51bc0f58fe7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;169645300712451664&quot;)/tbody[1]/tr[3]</value>
+      <webElementGuid>083629b0-0db9-46a5-9d2e-fb4bbc892228</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='169645300712451664']/tbody/tr[3]</value>
+      <webElementGuid>33fea179-a577-460d-b375-d5a42a31205d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Log'])[1]/following::tr[1]</value>
+      <webElementGuid>4ff0e40b-781e-4955-82b3-ebd284896ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EAM_USER1'])[1]/following::tr[1]</value>
+      <webElementGuid>43c26dd9-71b5-4f17-9e5b-95e3d8ec0433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]</value>
+      <webElementGuid>c699881f-94b7-40fc-b308-ac97a31ec78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = '    SODTest_Nov3_V3SODTest_Nov3_V3SOD Detective1003-NOV-23 10:1703-NOV-23 10:22Closed03-NOV-23KTLN_EAM_USER1Test Log' or . = '    SODTest_Nov3_V3SODTest_Nov3_V3SOD Detective1003-NOV-23 10:1703-NOV-23 10:22Closed03-NOV-23KTLN_EAM_USER1Test Log')]</value>
+      <webElementGuid>908db8e7-e4fe-4be8-b0ee-e0b03bf90f7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

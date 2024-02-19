@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Setup General Ledger Activities vs. Manag_c2e912</name>
+   <tag></tag>
+   <elementGuidId>93e1e0b0-b02a-4f80-922b-167af360e98d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[11]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ce97a796-2302-4128-81b9-e179ae461403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18994,17406,7</value>
+      <webElementGuid>0197b75c-95ed-4ec0-8869-a8b03e7f604a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setup General Ledger Activities vs. Manage Payables Activities Rule</value>
+      <webElementGuid>9cb1ded0-83e2-4cb0-9baa-7e30c89ff5b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[11]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>251280fd-6c5e-40a1-9612-54509619cfb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[11]/td/a</value>
+      <webElementGuid>99e43fc5-cd5a-4942-a1d9-9318360f06ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Setup General Ledger Activities vs. Manage Payables Activities Rule')]</value>
+      <webElementGuid>ce02d954-5d77-4c8b-85a0-c12d41e49f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[9]/following::a[1]</value>
+      <webElementGuid>3f82442f-04ba-4994-a4ac-fd2011686860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EAM_USER1'])[9]/following::a[1]</value>
+      <webElementGuid>041dc035-d9f3-4cfb-a7f0-91f48fc6ac4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup General Ledger Activities vs. Manage Payables Activities Rule'])[2]/preceding::a[1]</value>
+      <webElementGuid>9cac5931-f61e-4f32-99bb-9a7ba6041d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[7]/preceding::a[1]</value>
+      <webElementGuid>2cce3f7c-0706-405a-bad5-520716950a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Setup General Ledger Activities vs. Manage Payables Activities Rule']/parent::*</value>
+      <webElementGuid>00f0578b-d617-456e-b761-6d4ec6051418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18994,17406,7')]</value>
+      <webElementGuid>37bb6ee2-da8e-4f91-91a8-182344047c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[11]/td/a</value>
+      <webElementGuid>79535f66-6298-4ada-974c-c88c297cba26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18994,17406,7' and (text() = 'Setup General Ledger Activities vs. Manage Payables Activities Rule' or . = 'Setup General Ledger Activities vs. Manage Payables Activities Rule')]</value>
+      <webElementGuid>33bbaff2-5fc8-4021-96fd-aed9c7d2bd26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

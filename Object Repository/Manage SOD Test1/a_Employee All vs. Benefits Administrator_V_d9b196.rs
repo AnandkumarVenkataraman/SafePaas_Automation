@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Employee All vs. Benefits Administrator_V_d9b196</name>
+   <tag></tag>
+   <elementGuidId>e508a8ba-96b0-48e5-b57c-494d3f3e6165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[5]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71e4987b-0ea0-474c-ac22-c4c84c8d6d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:4055586565363::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18948,17406,7</value>
+      <webElementGuid>550f07a6-d2c8-4298-900a-40ca3071c674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee All vs. Benefits Administrator_ViewAll Rule</value>
+      <webElementGuid>ed3aa63c-afaf-4b50-84f5-79d529a48ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[5]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>3ba97b46-0668-4ef6-9087-c6013b489628</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[5]/td/a</value>
+      <webElementGuid>7192e220-6f4c-489b-90ff-10a1c13a5d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Employee All vs. Benefits Administrator_ViewAll Rule')]</value>
+      <webElementGuid>c95e514d-2e39-4513-8755-1ab800ad07ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[3]/following::a[1]</value>
+      <webElementGuid>a2d48a1d-8db2-4cc5-9ff7-4a95959e99f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EAM_USER1'])[3]/following::a[1]</value>
+      <webElementGuid>359b9035-7ab2-43df-a947-c5dc0c8e4037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[3]/preceding::a[1]</value>
+      <webElementGuid>59f0a336-5e06-4bfb-b6df-6314163ae764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incompatible Sets'])[4]/preceding::a[1]</value>
+      <webElementGuid>130cc3c9-0d95-4956-96dd-05ca06969c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employee All vs. Benefits Administrator_ViewAll Rule']/parent::*</value>
+      <webElementGuid>7e1ee112-e839-4ac8-91e6-df067cf9befd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:4055586565363::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18948,17406,7')]</value>
+      <webElementGuid>67f5f3a1-1585-437c-992a-b3bec87a43b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td/a</value>
+      <webElementGuid>4426e2f1-0df9-4886-8589-d599e5ac4ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:4055586565363::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18948,17406,7' and (text() = 'Employee All vs. Benefits Administrator_ViewAll Rule' or . = 'Employee All vs. Benefits Administrator_ViewAll Rule')]</value>
+      <webElementGuid>e28baaf4-18ef-45b6-858f-cc4b36d9ad90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

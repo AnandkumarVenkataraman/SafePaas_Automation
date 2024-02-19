@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneKTLN_APRIL18_V3KTLN_AP_2323e8</name>
+   <tag></tag>
+   <elementGuidId>2e3f89cb-d0c2-40de-871d-60e77a54b667</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P74_REQUEST_NAME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P74_REQUEST_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6bdf31de-0234-400b-81cb-4c38f9240090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P74_REQUEST_NAME</value>
+      <webElementGuid>b9419adc-7cbb-4a9d-9a80-88fc78de78fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P74_REQUEST_NAME</value>
+      <webElementGuid>5d6bd4f2-2bf3-43fb-bda5-4b6ec105145c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>dabee612-18c7-44b4-ab26-b1150c22dc7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>eeb403d6-9993-4a91-8f20-9d23d3037c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>89859546-8ccd-426b-a3f7-5afc060274d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P74_REQUEST_NAME');</value>
+      <webElementGuid>94297461-4b76-4aa5-bade-6b19865993c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+KTLN_APRIL18_V3
+KTLN_APRIL18_V2
+KTLN_APRIL18_V1
+KTLN_APR17_V2
+KTLN_APR17_V1
+</value>
+      <webElementGuid>60ce5e92-81a4-4d8c-81ac-0caa80914c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P74_REQUEST_NAME&quot;)</value>
+      <webElementGuid>8a6a52f6-6286-4024-b124-da7c6b03ff7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P74_REQUEST_NAME']</value>
+      <webElementGuid>5880b5ae-0df4-43f6-bf85-00f2efe77a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P74_REQUEST_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>4ff4f1ba-6ba0-4afa-a15f-ce51aebfdec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/following::select[1]</value>
+      <webElementGuid>aae12bcd-d8ea-469f-be93-6351b28160a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Violation'])[4]/preceding::select[1]</value>
+      <webElementGuid>fc5eaf3b-21f3-4f73-8783-e8948467a3f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mass Update Exceptions'])[1]/preceding::select[1]</value>
+      <webElementGuid>7661d529-3f81-471b-8d3c-517c189d5c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/select</value>
+      <webElementGuid>f68bfe04-b0a4-47b1-ac76-2df2124c81e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P74_REQUEST_NAME' and @name = 'P74_REQUEST_NAME' and (text() = 'Select any One
+KTLN_APRIL18_V3
+KTLN_APRIL18_V2
+KTLN_APRIL18_V1
+KTLN_APR17_V2
+KTLN_APR17_V1
+' or . = 'Select any One
+KTLN_APRIL18_V3
+KTLN_APRIL18_V2
+KTLN_APRIL18_V1
+KTLN_APR17_V2
+KTLN_APR17_V1
+')]</value>
+      <webElementGuid>918b80d9-aecd-4a39-8274-9071b483c87f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

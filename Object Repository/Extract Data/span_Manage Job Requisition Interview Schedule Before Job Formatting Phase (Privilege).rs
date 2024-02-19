@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manage Job Requisition Interview Schedule Before Job Formatting Phase (Privilege)</name>
+   <tag></tag>
+   <elementGuidId>e473f705-4d6a-4e22-b60b-b51c6f95817c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-TreeView-label.is-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tree255723123294765918_2']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>556c58dc-3ca7-44af-9865-ce3d7ad8deac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b138a574-a830-4f29-b5a9-845d101f41f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>e5f236b4-0149-4115-b5f0-8430de6852a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label is-focused</value>
+      <webElementGuid>a0c1d5db-2605-4ab2-9047-596848295960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a7f73433-a2ce-4a43-a88d-f32553c74d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>88655b20-6e76-46e5-84b9-fee6dd6207cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Job Requisition Interview Schedule Before Job Formatting Phase (Privilege)</value>
+      <webElementGuid>a8425368-c9af-4eee-afc1-df2270ace556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree255723123294765918_2&quot;)/div[@class=&quot;a-TreeView-content&quot;]/span[@class=&quot;a-TreeView-label is-focused&quot;]</value>
+      <webElementGuid>260ce41d-0bca-44b8-a7a2-dd1cbd400e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tree255723123294765918_2']/div[2]/span</value>
+      <webElementGuid>69a61aaa-a4b8-44a4-ba9a-82da14a16073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Candidates Lists (Privilege)'])[1]/following::span[1]</value>
+      <webElementGuid>89a34b3d-80ea-4c33-b8ce-71486ade902a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruiting Manager[ORA_IRC_RECRUITING_MANAGER_JOB] (Role)'])[1]/following::span[2]</value>
+      <webElementGuid>6a049eeb-5f5c-4c15-9cef-d6a298fedc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Candidate Job Offer Letter (Privilege)'])[1]/preceding::span[1]</value>
+      <webElementGuid>ff591f41-1688-4e9a-9015-6fffee80c341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Job Requisition After Draft Phase (Privilege)'])[1]/preceding::span[2]</value>
+      <webElementGuid>5a001bf5-59c2-4b52-b3bf-2e8b82999584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Job Requisition Interview Schedule Before Job Formatting Phase (Privilege)']/parent::*</value>
+      <webElementGuid>6124c466-b7bd-4f31-bbbf-0cb82416288a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/ul/li[2]/div[2]/span</value>
+      <webElementGuid>4ebfc0b0-1a36-4751-aabb-5f48a4cbb238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manage Job Requisition Interview Schedule Before Job Formatting Phase (Privilege)' or . = 'Manage Job Requisition Interview Schedule Before Job Formatting Phase (Privilege)')]</value>
+      <webElementGuid>9c457ec6-598b-46aa-8c40-d9de1316a7a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

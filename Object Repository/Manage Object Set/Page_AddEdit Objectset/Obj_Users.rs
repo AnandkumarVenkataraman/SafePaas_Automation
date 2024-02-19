@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Obj_Users</name>
+   <tag></tag>
+   <elementGuidId>c0e5e362-2b7d-4669-9fb3-e0d67bbbd7e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div[1]/table/tbody/tr[1]/td[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div[1]/table/tbody/tr[1]/td[3]/select</value>
+      <webElementGuid>170f808f-40b7-4436-a999-61da58033546</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

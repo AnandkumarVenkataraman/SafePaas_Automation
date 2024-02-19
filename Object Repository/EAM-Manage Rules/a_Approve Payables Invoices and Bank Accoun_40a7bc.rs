@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Approve Payables Invoices and Bank Accoun_40a7bc</name>
+   <tag></tag>
+   <elementGuidId>3270eab0-a63f-43f6-a020-8e3eb562ea55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[2]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>897b3f3f-8296-435e-b2e7-444d5fc445aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:8796765673256::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18786,18751,7</value>
+      <webElementGuid>7d0d7946-b050-48fe-9141-2641017c165f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve Payables Invoices and Bank Account Reconciliation</value>
+      <webElementGuid>60cb173f-63d4-4309-bcfd-76456324ced3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>ee35c173-8fa5-4526-a5e4-502b91088fd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[2]/td/a</value>
+      <webElementGuid>27039356-1e88-4df3-819e-6fbfc74f86c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Approve Payables Invoices and Bank Account Reconciliation')]</value>
+      <webElementGuid>af3cd1d5-4b67-4581-9ac4-d214c50f5d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::a[16]</value>
+      <webElementGuid>84defc62-5048-4af6-b8c4-93476dd7def1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::a[16]</value>
+      <webElementGuid>7dee0889-87f0-411a-b4bc-df92ccea2c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve Payables Invoices and Bank Account Reconciliation'])[2]/preceding::a[1]</value>
+      <webElementGuid>9c2cb327-362f-41a7-9fa1-64a91389e1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEDIUM'])[1]/preceding::a[1]</value>
+      <webElementGuid>5342381f-1f7e-410c-9191-d604f8f07acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve Payables Invoices and Bank Account Reconciliation']/parent::*</value>
+      <webElementGuid>a12ebf0d-52e4-43db-8d1a-ec538d91214a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:8796765673256::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18786,18751,7')]</value>
+      <webElementGuid>6f3f56dc-b543-4bbb-876b-88d1c4982023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>3a52efbe-3c43-45f2-8479-c2054395389b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:8796765673256::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:18786,18751,7' and (text() = 'Approve Payables Invoices and Bank Account Reconciliation' or . = 'Approve Payables Invoices and Bank Account Reconciliation')]</value>
+      <webElementGuid>104dd816-8e44-4fd1-86ff-f5251677cc5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

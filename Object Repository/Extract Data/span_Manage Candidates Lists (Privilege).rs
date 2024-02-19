@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manage Candidates Lists (Privilege)</name>
+   <tag></tag>
+   <elementGuidId>230f95e3-e8db-4e40-ab6c-74cd7ac99d22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-TreeView-label.is-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tree255723123294765918_1']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fcdcc124-8ad3-4247-89b8-954bd2a68b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d0efeee1-2edf-4b22-9626-b578fb92d0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>193ba593-77c6-4c5c-b83e-69d7db69ce99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label is-focused</value>
+      <webElementGuid>8df5eed9-6f12-4bd7-88ad-ce5126a609c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>cbea7fc4-4e81-49f6-9d71-97d441850f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>50ef7497-9f28-41ce-91bd-8226a3d6d49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Candidates Lists (Privilege)</value>
+      <webElementGuid>757c0ceb-46a8-4a31-8c1e-b9f77c565f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree255723123294765918_1&quot;)/div[@class=&quot;a-TreeView-content&quot;]/span[@class=&quot;a-TreeView-label is-focused&quot;]</value>
+      <webElementGuid>c8837288-bf71-49bd-a1b2-fbeea1fbfc2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tree255723123294765918_1']/div[2]/span</value>
+      <webElementGuid>d78d08f8-92b5-49bb-ac90-ab353a754bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruiting Manager[ORA_IRC_RECRUITING_MANAGER_JOB] (Role)'])[1]/following::span[1]</value>
+      <webElementGuid>8704b9a6-dcb2-4fb8-9a96-8abe316e735a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::span[4]</value>
+      <webElementGuid>5a32986b-ec9d-49b8-8f0e-7e401e641ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Job Requisition Interview Schedule Before Job Formatting Phase (Privilege)'])[1]/preceding::span[1]</value>
+      <webElementGuid>3b3019f2-1c94-4e4a-9108-ae63d7b1e1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Candidate Job Offer Letter (Privilege)'])[1]/preceding::span[2]</value>
+      <webElementGuid>f42d34cf-e628-4879-afe8-84125b941b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Candidates Lists (Privilege)']/parent::*</value>
+      <webElementGuid>49da4595-33f9-44f0-ae2a-b2793636cabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/ul/li/div[2]/span</value>
+      <webElementGuid>39dfc758-451f-421f-99d2-e2be07b69291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manage Candidates Lists (Privilege)' or . = 'Manage Candidates Lists (Privilege)')]</value>
+      <webElementGuid>94d8200e-2053-4fa5-881f-6d9a008643d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

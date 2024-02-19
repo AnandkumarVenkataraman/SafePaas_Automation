@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SailPoint_ObjSet_API</name>
+   <tag></tag>
+   <elementGuidId>35203b57-0115-4d01-8bfc-0939e005160a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P13_OBJECT_SET_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_OBJECT_SET_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f9992728-cbce-4aab-b7e8-c6585827cb9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P13_OBJECT_SET_ID</value>
+      <webElementGuid>c73c7ae7-d144-4638-8d01-551d92743a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P13_OBJECT_SET_ID</value>
+      <webElementGuid>594c6967-61a3-4fab-9c90-13161a95be66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>136c76f6-2c38-461d-a271-041e9d67ec2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b65d43e6-d3e7-4a17-83c2-b195721728d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>36fb6edd-38fd-4575-b5ca-205fd46d3fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+SailPoint_ObjSet_API
+</value>
+      <webElementGuid>67520851-ea60-4de3-be54-7d0667e6095b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_OBJECT_SET_ID&quot;)</value>
+      <webElementGuid>c36677e8-9447-4e28-8666-ef23f15adeba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P13_OBJECT_SET_ID']</value>
+      <webElementGuid>95546170-7ae5-4828-9691-a9cc27540e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P13_OBJECT_SET_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>6b1500cb-8f03-4be4-beed-33267e8f60b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object set'])[1]/following::select[1]</value>
+      <webElementGuid>8c15b01c-0fa4-4150-8c07-e79d4d31324f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Certification'])[2]/following::select[1]</value>
+      <webElementGuid>ef6b4cfc-c98e-4995-91ad-0f0fa9b0b921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Object'])[1]/preceding::select[1]</value>
+      <webElementGuid>6a2d698f-8aac-44e1-a8c3-b7b0fc7866b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Object'])[1]/preceding::select[2]</value>
+      <webElementGuid>c4acaf34-0cfd-4352-a1cc-eba5c569139e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>9769c90a-c3a7-42dd-a0ea-395ebfc63a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P13_OBJECT_SET_ID' and @name = 'P13_OBJECT_SET_ID' and (text() = '
+SailPoint_ObjSet_API
+' or . = '
+SailPoint_ObjSet_API
+')]</value>
+      <webElementGuid>a38a25cb-d067-4230-b9fe-2431a25c3d24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

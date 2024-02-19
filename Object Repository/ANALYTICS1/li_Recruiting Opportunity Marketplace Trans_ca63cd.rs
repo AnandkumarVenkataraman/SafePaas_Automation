@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Recruiting Opportunity Marketplace Trans_ca63cd</name>
+   <tag></tag>
+   <elementGuidId>a7045b26-a9c9-4c11-abab-9dce7d91fb89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[7]/div[2]/div[2]/div/div[3]/ul/li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.a-IconList-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d9d47ad4-a952-4cf2-870b-fd7159a32d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>1260898295</value>
+      <webElementGuid>479ec076-56fa-4c27-bdd9-51c35b21c2f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IconList-item</value>
+      <webElementGuid>dc478097-848d-4973-8357-1c8dab7558c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>25b86666-b1cd-484c-a635-cc0c190538fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>533635be-8947-497e-ab3b-af7324062092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Recruiting Opportunity Marketplace Transaction Analysis Duty[FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY][FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY] (ROLE)</value>
+      <webElementGuid>8b2c3737-f54b-4cb4-9857-4943d43eb468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_13_P13_RESPONSIBILITY_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]</value>
+      <webElementGuid>2bacad87-f2b3-47be-b5b0-a987821c12cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>/html/body/div[7]/div[2]/div[2]/div/div[3]/ul/li[1]</value>
+      <webElementGuid>c69e2213-d04d-44f5-9abb-8cf7863f3090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select List 40 rows. Use arrow keys'])[1]/following::li[1]</value>
+      <webElementGuid>d9a9b895-d109-42c6-a654-1aaffdd6138b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[1]/following::li[1]</value>
+      <webElementGuid>2f77558c-8295-483d-b6f9-8bc92a7b3544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(OBSOLETE) Assign Tasks and Checklists[HEY_ASSIGN_TASKS_CHECKLISTS_PRIV] (PRIVILEGE)'])[1]/preceding::li[4]</value>
+      <webElementGuid>90095fb3-d75d-4c50-a13c-bbcbfc3b93b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(OBSOLETE) Maintain Student Management Workflows[HEY_MANAGE_WORKFLOWS_PRIV] (PRIVILEGE)'])[1]/preceding::li[6]</value>
+      <webElementGuid>8e3d8815-f345-41df-a5a7-81de56cd7417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recruiting Opportunity Marketplace Transaction Analysis Duty[FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY][FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY] (ROLE)']/parent::*</value>
+      <webElementGuid>7ef0d549-9cbf-4f94-868e-22591fcaf36d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>ecbc8d33-b21a-4642-ba29-59ce3cc1558f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+Recruiting Opportunity Marketplace Transaction Analysis Duty[FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY][FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY] (ROLE)' or . = '
+Recruiting Opportunity Marketplace Transaction Analysis Duty[FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY][FBI_RECRUITING_OPPORTUNITY_MARKETPLACE_TRANSACTION_ANALYSIS_DUTY] (ROLE)')]</value>
+      <webElementGuid>37252a84-4078-4b2d-947b-36092bcb4ab1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_NeverMinutesDailyWeeklyMonthlyYearly</name>
+   <tag></tag>
+   <elementGuidId>443c02a5-ca1d-4734-bc12-a6123370cc9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_SCHEDULER_JOB_REPEAT_FREQ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_SCHEDULER_JOB_REPEAT_FREQ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cffb38b3-c1b1-4196-b0ff-21525c8fbd12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_SCHEDULER_JOB_REPEAT_FREQ</value>
+      <webElementGuid>1bb0c26b-647a-4eb6-9fb6-b1cc957396a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P30_SCHEDULER_JOB_REPEAT_FREQ</value>
+      <webElementGuid>29206d3c-eb8c-406d-b35f-e935577c925f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>b944e452-49e5-41ec-a10a-68630ce8f481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2850c5ab-75d0-4ab2-bfbb-8bf60f6ed134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f7040916-9743-4e0a-9651-28b81a6d82b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Never
+Minutes
+Daily
+Weekly
+Monthly
+Yearly
+</value>
+      <webElementGuid>f7d5a56d-a072-4fdc-8f30-c92347274fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_SCHEDULER_JOB_REPEAT_FREQ&quot;)</value>
+      <webElementGuid>516542fe-3590-43df-898c-30a5d9416060</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_SCHEDULER_JOB_REPEAT_FREQ']</value>
+      <webElementGuid>94513be2-7ba9-4c53-97c0-793bd9ea3f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_SCHEDULER_JOB_REPEAT_FREQ_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>1476db27-e3f2-4a3d-aa06-e28706891bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repeat'])[1]/following::select[1]</value>
+      <webElementGuid>3006aeeb-2435-4b57-9a6b-18b975d24cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comments'])[1]/following::select[1]</value>
+      <webElementGuid>5d70e9d2-033a-450f-8587-3a395c603a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>e0813aed-c3fa-406b-b109-5724f3f4907b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popup Calendar: Start Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>4f897830-eb75-465b-8deb-1efca592ea64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>5abc218a-f2e6-42fb-bfbf-02b41f74e6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P30_SCHEDULER_JOB_REPEAT_FREQ' and @name = 'P30_SCHEDULER_JOB_REPEAT_FREQ' and (text() = 'Never
+Minutes
+Daily
+Weekly
+Monthly
+Yearly
+' or . = 'Never
+Minutes
+Daily
+Weekly
+Monthly
+Yearly
+')]</value>
+      <webElementGuid>c907da6d-5507-4872-9244-b89f2b722d18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

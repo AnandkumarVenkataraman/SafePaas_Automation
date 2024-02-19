@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RESTSOAPSQL</name>
+   <tag></tag>
+   <elementGuidId>cc61d032-6b03-4831-8c1b-247add5c2f0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P10_API_TYPE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P10_API_TYPE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9ffe6fd2-e4b4-4c4c-bebd-5fddb1417cbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P10_API_TYPE</value>
+      <webElementGuid>51f6291c-119f-4431-b2b3-c9a46a9e7378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P10_API_TYPE</value>
+      <webElementGuid>02a57160-7660-47e5-9ca5-c237c43ee6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>4e498214-cc3a-4766-9b1d-0097837876b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>11836cda-6e71-4c24-9fe2-3e529e54df57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d8051118-357c-445a-9787-424162730cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REST
+SOAP
+SQL
+</value>
+      <webElementGuid>8ea1a703-4e4b-4094-9b4b-babf48742c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_API_TYPE&quot;)</value>
+      <webElementGuid>7cc4e352-14ee-4184-becf-e1b88ff7e2ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P10_API_TYPE']</value>
+      <webElementGuid>93e98c88-a915-4255-9212-29c0e2efd744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P10_API_TYPE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>73ab144f-cfe4-4e43-8e13-3d8403586ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Type'])[1]/following::select[1]</value>
+      <webElementGuid>69ee8989-70d7-4157-bed7-57ac89d0ec30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud'])[2]/following::select[1]</value>
+      <webElementGuid>3ffd7c1f-de82-4882-a127-eaada3ce8b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Method'])[1]/preceding::select[1]</value>
+      <webElementGuid>9505d4c1-9992-4873-aac3-f5e187b967ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>576a878a-e7ad-43af-9590-39aa090e3a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P10_API_TYPE' and @name = 'P10_API_TYPE' and (text() = 'REST
+SOAP
+SQL
+' or . = 'REST
+SOAP
+SQL
+')]</value>
+      <webElementGuid>d679247b-6282-4bee-98f1-7312d9aaecbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Select DataType -- DATELISTVARCHAR2</name>
+   <tag></tag>
+   <elementGuidId>a60583cb-aa71-4ef0-8525-efa60d5c6eec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='C146571484431766612']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C146571484431766612</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e8e9d6df-3704-432f-be7b-2fe99124cd66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>C146571484431766612</value>
+      <webElementGuid>7ba27363-8063-4a62-b63c-27f9f9de4b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>146571484431766612</value>
+      <webElementGuid>4fb1b301-0a68-4009-a5c5-0665f398f704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select js-ignoreChange</value>
+      <webElementGuid>e8b8be1f-80ef-44cc-ab3c-b63c25c39923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>32086fb2-1367-4c66-b71e-e2501f3c9cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>13bda257-78a2-44af-a9c7-612c2e078d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>86b37977-c502-4635-a5dc-52d74594690b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C146571484431766612_HDR</value>
+      <webElementGuid>be23b374-99d2-4f3e-b446-4380094fa888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select DataType -- 
+DATE
+LIST
+VARCHAR2
+</value>
+      <webElementGuid>7bbcca0d-fd70-41b3-abc0-972c64a5c0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;C146571484431766612&quot;)</value>
+      <webElementGuid>95cfcdc5-22a6-4374-85ec-f8fa8e64a0b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='C146571484431766612']</value>
+      <webElementGuid>f1a6fb87-86d5-4d70-ae7f-5ee118d128d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='igSod_ig_grid_vc_cur']/div/select</value>
+      <webElementGuid>a034045a-7eba-44e0-9d87-fe5fe08c51f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORIG_ID'])[2]/following::select[1]</value>
+      <webElementGuid>77388646-1f0f-4160-b2bb-6ff9294a476e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD.FSOD_ATTRIBUTE_ALL'])[1]/following::select[1]</value>
+      <webElementGuid>327b6035-25de-47b3-a0b1-a65e8b5f3464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAME'])[1]/preceding::select[1]</value>
+      <webElementGuid>bddc5136-0e1c-477d-b8a9-c2d8473aea0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRIRIGA:Country:NAME'])[1]/preceding::select[1]</value>
+      <webElementGuid>c154d280-e84b-45d1-91fc-b9af57fc4a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/select</value>
+      <webElementGuid>059bd0eb-2e86-4199-9060-86a4b769c1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'C146571484431766612' and @name = '146571484431766612' and (text() = '-- Select DataType -- 
+DATE
+LIST
+VARCHAR2
+' or . = '-- Select DataType -- 
+DATE
+LIST
+VARCHAR2
+')]</value>
+      <webElementGuid>b25df229-2cd0-44f7-88a2-06f50893f7d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

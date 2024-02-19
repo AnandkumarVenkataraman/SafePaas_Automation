@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Last updated by</name>
+   <tag></tag>
+   <elementGuidId>87ba6ff3-46e8-4622-bf3f-4500f7efef5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C163788935434736698']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C163788935434736698 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7cda1093-797f-4213-aec8-5e419c3b1c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>f55cb72e-4fc9-464f-88e3-6523cc9632db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>163788935434736698</value>
+      <webElementGuid>87282e5b-2008-4a11-8f59-267e52f18301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>22b3aef6-84cf-49e7-a9d1-1074de5708ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last updated by</value>
+      <webElementGuid>d87d78fb-227a-4d99-92e0-d8e30a5315d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;324291251635100092&quot;)/tr[1]/th[@id=&quot;C163788935434736698&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>5ab2f4ba-efd2-4eae-92f3-9e93b00d5fbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C163788935434736698']/a</value>
+      <webElementGuid>c44a7179-74a0-4a4d-902b-bf3f3dbb8dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Last updated by')]</value>
+      <webElementGuid>b868bbe5-8c71-47ae-942d-00bf70344033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation date'])[1]/following::a[1]</value>
+      <webElementGuid>8fa84760-cbc1-4fd1-9d75-ba4253103663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by'])[1]/following::a[2]</value>
+      <webElementGuid>9d819328-ccfe-4317-ba5d-c380c5c0e30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last update date'])[1]/preceding::a[1]</value>
+      <webElementGuid>49e26779-4157-4d8c-9a1d-40b3d2295301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT-Roles_G1'])[1]/preceding::a[8]</value>
+      <webElementGuid>294a9ec4-2a00-4e50-bf99-49ec0fc580d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Last updated by']/parent::*</value>
+      <webElementGuid>93d06232-aee6-4d2a-9f6f-71a1c6073b2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/a</value>
+      <webElementGuid>83dc8655-8533-451d-95bd-963b6d222bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Last updated by' or . = 'Last updated by')]</value>
+      <webElementGuid>e279451f-ecc7-479e-a398-05496ef3d36c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

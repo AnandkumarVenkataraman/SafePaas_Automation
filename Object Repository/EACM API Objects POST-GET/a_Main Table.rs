@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Main Table</name>
+   <tag></tag>
+   <elementGuidId>98d1ffcf-ca68-48f5-b83f-52c31637e6d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C171455031939475448']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C171455031939475448 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>56eab6cb-2fff-4705-a5fe-8629e935f2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>261eb986-f9c5-4e66-9a90-0c7792455866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>171455031939475448</value>
+      <webElementGuid>b73e3fb6-1c2f-40d8-9c52-4f24625fcb58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>24bfde6b-3648-4926-9935-9244e061cdb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Main Table</value>
+      <webElementGuid>c520edf2-4623-4fd8-81f0-4bd99aa25778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;168493145865531637&quot;)/tr[1]/th[@id=&quot;C171455031939475448&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>bda49ae5-92d0-4397-b42e-b0744e907816</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C171455031939475448']/a</value>
+      <webElementGuid>96b841d5-498f-4f44-b676-de504ba87c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Main Table')]</value>
+      <webElementGuid>05161096-b34e-4d34-aac0-c773b44ddb84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary Datasource'])[1]/following::a[1]</value>
+      <webElementGuid>50fb474b-5061-498b-9b01-141d32351273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Datasource'])[1]/following::a[2]</value>
+      <webElementGuid>274f67a0-cbe0-418b-b92a-22f5006eae3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>bdf8b78a-4609-4d61-8ea3-ea1670afe891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SailPoint_ENV2'])[1]/preceding::a[8]</value>
+      <webElementGuid>b80621f1-4017-4d5c-a99d-636b93e2d6a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Main Table']/parent::*</value>
+      <webElementGuid>62152158-29eb-4b9f-b943-1c1736c873c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/a</value>
+      <webElementGuid>cd8c8185-32dc-4482-8422-5319ac8131c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Main Table' or . = 'Main Table')]</value>
+      <webElementGuid>13c7b38e-14ae-4b5c-a971-81067e24422c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Obj_EntryRole</name>
+   <tag></tag>
+   <elementGuidId>53c2fb78-9c5d-45b8-ab85-8246c1094855</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div[1]/table/tbody/tr[2]/td[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/div/div/div[1]/table/tbody/tr[2]/td[3]/select</value>
+      <webElementGuid>4748a617-b3c8-4ec0-88bc-c9a7fd5a8c07</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

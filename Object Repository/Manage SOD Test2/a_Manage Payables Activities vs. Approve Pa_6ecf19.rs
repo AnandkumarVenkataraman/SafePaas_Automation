@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Payables Activities vs. Approve Pa_6ecf19</name>
+   <tag></tag>
+   <elementGuidId>edf09fbf-b31b-43b7-a271-641f5d080429</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[4]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>61a587bd-63a5-4d3c-8160-1830ee9ca32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:19001,18996,7</value>
+      <webElementGuid>71e0b906-7bfe-4bb0-b383-e64ee2c5aa7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Payables Activities vs. Approve Payables Activities Rule</value>
+      <webElementGuid>d1a19dc1-45f7-4cf2-bd1f-75c687d7a8ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[4]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>1968c4dd-f4d0-45bd-9ca8-3cb60ffae838</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[4]/td/a</value>
+      <webElementGuid>5660ef12-275e-48e5-a93d-9a687e6591b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Payables Activities vs. Approve Payables Activities Rule')]</value>
+      <webElementGuid>14dd3f02-78af-4c55-8b82-a236d741bc85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::a[1]</value>
+      <webElementGuid>267acd6b-85aa-4e93-b293-ab045a0c3f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[2]/following::a[1]</value>
+      <webElementGuid>248831f8-1c9d-4bd8-90bb-e4d7c2d8e72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Payables Activities vs. Approve Payables Activities Rule'])[2]/preceding::a[1]</value>
+      <webElementGuid>7d501883-c20d-4472-91b8-1f64f0620557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOW'])[1]/preceding::a[1]</value>
+      <webElementGuid>69c9aa40-71f5-4ef8-8048-6a7d1d489ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Payables Activities vs. Approve Payables Activities Rule']/parent::*</value>
+      <webElementGuid>e31fd5f6-808c-4a57-b0da-493f0f8b24bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:19001,18996,7')]</value>
+      <webElementGuid>d5d9b14e-aa93-4ce2-a665-5b5386699468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/a</value>
+      <webElementGuid>e443ecdc-ab9a-4463-a6aa-de1b422c2a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1651604570961::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:19001,18996,7' and (text() = 'Manage Payables Activities vs. Approve Payables Activities Rule' or . = 'Manage Payables Activities vs. Approve Payables Activities Rule')]</value>
+      <webElementGuid>11b700d3-1fbf-4d3f-83fe-4c4c6cc2af56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>ce4aadf6-9c8a-42af-b25b-c6adf07ca0a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P41_EACM_SURVEY_AUTH_CONTAINER']/div[2]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bootstrap-switch-handle-on.bootstrap-switch-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c54955fe-8917-41d8-83e1-4f111a2c16e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-switch-handle-on bootstrap-switch-success</value>
+      <webElementGuid>e30f538f-b1c7-4a90-8d65-7346c65a1fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>f91cf310-6bbd-4701-b83b-d6d2c744a7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P41_EACM_SURVEY_AUTH_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-9&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]/div[@class=&quot;bootstrap-switch bootstrap-switch-wrapper bootstrap-switch-on bootstrap-switch-id-P41_EACM_SURVEY_AUTH bootstrap-switch-mini bootstrap-switch-animate&quot;]/div[@class=&quot;bootstrap-switch-container&quot;]/span[@class=&quot;bootstrap-switch-handle-on bootstrap-switch-success&quot;]</value>
+      <webElementGuid>1d9347c9-9116-40e8-ab7c-1dcf4dbc3568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P41_EACM_SURVEY_AUTH_CONTAINER']/div[2]/div/div/div/span</value>
+      <webElementGuid>41a45c45-1d81-48e4-9f1c-4db07c2122cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EACM Survey Authentication'])[1]/following::span[1]</value>
+      <webElementGuid>0a97caa9-34eb-4e0c-950f-c51775ab3a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Both Approvers Responses'])[1]/following::span[2]</value>
+      <webElementGuid>03b90e62-a031-4a0f-8445-ee501525bd6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[2]</value>
+      <webElementGuid>2788b48e-7ab3-48fa-ba9c-3817bec0a8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::span[4]</value>
+      <webElementGuid>ae250f69-1727-440e-bb1b-df465b8d6a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>0b8c0bbe-ec36-4fa1-84ac-0d4298e1b55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>58af2fde-d883-4a86-8307-117d3f5e7864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>b3fd0495-61d3-4c7a-9768-16d2f64c2f17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

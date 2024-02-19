@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Key2</name>
+   <tag></tag>
+   <elementGuidId>4d6ce236-9494-46bf-8990-4558e58438da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[3]/div/div/div/div[2]/div[2]/div[2]/div[6]/div/div/div[2]/div[2]/div/div[5]/div[3]/div[1]/div[3]/div[4]/table/tbody/tr[2]/td[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[3]/div/div/div/div[2]/div[2]/div[2]/div[6]/div/div/div[2]/div[2]/div/div[5]/div[3]/div[1]/div[3]/div[4]/table/tbody/tr[2]/td[8]</value>
+      <webElementGuid>cb9bec82-a5b7-42bf-b498-10f8a3236fe1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Setup_a-TreeView-row is-hover is-focuse_05ed8b</name>
+   <tag></tag>
+   <elementGuidId>abff8f9b-f7a9-4d1f-8569-4e91cfb4b05b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_9']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-TreeView-row.is-hover.is-focused.is-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a089ceb-9711-4d2d-96ca-4f050a4cab7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>a0831dd0-bfe4-4f04-bea9-017b6c80f620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-row is-hover is-focused is-selected</value>
+      <webElementGuid>aa448b64-7cbc-4600-a0ba-d5bbd75a0d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_9&quot;)/div[@class=&quot;a-TreeView-row is-hover is-focused is-selected&quot;]</value>
+      <webElementGuid>a8496d7c-854f-4f63-8e5f-1073af3fcf43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_9']/div</value>
+      <webElementGuid>a8d4171f-0381-43c0-bd12-cbdee1b28f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[3]/div</value>
+      <webElementGuid>262d1c5f-3334-4a5a-9b31-e74f6498c394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_GETPATCHPOST</name>
+   <tag></tag>
+   <elementGuidId>883b3f24-ba00-458b-bfb4-5ad509fbdf8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P10_API_METHOD']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P10_API_METHOD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fa65f3e8-d6ba-4f63-9ba2-cfa5d8c3a84f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P10_API_METHOD</value>
+      <webElementGuid>18b8c953-b3f7-45b6-a55c-704ca03451db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P10_API_METHOD</value>
+      <webElementGuid>616625c0-aad5-4176-a509-cbc8cba5608f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>5227b53b-f5f7-4d73-9545-4abc4b8bdc2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>98d354bd-c195-4c9a-92f2-94c1b1a6c951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>459e979c-28c0-468f-b279-652a80766857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+GET
+PATCH
+POST
+</value>
+      <webElementGuid>66de1ebc-4176-4938-adcb-fc9b6543dd6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_API_METHOD&quot;)</value>
+      <webElementGuid>42412e3a-5e76-436d-b728-84a8e7457d54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P10_API_METHOD']</value>
+      <webElementGuid>c9ed9662-9ede-4fa2-b302-71d64ca9ba31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P10_API_METHOD_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>e74bf387-9622-480f-9533-1bb882aa7552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Method'])[1]/following::select[1]</value>
+      <webElementGuid>c83f25fb-2aa0-4b7f-8788-1e4fc7f4ba13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='URI'])[1]/preceding::select[1]</value>
+      <webElementGuid>02528d8c-1147-47df-9cb2-7a088b2a9e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>6744598b-f9ac-4b6a-85b6-575982916121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P10_API_METHOD' and @name = 'P10_API_METHOD' and (text() = '
+GET
+PATCH
+POST
+' or . = '
+GET
+PATCH
+POST
+')]</value>
+      <webElementGuid>3a865fb1-fc39-4a7a-b119-f517e3cc5857</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

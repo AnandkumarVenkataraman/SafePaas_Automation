@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Role Description_a-GV-columnWidthHandle_86d421</name>
+   <tag></tag>
+   <elementGuidId>80b30070-5782-4b4a-b737-a452b20ac87d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R323722309891809671_ig_grid_vc']/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R323722309891809671_ig_grid_vc > div.a-GV-hdr.a-GV-hdr--fixed.js-stickyWidget-toggle > div.a-GV-columnWidthHandle.ui-draggable.ui-draggable-handle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34c05353-67e1-4f4a-ba65-79275f9ab722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-columnWidthHandle ui-draggable ui-draggable-handle</value>
+      <webElementGuid>fe158f3f-2faf-4aaa-baca-a4a8dd94fea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R323722309891809671_ig_grid_vc&quot;)/div[@class=&quot;a-GV-hdr a-GV-hdr--fixed js-stickyWidget-toggle&quot;]/div[@class=&quot;a-GV-columnWidthHandle ui-draggable ui-draggable-handle&quot;]</value>
+      <webElementGuid>3c340ef2-b45c-4596-b112-b8c53afb7470</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R323722309891809671_ig_grid_vc']/div/div[3]</value>
+      <webElementGuid>c27678c0-d0f3-4898-bb73-91ec0a442748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div/div[5]/div[3]/div/div/div[3]</value>
+      <webElementGuid>9cdc8817-9680-4a7a-9ed4-4efdeaa320d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

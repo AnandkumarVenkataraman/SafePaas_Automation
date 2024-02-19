@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_API Params</name>
+   <tag></tag>
+   <elementGuidId>bcf602a1-0449-41cc-9fb2-2e45544dd46a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='objItemName_HDR'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#OBJ_API_ig_grid_vc_cur > #objItemName_HDR</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>661173cc-3148-4989-a96b-909f06501a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-headerLabel</value>
+      <webElementGuid>ebc4df61-558f-42f7-a8aa-7cf91fae8128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>objItemName_HDR</value>
+      <webElementGuid>1796f1f5-75fd-4195-a2c4-6586aedb7a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>API Params</value>
+      <webElementGuid>e026a644-ec91-4a80-a241-e8ea4f895896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OBJ_API_ig_grid_vc_cur&quot;)/span[@id=&quot;objItemName_HDR&quot;]</value>
+      <webElementGuid>2eec2e2f-0504-47cf-871f-ad4f1d891047</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='objItemName_HDR'])[3]</value>
+      <webElementGuid>ea763d98-f011-40b6-9c14-14d0d91c6b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='OBJ_API_ig_grid_vc_cur']/span</value>
+      <webElementGuid>ec7c4cfb-271a-45ed-a10a-f17a60398f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Column Name'])[7]/following::span[1]</value>
+      <webElementGuid>66c709d8-6786-4049-bed0-84420583c89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table Name'])[7]/following::span[4]</value>
+      <webElementGuid>0f224cce-1b5b-48ba-a238-ac0009982961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Query'])[7]/preceding::span[1]</value>
+      <webElementGuid>f7fd5e68-67f8-415d-a2a9-f89a04a9fdbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key'])[7]/preceding::span[2]</value>
+      <webElementGuid>774b3abd-4275-40f9-a4f6-d43009bd7360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='API Params']/parent::*</value>
+      <webElementGuid>0a3c216f-8f24-4032-86c6-5102a77aaa69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]/div/div[5]/div[3]/div/div/div/table/thead/tr/th[5]/span</value>
+      <webElementGuid>52f3023e-e432-472d-8d41-c7acdf8a8dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'objItemName_HDR' and (text() = 'API Params' or . = 'API Params')]</value>
+      <webElementGuid>896192d1-1403-49e7-af1a-431f21c8eb1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

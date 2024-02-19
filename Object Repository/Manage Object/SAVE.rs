@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SAVE</name>
+   <tag></tag>
+   <elementGuidId>5d393cfd-1187-4005-8874-18752ba94944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[3]/div/div/div/div[2]/div[2]/div[2]/div[6]/div/div/div[2]/div[2]/div/div[3]/div/div[1]/div[6]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[3]/div/div/div/div[2]/div[2]/div[2]/div[6]/div/div/div[2]/div[2]/div/div[3]/div/div[1]/div[6]/button[2]</value>
+      <webElementGuid>811e4e40-4da2-4f90-9846-8f7d5f9768a1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

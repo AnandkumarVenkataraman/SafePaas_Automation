@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Description</name>
+   <tag></tag>
+   <elementGuidId>761c6d18-dc2b-4cbb-bb0c-6945784d2f91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P18_DESCRIPTION_CONTAINER > div.t-Form-labelContainer.col.col-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P18_DESCRIPTION_CONTAINER']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2dd378b-0615-4084-88a6-5b2580add4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-labelContainer col col-2</value>
+      <webElementGuid>df09889a-bc6d-4367-b86f-06e126e2f166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Description
+</value>
+      <webElementGuid>1fa2b53a-0042-48de-a06a-1b1bb91cecc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P18_DESCRIPTION_CONTAINER&quot;)/div[@class=&quot;t-Form-labelContainer col col-2&quot;]</value>
+      <webElementGuid>56c8a8e8-c2a7-417a-88f3-56955cdcdc86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P18_DESCRIPTION_CONTAINER']/div</value>
+      <webElementGuid>ea14e89d-c16b-49ba-9ed7-c56953052d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::div[5]</value>
+      <webElementGuid>aa003155-edc0-425f-b4d3-cc91918d6e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Type'])[1]/preceding::div[4]</value>
+      <webElementGuid>dc968abe-b7a7-4d46-acb3-2b60785c6113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>70166ac6-44fc-48e5-9226-be8b028d7899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+Description
+' or . = '
+Description
+')]</value>
+      <webElementGuid>bf2a9541-c72c-4b16-95e0-2a123f203020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

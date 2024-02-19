@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 rows selectedPage rows Total 6</name>
+   <tag></tag>
+   <elementGuidId>99fc83cc-0768-45f3-a0e2-47e9195b355a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-GV-footer.js-stickyWidget-toggle.is-stuck</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='igSod_ig_grid_vc']/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>433ebb81-e176-4bfc-9c2c-8c48b6481de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-footer js-stickyWidget-toggle is-stuck</value>
+      <webElementGuid>81689b1c-8af1-474d-b98b-1fc3d63dd32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 rows selectedPage rows Total 6</value>
+      <webElementGuid>37262b2c-3e31-413d-959a-7e8a706c4696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;igSod_ig_grid_vc&quot;)/div[@class=&quot;a-GV-footer js-stickyWidget-toggle is-stuck&quot;]</value>
+      <webElementGuid>70696ff7-e0f0-4ac8-b2c2-058829a8bb02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='igSod_ig_grid_vc']/div[4]</value>
+      <webElementGuid>9254258b-a345-45ae-b99b-fb1d4930b641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select DataType --'])[1]/following::div[1]</value>
+      <webElementGuid>bbf67f72-6f35-473b-8fab-1e6db2b0b416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VARCHAR2'])[5]/following::div[2]</value>
+      <webElementGuid>fe46f62a-0dcb-4db5-b2d4-5e11e593f8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div[2]/div/div[5]/div[3]/div/div[4]</value>
+      <webElementGuid>0f56181a-5eae-48b8-a1ba-704502d3a1b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 rows selectedPage rows Total 6' or . = '1 rows selectedPage rows Total 6')]</value>
+      <webElementGuid>34097d6b-d1d9-4285-a798-5b6673633f0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

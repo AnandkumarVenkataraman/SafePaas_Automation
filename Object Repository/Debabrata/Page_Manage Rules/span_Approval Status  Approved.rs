@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Approval Status  Approved</name>
+   <tag></tag>
+   <elementGuidId>aa080415-f4c1-4ed9-ad58-b66e571e13fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='control_text_253961864642891541']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#control_text_253961864642891541</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91fa5561-e97e-4841-887e-b76ae64fd0e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>control_text_253961864642891541</value>
+      <webElementGuid>4f438b5d-1348-47b8-8c1e-70e4007d77e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval Status = 'Approved'</value>
+      <webElementGuid>450e5a10-7a16-49b8-89dc-1d4891c7888b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;control_text_253961864642891541&quot;)</value>
+      <webElementGuid>96416b52-eee0-4101-98a5-e0ffb20d0e70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='control_text_253961864642891541']</value>
+      <webElementGuid>5f3a4e0a-5102-4e77-927a-470e2a0407b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_R247793226539899118_control_panel_content']/ul/li/span[3]/a/span[2]</value>
+      <webElementGuid>6fc124ff-d5dd-4b3a-b54e-c70f60a6e4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[1]</value>
+      <webElementGuid>66ed8985-c34e-4248-ad1d-1f136db0fbe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/following::span[5]</value>
+      <webElementGuid>404a6c47-ec5c-41d3-87c6-be5e887876f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[2]/preceding::span[3]</value>
+      <webElementGuid>cad9118a-8e52-420b-8310-af6ce54563bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/preceding::span[7]</value>
+      <webElementGuid>13d194df-c8bd-4ceb-bab1-56f9c9857773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/a/span[2]</value>
+      <webElementGuid>634f2bcb-7c25-43d2-9539-8df58d3fedc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'control_text_253961864642891541' and (text() = concat(&quot;Approval Status = &quot; , &quot;'&quot; , &quot;Approved&quot; , &quot;'&quot;) or . = concat(&quot;Approval Status = &quot; , &quot;'&quot; , &quot;Approved&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>ff7df2f6-7e1c-4ad4-91e3-52c89978c6ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

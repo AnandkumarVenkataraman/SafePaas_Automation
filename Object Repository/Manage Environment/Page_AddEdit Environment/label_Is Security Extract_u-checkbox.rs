@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Is Security Extract_u-checkbox</name>
+   <tag></tag>
+   <elementGuidId>e6bd8229-4f59-41c6-beb3-10b8d0ed4f5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P13_IS_SECURITY']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_IS_SECURITY > div.apex-item-option > label.u-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>25ac5d52-1f7d-4748-a0e1-1f4f639d7885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>ca3a7f2f-f2ef-4e26-b76f-0f710d48e3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P13_IS_SECURITY_0</value>
+      <webElementGuid>cfc4d921-12e4-437d-bab1-af9fa8d34893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_IS_SECURITY&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>da3fa9a1-6ca4-4028-9f34-d3e474da63c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P13_IS_SECURITY']/div/label</value>
+      <webElementGuid>eacc6005-677c-4330-a42b-00aaf77aacf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div/div/div/label</value>
+      <webElementGuid>c5f9ff7a-b303-4cf9-b4d5-23cd7a2e5ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

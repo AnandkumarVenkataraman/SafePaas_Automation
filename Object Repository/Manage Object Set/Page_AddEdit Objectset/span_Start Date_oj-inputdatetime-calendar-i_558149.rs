@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start Date_oj-inputdatetime-calendar-i_558149</name>
+   <tag></tag>
+   <elementGuidId>f73ae7b2-06c2-437d-a02e-771775e4f180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oj-inputdatetime-calendar-icon.oj-clickable-icon-nocontext.oj-component-icon.oj-enabled.oj-default.oj-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe853aaf-a614-4403-8c07-38463d80f7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select Date.</value>
+      <webElementGuid>253f09f5-6951-45f5-b458-6cbb9d30130d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-inputdatetime-calendar-icon oj-clickable-icon-nocontext oj-component-icon oj-enabled oj-default oj-hover</value>
+      <webElementGuid>60ed5841-ad73-4810-8ce0-ae4227439154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-5&quot;)/span[@class=&quot;oj-inputdatetime-input-trigger&quot;]/span[@class=&quot;oj-inputdatetime-calendar-icon oj-clickable-icon-nocontext oj-component-icon oj-enabled oj-default oj-hover&quot;]</value>
+      <webElementGuid>cce9449b-8422-4c8a-8f5c-23dc25ea3b64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-5']/span/span</value>
+      <webElementGuid>bbe1d748-e7fd-4060-8bd6-8e9006b6c63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/span</value>
+      <webElementGuid>7d1c8ca7-e17b-4c08-9883-dbff7f647f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Select Date.']</value>
+      <webElementGuid>39c8bfcc-cebc-4b4a-b968-9f95102f085c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

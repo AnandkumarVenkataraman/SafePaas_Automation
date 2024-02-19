@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneOracle Cloud ERP 20x</name>
+   <tag></tag>
+   <elementGuidId>b071fc06-0593-44f8-9bb9-912fa4402f44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P13_APP_TYPE_VERSION_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_APP_TYPE_VERSION_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>be88015c-1e86-402d-a1f9-4c4eb04b4842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P13_APP_TYPE_VERSION_ID</value>
+      <webElementGuid>e0839cba-9b0a-47b7-8769-7a42d5610d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P13_APP_TYPE_VERSION_ID</value>
+      <webElementGuid>8a303a95-ad29-4076-98ab-dc1e31813b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>b203c865-76b3-41a8-a0e0-c7167421c5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6862a2d1-bcff-42a4-adae-2a7707fa8c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>de4e493c-f926-4da7-b89a-1e6fc7e7b773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+Oracle Cloud ERP 20x</value>
+      <webElementGuid>d20c54ca-769f-4d26-b891-872ffaf78c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_APP_TYPE_VERSION_ID&quot;)</value>
+      <webElementGuid>7f1f665b-6e70-48a6-a579-9e50ac94fcff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P13_APP_TYPE_VERSION_ID']</value>
+      <webElementGuid>7a1b93e7-ad6c-462f-a8d4-a75827402fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P13_APP_TYPE_VERSION_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>121f9fec-35ed-407d-9d46-fa982bce5fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::select[1]</value>
+      <webElementGuid>4832c5e5-2615-42cd-aa82-b928c8e88429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::select[1]</value>
+      <webElementGuid>bfb4ec04-aa6b-4082-8507-789772407215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>22be995f-0b8b-476e-9a38-03c89c3b9e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P13_APP_TYPE_VERSION_ID' and @name = 'P13_APP_TYPE_VERSION_ID' and (text() = 'Select any one
+Oracle Cloud ERP 20x' or . = 'Select any one
+Oracle Cloud ERP 20x')]</value>
+      <webElementGuid>f491bb85-0aac-48a8-ae0c-4a5976e2603f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

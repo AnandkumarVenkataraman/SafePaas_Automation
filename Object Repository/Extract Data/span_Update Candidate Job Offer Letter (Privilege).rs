@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Update Candidate Job Offer Letter (Privilege)</name>
+   <tag></tag>
+   <elementGuidId>f139b345-1a14-41e0-8452-f802b57300b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-TreeView-label.is-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tree255723123294765918_3']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9affed59-3f21-4a1d-86c8-bf0535b290f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bfc226d3-8c1f-4502-b00c-2e35e8a1d8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>3f83c858-38c5-4e21-b54d-65150ccfb9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label is-focused</value>
+      <webElementGuid>d720dcdf-4a1d-4164-a092-69fefd6f9da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>8f44d13d-3204-4147-9e24-39e6d093d094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a6ff80df-1a3f-4b21-85b9-f76c8bb5a04c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Candidate Job Offer Letter (Privilege)</value>
+      <webElementGuid>a6c6e57d-eddd-4fbf-abb6-448be5f2acc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree255723123294765918_3&quot;)/div[@class=&quot;a-TreeView-content&quot;]/span[@class=&quot;a-TreeView-label is-focused&quot;]</value>
+      <webElementGuid>5634eb90-6e62-478b-bf8b-a8409e9db9bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tree255723123294765918_3']/div[2]/span</value>
+      <webElementGuid>458b9e25-08e6-4c2d-8c0d-0debcdce27fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Job Requisition Interview Schedule Before Job Formatting Phase (Privilege)'])[1]/following::span[1]</value>
+      <webElementGuid>5bf0f1d3-af4d-4cec-9abb-ccbcfbe2b452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Candidates Lists (Privilege)'])[1]/following::span[2]</value>
+      <webElementGuid>126f53a2-9eb6-483a-afe1-b1ac8feb1f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Job Requisition After Draft Phase (Privilege)'])[1]/preceding::span[1]</value>
+      <webElementGuid>663077fa-4379-43d0-9f01-771aa652a2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Job Requisition Posting Locations (Privilege)'])[1]/preceding::span[2]</value>
+      <webElementGuid>9b03ae0c-5bc8-4ea7-b6a3-9fed094d21ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update Candidate Job Offer Letter (Privilege)']/parent::*</value>
+      <webElementGuid>601df564-b6c2-475f-a80a-dd7699029f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/ul/li[3]/div[2]/span</value>
+      <webElementGuid>51084c61-6517-4225-a425-f750ef03f631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Update Candidate Job Offer Letter (Privilege)' or . = 'Update Candidate Job Offer Letter (Privilege)')]</value>
+      <webElementGuid>f685a370-a70c-489f-bc15-843440e857ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

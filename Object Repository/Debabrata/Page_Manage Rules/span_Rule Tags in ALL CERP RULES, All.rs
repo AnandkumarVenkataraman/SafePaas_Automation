@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rule Tags in ALL CERP RULES, All</name>
+   <tag></tag>
+   <elementGuidId>c6322375-af35-4a00-9437-98b3eaf339f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='control_text_253962794885905364']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#control_text_253962794885905364</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85d0e0f5-ac90-4356-a45c-3ff66e893e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>control_text_253962794885905364</value>
+      <webElementGuid>4c3fe150-925e-44ef-bb0a-5902947a8f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rule Tags in 'ALL CERP RULES, All'</value>
+      <webElementGuid>e0f07f73-4b7d-4064-b76e-f9cb1918397d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;control_text_253962794885905364&quot;)</value>
+      <webElementGuid>825043a4-9190-45fb-8e82-191dfea64679</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='control_text_253962794885905364']</value>
+      <webElementGuid>cdc51b43-dfac-4726-ade3-70f21ca5f9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_R247793226539899118_control_panel_content']/ul/li[2]/span[3]/a/span[2]</value>
+      <webElementGuid>b3e90c00-6861-4703-aa4b-a7415b80efaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::span[1]</value>
+      <webElementGuid>ad42bef1-98e6-4101-ba53-08828201e45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[2]/following::span[5]</value>
+      <webElementGuid>0c3f97be-c83e-447f-8562-498cf6a5cbd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Status, Rule Tags'])[1]/preceding::span[6]</value>
+      <webElementGuid>f2acaae3-6d3e-4d83-a761-c2d603cbe0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintain Customer Master and Create/Update AR Invoices'])[1]/preceding::span[9]</value>
+      <webElementGuid>aa57bd4a-79bc-47bb-8743-95045cb868e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span[3]/a/span[2]</value>
+      <webElementGuid>5644a308-bee4-4201-a799-d50af77cecde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'control_text_253962794885905364' and (text() = concat(&quot;Rule Tags in &quot; , &quot;'&quot; , &quot;ALL CERP RULES, All&quot; , &quot;'&quot;) or . = concat(&quot;Rule Tags in &quot; , &quot;'&quot; , &quot;ALL CERP RULES, All&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>46566bbf-557e-4f89-b09f-6f2bc06a0d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Load More Rows_a-Icon icon-ig-restore</name>
+   <tag></tag>
+   <elementGuidId>26ab15e4-40f2-4334-b752-2dbac75ee1ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-ig-restore</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='t_PageBody']/div[77]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4e1bdc0-47e9-4199-8159-a74f4898ba2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>42b7b672-5571-4c4f-bc10-426f23e5f75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-ig-restore</value>
+      <webElementGuid>fc8f52a5-4cd5-4ebf-a8fc-cc3e8dbc3c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;a-GV-floatingItem ui-draggable is-expanded&quot;]/button[@class=&quot;a-GV-expandCollapse&quot;]/span[@class=&quot;a-Icon icon-ig-restore&quot;]</value>
+      <webElementGuid>6f454db3-2611-4bf1-bde5-78dd94e8d9fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='t_PageBody']/div[77]/button/span</value>
+      <webElementGuid>e31eb661-acfc-4360-80ca-8ae811605e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[77]/button/span</value>
+      <webElementGuid>44ff77ce-aa2a-4924-b8b1-13173ce75390</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

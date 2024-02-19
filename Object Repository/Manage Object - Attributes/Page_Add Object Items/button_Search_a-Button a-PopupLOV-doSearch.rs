@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search_a-Button a-PopupLOV-doSearch</name>
+   <tag></tag>
+   <elementGuidId>3e8f7ab7-94f4-408a-b16f-f122404e923a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PopupLov_24_C146572807689766626_dlg > div.a-PopupLOV-searchBar > button.a-Button.a-PopupLOV-doSearch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[151]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>171903d0-5117-437c-98fd-e871750857d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb996e0c-0332-423b-958b-a0c4bd6afd1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Button a-PopupLOV-doSearch</value>
+      <webElementGuid>a4027ef9-c1de-4a87-b2bf-7becea79115b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>1bea0600-c166-4906-b71a-d48323e21306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_24_C146572807689766626_dlg&quot;)/div[@class=&quot;a-PopupLOV-searchBar&quot;]/button[@class=&quot;a-Button a-PopupLOV-doSearch&quot;]</value>
+      <webElementGuid>f064fe25-0a7f-44cc-9a5a-898a661a37d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[151]</value>
+      <webElementGuid>425688ef-6319-439b-8f18-0a1fe8e4e0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_24_C146572807689766626_dlg']/div/button</value>
+      <webElementGuid>96473f7c-34cd-4ad9-b27e-55ab337d1166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::button[2]</value>
+      <webElementGuid>a9b54cd0-bfa1-441b-87ce-305cb037c2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More Rows'])[1]/following::button[2]</value>
+      <webElementGuid>2cbe3dd3-87c9-4005-a3b5-4be13810cd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[2]/preceding::button[1]</value>
+      <webElementGuid>eabce346-05ae-4963-8a5d-d400628a4b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grid Select List NaN columns 1 rows. Use arrow keys'])[1]/preceding::button[1]</value>
+      <webElementGuid>320bad08-5055-411b-8ff9-ed1fbbb3cd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[76]/div[2]/div/button</value>
+      <webElementGuid>3b4e72d3-37c7-418b-b16b-8084142751e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>16a70f46-e731-4593-bafd-64b18bf7e36a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

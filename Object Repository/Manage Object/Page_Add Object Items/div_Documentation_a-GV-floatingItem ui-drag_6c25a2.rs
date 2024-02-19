@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Documentation_a-GV-floatingItem ui-drag_6c25a2</name>
+   <tag></tag>
+   <elementGuidId>ffd47af6-17d3-46da-a11f-da4aa674b4cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='t_PageBody']/div[75]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-GV-floatingItem.ui-draggable.is-expanded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cdcb6c1c-b857-46d9-9d4e-0c714009497b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-floatingItem ui-draggable is-expanded</value>
+      <webElementGuid>dc3bb40a-2c83-4fb1-a0e4-6741483f7fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1a97ee17-7cca-48c3-b63e-5a7915a45670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-owning-region</name>
+      <type>Main</type>
+      <value>igSod_ig_grid_vc</value>
+      <webElementGuid>4fcb81c8-a2ec-4785-8cff-53068c892a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;a-GV-floatingItem ui-draggable is-expanded&quot;]</value>
+      <webElementGuid>94fac25a-a589-4771-821c-645db01d300a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='t_PageBody']/div[75]</value>
+      <webElementGuid>d2317e78-91f5-44e4-b36d-7b8dc2d442d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::div[74]</value>
+      <webElementGuid>7e8a21ab-2324-484c-9523-19bdb49bc4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::div[74]</value>
+      <webElementGuid>f0686bc5-968a-4f0b-bf9a-29b3fa53035b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[75]</value>
+      <webElementGuid>df3163be-e953-4a7f-9cad-c1bc5da1de14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

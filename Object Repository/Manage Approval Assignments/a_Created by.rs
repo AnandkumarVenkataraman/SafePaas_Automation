@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Created by</name>
+   <tag></tag>
+   <elementGuidId>5079c03e-8988-4537-87a1-1df9ebda4270</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C163794382405746482']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C163794382405746482 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8db1e376-0b50-4e61-8bbe-e4bd7d67e19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>87c7cc1c-89be-418e-a1f8-1f19b1b59774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>163794382405746482</value>
+      <webElementGuid>dd3e4025-a476-4e63-b495-cc9de987a2e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>f3fa4db5-a12b-44f6-8c6d-bb161cfeec0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created by</value>
+      <webElementGuid>46fef702-3227-4a88-a2ed-0e7832f0afee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;325069098919960516&quot;)/tr[1]/th[@id=&quot;C163794382405746482&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>d72833b9-f14e-41a5-8b61-947ab9ab7e7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C163794382405746482']/a</value>
+      <webElementGuid>416d2a53-2af3-4e41-b24b-2a45e1b83c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Created by')]</value>
+      <webElementGuid>4e0adbdb-2a09-47c8-a653-21f816bb9e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary owner'])[4]/following::a[1]</value>
+      <webElementGuid>d96371ee-2775-4948-9f76-2999fd843a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary owner'])[4]/following::a[2]</value>
+      <webElementGuid>a24e95d2-1310-49f5-b42d-27b897fd7058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation date'])[1]/preceding::a[1]</value>
+      <webElementGuid>ddbddab3-a41a-478c-9034-bd55ee3308f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT-Roles_G1'])[1]/preceding::a[9]</value>
+      <webElementGuid>a2a48973-26a3-45de-bc51-d2d8f61a7b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Created by']/parent::*</value>
+      <webElementGuid>7cbee61a-75ff-42bc-9cd6-7a5cf04dbda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/a</value>
+      <webElementGuid>8163a1e7-44a6-44ae-b1ea-d38ef0eff890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Created by' or . = 'Created by')]</value>
+      <webElementGuid>a455209b-e69c-4ec1-8ad4-9a5b1c2f1180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

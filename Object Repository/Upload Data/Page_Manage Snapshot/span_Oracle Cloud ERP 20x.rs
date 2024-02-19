@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Oracle Cloud ERP 20x</name>
+   <tag></tag>
+   <elementGuidId>4d0d2925-d1f2-4a6e-8589-e3151ba89292</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P37_APP_TYPE_VERSION_ID_DISPLAY</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='P37_APP_TYPE_VERSION_ID_DISPLAY']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf8a94de-abd7-464f-8b71-b90db50687a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P37_APP_TYPE_VERSION_ID_DISPLAY</value>
+      <webElementGuid>3a4fcc1d-a053-4534-9f9d-e1fd24cd88dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>0b512e41-0856-4eea-84b6-57d3ac2866e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>478ba538-ad48-493f-875b-2e3711e3a565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oracle Cloud ERP 20x</value>
+      <webElementGuid>fcb9f3eb-065c-471d-b233-853d1b15de05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P37_APP_TYPE_VERSION_ID_DISPLAY&quot;)</value>
+      <webElementGuid>ce47f17a-a9fa-423f-9702-9a8bf8b03f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Upload Data/Page_Manage Snapshot/iframe</value>
+      <webElementGuid>7751229d-17ad-4c53-a214-7ebf6b5bda4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P37_APP_TYPE_VERSION_ID_DISPLAY']</value>
+      <webElementGuid>2ab66b29-13f2-4684-8197-5f2e9114df1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P37_APP_TYPE_VERSION_ID_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>256fcadf-a153-494a-9264-feed76f90ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Type Version'])[1]/following::span[1]</value>
+      <webElementGuid>d2211f79-901e-4684-b374-f9c652954f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_OBJECT_SET'])[1]/following::span[2]</value>
+      <webElementGuid>f8d447f7-8591-4511-8a1a-5c972e7db9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/preceding::span[2]</value>
+      <webElementGuid>24c5fd91-f1b3-4fcf-a9a6-f521d368a68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EAM'])[1]/preceding::span[2]</value>
+      <webElementGuid>9e7090e0-306c-4153-8437-d94fbcf41951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Oracle Cloud ERP 20x']/parent::*</value>
+      <webElementGuid>66c57a10-b17c-44c3-b095-b78b2b27f526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/span</value>
+      <webElementGuid>311d8afc-011c-4298-8c54-5a57662a3dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'P37_APP_TYPE_VERSION_ID_DISPLAY' and (text() = 'Oracle Cloud ERP 20x' or . = 'Oracle Cloud ERP 20x')]</value>
+      <webElementGuid>b49bbacf-c152-4edd-962f-fa519134ef72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

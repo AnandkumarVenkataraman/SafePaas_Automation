@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_APEX_220100APEX_DEVAPPQOSSYSAUDSYSAU_2fdf85</name>
+   <tag></tag>
+   <elementGuidId>2a32e897-c1f1-485c-812e-a5b603f85ab6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P39_TAB_OWNER']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P39_TAB_OWNER</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1a51dc24-0012-4423-9838-543a29979cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P39_TAB_OWNER</value>
+      <webElementGuid>e1788870-b058-46a4-9e3d-2135d52d4493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P39_TAB_OWNER</value>
+      <webElementGuid>c57a4956-972a-4fdf-ba46-e2c8c3cf7e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>19cc51af-d8dd-4bac-968a-adbb3e0abbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4228cf68-4b89-4fd8-9ddf-c96b4d2e0ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ddc635f0-dcdb-4762-ab1a-ac0b26fe4ff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+APEX_220100
+APEX_DEV
+APPQOSSYS
+AUDSYS
+AUDT
+CTXSYS
+DBSFWUSER
+DBSNMP
+DM
+FC
+FERM
+FLOWS4APEX
+FLOWS_FILES
+FRR
+FSOD
+FWFLOW
+FWFND
+GFISVY
+GRCIREP
+GRCM
+GSMADMIN_INTERNAL
+IM
+JTRAC
+KRI
+MDSYS
+OJVMSYS
+OLAPSYS
+ORDDATA
+ORDS_METADATA
+OUTLN
+OWBSYS
+RA
+RCM
+RMAN
+RULES
+SCOTT
+SVY
+TEST
+WMSYS
+XDB
+XXLAUD
+</value>
+      <webElementGuid>f3ccf27a-5e17-4445-93b0-68db64f5843c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P39_TAB_OWNER&quot;)</value>
+      <webElementGuid>9fcf73c2-738b-4080-9ac3-8a3826c98fe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P39_TAB_OWNER']</value>
+      <webElementGuid>4d96586f-0b51-489d-8304-70cb98c06cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P39_TAB_OWNER_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>7e44896d-9bad-443b-95a8-48b82329a714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table Owner'])[1]/following::select[1]</value>
+      <webElementGuid>2ea0efd8-194b-42f1-834f-b47b58bac4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::select[1]</value>
+      <webElementGuid>86cd948c-c413-40df-942f-ba41d3db64ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>23e9b516-e16b-474f-bb47-4669e3efd5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns info'])[1]/preceding::select[2]</value>
+      <webElementGuid>45f682b7-1a95-425d-bded-bed2a60e57a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ea235252-44df-4032-8440-1a0920969bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P39_TAB_OWNER' and @name = 'P39_TAB_OWNER' and (text() = '
+APEX_220100
+APEX_DEV
+APPQOSSYS
+AUDSYS
+AUDT
+CTXSYS
+DBSFWUSER
+DBSNMP
+DM
+FC
+FERM
+FLOWS4APEX
+FLOWS_FILES
+FRR
+FSOD
+FWFLOW
+FWFND
+GFISVY
+GRCIREP
+GRCM
+GSMADMIN_INTERNAL
+IM
+JTRAC
+KRI
+MDSYS
+OJVMSYS
+OLAPSYS
+ORDDATA
+ORDS_METADATA
+OUTLN
+OWBSYS
+RA
+RCM
+RMAN
+RULES
+SCOTT
+SVY
+TEST
+WMSYS
+XDB
+XXLAUD
+' or . = '
+APEX_220100
+APEX_DEV
+APPQOSSYS
+AUDSYS
+AUDT
+CTXSYS
+DBSFWUSER
+DBSNMP
+DM
+FC
+FERM
+FLOWS4APEX
+FLOWS_FILES
+FRR
+FSOD
+FWFLOW
+FWFND
+GFISVY
+GRCIREP
+GRCM
+GSMADMIN_INTERNAL
+IM
+JTRAC
+KRI
+MDSYS
+OJVMSYS
+OLAPSYS
+ORDDATA
+ORDS_METADATA
+OUTLN
+OWBSYS
+RA
+RCM
+RMAN
+RULES
+SCOTT
+SVY
+TEST
+WMSYS
+XDB
+XXLAUD
+')]</value>
+      <webElementGuid>c345b0a1-bbe9-4bc1-b1a5-643ce40c8266</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

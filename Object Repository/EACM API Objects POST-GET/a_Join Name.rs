@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Join Name</name>
+   <tag></tag>
+   <elementGuidId>6e6aa5b3-7c7b-470d-9041-d7eeabfd7db5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C168493318679531639']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C168493318679531639 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f8ec205-6b66-43c2-a09e-0f928656dfc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>34b9701c-25c3-4b1f-b39f-62000cf3b3c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>168493318679531639</value>
+      <webElementGuid>999bd369-dd1b-4d9c-820f-bfceb3c44fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>cd61ea5a-b850-4e21-b034-6d39e04d4bf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join Name</value>
+      <webElementGuid>3ee64a44-1342-47bc-a777-3e658f8c786a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;168493145865531637&quot;)/tr[1]/th[@id=&quot;C168493318679531639&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>6d6b3cbd-45d5-4b6a-9b6d-976bf64368e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C168493318679531639']/a</value>
+      <webElementGuid>cde8aed5-e7f2-445c-816d-6452d97926c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Join Name')]</value>
+      <webElementGuid>1afc90b8-59ed-4179-837a-b5ef954a1d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main Table'])[1]/following::a[1]</value>
+      <webElementGuid>ee55e167-9e8c-4250-9914-48a2e5d684e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary Datasource'])[1]/following::a[2]</value>
+      <webElementGuid>17f7c945-8b94-49a4-808a-39a1fe85ad2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SailPoint_ENV2'])[1]/preceding::a[7]</value>
+      <webElementGuid>0143a7e4-dda0-4600-90a5-2f176743015f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_CloudERP'])[1]/preceding::a[7]</value>
+      <webElementGuid>278127f8-9dcd-4d6e-9172-01adfb9f88da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Join Name']/parent::*</value>
+      <webElementGuid>787e98ca-2583-461b-b42d-16b4c0af6e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/a</value>
+      <webElementGuid>567b2965-2ab1-4ae4-85de-42dbbf05eff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Join Name' or . = 'Join Name')]</value>
+      <webElementGuid>537dab1e-7d10-48aa-8958-4448434aced6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

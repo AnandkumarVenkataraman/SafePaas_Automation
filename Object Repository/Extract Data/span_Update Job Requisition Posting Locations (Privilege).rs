@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Update Job Requisition Posting Locations (Privilege)</name>
+   <tag></tag>
+   <elementGuidId>c1411329-45dd-4e8f-ad6e-79dee6bcd9d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-TreeView-label.is-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tree255723123294765918_5']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5fbac499-7be9-4752-898e-4469766ee77a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d25d5ab5-da2d-4469-a778-e3fb09b6fabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>9bd8807c-1fa2-48cf-9cef-5094b37f372e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label is-focused</value>
+      <webElementGuid>c308aa0b-e68e-4056-9ed1-b2b0893ed099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>45d82c11-8249-4c23-b672-de9841daf7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>634629f4-18b2-4577-81af-d8c060348e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Job Requisition Posting Locations (Privilege)</value>
+      <webElementGuid>f6c824e6-10a6-49c0-8e94-a6d0307bcd5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree255723123294765918_5&quot;)/div[@class=&quot;a-TreeView-content&quot;]/span[@class=&quot;a-TreeView-label is-focused&quot;]</value>
+      <webElementGuid>ca969a1f-b4c9-42df-ac8c-a5ac8266079f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tree255723123294765918_5']/div[2]/span</value>
+      <webElementGuid>810fef10-b1a2-4c24-978f-a6554fa3794a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Job Requisition After Draft Phase (Privilege)'])[1]/following::span[1]</value>
+      <webElementGuid>d3a60405-1bb7-46c5-8fd0-0a5b35543b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Candidate Job Offer Letter (Privilege)'])[1]/following::span[2]</value>
+      <webElementGuid>620ed36b-8983-44ef-a829-359c682a3953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Confidential Questionnaire Responses (Privilege)'])[1]/preceding::span[1]</value>
+      <webElementGuid>46361cb0-4470-48a3-8cf4-3fcfa03e65e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Hierarchy (Inherited)'])[1]/preceding::span[2]</value>
+      <webElementGuid>0038f887-7ae7-48c6-9ad7-0faf3c415b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update Job Requisition Posting Locations (Privilege)']/parent::*</value>
+      <webElementGuid>b05b1411-7533-4106-9485-946dfd587b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/ul/li[5]/div[2]/span</value>
+      <webElementGuid>46847f5d-b59e-4340-b9bb-932887c4b2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Update Job Requisition Posting Locations (Privilege)' or . = 'Update Job Requisition Posting Locations (Privilege)')]</value>
+      <webElementGuid>7f6f5706-e095-4b46-850c-3e44f3382bb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
