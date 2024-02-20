@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any -Cancel</name>
+   <tag></tag>
+   <elementGuidId>888bc277-4e01-411b-8231-56ff0f4c2d23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_ACTIONS_AVAILABLE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e138d8d5-16e1-47d4-84c5-0bfd190951e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>94dd0be2-6392-417c-843b-92d6458b98fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>a5c60a43-13d5-403c-8775-d2f8b10064ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>83ba3fa5-fd99-4a1f-a661-517e3cb00c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4792ce61-dae1-4ad1-ab9f-e0e6430d160a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d687cefb-d290-4421-8ec9-594656434152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any -
+Cancel
+</value>
+      <webElementGuid>a7d16c4c-ba73-4c91-baee-20a915f73d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_ACTIONS_AVAILABLE&quot;)</value>
+      <webElementGuid>200e1cff-d9ed-4301-9708-7a6aa22922c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/iframe</value>
+      <webElementGuid>65b866eb-b9bb-456a-af1d-94fadeeafed9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
+      <webElementGuid>2be82626-e090-4187-adf0-f00e4d1d3888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_ACTIONS_AVAILABLE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b8fcda8b-78d0-4ad9-ab34-9d93bf90f9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f84c21b8-6bc9-409a-b81c-fe676b2e2d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P35_ACTIONS_AVAILABLE' and @name = 'P35_ACTIONS_AVAILABLE' and (text() = '- Please select any -
+Cancel
+' or . = '- Please select any -
+Cancel
+')]</value>
+      <webElementGuid>17843c6c-e7cd-4eff-82ad-9557f00ad7ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

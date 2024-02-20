@@ -58,12 +58,12 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certi
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_Feb13_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), 'Test11')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_Feb13_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'Test11')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/button_Popup Calendar End Date'))
 
@@ -72,6 +72,10 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate Use
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/a_10'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/a_10'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/button_Close'))
+
+WebUI.click(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/button_Close'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/label_Verified'))
 

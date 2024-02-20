@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any -ReassignEscalationReminder</name>
+   <tag></tag>
+   <elementGuidId>5ac80efb-3bb8-4e19-82d7-0c2cbea4e24b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_ACTIONS_AVAILABLE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8b2f1b1a-553e-489d-8972-6cbf301ff26c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>14bc6cd2-a5bc-4521-95cb-6beb9dac607d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>412fba6d-a7e2-4fa6-b227-f8ed578154ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>81c29b94-cb90-407f-a782-84cccd600bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>28f2b33a-fd1e-4a95-8eae-309e1521dc82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c8186fcb-24f2-4baa-b033-84c7da702fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any -
+Reassign
+Escalation
+Reminder
+</value>
+      <webElementGuid>54aac006-370f-4edd-be05-a58d33c4e301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_ACTIONS_AVAILABLE&quot;)</value>
+      <webElementGuid>8312e8c3-d73d-4af7-9dac-9d1e5e8ce9a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/iframe</value>
+      <webElementGuid>5829b88a-cb69-4fbf-9dc5-f937203cbdb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
+      <webElementGuid>3e211b06-8561-4e08-9a86-77daf460b1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_ACTIONS_AVAILABLE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>ad1aecc8-39fe-4ed5-9b22-56a689de4b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d04dfcd8-ad26-4045-9ea7-57a246380506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P35_ACTIONS_AVAILABLE' and @name = 'P35_ACTIONS_AVAILABLE' and (text() = '- Please select any -
+Reassign
+Escalation
+Reminder
+' or . = '- Please select any -
+Reassign
+Escalation
+Reminder
+')]</value>
+      <webElementGuid>a9243a05-df70-4789-be31-72dccb641007</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

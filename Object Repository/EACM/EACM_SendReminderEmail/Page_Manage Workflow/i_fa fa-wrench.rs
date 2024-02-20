@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-wrench</name>
+   <tag></tag>
+   <elementGuidId>9c67f447-ce07-427d-9708-2ea0bc3c5a80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='97390712237089040_orig']/tbody/tr[2]/td[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d91470f2-3af1-4edc-9cc3-3788d1230d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-wrench</value>
+      <webElementGuid>7e5c6a5f-d9ed-434a-9782-628deeb8f72b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3f7c8c49-75cc-4ec6-8ce4-c71556ba55cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;97390712237089040_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/i[@class=&quot;fa fa-wrench&quot;]</value>
+      <webElementGuid>0bdaba62-e33d-4156-82a8-274cf29d01e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='97390712237089040_orig']/tbody/tr[2]/td[2]/a/i</value>
+      <webElementGuid>1fe292e5-40a1-414a-87ce-3d6bf5b596e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[3]/table/tbody/tr[2]/td[2]/a/i</value>
+      <webElementGuid>072036ea-5870-48f3-b1c3-9c3f5883b029</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

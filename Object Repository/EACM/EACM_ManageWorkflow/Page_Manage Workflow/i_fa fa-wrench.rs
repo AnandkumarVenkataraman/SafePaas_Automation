@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-wrench</name>
+   <tag></tag>
+   <elementGuidId>8aa96dcf-4197-4736-9df7-ffac39f48db5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-wrench</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d87b31a6-d35b-44cc-93ef-0b2e70cc0141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-wrench</value>
+      <webElementGuid>a65da26b-47c6-49aa-a0fc-2dc7fa1b20cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>57adc2ac-9134-46bf-b707-7ce9d564bebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;97388373399089016_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/i[@class=&quot;fa fa-wrench&quot;]</value>
+      <webElementGuid>b10f05f7-d7e8-4974-8e42-296b0d0084ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[2]/a/i</value>
+      <webElementGuid>641b35b1-8ec5-4cd6-8dfb-153ac7e4ca46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>507a5ec6-14de-4a14-baf6-d6a97722aea6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

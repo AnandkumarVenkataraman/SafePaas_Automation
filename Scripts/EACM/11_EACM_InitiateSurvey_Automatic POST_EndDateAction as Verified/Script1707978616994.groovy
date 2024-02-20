@@ -73,6 +73,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/a_10'))
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/button_Close'))
+
+WebUI.click(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/button_Close'))
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/label_Verified'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/label_Verified'))

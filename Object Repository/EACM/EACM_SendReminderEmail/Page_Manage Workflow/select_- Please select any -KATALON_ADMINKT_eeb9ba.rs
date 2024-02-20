@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any -KATALON_ADMINKT_eeb9ba</name>
+   <tag></tag>
+   <elementGuidId>120ea8cc-3cad-415c-815d-e019700a12c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_ORIG_APPROVER</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_ORIG_APPROVER']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>95bf115a-c965-4a40-8825-4cad5517e3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_ORIG_APPROVER</value>
+      <webElementGuid>60a18719-3edf-4a87-9d14-47778c575c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P35_ORIG_APPROVER</value>
+      <webElementGuid>359cde68-4c4c-478c-af15-7b57140fef61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>7f087733-fb0f-4507-8c12-fd39f05833a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ff13ac53-32e8-4c11-a1fd-57eb38da2a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>8e87a63b-3ce5-41e0-abe4-56a52fbec393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any -
+KATALON_ADMIN
+KTLN_EACM_USER1
+</value>
+      <webElementGuid>ee91fb25-818d-4a5d-b46d-62e8b5305e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_ORIG_APPROVER&quot;)</value>
+      <webElementGuid>fdbed26f-b3d5-4e77-9197-d842654899e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/iframe</value>
+      <webElementGuid>8dd89514-b8d0-407a-8ecc-8676d3b8cb61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_ORIG_APPROVER']</value>
+      <webElementGuid>a13bf561-1c07-4915-8fc5-d18093bf8849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_ORIG_APPROVER_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>29f17ed3-421a-4fda-a10e-036f8c5f725e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>8b96d463-8ab7-4bcd-8ead-9e3c1ce1bf94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P35_ORIG_APPROVER' and @name = 'P35_ORIG_APPROVER' and (text() = '- Please select any -
+KATALON_ADMIN
+KTLN_EACM_USER1
+' or . = '- Please select any -
+KATALON_ADMIN
+KTLN_EACM_USER1
+')]</value>
+      <webElementGuid>0a843a99-d42d-46d0-a736-f453f950b413</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
