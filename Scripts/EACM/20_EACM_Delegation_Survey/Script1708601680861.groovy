@@ -66,7 +66,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Certifying S
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'), 
-    'KTLN_EACM_Survey_Feb22_V1')
+    'KTLN_EACM_Survey_Feb22_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Apply'))
 
@@ -197,7 +197,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurve
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    'Justification for KTLN_EACM_Survey_Feb22_V1')
+    'Justification for KTLN_EACM_Survey_Feb22_V2')
 
 WebUI.scrollToPosition(0, 0)
 
@@ -286,7 +286,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurve
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    'Justification for TKTLN_EACM_Survey_Feb22_V1')
+    'Justification for TKTLN_EACM_Survey_Feb22_V2')
 
 WebUI.scrollToPosition(0, 0)
 
@@ -385,7 +385,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_CertifySur
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), 'KTLN_EACM_Survey_Feb22_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), 'KTLN_EACM_Survey_Feb22_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/button_Apply'))
 
@@ -445,7 +445,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SU
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 'KTLN_EACM_Survey_Feb22_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 'KTLN_EACM_Survey_Feb22_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/button_Apply'))
 
@@ -573,7 +573,7 @@ WebUI.selectOptionByLabel(findTestObject('EACM/POST EACM SURVEY/Page_Manage Cert
 WebUI.verifyElementClickable(findTestObject('EACM/POST EACM SURVEY/Page_User Access Certification Details/select_Select any oneKTLN_EACM_Survey_Feb12_597753 - 0003'))
 
 WebUI.selectOptionByLabel(findTestObject('EACM/POST EACM SURVEY/Page_User Access Certification Details/select_Select any oneKTLN_EACM_Survey_Feb12_597753 - 0003'), 
-    'KTLN_EACM_Survey_Feb22_V1', true, FailureHandling.OPTIONAL)
+    'KTLN_EACM_Survey_Feb22_V2', true, FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
