@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select any oneCERP_1CloudERPEBizApp__a9def6</name>
+   <name>select_- Please select one -Enterprise Acce_e8a0fd</name>
    <tag></tag>
-   <elementGuidId>209a069b-2ae7-411e-a1ae-5ffa7b8c84ef</elementGuidId>
+   <elementGuidId>a0ca766e-462f-44dc-b2d5-e5162a860d66</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P0_ENVIRONMENT</value>
+         <value>#P37_MODULE</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P0_ENVIRONMENT']</value>
+         <value>//select[@id='P37_MODULE']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a4917dae-0b80-4dba-8aac-1d3f6f7d4de2</webElementGuid>
+      <webElementGuid>52d4f1e7-ef11-4617-93b7-b6ea5709fefc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>4bfc0afc-b98e-46ca-b444-cff85efc996e</webElementGuid>
+      <value>P37_MODULE</value>
+      <webElementGuid>1dd19d1f-301e-4478-97dd-8546bfdff068</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>3687efd8-5fd2-42ff-8775-7a54c3b00487</webElementGuid>
+      <value>P37_MODULE</value>
+      <webElementGuid>0fff8210-3c85-47fc-9835-d386391978b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>04ff797d-4b4e-4e1e-b926-a7e4ab9040fb</webElementGuid>
+      <webElementGuid>512881ec-d367-48fe-8cef-fb22884783db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5a6601bb-7e57-406a-9b0f-ac72eff5fab4</webElementGuid>
+      <webElementGuid>7a797c70-f46c-42ce-9862-8ca6ae4c2622</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,58 +62,42 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>f1391c5e-29d4-4766-a1a8-a3733f2a77ec</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onchange</name>
-      <type>Main</type>
-      <value>apex.submit('P0_ENVIRONMENT');</value>
-      <webElementGuid>c2008b25-dd87-4af0-a149-19f4ece2ac07</webElementGuid>
+      <webElementGuid>5322b1fb-da38-4dbf-955c-a4f750bc011b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
+      <value>- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
 </value>
-      <webElementGuid>d8f749ea-a70c-4001-b918-2bf0a65f0dda</webElementGuid>
+      <webElementGuid>f2738264-caf7-43f1-8f02-59ad4cd62f31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
-      <webElementGuid>e0fe7669-d59e-436f-bed0-53dcfe743d8d</webElementGuid>
+      <value>id(&quot;P37_MODULE&quot;)</value>
+      <webElementGuid>304a1716-7a6e-4dee-8aca-3d33df61e743</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P0_ENVIRONMENT']</value>
-      <webElementGuid>56b9c602-4c94-4bf1-b17c-50ef6eddc1aa</webElementGuid>
+      <value>//select[@id='P37_MODULE']</value>
+      <webElementGuid>abc0687d-ac45-4ea0-a95d-9667c72746fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>486cca74-64be-4b65-9428-8ad100c42a5a</webElementGuid>
+      <value>//div[@id='P37_MODULE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>9b1a1b10-09f5-4c87-a5a1-6b0d4aedbdd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,36 +105,20 @@ TririgaDB_Env
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>36f852ad-dd39-4d04-aaee-5e2f15d6dcec</webElementGuid>
+      <webElementGuid>55c5ada3-dad3-4554-b68d-3034cb8e709f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-' or . = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
+      <value>//select[@id = 'P37_MODULE' and @name = 'P37_MODULE' and (text() = '- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
+' or . = '- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
 ')]</value>
-      <webElementGuid>41b75b2c-f99f-4614-af0f-a771a4323e7c</webElementGuid>
+      <webElementGuid>d4826e35-21d7-4845-a606-238ac9c0db40</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

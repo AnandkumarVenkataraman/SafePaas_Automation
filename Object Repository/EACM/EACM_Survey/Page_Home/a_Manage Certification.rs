@@ -6,12 +6,12 @@
    <elementGuidId>b4fa659a-155b-47cf-baef-cde3657de5e0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.a-TreeView-label.is-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage Certification')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

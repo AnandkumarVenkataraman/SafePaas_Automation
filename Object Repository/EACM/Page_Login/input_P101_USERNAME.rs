@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select any oneCERP_1CloudERPEBizApp__a9def6</name>
+   <name>input_P101_USERNAME</name>
    <tag></tag>
-   <elementGuidId>209a069b-2ae7-411e-a1ae-5ffa7b8c84ef</elementGuidId>
+   <elementGuidId>8862c00c-06b2-4b5a-a52d-7106f74a5072</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P0_ENVIRONMENT</value>
+         <value>#P101_USERNAME</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P0_ENVIRONMENT']</value>
+         <value>//input[@id='P101_USERNAME']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,136 +21,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>a4917dae-0b80-4dba-8aac-1d3f6f7d4de2</webElementGuid>
+      <value>input</value>
+      <webElementGuid>bd69adf5-b57e-43c0-b3f2-848cbdef54fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>56663495-d127-4235-bc73-3328778c771f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>4bfc0afc-b98e-46ca-b444-cff85efc996e</webElementGuid>
+      <value>P101_USERNAME</value>
+      <webElementGuid>19715c27-b739-40a6-ad53-6289a5f4c90e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>3687efd8-5fd2-42ff-8775-7a54c3b00487</webElementGuid>
+      <value>P101_USERNAME</value>
+      <webElementGuid>8b9ed750-1266-4f83-bbeb-a561d7d2ea92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>fd535b72-323e-4589-bae7-474cb87a5902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>selectlist apex-item-select</value>
-      <webElementGuid>04ff797d-4b4e-4e1e-b926-a7e4ab9040fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-native-menu</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>5a6601bb-7e57-406a-9b0f-ac72eff5fab4</webElementGuid>
+      <value>text_field apex-item-text</value>
+      <webElementGuid>85c1aee3-2133-4434-b700-702cdf2175ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>size</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>f1391c5e-29d4-4766-a1a8-a3733f2a77ec</webElementGuid>
+      <value>39</value>
+      <webElementGuid>37461080-510a-4815-9df2-fce6d599f95d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onchange</name>
+      <name>maxlength</name>
       <type>Main</type>
-      <value>apex.submit('P0_ENVIRONMENT');</value>
-      <webElementGuid>c2008b25-dd87-4af0-a149-19f4ece2ac07</webElementGuid>
+      <value>100</value>
+      <webElementGuid>7e8a7855-7598-41ca-9d51-393e757c53fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>data-trim-spaces</name>
       <type>Main</type>
-      <value>Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-</value>
-      <webElementGuid>d8f749ea-a70c-4001-b918-2bf0a65f0dda</webElementGuid>
+      <value>NONE</value>
+      <webElementGuid>69048bc4-750c-45c2-bd0f-fbf39fba85e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
-      <webElementGuid>e0fe7669-d59e-436f-bed0-53dcfe743d8d</webElementGuid>
+      <value>id(&quot;P101_USERNAME&quot;)</value>
+      <webElementGuid>8af736a6-6369-4183-8d65-777d9ea42fed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P0_ENVIRONMENT']</value>
-      <webElementGuid>56b9c602-4c94-4bf1-b17c-50ef6eddc1aa</webElementGuid>
+      <value>//input[@id='P101_USERNAME']</value>
+      <webElementGuid>dfee5e51-ae3a-42e4-9458-fe7aff16eacf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>486cca74-64be-4b65-9428-8ad100c42a5a</webElementGuid>
+      <value>//div[@id='P101_USERNAME_CONTAINER']/div[2]/div/input</value>
+      <webElementGuid>6e6bd6bc-979f-4cad-b268-d838778c0329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>36f852ad-dd39-4d04-aaee-5e2f15d6dcec</webElementGuid>
+      <value>//div[6]/div[2]/div/input</value>
+      <webElementGuid>2341c9e8-687e-46d8-8066-9981332a3dbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-' or . = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-')]</value>
-      <webElementGuid>41b75b2c-f99f-4614-af0f-a771a4323e7c</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'P101_USERNAME' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
+      <webElementGuid>d2831395-cb87-48d3-84ce-c951857f68ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

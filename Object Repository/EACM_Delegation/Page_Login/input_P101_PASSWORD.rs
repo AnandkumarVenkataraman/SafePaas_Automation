@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select any oneCERP_1CloudERPEBizApp__a9def6</name>
+   <name>input_P101_PASSWORD</name>
    <tag></tag>
-   <elementGuidId>209a069b-2ae7-411e-a1ae-5ffa7b8c84ef</elementGuidId>
+   <elementGuidId>4039b376-0f41-48e3-9f4e-d5e178a3c844</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P0_ENVIRONMENT</value>
+         <value>#P101_PASSWORD</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P0_ENVIRONMENT']</value>
+         <value>//input[@id='P101_PASSWORD']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,136 +21,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>a4917dae-0b80-4dba-8aac-1d3f6f7d4de2</webElementGuid>
+      <value>input</value>
+      <webElementGuid>45acd885-0ab8-4e6e-b528-ce5a79c1d13b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>4bfc0afc-b98e-46ca-b444-cff85efc996e</webElementGuid>
+      <value>password</value>
+      <webElementGuid>7a64e6bc-c484-4ddd-8247-3437f23a29ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>3687efd8-5fd2-42ff-8775-7a54c3b00487</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>selectlist apex-item-select</value>
-      <webElementGuid>04ff797d-4b4e-4e1e-b926-a7e4ab9040fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-native-menu</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>5a6601bb-7e57-406a-9b0f-ac72eff5fab4</webElementGuid>
+      <value>P101_PASSWORD</value>
+      <webElementGuid>d1f85c86-b403-46cc-a4dd-56ab273ee829</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>size</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>f1391c5e-29d4-4766-a1a8-a3733f2a77ec</webElementGuid>
+      <value>40</value>
+      <webElementGuid>a73360d3-beac-4930-9967-b857c8e3fc96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onchange</name>
+      <name>maxlength</name>
       <type>Main</type>
-      <value>apex.submit('P0_ENVIRONMENT');</value>
-      <webElementGuid>c2008b25-dd87-4af0-a149-19f4ece2ac07</webElementGuid>
+      <value>100</value>
+      <webElementGuid>d0083490-80aa-4fae-abdd-606614c858b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-</value>
-      <webElementGuid>d8f749ea-a70c-4001-b918-2bf0a65f0dda</webElementGuid>
+      <value>P101_PASSWORD</value>
+      <webElementGuid>9ee077a7-4769-47f2-9d6f-ada75706f09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>647bc62a-b173-41c3-873b-6ec0e46278fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>password apex-item-text</value>
+      <webElementGuid>36d0e051-7ad3-498a-ba4a-fdab07a8eaae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeypress</name>
+      <type>Main</type>
+      <value>if(event.key === 'Enter') normalLogin();</value>
+      <webElementGuid>617cc8bb-e233-4a56-b58e-4053146ada78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
-      <webElementGuid>e0fe7669-d59e-436f-bed0-53dcfe743d8d</webElementGuid>
+      <value>id(&quot;P101_PASSWORD&quot;)</value>
+      <webElementGuid>766d3cee-f139-4253-878b-efd1f25292b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P0_ENVIRONMENT']</value>
-      <webElementGuid>56b9c602-4c94-4bf1-b17c-50ef6eddc1aa</webElementGuid>
+      <value>//input[@id='P101_PASSWORD']</value>
+      <webElementGuid>0a050085-98a3-42db-a93c-77c0aca75fc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>486cca74-64be-4b65-9428-8ad100c42a5a</webElementGuid>
+      <value>//div[@id='P101_PASSWORD_CONTAINER']/div[2]/div/input</value>
+      <webElementGuid>3245be34-9727-435f-baf5-12a9c6d0c5f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>36f852ad-dd39-4d04-aaee-5e2f15d6dcec</webElementGuid>
+      <value>//div[7]/div[2]/div/input</value>
+      <webElementGuid>8a1e535c-4fd9-4cb5-a0d0-6ee5a0e53e01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-' or . = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-')]</value>
-      <webElementGuid>41b75b2c-f99f-4614-af0f-a771a4323e7c</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'P101_PASSWORD' and @id = 'P101_PASSWORD' and @placeholder = 'Password']</value>
+      <webElementGuid>6fc00e53-9cc8-4f70-ba54-bb620be6d0c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

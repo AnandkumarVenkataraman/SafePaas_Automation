@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select any oneCERP_1CloudERPEBizApp__a9def6</name>
+   <name>select_Select DetailsActionsWorkflow NamePr_1ec721</name>
    <tag></tag>
-   <elementGuidId>209a069b-2ae7-411e-a1ae-5ffa7b8c84ef</elementGuidId>
+   <elementGuidId>983972b8-1248-4d24-80dc-1c76fbd96b02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P0_ENVIRONMENT</value>
+         <value>#wfReport_column_name</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P0_ENVIRONMENT']</value>
+         <value>//select[@id='wfReport_column_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,39 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a4917dae-0b80-4dba-8aac-1d3f6f7d4de2</webElementGuid>
+      <webElementGuid>4e6f4291-0dd6-4d29-bcb5-a1ea51a7306b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>4bfc0afc-b98e-46ca-b444-cff85efc996e</webElementGuid>
+      <value>wfReport_column_name</value>
+      <webElementGuid>d13f18fa-5d3c-4e23-a02e-7c6f1618e3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Column</value>
+      <webElementGuid>6828b34c-f1ba-4b55-93ef-92900b90c990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P0_ENVIRONMENT</value>
-      <webElementGuid>3687efd8-5fd2-42ff-8775-7a54c3b00487</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>selectlist apex-item-select</value>
-      <webElementGuid>04ff797d-4b4e-4e1e-b926-a7e4ab9040fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-native-menu</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>5a6601bb-7e57-406a-9b0f-ac72eff5fab4</webElementGuid>
+      <value>p_ignore_10</value>
+      <webElementGuid>5eccc893-c169-425d-b025-4732e673e41f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,95 +54,62 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>f1391c5e-29d4-4766-a1a8-a3733f2a77ec</webElementGuid>
+      <webElementGuid>55162404-90ba-41f9-864e-766d6b71553c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onchange</name>
+      <name>class</name>
       <type>Main</type>
-      <value>apex.submit('P0_ENVIRONMENT');</value>
-      <webElementGuid>c2008b25-dd87-4af0-a149-19f4ece2ac07</webElementGuid>
+      <value>apex-item-select</value>
+      <webElementGuid>34937d7b-e3bd-489a-9c67-86fcdd9f08e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-</value>
-      <webElementGuid>d8f749ea-a70c-4001-b918-2bf0a65f0dda</webElementGuid>
+      <value>Select DetailsActionsWorkflow NameProcessStatusInfoCreated DateCreated ByLast Update DateLast Updated ByViewer</value>
+      <webElementGuid>4b9eee8a-0a76-4750-9a74-6c1573418f98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
-      <webElementGuid>e0fe7669-d59e-436f-bed0-53dcfe743d8d</webElementGuid>
+      <value>id(&quot;wfReport_column_name&quot;)</value>
+      <webElementGuid>7f03ac70-74e2-4b44-bc89-0ba8ce49e15e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P0_ENVIRONMENT']</value>
-      <webElementGuid>56b9c602-4c94-4bf1-b17c-50ef6eddc1aa</webElementGuid>
+      <value>//select[@id='wfReport_column_name']</value>
+      <webElementGuid>477f4b97-e21d-45d9-85de-fee0e8ee0d1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>486cca74-64be-4b65-9428-8ad100c42a5a</webElementGuid>
+      <value>//div[@id='wfReport_column_filter']/div/div/div/div[2]/select</value>
+      <webElementGuid>1552168e-1948-4dba-a0a6-17de8ca93f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>36f852ad-dd39-4d04-aaee-5e2f15d6dcec</webElementGuid>
+      <value>//div[2]/select</value>
+      <webElementGuid>26984a5b-83d2-489c-864b-172b91ebf5ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-' or . = 'Select any one
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SailPoint_Env
-SailPoint_ENV2
-SFP304T
-TririgaDB_Env
-')]</value>
-      <webElementGuid>41b75b2c-f99f-4614-af0f-a771a4323e7c</webElementGuid>
+      <value>//select[@id = 'wfReport_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'Select DetailsActionsWorkflow NameProcessStatusInfoCreated DateCreated ByLast Update DateLast Updated ByViewer' or . = 'Select DetailsActionsWorkflow NameProcessStatusInfoCreated DateCreated ByLast Update DateLast Updated ByViewer')]</value>
+      <webElementGuid>d16dc0f3-4acb-43ce-b2c7-810b8131ff7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
