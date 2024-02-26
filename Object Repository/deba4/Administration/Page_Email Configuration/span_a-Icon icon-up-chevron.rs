@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_a-Icon icon-up-chevron</name>
+   <tag></tag>
+   <elementGuidId>207dcbd2-5a4e-430f-b051-ad9bced39e07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='t_Footer_topButton']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-up-chevron</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aee0ee83-cdf2-4546-9e68-30fa0121dcb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-up-chevron</value>
+      <webElementGuid>dfaad1f7-d49d-4808-a72b-558adaec50b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Footer_topButton&quot;)/span[@class=&quot;a-Icon icon-up-chevron&quot;]</value>
+      <webElementGuid>a700954a-b78c-46bc-a301-2b75e175c9ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='t_Footer_topButton']/span</value>
+      <webElementGuid>1e124ddc-779b-4c40-8324-bc15921d179c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/a/span</value>
+      <webElementGuid>59f435de-9b41-403b-b491-b080426bb46c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
