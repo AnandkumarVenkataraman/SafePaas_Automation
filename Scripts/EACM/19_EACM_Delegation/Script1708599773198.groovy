@@ -62,17 +62,17 @@ WebUI.verifyElementClickable(findTestObject('EACM_Delegation/Page_User Preferenc
 
 WebUI.click(findTestObject('EACM_Delegation/Page_User Preferences/span_start Date_321'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM_Delegation/Page_User Preferences/a_22'))
+WebUI.verifyElementClickable(findTestObject('EACM_Delegation/Page_User Preferences/a_Delegation Start Date'))
 
-WebUI.click(findTestObject('Object Repository/EACM_Delegation/Page_User Preferences/a_22'))
+WebUI.click(findTestObject('EACM_Delegation/Page_User Preferences/a_Delegation Start Date'))
 
 WebUI.verifyElementClickable(findTestObject('EACM_Delegation/Page_User Preferences/span_End Date_322'))
 
 WebUI.click(findTestObject('EACM_Delegation/Page_User Preferences/span_End Date_322'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM_Delegation/Page_User Preferences/a_23'))
+WebUI.verifyElementClickable(findTestObject('EACM_Delegation/Page_User Preferences/a_Delegation end Date'))
 
-WebUI.click(findTestObject('Object Repository/EACM_Delegation/Page_User Preferences/a_23'))
+WebUI.click(findTestObject('EACM_Delegation/Page_User Preferences/a_Delegation end Date'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM_Delegation/Page_User Preferences/button_Apply'))
 

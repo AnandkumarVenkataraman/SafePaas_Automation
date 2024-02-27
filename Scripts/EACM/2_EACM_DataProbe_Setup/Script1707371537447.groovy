@@ -96,17 +96,17 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataPro
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_AddEdit Environment/button_Cancel'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle'))
+WebUI.verifyElementClickable(findTestObject('EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle - 335'))
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle'))
+WebUI.click(findTestObject('EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle - 335'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle_1'))
+WebUI.verifyElementClickable(findTestObject('EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle_1 - 336'))
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle_1'))
+WebUI.click(findTestObject('EACM/EACM_DataProbe_Setup/Page_Manage Environment/span_a-TreeView-toggle_1 - 336'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Environment/a_Manage Data Source'))
+WebUI.verifyElementClickable(findTestObject('EACM/EACM_DataProbe_Setup/Page_Manage Environment/a_Manage Data Source - 337'))
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Environment/a_Manage Data Source'))
+WebUI.click(findTestObject('EACM/EACM_DataProbe_Setup/Page_Manage Environment/a_Manage Data Source - 337'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Data Source/select_- Select an Environment -CERP_1Cloud_6a439d'))
 

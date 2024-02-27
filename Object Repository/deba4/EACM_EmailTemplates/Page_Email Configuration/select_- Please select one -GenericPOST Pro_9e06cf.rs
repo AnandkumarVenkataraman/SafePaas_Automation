@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_- Select an Environment -CERP_1Cloud_6a439d</name>
+   <name>select_- Please select one -GenericPOST Pro_9e06cf</name>
    <tag></tag>
-   <elementGuidId>21cf3acc-e654-4c71-8037-982d52d97d48</elementGuidId>
+   <elementGuidId>e4e7cf29-25a8-46a5-9d57-5694d01946a6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select</value>
+         <value>//select[@id='P34_EMAIL_CATEGORY']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#P100_ENVIRONMENT</value>
+         <value>#P34_EMAIL_CATEGORY</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5a2c442d-9639-443a-b12f-b7a9135189c7</webElementGuid>
+      <webElementGuid>f93fbd46-1f20-417b-a00a-5d6047c4368c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P100_ENVIRONMENT</value>
-      <webElementGuid>7a819c85-6954-4d8d-8b4a-d121fa659018</webElementGuid>
+      <value>P34_EMAIL_CATEGORY</value>
+      <webElementGuid>f9769e58-70ed-4ba8-806d-09322b4f9196</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P100_ENVIRONMENT</value>
-      <webElementGuid>f20c7f73-0088-433c-9d38-a17fc5016f13</webElementGuid>
+      <value>P34_EMAIL_CATEGORY</value>
+      <webElementGuid>571be069-298b-429f-acc7-817338ca7a7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>14188dc6-6601-436f-b8fd-5ee0b1aa2a94</webElementGuid>
+      <webElementGuid>c879e191-2a13-4a48-842e-df100f6d15df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>117c4b75-9960-4bf8-b192-a763748c8db1</webElementGuid>
+      <webElementGuid>69886cf8-5b96-4e6d-8f07-1f5349330a06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,95 +62,57 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>94bb543b-3e08-41d6-84b9-a5f3fb31536f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onchange</name>
-      <type>Main</type>
-      <value>apex.submit('P100_ENVIRONMENT');</value>
-      <webElementGuid>5c5be847-d835-4d59-bdc6-43b1066de5f2</webElementGuid>
+      <webElementGuid>d520360c-2d88-4237-aee2-8d0937e2e5b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>- Select an Environment -
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SFP304T
-SailPoint_ENV2
-SailPoint_Env
-TririgaDB_Env
-</value>
-      <webElementGuid>5ad638f5-d38f-4d67-bbd1-af71d6bbd7a8</webElementGuid>
+      <value>- Please select one -
+GenericPOST Process ErrorReassignment NotificationCancelling NotificationDelegation NotificationEscalation NotificationReminder NotificationAfter Review Notification</value>
+      <webElementGuid>40af2dc7-2267-4b20-a724-b7ba23b11156</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P100_ENVIRONMENT&quot;)</value>
-      <webElementGuid>272278e9-f019-44a0-b04c-374b80459bc3</webElementGuid>
+      <value>id(&quot;P34_EMAIL_CATEGORY&quot;)</value>
+      <webElementGuid>87e77301-6ba7-4de8-9ff1-8ea7ef0a9d27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P100_ENVIRONMENT']</value>
-      <webElementGuid>65fd9b21-c61c-42e5-9661-ccfc08cbc41a</webElementGuid>
+      <value>//select[@id='P34_EMAIL_CATEGORY']</value>
+      <webElementGuid>e65b2d15-8255-4939-a929-1021dfd2b1cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P100_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>dd96f6ec-da25-45f0-bae0-31f9adccbf80</webElementGuid>
+      <value>//div[@id='P34_EMAIL_CATEGORY_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>44f398bf-be51-4302-a406-8703f72c9cae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>77f2e6dc-fa9d-4ecb-8e36-0738b636b3d6</webElementGuid>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>40793369-3356-4384-b719-c98df14dc077</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P100_ENVIRONMENT' and @name = 'P100_ENVIRONMENT' and (text() = '- Select an Environment -
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SFP304T
-SailPoint_ENV2
-SailPoint_Env
-TririgaDB_Env
-' or . = '- Select an Environment -
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SFP304T
-SailPoint_ENV2
-SailPoint_Env
-TririgaDB_Env
-')]</value>
-      <webElementGuid>17962f73-3a09-4107-a309-e56247ecac62</webElementGuid>
+      <value>//select[@id = 'P34_EMAIL_CATEGORY' and @name = 'P34_EMAIL_CATEGORY' and (text() = '- Please select one -
+GenericPOST Process ErrorReassignment NotificationCancelling NotificationDelegation NotificationEscalation NotificationReminder NotificationAfter Review Notification' or . = '- Please select one -
+GenericPOST Process ErrorReassignment NotificationCancelling NotificationDelegation NotificationEscalation NotificationReminder NotificationAfter Review Notification')]</value>
+      <webElementGuid>c8a845e7-81e0-417d-9ac1-28885c2307c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

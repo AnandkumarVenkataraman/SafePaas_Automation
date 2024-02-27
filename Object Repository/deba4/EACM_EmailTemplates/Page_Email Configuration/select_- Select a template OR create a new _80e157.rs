@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_- Select an Environment -CERP_1Cloud_6a439d</name>
+   <name>select_- Select a template OR create a new _80e157</name>
    <tag></tag>
-   <elementGuidId>21cf3acc-e654-4c71-8037-982d52d97d48</elementGuidId>
+   <elementGuidId>803dc7c7-9ef5-46f2-9f29-0e28b683f630</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select</value>
+         <value>//select[@id='P34_TEMPLATE_NAME']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#P100_ENVIRONMENT</value>
+         <value>#P34_TEMPLATE_NAME</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5a2c442d-9639-443a-b12f-b7a9135189c7</webElementGuid>
+      <webElementGuid>06828306-31c0-4996-86a1-f4878c55cebc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P100_ENVIRONMENT</value>
-      <webElementGuid>7a819c85-6954-4d8d-8b4a-d121fa659018</webElementGuid>
+      <value>P34_TEMPLATE_NAME</value>
+      <webElementGuid>9bddcbe6-8d79-4b9d-bce6-0ba6c11b9016</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P100_ENVIRONMENT</value>
-      <webElementGuid>f20c7f73-0088-433c-9d38-a17fc5016f13</webElementGuid>
+      <value>P34_TEMPLATE_NAME</value>
+      <webElementGuid>57305442-f9a0-4fa3-8032-8b53fbffd49b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>14188dc6-6601-436f-b8fd-5ee0b1aa2a94</webElementGuid>
+      <webElementGuid>261764f5-d427-4536-b4fd-21235b67f1cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>117c4b75-9960-4bf8-b192-a763748c8db1</webElementGuid>
+      <webElementGuid>04515a5f-1248-4385-8198-92abe5ce8896</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,95 +62,57 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>94bb543b-3e08-41d6-84b9-a5f3fb31536f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onchange</name>
-      <type>Main</type>
-      <value>apex.submit('P100_ENVIRONMENT');</value>
-      <webElementGuid>5c5be847-d835-4d59-bdc6-43b1066de5f2</webElementGuid>
+      <webElementGuid>3ec091ce-dc78-470a-828b-bf81b214a7f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>- Select an Environment -
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SFP304T
-SailPoint_ENV2
-SailPoint_Env
-TririgaDB_Env
-</value>
-      <webElementGuid>5ad638f5-d38f-4d67-bbd1-af71d6bbd7a8</webElementGuid>
+      <value>- Select a template OR create a new one -
+DEFAULT</value>
+      <webElementGuid>7ba11bce-2143-4606-b5d5-9b1512bdef42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P100_ENVIRONMENT&quot;)</value>
-      <webElementGuid>272278e9-f019-44a0-b04c-374b80459bc3</webElementGuid>
+      <value>id(&quot;P34_TEMPLATE_NAME&quot;)</value>
+      <webElementGuid>eb26d8a6-ed16-40f1-83d8-5be48f5b8e75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P100_ENVIRONMENT']</value>
-      <webElementGuid>65fd9b21-c61c-42e5-9661-ccfc08cbc41a</webElementGuid>
+      <value>//select[@id='P34_TEMPLATE_NAME']</value>
+      <webElementGuid>7eb4617b-8d57-4468-a657-72c3d498c332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P100_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>dd96f6ec-da25-45f0-bae0-31f9adccbf80</webElementGuid>
+      <value>//div[@id='P34_TEMPLATE_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b580691b-69a7-49f2-bebe-fc2d1cad4593</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>77f2e6dc-fa9d-4ecb-8e36-0738b636b3d6</webElementGuid>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>ac552f3b-a324-4719-b0ec-e9d2bbe0d4a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P100_ENVIRONMENT' and @name = 'P100_ENVIRONMENT' and (text() = '- Select an Environment -
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SFP304T
-SailPoint_ENV2
-SailPoint_Env
-TririgaDB_Env
-' or . = '- Select an Environment -
-CERP_1
-CloudERP
-EBizApp_JDBC_Env
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-McD_GRM_ENV
-SFP304T
-SailPoint_ENV2
-SailPoint_Env
-TririgaDB_Env
-')]</value>
-      <webElementGuid>17962f73-3a09-4107-a309-e56247ecac62</webElementGuid>
+      <value>//select[@id = 'P34_TEMPLATE_NAME' and @name = 'P34_TEMPLATE_NAME' and (text() = '- Select a template OR create a new one -
+DEFAULT' or . = '- Select a template OR create a new one -
+DEFAULT')]</value>
+      <webElementGuid>70c27fbf-8b3f-4cec-a494-2b971190a8fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

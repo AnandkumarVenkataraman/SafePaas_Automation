@@ -21,25 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.setText(findTestObject('Object Repository/deba4/Administration/Page_Login/input_P101_COMPANY'), 'KAT')
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/deba4/Administration/Page_Login/input_P101_USERNAME'), 'KATALON_ADMIN')
+WebUI.setText(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Login/input_P101_COMPANY'), 'KAT')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/deba4/Administration/Page_Login/input_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+WebUI.setText(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Login/input_P101_USERNAME'), 'KATALON_ADMIN')
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Login/button_Login'))
+WebUI.setEncryptedText(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Login/input_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Home/span_a-TreeView-toggle'))
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Login/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Home/span_a-TreeView-toggle'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Home/span_a-TreeView-toggle'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Home/span_a-TreeView-toggle_1'))
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Home/span_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Home/span_a-TreeView-toggle_1'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Home/a_Manage Company'))
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Home/a_Manage Company'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Home/a_Manage Company'))
+
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Home/a_Manage Company'))
 
 WebUI.takeFullPageScreenshot()
 
@@ -47,16 +49,16 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.delay(2)
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/Administration/Page_Company/span_a-Icon icon-up-chevron'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Company/span_a-Icon icon-up-chevron'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Company/span_a-Icon icon-up-chevron'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Company/span_a-Icon icon-up-chevron'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Company/span_a-Icon icon-up-chevron'))
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Company/span_a-Icon icon-up-chevron'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Company/span_Settings'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Company/span_Settings'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Company/span_Settings'))
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Company/span_Settings'))
 
 WebUI.takeFullPageScreenshot()
 
@@ -82,19 +84,19 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administrat
 
 WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Users Application Access/span_Email Configuration'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Please select one -Enterprise Acce_e8a0fd'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -Enterprise Acce_e8a0fd'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Please select one -Enterprise Acce_e8a0fd'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -Enterprise Acce_e8a0fd'), 
     'FSOD', true)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'), 
     'Generic', true)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
     '526', true)
 
 WebUI.takeFullPageScreenshot()
@@ -103,21 +105,21 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.delay(2)
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/span_a-Icon icon-up-chevron'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/span_a-Icon icon-up-chevron'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/span_a-Icon icon-up-chevron'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/span_a-Icon icon-up-chevron'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/span_a-Icon icon-up-chevron'))
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/span_a-Icon icon-up-chevron'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericRules Re_0c61e0'), 
     'Reminder Notification', true)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
     '528', true)
 
 WebUI.takeFullPageScreenshot()
@@ -126,12 +128,20 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.delay(2)
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/span_a-Icon icon-up-chevron'), 
-    0)
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -Enterprise Acce_e8a0fd'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/span_a-Icon icon-up-chevron'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -Enterprise Acce_e8a0fd'), 
+    'UAC', true)
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/span_a-Icon icon-up-chevron'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'Generic', true)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '707', true)
 
 WebUI.takeFullPageScreenshot()
 
@@ -139,13 +149,132 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.delay(2)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/button_Cancel'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Email Configuration/button_Cancel'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'POST Process Error', true)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Company/a_Manage Environment'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
 
-WebUI.click(findTestObject('Object Repository/deba4/Administration/Page_Company/a_Manage Environment'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '708', true)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
+WebUI.delay(2)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'Reassignment Notification', true)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '709', true)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
+WebUI.delay(2)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'Cancelling Notification', true)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '710', true)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
+WebUI.delay(2)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'Delegation Notification', true)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '711', true)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
+WebUI.delay(2)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'Escalation Notification', true)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '712', true)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
+WebUI.delay(2)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'Reminder Notification', true)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '713', true)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
+WebUI.delay(2)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Please select one -GenericPOST Pro_9e06cf'), 
+    'After Review Notification', true)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/select_- Select a template OR create a new _80e157'), 
+    '714', true)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
+WebUI.delay(2)
+
+WebUI.scrollToElement(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/span_a-Icon icon-up-chevron'), 
+    0)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/span_a-Icon icon-up-chevron'))
+
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/span_a-Icon icon-up-chevron'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/button_Cancel'))
+
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Email Configuration/button_Cancel'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Company/a_Manage Environment'))
+
+WebUI.click(findTestObject('Object Repository/deba4/EACM_EmailTemplates/Page_Company/a_Manage Environment'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Administration/Page_Manage Environment/button_Actions'))
 
