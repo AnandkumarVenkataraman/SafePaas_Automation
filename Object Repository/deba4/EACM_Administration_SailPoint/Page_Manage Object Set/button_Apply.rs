@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Inbox</name>
+   <name>button_Apply</name>
    <tag></tag>
-   <elementGuidId>204a38ad-b06c-4ad6-acdb-a4711f1b9789</elementGuidId>
+   <elementGuidId>8215d768-3ba5-4452-9e1c-c08aad26229c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li/a</value>
+         <value>(//button[@type='button'])[50]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>button.ui-button--hot.ui-button.ui-corner-all.ui-widget</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,88 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>c1d3e009-cc26-4ee3-8272-92e49a08e11a</webElementGuid>
+      <value>button</value>
+      <webElementGuid>ee62ab08-201d-4125-a95b-958ee5013624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>142a63a1-2b0c-4bdb-8748-f6dae45cffeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button t-Button--icon t-Button--header t-Button--navBar </value>
-      <webElementGuid>51e7e597-df8d-422c-8b79-8d7ce79f17a6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>f?p=1000:1:2317465564636:::::</value>
-      <webElementGuid>8b4f8b02-90a5-4393-ab00-7c7c7875122b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7a6f416f-cb4a-4cdb-ac28-7a672243a47f</webElementGuid>
+      <value>ui-button--hot ui-button ui-corner-all ui-widget</value>
+      <webElementGuid>2c9405b4-7cf1-4275-a318-c612982c01ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-    Inbox
-      
-  </value>
-      <webElementGuid>32a7a31f-d0d6-473c-9a5d-e5571d71e34a</webElementGuid>
+      <value>Apply</value>
+      <webElementGuid>37be197e-0629-41eb-b531-bc958c134ba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;352318081829608682&quot;)/li[@class=&quot;t-NavigationBar-item 0&quot;]/a[@class=&quot;t-Button t-Button--icon t-Button--header t-Button--navBar&quot;]</value>
-      <webElementGuid>d5ccbdb4-b73e-43a2-90a4-369fa4777508</webElementGuid>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front a-IRR-dialog a-IRR-dialog--filter ui-dialog-buttons ui-draggable ui-resizable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;ui-button--hot ui-button ui-corner-all ui-widget&quot;]</value>
+      <webElementGuid>c1601ed5-e1a2-4379-a487-a4bdfb0c97a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//ul[@id='352318081829608682']/li/a</value>
-      <webElementGuid>a181dd70-0413-413d-bb45-6847f4c84afb</webElementGuid>
+      <value>(//button[@type='button'])[50]</value>
+      <webElementGuid>f6cdff67-d1d5-4dee-bec6-5a8398e91fa9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1000:1:2317465564636:::::')]</value>
-      <webElementGuid>2165553a-8ca0-4986-99c1-4c4734f3f84f</webElementGuid>
+      <value>//body[@id='t_PageBody']/div[9]/div[3]/div/button[2]</value>
+      <webElementGuid>14b29a28-35a1-4c45-8b3c-057a3b462c43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>e0e5ec0d-054a-4295-94fc-bfce298f0663</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>95555160-a668-491b-99c2-7b48d94da71b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1000:1:2317465564636:::::' and (text() = '
-    Inbox
-      
-  ' or . = '
-    Inbox
-      
-  ')]</value>
-      <webElementGuid>41925aec-f7d5-46e7-9700-8e4107985ae0</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>cc619936-ad21-4199-bcb9-d06e1d82cf5a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

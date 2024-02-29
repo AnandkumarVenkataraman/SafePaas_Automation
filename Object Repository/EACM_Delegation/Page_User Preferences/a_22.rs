@@ -6,12 +6,12 @@
    <elementGuidId>e1be0eab-3397-4fdb-8648-e25d98349c18</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.oj-enabled.oj-selected.oj-hover.oj-focus</value>
+         <key>XPATH</key>
+         <value>(//a[contains(@href, '#')])[4]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='oj-dp-7-3-4-0-0']/a</value>
+         <key>CSS</key>
+         <value>a.oj-enabled.oj-selected.oj-hover.oj-focus</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

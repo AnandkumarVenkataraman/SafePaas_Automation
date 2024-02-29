@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_23</name>
+   <name>button_Login (1)</name>
    <tag></tag>
-   <elementGuidId>3d4493c7-86d2-43c7-9d9c-2b6fd4cd470d</elementGuidId>
+   <elementGuidId>f303bb54-e6ee-4f7c-adc6-30459471a393</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[4]</value>
+         <value>//button[@id='loginBtn']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.oj-enabled.oj-selected.oj-hover.oj-focus</value>
+         <value>#loginBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>3ef4320b-36a5-45a2-ac6c-9213b60b05e3</webElementGuid>
+      <value>button</value>
+      <webElementGuid>830ea0a8-bea6-4bfd-970e-8a175d1b7c6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>9b428689-b265-46f1-b862-3ba53466d126</webElementGuid>
+      <value>normalLogin();</value>
+      <webElementGuid>3ed576c6-95fa-456f-8a7d-d7fc993a0398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oj-enabled oj-selected oj-hover oj-focus</value>
-      <webElementGuid>b8d6e81b-f7a2-462a-b75d-08e4769a55fb</webElementGuid>
+      <value>t-Button v-btn-logins</value>
+      <webElementGuid>b71821f7-c96a-4fbf-839f-e2a07a078603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>#</value>
-      <webElementGuid>edda8317-8bfc-4261-a2d1-2d84b91af8ef</webElementGuid>
+      <value>button</value>
+      <webElementGuid>0643738a-4644-4c51-9463-5da0c626fac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginBtn</value>
+      <webElementGuid>5a9f8c65-914a-40b1-8292-e0847c510e3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>23</value>
-      <webElementGuid>925f5880-b867-4552-8e9d-a961ef995314</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>53f49211-f22c-4b93-9a4e-75efbfeb4a76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;oj-dp-9-3-5-0-0&quot;)/a[@class=&quot;oj-enabled oj-selected oj-hover oj-focus&quot;]</value>
-      <webElementGuid>83147c3a-215d-47c1-a27e-e34053a8d84d</webElementGuid>
+      <value>id(&quot;loginBtn&quot;)</value>
+      <webElementGuid>9632cf3d-e97a-4069-b6ef-739c58df99df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='loginBtn']</value>
+      <webElementGuid>d809b91a-d768-4a64-b438-658b82838494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='oj-dp-9-3-5-0-0']/a</value>
-      <webElementGuid>2fc2c02b-1612-4890-adf5-d0ec26f19031</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'23')]</value>
-      <webElementGuid>f83eb2b2-f2af-42e5-833b-93d2edf2c7f8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>(//a[contains(@href, '#')])[4]</value>
-      <webElementGuid>4790e4a3-a210-4d93-b48c-424c30740df3</webElementGuid>
+      <value>//div[@id='R400296469189235574']/div/table/tbody/tr/td/button</value>
+      <webElementGuid>18696bd7-5db3-46bc-9da1-52ad4df07cc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[6]/a</value>
-      <webElementGuid>ba0d75a0-33d4-4672-963b-137f2985235c</webElementGuid>
+      <value>//td/button</value>
+      <webElementGuid>37eef8e8-29ac-4888-b002-0cf1fd621c5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and (text() = '23' or . = '23')]</value>
-      <webElementGuid>7f969c4c-2cba-41c3-8c61-eacb6851ea40</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'loginBtn' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>7974b6fe-115a-4710-aee8-eb477939be8b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

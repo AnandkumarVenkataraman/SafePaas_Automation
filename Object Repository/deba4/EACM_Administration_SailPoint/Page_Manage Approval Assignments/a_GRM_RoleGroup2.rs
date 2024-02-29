@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_23</name>
+   <name>a_GRM_RoleGroup2</name>
    <tag></tag>
-   <elementGuidId>3d4493c7-86d2-43c7-9d9c-2b6fd4cd470d</elementGuidId>
+   <elementGuidId>9b8f11ab-b99b-4f14-a1d4-96df9ad1c6d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[4]</value>
+         <value>//div[@id='R485447514490922889_col_values_drop']/a[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.oj-enabled.oj-selected.oj-hover.oj-focus</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3ef4320b-36a5-45a2-ac6c-9213b60b05e3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>9b428689-b265-46f1-b862-3ba53466d126</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>oj-enabled oj-selected oj-hover oj-focus</value>
-      <webElementGuid>b8d6e81b-f7a2-462a-b75d-08e4769a55fb</webElementGuid>
+      <webElementGuid>174dc1bb-2486-4a73-9349-02db1e15cd4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,62 +30,78 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>edda8317-8bfc-4261-a2d1-2d84b91af8ef</webElementGuid>
+      <webElementGuid>b5848334-608b-42e8-ab1a-7f9e76df51df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-col-value</value>
+      <webElementGuid>1b0a16f2-1cdc-4549-9652-d651b147c22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-return-value</name>
+      <type>Main</type>
+      <value>GRM_RoleGroup2</value>
+      <webElementGuid>1a10a734-fc24-4487-8d0a-262d4f6019b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>23</value>
-      <webElementGuid>925f5880-b867-4552-8e9d-a961ef995314</webElementGuid>
+      <value>GRM_RoleGroup2</value>
+      <webElementGuid>d9b0be39-cea1-4767-bed7-f19bc61abac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;oj-dp-9-3-5-0-0&quot;)/a[@class=&quot;oj-enabled oj-selected oj-hover oj-focus&quot;]</value>
-      <webElementGuid>83147c3a-215d-47c1-a27e-e34053a8d84d</webElementGuid>
+      <value>id(&quot;R485447514490922889_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
+      <webElementGuid>92d1785a-32b0-4300-9c33-1ac08b4b08c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='oj-dp-9-3-5-0-0']/a</value>
-      <webElementGuid>2fc2c02b-1612-4890-adf5-d0ec26f19031</webElementGuid>
+      <value>//div[@id='R485447514490922889_col_values_drop']/a[2]</value>
+      <webElementGuid>8e4e373c-87be-4b2f-befe-d49d4bb4922c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'23')]</value>
-      <webElementGuid>f83eb2b2-f2af-42e5-833b-93d2edf2c7f8</webElementGuid>
+      <value>//a[contains(text(),'GRM_RoleGroup2')]</value>
+      <webElementGuid>0bd0fe4b-5fa6-4305-aa09-99ef26c98d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#')])[4]</value>
-      <webElementGuid>4790e4a3-a210-4d93-b48c-424c30740df3</webElementGuid>
+      <value>(//a[contains(@href, '#')])[173]</value>
+      <webElementGuid>ae49760c-8238-4f94-8f90-fa520f25f564</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[6]/a</value>
-      <webElementGuid>ba0d75a0-33d4-4672-963b-137f2985235c</webElementGuid>
+      <value>//a[2]</value>
+      <webElementGuid>6a5e456a-4089-43eb-9192-8f59c9e53218</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and (text() = '23' or . = '23')]</value>
-      <webElementGuid>7f969c4c-2cba-41c3-8c61-eacb6851ea40</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'GRM_RoleGroup2' or . = 'GRM_RoleGroup2')]</value>
+      <webElementGuid>6be12a34-361a-41b7-afa2-6b9b7c278582</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

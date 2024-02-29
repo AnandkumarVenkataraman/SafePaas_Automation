@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_a-Icon icon-up-chevron</name>
+   <tag></tag>
+   <elementGuidId>9bc961df-d38b-40ce-a297-78e9939eacd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='t_Footer_topButton']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#t_Footer_topButton > span.a-Icon.icon-up-chevron</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df913c9a-e526-4ee8-b974-ea0044dc6fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-up-chevron</value>
+      <webElementGuid>066dd6c9-0ed3-4326-8238-baae5d5b314f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Footer_topButton&quot;)/span[@class=&quot;a-Icon icon-up-chevron&quot;]</value>
+      <webElementGuid>7e9e759f-29e4-4e7e-8f3c-834d2fe227a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='t_Footer_topButton']/span</value>
+      <webElementGuid>066c891d-30ea-4c30-b967-0d32ea7d277a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/a/span</value>
+      <webElementGuid>2db70817-9e61-4eab-93db-243048ef7151</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

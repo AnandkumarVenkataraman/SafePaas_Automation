@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Inbox</name>
+   <name>img_apex-edit-pencil</name>
    <tag></tag>
-   <elementGuidId>204a38ad-b06c-4ad6-acdb-a4711f1b9789</elementGuidId>
+   <elementGuidId>859870aa-5d50-4efc-aa96-40465c5d28f3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li/a</value>
+         <value>//table[@id='258165466626313757_orig']/tbody/tr[2]/td/a/img</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>img.apex-edit-pencil</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,88 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>c1d3e009-cc26-4ee3-8272-92e49a08e11a</webElementGuid>
+      <value>img</value>
+      <webElementGuid>682ea11d-56ee-454f-b058-94421ffee91a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/i/app_ui/img/icons/apex-edit-pencil.png</value>
+      <webElementGuid>eb9c63e0-85de-41ca-868f-fa4a49aac91e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button t-Button--icon t-Button--header t-Button--navBar </value>
-      <webElementGuid>51e7e597-df8d-422c-8b79-8d7ce79f17a6</webElementGuid>
+      <value>apex-edit-pencil</value>
+      <webElementGuid>c9e8e8ee-3292-4fba-a60c-1e3a88cc2c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>f?p=1000:1:2317465564636:::::</value>
-      <webElementGuid>8b4f8b02-90a5-4393-ab00-7c7c7875122b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7a6f416f-cb4a-4cdb-ac28-7a672243a47f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-    Inbox
-      
-  </value>
-      <webElementGuid>32a7a31f-d0d6-473c-9a5d-e5571d71e34a</webElementGuid>
+      <value>Edit</value>
+      <webElementGuid>b4ad55e1-0f27-40ab-b83a-6b28ecf7d89d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;352318081829608682&quot;)/li[@class=&quot;t-NavigationBar-item 0&quot;]/a[@class=&quot;t-Button t-Button--icon t-Button--header t-Button--navBar&quot;]</value>
-      <webElementGuid>d5ccbdb4-b73e-43a2-90a4-369fa4777508</webElementGuid>
+      <value>id(&quot;258165466626313757_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;a-IRR-linkCol u-tC&quot;]/a[1]/img[@class=&quot;apex-edit-pencil&quot;]</value>
+      <webElementGuid>f2f293e5-84f2-40bc-a78f-d9dfb7dfa3d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='352318081829608682']/li/a</value>
-      <webElementGuid>a181dd70-0413-413d-bb45-6847f4c84afb</webElementGuid>
+      <value>//table[@id='258165466626313757_orig']/tbody/tr[2]/td/a/img</value>
+      <webElementGuid>9c545185-6140-40e2-a12f-dd9a8e7202e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1000:1:2317465564636:::::')]</value>
-      <webElementGuid>2165553a-8ca0-4986-99c1-4c4734f3f84f</webElementGuid>
+      <value>//img[@alt='Edit']</value>
+      <webElementGuid>efc91e1a-5dfa-4da3-86e2-6c4b9799d72e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>e0e5ec0d-054a-4295-94fc-bfce298f0663</webElementGuid>
+      <value>//a/img</value>
+      <webElementGuid>84205eb5-6edc-4565-b019-76e386d8d7bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1000:1:2317465564636:::::' and (text() = '
-    Inbox
-      
-  ' or . = '
-    Inbox
-      
-  ')]</value>
-      <webElementGuid>41925aec-f7d5-46e7-9700-8e4107985ae0</webElementGuid>
+      <value>//img[@src = '/i/app_ui/img/icons/apex-edit-pencil.png' and @alt = 'Edit']</value>
+      <webElementGuid>3222edac-e26d-483d-9903-a1a2f846156c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

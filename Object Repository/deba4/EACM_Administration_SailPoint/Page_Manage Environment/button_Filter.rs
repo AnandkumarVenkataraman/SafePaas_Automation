@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Inbox</name>
+   <name>button_Filter</name>
    <tag></tag>
-   <elementGuidId>204a38ad-b06c-4ad6-acdb-a4711f1b9789</elementGuidId>
+   <elementGuidId>0f52a3c7-c570-4a0a-8023-7d5d0a5c77f7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li/a</value>
+         <value>//button[@id='R258165063082313757_actions_menu_2i']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>#R258165063082313757_actions_menu_2i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,88 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>c1d3e009-cc26-4ee3-8272-92e49a08e11a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>t-Button t-Button--icon t-Button--header t-Button--navBar </value>
-      <webElementGuid>51e7e597-df8d-422c-8b79-8d7ce79f17a6</webElementGuid>
+      <value>button</value>
+      <webElementGuid>a35a03d4-bdff-4c91-993a-9b6fa7393a3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>f?p=1000:1:2317465564636:::::</value>
-      <webElementGuid>8b4f8b02-90a5-4393-ab00-7c7c7875122b</webElementGuid>
+      <value>button</value>
+      <webElementGuid>7c3a70f3-2777-4aa4-8b83-b463ebce26fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R258165063082313757_actions_menu_2i</value>
+      <webElementGuid>2d05c691-b436-49fd-97e8-0822b2fc4fba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7a6f416f-cb4a-4cdb-ac28-7a672243a47f</webElementGuid>
+      <value>menuitem</value>
+      <webElementGuid>df8d35ed-5825-4c59-951d-8ff1d3541da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Menu-label</value>
+      <webElementGuid>3c42ea0c-b548-4834-b82f-944b04da301b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-    Inbox
-      
-  </value>
-      <webElementGuid>32a7a31f-d0d6-473c-9a5d-e5571d71e34a</webElementGuid>
+      <value>Filter</value>
+      <webElementGuid>c5f8e6e1-f4fd-4188-87a2-eb810bbcbffe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;352318081829608682&quot;)/li[@class=&quot;t-NavigationBar-item 0&quot;]/a[@class=&quot;t-Button t-Button--icon t-Button--header t-Button--navBar&quot;]</value>
-      <webElementGuid>d5ccbdb4-b73e-43a2-90a4-369fa4777508</webElementGuid>
+      <value>id(&quot;R258165063082313757_actions_menu_2i&quot;)</value>
+      <webElementGuid>15d51d23-84a8-4bad-b209-917c23e69192</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//ul[@id='352318081829608682']/li/a</value>
-      <webElementGuid>a181dd70-0413-413d-bb45-6847f4c84afb</webElementGuid>
+      <value>//button[@id='R258165063082313757_actions_menu_2i']</value>
+      <webElementGuid>b05689eb-81f4-485e-9aa0-c2fe5834143e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1000:1:2317465564636:::::')]</value>
-      <webElementGuid>2165553a-8ca0-4986-99c1-4c4734f3f84f</webElementGuid>
+      <value>//li[@id='R258165063082313757_actions_menu_2']/div/span/button</value>
+      <webElementGuid>c2371198-3f87-49e1-9025-819e1ed81776</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>e0e5ec0d-054a-4295-94fc-bfce298f0663</webElementGuid>
+      <value>//li[3]/div/span/button</value>
+      <webElementGuid>e2d58740-abf4-485d-beb9-affa97a80453</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1000:1:2317465564636:::::' and (text() = '
-    Inbox
-      
-  ' or . = '
-    Inbox
-      
-  ')]</value>
-      <webElementGuid>41925aec-f7d5-46e7-9700-8e4107985ae0</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'R258165063082313757_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
+      <webElementGuid>4e91087c-494f-4093-84bd-974281aa1581</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

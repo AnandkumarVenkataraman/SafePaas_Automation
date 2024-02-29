@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_23</name>
+   <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>3d4493c7-86d2-43c7-9d9c-2b6fd4cd470d</elementGuidId>
+   <elementGuidId>88c13b49-1bf7-4fdf-9b0a-77c657fc2bdf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[4]</value>
+         <value>//button[@id='B121433345805440020']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.oj-enabled.oj-selected.oj-hover.oj-focus</value>
+         <value>#B121433345805440020</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>3ef4320b-36a5-45a2-ac6c-9213b60b05e3</webElementGuid>
+      <value>button</value>
+      <webElementGuid>bca3b1dd-89c2-401e-a0e2-eacfe288e7a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>9b428689-b265-46f1-b862-3ba53466d126</webElementGuid>
+      <value>apex.navigation.redirect('f?p=1120:17:4278974495131:::::');</value>
+      <webElementGuid>f863b21f-f0f8-4e5a-ba1c-34f55f4c53e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oj-enabled oj-selected oj-hover oj-focus</value>
-      <webElementGuid>b8d6e81b-f7a2-462a-b75d-08e4769a55fb</webElementGuid>
+      <value>t-Button </value>
+      <webElementGuid>1e98b55e-a532-4816-b12c-f161594aaebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>#</value>
-      <webElementGuid>edda8317-8bfc-4261-a2d1-2d84b91af8ef</webElementGuid>
+      <value>button</value>
+      <webElementGuid>0d88320d-5960-449a-b7dd-4017aaa502db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>B121433345805440020</value>
+      <webElementGuid>930941a1-8f6b-4f97-a445-124691b8eebd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>23</value>
-      <webElementGuid>925f5880-b867-4552-8e9d-a961ef995314</webElementGuid>
+      <value>Cancel</value>
+      <webElementGuid>1f2f2c1e-3b41-46d5-8e65-665235b568a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;oj-dp-9-3-5-0-0&quot;)/a[@class=&quot;oj-enabled oj-selected oj-hover oj-focus&quot;]</value>
-      <webElementGuid>83147c3a-215d-47c1-a27e-e34053a8d84d</webElementGuid>
+      <value>id(&quot;B121433345805440020&quot;)</value>
+      <webElementGuid>22a7a00c-8d83-40fd-8678-267ae7faefd7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='B121433345805440020']</value>
+      <webElementGuid>9fc1498b-0e4b-4c52-9037-b547abfa77dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='oj-dp-9-3-5-0-0']/a</value>
-      <webElementGuid>2fc2c02b-1612-4890-adf5-d0ec26f19031</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'23')]</value>
-      <webElementGuid>f83eb2b2-f2af-42e5-833b-93d2edf2c7f8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>(//a[contains(@href, '#')])[4]</value>
-      <webElementGuid>4790e4a3-a210-4d93-b48c-424c30740df3</webElementGuid>
+      <value>//div[@id='R137705748413935052']/div/div[2]/button</value>
+      <webElementGuid>23bbd070-766b-468f-bfa3-28a7bbe8a42d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[6]/a</value>
-      <webElementGuid>ba0d75a0-33d4-4672-963b-137f2985235c</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>782a3ae3-e217-46eb-a2e1-0e6bb10f9e4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and (text() = '23' or . = '23')]</value>
-      <webElementGuid>7f969c4c-2cba-41c3-8c61-eacb6851ea40</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'B121433345805440020' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>31493dc2-b7ec-4e18-8611-29e80f55184e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -489,6 +489,8 @@ WebUI.scrollToElement(findTestObject('Object Repository/EACM/POST EACM SURVEY/Pa
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/a_POSTGET Process Status'))
 
+WebUI.comment('Verify the POST Survey status as POST/GET In Process. If Error displayed - Result in warning')
+
 WebUI.takeFullPageScreenshot()
 
 WebUI.delay(2)
