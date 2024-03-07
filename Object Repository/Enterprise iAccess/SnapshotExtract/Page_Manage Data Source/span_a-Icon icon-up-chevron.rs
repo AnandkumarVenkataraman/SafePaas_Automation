@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_a-TreeView-toggle_1</name>
+   <name>span_a-Icon icon-up-chevron</name>
    <tag></tag>
-   <elementGuidId>7eef0977-3079-40c8-bc90-c8f87d6942b0</elementGuidId>
+   <elementGuidId>dc99ec6d-2804-4acc-89eb-d0fbccd8ec99</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[3]/ul/li[2]/span</value>
+         <value>//a[@id='t_Footer_topButton']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#t_TreeNav_66 > span.a-TreeView-toggle</value>
+         <value>#t_Footer_topButton > span.a-Icon.icon-up-chevron</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,38 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d6c4e8d0-9e0e-45f0-bd3a-fee883429c4a</webElementGuid>
+      <webElementGuid>f91254ba-2b93-4962-8559-4408fa49ffaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-toggle</value>
-      <webElementGuid>a940dbdb-67c7-4c8b-af6d-19a787d59212</webElementGuid>
+      <value>a-Icon icon-up-chevron</value>
+      <webElementGuid>d612f9ab-51f3-4a7d-98ed-b3c707612857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_66&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>0d81137e-c4c8-41f4-afde-728f94bb13c8</webElementGuid>
+      <value>id(&quot;t_Footer_topButton&quot;)/span[@class=&quot;a-Icon icon-up-chevron&quot;]</value>
+      <webElementGuid>79bed921-6519-414c-b1b5-aec231e8737a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_66']/span</value>
-      <webElementGuid>c7b6ceeb-7b57-4318-9097-97d8dfe30781</webElementGuid>
+      <value>//a[@id='t_Footer_topButton']/span</value>
+      <webElementGuid>c5fe2643-5ed1-4fa8-8924-5b25496b9b27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li[2]/span</value>
-      <webElementGuid>a8218cf9-6a9a-481e-b5bd-d7b0de055b76</webElementGuid>
+      <value>//footer/div[2]/a/span</value>
+      <webElementGuid>b783f92c-63a7-4c13-b891-d17eb32b29ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

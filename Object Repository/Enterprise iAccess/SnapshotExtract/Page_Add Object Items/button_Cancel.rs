@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1) - 800</name>
+   <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>b38abde4-21da-4838-8d73-a321c8e435e4</elementGuidId>
+   <elementGuidId>32069855-bf21-4551-b9da-b4945509fc97</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <value>//button[@id='B133753403966118525']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+         <value>#B133753403966118525</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d84351a1-1b99-4240-9f9a-915e9973f1f3</webElementGuid>
+      <webElementGuid>861459af-c56b-4633-9879-5f6999efee3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button t-Button--noUI t-Button--icon t-Button--closeAlert</value>
-      <webElementGuid>4b7f89de-bf22-4de5-a81b-2846210aeb16</webElementGuid>
+      <value>t-Button js-ignoreChange</value>
+      <webElementGuid>fb3faf4d-43be-4ee8-9c0d-285fbf4d5603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,54 +38,62 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>715cd410-b077-4838-ad6d-070e5fd0cdd0</webElementGuid>
+      <webElementGuid>662e3774-0132-4fc0-853d-7b088c929dbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>fcf2b95f-08e8-4970-9129-c1aff3b31083</webElementGuid>
+      <value>B133753403966118525</value>
+      <webElementGuid>55c210b2-a63f-4755-97d3-9e4489504c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>0fa5b124-f2b6-40bd-b629-77d73074e174</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-buttons&quot;]/button[@class=&quot;t-Button t-Button--noUI t-Button--icon t-Button--closeAlert&quot;]</value>
-      <webElementGuid>b5d03c81-1c76-4327-a725-101777e704d7</webElementGuid>
+      <value>id(&quot;B133753403966118525&quot;)</value>
+      <webElementGuid>29427800-4076-42d2-aee6-dd1e4f3d18a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>3d866a81-de73-419f-9794-b71b96e00bdf</webElementGuid>
+      <value>//button[@id='B133753403966118525']</value>
+      <webElementGuid>93b6440c-143c-4ef3-81a7-8916837a4411</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='t_Alert_Success']/div/div[3]/button</value>
-      <webElementGuid>2c879df8-416e-49f7-a9b5-78016402dcf1</webElementGuid>
+      <value>//div[@id='R138344722261060407']/div/div[2]/button</value>
+      <webElementGuid>43ac2475-e291-44ef-b71e-661dacf4f1a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>635e595b-2b84-46ae-9627-9f35cb6cb08a</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>0a486ba3-f96b-43a2-94a7-1c0b2e471bdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @title = 'Close']</value>
-      <webElementGuid>0259f751-0da1-4e54-8e9d-1701afe36b43</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'B133753403966118525' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>983125d9-10bf-4fd4-9271-5d1a97e0efa2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_HCM Market_1</name>
+   <tag></tag>
+   <elementGuidId>bf2fbf08-e3de-4685-99ad-21a291c5fc93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='324291251635100092_orig']/tbody/tr[2]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0cea6429-844e-4e86-bd9f-0c10ee4b3370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1400:20:9073590170356:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:3228,HCM%20Market</value>
+      <webElementGuid>cfc0372f-a99c-452f-ae55-217e57a65c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HCM Market</value>
+      <webElementGuid>dbe74e2d-13d0-4806-83e3-f5129123e95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;324291251635100092_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]</value>
+      <webElementGuid>0e7432d4-81c6-4ba9-b703-461e61b163de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='324291251635100092_orig']/tbody/tr[2]/td/a</value>
+      <webElementGuid>891ed049-6d30-48df-8c40-9808d28e5584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'HCM Market')]</value>
+      <webElementGuid>e3f52fbd-783d-4997-b8bc-0a0514de437d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1400:20:9073590170356:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:3228,HCM%20Market')]</value>
+      <webElementGuid>1e4517bf-7832-4aba-bd84-8359240fa958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>61029e1c-47a0-48c3-bf63-7005e2de7ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1400:20:9073590170356:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:3228,HCM%20Market' and (text() = 'HCM Market' or . = 'HCM Market')]</value>
+      <webElementGuid>ddd64663-a283-4411-89ae-36bc24b467f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

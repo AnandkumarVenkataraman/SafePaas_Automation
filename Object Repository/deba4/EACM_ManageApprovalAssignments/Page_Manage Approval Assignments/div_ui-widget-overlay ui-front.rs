@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_a-TreeView-toggle_1</name>
+   <name>div_ui-widget-overlay ui-front</name>
    <tag></tag>
-   <elementGuidId>7eef0977-3079-40c8-bc90-c8f87d6942b0</elementGuidId>
+   <elementGuidId>84b2d0c0-57fc-4d12-839a-d5f4efcb8a3b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[3]/ul/li[2]/span</value>
+         <value>//body[@id='t_PageBody']/div[33]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#t_TreeNav_66 > span.a-TreeView-toggle</value>
+         <value>div.ui-widget-overlay.ui-front</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,39 +21,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>d6c4e8d0-9e0e-45f0-bd3a-fee883429c4a</webElementGuid>
+      <value>div</value>
+      <webElementGuid>922fcd06-be54-4fc4-a06a-a25f526e846d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-toggle</value>
-      <webElementGuid>a940dbdb-67c7-4c8b-af6d-19a787d59212</webElementGuid>
+      <value>ui-widget-overlay ui-front</value>
+      <webElementGuid>c92a9f66-f659-423e-b009-d0e78d29a194</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_66&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>0d81137e-c4c8-41f4-afde-728f94bb13c8</webElementGuid>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-widget-overlay ui-front&quot;]</value>
+      <webElementGuid>5c759d67-b403-48ae-8f46-e01ea7b20dad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_66']/span</value>
-      <webElementGuid>c7b6ceeb-7b57-4318-9097-97d8dfe30781</webElementGuid>
+      <value>//body[@id='t_PageBody']/div[33]</value>
+      <webElementGuid>27a0bf88-6545-4ab8-bc04-2d1efc73431b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li[2]/span</value>
-      <webElementGuid>a8218cf9-6a9a-481e-b5bd-d7b0de055b76</webElementGuid>
+      <value>//div[33]</value>
+      <webElementGuid>c31e03e9-a3c3-4470-aa5d-dbbc6c42a3e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Scheduler</name>
+   <name>a_Scope Roles_1</name>
    <tag></tag>
-   <elementGuidId>7b80e653-c3c2-4b8f-8b1d-a983f01340bc</elementGuidId>
+   <elementGuidId>fc68ea1c-f8d6-4c8b-94b4-42127b9bd150</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Scheduler')]</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_16']/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4a744c42-7412-44e9-837e-039abc117060</webElementGuid>
+      <webElementGuid>ecf82f43-90d6-47b3-9829-6005d2a09468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>3d7213e4-3fbd-4d89-9f48-e580ea789f38</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>ab3908e3-0d36-4a15-b5e9-e60a0da32f69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,31 +38,31 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>0750d361-ee1f-4d37-b4cc-e87301baea92</webElementGuid>
+      <webElementGuid>4bdfe867-6fe9-470e-a79e-7248733bf999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-label is-focused</value>
-      <webElementGuid>dff424b8-4470-43af-a8e6-4eaf4846bf1a</webElementGuid>
+      <value>a-TreeView-label</value>
+      <webElementGuid>76223dc8-c0c1-4172-acd0-19a70fae0bd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:29:15672509728453:::29::</value>
-      <webElementGuid>60085e5d-be95-4f69-8ee9-f1d84823bf5b</webElementGuid>
+      <value>f?p=1400:13:14576789019544:::13::</value>
+      <webElementGuid>d3c6bb9d-1ab9-4bfb-b6d5-f41379550a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-level</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>a4839b7a-90a9-422d-93c3-e0cbbc801c27</webElementGuid>
+      <value>4</value>
+      <webElementGuid>60932a7d-a608-4632-ace2-cbb54cf309b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,62 +70,62 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a82445f9-4b11-4bfd-9590-46c891c7b219</webElementGuid>
+      <webElementGuid>d577f5e0-3aca-49f0-8a41-7ff7e3a1423b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Scheduler</value>
-      <webElementGuid>c8eb36da-c282-4391-9a46-066d8ef58f3a</webElementGuid>
+      <value>Scope Roles</value>
+      <webElementGuid>b7335ce6-55c4-4adc-9bee-3b4da23ee4c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_67&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>ac31ea25-3000-4eb8-925f-f7aac5f19f4e</webElementGuid>
+      <value>id(&quot;t_TreeNav_16&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>93104904-8769-437f-b921-e480406d077a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_67']/div[2]/a</value>
-      <webElementGuid>2835770b-0341-405d-a333-3c78e3db7d71</webElementGuid>
+      <value>//li[@id='t_TreeNav_16']/div[2]/a</value>
+      <webElementGuid>8d3e3221-33d1-498e-a284-7369e7d6dd50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Scheduler')]</value>
-      <webElementGuid>03e39cb8-3fc7-46e2-81cf-5cf2d4c9c88c</webElementGuid>
+      <value>//a[contains(text(),'Scope Roles')]</value>
+      <webElementGuid>94afebae-220c-4ef1-b63a-e1772877f5c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:29:15672509728453:::29::')]</value>
-      <webElementGuid>ee37ec79-66f8-4112-831e-b85942127e40</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1400:13:14576789019544:::13::')]</value>
+      <webElementGuid>dac284b2-1299-49cc-9853-b7935c4aaf49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li[2]/ul/li/div[2]/a</value>
-      <webElementGuid>fab7f5fe-6069-4cdf-832b-fc276b7317ff</webElementGuid>
+      <value>//li[4]/div[2]/a</value>
+      <webElementGuid>0e110507-a355-4a60-a669-b5f95d0bb843</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:29:15672509728453:::29::' and (text() = 'Scheduler' or . = 'Scheduler')]</value>
-      <webElementGuid>f8921a01-f3d2-4614-8f2f-ee21604885bf</webElementGuid>
+      <value>//a[@href = 'f?p=1400:13:14576789019544:::13::' and (text() = 'Scope Roles' or . = 'Scope Roles')]</value>
+      <webElementGuid>74d51196-a1ab-4ab4-bb10-f59fc1b5bd67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

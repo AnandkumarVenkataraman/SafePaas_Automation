@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Scheduler</name>
+   <name>a_Manage Data Source</name>
    <tag></tag>
-   <elementGuidId>7b80e653-c3c2-4b8f-8b1d-a983f01340bc</elementGuidId>
+   <elementGuidId>e7254753-ecd6-4836-9586-29683f2e8937</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Scheduler')]</value>
+         <value>//li[@id='t_TreeNav_6']/div[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4a744c42-7412-44e9-837e-039abc117060</webElementGuid>
+      <webElementGuid>9be2e32e-45f5-40e4-a6de-74232f5a58d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3d7213e4-3fbd-4d89-9f48-e580ea789f38</webElementGuid>
+      <webElementGuid>30df592b-2f9a-4ead-8eaf-727c33f51ba1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>0750d361-ee1f-4d37-b4cc-e87301baea92</webElementGuid>
+      <webElementGuid>9684e28e-cbdb-47a0-9360-44282d83cbc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>dff424b8-4470-43af-a8e6-4eaf4846bf1a</webElementGuid>
+      <webElementGuid>97d74e55-7335-4c3e-8005-0eee28566021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:29:15672509728453:::29::</value>
-      <webElementGuid>60085e5d-be95-4f69-8ee9-f1d84823bf5b</webElementGuid>
+      <value>f?p=1120:2:8949628007362:::2::</value>
+      <webElementGuid>1e7e1859-0b29-4307-ab36-e8d610ae3980</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>a4839b7a-90a9-422d-93c3-e0cbbc801c27</webElementGuid>
+      <webElementGuid>839c3d03-9c16-4347-bd38-9b297144c57e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,62 +70,62 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a82445f9-4b11-4bfd-9590-46c891c7b219</webElementGuid>
+      <webElementGuid>10ffbbb5-7e47-4ed6-8037-bec4a8328d25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Scheduler</value>
-      <webElementGuid>c8eb36da-c282-4391-9a46-066d8ef58f3a</webElementGuid>
+      <value>Manage Data Source</value>
+      <webElementGuid>6400f0c2-98a6-4abc-a086-2370bcf12993</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_67&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>ac31ea25-3000-4eb8-925f-f7aac5f19f4e</webElementGuid>
+      <value>id(&quot;t_TreeNav_6&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
+      <webElementGuid>59d54a19-e2d5-4b9f-a1b2-dedc59a4bbec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_67']/div[2]/a</value>
-      <webElementGuid>2835770b-0341-405d-a333-3c78e3db7d71</webElementGuid>
+      <value>//li[@id='t_TreeNav_6']/div[2]/a</value>
+      <webElementGuid>a13cd394-a4e7-4bbb-807b-3ae681a5cbd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Scheduler')]</value>
-      <webElementGuid>03e39cb8-3fc7-46e2-81cf-5cf2d4c9c88c</webElementGuid>
+      <value>//a[contains(text(),'Manage Data Source')]</value>
+      <webElementGuid>844ec2ec-ad4b-4685-aeae-119658654820</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:29:15672509728453:::29::')]</value>
-      <webElementGuid>ee37ec79-66f8-4112-831e-b85942127e40</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1120:2:8949628007362:::2::')]</value>
+      <webElementGuid>c9b87a72-1ad6-4326-8bb0-ee50eca71815</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li[2]/ul/li/div[2]/a</value>
-      <webElementGuid>fab7f5fe-6069-4cdf-832b-fc276b7317ff</webElementGuid>
+      <value>//li[2]/ul/li/div[2]/a</value>
+      <webElementGuid>645c12df-e2e0-4327-b668-fc7bbd4d670c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:29:15672509728453:::29::' and (text() = 'Scheduler' or . = 'Scheduler')]</value>
-      <webElementGuid>f8921a01-f3d2-4614-8f2f-ee21604885bf</webElementGuid>
+      <value>//a[@href = 'f?p=1120:2:8949628007362:::2::' and (text() = 'Manage Data Source' or . = 'Manage Data Source')]</value>
+      <webElementGuid>ffe979b7-a62a-4038-b776-ecf214ce2252</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
