@@ -6,15 +6,15 @@
    <elementGuidId>898d8701-72dc-474f-9584-1ffe90ba1471</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#P68_USER</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='P68_USER']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P68_USER</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

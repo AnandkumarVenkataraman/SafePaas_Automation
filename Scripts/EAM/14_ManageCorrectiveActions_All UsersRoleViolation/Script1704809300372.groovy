@@ -58,7 +58,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/All User Roles
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'), 
-    'KTLN_SODTest_Jan21_V1', true)
+    'KTLN_SODTest_Mar08_V1', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Go (1) (1)'))
 
@@ -166,7 +166,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrective
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
-    'Test_Justification_All User Violation_CreatePurchaseOrder_Feb1_V6')
+    'Test_Justification_All User Violation_CreatePurchaseOrder_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
 

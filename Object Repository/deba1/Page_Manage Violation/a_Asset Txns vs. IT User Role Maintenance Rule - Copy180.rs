@@ -6,11 +6,11 @@
    <elementGuidId>406877c2-447a-4b44-aeb6-219786a8c93f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//a[contains(@href, '#')])[22]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[6]/div[2]/div/a[3]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

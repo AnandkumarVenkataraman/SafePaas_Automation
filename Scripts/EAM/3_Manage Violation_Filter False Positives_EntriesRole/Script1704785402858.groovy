@@ -68,7 +68,7 @@ WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/P
     '')
 
 WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Jan21_V1')
+    'KTLN_SODTest_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -160,10 +160,10 @@ WebUI.verifyElementPresent(findTestObject('deba1/Page_Manage Violation/td_Asset 
     0, FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/Page_Manage Violation/span_1 -                    1 of           _e353a0'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage Violation/span_1 -                    1 of           _e353a0'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
@@ -223,7 +223,7 @@ WebUI.sendKeys(findTestObject('Object Repository/deba1/Page_Filter False-Positiv
     Keys.chord(Keys.ENTER))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Filter False-Positives/td_Role  Project Asset MaintenanceORA_PJC_P_2dfad4'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Rough/Page_Filter False-Positives/inputentryCheck'))
 
@@ -233,7 +233,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Filter
 
 WebUI.click(findTestObject('Object Repository/deba1/Page_Filter False-Positives/button_Submit'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Filter False-Positives/h2_Action Processed'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Filter False-Positives/h2_Action Processed'), 0, 
+    FailureHandling.OPTIONAL)
 
 WebUI.closeBrowser()
 

@@ -28,7 +28,7 @@ WebUI.setText(findTestObject('Object Repository/deba3/ManageApprovalAssignments/
 WebUI.setText(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Login/input_P101_USERNAME'), 'KATALON_ADMIN')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Login/input_P101_PASSWORD'), 
-    'N3mGwrN6bT8efSdTK/YVUw==')
+    'Ioqy8emDrxi5mkiNQATzxQ==')
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Login/button_Login'))
 

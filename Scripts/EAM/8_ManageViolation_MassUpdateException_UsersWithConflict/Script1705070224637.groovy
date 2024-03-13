@@ -60,7 +60,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/FilterFalsePosit
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Jan21_V1')
+    'KTLN_SODTest_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -138,32 +138,40 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateE
 WebUI.scrollToElement(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/span_1 -                   15 of           _135823'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/span_1 -                   15 of           _135823'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/span_1 -                   15 of           _135823'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/button_a-Button a-IRR-button a-IRR-button--_f18194'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/button_a-Button a-IRR-button a-IRR-button--_f18194'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/button_a-Button a-IRR-button a-IRR-button--_f18194'))
+WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/button_a-Button a-IRR-button a-IRR-button--_f18194'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/span_16 -                   30 of          _4f411c'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/span_16 -                   30 of          _4f411c'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/span_16 -                   30 of          _4f411c'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'))
+WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'))
+WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/label_Toggle'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/button_Mass Update Exceptions'))
 

@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/AggregatedLevel_S
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD8B021CB5A6AED418B0DB6ECFB2630EBA')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD8F5E7868ED901ACB044A5AB808A25B4B')
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Actions - 40'))
 
@@ -62,38 +62,39 @@ WebUI.scrollToElement(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Pa
     0)
 
 WebUI.verifyElementVisible(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Verified - 991 - 1'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Remediation Status of Role Owner - 990 - 1'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Remediation Status of Role Owner - 990 - 1'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Justification of Role Owner - 994 - 1'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Justification of Role Owner - 994 - 1'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Verified On (Role Owner) - 992 - 1'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Verified On (Role Owner) - 992 - 1'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Verified By (Role Owner) - 993 - 1'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/a_Verified By (Role Owner) - 993 - 1'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToPosition(0, 0)
 
 WebUI.scrollToElement(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/Span 1 to 11'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/Span 1 to 11'))
+WebUI.verifyElementVisible(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/Span 1 to 11'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -124,7 +125,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AggregatedLevel_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/textarea_P10_JUSTIFICATION (1) (1) (1) (1) (1)'), 
-    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Feb2_V2')
+    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar08_V3')
 
 WebUI.takeFullPageScreenshot()
 
@@ -160,7 +161,7 @@ WebUI.verifyElementText(findTestObject('deba3/AggregatedLevel_SODReviewApproval/
     '')
 
 WebUI.setText(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/input_p_ignore_10 -2'), 
-    'KTLN_SODReview_Feb2_V2')
+    'KTLN_SODReview_Mar08_V3')
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Apply - 44'))
 

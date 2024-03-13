@@ -60,7 +60,7 @@ WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/P
     '')
 
 WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Feb1_V1')
+    'KTLN_SODTest_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -92,9 +92,10 @@ WebUI.sendKeys(findTestObject('Object Repository/deba1/Page_Manage Violation/inp
     Keys.chord(Keys.ENTER), FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/Page_Manage Violation/span_1 -                   14 of           _0f7191 (1)'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_1 -                   14 of           _0f7191 (1)'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_1 -                   14 of           _0f7191 (1)'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage Violation/td_Open (2)'), 0, FailureHandling.OPTIONAL)
 

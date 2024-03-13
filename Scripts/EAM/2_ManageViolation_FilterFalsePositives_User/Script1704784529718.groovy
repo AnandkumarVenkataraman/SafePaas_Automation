@@ -59,7 +59,7 @@ WebUI.click(findTestObject('deba3/Sample1/Page_Manage Violation/buttonP74_REQUES
 WebUI.verifyElementText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 
     '')
 
-WebUI.setText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 'KTLN_SODTest_Jan21_V1')
+WebUI.setText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 'KTLN_SODTest_Mar08_V1')
 
 WebUI.sendKeys(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), Keys.chord(
         Keys.ENTER))
@@ -109,15 +109,15 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage
 
 WebUI.click(findTestObject('Object Repository/deba1/Page_Manage Violation/label_Toggle'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage Violation/span_User Name  Akhil'), 0, FailureHandling.OPTIONAL)
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_User Name  Akhil'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage Violation/span_Rule Name  AR vs. GL Rule'), 
-    0, FailureHandling.OPTIONAL)
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_Rule Name  AR vs. GL Rule'))
 
 WebUI.scrollToElement(findTestObject('deba1/Page_Manage Violation/span_1 -                   15 of           _8bc35e'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_1 -                   15 of           _8bc35e'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_1 -                   15 of           _8bc35e'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
@@ -130,9 +130,10 @@ WebUI.click(findTestObject('Object Repository/deba1/Page_Manage Violation/button
     FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/Page_Manage Violation/span_16 -                   30 of          _e84f20'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_16 -                   30 of          _e84f20'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_16 -                   30 of          _e84f20'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 

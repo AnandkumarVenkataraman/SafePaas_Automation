@@ -6,15 +6,15 @@
    <elementGuidId>1b8041ad-ab03-4e8f-9315-865eca82bf6c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[3]/table/tbody/tr[25]/td[1]/input</value>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[3]/table/tbody/tr[13]/td[1]/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@type = 'checkbox' and @name = 'f01']</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7812c401-2ca5-4541-9473-eeb93c8efa8e</webElementGuid>
+      <webElementGuid>0e8b1bc2-e9f7-4ec3-829a-4fd5e70bc46f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,7 +33,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>3e0a3080-9617-4b8c-8f7e-b741564ca743</webElementGuid>
+      <webElementGuid>d53412a2-553e-47a6-a7fe-905325306905</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>name</name>
       <type>Main</type>
       <value>f01</value>
-      <webElementGuid>62d768c9-a21d-47e9-81a5-cf9e8becfde7</webElementGuid>
+      <webElementGuid>0dd45d67-081b-48c5-97c7-e8868e2cecda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>value</name>
       <type>Main</type>
       <value>19501</value>
-      <webElementGuid>98bceaef-038a-402d-90af-c2d086e75181</webElementGuid>
+      <webElementGuid>6d4c5967-382a-4bbb-b3d6-8233661a445b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;175730760202722207_orig&quot;)/tbody[1]/tr[25]/td[@class=&quot;u-tC&quot;]/input[1]</value>
-      <webElementGuid>3f417435-4a37-4c62-ae74-21863c264e19</webElementGuid>
+      <webElementGuid>1e20d868-2364-4f89-9df5-6fd70f57fed3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='f01'])[24]</value>
-      <webElementGuid>17b74573-980f-4259-a379-380872dc8e0a</webElementGuid>
+      <webElementGuid>b3065410-a8d7-4a5d-893f-4f64bb6f4765</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='175730760202722207_orig']/tbody/tr[25]/td/input</value>
-      <webElementGuid>da3d1846-60e6-4772-8230-ca869b4448c6</webElementGuid>
+      <webElementGuid>81772aa4-2a08-49c1-bfb9-83819ae9932b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[25]/td/input</value>
-      <webElementGuid>3f950b57-9ae8-4a59-b06f-27697e36baaa</webElementGuid>
+      <webElementGuid>43eda0cb-9793-4d70-b0bf-a18db8c019f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'f01']</value>
-      <webElementGuid>4809b8af-882c-44c2-b720-8a2f625db46e</webElementGuid>
+      <webElementGuid>eb23ea37-bd3e-4c4f-8f1e-0db02e42e4da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,15 +6,15 @@
    <elementGuidId>566a4471-f82f-42f6-8b22-87a93bfd6216</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.a-Button.a-IRR-button.a-IRR-button--pagination</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[13]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-Button.a-IRR-button.a-IRR-button--pagination</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

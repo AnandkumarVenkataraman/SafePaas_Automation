@@ -114,7 +114,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/SODReviewStatus_P
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD622772C790FB884E9272DD076C77BC9D')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODC8D052BC91E34507C709CB60B43C604E')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/h2_Remediate Violation Survey -  KTLN_SODRe_bb7226 (1) (1) (1) (1) (1) (1) (1)'))
 
@@ -236,7 +236,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewStatus_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/textarea_P10_JUSTIFICATION (1) (1) (1) (1) (1)'), 
-    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Feb2_V1')
+    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar08_V1')
 
 WebUI.takeFullPageScreenshot()
 
@@ -272,7 +272,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewStatus_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/input_p_ignore_10 (1) (1) (1)'), 
-    'KTLN_SODReview_Feb2_V1')
+    'KTLN_SODReview_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Apply (1) (1) (1) (1) (1)'))
 

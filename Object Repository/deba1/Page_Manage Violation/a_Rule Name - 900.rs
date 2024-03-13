@@ -6,12 +6,12 @@
    <elementGuidId>762ed675-2854-409e-9006-6d2a2a67032d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.a-IRR-headerLink</value>
+         <key>XPATH</key>
+         <value>//a[contains(@href, '#')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div[6]/div[1]/table/tbody/tr[1]/th[2]/a</value>
+         <key>CSS</key>
+         <value>a.a-IRR-headerLink</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

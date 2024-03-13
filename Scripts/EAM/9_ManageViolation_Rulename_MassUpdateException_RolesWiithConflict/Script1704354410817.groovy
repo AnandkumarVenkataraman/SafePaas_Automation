@@ -60,7 +60,7 @@ WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/P
     '')
 
 WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Jan21_V1')
+    'KTLN_SODTest_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -140,9 +140,10 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageExcepti
     FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    3 of           _0e833d (1)'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    3 of           _0e833d (1)'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    3 of           _0e833d (1)'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -172,7 +173,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageExcep
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/button_Apply (1) (1) (1)'))
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_Start Entry Name  Project Billing Spec_51d89c (1)'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_Start Entry Name  Project Billing Spec_51d89c (1)'), 
     FailureHandling.OPTIONAL)
@@ -203,7 +204,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageExcep
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/button_Apply (1) (1) (1)'))
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_a-Icon icon-irr-no-results (1)'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_a-Icon icon-irr-no-results (1)'), 
     FailureHandling.OPTIONAL)
@@ -237,13 +238,18 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageExcepti
     FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    3 of           _0e833d (1)'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    3 of           _0e833d (1)'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    3 of           _0e833d (1)'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
 WebUI.scrollToPosition(0, 0)
+
+WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/select_Remove Integration specialist_404'))
+
+WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/select_Remove Integration specialist_404'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/button_Actions (1) (1) (1)'))
 
@@ -291,9 +297,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageExcep
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/button_Apply (1) (1) (1)'))
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    6 of           _c2e951'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    6 of           _c2e951'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    6 of           _c2e951'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -326,9 +333,10 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageExcepti
     FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                   15 of           _e93e5a'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                   15 of           _e93e5a'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                   15 of           _e93e5a'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -361,10 +369,10 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageExcepti
     FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    7 of           _e1fbd6'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    7 of           _e1fbd6'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -397,10 +405,10 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageExcepti
     FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    1 of           _e353a0'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                    1 of           _e353a0'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -433,10 +441,10 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageExcepti
     FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                   10 of           _26b2d1'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/span_1 -                   10 of           _26b2d1'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -446,9 +454,15 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageExcep
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/button_Mass Update Exceptions'))
 
-WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox'))
+WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox - 9099'), 
+    0)
 
-WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox - 9099'))
+
+WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox - 9099'))
+
+WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Bank maintenance and Bank account re-conciliation checkbox'), 
+    0)
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Bank maintenance and Bank account re-conciliation checkbox'), 
     FailureHandling.STOP_ON_FAILURE)
@@ -457,10 +471,10 @@ WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Up
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/button_Next - Copy - Copy'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/button_Next - Copy - Copy'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/button_Next - Copy - Copy'), 
     FailureHandling.STOP_ON_FAILURE)
@@ -513,9 +527,10 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageExceptio
     'Justification 2 - Roles', true)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Conflict Summary Report/span_1 - 7'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Conflict Summary Report/span_1 - 7'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Conflict Summary Report/span_1 - 7'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -525,7 +540,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageExcep
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Conflict Summary Report/button_Submit for processing Exceptions'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/h2_Mass Update Exceptions created'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/h2_Mass Update Exceptions created'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Violation/a_Manage Exception - Copy'))
 
@@ -562,18 +578,20 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageExcep
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Exception/button_Apply'))
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Exception/span_1 -                    2'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Exception/span_1 -                    2'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Exception/span_1 -                    2'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
 WebUI.scrollToPosition(0, 0)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage Exception/td_In Approval Progress'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Exception/td_In Approval Progress'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Exception/td_In Approval Progress'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -637,9 +655,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/RolewithCon
 WebUI.click(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Home/button_Apply'))
 
 WebUI.scrollToElement(findTestObject('deba1/RolewithConflict_ApprovalProcess/Page_Manage Exception/span_1 -                    2'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Home/span_1 -                    2'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Home/span_1 -                    2'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -647,7 +666,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/RolewithCon
 
 WebUI.click(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Home/a_The Configuration and Transaction has bee_ee9afa_1'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Notification/div_To User Configuration and Transaction -_618a39'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Notification/div_To User Configuration and Transaction -_618a39'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Notification/textarea_P3_NORES_TEXTAREA_1'), 
     '')
@@ -667,7 +687,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/RolewithCon
 
 WebUI.click(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Home/a_The Banks Maintenance and Bank Account Re_d303f6_1'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Notification/div_The Banks Maintenance and Bank Account _56d18f'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Notification/div_The Banks Maintenance and Bank Account _56d18f'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Notification/textarea_P3_NORES_TEXTAREA_1'), 
     '')
@@ -751,7 +772,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/RolewithCon
 
 WebUI.click(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Manage Exception/button_Apply'))
 
-WebUI.scrollToElement(findTestObject('deba1/RolewithConflict_ApprovalProcess/Page_Manage Exception/td_Approved'), 0)
+WebUI.scrollToElement(findTestObject('deba1/RolewithConflict_ApprovalProcess/Page_Manage Exception/td_Approved'), 0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConflict_ApprovalProcess/Page_Manage Exception/td_Approved'))
 

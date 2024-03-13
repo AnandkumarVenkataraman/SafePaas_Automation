@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>16.1_SODReviewStatus</name>
+   <name>16.1_EAM_SODReview_ViolationLevel_Approval1</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>770b40ff-f28c-4378-b7e5-1776cc7c92e2</testCaseGuid>

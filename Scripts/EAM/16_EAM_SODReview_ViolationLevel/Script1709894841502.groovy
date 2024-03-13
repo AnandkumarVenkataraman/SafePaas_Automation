@@ -149,13 +149,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/input_P181_NAME'), 
-    'KTLN_SODReview_Feb2_V1')
+    'KTLN_SODReview_Mar08_V1')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
-    'KTLN_SODReview_Feb2_V1')
+    'KTLN_SODReview_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_Popup Calendar Start Date'))
 
@@ -249,7 +249,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/ManageReviewStat
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/input_p_ignore_10'), 
-    'KTLN_SODReview_Feb2_V1')
+    'KTLN_SODReview_Mar08_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 

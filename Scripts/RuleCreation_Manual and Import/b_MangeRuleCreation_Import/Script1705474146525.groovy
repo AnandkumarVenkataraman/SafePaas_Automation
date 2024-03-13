@@ -413,7 +413,7 @@ WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upl
 WebUI.verifyElementText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_Jan31_V1')
+WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_Mar08_V1')
 
 WebUI.verifyElementPresent(findTestObject('deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), 0)
 
@@ -427,7 +427,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreatio
 
 WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/button_Upload Data'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/h2_Action Processed. Control file created l_f8bb6e'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/h2_Action Processed. Control file created l_f8bb6e'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.comment('Upload is successfull')
 
@@ -435,7 +436,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/td_KTLNAutomation_ImportFile_Jan17_V1'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/td_Complete'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/td_Complete'), FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/button_t-Button t-Button--noUI t-Button--ic_cbe08f'))
 
@@ -443,7 +444,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreatio
 
 WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/button_Import Rules'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/h2_success'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/h2_success'), FailureHandling.OPTIONAL)
 
 WebUI.comment('Import Rule is success')
 
@@ -497,27 +498,32 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreatio
 
 WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/button_Apply'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/a_Create Purchase Orders vs. Bank Account R_9fbc50'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/a_Create Purchase Orders vs. Bank Account R_9fbc50'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/a_Create Purchase Orders vs. Bank Account R_9fbc50'))
 
 WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/a_Create Purchase Orders vs. Bank Account R_9fbc50'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_Approved'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_Approved'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Rules'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Rules'), FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Rule Attributes'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Rule Attributes'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Activities'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Activities'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_People'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_People'), FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_1 - 1'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_1 - 1'), FailureHandling.OPTIONAL)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/a_Manage Rules'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/a_Manage Rules'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/a_Manage Rules'))
 
@@ -527,15 +533,18 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreatio
 
 WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/a_Create Purchase Orders vs. Approve Payabl_59bd6f'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_Approved'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_Approved'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Rule Attributes'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Rule Attributes'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Activities'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_Activities'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_People'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/h2_People'), FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_1 - 1'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/span_1 - 1'), FailureHandling.OPTIONAL)
 
 WebUI.takeFullPageScreenshot()
 

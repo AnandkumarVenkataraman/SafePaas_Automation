@@ -6,12 +6,12 @@
    <elementGuidId>b104c33d-9306-4c4f-bef0-01a4c6592ed4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#control_text_260879459266974894</value>
+         <key>XPATH</key>
+         <value>//div[@id='a_Collapsible1_search_control_panel_content']/ul/li/span[3]/a/span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='control_text_260879459266974894']</value>
+         <key>CSS</key>
+         <value>#control_text_260879459266974894</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
