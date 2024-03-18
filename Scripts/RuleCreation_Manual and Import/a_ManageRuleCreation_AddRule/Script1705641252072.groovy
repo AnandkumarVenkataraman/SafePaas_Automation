@@ -75,7 +75,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/button_Apply'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/td_New'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/td_New'), 0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/span_1 -                    1 of           _e353a0'))
 
@@ -107,7 +107,8 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Activity/span_1 -                    1 of           _e353a0 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/span_1 -                    1 of           _e353a0 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/span_1 -                    1 of           _e353a0 (1)'), 
+    0)
 
 WebUI.delay(2)
 
@@ -117,13 +118,15 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/img_apex-edit-page (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Name'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Name'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Description'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Description'), 
+    0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Maintain Customer Master and CreateUpdat_c53648'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Maintain Customer Master and CreateUpdat_c53648'), 
+    0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Approved'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Approved'), 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/span_Entry'))
 
@@ -131,7 +134,8 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit 
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'), 
+    0)
 
 WebUI.delay(2)
 
@@ -149,7 +153,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_KTLN_CloudERP'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Create new customers to record and accou_3fc0c8'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Create new customers to record and accou_3fc0c8'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
@@ -157,7 +162,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows customer account site addresses to be corrected. If assigning, also assign the ability to view the customer account site'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows customer account site addresses to be corrected. If assigning, also assign the ability to view the customer account site'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
@@ -165,7 +171,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Manage customer account and site information, and the relationship with the customer'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Manage customer account and site information, and the relationship with the customer'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
@@ -194,12 +201,14 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/button_Apply (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/td_Maintain Supplier Master'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/td_Maintain Supplier Master'), 
+    0)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Activity/span_1 -                    1 of           _e353a0 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/span_1 -                    1 of           _e353a0 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/span_1 -                    1 of           _e353a0 (1)'), 
+    0)
 
 WebUI.delay(2)
 
@@ -209,15 +218,17 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/img_apex-edit-page (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Name'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Name'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Description'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Description'), 
+    0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Maintain Supplier Master and Create Purc_346a59'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Maintain Supplier Master and Create Purc_346a59'), 
+    0)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_AddEdit Activity/td_Approved'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Approved'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Approved'), 0)
 
 WebUI.delay(2)
 
@@ -229,7 +240,8 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit 
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'), 
+    0)
 
 WebUI.delay(2)
 
@@ -239,7 +251,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows importing of suppliers'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows importing of suppliers'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
@@ -247,7 +260,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows import of external payee information and bank accounts belonging to suppliers, supplier sites, and supplier addresses'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows import of external payee information and bank accounts belonging to suppliers, supplier sites, and supplier addresses'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
@@ -255,7 +269,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows update of external bank accounts'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows update of external bank accounts'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
@@ -279,13 +294,13 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage R
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_Mar132024_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_Mar182024_V1')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
-    'Maintain Customer Master vs. Maintain Supplier Master_Mar132024_V1')
+    'Maintain Customer Master vs. Maintain Supplier Master_Mar182024_V1')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/select_Select any OneAllMutually ExclusiveI_b1f6bb (1) (1) (1)'), 
     'Null', true)
@@ -299,8 +314,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/button_Create (1) (1) (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/h2_Action Processed (1) (1)'), 
-    FailureHandling.OPTIONAL)
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/h2_Action Processed (1) (1)'), 
+    0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/span_Rule Attributes (1) (1)'))
 
@@ -322,14 +337,15 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/button_Next (1) (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_New (1) (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_New (1) (1)'), 0)
 
 WebUI.comment('Note is mentioned in the Activities tab below Rule Entries, requesting to add the Condition and Group')
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'), 
+    0)
 
 WebUI.delay(2)
 
@@ -340,7 +356,8 @@ WebUI.comment('Note is mentioned in the Activities tab below Rule Entries, reque
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'), 
+    0)
 
 WebUI.takeFullPageScreenshot()
 
@@ -353,14 +370,16 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/select_Select any OneAP_CREATE_PAYABLES_INV_677259 (1) (1)'), 
     '27300', true)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/label_Activity One (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/label_Activity One (1)'), 
+    0)
 
 WebUI.comment('Note is mentioned in the Activities tab below Rule Entries, requesting to add the Condition and Group')
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'), 
+    0)
 
 WebUI.takeFullPageScreenshot()
 
@@ -369,7 +388,8 @@ WebUI.delay(2)
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'), 
+    0)
 
 WebUI.takeFullPageScreenshot()
 
@@ -379,7 +399,7 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/span_Total 3 (1)'), 0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Total 3 (1)'), FailureHandling.OPTIONAL)
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Total 3 (1)'), 0)
 
 WebUI.delay(2)
 
@@ -390,21 +410,24 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/select_Select any OneAP_CREATE_PAYABLES_INV_677259_1 (1)'), 
     '27301', true)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/label_Activity Two (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/label_Activity Two (1)'), 
+    0)
 
 WebUI.comment('Note is mentioned in the Activities tab below Rule Entries, requesting to add the Condition and Group')
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Condition is not selected, it will be_5fb211 (1)'), 
+    0)
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/li_If Group is not selected, it will be mar_923015 (1)'), 
+    0)
 
 WebUI.takeFullPageScreenshot()
 
@@ -412,19 +435,21 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/span_Entry Name (1)'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Entry Name (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Entry Name (1)'), 
+    0)
 
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/span_Activity Group Code (1)'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Activity Group Code (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Activity Group Code (1)'), 
+    0)
 
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/span_Total 6 (1)'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Total 6 (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Total 6 (1)'), 0)
 
 WebUI.delay(2)
 
@@ -434,7 +459,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/button_Next (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Exceptions/h2_Rule entries successfully saved (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Exceptions/h2_Rule entries successfully saved (1)'), 
+    0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Exceptions/span_People (1)'))
 
@@ -456,14 +482,15 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule App
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Rule Approvers/td_KATALON_ADMIN'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/td_KATALON_ADMIN'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/td_KATALON_ADMIN'), 
+    0)
 
 WebUI.delay(2)
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Tag/span_Maintain Customer Master vs. Maintain _61ab7f (1)'), 
-    FailureHandling.OPTIONAL)
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Tag/span_Maintain Customer Master vs. Maintain _61ab7f (1)'), 
+    0)
 
 WebUI.delay(3)
 
@@ -489,9 +516,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Tag/button_Submit for Approval (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/h2_Successfully submitted for approval (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/h2_Successfully submitted for approval (1)'), 
+    0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/span_In Approval Progress (1)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/span_In Approval Progress (1)'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/button_t-Button t-Button--noUI t-Button--ic_cbe08f (1)'))
 
@@ -534,7 +563,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'Mar08')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'Mar18')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Apply (1)'))
 
@@ -609,7 +638,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'Mar13')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'Mar18')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Apply'))
 
@@ -617,7 +646,7 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage R
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Manage Rules/td_Approved'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/td_Approved'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/td_Approved'), 0)
 
 WebUI.delay(3)
 

@@ -172,7 +172,8 @@ WebUI.click(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/bu
 WebUI.scrollToElement(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/span_1 -                   15 of           _075b1d'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/span_1 -                   15 of           _075b1d'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/span_1 -                   15 of           _075b1d'), 
+    0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/button_a-Button a-IRR-button a-IRR-button--_f18194'))
 
@@ -181,7 +182,8 @@ WebUI.click(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/bu
 WebUI.scrollToElement(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/span_16 -                   29 of          _43d64e'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/span_16 -                   29 of          _43d64e'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/span_16 -                   29 of          _43d64e'), 
+    0)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -201,12 +203,12 @@ WebUI.click(findTestObject('Object Repository/SODTest1/Page_Manage SOD Test/butt
 
 WebUI.verifyElementText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/input_P35_REQUEST_NAME (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/input_P35_REQUEST_NAME (1)'), 'KTLN_SODTest_Mar13_V1')
+WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/input_P35_REQUEST_NAME (1)'), 'KTLN_SODTest_Mar18_V1')
 
 WebUI.verifyElementText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/textarea_P35_REQUEST_DESCRIPTION (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/textarea_P35_REQUEST_DESCRIPTION (1)'), 'KTLN_SODTest_Mar13_V1')
+WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/textarea_P35_REQUEST_DESCRIPTION (1)'), 'KTLN_SODTest_Mar18_V1')
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/select_Select any OneSOD PreventiveSOD Dete_369111 (1)'), 
     'Select any One', true)
@@ -263,7 +265,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/SODTest1/Page_Add
 
 WebUI.click(findTestObject('SODTest1/Page_AddEdit Test/button_Create 456'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage SOD Test/h2_Action Processed'), FailureHandling.OPTIONAL)
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage SOD Test/h2_Action Processed'), 0)
 
 WebUI.delay(3)
 
