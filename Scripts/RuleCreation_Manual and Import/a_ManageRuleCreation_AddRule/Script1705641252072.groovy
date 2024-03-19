@@ -294,13 +294,13 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage R
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_Mar182024_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_Mar182024_V2')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
-    'Maintain Customer Master vs. Maintain Supplier Master_Mar182024_V1')
+    'Maintain Customer Master vs. Maintain Supplier Master_Mar182024_V2')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/select_Select any OneAllMutually ExclusiveI_b1f6bb (1) (1) (1)'), 
     'Null', true)
@@ -542,6 +542,10 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba1/ManageActivity/Pa
     'Ioqy8emDrxi5mkiNQATzxQ==')
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/button_Login (1) (1) (1) (1) (1)'))
+
+WebUI.verifyElementClickable(findTestObject('deba3/ManageReviewStatus/Page_Home/a_Inbox - 0909'))
+
+WebUI.click(findTestObject('deba3/ManageReviewStatus/Page_Home/a_Inbox - 0909'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Actions (1)'))
 
