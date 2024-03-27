@@ -6,12 +6,12 @@
    <elementGuidId>762ed675-2854-409e-9006-6d2a2a67032d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(@href, '#')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div[6]/div[1]/table/tbody/tr[1]/th[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4bb5fb99-10b0-4bac-ab8f-add5ccf611db</webElementGuid>
+      <webElementGuid>03a589b8-df6a-4732-85ab-696ef4eebcbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>e0b9e79f-baf9-4ab8-8589-ccecb99cc12f</webElementGuid>
+      <webElementGuid>8049fffa-0f75-4528-a53f-25d32f59c1e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>dc9fcef7-2707-4021-b8d0-4a8e76ab41c6</webElementGuid>
+      <webElementGuid>b234e87b-30a5-4909-8453-370c13933ff5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>27400232186563715</value>
-      <webElementGuid>d14fc3c8-e48e-44b5-9e29-a1e3c91d9d8e</webElementGuid>
+      <webElementGuid>f30e8ae4-fd37-469f-afcb-91964ed86271</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>adf68781-b702-4434-acdc-1440124903ef</webElementGuid>
+      <webElementGuid>0e74a067-02e6-45f0-bea5-0a284838b512</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Rule Name</value>
-      <webElementGuid>d979031f-c0de-419d-9111-935882c29d2c</webElementGuid>
+      <webElementGuid>9e26344d-9aeb-42d1-b4a5-f951ebfd1eff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;RULE_NAME&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>e7550b03-2835-4288-ba64-ec78f021477d</webElementGuid>
+      <webElementGuid>96abaa9e-601f-4e5f-870a-8fcd855d5c55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='RULE_NAME']/a</value>
-      <webElementGuid>e6457baa-92d4-4d34-9523-156c441e4c36</webElementGuid>
+      <webElementGuid>a4101d72-5db2-41bc-8c97-11bdd0fce13f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Rule Name')]</value>
-      <webElementGuid>d1ca73f6-1d86-4e3f-895b-a4b04bd004b8</webElementGuid>
+      <webElementGuid>dd3ad96c-13d9-45c3-8040-454e42ebd332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>e10b5934-8e09-4373-ad02-dbbffe2d412a</webElementGuid>
+      <webElementGuid>434dbfdf-8bd3-4eef-a84b-a149da4e2a4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[2]/a</value>
-      <webElementGuid>9047b629-2913-4381-a421-af72e72de742</webElementGuid>
+      <webElementGuid>f03c3926-1078-45bd-a0ec-c682f6e584c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Rule Name' or . = 'Rule Name')]</value>
-      <webElementGuid>b67c2fbc-74d5-4989-b25e-f57cc588e38f</webElementGuid>
+      <webElementGuid>1164b7ae-881b-4327-aa9a-19843413e48f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[3]</value>
-      <webElementGuid>88ff422d-52c7-46f8-beab-6d07281db2a4</webElementGuid>
+      <webElementGuid>17ce6f3b-f7c4-43dd-9322-6010241cb067</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

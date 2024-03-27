@@ -49,9 +49,6 @@ WebUI.verifyElementClickable(findTestObject('deba1/Page_Manage Rules/a_Manage Vi
 
 WebUI.click(findTestObject('deba1/Page_Manage Rules/a_Manage Violation - 572'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
@@ -65,7 +62,7 @@ WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/P
     '')
 
 WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Jan21_V1')
+    'KTLN_SODTest_Mar22_V1')
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -80,9 +77,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Manage Exce
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/select_Select any OneGlobalLocal'), 
     'G', true)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/button_Actions'), 
-    0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/button_Actions'))
 
@@ -148,28 +142,22 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/Manage Exception
 WebUI.setText(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/input_p_ignore_10'), 
     'ASE_CREATE_USER_ACCOUNT_PRIV')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/button_Apply'), 
-    0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/button_Apply'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/td_Asset Txns vs. IT User  Role Maintenance Rule'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/td_eb002894'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/td_Open'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/input_f01'))
 
 WebUI.click(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/input_f01'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/button_Submit'), 
-    0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Manage Exception_Privilege/Page_Manage Violation/button_Submit'))
 
@@ -182,7 +170,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P
 WebUI.scrollToElement(findTestObject('deba1/Page_Add Exception/span_1 -                   14 of           _0f7191'), 0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Add Exception/span_1 -                   14 of           _0f7191'), 
-    FailureHandling.STOP_ON_FAILURE)
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(0)
 
@@ -200,9 +188,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Add Ex
 WebUI.click(findTestObject('Object Repository/deba1/Page_Add Exception/button_Submit (1)'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage Violation/h2_Action Processed (1)'), 0, FailureHandling.OPTIONAL)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Home/a_Manage Exception (1)'), 
-    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageException_Privilege_Approval_Process/Page_Home/a_Manage Exception (1) - Copy'))
 

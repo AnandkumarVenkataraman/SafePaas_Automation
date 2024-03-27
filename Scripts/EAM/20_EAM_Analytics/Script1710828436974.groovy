@@ -98,18 +98,6 @@ WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled
 
 WebUI.delay(300)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Go (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Go (1)'))
-
-WebUI.delay(300)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Go (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Go (1)'))
-
-WebUI.delay(300)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Actions (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Actions (1)'))
@@ -162,10 +150,6 @@ WebUI.click(findTestObject('deba4/EAM_Analytics/Page_Scheduled Downloads/button_
 WebUI.scrollToElement(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'), 0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/i_fa fa-download (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/i_fa fa-download (1)'))
 
 WebUI.takeFullPageScreenshot()
 
@@ -294,10 +278,6 @@ WebUI.scrollToElement(findTestObject('Object Repository/deba4/EAM_Analytics/Page
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/i_fa fa-download (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/i_fa fa-download (1)'))
-
 WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
@@ -425,10 +405,6 @@ WebUI.click(findTestObject('deba4/EAM_Analytics/Page_Scheduled Downloads/button_
 WebUI.scrollToElement(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'), 0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/i_fa fa-download (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/i_fa fa-download (1)'))
 
 WebUI.takeFullPageScreenshot()
 

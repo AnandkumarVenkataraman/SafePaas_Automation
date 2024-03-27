@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[1]/ul/li[6]/ul/li[2]/div[2]/a</value>
+         <value>(//a[contains(text(),'Manage Approval Assignments')])[3]</value>
       </entry>
       <entry>
          <key>BASIC</key>

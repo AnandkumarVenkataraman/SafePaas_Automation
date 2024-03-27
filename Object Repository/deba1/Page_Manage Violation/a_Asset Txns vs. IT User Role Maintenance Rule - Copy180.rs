@@ -6,11 +6,11 @@
    <elementGuidId>406877c2-447a-4b44-aeb6-219786a8c93f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[22]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//a[contains(@href, '#')])[22]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>47069f9e-b290-4ab0-93d9-0baf215f72cf</webElementGuid>
+      <webElementGuid>30e42338-98cc-4e4d-a91d-c2f7153f2829</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>527f1be5-c38f-4539-aa2a-0034cc378798</webElementGuid>
+      <webElementGuid>e4bbe45a-ae50-4da1-8d1b-8f2fed8ca865</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>Asset Txns vs. IT User &amp; Role Maintenance Rule</value>
-      <webElementGuid>a7364c9b-eb99-439d-b3c2-29df92eaa770</webElementGuid>
+      <webElementGuid>f0d80b69-5d36-42b9-a523-4a4e3e93581b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-sortWidget-row</value>
-      <webElementGuid>ec203a42-47a8-4e11-8dda-ac162e2586d4</webElementGuid>
+      <webElementGuid>5d75e599-c7a9-4bf8-bf42-b6cd48f32573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Asset Txns vs. IT User &amp; Role Maintenance Rule</value>
-      <webElementGuid>f2bf5f15-0e2c-40eb-b568-3468b96b20c0</webElementGuid>
+      <webElementGuid>5d9aa607-7014-423a-bfe6-859c0a4f37d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search_sort_widget_rows&quot;)/a[@class=&quot;a-IRR-sortWidget-row&quot;]</value>
-      <webElementGuid>79a96a6b-1999-4509-bb1d-61edfaeb2755</webElementGuid>
+      <webElementGuid>583ccab5-8dd3-46c1-b185-79d10c38c1f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='search_sort_widget_rows']/a[3]</value>
-      <webElementGuid>590ac605-f768-4d0e-b367-c838b8af3670</webElementGuid>
+      <webElementGuid>5f2d8d1c-388b-4fd0-a7bc-f5b7dbb7b083</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Asset Txns vs. IT User &amp; Role Maintenance Rule')]</value>
-      <webElementGuid>14c7d4e1-f760-4bf4-b651-c1259bb5e1df</webElementGuid>
+      <webElementGuid>adaf33c1-00f3-4e21-87c2-faf64063d07f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[22]</value>
-      <webElementGuid>992ee536-a9f0-4502-87e3-e2cd3ca493ab</webElementGuid>
+      <webElementGuid>9f5c9601-aa3a-4804-8520-b4956f599eba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]</value>
-      <webElementGuid>215282d3-91af-4740-ab50-e3abe9b56c6c</webElementGuid>
+      <webElementGuid>1aac3c95-8cd3-48d9-bfdd-e5b1fa6c28b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Asset Txns vs. IT User &amp; Role Maintenance Rule' or . = 'Asset Txns vs. IT User &amp; Role Maintenance Rule')]</value>
-      <webElementGuid>16a687b2-6206-44b9-b556-27ac03fde21d</webElementGuid>
+      <webElementGuid>8b21cbbf-1d9e-479c-ba4c-53329023bf34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[25]</value>
-      <webElementGuid>dccdbc99-0d28-4a65-abd3-810a5d8962d1</webElementGuid>
+      <webElementGuid>7936358b-0962-4bb3-9cfc-438f45fb59c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

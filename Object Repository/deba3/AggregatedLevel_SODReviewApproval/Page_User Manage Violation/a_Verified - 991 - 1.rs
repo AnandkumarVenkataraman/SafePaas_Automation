@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[6]/div[1]/div/div[1]/table/tr/th[16]/a</value>
+         <value>//a[(text() = 'Verified' or . = 'Verified')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

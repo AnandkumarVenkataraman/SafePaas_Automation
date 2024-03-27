@@ -60,7 +60,7 @@ WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/P
     '')
 
 WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Mar08_V1')
+    'KTLN_SODTest_Mar22_V1')
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -454,20 +454,14 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageExcep
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/button_Mass Update Exceptions'))
 
-WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox - 9099'), 
-    0)
-
 WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox - 9099'))
 
 WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Configuration and transaction checkbox - 9099'))
 
-WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Bank maintenance and Bank account re-conciliation checkbox'), 
-    0)
-
-WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Bank maintenance and Bank account re-conciliation checkbox'), 
+WebUI.verifyElementClickable(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Bank maintenance and Bank account re-conciliation checkbox - 8088'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Bank maintenance and Bank account re-conciliation checkbox'), 
+WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/Bank maintenance and Bank account re-conciliation checkbox - 8088'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageException_RolesWithConflict/Page_Mass Update Exceptions for Rules/button_Next - Copy - Copy'), 

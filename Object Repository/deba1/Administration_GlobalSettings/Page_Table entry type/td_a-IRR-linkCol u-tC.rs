@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_a-IRR-linkCol u-tC</name>
+   <tag></tag>
+   <elementGuidId>2c7e0142-fd46-42e7-b567-8d20f816f794</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td.a-IRR-linkCol.u-tC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='302569525021841849_orig']/tbody/tr[5]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8d15fc74-2b0f-49b3-876e-757796439b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-linkCol u-tC</value>
+      <webElementGuid>bed6fb1b-747d-46ad-a380-86f2204c886c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>R302569240269841849_LINK</value>
+      <webElementGuid>477c18af-e4f6-4422-b21c-77b5bce90919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;302569525021841849_orig&quot;)/tbody[1]/tr[5]/td[@class=&quot;a-IRR-linkCol u-tC&quot;]</value>
+      <webElementGuid>79efff6b-8b7d-4e95-8245-9d679e0b58bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='302569525021841849_orig']/tbody/tr[5]/td</value>
+      <webElementGuid>8b16dcf2-5cd9-4c1f-bebe-67cae4b7a503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>34a15d77-11cc-46d6-85a2-7621e93aa02d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

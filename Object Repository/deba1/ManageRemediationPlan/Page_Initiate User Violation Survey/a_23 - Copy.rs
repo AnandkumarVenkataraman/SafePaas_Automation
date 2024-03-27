@@ -6,12 +6,12 @@
    <elementGuidId>76aec9b6-29c2-4d75-b47b-dc1d8a2a375e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[4]/table/tbody/tr[1]/td[7]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ui-state-default.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

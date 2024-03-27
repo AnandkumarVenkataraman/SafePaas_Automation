@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any -ANANDKMARIAB</name>
+   <tag></tag>
+   <elementGuidId>10b7b928-c49b-42de-b60a-6301157438f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_ORIG_APPROVER</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_ORIG_APPROVER']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>06058d82-7146-492b-a6d1-e64cf6b1f5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_ORIG_APPROVER</value>
+      <webElementGuid>1023911d-75b9-4599-aaa0-e02c5d9fa28b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P35_ORIG_APPROVER</value>
+      <webElementGuid>03213f81-3e4b-4db2-96aa-f74adcfbed35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>fef0ef04-2c63-4ace-b011-a36a4ff3274e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5392f28b-3f59-4dc1-a480-8669be711744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>45ea6300-3371-4cd1-95ee-714ac6c0afc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any -
+ANANDK
+MARIAB
+</value>
+      <webElementGuid>b0107311-5716-458a-bd83-78ba2ee423bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_ORIG_APPROVER&quot;)</value>
+      <webElementGuid>9f5ab8c9-e5dd-427d-af8f-6f165251f74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/iframe</value>
+      <webElementGuid>23f08960-3521-475c-99e2-e7618fac72ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_ORIG_APPROVER']</value>
+      <webElementGuid>b165666d-c30f-43ab-9e81-1b62a97a529c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_ORIG_APPROVER_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>44975496-dba9-4686-b58d-99b89be9434b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>0bb3e2c2-397f-4662-bafc-cedc5cfe9c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P35_ORIG_APPROVER' and @name = 'P35_ORIG_APPROVER' and (text() = '- Please select any -
+ANANDK
+MARIAB
+' or . = '- Please select any -
+ANANDK
+MARIAB
+')]</value>
+      <webElementGuid>a90844b8-dd09-4179-8ebb-425814e6688a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

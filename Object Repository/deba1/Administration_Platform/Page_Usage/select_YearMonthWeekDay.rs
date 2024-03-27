@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_YearMonthWeekDay</name>
+   <tag></tag>
+   <elementGuidId>278c90ef-4386-432c-9289-50c7d374c239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_REPORT_TYPE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P23_REPORT_TYPE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>95d681db-3722-4d60-8c34-3555d35aba3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_REPORT_TYPE</value>
+      <webElementGuid>61cb76b9-1569-41b7-ad25-ff8b80b9d5b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P23_REPORT_TYPE</value>
+      <webElementGuid>c3939645-8728-4c67-9bd4-aecc085a0eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>858ea174-e482-4221-8267-fc8c7af55994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>95d13afd-86f8-45d5-9ddf-24670f63530a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>81aec9d7-9a66-4d4f-8e5f-92f1c577fce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Year
+Month
+Week
+Day
+</value>
+      <webElementGuid>3a5d3f44-7651-44d4-9319-7de5e88c1f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_REPORT_TYPE&quot;)</value>
+      <webElementGuid>7b417563-ecae-406f-95de-daa2e954c8c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P23_REPORT_TYPE']</value>
+      <webElementGuid>940c11d5-25a7-4d54-9c1e-71ff720c99a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_REPORT_TYPE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>9b0025d4-18ef-42c8-8794-d7c79f26df2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/select</value>
+      <webElementGuid>f034d01e-0f3e-47b2-b2db-824dcb7ae92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P23_REPORT_TYPE' and @name = 'P23_REPORT_TYPE' and (text() = 'Year
+Month
+Week
+Day
+' or . = 'Year
+Month
+Week
+Day
+')]</value>
+      <webElementGuid>664ce40c-b9c1-4c0c-95c7-227a49be7d87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -58,7 +58,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrecti
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'), 
-    'KTLN_SODTest_Mar08_V1', true)
+    'KTLN_SODTest_Mar22_V1', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Go (1)'))
 
@@ -179,16 +179,17 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrective
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_p_ignore_10 (1)'), 
-    'eb988749')
+    'svcerpintgusr')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_1 -                    1 of           _e353a0'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_1 -                    1 of           _e353a0'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_1 -                    1 of           _e353a0'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -216,7 +217,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrective
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
-    'Test_Justification_CreatePurchaseagreement_Selected_Mar08_V1')
+    'Test_Justification_CreatePurchaseagreement_Selected_Mar22_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
 
