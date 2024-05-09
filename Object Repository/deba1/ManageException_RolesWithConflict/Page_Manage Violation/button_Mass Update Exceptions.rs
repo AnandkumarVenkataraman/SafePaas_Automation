@@ -6,15 +6,19 @@
    <elementGuidId>bf0aacca-529b-411f-80d5-fa79ae6b70fb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#B175730457209722204</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B175730457209722204' and (text() = 'Mass Update Exceptions' or . = 'Mass Update Exceptions')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B175730457209722204']</value>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[3]/table/tbody/tr[24]/td[1]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#B175730457209722204</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>274c3d6a-dc7f-47d5-9661-662474ea2534</webElementGuid>
+      <webElementGuid>808270d0-009e-48bf-9d54-7ae2fdbad1e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'MASS_UPDATE',validate:true});</value>
-      <webElementGuid>c4df5faa-38f6-4801-b745-2b700560502c</webElementGuid>
+      <webElementGuid>e253c064-dd94-4887-b94e-d965026446e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>de95b049-f905-4a89-a559-3932044c15c9</webElementGuid>
+      <webElementGuid>ede0ab08-303a-4bcb-962c-b4a5fa72dba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>470d6ac4-085e-4722-9431-66d0ea8f1ccc</webElementGuid>
+      <webElementGuid>6e386a19-565c-43b1-baaf-aecda68d169e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B175730457209722204</value>
-      <webElementGuid>9f831c40-c797-40a5-a85e-9cead944a1a2</webElementGuid>
+      <webElementGuid>790b89c8-2575-4665-9fe9-22373380b0d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mass Update Exceptions</value>
-      <webElementGuid>5999493d-9740-492d-9b33-64ed9b3c9a83</webElementGuid>
+      <webElementGuid>14ddacf3-14f6-4504-968f-de839b60a6d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B175730457209722204&quot;)</value>
-      <webElementGuid>dcd85622-837b-4154-b88e-fbca579aa11f</webElementGuid>
+      <webElementGuid>9c3754c8-bf8f-4cb6-a710-cbdbc8c4e697</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B175730457209722204']</value>
-      <webElementGuid>c7af9442-4c10-4592-9821-9116f57cc257</webElementGuid>
+      <webElementGuid>e18e95b9-6740-4614-959c-ee09f2d9000d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='search']/div/div[2]/button</value>
-      <webElementGuid>3c43b5e2-860c-4dda-ab05-a5e65e9e4ea1</webElementGuid>
+      <webElementGuid>3c66f8a9-73f7-463e-b568-057022a32f38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>3db5b5fb-a6a3-4674-9d81-bf2b6cb33ecf</webElementGuid>
+      <webElementGuid>d1fb9d2a-6ac8-4719-a20d-c56c31170fc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B175730457209722204' and (text() = 'Mass Update Exceptions' or . = 'Mass Update Exceptions')]</value>
-      <webElementGuid>c1a530f9-9d39-48a0-a975-c40ebb9f66e6</webElementGuid>
+      <webElementGuid>ab3109f4-b9c4-45fe-bf83-bcaa939962de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

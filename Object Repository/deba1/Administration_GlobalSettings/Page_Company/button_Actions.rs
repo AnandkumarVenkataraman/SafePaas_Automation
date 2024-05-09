@@ -6,12 +6,12 @@
    <elementGuidId>24c07504-b452-4cbb-b91c-b025dfe76eee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R5581103320342092_actions_button</value>
+         <key>XPATH</key>
+         <value>//div[3]/div/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='R5581103320342092_actions_button']</value>
+         <key>CSS</key>
+         <value>#R5581103320342092_actions_button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>2ff0686d-7cee-4241-aaf1-59f35811d5c1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.a-Button.a-IRR-button.a-Button--noUI.a-IRR-button--remove</value>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div[3]/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/ul/li[1]/span[4]/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[3]/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/ul/li[1]/span[4]/button</value>
+         <key>CSS</key>
+         <value>button.a-Button.a-IRR-button.a-Button--noUI.a-IRR-button--remove</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>69647f41-622b-4731-bd8d-ff470196580d</webElementGuid>
+      <webElementGuid>debb2759-3724-4888-b062-2fe3d02c8446</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-Button--noUI a-IRR-button--remove</value>
-      <webElementGuid>bc64f6ad-0c26-497b-8a7b-298a3b41f8ed</webElementGuid>
+      <webElementGuid>eb2ed369-bbd9-4322-a149-8b00822efbf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Remove Filter</value>
-      <webElementGuid>e7d341e9-603f-4911-b573-bdfb898013d3</webElementGuid>
+      <webElementGuid>532762d1-f4f7-4ee0-a94f-b5ee3883f70a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Remove Filter</value>
-      <webElementGuid>93f74e22-bcc6-4e16-83e7-a549a883ca18</webElementGuid>
+      <webElementGuid>bb93ccdd-ccd4-428b-baa8-dcfc88866546</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51a5909f-ad5e-4bc6-a889-27628ad46b6b</webElementGuid>
+      <webElementGuid>a5530ea1-e283-4c92-996d-38edb563da01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-setting</name>
       <type>Main</type>
       <value>filter</value>
-      <webElementGuid>3cc91dba-9fc9-4104-898a-c5bc425294dc</webElementGuid>
+      <webElementGuid>9ea36202-7e09-47a4-a62f-06e4c1ab810c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-filter-id</name>
       <type>Main</type>
       <value>309719536040190172</value>
-      <webElementGuid>03d64dca-8a9b-42c8-91d1-d235c0b1ac7a</webElementGuid>
+      <webElementGuid>ca702f76-e027-463f-b745-c7181e4bb177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;a_Collapsible1_R134136923578779043_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]/span[@class=&quot;a-IRR-controls-cell a-IRR-controls-cell--remove&quot;]/button[@class=&quot;a-Button a-IRR-button a-Button--noUI a-IRR-button--remove&quot;]</value>
-      <webElementGuid>25e57bc7-5338-4634-8cff-8110b352de06</webElementGuid>
+      <webElementGuid>72d74102-78e3-4af9-b208-0c03d75c1df7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[48]</value>
-      <webElementGuid>119f2baf-9638-43fc-80da-0434f18041f6</webElementGuid>
+      <webElementGuid>f2c0244f-1958-459a-bdd0-25e8758a44bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='a_Collapsible1_R134136923578779043_control_panel_content']/ul/li/span[4]/button</value>
-      <webElementGuid>ab70f322-6d88-4c06-b032-6d9c35ec1000</webElementGuid>
+      <webElementGuid>405a76ce-a374-44af-a3e0-4834d2d8c2b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[4]/button</value>
-      <webElementGuid>9775282c-7953-46d1-b418-a24fdb3562dc</webElementGuid>
+      <webElementGuid>671d97d7-4f25-42a4-9dde-7dd28f4c6c91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@title = 'Remove Filter' and @type = 'button']</value>
-      <webElementGuid>9a83a2d0-cb44-44be-86f4-6cc872493a63</webElementGuid>
+      <webElementGuid>7e0ef0cf-3461-47c2-9839-844465c31b29</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

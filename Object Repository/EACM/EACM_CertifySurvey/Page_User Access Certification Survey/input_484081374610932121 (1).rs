@@ -6,15 +6,19 @@
    <elementGuidId>8db3153d-8131-4207-9f25-9db785581083</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#justifId</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'justifId' and @name = '484081374610932121']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='justifId']</value>
+         <value>//*[@id=&quot;justifId&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#justifId</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>337316de-df21-4300-a32d-49d26333d899</webElementGuid>
+      <webElementGuid>b2b6a274-6703-4ed3-94e0-7bdb2e2b5da9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f1996eec-f349-4673-9bf2-a324aad4d671</webElementGuid>
+      <webElementGuid>e7878fc1-f6d7-47bc-bcc8-6dd47ee11962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>justifId</value>
-      <webElementGuid>0b2fb009-7a04-48c2-a3fa-de564b31f34a</webElementGuid>
+      <webElementGuid>54e8ffbc-50ae-47d7-9e4c-6b0ff7a25717</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>484081374610932121</value>
-      <webElementGuid>d93cdba4-079f-4062-a7f3-1e87f9b7cb20</webElementGuid>
+      <webElementGuid>bd3af02e-5b04-42a8-b50b-227dd2c8e585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text_field apex-item-text</value>
-      <webElementGuid>4730155f-2871-4dba-8d92-ac7bbf011ab0</webElementGuid>
+      <webElementGuid>ab70ae22-0694-4699-b791-4bd67d4a856d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>1500</value>
-      <webElementGuid>0a6a13bd-1fcc-4889-9afe-3e52cc6714aa</webElementGuid>
+      <webElementGuid>c01306c5-e37b-4f3d-b531-a7ec82124ad9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>869b53e7-dec9-458e-8f9d-24414cb446e7</webElementGuid>
+      <webElementGuid>39e1ea77-9b60-4ac7-bc9d-5d3c0d7bf8cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>justifId_HDR</value>
-      <webElementGuid>4579a468-1603-426d-889f-6f95c2be93d4</webElementGuid>
+      <webElementGuid>4ffb6bf3-7283-481c-99ef-b8b724aa704a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;justifId&quot;)</value>
-      <webElementGuid>748e332f-91cd-4c79-90a0-23d45fa0a219</webElementGuid>
+      <webElementGuid>91e786d6-6527-4b17-ba09-c3b34c4e564c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='justifId']</value>
-      <webElementGuid>45774ecf-5f91-4d9d-bde5-8d1c2a572544</webElementGuid>
+      <webElementGuid>17d1b6db-0d3f-43cf-be20-1b1939035796</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='uacReport_ig_grid_vc_cur']/div/input</value>
-      <webElementGuid>827860a8-f1a8-45e9-aee5-c64bd2c7918d</webElementGuid>
+      <webElementGuid>03f15173-a2ea-46d9-969c-bc8296fbf6b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/input</value>
-      <webElementGuid>42fc64d9-48be-4433-99c7-7527a18c7ab6</webElementGuid>
+      <webElementGuid>6f25379e-475e-45c4-aa05-fb4343cd36cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'justifId' and @name = '484081374610932121']</value>
-      <webElementGuid>15f8bd78-6f08-4732-98c5-0e163d78bf35</webElementGuid>
+      <webElementGuid>df9b5abd-1362-402a-812f-4612d839df66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

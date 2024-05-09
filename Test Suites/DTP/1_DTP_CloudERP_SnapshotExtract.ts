@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d19e1bba-3826-4425-8747-26ab34660dd8</testSuiteGuid>
    <testCaseLink>
-      <guid>88382c23-98f7-491a-932a-82ffc2ef9d77</guid>
+      <guid>c32b4bc4-8515-48e1-b3c0-6d9869e4e960</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DataProbe_CloudERP/1_DTP_CloudERP_SnapshotExtract</testCaseId>

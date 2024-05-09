@@ -15,7 +15,7 @@
       <guid>8b9da8a1-da0a-4b08-8829-573892a8a3d2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/20_EAM_Analytics</testCaseId>
+      <testCaseId>Test Cases/EAM/20_EAM_Analytics Report</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

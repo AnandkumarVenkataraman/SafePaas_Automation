@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneAR Approval Limits</name>
+   <tag></tag>
+   <elementGuidId>7cbbc4ec-5d1a-49b0-85b4-e25869ac7f88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P21_OBJECTS</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P21_OBJECTS']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fabb3258-2975-41a6-8a87-58bad5b00fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P21_OBJECTS</value>
+      <webElementGuid>9ead4ea9-7f4c-43ae-bebd-0ec55a2608c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P21_OBJECTS</value>
+      <webElementGuid>ac9e54f2-8079-499c-a84e-a2c602d67ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>2291b517-ee8b-464d-87ff-5daa403acbfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b38c8580-37cd-4de1-99a1-35a30d2fbc5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>2a7aa72d-5f88-47b5-bd9c-5afdf5741441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P21_OBJECTS');</value>
+      <webElementGuid>c95a531d-f9d6-4cd9-8ba2-a5e73da1ef23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+AR Approval Limits
+</value>
+      <webElementGuid>e11192f2-de79-4f00-b4d3-f4f04fba4ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P21_OBJECTS&quot;)</value>
+      <webElementGuid>945b5316-e8b8-455b-a27f-ebbca12550a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P21_OBJECTS']</value>
+      <webElementGuid>60363dba-25b2-4ca3-b603-d2f94d47cd87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R262953225731837231']/div[2]/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>75410972-f7e8-4da0-96cf-03aaaf13b92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>5fa16529-0a7d-4690-8c9f-4f3a50dda328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P21_OBJECTS' and @name = 'P21_OBJECTS' and (text() = 'Select any one
+AR Approval Limits
+' or . = 'Select any one
+AR Approval Limits
+')]</value>
+      <webElementGuid>43fde722-55bf-44f8-9f96-767b1bf27ab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

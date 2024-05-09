@@ -120,9 +120,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignme
 
 WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_All (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
-WebUI.click(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.click(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Reassign Role'))
 
@@ -183,9 +183,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignme
 
 WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_All (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
-WebUI.click(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.click(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Reassign Role'))
 
@@ -195,21 +195,13 @@ WebUI.delay(2)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.scrollToPosition(0, 0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_OK - 625'))
 
 WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_OK - 625'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'), 
-    0)
+WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U101'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'), 
-    FailureHandling.OPTIONAL)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'), 
+WebUI.selectOptionByLabel(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U101'), 
     'HCM Market', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Submit'))
@@ -242,9 +234,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_RoleGr
 
 WebUI.click(findTestObject('Object Repository/deba4/EACM_RoleGroup_HCM Market/Page_Scope Roles/button_Go'))
 
-WebUI.verifyElementClickable(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
-WebUI.click(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.click(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Reassign Role'))
 
@@ -254,21 +246,13 @@ WebUI.delay(2)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.scrollToPosition(0, 0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_OK - 625'))
 
 WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_OK - 625'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'), 
-    0)
+WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U102'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'), 
-    FailureHandling.OPTIONAL)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - 1001'), 
+WebUI.selectOptionByLabel(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U102'), 
     'Out of box', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Submit'))
@@ -289,9 +273,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - ORA Cancel'))
 
-WebUI.verifyElementClickable(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
-WebUI.click(findTestObject('Page_Scope Roles/button_Select All (1)'))
+WebUI.click(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Select All - U100'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Reassign Role'))
 
@@ -301,21 +285,13 @@ WebUI.delay(2)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.scrollToPosition(0, 0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_OK - 625'))
 
 WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_OK - 625'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_Out of Scope_ Role Group - 1002'), 
-    0)
+WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U103'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_Out of Scope_ Role Group - 1002'), 
-    FailureHandling.OPTIONAL)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_Out of Scope_ Role Group - 1002'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_Out of Scope_ Role Group - 1002'), 
+WebUI.selectOptionByLabel(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U103'), 
     'Out of Scope', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Submit'))
@@ -409,9 +385,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_RoleGroup_HCM Market/Page_Scope Roles/button_HCM_Submit'))
+WebUI.verifyElementClickable(findTestObject('deba4/EACM_RoleGroup_HCM Market/Page_Scope Roles/button_HCM_Submit - U110'))
 
-WebUI.click(findTestObject('Object Repository/deba4/EACM_RoleGroup_HCM Market/Page_Scope Roles/button_HCM_Submit'))
+WebUI.click(findTestObject('deba4/EACM_RoleGroup_HCM Market/Page_Scope Roles/button_HCM_Submit - U110'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - 501'))
 
@@ -467,8 +443,8 @@ WebUI.click(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignmen
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignments/Page_Manage Approval Assignments/select_Role GroupDescriptionRoleRole Descri_6ea309'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignments/Page_Manage Approval Assignments/select_Role GroupDescriptionRoleRole Descri_6ea309'), 
-    'ROLE_ID', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignments/Page_Manage Approval Assignments/select_Role GroupDescriptionRoleRole Descri_6ea309'), 
+    'Role', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignments/Page_Manage Approval Assignments/select_is nullis not nulllikenot likeinnot _365127'))
 

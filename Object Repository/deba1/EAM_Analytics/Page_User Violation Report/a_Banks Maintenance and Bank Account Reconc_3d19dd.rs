@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Banks Maintenance and Bank Account Reconc_3d19dd</name>
+   <tag></tag>
+   <elementGuidId>d841694c-2cfa-49cb-93f8-ad3d9bb80e1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uvrReport_sort_widget_rows']/a[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8d5d2312-8d1f-44fc-bf95-e06cc188f12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>354888e3-487c-4d9b-a764-f6c4b07ae766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-return-value</name>
+      <type>Main</type>
+      <value>Banks Maintenance and Bank Account Reconciliation</value>
+      <webElementGuid>b8dff734-d1e3-4816-92c6-aba5ea85fadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-sortWidget-row</value>
+      <webElementGuid>ae81c3d9-5942-4c15-9af8-e46f5ea2671c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Banks Maintenance and Bank Account Reconciliation</value>
+      <webElementGuid>54238889-ff61-44e4-96bd-5802fbf2550a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uvrReport_sort_widget_rows&quot;)/a[@class=&quot;a-IRR-sortWidget-row&quot;]</value>
+      <webElementGuid>49732082-11d7-4312-be75-a7d75d1697f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uvrReport_sort_widget_rows']/a[13]</value>
+      <webElementGuid>dfd73acd-2efd-46f0-b5eb-da88c7db8ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Banks Maintenance and Bank Account Reconciliation')]</value>
+      <webElementGuid>c863e4a3-5c14-418e-9c00-4dfa4d087b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[33]</value>
+      <webElementGuid>80f4a314-d227-459c-af81-72d7f2ee1c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[13]</value>
+      <webElementGuid>f315caae-1d4f-4c76-a98d-34731fb531ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Banks Maintenance and Bank Account Reconciliation' or . = 'Banks Maintenance and Bank Account Reconciliation')]</value>
+      <webElementGuid>8e293979-4930-4a0c-a64c-4def369147f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

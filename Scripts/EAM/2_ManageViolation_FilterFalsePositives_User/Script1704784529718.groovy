@@ -59,7 +59,7 @@ WebUI.click(findTestObject('deba3/Sample1/Page_Manage Violation/buttonP74_REQUES
 WebUI.verifyElementText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 
     '')
 
-WebUI.setText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 'KTLN_SODTest_Mar22_V1')
+WebUI.setText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 'KTLN_SODTest_Apr13_V1')
 
 WebUI.sendKeys(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), Keys.chord(
         Keys.ENTER))

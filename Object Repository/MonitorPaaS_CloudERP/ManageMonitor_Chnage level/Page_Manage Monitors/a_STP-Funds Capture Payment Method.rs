@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_STP-Funds Capture Payment Method</name>
+   <tag></tag>
+   <elementGuidId>d3eaa839-1c0b-4cb4-b673-39a79195cb3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>76330779-bf72-43ca-a3dd-6db60f1d2a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1110:21:17114677629605:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320748,320748,STP-Funds%20Capture%20Payment%20Method</value>
+      <webElementGuid>878ab4d6-285b-48da-81c2-d73365f67339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>STP-Funds Capture Payment Method</value>
+      <webElementGuid>be005e1d-aeba-47f5-9a8f-ed980cb70d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;136025645279714537_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>e3e3fcf8-350b-4a3a-9d17-54523ebffdd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
+      <webElementGuid>b16a3f07-6a46-4dbc-9a15-b7ef25613c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'STP-Funds Capture Payment Method')]</value>
+      <webElementGuid>288fe9a4-b37a-4741-ab64-58686a4faf77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1110:21:17114677629605:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320748,320748,STP-Funds%20Capture%20Payment%20Method')]</value>
+      <webElementGuid>e5570bba-fe6d-46d3-a277-13c28f23c33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>de05023c-28ab-4b8c-83de-4b8317e7a9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1110:21:17114677629605:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320748,320748,STP-Funds%20Capture%20Payment%20Method' and (text() = 'STP-Funds Capture Payment Method' or . = 'STP-Funds Capture Payment Method')]</value>
+      <webElementGuid>9653b1cc-fb56-4774-b728-7db3819e0ff5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AR Approval Limits</name>
+   <tag></tag>
+   <elementGuidId>bb41b211-27e2-4505-96a2-033638e3776b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-IRR-col-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R163105974055422926_col_values_drop']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd690bb9-e7b8-47ef-9bf4-4fb7d85bc85f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>ed345097-e326-464b-b48b-70037d38db64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-col-value</value>
+      <webElementGuid>5efaee3e-c43e-4d21-801f-d9e1d6307afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-return-value</name>
+      <type>Main</type>
+      <value>AR Approval Limits </value>
+      <webElementGuid>3dc9e351-f1b7-485e-890d-866c3f5e5ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AR Approval Limits </value>
+      <webElementGuid>58473a5f-4aec-437d-8285-13caf52b4de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R163105974055422926_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
+      <webElementGuid>c6ee336f-4c61-4ca8-a3e0-00989051b454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R163105974055422926_col_values_drop']/a</value>
+      <webElementGuid>ecb06491-ee3b-4f9d-8910-434ceefbf0b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AR Approval Limits')]</value>
+      <webElementGuid>4a9f1a53-fee5-473d-9461-f1f945ccdf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[102]</value>
+      <webElementGuid>d8a70bf7-09e7-42cc-991e-81bfaa907451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//html/div/a</value>
+      <webElementGuid>9e2505bd-5888-440e-8c00-be349d317432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'AR Approval Limits ' or . = 'AR Approval Limits ')]</value>
+      <webElementGuid>8a68c33d-6359-49fc-8b10-44d747d335ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

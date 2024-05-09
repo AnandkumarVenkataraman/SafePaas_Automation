@@ -6,12 +6,12 @@
    <elementGuidId>d8810ae4-8571-45a5-b18a-b26d6cf5d934</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R5581103320342092_actions_menu_2 > div.a-Menu-inner > span.a-Menu-labelContainer</value>
+         <key>XPATH</key>
+         <value>//div[5]/div/ul/li[3]/div/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='R5581103320342092_actions_menu_2']/div/span</value>
+         <key>CSS</key>
+         <value>#R5581103320342092_actions_menu_2 > div.a-Menu-inner > span.a-Menu-labelContainer</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

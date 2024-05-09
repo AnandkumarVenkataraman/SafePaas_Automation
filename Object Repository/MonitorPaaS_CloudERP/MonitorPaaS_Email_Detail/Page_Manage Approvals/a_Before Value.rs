@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Before Value</name>
+   <tag></tag>
+   <elementGuidId>79b1d737-a86f-45c6-aaed-cb8bbb7fd228</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#C83527910798240701 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C83527910798240701']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1b089a8e-9151-4547-92d1-68dff673d88e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>2926327a-0735-489e-9f37-8f769c3a0d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>83527910798240701</value>
+      <webElementGuid>f2564c09-0e17-4876-8013-fa6ef1036805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>a9892eee-7b19-4623-9127-ef07586d795c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Before Value</value>
+      <webElementGuid>b841467e-8b65-4a03-bf72-c3f3ecaefee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;176546485571519037&quot;)/tr[1]/th[@id=&quot;C83527910798240701&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>9dc759a7-0e85-4bda-864c-bc1160aa8c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/MonitorPaaS_CloudERP/MonitorPaaS_Email_Detail/Page_Manage Approvals/iframe</value>
+      <webElementGuid>5b71cf43-8f98-4566-ba71-ae9d4894c08c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C83527910798240701']/a</value>
+      <webElementGuid>592b4cf7-3cd0-41a7-9c22-8b24682421eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Before Value')]</value>
+      <webElementGuid>3fd5d5b4-a163-4940-9bfe-4e9a6763a885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/a</value>
+      <webElementGuid>e079574f-a312-4382-9aab-b1f928b9c40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Before Value' or . = 'Before Value')]</value>
+      <webElementGuid>bc95d8b7-bf4e-4a5b-8300-4b55c0e413ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

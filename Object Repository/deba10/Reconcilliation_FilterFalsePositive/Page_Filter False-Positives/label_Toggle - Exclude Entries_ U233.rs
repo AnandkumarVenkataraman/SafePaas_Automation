@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Toggle - Exclude Entries_ U233</name>
+   <tag></tag>
+   <elementGuidId>7e219478-1fea-49ea-abc8-14dea6fe5afd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#a_Collapsible3_uRep_control_panel_content > ul.a-IRR-controls > li.a-IRR-controls-item.a-IRR-controls-item--filter > span.a-IRR-controls-cell > label.a-IRR-controlsCheckboxLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div[2]/ul/li/span[1]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>94d9a76b-6dee-473b-ab91-3f0dad8eec52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>control_335855052248230029</value>
+      <webElementGuid>ac41dd35-3fb2-47ba-b202-a1e08d4bebc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-controlsCheckboxLabel</value>
+      <webElementGuid>9e6e4bd7-acaf-404c-8a0d-566db0535997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toggle</value>
+      <webElementGuid>49b1c42d-5893-4cf8-a648-4d96de58d735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a_Collapsible3_uRep_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]/span[@class=&quot;a-IRR-controls-cell&quot;]/label[@class=&quot;a-IRR-controlsCheckboxLabel&quot;]</value>
+      <webElementGuid>8ca4b7b1-5c98-4671-b3f7-a302db6308bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible3_uRep_control_panel_content']/ul/li/span/label</value>
+      <webElementGuid>a6369303-be87-4a08-8041-39798f263fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div[2]/div[2]/div[2]/ul/li/span/label</value>
+      <webElementGuid>2c995861-76a2-435f-b7b6-635829a6c0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Toggle' or . = 'Toggle')]</value>
+      <webElementGuid>b2bc7118-98e5-4054-a0f6-ab7a77cf72e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

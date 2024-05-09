@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Bank Account Reconciliation and Enter_ab725a</name>
+   <tag></tag>
+   <elementGuidId>06f36b5f-12f4-4531-ac3d-56b6df12e7b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>77aa0495-dfc3-4cff-af6b-fe0bf6b91f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:3877785239171:::3:P3_NID:77419</value>
+      <webElementGuid>c9029404-f74e-4255-93f4-30874ef4f459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner</value>
+      <webElementGuid>311e1e17-c8c6-45a0-8f41-9b915d5e01df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>39169dfa-f49c-4146-a0ea-f2d571926e29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>66a2135a-fb86-4709-bf4f-57aee8be49b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner')]</value>
+      <webElementGuid>9ead8294-799a-4982-85d1-15c3d1429121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:3877785239171:::3:P3_NID:77419')]</value>
+      <webElementGuid>2ba907ab-2d32-4873-a5f0-255b657f86c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>b73dadf1-76eb-4f77-974e-075435a08dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:3877785239171:::3:P3_NID:77419' and (text() = 'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner' or . = 'The Bank Account Reconciliation and Enter Customer Receipts has been sent for your approval - Owner')]</value>
+      <webElementGuid>ffe7619b-c8e8-4f12-b85b-cecdd7872853</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

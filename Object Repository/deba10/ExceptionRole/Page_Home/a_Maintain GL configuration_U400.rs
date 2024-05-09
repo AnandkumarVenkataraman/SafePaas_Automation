@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Maintain GL configuration_U400</name>
+   <tag></tag>
+   <elementGuidId>835c906b-e6e5-4742-a0e3-2ba1046d6d6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[2]/div[2]/div[2]/div[1]/div/div/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[6]/div[1]/table/tbody/tr[2]/td[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>252d192c-7f19-4bd5-b7f4-a07d79cabfab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:15221864359335:::3:P3_NID:76005</value>
+      <webElementGuid>aa70cd12-34d7-44cf-b8c7-ecd071367071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner</value>
+      <webElementGuid>536ed338-e28a-4651-9ae5-0d6e088868e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>69c652d3-f4cb-41a5-9610-4ea300993b1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>9795758a-e0fa-4ca0-996f-9c500372d073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>4baaea4d-043e-459d-bfd3-0180b2f96aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:15221864359335:::3:P3_NID:76005')]</value>
+      <webElementGuid>97ba5d49-d52e-4b09-b9a8-eac0fc7b9871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>fce19dd4-c999-4b1f-8388-d290a6334a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:15221864359335:::3:P3_NID:76005' and (text() = 'The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner' or . = 'The Approve Payables Invoice vs. Asset Configuration Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>f28ae779-4bf6-4e22-9773-d809a62f4a06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

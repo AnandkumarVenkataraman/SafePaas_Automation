@@ -25,7 +25,7 @@ Test_RoleGroup2
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/select</value>
+         <value>//*[@id=&quot;ui-id-6&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -40,7 +40,7 @@ Test_RoleGroup2
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>44242f0d-f7b9-40d7-89ef-f45632aee6d7</webElementGuid>
+      <webElementGuid>b55e96ca-b008-406a-a411-7dfdf85fd645</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@ Test_RoleGroup2
       <name>id</name>
       <type>Main</type>
       <value>P48_ROLE_GROUP</value>
-      <webElementGuid>4d6d8f79-1503-4f84-a324-afb93a63980a</webElementGuid>
+      <webElementGuid>0b482760-560e-4659-ac2d-a5383ef6cadd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@ Test_RoleGroup2
       <name>name</name>
       <type>Main</type>
       <value>P48_ROLE_GROUP</value>
-      <webElementGuid>41703533-8d2a-40aa-b81a-010044c7afff</webElementGuid>
+      <webElementGuid>29ea80f4-7ced-47f9-9abb-336dff44cf6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@ Test_RoleGroup2
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>f51421b3-528d-4e38-a02b-c0a236995a53</webElementGuid>
+      <webElementGuid>3b6c30c4-9a72-4042-9982-21e47725ef47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@ Test_RoleGroup2
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ced59b9b-10fe-4c28-a498-16a2d8064b23</webElementGuid>
+      <webElementGuid>ad294890-82ca-48ac-b780-90e0a583f879</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@ Test_RoleGroup2
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>2137bb49-0dc6-493d-a18d-73a70febc0f5</webElementGuid>
+      <webElementGuid>a128cbc5-06a7-4266-a673-e9c7e9766293</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@ Out of Scope
 Survey Exceptions
 Test_RoleGroup2
 </value>
-      <webElementGuid>e30a2fc5-2b92-45ec-82d3-381ae5a3a302</webElementGuid>
+      <webElementGuid>3b6639be-6929-42b0-aee4-485932ba0d06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@ Test_RoleGroup2
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P48_ROLE_GROUP&quot;)</value>
-      <webElementGuid>07021274-0c6c-413f-8dba-b5448f9130aa</webElementGuid>
+      <webElementGuid>d97c6c4b-454a-4674-a2a2-464955f7b229</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@ Test_RoleGroup2
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/iframe</value>
-      <webElementGuid>d525eb0a-888c-4402-aafc-8be5fc49ce04</webElementGuid>
+      <webElementGuid>d752cfc8-299f-494d-ab69-337396dd1cb7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -119,7 +119,7 @@ Test_RoleGroup2
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P48_ROLE_GROUP']</value>
-      <webElementGuid>31744418-d35c-4342-bfa8-f66db331bb98</webElementGuid>
+      <webElementGuid>417017d1-e2c2-4706-aff3-ffebdf749b09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@ Test_RoleGroup2
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P48_ROLE_GROUP_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>f26b02ee-b9bb-471b-8b45-0e17f9df055b</webElementGuid>
+      <webElementGuid>0dd22d5a-1c06-437f-baf3-c9dc00f81395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@ Test_RoleGroup2
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>5559671d-e653-4481-bf8a-cd5b60b6e7ac</webElementGuid>
+      <webElementGuid>7e269a01-5b40-4035-b649-eab8a0aa4bfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@ Out of Scope
 Survey Exceptions
 Test_RoleGroup2
 ')]</value>
-      <webElementGuid>fbd07ad9-95bb-48b5-ac2e-6ead054ba295</webElementGuid>
+      <webElementGuid>52be11d2-c7b6-4520-a643-e4765c15624c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

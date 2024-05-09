@@ -96,19 +96,18 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Administrat
 
 WebUI.click(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/span_Filter'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/select_NameAddress1Address2Address3CityStat_4c47bd'))
+WebUI.verifyElementClickable(findTestObject('deba1/Administration_GlobalSettings/Page_Company/select_NameAddress1Address2Address3CityStat_4c47bd - Copy'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/select_NameAddress1Address2Address3CityStat_4c47bd'), 
-    'CODE', true)
+WebUI.selectOptionByLabel(findTestObject('deba1/Administration_GlobalSettings/Page_Company/select_NameAddress1Address2Address3CityStat_4c47bd - Copy'), 
+    'Name', true, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/input_p_ignore_10'), 
-    '')
+WebUI.verifyElementText(findTestObject('deba1/Administration_GlobalSettings/Page_Company/input_p_ignore_10 - Copy'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/input_p_ignore_10'), 'KAT')
+WebUI.setText(findTestObject('deba1/Administration_GlobalSettings/Page_Company/input_p_ignore_10 - Copy'), 'KATALON_STUDIO')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/button_Apply'))
+WebUI.verifyElementClickable(findTestObject('deba1/Administration_GlobalSettings/Page_Company/button_Apply - U10'))
 
-WebUI.click(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/button_Apply'))
+WebUI.click(findTestObject('deba1/Administration_GlobalSettings/Page_Company/button_Apply - U10'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/img_apex-edit-pencil'))
 

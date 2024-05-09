@@ -15,7 +15,7 @@
       <guid>ee45efbd-9d36-4005-a8ee-0089eb55111e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/13_ManageCorrectiveActions_Selected</testCaseId>
+      <testCaseId>Test Cases/EAM/9_ManageCorrectiveActions_Selected</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneCERP_ObjSetCloudERP_AD_302095</name>
+   <tag></tag>
+   <elementGuidId>8fbb27cf-1eca-4d7b-8d61-6fa60fd21445</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P100_OBJECT_SET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P100_OBJECT_SET']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>51c8c7cd-d813-4a2d-a0f5-caa97b967bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P100_OBJECT_SET</value>
+      <webElementGuid>ccba72a1-a8b6-4677-9ff9-90ce49d7f939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P100_OBJECT_SET</value>
+      <webElementGuid>91bd91a5-5922-4dc4-b608-13cc18ba8878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>fe60e9ec-f55a-49c5-b10a-ebcad2dd7845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>978d415b-6088-4828-ac1c-8ad470cbefdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c68f67b4-f285-448f-90e1-bbd09ab1192a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P100_OBJECT_SET');</value>
+      <webElementGuid>8f26bcc0-e65f-4642-93fb-f1b516bf289f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+CERP_ObjSet
+CloudERP_AD_NW
+EBizApp_JDBC_ObjSet
+KTLNEBS_MonitorPaaS_ObjSet
+KTLN_ClouodERP_EACM_ObjSet
+KTLN_DEV22_ObjSet
+KTLN_EACM_API_ObjSet
+KTLN_OBJECT_SET
+SailPoint_ObjSet
+SailPoint_ObjSet_API
+Tririga_API
+Tririga_Env_ObjSet
+WorkDay_Env_ObjSet
+</value>
+      <webElementGuid>7529cdb8-c3bb-48dd-ad0a-657e24dfbd21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P100_OBJECT_SET&quot;)</value>
+      <webElementGuid>127c6736-9319-4561-8080-c8893ab318cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P100_OBJECT_SET']</value>
+      <webElementGuid>e5275980-eea1-4095-ad94-6bfbf0c5fe52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P100_OBJECT_SET_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>612ccc81-e3a5-4824-88c6-7f505916695d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>bee20ad0-9450-42d0-af13-ca1b9966f642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P100_OBJECT_SET' and @name = 'P100_OBJECT_SET' and (text() = 'Select any one
+CERP_ObjSet
+CloudERP_AD_NW
+EBizApp_JDBC_ObjSet
+KTLNEBS_MonitorPaaS_ObjSet
+KTLN_ClouodERP_EACM_ObjSet
+KTLN_DEV22_ObjSet
+KTLN_EACM_API_ObjSet
+KTLN_OBJECT_SET
+SailPoint_ObjSet
+SailPoint_ObjSet_API
+Tririga_API
+Tririga_Env_ObjSet
+WorkDay_Env_ObjSet
+' or . = 'Select any one
+CERP_ObjSet
+CloudERP_AD_NW
+EBizApp_JDBC_ObjSet
+KTLNEBS_MonitorPaaS_ObjSet
+KTLN_ClouodERP_EACM_ObjSet
+KTLN_DEV22_ObjSet
+KTLN_EACM_API_ObjSet
+KTLN_OBJECT_SET
+SailPoint_ObjSet
+SailPoint_ObjSet_API
+Tririga_API
+Tririga_Env_ObjSet
+WorkDay_Env_ObjSet
+')]</value>
+      <webElementGuid>36a8dc42-18db-499e-a3e9-18edd7deb054</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>d80a69a5-2f7b-4a31-ba3e-aaa6e8484c9b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[4]/ul/li[2]/div[2]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_259']/div[2]/a</value>
+         <key>CSS</key>
+         <value>a.a-TreeView-label.is-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ba4eb24f-6b3e-4b95-828e-21705cf265c2</webElementGuid>
+      <webElementGuid>1e26eab5-ea12-4728-b659-67d09dac0383</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0ffa4543-a975-4480-87c3-f01942bcccc2</webElementGuid>
+      <webElementGuid>0e90408e-715d-4b2e-88fb-b004e72f0eb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>0cf9d29e-8212-42ae-a790-cbf1cd90c835</webElementGuid>
+      <webElementGuid>901158e6-4bfa-4a79-ae64-0d9c4c86a0a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>c98e6e6a-e5f4-4e44-88be-4cd7478edbec</webElementGuid>
+      <webElementGuid>a55a3e52-9ed5-4eb5-8ab3-a78e818b1633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:38:1442243998207:::38::&amp;cs=3-IhN_UuVmDKXb48ESIiw8HrFG240oo47n-CkYKvEk0uD1ins4MlpYIpVGG1q6kHwJ9TJFH9qgiSJHTBt1mqXcw</value>
-      <webElementGuid>6bb23fa7-21ff-44aa-b83a-f6bcf3598b81</webElementGuid>
+      <webElementGuid>b16649f4-7068-4c65-a352-7a8cc748a149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>6c4cedb1-0352-48c4-90cc-a8441710ce08</webElementGuid>
+      <webElementGuid>c6e0fa03-4573-49b8-b98a-0f4dc53dbc90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>95a9a4c2-4f2a-47c8-a7db-34cdafa1320b</webElementGuid>
+      <webElementGuid>be719f5b-cd6d-4993-9b06-501bb22e73ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Assign Roles</value>
-      <webElementGuid>ffbbcf59-07aa-4393-9de0-4d9249d5a84e</webElementGuid>
+      <webElementGuid>4a7b6f00-6d43-4b3c-9f5e-cf5b51ba98bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_259&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>799d1569-a044-4a40-a120-7cca204c6027</webElementGuid>
+      <webElementGuid>8238b52a-170e-42c0-a97c-77baea349a30</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_259']/div[2]/a</value>
-      <webElementGuid>daa97f1f-827b-482d-aa77-bde1561ad907</webElementGuid>
+      <webElementGuid>f125a359-e12a-482b-a996-3c67fbfc800a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Assign Roles')])[7]</value>
-      <webElementGuid>de9bd8aa-1719-400c-90a6-a6276a3fb914</webElementGuid>
+      <webElementGuid>2543361b-c0f9-4792-9497-fe25c4c81ded</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:38:1442243998207:::38::&amp;cs=3-IhN_UuVmDKXb48ESIiw8HrFG240oo47n-CkYKvEk0uD1ins4MlpYIpVGG1q6kHwJ9TJFH9qgiSJHTBt1mqXcw')]</value>
-      <webElementGuid>f6605a92-a282-4de8-801c-f449aed12a4d</webElementGuid>
+      <webElementGuid>c3b67326-aeaa-4496-b9d6-3d6474d0f473</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[4]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>2b160b4e-99ba-4bc1-bf43-fad43f23a45d</webElementGuid>
+      <webElementGuid>f3723a8b-375c-4e99-8600-55321c598459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:38:1442243998207:::38::&amp;cs=3-IhN_UuVmDKXb48ESIiw8HrFG240oo47n-CkYKvEk0uD1ins4MlpYIpVGG1q6kHwJ9TJFH9qgiSJHTBt1mqXcw' and (text() = 'Assign Roles' or . = 'Assign Roles')]</value>
-      <webElementGuid>c73fe099-833c-443c-b62c-7cba60921559</webElementGuid>
+      <webElementGuid>bdfa4763-f15c-4f62-a3cb-f6cd180968e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

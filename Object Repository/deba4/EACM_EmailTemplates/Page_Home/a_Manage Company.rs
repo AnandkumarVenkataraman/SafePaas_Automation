@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_7']/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Company')]</value>
       </entry>
       <entry>
          <key>CSS</key>

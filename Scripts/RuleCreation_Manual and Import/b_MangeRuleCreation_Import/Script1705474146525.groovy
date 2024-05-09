@@ -444,7 +444,7 @@ WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upl
 WebUI.verifyElementText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_Apr11_V1')
+WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_Apr13_V1')
 
 WebUI.verifyElementPresent(findTestObject('deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), 0, 
     FailureHandling.OPTIONAL)

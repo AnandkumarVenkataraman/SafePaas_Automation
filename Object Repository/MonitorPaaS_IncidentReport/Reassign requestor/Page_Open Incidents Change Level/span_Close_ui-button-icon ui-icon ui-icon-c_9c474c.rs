@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close_ui-button-icon ui-icon ui-icon-c_9c474c</name>
+   <tag></tag>
+   <elementGuidId>ca080794-9faa-4a5e-83cc-404ddce211c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='t_PageBody']/div[8]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog--apex t-Dialog-page--standard ui-draggable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle&quot;]/button[@class=&quot;ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close&quot;]/span[@class=&quot;ui-button-icon ui-icon ui-icon-closethick&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon.ui-icon.ui-icon-closethick</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f1d87f2-9425-4eaf-9685-786db9917b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon ui-icon ui-icon-closethick</value>
+      <webElementGuid>51a8b6b7-cf94-4bf4-8705-b06b4d2cd889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog--apex t-Dialog-page--standard ui-draggable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle&quot;]/button[@class=&quot;ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close&quot;]/span[@class=&quot;ui-button-icon ui-icon ui-icon-closethick&quot;]</value>
+      <webElementGuid>58e19daa-4ec5-4b1b-ab26-2936a580f149</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='t_PageBody']/div[8]/div/button/span</value>
+      <webElementGuid>2de39465-9610-463c-99f8-f8cc4929fc99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/button/span</value>
+      <webElementGuid>3fa91c26-83e4-4d06-8fde-3b75c2d61c33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

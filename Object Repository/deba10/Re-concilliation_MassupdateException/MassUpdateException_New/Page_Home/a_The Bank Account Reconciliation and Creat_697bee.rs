@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Bank Account Reconciliation and Creat_697bee</name>
+   <tag></tag>
+   <elementGuidId>ed0c4392-e7c1-451d-9932-27543332c205</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14875996-c291-440d-81ac-f4bd17d4a1b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:3877785239171:::3:P3_NID:77420</value>
+      <webElementGuid>3b106d7b-df87-4cd5-9f40-8db66af26d45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner</value>
+      <webElementGuid>a942d12f-05e7-48a5-9308-9c4da0b4c0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>82b17461-809e-4407-91cc-b408c3fc2462</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>ab4e40fe-74db-4128-84a5-c469858e3a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner')]</value>
+      <webElementGuid>97a89c01-7b52-4bc6-b238-5038108027fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:3877785239171:::3:P3_NID:77420')]</value>
+      <webElementGuid>2c6ed62b-ed41-4811-87af-3a2495e915ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>d2bfaeec-f25d-4345-9cfd-ac60eee96a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:3877785239171:::3:P3_NID:77420' and (text() = 'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner' or . = 'The Bank Account Reconciliation and Create Payments has been sent for your approval - Owner')]</value>
+      <webElementGuid>3d6ca832-afe6-4243-93ba-3f12ed46d5f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>37884ffb-56d7-4cfc-a28d-5af4aef6f58f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/8_ManageViolation_MassUpdateException_UsersWithConflict</testCaseId>
+      <testCaseId>Test Cases/EAM/6_MassUpdateException_UsersWithConflict</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

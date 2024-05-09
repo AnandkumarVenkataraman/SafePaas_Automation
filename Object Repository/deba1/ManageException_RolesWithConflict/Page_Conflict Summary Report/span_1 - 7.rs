@@ -6,15 +6,15 @@
    <elementGuidId>1c5f51f1-a389-4be4-8197-4b2f32c983d8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.t-Report-paginationText</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='report_search']/div/table[2]/tbody/tr/td/table/tbody/tr/td[3]/span</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.t-Report-paginationText</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

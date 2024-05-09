@@ -6,12 +6,12 @@
    <elementGuidId>1c17660a-6473-40af-b9f6-dd0c5ab2bb02</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[2]/ul/li[9]/div[2]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_247']/div[2]/a</value>
+         <key>CSS</key>
+         <value>a.a-TreeView-label.is-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b1176d57-5027-4974-be1c-56f67d950cce</webElementGuid>
+      <webElementGuid>19c0a3e1-d872-4fff-8f0b-d2dfd136c5db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3082a09c-23fb-494c-81da-e03c580b8006</webElementGuid>
+      <webElementGuid>c6ba5469-abd8-4517-b608-f9e59e112593</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>9feb4cee-0d60-4b1b-86c3-8794907bef83</webElementGuid>
+      <webElementGuid>17ac2a77-930a-447f-802f-0ecf9aefe695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>6785dd0d-b3fe-45ec-842c-5183c2863be6</webElementGuid>
+      <webElementGuid>cddd7a18-a6ba-4a67-8a79-fcad13b6174b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1002:35:1080477465562:::35::</value>
-      <webElementGuid>20622416-9f85-41e0-a230-225a0afc5fc7</webElementGuid>
+      <webElementGuid>0c334748-0a4f-4386-9f03-589ddbff7307</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>50a4a3b4-091a-4d6a-ab61-e9067a9880e2</webElementGuid>
+      <webElementGuid>9ea33453-8c72-4352-bcc1-1bc8251d8602</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a068e0e2-6bbe-4c38-84f6-8f49005341c3</webElementGuid>
+      <webElementGuid>3c3f03f9-5f7a-47bf-99b1-deb4f9f5b80a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Email Communication</value>
-      <webElementGuid>97d3dc8b-3b49-45c7-ace5-1da570405343</webElementGuid>
+      <webElementGuid>7b916e41-a165-4810-a256-e18f3940cab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_247&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>afed8ea2-cfb9-4c55-8221-8869ac3a055c</webElementGuid>
+      <webElementGuid>d6f9b037-09c4-497c-9e17-c959a5de66d5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_247']/div[2]/a</value>
-      <webElementGuid>b66b2860-5c2b-4f0d-b02f-49a04ba10277</webElementGuid>
+      <webElementGuid>07c62e4a-828a-42a5-9a58-9255e4a9ae19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Email Communication')]</value>
-      <webElementGuid>f407bc2a-9360-4e81-9613-92ff77d558f2</webElementGuid>
+      <webElementGuid>81ef0985-6aeb-447a-b98a-808bbc98bf88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1002:35:1080477465562:::35::')]</value>
-      <webElementGuid>997a738e-42b2-477e-8005-2a8a5f10b432</webElementGuid>
+      <webElementGuid>a9952078-dcd7-4f0e-9876-211ddac5d500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/ul/li[9]/div[2]/a</value>
-      <webElementGuid>0bf03bb5-d7d5-41a6-90d5-90876f3c5b09</webElementGuid>
+      <webElementGuid>1c4438dc-09b9-4d0c-be4a-e91ee1806f57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1002:35:1080477465562:::35::' and (text() = 'Manage Email Communication' or . = 'Manage Email Communication')]</value>
-      <webElementGuid>c5c82412-e451-4d7a-ab3a-17fe3d4f58d6</webElementGuid>
+      <webElementGuid>1721af99-b03c-4f13-8c8e-7fb77c6d1f24</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

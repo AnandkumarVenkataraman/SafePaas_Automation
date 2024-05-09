@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773</name>
+   <tag></tag>
+   <elementGuidId>b843e9c8-42fd-4fcb-97a1-488011f3a2f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P85_RESULTSET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;P85_RESULTSET&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8652c043-7051-45d0-98e8-9f81a7d81aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P85_RESULTSET</value>
+      <webElementGuid>4044231b-cd55-4570-b073-de078fff01a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P85_RESULTSET</value>
+      <webElementGuid>801475ce-acfb-4e07-b51b-4b3f213ac85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>e2c02401-23fb-4925-9631-cf9b77f54a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>33f97606-11cb-4a01-affd-a4ce520d4b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>905a0f42-dc88-4a31-841a-4eaa4bd4f3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P85_RESULTSET');</value>
+      <webElementGuid>8fd51fa5-8e16-4405-9d27-ebe6938cecd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+KTLN_ARAPRLMT_APR19_V1_20240419023818
+</value>
+      <webElementGuid>e89d3b2a-ca9e-4e0b-ab9b-295ea7ab0a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P85_RESULTSET&quot;)</value>
+      <webElementGuid>3d7036a5-146e-4e18-8933-430a415d1ac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P85_RESULTSET']</value>
+      <webElementGuid>3a290cd5-1e5e-4aad-b429-dbf3220abe25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R398460865647407202']/div[2]/div[2]/div/div/div/select</value>
+      <webElementGuid>e5cf8063-b9f6-4fe3-a0ff-146cc2242eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>6b52753c-c4b6-414c-843c-b1d99478fc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P85_RESULTSET' and @name = 'P85_RESULTSET' and (text() = 'Select any One
+KTLN_ARAPRLMT_APR19_V1_20240419023818
+' or . = 'Select any One
+KTLN_ARAPRLMT_APR19_V1_20240419023818
+')]</value>
+      <webElementGuid>d76b0b44-81e3-46c6-bcac-54fe5f4a479c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Select any one ---- Local File --_fe0110</name>
+   <tag></tag>
+   <elementGuidId>07bfa73e-30e8-482d-b3f6-fd01dc50f705</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_DS_ID</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_DS_ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bebea727-51f0-4a3c-b6b2-8e4c918187b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_DS_ID</value>
+      <webElementGuid>7224d068-b2dc-4947-bc34-faf13e864c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P30_DS_ID</value>
+      <webElementGuid>23f3769b-c0db-4f4e-b136-4daba7b17850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>174c806e-125f-4e51-8743-1d09d02ab238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9ca7f0c0-59c5-4693-8c2b-5e7bc3e578a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>52a8991b-3734-4dbc-8ce8-a5b3ac9a115d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select any one --
+-- Local File --
+KTLNEBS_MonitorPaaS_Vision122_DS
+EBiz_JDBC_DS
+</value>
+      <webElementGuid>4f89dd01-afb4-4adb-95c0-80a4514a79dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_DS_ID&quot;)</value>
+      <webElementGuid>ddc3a85e-c429-4f3a-aafe-779bbf8cf073</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_DS_ID']</value>
+      <webElementGuid>bc5e8d3e-88ca-4053-af3e-910cb4a3f5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_DS_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>9936d679-4c8c-4f3a-848a-5db91a8ff6ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>720a73dd-455a-4b75-8541-e2587b5110ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P30_DS_ID' and @name = 'P30_DS_ID' and (text() = '-- Select any one --
+-- Local File --
+KTLNEBS_MonitorPaaS_Vision122_DS
+EBiz_JDBC_DS
+' or . = '-- Select any one --
+-- Local File --
+KTLNEBS_MonitorPaaS_Vision122_DS
+EBiz_JDBC_DS
+')]</value>
+      <webElementGuid>05dfbb44-cfec-4c50-8f90-8c87cc744de5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

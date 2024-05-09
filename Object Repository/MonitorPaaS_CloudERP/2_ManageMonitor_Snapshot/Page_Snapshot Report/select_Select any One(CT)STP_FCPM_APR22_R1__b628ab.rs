@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any One(CT)STP_FCPM_APR22_R1__b628ab</name>
+   <tag></tag>
+   <elementGuidId>bf261aca-0168-47ca-a53d-a6c2f3135f40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_SNAPSHOT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P13_SNAPSHOT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>25135cd5-89c9-4fe4-bbc1-dbfb0080bbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P13_SNAPSHOT</value>
+      <webElementGuid>a37c8152-78e9-42a2-a126-31584ffb8cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P13_SNAPSHOT</value>
+      <webElementGuid>0a83e07c-cbf5-473d-a120-95d695d39c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>fd394325-457f-4112-91f8-412053de3511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>dd34569d-ebfe-4b69-be91-128e11b7fe9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>08315d1f-1152-4aa6-aadf-7701ad6042c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P13_SNAPSHOT');</value>
+      <webElementGuid>4e87e38b-d609-41d5-9826-5d511f87bfb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+(CT)STP_FCPM_APR22_R1_361711_20240422002406
+</value>
+      <webElementGuid>a04d60cb-c4c1-4c58-946a-22abfb17d9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_SNAPSHOT&quot;)</value>
+      <webElementGuid>db537187-ec98-404d-b659-19c1994d2a64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P13_SNAPSHOT']</value>
+      <webElementGuid>1add80c9-edf7-42ec-be6f-680b41e3733b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R21041807254719889']/div[2]/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>87874e4f-a875-4e88-a8b6-d863a1cde64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>146d98b4-148a-4f3c-9df3-24cde8aeae54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P13_SNAPSHOT' and @name = 'P13_SNAPSHOT' and (text() = 'Select any One
+(CT)STP_FCPM_APR22_R1_361711_20240422002406
+' or . = 'Select any One
+(CT)STP_FCPM_APR22_R1_361711_20240422002406
+')]</value>
+      <webElementGuid>ac7fdd2d-ff71-46f2-8a82-293a0788c2a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

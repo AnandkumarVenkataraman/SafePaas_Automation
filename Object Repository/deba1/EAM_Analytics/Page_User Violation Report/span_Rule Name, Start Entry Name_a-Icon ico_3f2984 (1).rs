@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rule Name, Start Entry Name_a-Icon ico_3f2984 (1)</name>
+   <tag></tag>
+   <elementGuidId>0ab60449-6935-4270-b6c3-27ec3c02436c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uvrReport_data_panel']/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-irr-no-results</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d75cc77-8b1c-4637-b708-1632c678bcf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-irr-no-results</value>
+      <webElementGuid>97f868a7-4669-4d52-8381-2c81566605d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7a37330d-8447-4d06-a5f0-869cc3da8d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uvrReport_data_panel&quot;)/div[@class=&quot;a-IRR-noDataMsg&quot;]/div[@class=&quot;a-IRR-noDataMsg-icon&quot;]/span[@class=&quot;a-Icon icon-irr-no-results&quot;]</value>
+      <webElementGuid>d1508c21-b4ff-48ad-b938-1b6be676fad9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uvrReport_data_panel']/div/div/span</value>
+      <webElementGuid>b7fe7367-c7e9-4387-b066-b422c18b7447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/span</value>
+      <webElementGuid>3aa2c284-929f-4d5e-898b-c7833c84293b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

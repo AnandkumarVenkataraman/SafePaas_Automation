@@ -298,13 +298,13 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage R
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_Apr112024_V2')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_Apr132024_V1')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
-    'Maintain Customer Master vs. Maintain Supplier Master_Apr112024_V2')
+    'Maintain Customer Master vs. Maintain Supplier Master_Apr132024_V1')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/select_Select any OneAllMutually ExclusiveI_b1f6bb (1) (1) (1)'), 
     'Null', true)
@@ -320,6 +320,10 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/h2_Action Processed (1) (1)'), 
     0, FailureHandling.OPTIONAL)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/span_Rule Attributes (1) (1)'))
 
@@ -529,6 +533,10 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivit
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/span_In Approval Progress (1)'), 
     0, FailureHandling.OPTIONAL)
 
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/button_t-Button t-Button--noUI t-Button--ic_cbe08f (1)'))
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Rule Report/button_ktln_eam_user1 (1) - 158'))
@@ -574,7 +582,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'Apr11_V2')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'Apr13')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Apply (1)'))
 
@@ -649,7 +657,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'Apr11_V2')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'Apr13')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Apply'))
 

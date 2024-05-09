@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Banks Maintenance and Bank Account Re_d303f6</name>
+   <tag></tag>
+   <elementGuidId>6617b599-b229-4450-b548-5820d39c018a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c82df96e-4007-4849-949c-0c3a8e62145f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:10077234487903:::3:P3_NID:77417</value>
+      <webElementGuid>411bdd00-2211-4f91-a08f-3ba3d52503ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner</value>
+      <webElementGuid>94a2b44e-e489-430d-9d2f-f8b168be1a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>eb74b181-1124-4860-b6fb-2a27dfea6114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>ca5920a7-b5b2-4b8b-97ec-0d6c8792b621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner')]</value>
+      <webElementGuid>2a84bb1e-2775-4229-adbc-a8e56fd55731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:10077234487903:::3:P3_NID:77417')]</value>
+      <webElementGuid>0c6b1990-7763-4ab5-b9fb-89039a676d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>701e6d3d-e717-4fad-bf79-507c6c906f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:3:10077234487903:::3:P3_NID:77417' and (text() = 'The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner' or . = 'The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner')]</value>
+      <webElementGuid>f113931b-b054-45c5-8a13-ebb2ad57fe6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

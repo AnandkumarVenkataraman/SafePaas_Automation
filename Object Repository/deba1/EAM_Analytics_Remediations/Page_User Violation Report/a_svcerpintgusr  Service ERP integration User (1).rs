@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_svcerpintgusr  Service ERP integration User (1)</name>
+   <tag></tag>
+   <elementGuidId>f5a5a180-aba8-4e0f-b473-b25a83e50cd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uvrReport_col_values_drop']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-IRR-col-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2668db7e-8c2d-4f24-b51f-ab84e85233ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>07b7b1a6-5f1c-4322-9af3-05a1138e8e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-col-value</value>
+      <webElementGuid>18d73dd5-e9f5-4c36-9477-432a4e572800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-return-value</name>
+      <type>Main</type>
+      <value>svcerpintgusr : Service ERP integration User</value>
+      <webElementGuid>bf540f68-122b-42ed-b9d4-0e90df720785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>svcerpintgusr : Service ERP integration User</value>
+      <webElementGuid>578e36e2-69a9-451a-81bf-dfbdf8ab9a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uvrReport_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
+      <webElementGuid>78515245-1098-42ab-8327-63bf126ae8e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uvrReport_col_values_drop']/a</value>
+      <webElementGuid>b2bfe1fa-7a02-4edb-a843-721f5b085b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'svcerpintgusr : Service ERP integration User')]</value>
+      <webElementGuid>9166f923-b693-4c2c-bbd4-a27807cd6c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[111]</value>
+      <webElementGuid>85c725b3-7c5e-4e84-8561-443655226127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//html/div/a</value>
+      <webElementGuid>dcfb45ce-3e75-4b58-b45d-30e1fa2ec4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'svcerpintgusr : Service ERP integration User' or . = 'svcerpintgusr : Service ERP integration User')]</value>
+      <webElementGuid>2c2de8e3-f5e8-46ac-b600-68780e76dbc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

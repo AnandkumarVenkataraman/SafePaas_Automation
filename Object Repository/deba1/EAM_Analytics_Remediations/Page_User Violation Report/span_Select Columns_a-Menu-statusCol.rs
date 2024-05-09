@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Columns_a-Menu-statusCol</name>
+   <tag></tag>
+   <elementGuidId>3bd87392-8277-461c-9e95-b05ab8b47908</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='uvrReport_actions_menu_2']/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uvrReport_actions_menu_2 > div.a-Menu-inner > span.a-Menu-labelContainer > span.a-Menu-statusCol</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>342a7193-5f3a-4878-90be-605da0df2c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Menu-statusCol</value>
+      <webElementGuid>ccd459ea-b703-4ca5-955c-f2e67ec7d01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uvrReport_actions_menu_2&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]/span[@class=&quot;a-Menu-statusCol&quot;]</value>
+      <webElementGuid>0c55f7ef-53f3-4114-ab2c-18cec78268f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='uvrReport_actions_menu_2']/div/span/span</value>
+      <webElementGuid>326e62b6-80fb-483e-b368-b9b9612c7fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/span/span</value>
+      <webElementGuid>cd190148-b2f2-4829-af2c-7b65f1da7dbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

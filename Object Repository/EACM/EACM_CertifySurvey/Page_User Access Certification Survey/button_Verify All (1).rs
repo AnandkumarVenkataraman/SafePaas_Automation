@@ -11,10 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B328274787167222742']</value>
+         <value>//*[@id=&quot;B328274787167222742&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B328274787167222742' and (text() = 'Verify All' or . = 'Verify All')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>98398fb0-8d9a-496a-8885-c8648e40194e</webElementGuid>
+      <webElementGuid>d01e2767-8d22-4d46-b5ed-0518e2dd2ffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>void(0);</value>
-      <webElementGuid>02328309-708d-4da0-8121-845277b6271a</webElementGuid>
+      <webElementGuid>a7827192-d465-45f5-8149-ee3de518d1e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button reportBtn</value>
-      <webElementGuid>39ab6907-6c13-4c10-ab78-789a2b7646ec</webElementGuid>
+      <webElementGuid>cf8d2243-c01b-4f88-974a-fb768c249827</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fd9b53d3-37d8-4003-bb0c-d166e6506532</webElementGuid>
+      <webElementGuid>6f949eb9-7475-4e71-bf0d-568c1cd76617</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B328274787167222742</value>
-      <webElementGuid>3bfdb6d7-6561-475a-b056-8050e0dea838</webElementGuid>
+      <webElementGuid>f6977691-776d-4cc3-aef6-377d4e414ff7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Verify All</value>
-      <webElementGuid>b3b1eb20-d9f1-4650-a757-eaa892e75e0e</webElementGuid>
+      <webElementGuid>c800da44-6f64-4293-a313-d27d465b04d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B328274787167222742&quot;)</value>
-      <webElementGuid>2404a7cc-9191-470f-980a-af83903f4b16</webElementGuid>
+      <webElementGuid>a0ed3e17-0bc2-4dab-a187-c396fb4354cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B328274787167222742']</value>
-      <webElementGuid>f681bce2-6c3c-47af-9908-6527a502891b</webElementGuid>
+      <webElementGuid>a47b2771-6e2f-464c-9d83-f8cad10de6e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mainContainer']/div/div[2]/button</value>
-      <webElementGuid>c7c8f15e-cbd5-4a9f-9571-0ed40a5f6416</webElementGuid>
+      <webElementGuid>19bc13ba-3464-46c6-9b6c-c1c77d2cb766</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>fc685702-5700-4762-95c3-9e9297faa35c</webElementGuid>
+      <webElementGuid>f50fdeba-12ed-4299-bd5c-6012fd3d2f2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B328274787167222742' and (text() = 'Verify All' or . = 'Verify All')]</value>
-      <webElementGuid>4b9aa3f5-9685-4f5c-9ddd-3b94cb571223</webElementGuid>
+      <webElementGuid>eea58b4e-2426-4e06-a50f-c846284d01bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

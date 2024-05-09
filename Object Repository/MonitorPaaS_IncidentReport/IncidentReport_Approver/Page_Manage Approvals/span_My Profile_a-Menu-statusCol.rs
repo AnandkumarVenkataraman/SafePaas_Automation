@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Profile_a-Menu-statusCol</name>
+   <tag></tag>
+   <elementGuidId>0fbe6aac-d8f7-432e-866c-d9a7212e1c8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu_L19866709289512390_1']/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_L19866709289512390_1 > div.a-Menu-inner > span.a-Menu-labelContainer > span.a-Menu-statusCol</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13250e81-bb4c-453d-a3e1-b7f5f71968aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Menu-statusCol</value>
+      <webElementGuid>eacc2e10-8cab-427e-9842-48e5ae103d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_L19866709289512390_1&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]/span[@class=&quot;a-Menu-statusCol&quot;]</value>
+      <webElementGuid>94183bec-602f-446f-b305-255531a6303c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu_L19866709289512390_1']/div/span/span</value>
+      <webElementGuid>2dbb9ea4-d11d-44b2-8c4a-9bf9137bf774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span/span</value>
+      <webElementGuid>50db19a1-0eaa-4d64-b431-c0ef8386b34c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

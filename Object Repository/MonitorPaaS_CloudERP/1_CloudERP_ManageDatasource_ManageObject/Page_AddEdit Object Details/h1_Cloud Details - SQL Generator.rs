@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Cloud Details - SQL Generator</name>
+   <tag></tag>
+   <elementGuidId>e4012856-1487-4f45-bac5-6745101a89c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cloudsqlSecRegion > div.t-ContentBlock-header > h1.t-ContentBlock-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cloudsqlSecRegion']/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>19edbcad-09b3-4515-b64d-f019c6dda2c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-ContentBlock-title</value>
+      <webElementGuid>3ab7f8b9-0e4c-4845-b704-f5e82e683d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cloud Details - SQL Generator</value>
+      <webElementGuid>79535316-2ae8-4b39-bf9e-bcea1f42de45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cloudsqlSecRegion&quot;)/div[@class=&quot;t-ContentBlock-header&quot;]/h1[@class=&quot;t-ContentBlock-title&quot;]</value>
+      <webElementGuid>48ae3aab-cb2a-4453-8dfc-9dfec3a26ce8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cloudsqlSecRegion']/div/h1</value>
+      <webElementGuid>3898ba2a-bae5-4759-b0d7-e33b93b921a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/h1</value>
+      <webElementGuid>a76d49fc-2cc2-4acc-beee-94fa205df007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Cloud Details - SQL Generator' or . = 'Cloud Details - SQL Generator')]</value>
+      <webElementGuid>09d6e02b-e22b-4a69-b60d-4a50a7586134</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

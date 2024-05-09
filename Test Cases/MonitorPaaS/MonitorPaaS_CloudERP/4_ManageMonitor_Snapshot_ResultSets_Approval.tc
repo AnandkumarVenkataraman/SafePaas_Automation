@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4_ManageMonitor_Snapshot_ResultSets_Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7802abd4-7916-4dac-b8aa-39c30498a19e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f4dfe2d-f50e-432e-b2b0-30aea13f1da4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>1f4dfe2d-f50e-432e-b2b0-30aea13f1da4</id>
+      <masked>false</masked>
+      <name>Snapshot</name>
+   </variable>
+</TestCaseEntity>

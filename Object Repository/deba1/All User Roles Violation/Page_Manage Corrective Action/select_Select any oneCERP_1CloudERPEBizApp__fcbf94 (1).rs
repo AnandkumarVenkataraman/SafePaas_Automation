@@ -6,15 +6,15 @@
    <elementGuidId>72aff5d4-c170-478c-b41d-fee27350d812</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#P0_ENVIRONMENT</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='P0_ENVIRONMENT']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P0_ENVIRONMENT</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

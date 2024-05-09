@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AR Approval Limits_1</name>
+   <tag></tag>
+   <elementGuidId>edf98c5f-bc46-415b-9341-5618449528f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='122864437533293003_orig']/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>228e2202-f4e2-4ee9-b10a-6d89cb97c62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1120:10:13470202258925:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:361691,7289,7289,361691&amp;cs=3j3iDNOhOwbiq9WrnVuNVR-spZfp_7WYKoF-Xe5_KmNtSHxo2fP3MrFIvkHjQ8_kQiYRfSCmJXDslsccLWAbUlQ</value>
+      <webElementGuid>7680b006-c043-4aaf-a4b0-d2e76f473a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AR Approval Limits</value>
+      <webElementGuid>ec7b0548-08e1-4a06-a5ab-7d5f1233919b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>85941680-3f1c-40fa-9fb6-6faec6e5f5f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='122864437533293003_orig']/tbody/tr[2]/td/a</value>
+      <webElementGuid>a5852858-a64e-4843-a4f9-528c0dcf8264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AR Approval Limits')]</value>
+      <webElementGuid>1f6b898d-e64e-43f3-af92-7d499a804fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1120:10:13470202258925:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:361691,7289,7289,361691&amp;cs=3j3iDNOhOwbiq9WrnVuNVR-spZfp_7WYKoF-Xe5_KmNtSHxo2fP3MrFIvkHjQ8_kQiYRfSCmJXDslsccLWAbUlQ')]</value>
+      <webElementGuid>1e3c1884-701d-4170-9476-66ce547f323b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>ff3ca7ce-7fbd-4d26-8261-5db39637865c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1120:10:13470202258925:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:361691,7289,7289,361691&amp;cs=3j3iDNOhOwbiq9WrnVuNVR-spZfp_7WYKoF-Xe5_KmNtSHxo2fP3MrFIvkHjQ8_kQiYRfSCmJXDslsccLWAbUlQ' and (text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
+      <webElementGuid>412c6dbf-9a1c-4cc7-a077-2e9867e758ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,15 +6,15 @@
    <elementGuidId>ef720f10-af5c-48f3-9d60-5f02fbb712d3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.a-IRR-col-value</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='search3_col_values_drop']/a</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-IRR-col-value</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

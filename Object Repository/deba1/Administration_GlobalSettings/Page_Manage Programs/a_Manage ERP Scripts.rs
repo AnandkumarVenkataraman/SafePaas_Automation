@@ -6,12 +6,12 @@
    <elementGuidId>3b2bf8cd-3093-45fc-966d-d24cdd1481da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
+         <key>XPATH</key>
+         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[2]/ul/li[6]/div[2]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_244']/div[2]/a</value>
+         <key>CSS</key>
+         <value>a.a-TreeView-label.is-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a205dbad-6540-4bb2-8a62-66e780e0454a</webElementGuid>
+      <webElementGuid>ae6693e9-8aa7-4fbe-b409-6cda4f2969f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0d770cb1-ec1a-4cb9-9bcd-76dad3505167</webElementGuid>
+      <webElementGuid>3e84b423-1341-4f29-b5ab-48f568fab5d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>b2a75e47-0251-4b9c-8dfc-acf76034dd43</webElementGuid>
+      <webElementGuid>87aac240-bdd4-413a-a0fb-bcc94c0038dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>35d3e8f6-c36b-4c50-aff0-a825fc0947f3</webElementGuid>
+      <webElementGuid>d76e39f5-7883-4658-8b72-5772ff85bfb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1002:25:1080477465562:::25::</value>
-      <webElementGuid>e8dd7fa3-7a86-42f8-a73b-bf66b1818e22</webElementGuid>
+      <webElementGuid>b8001498-481a-45c7-a3c1-a448369a1eb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>90d7008b-d883-4420-b4d9-4c645e082108</webElementGuid>
+      <webElementGuid>22fb2103-0103-450b-b985-880efa4c7c68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e3b1f9d9-bca0-4180-a674-edf320ec88f6</webElementGuid>
+      <webElementGuid>45ddf8e6-257c-4df7-8baa-227b802e31a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage ERP Scripts</value>
-      <webElementGuid>968ce795-dacc-4b14-9f9d-bbc635ccad6d</webElementGuid>
+      <webElementGuid>328a06e7-809c-44fa-9670-367e2f1b36f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_244&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>6451e7d9-d71e-4c91-94ac-1d4d9896e020</webElementGuid>
+      <webElementGuid>67cdfaff-c233-4c22-ba4c-7ddd59565cd5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_244']/div[2]/a</value>
-      <webElementGuid>000b638b-a679-4095-b374-1a71bf687744</webElementGuid>
+      <webElementGuid>77b21835-eeed-4b94-8a36-18185b2ac595</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage ERP Scripts')]</value>
-      <webElementGuid>5c207a61-4bba-4e6c-9ceb-39019591d58f</webElementGuid>
+      <webElementGuid>effc3417-e719-40b7-8516-e34f5bc88dd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1002:25:1080477465562:::25::')]</value>
-      <webElementGuid>47e38c39-bd74-4546-97c2-26882506b558</webElementGuid>
+      <webElementGuid>fd78c62e-9d6f-43b0-b74c-19020608ce50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[2]/ul/li[6]/div[2]/a</value>
-      <webElementGuid>a8485e02-f966-44c8-9652-dbc089b4a8b8</webElementGuid>
+      <webElementGuid>eeb7b32f-9501-4e81-a6b2-2e698371693f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1002:25:1080477465562:::25::' and (text() = 'Manage ERP Scripts' or . = 'Manage ERP Scripts')]</value>
-      <webElementGuid>e6284b89-8604-40ad-ab71-607fd5b2dda2</webElementGuid>
+      <webElementGuid>ef85146f-eb9a-44fa-8a11-265fcd218de6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>7d5c25cb-bfbe-4bf7-86ad-0904c4d03675</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>iframe[title=&quot;Role Group Reassignment&quot;]</value>
+         <key>XPATH</key>
+         <value>//iframe</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='apex_dialog_1']/iframe</value>
+         <key>CSS</key>
+         <value>iframe[title=&quot;Role Group Reassignment&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
