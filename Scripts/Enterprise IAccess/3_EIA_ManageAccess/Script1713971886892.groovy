@@ -87,8 +87,6 @@ WebUI.click(findTestObject('Object Repository/EIA/EIA_ManageAccess/Page_Role Sel
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_ManageAccess/Page_Role Provision and Deprovision/button_Submit for Violation Testing'))
 
-WebUI.delay(400)
-
 WebUI.click(findTestObject('Object Repository/EIA/EIA_ManageAccess/Page_Role Provision and Deprovision/button_Submit for Violation Testing'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/ManageMonitor_Chnage level/Page_Manage Monitors/button_ManageAccessRequest_successMessage- UR505'))
@@ -181,8 +179,6 @@ WebUI.click(findTestObject('Object Repository/Enterprise iAccess/NewAccessReques
 WebUI.verifyElementClickable(findTestObject('MonitorPaaS_CloudERP/ManageMonitor_Chnage level/Page_Manage Monitors/button_ViolationReview- UR506'))
 
 WebUI.click(findTestObject('MonitorPaaS_CloudERP/ManageMonitor_Chnage level/Page_Manage Monitors/button_ViolationReview- UR506'))
-
-WebUI.delay(300)
 
 WebUI.closeBrowser()
 

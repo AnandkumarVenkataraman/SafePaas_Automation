@@ -86,7 +86,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba2/DTP_SnapshotExtr
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Job Detail/input_P30_SCHEDULER_JOB_NAME'), 
-    'CloudERP_Extract_May08')
+    'CloudERP_Extract_May10')
 
 WebUI.comment('Provide a unique Scheduler name')
 

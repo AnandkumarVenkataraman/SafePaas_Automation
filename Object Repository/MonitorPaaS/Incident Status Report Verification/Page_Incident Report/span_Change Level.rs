@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Change Level</name>
+   <tag></tag>
+   <elementGuidId>3d5dc24c-511e-4771-9b8c-6d7447290bf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='R176258973591708826_tab']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R176258973591708826_tab > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdf4df37-9dde-4985-8203-b1d92cb6e5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Level</value>
+      <webElementGuid>e051cdaa-e99b-4224-a024-adf72dcf1602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R176258973591708826_tab&quot;)/a[1]/span[1]</value>
+      <webElementGuid>db31f917-4e64-4ad2-84b9-defde8db7a3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='R176258973591708826_tab']/a/span</value>
+      <webElementGuid>006c0021-3100-4c0e-a44c-43e2f0aa8547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>5c4081a7-930b-4015-9cef-4643825b33eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Change Level' or . = 'Change Level')]</value>
+      <webElementGuid>c9b94f2e-a8a3-49ce-90d2-dceefec5b51a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
