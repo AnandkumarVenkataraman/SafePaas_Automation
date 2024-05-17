@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>dc4cb486-c5aa-44f7-bb74-df88211f0e26</testSuiteGuid>
    <testCaseLink>
-      <guid>e9b9bd49-51fd-4ef0-bfdf-09a2db14b8f1</guid>
+      <guid>ac570965-013f-416f-87fd-7f394198554a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/RuleCreation_Manual and Import/ManageRuleCreation_AddRule</testCaseId>
