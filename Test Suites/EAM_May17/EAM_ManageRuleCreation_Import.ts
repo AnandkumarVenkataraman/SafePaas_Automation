@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>2_EAM_ManageRuleCreation_Import</name>
+   <name>EAM_ManageRuleCreation_Import</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>724dff12-add8-4219-bf1b-13b12bde0a9b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RuleCreation_Manual and Import/b_MangeRuleCreation_Import</testCaseId>
+      <testCaseId>Test Cases/RuleCreation_Manual and Import/MangeRuleCreation_Import</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

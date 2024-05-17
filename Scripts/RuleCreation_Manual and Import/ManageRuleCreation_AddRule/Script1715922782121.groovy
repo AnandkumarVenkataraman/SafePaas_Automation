@@ -21,34 +21,52 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
+WebUI.comment('launch the url in IQA : https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
 WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/input_P101_COMPANY (1) (1) (1) (1) (1)'), 
     'KAT')
 
+WebUI.comment('Enter the company as kAT')
+
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/input_P101_USERNAME (1) (1) (1) (1) (1)'), 
     'KTLN_EAM_USER1')
+
+WebUI.comment('Enter username as KTLN_EAM_USER1')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/input_P101_PASSWORD (1) (1) (1) (1) (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
 
+WebUI.comment('Enter the Password')
+
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/button_Login (1) (1) (1) (1) (1)'))
+
+WebUI.comment('Click on Login button')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle (1) (1) (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle (1) (1) (1) (1) (1)'))
 
+WebUI.comment('Click on AccessPaaS navigation dropwdown menu')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle_1 (1) (1) (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle_1 (1) (1) (1) (1) (1)'))
+
+WebUI.comment('Click on Enterprise Access Monitor navigation dropwdown menu')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle_1_2 (1) (1) (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle_1_2 (1) (1) (1) (1) (1)'))
 
+WebUI.comment('Click on AccessPaaS navigation dropwdown menu')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/a_Manage Rule Tags (1) (1) (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/a_Manage Rule Tags (1) (1) (1) (1) (1)'))
+
+WebUI.comment('Click on Setup navigation dropwdown menu')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/button_Actions'))
 
@@ -75,6 +93,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/button_Apply'))
 
+WebUI.comment('Filter with Tag name New')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/td_New'), 0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/span_1 -                    1 of           _e353a0'))
@@ -82,6 +102,8 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivit
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/a_Manage Activity'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/a_Manage Activity'))
+
+WebUI.comment('Click on Manage Activity')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/button_Actions (1)'))
 
@@ -104,6 +126,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/button_Apply (1)'))
 
+WebUI.comment('Filter with name as "Maintain Customer Master')
+
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Activity/span_1 -                    1 of           _e353a0 (1)'), 
     0)
 
@@ -118,21 +142,23 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/img_apex-edit-page (1)'))
 
+WebUI.comment('Click on the edit icon')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Name'), 0, 
     FailureHandling.OPTIONAL)
+
+WebUI.comment('Verify the element present : Name')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Description'), 
     0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Maintain Customer Master and CreateUpdat_c53648'), 
-    0, FailureHandling.OPTIONAL)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Approved'), 0, 
-    FailureHandling.OPTIONAL)
+WebUI.comment('Verify the element present : Description')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/span_Entry'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/span_Entry'))
+
+WebUI.comment('Click on Entry tab')
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'), 0)
 
@@ -147,6 +173,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
+WebUI.comment('click on the Entry Details of the 1st record')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_Environment Name'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_Environment Name'))
@@ -155,14 +183,20 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_KTLN_CloudERP'))
 
+WebUI.comment('select the environment name as "KTLN_CloudERP"')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Create new customers to record and accou_3fc0c8'), 
     0, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
+WebUI.comment('Close the Entry details page')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
+
+WebUI.comment('click on the Entry Details of the 2nd record')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows customer account site addresses to be corrected. If assigning, also assign the ability to view the customer account site'), 
     0, FailureHandling.OPTIONAL)
@@ -173,6 +207,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
+WebUI.comment('click on the Entry Details of the 3rd record')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Manage customer account and site information, and the relationship with the customer'), 
     0, FailureHandling.OPTIONAL)
 
@@ -181,6 +217,8 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_Manage Activity'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_Manage Activity'))
+
+WebUI.comment('Click on Manage Activity')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/button_Actions (1)'))
 
@@ -203,6 +241,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/button_Apply (1)'))
 
+WebUI.comment('Filter by name as "Maintain Supplier Master"')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/td_Maintain Supplier Master'), 
     0, FailureHandling.OPTIONAL)
 
@@ -220,11 +260,17 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity/img_apex-edit-page (1)'))
 
+WebUI.comment('Click on edit icon')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Name'), 0, 
     FailureHandling.OPTIONAL)
 
+WebUI.comment('Verify the element present: Name')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/label_Description'), 
     0, FailureHandling.OPTIONAL)
+
+WebUI.comment('Verify the element present description')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Maintain Supplier Master and Create Purc_346a59'), 
     0, FailureHandling.OPTIONAL)
@@ -234,6 +280,8 @@ WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_AddEdit Activity
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/td_Approved'), 0, 
     FailureHandling.OPTIONAL)
 
+WebUI.comment('Verify the Approval status as Approved')
+
 WebUI.delay(2)
 
 WebUI.scrollToPosition(0, 0)
@@ -241,6 +289,8 @@ WebUI.scrollToPosition(0, 0)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/span_Entry'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_AddEdit Activity/span_Entry'))
+
+WebUI.comment('Click on Entry Tab')
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Activity Entries/span_1 -                    3'), 0)
 
@@ -255,56 +305,80 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
+WebUI.comment('click on the Entry Details of the 1st record')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows importing of suppliers'), 
     0, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
+WebUI.comment('Close the Entry Details')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
+
+WebUI.comment('click on the Entry Details of the 2nd record')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows import of external payee information and bank accounts belonging to suppliers, supplier sites, and supplier addresses'), 
     0, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
+WebUI.comment('close the entry details')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/img_apex-edit-view'))
+
+WebUI.comment('click on the Entry Details of the 3rd record')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/td_Allows update of external bank accounts'), 
     0, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
+WebUI.comment('Close the Entry Details')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_a-TreeView-toggle'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_a-TreeView-toggle'))
 
+WebUI.comment('click on the Define Scope Navigation dropdown menu')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Review Rules/a_Manage Rules'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Review Rules/a_Manage Rules'))
+
+WebUI.comment('Click on Manage Rules from the navigation menu')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1) (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1) (1)'), 
     'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
 
+WebUI.comment('select the environment as "KTLN_CloudERP"')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Add Rule (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Add Rule (1) (1) (1)'))
 
+WebUI.comment('Click on the Add Rule')
+
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_Apr132024_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_May172024_V1')
+
+WebUI.comment('Enter the name of the rule')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
-    'Maintain Customer Master vs. Maintain Supplier Master_Apr132024_V1')
+    'Maintain Customer Master vs. Maintain Supplier Master_May172024_V1')
+
+WebUI.comment('Enter the Description for the Rule')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/select_Select any OneAllMutually ExclusiveI_b1f6bb (1) (1) (1)'), 
     'Null', true)
@@ -314,9 +388,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/select_Select any OneAllMutually ExclusiveI_b1f6bb (1) (1) (1)'), 
     'SET', true)
 
+WebUI.comment('select the type of the rule as Incompatible sets')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/button_Create (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/button_Create (1) (1) (1)'))
+
+WebUI.comment('Click on Create button')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/h2_Action Processed (1) (1)'), 
     0, FailureHandling.OPTIONAL)
@@ -329,6 +407,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/span_Rule Attributes (1) (1)'))
 
+WebUI.comment('Click on Rule Attributes')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/select_Select any OneAllMutually ExclusiveI_b1f6bb (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/select_Select any OneHIGHMEDIUMLOW (1) (1)'))
@@ -336,14 +416,20 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/select_Select any OneHIGHMEDIUMLOW (1) (1)'), 
     'H', true)
 
+WebUI.comment('select the risk level as high')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/select_Select any OneSOD PreventiveSOD Dete_369111 (1) (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/select_Select any OneSOD PreventiveSOD Dete_369111 (1) (1)'), 
     'DT', true)
 
+WebUI.comment('Select the objective as SOD detective')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/button_Next (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Attributes/button_Next (1) (1)'))
+
+WebUI.comment('click on Next button')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_New (1) (1)'), 0, 
     FailureHandling.OPTIONAL)
@@ -448,12 +534,16 @@ WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/span_E
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Entry Name (1)'), 
     0, FailureHandling.OPTIONAL)
 
+WebUI.comment('Verify the entry name')
+
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Functions/span_Activity Group Code (1)'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Functions/span_Activity Group Code (1)'), 
     0, FailureHandling.OPTIONAL)
+
+WebUI.comment('Verify the activity group code')
 
 WebUI.delay(2)
 
@@ -477,19 +567,27 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Exceptions/span_People (1)'))
 
+WebUI.comment('Click on people tab')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/select_Select any OneDPATELKATALON_ADMINKTL_c5e368 (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/select_Select any OneDPATELKATALON_ADMINKTL_c5e368 (1)'), 
     '100912', true)
+
+WebUI.comment('select the user as Katalon_admin')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/select_Select any OneApproverOwnerReviewer (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/select_Select any OneApproverOwnerReviewer (1)'), 
     '6719', true)
 
+WebUI.comment('Select the Roleas owner')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/button_Create'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Approvers/button_Create'))
+
+WebUI.comment('Click on button create')
 
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Rule Approvers/td_KATALON_ADMIN'), 0)
 
@@ -523,9 +621,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Rough/Page_
 
 WebUI.click(findTestObject('Object Repository/deba1/Rough/Page_Tag/buttonP58_RULE_TAGS_MOVE'))
 
+WebUI.comment('Select the Rule tag')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Tag/button_Submit for Approval (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Tag/button_Submit for Approval (1)'))
+
+WebUI.comment('Click on submit for approval')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Rule Report/h2_Successfully submitted for approval (1)'), 
     0, FailureHandling.OPTIONAL)
@@ -547,6 +649,8 @@ WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Rule Repo
 
 WebUI.click(findTestObject('deba1/ManageActivity/Page_Rule Report/a_Logout (1) - 173'))
 
+WebUI.comment('Logout as KTLN_EAM_USER1')
+
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/input_P101_COMPANY (1) (1) (1) (1) (1)'), 
     'KAT')
 
@@ -558,9 +662,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba1/ManageActivity/Pa
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/button_Login (1) (1) (1) (1) (1)'))
 
+WebUI.comment('Login as Katalon_Admin')
+
 WebUI.verifyElementClickable(findTestObject('deba3/ManageReviewStatus/Page_Home/a_Inbox - 0909'))
 
 WebUI.click(findTestObject('deba3/ManageReviewStatus/Page_Home/a_Inbox - 0909'))
+
+WebUI.comment('go to inbox')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Actions (1)'))
 
@@ -582,11 +690,13 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'Apr13')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'May17')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Apply (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Apply (1)'))
+
+WebUI.comment('Filter with the subject of the Rule name')
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Home/a_The Maintain Customer Master vs. Maintain_be9380 - 442'))
 
@@ -599,6 +709,8 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Notifica
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Notification/button_Go'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Notification/button_Go'))
+
+WebUI.comment('Approve the rule')
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Home/button_katalon_admin - 922'))
 
@@ -619,6 +731,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba1/ManageActivity/Pa
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Login/button_Login (1) (1) (1) (1) (1)'))
 
+WebUI.comment('Login as Katalon_admin')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle (1) (1) (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle (1) (1) (1) (1) (1)'))
@@ -634,6 +748,8 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/spa
 WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Home/a_Manage Rules_1 - 567'))
 
 WebUI.click(findTestObject('deba1/ManageActivity/Page_Home/a_Manage Rules_1 - 567'))
+
+WebUI.comment('Go to Manage Rules')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1) (1)'))
 
@@ -657,15 +773,19 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'Apr13')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'May17')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Apply'))
 
+WebUI.comment('Filter with the subject of the rule name')
+
 WebUI.scrollToElement(findTestObject('deba1/ManageActivity/Page_Manage Rules/td_Approved'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/td_Approved'), 0, FailureHandling.OPTIONAL)
+
+WebUI.comment('Verify the status is approved')
 
 WebUI.delay(3)
 

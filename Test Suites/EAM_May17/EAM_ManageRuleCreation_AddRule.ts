@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>3_EAM_ManageRuleTag_SOD Test</name>
+   <name>EAM_ManageRuleCreation_AddRule</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>1543f8f1-6b07-423c-8a44-8e3720cc1f9e</testSuiteGuid>
+   <testSuiteGuid>dc4cb486-c5aa-44f7-bb74-df88211f0e26</testSuiteGuid>
    <testCaseLink>
-      <guid>536453b2-1a5d-48a8-954b-85542efe56da</guid>
+      <guid>e9b9bd49-51fd-4ef0-bfdf-09a2db14b8f1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/1_EAM_ManageRuleTag_SODTest</testCaseId>
+      <testCaseId>Test Cases/RuleCreation_Manual and Import/ManageRuleCreation_AddRule</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

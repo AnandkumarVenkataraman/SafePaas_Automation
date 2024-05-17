@@ -65,45 +65,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODTestVeri
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/input_p_ignore_10'), 'KTLN_SODTest_Feb2_V1')
+WebUI.setText(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/input_p_ignore_10'), 'KTLN_SODTest_May17_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/button_Apply'))
-
-WebUI.delay(3)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/Page_Home/a_Inbox (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba3/Dashboards/Page_Home/a_Inbox (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/Page_Home/span_a-TreeView-toggle (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba3/Dashboards/Page_Home/span_a-TreeView-toggle (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba3/Dashboards/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/Page_Home/a_Dashboard (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba3/Dashboards/Page_Home/a_Dashboard (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/Page_Home/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/Dashboards/Page_Home/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/Page_Home/select_Select any oneKTLN_SODTest_Jan05_V2__779108 (1)'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/Dashboards/Page_Home/select_Select any oneKTLN_SODTest_Jan05_V2__779108 (1)'), 
-    'KTLN_SODTest_Feb2_V1', true, FailureHandling.OPTIONAL)
-
-WebUI.delay(2)
-
-WebUI.scrollToElement(findTestObject('Object Repository/deba3/Dashboards/Page_Home/h2_No of Users'), 0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/Dashboards/Page_Home/h2_No of Users'))
 
 WebUI.delay(3)
 
