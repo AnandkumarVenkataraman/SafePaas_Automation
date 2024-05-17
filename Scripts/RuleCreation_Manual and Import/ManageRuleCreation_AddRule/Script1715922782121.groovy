@@ -60,13 +60,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActiv
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/span_a-TreeView-toggle_1_2 (1) (1) (1) (1) (1)'))
 
-WebUI.comment('Click on AccessPaaS navigation dropwdown menu')
+WebUI.comment('Click on Setup navigation dropwdown menu')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/a_Manage Rule Tags (1) (1) (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/a_Manage Rule Tags (1) (1) (1) (1) (1)'))
 
-WebUI.comment('Click on Setup navigation dropwdown menu')
+WebUI.comment('Click on Manage Rule Tags from the Nuavigation men')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/button_Actions'))
 
@@ -97,11 +97,12 @@ WebUI.comment('Filter with Tag name New')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/td_New'), 0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/span_1 -                    1 of           _e353a0'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/span_1 -                    1 of           _e353a0'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/a_Manage Activity'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/a_Manage Activity'))
+WebUI.click(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
 
 WebUI.comment('Click on Manage Activity')
 

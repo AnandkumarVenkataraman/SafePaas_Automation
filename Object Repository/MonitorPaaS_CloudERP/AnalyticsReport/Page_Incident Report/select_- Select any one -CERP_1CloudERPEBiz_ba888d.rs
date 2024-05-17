@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P75_ENVIRONMENT']</value>
+         <value>//select</value>
       </entry>
       <entry>
          <key>CSS</key>

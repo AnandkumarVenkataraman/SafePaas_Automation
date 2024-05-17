@@ -10,11 +10,15 @@
          <value>//body[@id='t_PageBody']/div[15]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-widget-overlay ui-front&quot;]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.ui-widget-overlay.ui-front</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
