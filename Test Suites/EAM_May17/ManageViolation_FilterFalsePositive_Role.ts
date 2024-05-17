@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>4_Manage Violation _FilterFalsePositive_User</name>
+   <name>ManageViolation_FilterFalsePositive_Role</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>3ac42086-c18a-439e-b670-4652fe1255f5</testSuiteGuid>
+   <testSuiteGuid>3379c5c5-dca6-4a67-a7ba-94c7bd6cfb55</testSuiteGuid>
    <testCaseLink>
-      <guid>6ba525ba-d269-4e2f-9957-bb7bcb709ba0</guid>
+      <guid>89521be9-eaf4-4efb-a72e-91f954371ce1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/2_ManageViolation_FilterFalsePositives_User</testCaseId>
+      <testCaseId>Test Cases/EAM/3_Manage Violation_Filter False Positives_EntriesRole</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
