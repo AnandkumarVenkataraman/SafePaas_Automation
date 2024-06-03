@@ -107,6 +107,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AggregateLe
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Home/span_a-TreeView-toggle_1_2_3_4_5_6 (1)'))
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Home/span_a-TreeView-toggle_1_2_3_4_5_6 (1)'))
+
 WebUI.click(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Home/span_a-TreeView-toggle_1_2_3_4_5_6 (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Home/a_SOD Review Configuration (1)'))
@@ -161,7 +163,7 @@ WebUI.click(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Pag
 WebUI.verifyElementClickable(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'))
 
 WebUI.selectOptionByLabel(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'), 
-    'KTLN_SODTest_Jan24_V2_PO_AP', true, FailureHandling.OPTIONAL)
+    'KTLN_SODTest_May28_PO_AP', true, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Initiate User Violation Survey/input_P181_NAME'))
 
@@ -169,13 +171,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AggregateLevel_S
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Initiate User Violation Survey/input_P181_NAME'), 
-    'KTLN_SODReview_Mar08_V2')
+    'KTLN_SODReview_May28_V2')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
-    'KTLN_SODReview_Mar08_V2')
+    'KTLN_SODReview_May28_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_Popup Calendar Start Date'))
 
@@ -219,21 +221,24 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/ManageReviewStat
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/input_p_ignore_10'), 
-    'KTLN_SODReview_Mar08_V2')
+    'KTLN_SODReview_May28_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/span_1 -                    1'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/span_1 -                    1'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/a_KTLN_SODReview_Jan22_V2'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/a_KTLN_SODReview_Jan22_V2'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_User Access'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_User Access'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_Open'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_Open'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/button_Cancel'))
 

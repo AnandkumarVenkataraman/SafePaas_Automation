@@ -6,15 +6,31 @@
    <elementGuidId>ba6c7b77-51ea-4309-855b-cb526d139e99</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'C484081257635932120' and @name = '484081257635932120' and (text() = 'Not Verified&#xd;
+Verified&#xd;
+Terminate Access&#xd;
+' or . = 'Not Verified&#xd;
+Verified&#xd;
+Terminate Access&#xd;
+')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#C484081257635932120</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='C484081257635932120']</value>
+         <value>//select[@id = 'C484081257635932120' and @name = '484081257635932120' and (text() = 'Not Verified&#xd;
+Verified&#xd;
+Terminate Access&#xd;
+' or . = 'Not Verified&#xd;
+Verified&#xd;
+Terminate Access&#xd;
+')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>c9ef5ea1-da83-4e52-b794-8223a65fc3ee</webElementGuid>
+      <webElementGuid>56b5d3eb-63cc-426b-9391-d8896045b5a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>C484081257635932120</value>
-      <webElementGuid>ffc79f7e-5329-4f23-bc4d-4d659c4152e9</webElementGuid>
+      <webElementGuid>b010f053-5588-486c-87f8-242742a587b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>484081257635932120</value>
-      <webElementGuid>764cddc1-40d1-41ba-96ba-7ea5f49971ce</webElementGuid>
+      <webElementGuid>792d322e-5a5f-4037-a9d4-5d617098c8fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>3fa1865c-c523-4b94-a36b-e159a515bf82</webElementGuid>
+      <webElementGuid>fd9a50e6-c1e1-428f-8ac1-086dedffa438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +70,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>77f1a6d9-e0e7-43f5-beea-8acf41b7d491</webElementGuid>
+      <webElementGuid>10a6a84b-284b-4507-9f45-c07f35ed5807</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +78,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>72fdd72b-dc3e-433a-9e31-7a0defb6ce8b</webElementGuid>
+      <webElementGuid>32cb1643-a225-41cf-b7cd-96a1f10de943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +86,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9ebd9ac8-efdf-4300-9ee5-b6590f1ede2f</webElementGuid>
+      <webElementGuid>fd460dee-7aa0-4360-bc56-5a603d03f2cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,18 +94,18 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>C484081257635932120_HDR</value>
-      <webElementGuid>b8431c4d-74fd-4588-bb30-e58b250dd6db</webElementGuid>
+      <webElementGuid>74c13867-bf24-4a5f-b9bc-8cbf24e9c162</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Not Verified
-Verified
-Terminate Access
+      <value>Not Verified&#xd;
+Verified&#xd;
+Terminate Access&#xd;
 </value>
-      <webElementGuid>375acc38-b21c-4020-96ec-d3896153e583</webElementGuid>
+      <webElementGuid>801c562c-3887-458c-8648-769d25e76828</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +113,7 @@ Terminate Access
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C484081257635932120&quot;)</value>
-      <webElementGuid>03cfc71c-95d9-4383-a00f-102c6cbb4e03</webElementGuid>
+      <webElementGuid>9658dfe6-5648-435b-8533-e218f867b3aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -105,7 +121,7 @@ Terminate Access
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='C484081257635932120']</value>
-      <webElementGuid>eaebad4a-add7-473a-abf1-f04eac1739ec</webElementGuid>
+      <webElementGuid>289c7872-1556-4770-b326-ae74e3ce5c03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +129,7 @@ Terminate Access
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='uacReport_ig_grid_vc_cur']/div/select</value>
-      <webElementGuid>8f41df6e-ad12-44b0-a7bd-7d5b3d049a34</webElementGuid>
+      <webElementGuid>1d705580-3a8c-4766-b508-7ba25d4f7295</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,20 +137,20 @@ Terminate Access
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/div/select</value>
-      <webElementGuid>bfcaf361-1558-4d87-8a92-c9069b3fd79a</webElementGuid>
+      <webElementGuid>b8aac01f-af79-42a9-85a5-75cb366c88e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'C484081257635932120' and @name = '484081257635932120' and (text() = 'Not Verified
-Verified
-Terminate Access
-' or . = 'Not Verified
-Verified
-Terminate Access
+      <value>//select[@id = 'C484081257635932120' and @name = '484081257635932120' and (text() = 'Not Verified&#xd;
+Verified&#xd;
+Terminate Access&#xd;
+' or . = 'Not Verified&#xd;
+Verified&#xd;
+Terminate Access&#xd;
 ')]</value>
-      <webElementGuid>0cdfc773-61fe-4231-b8d3-9f649bf2b3e4</webElementGuid>
+      <webElementGuid>75f33f13-3940-4320-ae6f-04f4006390bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,6 +6,30 @@
    <elementGuidId>41e10777-3d0e-4d51-bc14-a8f0b239b0f1</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
+CERP_1
+CloudERP
+EBizApp_JDBC_Env
+KTLN_CloudERP
+McD_GRM_ENV
+SailPoint_Env
+SailPoint_ENV2
+SFP304T
+TririgaDB_Env
+' or . = 'Select any one
+CERP_1
+CloudERP
+EBizApp_JDBC_Env
+KTLN_CloudERP
+McD_GRM_ENV
+SailPoint_Env
+SailPoint_ENV2
+SFP304T
+TririgaDB_Env
+')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#P0_ENVIRONMENT</value>
       </entry>
@@ -14,7 +38,7 @@
          <value>//select[@id='P0_ENVIRONMENT']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +46,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>0d38c6d4-82cc-4018-b6d9-692d43cc8114</webElementGuid>
+      <webElementGuid>6769b3ca-65f8-4890-a422-251636199865</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P0_ENVIRONMENT</value>
-      <webElementGuid>746ae8d3-4129-4b42-a4b1-e4737aadba35</webElementGuid>
+      <webElementGuid>f834e4eb-dc2e-4618-9c9c-ad79abc01d43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P0_ENVIRONMENT</value>
-      <webElementGuid>feebeb07-36c3-4584-83e3-a16dfcd546d2</webElementGuid>
+      <webElementGuid>66f87d62-d942-4f0a-b6c2-ccce7cf8c4de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>366bb720-30ec-491f-b8d3-18e1a6dfc947</webElementGuid>
+      <webElementGuid>77b8e0ef-eafb-4c79-9165-1bdf0c2d0965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +78,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a926a4e3-e32e-47af-9c94-30611a5d9ad0</webElementGuid>
+      <webElementGuid>164eccff-5c31-4590-83f8-9120d76d3ed5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +86,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>7da8f314-ca61-441c-b0ab-724b1f44fa6c</webElementGuid>
+      <webElementGuid>bf30870d-3d5b-4c73-a101-9df9bba86131</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +94,7 @@
       <name>onchange</name>
       <type>Main</type>
       <value>apex.submit('P0_ENVIRONMENT');</value>
-      <webElementGuid>65b60f32-c732-4d7c-8648-f019612201e7</webElementGuid>
+      <webElementGuid>cd295e8e-09aa-4b64-b927-830ffded0ac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -88,7 +112,7 @@ SailPoint_ENV2
 SFP304T
 TririgaDB_Env
 </value>
-      <webElementGuid>672c18e3-a8df-47df-befb-6894fbcf1ca7</webElementGuid>
+      <webElementGuid>a25944c3-e705-4e48-bf85-73dce47a1212</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -96,7 +120,7 @@ TririgaDB_Env
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
-      <webElementGuid>6592527d-67ed-4a49-a3f1-25fdc0602892</webElementGuid>
+      <webElementGuid>bf64c440-47b3-4ee7-a7a6-2f9e3d928af2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -104,7 +128,7 @@ TririgaDB_Env
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P0_ENVIRONMENT']</value>
-      <webElementGuid>dd8a97cf-6898-4f72-9038-c230b15d4656</webElementGuid>
+      <webElementGuid>c6d25ade-017e-47a9-a0df-c8f107a205f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +136,7 @@ TririgaDB_Env
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>57542505-949b-494d-883f-5fccf6cf1da8</webElementGuid>
+      <webElementGuid>5ed4a643-2351-49b4-a317-bc40c970e81b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +144,7 @@ TririgaDB_Env
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>c3554731-ace3-4408-9bfd-9037863345a2</webElementGuid>
+      <webElementGuid>e2b0b2b3-1c99-465c-81f6-ba77f5ad9e26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +172,6 @@ SailPoint_ENV2
 SFP304T
 TririgaDB_Env
 ')]</value>
-      <webElementGuid>ad1f1908-518d-4acc-9e6c-df6fef9a23da</webElementGuid>
+      <webElementGuid>98928960-7110-4a00-9705-3d35df3ab7cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

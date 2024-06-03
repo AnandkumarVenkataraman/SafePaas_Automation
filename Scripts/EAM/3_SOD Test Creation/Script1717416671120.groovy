@@ -241,14 +241,14 @@ WebUI.comment('Click on Create button')
 
 WebUI.verifyElementText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/input_P35_REQUEST_NAME (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/input_P35_REQUEST_NAME (1)'), 'KTLN_SODTest_May17_V1')
+WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/input_P35_REQUEST_NAME (1)'), 'KTLN_SODTest_June03_V1')
 
 WebUI.comment('Provide a SOD Request name')
 
 WebUI.verifyElementText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/textarea_P35_REQUEST_DESCRIPTION (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/textarea_P35_REQUEST_DESCRIPTION (1)'), 'KTLN_SODTest_May17_V1')
+WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/textarea_P35_REQUEST_DESCRIPTION (1)'), 'KTLN_SODTest_June03_V1')
 
 WebUI.comment('Provide the SOD Description')
 

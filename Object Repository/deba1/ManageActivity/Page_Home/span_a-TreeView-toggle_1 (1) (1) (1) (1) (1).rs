@@ -7,14 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_2']/span</value>
+         <value>/html/body/form/div[2]/div[1]/div/ul/li/ul/li[2]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;t_TreeNav_2&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#t_TreeNav_2 > span.a-TreeView-toggle</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e914cd0d-039d-491c-b7cd-580fc7d7af4c</webElementGuid>
+      <webElementGuid>5d80f52e-ec6a-43e1-9a5d-3194b353f294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>c5586130-04a0-40fb-ab76-ef6f2cceb3d2</webElementGuid>
+      <webElementGuid>f2606091-8cb1-48ba-ac13-ce9a21494521</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_2&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>9a018e00-e04d-4ea5-8a22-148da955ee06</webElementGuid>
+      <webElementGuid>f17df9b9-7b22-45f8-9571-9741431983ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_2']/span</value>
-      <webElementGuid>d80ed2ee-5b25-4f8f-968d-8a9bff83d310</webElementGuid>
+      <webElementGuid>06836ef1-9ff4-4fc1-9c71-d49719d0bf42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/span</value>
-      <webElementGuid>9f054265-e24f-4b46-86d7-0635cc58d0c1</webElementGuid>
+      <webElementGuid>19a2ec78-3a01-4a77-99e6-1795e46fd676</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

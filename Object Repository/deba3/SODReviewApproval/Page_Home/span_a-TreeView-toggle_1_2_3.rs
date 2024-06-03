@@ -6,15 +6,19 @@
    <elementGuidId>2a583d6c-cd58-4d78-8ba5-45d1ae3c0584</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;t_TreeNav_19&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#t_TreeNav_19 > span.a-TreeView-toggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_19']/span</value>
+         <value>//span[text()='Manage SOD Review']//preceding::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5e005e87-f1a7-41ba-8972-1306f291f3b8</webElementGuid>
+      <webElementGuid>9c11803a-960c-4295-a30a-29722713b3d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>f73b767e-04e9-4a6c-acec-87cf45cf6d2e</webElementGuid>
+      <webElementGuid>4acb3fc5-537d-4067-888a-8d39777d7be2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_19&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>4eb01f0b-e90d-4230-874d-dc871a42457e</webElementGuid>
+      <webElementGuid>2246354c-a7a5-409c-8617-b1749e8f247c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_19']/span</value>
-      <webElementGuid>b470d340-2302-498e-883a-773d8bbaf5b3</webElementGuid>
+      <webElementGuid>0e3da6da-a64c-4fbf-8bee-0c2834b53103</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]/span</value>
-      <webElementGuid>910593e1-1e99-4ece-954c-6600f8fc1c91</webElementGuid>
+      <webElementGuid>c02ea78f-051f-46a3-ba5f-3c54cddd175d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

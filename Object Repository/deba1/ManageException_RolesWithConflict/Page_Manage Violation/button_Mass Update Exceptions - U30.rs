@@ -6,12 +6,12 @@
    <elementGuidId>0a4320df-944a-4c71-95ae-f88d510774f5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @id = 'B175730457209722204' and (text() = 'Mass Update Exceptions' or . = 'Mass Update Exceptions')]</value>
+         <key>XPATH</key>
+         <value>//button[@id='B175730457209722204']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/div/a</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B175730457209722204' and (text() = 'Mass Update Exceptions' or . = 'Mass Update Exceptions')]</value>
       </entry>
       <entry>
          <key>CSS</key>

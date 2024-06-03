@@ -94,9 +94,11 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/deba3/Sample1/Page_
 
 WebUI.delay(2)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/RuleCreation_PO_AP_Import/Page_Manage Tag/a_Manage Activity'))
+WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/deba1/RuleCreation_PO_AP_Import/Page_Manage Tag/a_Manage Activity'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
+
+WebUI.click(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
 
 WebUI.comment('Go to Manage Activity')
 
@@ -235,9 +237,11 @@ WebUI.delay(2)
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Activity Entries/a_Manage Activity'))
+WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Activity Entries/a_Manage Activity'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
+
+WebUI.click(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
 
 WebUI.comment('Click on Manage Activity')
 
@@ -347,9 +351,11 @@ WebUI.delay(2)
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Activity Entries/a_Manage Activity'))
+WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Activity Entries/a_Manage Activity'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
+
+WebUI.click(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
 
 WebUI.comment('Go to Manage Activity tab')
 
@@ -542,7 +548,7 @@ WebUI.comment('click on Upload file section')
 WebUI.verifyElementText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_May17_V1')
+WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_June03_V1')
 
 WebUI.comment('Provide the load name')
 

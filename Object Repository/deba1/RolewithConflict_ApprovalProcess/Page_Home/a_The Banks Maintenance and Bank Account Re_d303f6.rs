@@ -6,11 +6,11 @@
    <elementGuidId>fb2b4911-25dd-4492-be0e-bd7d4efa4547</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='R163105974055422926_col_values_drop']/a[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f2c03816-0922-46d1-92bc-b940256daaf0</webElementGuid>
+      <webElementGuid>de3f26cc-32ef-44c0-91b1-25496b4dd334</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>7ff3dc4d-807a-4bd2-860b-b48f69b28fb9</webElementGuid>
+      <webElementGuid>ca907447-580c-4119-9fa1-a689284fc9b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>2f947faa-1019-40f5-99b2-4afb0ab0dcff</webElementGuid>
+      <webElementGuid>67eaa92b-d114-4371-b15f-dd47ccfd1ec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner</value>
-      <webElementGuid>95125a08-b9dd-41c4-9b1b-04da8435943b</webElementGuid>
+      <webElementGuid>4b5e94fd-d522-48f9-89a6-911ad584b396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner</value>
-      <webElementGuid>f1173245-5f7c-4633-877d-67189df68a7b</webElementGuid>
+      <webElementGuid>12234222-2305-4cda-8af9-c41ad9269171</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R163105974055422926_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>edd2911e-8cd6-428c-9748-ddb39fa550da</webElementGuid>
+      <webElementGuid>caf339ea-ff5d-431b-8829-a1f8c4b9f4b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R163105974055422926_col_values_drop']/a[3]</value>
-      <webElementGuid>3e92efc0-0a2e-4b5e-9dba-caa96cc7b432</webElementGuid>
+      <webElementGuid>bdbbf5ef-fb63-4fbb-9433-5b5236b24659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner')])[2]</value>
-      <webElementGuid>a6221553-9587-4332-9bc9-4cacbc2f7971</webElementGuid>
+      <webElementGuid>dd4d1a99-2123-44b7-ab82-c7ae340d86c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[140]</value>
-      <webElementGuid>c6b4532a-4bfd-4892-ae75-8f28a7209713</webElementGuid>
+      <webElementGuid>562fd210-d9a4-4bca-a831-b4cb3dfe5f22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]</value>
-      <webElementGuid>180029a7-521d-42ed-bd2a-0040a2c94059</webElementGuid>
+      <webElementGuid>c6cb13e4-94fd-4085-81a7-b77a7fea789d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner' or . = 'The Banks Maintenance and Bank Account Reconciliation has been sent for your approval - Owner')]</value>
-      <webElementGuid>fe66d466-a2dc-451f-8599-9c72a38404af</webElementGuid>
+      <webElementGuid>1fe725fa-c1e1-40f4-9a5f-a23a05eccded</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

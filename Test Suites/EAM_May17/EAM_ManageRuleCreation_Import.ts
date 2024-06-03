@@ -15,7 +15,7 @@
       <guid>724dff12-add8-4219-bf1b-13b12bde0a9b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RuleCreation_Manual and Import/MangeRuleCreation_Import</testCaseId>
+      <testCaseId>Test Cases/EAM/2_RuleCreation_Import</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

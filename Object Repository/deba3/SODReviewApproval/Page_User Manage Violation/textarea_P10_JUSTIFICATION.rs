@@ -6,6 +6,10 @@
    <elementGuidId>b474c46f-5113-4e20-adbb-5823963314ee</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'P10_JUSTIFICATION' and @id = 'P10_JUSTIFICATION']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#P10_JUSTIFICATION</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>//textarea[@id='P10_JUSTIFICATION']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>38f25110-268b-4f57-9c57-d5e46fda3cb2</webElementGuid>
+      <webElementGuid>08878075-0a1a-4c80-ae21-26a6d04e83f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P10_JUSTIFICATION</value>
-      <webElementGuid>06a9459c-0b81-406a-b834-e771a919b976</webElementGuid>
+      <webElementGuid>217981e4-036d-48c8-9e4a-bdaacf0adb1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>adbaedef-9477-48ee-a11c-505778e7f55e</webElementGuid>
+      <webElementGuid>e5105f47-068e-4534-bc61-3c7cc82687d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>cols</name>
       <type>Main</type>
       <value>60</value>
-      <webElementGuid>88b029c5-8c63-4290-9bc6-72264573225f</webElementGuid>
+      <webElementGuid>2c5a4d90-e98f-454e-b0f8-62a7d13edb8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P10_JUSTIFICATION</value>
-      <webElementGuid>0aae28c9-1743-4e0e-9b2c-4f77f766ee22</webElementGuid>
+      <webElementGuid>4d0c7c4c-996c-4233-84dc-dc76980601d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textarea apex-item-textarea</value>
-      <webElementGuid>4feac071-219b-489b-8054-866b26e14749</webElementGuid>
+      <webElementGuid>865f6788-371f-4f91-8646-d786895aa5c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>data-resizable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e398fffa-6c2d-4104-af0f-0c6045cfa904</webElementGuid>
+      <webElementGuid>9bc2298c-4d10-4d5e-9e39-906d1f8608a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P10_JUSTIFICATION&quot;)</value>
-      <webElementGuid>76ecaa20-009a-4274-b6a5-3b82e700b464</webElementGuid>
+      <webElementGuid>3c45cf8b-5e3d-42a1-b940-251baec6af18</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='P10_JUSTIFICATION']</value>
-      <webElementGuid>fc277189-bc60-40aa-8d4b-9b6b046ca4d5</webElementGuid>
+      <webElementGuid>c67e42c3-f22a-42f2-97bf-ba97d70d53c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P10_JUSTIFICATION_CONTAINER']/div[2]/div/div/textarea</value>
-      <webElementGuid>6f4683cb-2ded-4e6e-a8f2-999207232a68</webElementGuid>
+      <webElementGuid>da31d175-be08-4e76-856c-8a715f49f24c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>a1002411-e3dd-451a-a1a3-30213050da60</webElementGuid>
+      <webElementGuid>87fa695e-e1bc-4414-9eed-6610b2c3900c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'P10_JUSTIFICATION' and @id = 'P10_JUSTIFICATION']</value>
-      <webElementGuid>a81fe0d9-9661-4fca-8edb-a4c74a0c41e9</webElementGuid>
+      <webElementGuid>e26d8a72-b814-4be9-ae57-c30d5bc695d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

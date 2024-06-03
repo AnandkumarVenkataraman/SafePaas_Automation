@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/a_Manag
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
-    'SailPoint_Env', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/button_Create'))
 
@@ -58,12 +58,12 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certi
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_Mar3_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_June03_V1')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_Mar3_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_June03_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/button_Popup Calendar End Date'))
 
@@ -96,6 +96,8 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate Use
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/button_Create'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/button_Create'))
+
+WebUI.delay(10)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage User Access/h2_Certification job was initiated successf_889d6e'))
 

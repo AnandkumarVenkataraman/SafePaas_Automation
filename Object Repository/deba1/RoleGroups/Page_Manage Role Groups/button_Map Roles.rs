@@ -6,15 +6,19 @@
    <elementGuidId>1f728be2-d61c-4c89-8379-56c11a1e34a0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B150175829224810110' and (text() = 'Map Roles' or . = 'Map Roles')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#B150175829224810110</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B150175829224810110']</value>
+         <value>//*[@type = 'button' and @id = 'B150175829224810110' and (text() = 'Map Roles' or . = 'Map Roles')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c5b863fd-9606-49f8-a87c-3ecc8a6edd7a</webElementGuid>
+      <webElementGuid>c91b89a9-432e-4f54-a69c-7ff24c1901f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'MAP',validate:true});</value>
-      <webElementGuid>450f91e3-d8d8-498a-9bf2-a3fdfcad20c4</webElementGuid>
+      <webElementGuid>b0413955-c4ef-4232-866f-f7f6af66b704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>c76b3eea-490e-43f7-8b36-196cae3bed1b</webElementGuid>
+      <webElementGuid>d43ff376-88ce-49ba-9a38-6cbce2c4ce8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eec4b312-4887-461f-9510-83ef03cfff71</webElementGuid>
+      <webElementGuid>041c802e-a48d-4e1f-a815-771b9606b340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B150175829224810110</value>
-      <webElementGuid>985c301a-fa8a-4a42-9683-bfc55f13e672</webElementGuid>
+      <webElementGuid>579400be-abc5-4ea0-96d6-c3edf60d9669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Map Roles</value>
-      <webElementGuid>ea92293c-b454-4395-a4b4-7c1a1129df6b</webElementGuid>
+      <webElementGuid>592f3b17-739d-4e04-b885-aa60fd10a8ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B150175829224810110&quot;)</value>
-      <webElementGuid>94f6bba6-c1a0-4efb-be8b-9d1b15515876</webElementGuid>
+      <webElementGuid>40b22934-c159-40d3-939d-486b926d43b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B150175829224810110']</value>
-      <webElementGuid>f94117e5-99db-446c-b7a2-3e59adadb0c8</webElementGuid>
+      <webElementGuid>5cc7e064-f7e2-44dc-9dd8-0a3c0861dc82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R407297060702584727']/div/div[2]/button[2]</value>
-      <webElementGuid>0b05a89a-f047-4cd7-8abd-634aec17f182</webElementGuid>
+      <webElementGuid>4c401721-b41d-4ad2-97c3-86a4acc27447</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>ea0d74a1-b9bf-48d7-924a-e4276521da81</webElementGuid>
+      <webElementGuid>1e9080ca-fb14-4ba1-afef-f4a4d1c5f2b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B150175829224810110' and (text() = 'Map Roles' or . = 'Map Roles')]</value>
-      <webElementGuid>6ed385c6-6c9b-4759-887e-582d36ee1fbd</webElementGuid>
+      <webElementGuid>7050c14c-7ce2-4dbb-8f8c-f18bdf71423d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

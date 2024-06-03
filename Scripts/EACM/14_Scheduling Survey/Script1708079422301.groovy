@@ -60,13 +60,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Scheduling S
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/input_P10_NAME'), 
-    'KTLN_EACM_Survey_Feb16_V2')
+    'KTLN_EACM_Survey_May03_V2')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
-    'KTLN_EACM_Survey_Feb16_V2')
+    'KTLN_EACM_Survey_May03_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Initiate User Access/label_Schedule'))
 
@@ -122,7 +122,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Scheduling S
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Manage User Access/input_p_ignore_10'), 
-    'KTLN_EACM_Survey_Feb16_V2')
+    'KTLN_EACM_Survey_May03_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Manage User Access/button_Apply'))
 

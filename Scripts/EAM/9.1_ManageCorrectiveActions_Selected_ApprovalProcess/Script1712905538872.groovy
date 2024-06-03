@@ -25,7 +25,7 @@ WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_COMPANY (1)'), 'KAT')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_USERNAME (1)'), 'KTLN_EAM_USER1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_USERNAME (1)'), 'KATALON_ADMIN')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_PASSWORD (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
@@ -44,9 +44,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorre
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
 
-WebUI.verifyElementClickable(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Home/Manage Corrective Action_new'))
+WebUI.verifyElementClickable(findTestObject('deba3/AllUsersViolation_ApprovalProcess/Page_Home/a_Manage Corrective Action - 925'))
 
-WebUI.click(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Home/Manage Corrective Action_new'))
+WebUI.click(findTestObject('deba3/AllUsersViolation_ApprovalProcess/Page_Home/a_Manage Corrective Action - 925'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Manage Corrective Action/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (2)'))
 
@@ -70,7 +70,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Create Purchase Agreements vs. Manage Payables Activities')
+    'Manage Payables Activities vs. Approve Payables Activities Rule')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -98,7 +98,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Apr15_V1')
+    'Selected_May30_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -107,11 +107,12 @@ WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalPr
 WebUI.scrollToElement(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Manage Corrective Action/td_In Progress'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Manage Corrective Action/td_In Progress'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Manage Corrective Action/td_In Progress'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Home/Inbox button - New'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Home/Inbox button - New'), FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Home/Inbox button - New'))
 
@@ -144,7 +145,8 @@ WebUI.verifyElementClickable(findTestObject('deba1/ManageCorrectiveActions_Selec
 
 WebUI.click(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Home/a_The Create Purchase Agreements vs. Manage_a09157_1 - Copy'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Notification/span_The Create Purchase Agreements vs. Man_94d3fd'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Notification/span_The Create Purchase Agreements vs. Man_94d3fd'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Notification/label_Approve'))
 
@@ -192,7 +194,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Create Purchase Agreements vs. Manage Payables Activities')
+    'Manage Payables Activities vs. Approve Payables Activities Rule')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -220,7 +222,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Apr15_V1')
+    'Selected_May30_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 

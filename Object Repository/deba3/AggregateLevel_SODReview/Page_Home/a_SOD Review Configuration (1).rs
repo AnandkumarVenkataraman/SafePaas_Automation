@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_17']/div[2]/a</value>
+         <value>//a[contains(text(),'SOD Review Configuration')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>105a4883-d85a-440f-9861-15b95d98b87a</webElementGuid>
+      <webElementGuid>1e5c3a9f-cbfa-413a-8882-841833c0cd60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ab99c2a6-e2aa-4479-9d49-932c8ec484c5</webElementGuid>
+      <webElementGuid>211957f7-9f9c-4661-b8ef-d2fb92b54c67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>8bfdbb39-d792-4417-9feb-5bb7eb462121</webElementGuid>
+      <webElementGuid>d275e47b-51d4-4c38-89ac-10a00faa9e62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>0523efae-791f-49f7-8c92-c8079dd6ad7d</webElementGuid>
+      <webElementGuid>53c6828f-b811-4a82-9638-3f81eaa3169f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:130:17035542259381:::130::</value>
-      <webElementGuid>51016cd3-199c-42f0-828e-e1bc20b2a017</webElementGuid>
+      <webElementGuid>a2e694ab-1ce4-480d-9c52-65c988c52896</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>8966b3b2-6ece-482b-b107-afa9fc953c85</webElementGuid>
+      <webElementGuid>cff13031-897d-417d-b422-d4fd30fdfc5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b7e1edbf-00a5-4345-87f0-134eea01a46e</webElementGuid>
+      <webElementGuid>5e71ce19-8871-439e-8984-285beb388328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SOD Review Configuration</value>
-      <webElementGuid>41e6340a-d1df-4903-b5f0-ba26d6fd9ff6</webElementGuid>
+      <webElementGuid>3cf898bb-f956-4cb2-b0a1-12fe76782a44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_17&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>d640d00f-6f09-46c4-ac7b-e3d085c4148d</webElementGuid>
+      <webElementGuid>47e8ccd1-4bd4-4158-b9ff-90f56bf2ee9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_17']/div[2]/a</value>
-      <webElementGuid>b4fd6c34-233f-4464-b522-7d7ca7026e35</webElementGuid>
+      <webElementGuid>a749d679-acae-4dea-b307-7516f998b4b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SOD Review Configuration')]</value>
-      <webElementGuid>7990a4a3-8369-487e-aba1-89e374fc41cd</webElementGuid>
+      <webElementGuid>06c49d29-953e-4b5a-bc23-fd991a1e4713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:130:17035542259381:::130::')]</value>
-      <webElementGuid>1472dbeb-8a9d-4956-ac45-36f7c71bea1a</webElementGuid>
+      <webElementGuid>ff303d05-3270-4345-9e4c-7aa3bd0af0ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[4]/div[2]/a</value>
-      <webElementGuid>8aa6ec90-688d-4d41-8707-e65e5c4593b3</webElementGuid>
+      <webElementGuid>4ea6d0bd-67ed-4ba8-bf7e-d94b5df68e80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:130:17035542259381:::130::' and (text() = 'SOD Review Configuration' or . = 'SOD Review Configuration')]</value>
-      <webElementGuid>03c9501b-5f3f-4349-9605-309e0486e3c6</webElementGuid>
+      <webElementGuid>6a7f6c01-59da-4add-ab37-40e51d6c2c15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>6ba525ba-d269-4e2f-9957-bb7bcb709ba0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/2_ManageViolation_FilterFalsePositives_User</testCaseId>
+      <testCaseId>Test Cases/EAM/2_FilterFalsePositives_User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -58,7 +58,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrecti
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'), 
-    'KTLN_SODTest_Apr13_V1', true)
+    'KTLN_SODTest_May27_V2', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Go (1)'))
 
@@ -106,7 +106,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrective
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_p_ignore_10 (1)'), 
-    'Create Purchase Agreements vs. Manage Payables Activities')
+    'Manage Payables Activities vs. Approve Payables Activities Rule')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
@@ -217,7 +217,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrective
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
-    'Selected_Apr15_V1')
+    'Selected_May30_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
 

@@ -72,6 +72,8 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/Page_Manage Vi
 
 WebUI.comment('select the environment as "KTLN_CloudERP"')
 
+WebUI.delay(10)
+
 WebUI.verifyElementClickable(findTestObject('deba3/Sample1/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 801'))
 
 WebUI.click(findTestObject('deba3/Sample1/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 801'))
@@ -85,6 +87,8 @@ WebUI.sendKeys(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-Popup
         Keys.ENTER))
 
 WebUI.comment('select the latest SOD test name')
+
+WebUI.delay(10)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage Violation/button_Actions'))
 

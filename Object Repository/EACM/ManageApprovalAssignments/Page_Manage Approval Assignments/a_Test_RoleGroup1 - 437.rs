@@ -10,12 +10,11 @@
          <value>//*[@href = 'f?p=1400:14:7322436759183:::RP:P14_APP_ID:2986' and (text() = 'Test_RoleGroup1' or . = 'Test_RoleGroup1')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[3]/table/tbody/tr[2]/td[1]/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Test_RoleGroup1')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dcc4c31b-c91e-4a19-9c84-8e4d53abdbc7</webElementGuid>
+      <webElementGuid>e7648233-80fa-4680-9f9f-28838fdbdc37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1400:14:7322436759183:::RP:P14_APP_ID:2986</value>
-      <webElementGuid>6dc1ad20-6b1f-4f65-903c-cb468791ed03</webElementGuid>
+      <webElementGuid>9d8f72bc-6872-4d3e-8799-dabe3f2a7bb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test_RoleGroup1</value>
-      <webElementGuid>8c47626b-b986-41b9-8b66-92525952af09</webElementGuid>
+      <webElementGuid>2670ecf9-c772-463d-ae58-8ea61b70dced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;325069098919960516_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>f581e230-bcac-4277-88c8-9a17f550f0eb</webElementGuid>
+      <webElementGuid>ed08f610-63eb-4527-8591-5dc99251a9f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='325069098919960516_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>ab0c15d5-3143-4acc-a62e-821629bd0651</webElementGuid>
+      <webElementGuid>b9dc9b06-4a59-4f6d-8fcb-e575ac0e5d72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +65,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Test_RoleGroup1')]</value>
-      <webElementGuid>093d456b-cf42-4e8f-bf8c-52c158d411f6</webElementGuid>
+      <webElementGuid>4cb40d93-3992-4400-be2d-2bb57daeedbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +73,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1400:14:7322436759183:::RP:P14_APP_ID:2986')]</value>
-      <webElementGuid>05923b70-06f7-4498-ad19-cc0397b5030a</webElementGuid>
+      <webElementGuid>69689a33-1c45-450a-a72b-d2d0d183bbb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>7c9d00dc-6fbe-4a10-9c15-004a4995af1c</webElementGuid>
+      <webElementGuid>a44b9da6-9582-4559-aa62-9eb85cbef626</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1400:14:7322436759183:::RP:P14_APP_ID:2986' and (text() = 'Test_RoleGroup1' or . = 'Test_RoleGroup1')]</value>
-      <webElementGuid>327762fc-7cf1-45cb-a806-04d2f642a4b6</webElementGuid>
+      <webElementGuid>813ceece-976c-4685-a9ed-3e019e5debec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

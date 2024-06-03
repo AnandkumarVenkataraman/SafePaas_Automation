@@ -6,16 +6,16 @@
    <elementGuidId>4968d9be-7a80-4838-9fd7-92d5ed2e664b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = 'f?p=1001:125:972004108920:::125::' and (text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
+         <key>CSS</key>
+         <value>a.a-TreeView-label.is-focused</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[1]/ul/li[6]/ul/li[2]/div[2]/a</value>
+         <value>//li[@id='t_TreeNav_15']/div[2]/a</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1001:125:972004108920:::125::' and (text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9d300f21-b53b-4ec7-8465-180c823b9056</webElementGuid>
+      <webElementGuid>b926c425-3c77-45b9-a796-8a709275f60d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>13898097-3067-48c1-8087-a639ba1180d0</webElementGuid>
+      <webElementGuid>4b69e96c-1d73-47c5-ba66-84eac4af9ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>d4df603e-1bf8-4835-97c3-ad90d0a5e4b6</webElementGuid>
+      <webElementGuid>dd8398bc-e523-4b20-97ab-919f9c3ff950</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>96e216a8-f698-44d6-9a32-31fab5dfd057</webElementGuid>
+      <webElementGuid>72117ca1-347a-4a6f-8d7c-0c77c10e2fe3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:125:972004108920:::125::</value>
-      <webElementGuid>3ad1eeb8-5157-4b4f-ae9d-69dadca5225c</webElementGuid>
+      <webElementGuid>d169794c-fd39-49fc-9cf2-3fe1534d9dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>54606c8c-af6f-4e5d-9711-5da96cb747cd</webElementGuid>
+      <webElementGuid>63cb4c37-e2df-4535-8d26-33ccb1fb5ae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9fcf5365-51a5-4b98-88da-38ad17373679</webElementGuid>
+      <webElementGuid>535594e8-e6d2-4fb4-8897-1be462426cfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Approval Assignments</value>
-      <webElementGuid>4363cdea-7631-4c09-9432-3a0b6c095971</webElementGuid>
+      <webElementGuid>b954f7aa-dcc8-42c2-9074-d79dc7942dee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_15&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>369bf2d5-2f2e-4923-82e0-fde56f1ad1ba</webElementGuid>
+      <webElementGuid>0df2e843-a41d-4f43-94fb-2426502eb6f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_15']/div[2]/a</value>
-      <webElementGuid>fe0de766-7537-4aaf-b9fb-1788f23333be</webElementGuid>
+      <webElementGuid>3fcfc96a-e0cd-44f7-a768-3cf14af5a4b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Approval Assignments')]</value>
-      <webElementGuid>957c2179-2385-488c-87b4-c2a9134b3aac</webElementGuid>
+      <webElementGuid>457ceb75-824b-4a00-b8d8-9dc2a9f2d724</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:125:972004108920:::125::')]</value>
-      <webElementGuid>13a07902-59fb-42d6-95ea-3190b91279a4</webElementGuid>
+      <webElementGuid>413a1618-6935-4585-a2fd-ae78a41a0c3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>bd1f511a-b5c6-4579-946d-6aa5cf3ea0f5</webElementGuid>
+      <webElementGuid>b8132891-c48d-4b35-a420-90932b258bcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:125:972004108920:::125::' and (text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
-      <webElementGuid>f4401f93-e258-49f3-95fd-030b9cb81c7a</webElementGuid>
+      <webElementGuid>8ac0987e-aaf2-48c2-85d4-2ebb826d297e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

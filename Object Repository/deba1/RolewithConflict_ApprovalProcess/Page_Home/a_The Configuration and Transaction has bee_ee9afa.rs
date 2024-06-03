@@ -6,15 +6,18 @@
    <elementGuidId>9198ed59-e2d7-4c99-8e63-12e5e0ee5423</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='R163105974055422926_col_values_drop']/a[4]</value>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = 'The Configuration and Transaction has been sent for your approval - Owner' or . = 'The Configuration and Transaction has been sent for your approval - Owner')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'The Configuration and Transaction has been sent for your approval - Owner')])[2]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ec9ef2fc-5f2a-43d0-87fe-c9e07cce53de</webElementGuid>
+      <webElementGuid>68c29acd-044c-4454-a146-96ee0b1d5528</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>00e137e0-539b-4c9b-9675-78e86e7d9d94</webElementGuid>
+      <webElementGuid>59c43539-a299-4335-865f-dc76708d0f5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>50721052-672e-4659-a4d2-b1e6986f5b8b</webElementGuid>
+      <webElementGuid>4fa1c673-f6b3-4ada-986e-937bdd761dd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +49,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>The Configuration and Transaction has been sent for your approval - Owner</value>
-      <webElementGuid>2f41f03f-61e6-4673-8cf5-297af5263b41</webElementGuid>
+      <webElementGuid>b9f45219-01ac-477f-af85-eb42fedf7c26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The Configuration and Transaction has been sent for your approval - Owner</value>
-      <webElementGuid>94dd8ce7-af83-4864-a07c-2d9a9ebbef68</webElementGuid>
+      <webElementGuid>5d26c618-dfc3-49ea-85ca-33015cb0a832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R163105974055422926_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>9fea7fde-8958-42f2-ac1d-3440fc33a5ef</webElementGuid>
+      <webElementGuid>8c7b3723-c947-4817-afc0-842662977dc7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R163105974055422926_col_values_drop']/a[4]</value>
-      <webElementGuid>c0116c99-9f4a-4f19-8bee-449f8d67f810</webElementGuid>
+      <webElementGuid>14e10433-c4dc-4bfe-bcf5-dafad940d546</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'The Configuration and Transaction has been sent for your approval - Owner')])[2]</value>
-      <webElementGuid>98ec707e-1f80-4dc6-89bf-7d1c120bf7dc</webElementGuid>
+      <webElementGuid>0a8505f9-7d8e-449d-b238-27b0a5354bfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[141]</value>
-      <webElementGuid>57a4c800-bef6-40a6-9dff-9b7dbe5b8776</webElementGuid>
+      <webElementGuid>210914e4-6ccc-4704-8d69-ab15f8f478bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]</value>
-      <webElementGuid>2249d609-3101-4949-9d15-58422916221f</webElementGuid>
+      <webElementGuid>c3e51246-52b5-462c-b805-c2bf64aab730</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'The Configuration and Transaction has been sent for your approval - Owner' or . = 'The Configuration and Transaction has been sent for your approval - Owner')]</value>
-      <webElementGuid>583bf1ae-654d-4e5a-b1e9-9d6e1e9b6205</webElementGuid>
+      <webElementGuid>3d7799a9-8f95-40eb-b3de-0ec5ad9b4853</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

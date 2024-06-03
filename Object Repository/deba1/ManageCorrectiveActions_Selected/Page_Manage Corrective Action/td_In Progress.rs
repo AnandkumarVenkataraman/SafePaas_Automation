@@ -6,11 +6,11 @@
    <elementGuidId>403c2ebc-e2d5-4b9c-bec3-0997cf8da330</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='195180867927763272']/tbody/tr[2]/td[7]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//td[(text() = 'In Progress' or . = 'In Progress')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>4310443d-63dd-4874-bff2-1e4395075133</webElementGuid>
+      <webElementGuid>4119ef0d-5f59-457b-8684-12c1f52c1d40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value> u-tL</value>
-      <webElementGuid>35330334-3911-4d9e-bd25-39f3dfc36a7c</webElementGuid>
+      <webElementGuid>5ef7df91-b671-4d6b-b74a-9dd77035c3cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>headers</name>
       <type>Main</type>
       <value>APPROVAL_STATUS</value>
-      <webElementGuid>02f43ceb-014e-4ad2-8f2e-6a8086e3649e</webElementGuid>
+      <webElementGuid>fe4e5f2a-2b82-4749-8005-a299f2e77702</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>In Progress</value>
-      <webElementGuid>4aab4bdc-3305-4213-8ab4-30df2b422ee3</webElementGuid>
+      <webElementGuid>85b40832-9d76-458a-8368-72aca3609375</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;195180867927763272&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
-      <webElementGuid>9b198647-ecdd-4732-94c6-548741a1ab9e</webElementGuid>
+      <webElementGuid>5be80471-c3c5-4939-b35e-7b4dd8c18947</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='195180867927763272']/tbody/tr[2]/td[7]</value>
-      <webElementGuid>2f91eff7-c08f-4eb4-97a6-7fb083752cc8</webElementGuid>
+      <webElementGuid>0b398a16-2b69-4970-91fd-0e5e2777cc93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]</value>
-      <webElementGuid>862bdd47-7faa-4dc4-a930-8230adaa9459</webElementGuid>
+      <webElementGuid>d46352a5-e493-4ffd-8a30-f1122c52b811</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'In Progress' or . = 'In Progress')]</value>
-      <webElementGuid>b30bb07b-b95d-4ea4-8de6-04731d41abce</webElementGuid>
+      <webElementGuid>396e8132-3ab5-4b0c-90c1-c777aea903b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>a63b77d6-8bef-4492-b2b1-fc0c8c92db82</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/5_ManageException_Privilege_Global and Approval process</testCaseId>
+      <testCaseId>Test Cases/EAM/5_Exception_Privilege</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -11,10 +11,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+         <value>//h2[(text() = 'Selected records successfully verified' or . = 'Selected records successfully verified')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>9c3d81d8-0cbf-4da4-90c1-46f1c4b5d96e</webElementGuid>
+      <webElementGuid>50493dd9-ae70-40c3-818e-c1560ccc9e17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Alert-title</value>
-      <webElementGuid>7eea886f-9926-47ad-b2d0-3ce76e72762c</webElementGuid>
+      <webElementGuid>bc29d7b7-dee1-499e-ae5c-03d58d3ba3d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Selected records successfully verified</value>
-      <webElementGuid>ccc3582b-4924-4384-8fe2-1d9adfc5ca3b</webElementGuid>
+      <webElementGuid>2b19e2bd-093a-4e1f-9f22-c230d2ea9c5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
-      <webElementGuid>43a047bd-d504-4ba9-8e78-923b63b663af</webElementGuid>
+      <webElementGuid>3ec7f4c1-2b1e-4da1-adf7-b9c982fe515c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
-      <webElementGuid>c4b455d7-e459-495b-bfff-8c8fe376d992</webElementGuid>
+      <webElementGuid>6e3095f9-34b9-4de0-8baf-a075fc5920e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>3bfaf49f-ac70-4ef5-8c0e-7e0337fa8ff7</webElementGuid>
+      <webElementGuid>0894fc36-ae97-44ea-af88-a992d550ddaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Selected records successfully verified' or . = 'Selected records successfully verified')]</value>
-      <webElementGuid>76de8001-4f3c-417e-b438-9131fcc4ed3e</webElementGuid>
+      <webElementGuid>5c598901-4a0f-468e-849e-f5e4712f62b3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

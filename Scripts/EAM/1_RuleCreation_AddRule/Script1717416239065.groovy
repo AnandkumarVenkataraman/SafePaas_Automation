@@ -100,6 +100,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivit
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Tag/span_1 -                    1 of           _e353a0'), 
     FailureHandling.OPTIONAL)
 
+WebUI.refresh()
+
 WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
 
 WebUI.click(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
@@ -215,9 +217,11 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/ManageActivit
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_ui-button-icon ui-icon ui-icon-closethick'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_Manage Activity'))
+WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/a_Manage Activity'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
+
+WebUI.click(findTestObject('deba1/ManageActivity/Page_Manage Tag/a_click _Manage Activity'))
 
 WebUI.comment('Click on Manage Activity')
 
@@ -341,11 +345,15 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity
 
 WebUI.comment('Close the Entry Details')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_a-TreeView-toggle'))
+WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Activity Entries/span_a-TreeView-toggle'))
+WebUI.verifyElementClickable(findTestObject('deba1/ManageActivity/Page_Activity Entries/Define Scope_Navigation Menu'))
+
+WebUI.doubleClick(findTestObject('deba1/ManageActivity/Page_Activity Entries/Define Scope_Navigation Menu'))
 
 WebUI.comment('click on the Define Scope Navigation dropdown menu')
+
+not_run: WebUI.refresh()
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Review Rules/a_Manage Rules'))
 
@@ -360,6 +368,8 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.comment('select the environment as "KTLN_CloudERP"')
 
+WebUI.delay(10)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Add Rule (1) (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Add Rule (1) (1) (1)'))
@@ -369,7 +379,7 @@ WebUI.comment('Click on the Add Rule')
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_May172024_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_June03_V1')
 
 WebUI.comment('Enter the name of the rule')
 
@@ -377,7 +387,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
-    'Maintain Customer Master vs. Maintain Supplier Master_May172024_V1')
+    'Maintain Customer Master vs. Maintain Supplier Master_June03_V1')
 
 WebUI.comment('Enter the Description for the Rule')
 
@@ -691,7 +701,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'May17')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'June03_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Apply (1)'))
 
@@ -774,7 +784,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'May17')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'June03_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Apply'))
 

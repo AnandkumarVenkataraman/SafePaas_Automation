@@ -21,21 +21,33 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
+WebUI.comment('launch the url in IQA : https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
 WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_P101_COMPANY'), 'KAT')
 
+WebUI.comment('Enter the company as kAT')
+
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_P101_USERNAME'), 'KATALON_ADMIN')
+
+WebUI.comment('Enter username as KATALON_ADMIN')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
+WebUI.comment('Enter Password')
+
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/button_Login'))
+
+WebUI.comment('Click on Login button')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Inbox'), 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Inbox'))
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Inbox'))
+
+WebUI.comment('Click on Inbox button')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_Actions'), 0)
 
@@ -65,15 +77,19 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionR
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_Apply'))
 
+WebUI.comment('Filter with Subject contains "Approve Payables Invoice vs. Asset Configuration Rule"')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_The Approve Payables Invoice vs. Asset Co_39abe9'))
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_The Approve Payables Invoice vs. Asset Co_39abe9'))
 
+WebUI.comment('Click on the hyperlink of the Rule name')
+
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/div_The Approve Payables Invoice vs. Asset _34ff4f'))
 
-WebUI.mouseOver(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/div_The Approve Payables Invoice vs. Asset _34ff4f'))
+WebUI.comment('Verify the text displayed on the page')
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/div_The Approve Payables Invoice vs. Asset _34ff4f'))
+WebUI.mouseOver(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/div_The Approve Payables Invoice vs. Asset _34ff4f'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/textarea_P3_NORES_TEXTAREA_1'), 
     '')
@@ -81,13 +97,19 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageException_
 WebUI.setText(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/textarea_P3_NORES_TEXTAREA_1'), 
     'Test approve')
 
+WebUI.comment('provide the comment')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/label_Approve'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/label_Approve'))
 
+WebUI.comment('Check the "Approve" checkbox')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/button_Go'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Notification/button_Go'))
+
+WebUI.comment('Click on GO button')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/div_a-IRR-noDataMsg-icon'), 
     FailureHandling.OPTIONAL)
@@ -100,34 +122,54 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionR
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Logout'))
 
+WebUI.comment('LogOut as KATALON_ADMIN')
+
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_P101_COMPANY'), 'KAT')
+
+WebUI.comment('Enter the company as kAT')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_P101_USERNAME'), 'KTLN_EAM_USER1')
 
+WebUI.comment('Enter username as KTLN_EAM_USER1')
+
 WebUI.setEncryptedText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
+WebUI.comment('Enter the Password')
+
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/button_Login'))
+
+WebUI.comment('Click on Login button')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle'))
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle'))
 
+WebUI.comment('Click on AccessPaaS navigation dropwdown menu')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle_1'))
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle_1'))
+
+WebUI.comment('Click on Enterprise Access Monitor navigation dropwdown menu')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle_1_2'))
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle_1_2'))
 
+WebUI.comment('Click on Detect Violation navigation dropwdown menu')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Manage Exception_1'))
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Manage Exception_1'))
+
+WebUI.comment('Click on Manage Exceptions from the Navigation menu')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'), 
     'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+
+WebUI.comment('Select the Environment as "KTLN_CloudERP"')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
 
@@ -146,16 +188,20 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/input_Expression_p_ignore_10'), 
-    'JustificationRole_Apr17_V1')
+    'JustificationRole_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
+WebUI.comment('Filter with the Justification name provided earlier')
+
 WebUI.scrollToElement(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'))
+
+WebUI.comment('Verify the status as "Approved"')
 
 WebUI.delay(3)
 

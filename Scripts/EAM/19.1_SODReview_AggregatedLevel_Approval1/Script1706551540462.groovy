@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/AggregatedLevel_S
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD8F5E7868ED901ACB044A5AB808A25B4B')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD79F02766FE9744A3FB025B1D21C5A0E0')
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Actions - 40'))
 
@@ -104,6 +104,18 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AggregatedL
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/button_a-Button a-IRR-button a-Button--noUI_9e60bf'))
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Actions (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Actions (1)'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Rows Per Page (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Rows Per Page (1)'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_All (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_All (1)'))
+
 WebUI.verifyElementClickable(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/inputselectUnselectAll 202'))
 
 WebUI.click(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/inputselectUnselectAll 202'))
@@ -125,7 +137,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AggregatedLevel_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/textarea_P10_JUSTIFICATION (1) (1) (1) (1) (1)'), 
-    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar08_V3')
+    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_May28_V2')
 
 WebUI.takeFullPageScreenshot()
 
@@ -161,7 +173,7 @@ WebUI.verifyElementText(findTestObject('deba3/AggregatedLevel_SODReviewApproval/
     '')
 
 WebUI.setText(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/input_p_ignore_10 -2'), 
-    'KTLN_SODReview_Mar08_V3')
+    'KTLN_SODReview_May28_V2')
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Apply - 44'))
 

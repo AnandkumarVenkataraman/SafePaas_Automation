@@ -4,17 +4,26 @@
    <name>span_a-TreeView-toggle</name>
    <tag></tag>
    <elementGuidId>775e5381-a9d3-4b79-9e4f-9dc5a26268db</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;t_TreeNav_231&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>#t_TreeNav_231 > span.a-TreeView-toggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_231']/span</value>
+         <value>//a[text()='SafePaaS User Application Listing']//following::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7ca95ddb-b0f1-4f39-bd83-fd692b49d140</webElementGuid>
+      <webElementGuid>d40c2753-db38-4a26-a173-752e1c47ef3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>434bdf0e-8041-4d3c-9b2e-6a1a9684450e</webElementGuid>
+      <webElementGuid>133110ff-f2a1-49d4-a5e3-db1229fd8585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_231&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>34e3d640-30fe-4690-9d1d-7bd0043e572a</webElementGuid>
+      <webElementGuid>d9c18b13-0276-4119-89b2-41bd435b2dc2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_231']/span</value>
-      <webElementGuid>41a33d2f-1794-4b20-b252-a7616612d9c5</webElementGuid>
+      <webElementGuid>a242fe1b-222f-4c64-a8c6-a71e18377112</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +63,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li/ul/li[6]/span</value>
-      <webElementGuid>36c38d5f-cab0-46b8-91c5-106cf67d2835</webElementGuid>
+      <webElementGuid>1ea0cb98-02ce-4c4d-98d8-5fa5d68c91f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

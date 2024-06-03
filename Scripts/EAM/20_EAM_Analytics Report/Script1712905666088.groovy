@@ -336,20 +336,17 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/span_a-TreeView-toggle'), 
-    0)
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Violation Matrix by User/span_a-TreeView-toggle'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/span_a-TreeView-toggle'))
+WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Violation Matrix by User/span_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/span_a-TreeView-toggle'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Violation Matrix by User/span_a-TreeView-toggle_1'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/span_a-TreeView-toggle_1'))
+WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Violation Matrix by User/span_a-TreeView-toggle_1'))
 
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/span_a-TreeView-toggle_1'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Violation Matrix by User/a_Scheduled Downloads'))
 
-WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_Intra Role Violation Details Report/a_Scheduled Downloads - 1110'))
-
-WebUI.click(findTestObject('deba4/EAM_Analytics/Page_Intra Role Violation Details Report/a_Scheduled Downloads - 1110'))
+WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Violation Matrix by User/a_Scheduled Downloads'))
 
 WebUI.delay(5)
 

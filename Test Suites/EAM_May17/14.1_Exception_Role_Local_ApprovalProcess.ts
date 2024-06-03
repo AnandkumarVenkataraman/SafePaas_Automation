@@ -15,7 +15,7 @@
       <guid>1fc103f2-dbc3-4b1d-9056-f62d09ed3330</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/4.1_ManageException_Role_Local_ApprovalProcess</testCaseId>
+      <testCaseId>Test Cases/EAM/4.1_Exception_Role_ApprovalProcess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

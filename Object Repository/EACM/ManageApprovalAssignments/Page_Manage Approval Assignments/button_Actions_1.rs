@@ -6,15 +6,19 @@
    <elementGuidId>c11d238d-2c41-433a-ac73-08f6343112d8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='R325277008001686906_ig_toolbar_actions_button']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'R325277008001686906_ig_toolbar_actions_button' and (text() = 'Actions' or . = 'Actions')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#R325277008001686906_ig_toolbar_actions_button</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'R325277008001686906_ig_toolbar_actions_button' and (text() = 'Actions' or . = 'Actions')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1401f2ce-dcce-4193-b345-65f7bf28dcf8</webElementGuid>
+      <webElementGuid>44979cae-ab0a-4e1d-828e-230f36308e45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>decd3135-e47e-4a85-bdfd-0695022552e7</webElementGuid>
+      <webElementGuid>61b83f00-45df-4546-a7aa-b1b2bcebe56e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-Toolbar-item</value>
-      <webElementGuid>d8955418-564b-47dc-b6c3-3f7741aba0e7</webElementGuid>
+      <webElementGuid>2daf88fa-7b86-48b0-8d08-4fe3f845604a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R325277008001686906_ig_toolbar_actions_button</value>
-      <webElementGuid>ff9e72b6-6bdb-4939-9eaa-0cc59e2ff156</webElementGuid>
+      <webElementGuid>94556198-e937-455d-82c5-543a8b0d0d1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>R325277008001686906_ig_toolbar_actions_button_menu</value>
-      <webElementGuid>3bec5476-434e-4796-8a4f-eb03c6e5900d</webElementGuid>
+      <webElementGuid>f91104a5-fcce-47d7-a95d-d06a881b8285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>35a764a7-80b8-4285-87f0-74536af760e7</webElementGuid>
+      <webElementGuid>ef462180-59d0-4e19-9d31-7c695d634a25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8334879d-148b-4b5e-a4e9-c6e7688d423d</webElementGuid>
+      <webElementGuid>4ae98879-9c03-4cdc-8627-e208e3fb7d15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actions</value>
-      <webElementGuid>00c6ace1-93ce-4b84-99e9-e0e0845bc974</webElementGuid>
+      <webElementGuid>a9d99153-af31-4339-8ad0-c36106c10579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R325277008001686906_ig_toolbar_actions_button&quot;)</value>
-      <webElementGuid>6b473632-b946-48a7-a0bf-841f8dcba9cb</webElementGuid>
+      <webElementGuid>5124a6a2-6a1f-4017-85f7-90c5363c201b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R325277008001686906_ig_toolbar_actions_button']</value>
-      <webElementGuid>ee92f38c-931d-4868-b51d-281db3ee626d</webElementGuid>
+      <webElementGuid>ae2ed0c8-ba6d-403f-b946-a4cfcefcc637</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R325277008001686906_ig_toolbar']/div/div[4]/button</value>
-      <webElementGuid>d9fd6028-fdb9-4b72-839f-878c83e6d9a7</webElementGuid>
+      <webElementGuid>f8d15ba9-5f7c-4bbc-9b30-27e150006c65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>07913b72-00b6-4a57-b3fb-31928f86bb23</webElementGuid>
+      <webElementGuid>c0123d1e-8788-4a5b-ae02-95e4e86937b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'R325277008001686906_ig_toolbar_actions_button' and (text() = 'Actions' or . = 'Actions')]</value>
-      <webElementGuid>febeb4b7-893c-40b2-8fd6-677a2b53d949</webElementGuid>
+      <webElementGuid>16dfb679-3ab0-40f0-b4b9-e8cce2a338ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

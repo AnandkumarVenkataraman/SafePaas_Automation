@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>4_ManageException_Role_Local</name>
+   <name>4_Exception_Role</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>345ece5e-eb68-47fb-8739-2d48385007a8</testCaseGuid>

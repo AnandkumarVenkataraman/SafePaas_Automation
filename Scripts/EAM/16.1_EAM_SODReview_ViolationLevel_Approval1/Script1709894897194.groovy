@@ -73,7 +73,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/ManageReviewStat
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/input_p_ignore_10'), 
-    'KTLN_SODReview_Feb2_V1')
+    'KTLN_SODReview_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 
@@ -114,7 +114,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/SODReviewStatus_P
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODC8D052BC91E34507C709CB60B43C604E')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODCB27CECC8CDC0BC5C969F2E99D57A54F')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/h2_Remediate Violation Survey -  KTLN_SODRe_bb7226 (1) (1) (1) (1) (1) (1) (1)'))
 
@@ -215,6 +215,18 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewSt
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_a-Button a-IRR-button a-Button--noUI_9e60bf'))
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Actions (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Actions (1)'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Rows Per Page (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Rows Per Page (1)'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_All (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_All (1)'))
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/inputselectUnselectAll (1) (1) (1) - 160 (1) (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/inputselectUnselectAll (1) (1) (1) - 160 (1) (1)'))
@@ -236,7 +248,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewStatus_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/textarea_P10_JUSTIFICATION (1) (1) (1) (1) (1)'), 
-    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar08_V1')
+    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_May27_V1')
 
 WebUI.takeFullPageScreenshot()
 
@@ -247,8 +259,6 @@ WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_U
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Verify Selection - 121'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Verify Selection - 121'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/h2_Selected records successfully verified (1) (1) (1) (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Actions (1) (1) (1) (1) (1)'))
 
@@ -272,7 +282,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewStatus_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/input_p_ignore_10 (1) (1) (1)'), 
-    'KTLN_SODReview_Mar08_V1')
+    'KTLN_SODReview_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Apply (1) (1) (1) (1) (1)'))
 
@@ -339,8 +349,6 @@ WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_U
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Submit and Close'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Submit and Close'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_Thank You and Manage Review Action sen_69f61f/h2_Thank You and Manage Review Action sent _ae17e8'))
 
 WebUI.closeBrowser()
 

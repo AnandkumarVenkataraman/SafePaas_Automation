@@ -6,15 +6,19 @@
    <elementGuidId>50fd4029-c22d-4c7a-8a23-9603e660ee20</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='R163105974055422926_column_name']</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'R163105974055422926_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'PriorityMessage TypeRecipient RoleSubjectBegin DateDue DateEnd DateDisplay StatusFrom UserTo UserName' or . = 'PriorityMessage TypeRecipient RoleSubjectBegin DateDue DateEnd DateDisplay StatusFrom UserTo UserName')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#R163105974055422926_column_name</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='R163105974055422926_column_name']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>66bd04f7-5b41-4c3a-8bc8-93d41b73376e</webElementGuid>
+      <webElementGuid>1ac28aeb-d273-434b-a970-6e693009c7d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R163105974055422926_column_name</value>
-      <webElementGuid>f1296473-cace-4523-8d75-773b129beadd</webElementGuid>
+      <webElementGuid>7769b61a-08ce-4376-a4d2-7963c4fabd72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Column</value>
-      <webElementGuid>372f2163-bc00-40e2-802e-d637d8a757c4</webElementGuid>
+      <webElementGuid>ae870026-0221-4493-84cf-6fd5b7ed10bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>p_ignore_10</value>
-      <webElementGuid>8061fd30-f4d0-47bd-9d7d-66bfe18bc0c0</webElementGuid>
+      <webElementGuid>d5e19da8-4b54-46d6-b504-6eb156c2d3df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>914c5bee-0d81-48b6-bdf8-afd0646a590a</webElementGuid>
+      <webElementGuid>37b2e580-3bd8-4b08-9337-d4b51e84a27d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-item-select</value>
-      <webElementGuid>c63b20fa-be8e-4ebf-8daa-431a3221d1df</webElementGuid>
+      <webElementGuid>eb3dd3b9-6ed8-482d-b3c2-b7f9c494989a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PriorityMessage TypeRecipient RoleSubjectBegin DateDue DateEnd DateDisplay StatusFrom UserTo UserName</value>
-      <webElementGuid>ea93d9b8-f3b6-4196-bd06-14dbecf90489</webElementGuid>
+      <webElementGuid>bc1f001c-921b-4309-9af0-e193731cc23f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R163105974055422926_column_name&quot;)</value>
-      <webElementGuid>e53907b1-96cc-414f-89c1-a469e4a3d9a3</webElementGuid>
+      <webElementGuid>dee60f97-ed61-454a-816c-e53aaf21538e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='R163105974055422926_column_name']</value>
-      <webElementGuid>963fee8d-a075-46d8-b9db-865209ce3992</webElementGuid>
+      <webElementGuid>4f768219-1906-4dff-b2f5-7a8c0803dde4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R163105974055422926_column_filter']/div/div/div/div[2]/select</value>
-      <webElementGuid>55aa5dff-d325-4183-bd55-3b065bf93a0f</webElementGuid>
+      <webElementGuid>f6dbc641-430d-4b5e-9f5e-fc1cb86bf0ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>4722601a-2096-4cf4-ae55-1c2fef0ffcf6</webElementGuid>
+      <webElementGuid>3d7ff463-9c4e-47b4-8ddd-b330b6473623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'R163105974055422926_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'PriorityMessage TypeRecipient RoleSubjectBegin DateDue DateEnd DateDisplay StatusFrom UserTo UserName' or . = 'PriorityMessage TypeRecipient RoleSubjectBegin DateDue DateEnd DateDisplay StatusFrom UserTo UserName')]</value>
-      <webElementGuid>efee9458-ffc1-42ac-b8ce-6f0e78e59fc9</webElementGuid>
+      <webElementGuid>fbfdab43-c245-4ed4-b888-f3192738a175</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

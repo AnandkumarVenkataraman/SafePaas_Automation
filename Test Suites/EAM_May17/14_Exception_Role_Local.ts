@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>73c4913e-8b4b-4ff5-811d-edf2c7bd35c0</testSuiteGuid>
    <testCaseLink>
-      <guid>d86ab81c-8405-4c48-9009-07a003372e74</guid>
+      <guid>2dd11849-9228-43bd-a700-35ddac4196c2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/4_ManageException_Role_Local</testCaseId>
+      <testCaseId>Test Cases/EAM/4_Exception_Role</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

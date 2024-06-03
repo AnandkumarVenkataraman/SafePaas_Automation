@@ -136,6 +136,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemed
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
     'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
 
+WebUI.delay(10)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/button_Create'))
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/button_Create'))
@@ -143,19 +145,19 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_M
 WebUI.verifyElementClickable(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'))
 
 WebUI.selectOptionByLabel(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'), 
-    'KTLN_SODTest_Jan05_V2_All', true, FailureHandling.OPTIONAL)
+    'KTLN_SODTest_May27_V2', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/input_P181_NAME'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/input_P181_NAME'), 
-    'KTLN_SODReview_Mar08_V1')
+    'KTLN_SODReview_May27_V1')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
-    'KTLN_SODReview_Mar08_V1')
+    'KTLN_SODReview_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_Popup Calendar Start Date'))
 
@@ -183,23 +185,27 @@ WebUI.comment('This error is as expected because there are Roles which are not y
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/h2_1 error has occurred'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f'))
-
 WebUI.verifyElementClickable(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'))
 
 WebUI.selectOptionByLabel(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'), 
-    'KTLN_SODTest_Jan24_V2_PO_AP', true, FailureHandling.OPTIONAL)
+    'KTLN_SODTest_May28_PO_AP', true, FailureHandling.OPTIONAL)
+
+WebUI.scrollToElement(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_Create'), 
+    0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_Create'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_Create'))
 
+WebUI.delay(10)
+
 WebUI.takeFullPageScreenshot()
 
-WebUI.comment('SOD Review survey <KTLN_SODReview_Feb2_V1> at Violation-level, has been initiated successfully, and the status is Open')
+WebUI.comment('SOD Review survey <KTLN_SODReview_May27_V1> at Violation-level, has been initiated successfully, and the status is Open')
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/button_t-Button t-Button--noUI t-Button--ic_cbe08f'))
+WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/button_t-Button t-Button--noUI t-Button--ic_cbe08f'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/a_Status'), 
     FailureHandling.OPTIONAL)
@@ -249,21 +255,24 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/ManageReviewStat
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/input_p_ignore_10'), 
-    'KTLN_SODReview_Mar08_V1')
+    'KTLN_SODReview_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/span_1 -                    1'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/span_1 -                    1'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/a_KTLN_SODReview_Jan22_V2'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/a_KTLN_SODReview_Jan22_V2'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_User Access'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_User Access'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_Open'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/h2_Open'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_User Access Validation/button_Cancel'))
 

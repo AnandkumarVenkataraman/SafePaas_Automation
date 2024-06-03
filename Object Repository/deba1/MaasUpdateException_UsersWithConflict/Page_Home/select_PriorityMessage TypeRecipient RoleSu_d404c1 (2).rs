@@ -6,15 +6,15 @@
    <elementGuidId>fd9537a7-bdce-4605-88a3-843d5a2e4341</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R163105974055422926_column_name</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='R163105974055422926_column_name']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R163105974055422926_column_name</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -6,16 +6,16 @@
    <elementGuidId>4776336d-1b4e-4261-8f44-10776afaa391</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1001:130:13209609832953:::130::' and (text() = 'SOD Review Configuration' or . = 'SOD Review Configuration')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>a.a-TreeView-label.is-focused</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[1]/ul/li[6]/ul/li[4]/div[2]/a</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = 'f?p=1001:130:13209609832953:::130::' and (text() = 'SOD Review Configuration' or . = 'SOD Review Configuration')]</value>
+         <value>//a[contains(text(),'SOD Review Configuration')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3d0c1234-7516-47d5-b726-55d46d919e91</webElementGuid>
+      <webElementGuid>59e48c8d-d9e5-4493-b799-8c5023d3fe0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>21ad2e6f-855a-46be-a2f3-c6c0dad2e86e</webElementGuid>
+      <webElementGuid>8c65ad36-9c81-44c1-989f-9d7d032f37ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>208bd158-611c-4aaa-a346-694bd09234d7</webElementGuid>
+      <webElementGuid>e4f1e386-c951-43e7-bc0a-aa8ee458bcd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>be37417e-1609-4838-a6c2-3a151c0ba423</webElementGuid>
+      <webElementGuid>2ff26208-8d48-47cb-abed-115b0a429b64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:130:13209609832953:::130::</value>
-      <webElementGuid>e4d0b3f0-081d-4f16-94c7-b2bde4f36045</webElementGuid>
+      <webElementGuid>174f516c-4ede-42e0-b6fb-e19ec9da50a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>39a8595f-e6b3-4bc8-910c-34001dbf45c7</webElementGuid>
+      <webElementGuid>24e9549c-7c6d-406a-96c1-3eb28cc7974d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>03b66058-cc53-4555-919f-60eb3dd6bde6</webElementGuid>
+      <webElementGuid>372ca9ef-8b5f-49bb-9841-a07f998fb810</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SOD Review Configuration</value>
-      <webElementGuid>c15d5d9f-b61d-4360-9bd0-4690e9ba36c2</webElementGuid>
+      <webElementGuid>dddcf9c6-4a38-4684-9050-fbe0558251de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_235&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>577055ac-f7c9-4ae9-bc80-724a9727ddc3</webElementGuid>
+      <webElementGuid>73407efd-f192-4adf-98ce-2d8391337de1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_235']/div[2]/a</value>
-      <webElementGuid>1f3a8a0a-67b4-4d7b-b9ab-d8051285ac9a</webElementGuid>
+      <webElementGuid>7d6f4442-0adf-4ebe-a478-37d417c64ed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SOD Review Configuration')]</value>
-      <webElementGuid>384e5ff5-66a7-4868-9a4d-cae63f0380a2</webElementGuid>
+      <webElementGuid>731a429c-2a24-45f7-a35b-edc0330209a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:130:13209609832953:::130::')]</value>
-      <webElementGuid>d98ce2de-c680-48d6-a2bd-81ea8e7ea696</webElementGuid>
+      <webElementGuid>15fba62a-3c98-453d-9d2a-a4c9c3407421</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li/ul/li[6]/ul/li[4]/div[2]/a</value>
-      <webElementGuid>7779b269-cff9-4d41-865e-7cf8f9b81248</webElementGuid>
+      <webElementGuid>3b3a4679-ff80-46a8-8a94-a2754ad92d86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:130:13209609832953:::130::' and (text() = 'SOD Review Configuration' or . = 'SOD Review Configuration')]</value>
-      <webElementGuid>8a1c4924-42b2-43ed-88ac-32b13874518f</webElementGuid>
+      <webElementGuid>1c728c9d-6fa9-4135-abe6-8fb44c8a0ff1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

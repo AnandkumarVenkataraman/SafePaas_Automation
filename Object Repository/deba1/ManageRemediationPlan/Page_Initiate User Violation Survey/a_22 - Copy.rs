@@ -6,12 +6,16 @@
    <elementGuidId>3a9b4274-feb9-4486-8359-ec9bf5dea482</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = '22' or . = '22')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>a.ui-state-default.ui-state-highlight.ui-state-hover</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a</value>
+         <value>(//*[contains(@class, 'today')])</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5a2f55dc-bb40-46fb-8a46-dc22d2608f3e</webElementGuid>
+      <webElementGuid>5da8cacf-0777-48fc-ab34-21ddd290b6f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-state-default ui-state-highlight ui-state-hover</value>
-      <webElementGuid>eaff506e-8cb2-4283-9b5e-2ca9c011238d</webElementGuid>
+      <webElementGuid>86bfb5f9-06a0-4681-acb7-04f82d913a92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>56313461-6222-4aeb-8efd-8652cdacc741</webElementGuid>
+      <webElementGuid>25468e10-cf83-40a7-884a-6edc078fe33e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>aria-current</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f39fe85a-c31d-4d84-be6f-ad7b9daaf58c</webElementGuid>
+      <webElementGuid>9e3f9aea-6fa3-45d2-93e9-90d370006281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>data-date</name>
       <type>Main</type>
       <value>22</value>
-      <webElementGuid>06a69269-5113-459a-a148-ff99d96b9f9e</webElementGuid>
+      <webElementGuid>e2b875b4-0311-41ef-b96c-6b49d1a7e8ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>22</value>
-      <webElementGuid>d3a70208-c732-4e3f-93ff-94d524c53fac</webElementGuid>
+      <webElementGuid>d0349391-c6be-479b-a05d-6140c6953067</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[4]/td[@class=&quot;ui-datepicker-days-cell-over  ui-datepicker-today&quot;]/a[@class=&quot;ui-state-default ui-state-highlight ui-state-hover&quot;]</value>
-      <webElementGuid>668d7b81-355a-4ed7-af6e-a47cd9aa6b2f</webElementGuid>
+      <webElementGuid>c8d99e4b-67ff-4973-b330-31cbabb462be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a</value>
-      <webElementGuid>7026d58c-f9e6-4bf6-8774-43180e621677</webElementGuid>
+      <webElementGuid>93442b53-9ff3-4b37-ac6f-ae37b7b671d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'22')]</value>
-      <webElementGuid>034aae0a-c405-42a5-abdd-9befc8061d1d</webElementGuid>
+      <webElementGuid>cdf0977d-793e-4c8f-85a1-bff8f695139e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[2]</value>
-      <webElementGuid>62660490-0121-4d95-b93c-b4443bb33878</webElementGuid>
+      <webElementGuid>b57708d5-46e0-4a13-8cf6-4ce631975556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/a</value>
-      <webElementGuid>84a6ff5f-1a1b-44b4-9d14-c2616db9c4b7</webElementGuid>
+      <webElementGuid>6fcdf0fd-fc0f-4d0c-9327-ef15c5317a01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = '22' or . = '22')]</value>
-      <webElementGuid>3d6a5300-6b91-403f-bf18-a734b2e777de</webElementGuid>
+      <webElementGuid>0a51b928-88ad-40e8-91e7-508302410d91</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

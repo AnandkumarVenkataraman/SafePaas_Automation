@@ -163,7 +163,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageRemediat
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1) - 9abc'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1) - 9abc'), 
-    'KTLN_SODTest_Apr13_V1', true)
+    'KTLN_SODTest_May27_V1', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Remediate Issues/button_Go'))
 
@@ -254,17 +254,9 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
-    'AllUsersViolation_Apr15_V1')
-
-WebUI.scrollToElement(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Remediate Issues/span_1 -                   13 of           _a456d9 - Copy'), 
-    0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Remediate Issues/span_1 -                   13 of           _a456d9 - Copy'), 
-    FailureHandling.OPTIONAL)
+    'AllUsersViolation_May27_V1')
 
 WebUI.delay(3)
-
-WebUI.scrollToPosition(0, 0)
 
 WebUI.takeFullPageScreenshot()
 

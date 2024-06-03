@@ -6,15 +6,19 @@
    <elementGuidId>556d0541-b7ea-4681-8168-a9c426755756</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Aggregated Level' or . = 'Aggregated Level')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#P130_REMEDIATE_ACTION > div.apex-item-grid.radio_group > div.apex-item-grid-row > div.apex-item-option > label.u-radio</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='P130_REMEDIATE_ACTION']/div/div/div/label</value>
+         <value>//label[(text() = 'Aggregated Level' or . = 'Aggregated Level')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>9d494d0c-0622-4f09-a333-595c2156d7c8</webElementGuid>
+      <webElementGuid>fc968885-a160-480c-971b-ab2a77bd2b7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>0a64d039-f8a0-48dd-808d-2a42058d041e</webElementGuid>
+      <webElementGuid>bb59d023-bc48-412e-8a3a-5f86eb0a70e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P130_REMEDIATE_ACTION_0</value>
-      <webElementGuid>4178938d-974e-410c-a6d1-3ba779637a06</webElementGuid>
+      <webElementGuid>593053c8-93a7-4edd-88de-83574c91eb55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Aggregated Level</value>
-      <webElementGuid>5cd09030-cc02-427c-8818-ba584a35aba6</webElementGuid>
+      <webElementGuid>4711706e-1596-4660-a86a-5333d960c6a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P130_REMEDIATE_ACTION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>927bbb20-10ad-4927-8682-9f64105a5f03</webElementGuid>
+      <webElementGuid>2964eb23-eca2-4b5a-98d7-deb550aade96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P130_REMEDIATE_ACTION']/div/div/div/label</value>
-      <webElementGuid>ded29469-4d57-4435-b2a1-945e0fb81054</webElementGuid>
+      <webElementGuid>0ba6732b-e234-49de-bfa0-6707f4190951</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/div/div/div/label</value>
-      <webElementGuid>c06d8c9f-596e-48d3-bb1d-d1dd51990f44</webElementGuid>
+      <webElementGuid>62d8dc8d-26a4-4a78-8959-34996ed9bcf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Aggregated Level' or . = 'Aggregated Level')]</value>
-      <webElementGuid>bf4e6f8b-af50-45de-a72c-46283137f1b7</webElementGuid>
+      <webElementGuid>a740d3e1-2c90-4e24-8169-ed3090c0a2e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

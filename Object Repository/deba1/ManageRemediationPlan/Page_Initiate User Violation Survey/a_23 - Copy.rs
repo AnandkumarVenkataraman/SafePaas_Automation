@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[3]/a</value>
+         <value>(//*[contains(@class, 'today')])//following::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>84a65c62-a9ef-4e4e-99ec-35a0fe6449a0</webElementGuid>
+      <webElementGuid>fa340d33-0f70-4228-a782-d4fc9a940bbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-state-default ui-state-hover</value>
-      <webElementGuid>7705cead-674a-4df8-9b35-5761b0a59c45</webElementGuid>
+      <webElementGuid>a4485ad7-0d63-43bb-998c-6c2ab537c240</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>7d797271-8d4a-471a-8a97-46a3f82df2a4</webElementGuid>
+      <webElementGuid>93d6cf93-39bf-474a-a149-7f604877e461</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-current</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0c4fb2a9-8823-4f84-a6f2-32f277132ca2</webElementGuid>
+      <webElementGuid>e322800d-7089-4195-bcca-5b0fbc383a2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-date</name>
       <type>Main</type>
       <value>23</value>
-      <webElementGuid>58465634-c9d6-4bc8-9ea8-393286a83539</webElementGuid>
+      <webElementGuid>9dfb8880-f0eb-49fc-954c-b02b6f3f078b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>23</value>
-      <webElementGuid>66d4d407-d533-4dee-87c2-6132368c1544</webElementGuid>
+      <webElementGuid>ab94d33c-8c81-4ddc-9bb6-bb18ad229ee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[4]/td[@class=&quot;&quot;]/a[@class=&quot;ui-state-default ui-state-hover&quot;]</value>
-      <webElementGuid>3b6cc9b9-2bd0-45c4-a19f-d8e3193f7f24</webElementGuid>
+      <webElementGuid>c3b4aee7-84eb-4f57-87e2-26e03a585c5f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td[3]/a</value>
-      <webElementGuid>0dc0fd27-858e-43e0-8ec9-77e57fe10158</webElementGuid>
+      <webElementGuid>861f750d-ee35-4ad8-be8c-ff521933ab42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'23')]</value>
-      <webElementGuid>d18466db-fd94-4676-b4d5-6cb3a5518b0c</webElementGuid>
+      <webElementGuid>e5b231c5-df9d-484f-88b0-dd31bbd8b30d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[3]</value>
-      <webElementGuid>46105f9a-d9f8-44cc-bf0c-bfa1f7bd0d89</webElementGuid>
+      <webElementGuid>f2117529-d519-45db-86ae-91a69fe4a237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/a</value>
-      <webElementGuid>9d1ebe56-388a-43b2-932c-3cb85443d03f</webElementGuid>
+      <webElementGuid>cb82729b-8849-4fd8-b46e-33c0e81dd3a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = '23' or . = '23')]</value>
-      <webElementGuid>e9114227-1ec2-49a5-b925-f70aea8b16fd</webElementGuid>
+      <webElementGuid>083a1410-c8e9-4480-a0a8-355ad70ec71b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

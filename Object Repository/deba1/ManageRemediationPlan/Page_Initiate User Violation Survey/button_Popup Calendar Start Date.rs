@@ -6,12 +6,16 @@
    <elementGuidId>b7326dc5-0346-4ecb-aa78-32ba70cd9324</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Popup Calendar: Start Date' or . = 'Popup Calendar: Start Date')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>button.ui-datepicker-trigger.a-Button.a-Button--calendar</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[6]</value>
+         <value>//button[@type = 'button' and (text() = 'Popup Calendar: Start Date' or . = 'Popup Calendar: Start Date')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d2041ade-1c38-4336-bfb4-bf1b6ac31572</webElementGuid>
+      <webElementGuid>8394a031-512d-4f5e-87fb-3cced73cb863</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>86bd39ca-6d1e-478b-8ced-fce2b9e13297</webElementGuid>
+      <webElementGuid>650aca06-06a2-41a5-b907-e2064a61d208</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-datepicker-trigger a-Button a-Button--calendar</value>
-      <webElementGuid>12976866-db3b-4fed-b903-12d17800cd44</webElementGuid>
+      <webElementGuid>27436d0c-48b9-42a6-b924-83a782ebf054</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Popup Calendar: Start Date</value>
-      <webElementGuid>6527501f-1a1b-4785-bd42-6b55f1a67c88</webElementGuid>
+      <webElementGuid>e780df7e-ee6d-4696-8750-6fcb93ab069a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P181_START_DATE_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-2&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]/button[@class=&quot;ui-datepicker-trigger a-Button a-Button--calendar&quot;]</value>
-      <webElementGuid>64b8b460-22c0-4af2-b0ee-b5db2cdd48ed</webElementGuid>
+      <webElementGuid>856e471c-4b07-48e2-873c-13c58689e9b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>2e447daa-61ad-434a-9002-c46741e4e8f1</webElementGuid>
+      <webElementGuid>9ba40f96-cc8d-4347-a52c-50e62608fac4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P181_START_DATE_CONTAINER']/div[2]/div/button</value>
-      <webElementGuid>42f87a78-ebfb-49cc-a021-545208bcd250</webElementGuid>
+      <webElementGuid>ee55682e-d5b9-4a81-adb6-e494ffabfef2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>0b162003-4583-4443-b567-83db47edaffc</webElementGuid>
+      <webElementGuid>ebf42b8d-ff8f-40fc-b2f5-c4336236601b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Popup Calendar: Start Date' or . = 'Popup Calendar: Start Date')]</value>
-      <webElementGuid>f59faa21-50b6-4555-aeac-9aeb861d60aa</webElementGuid>
+      <webElementGuid>89697eca-65f7-48c8-ac1e-f8fbb4766ab5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

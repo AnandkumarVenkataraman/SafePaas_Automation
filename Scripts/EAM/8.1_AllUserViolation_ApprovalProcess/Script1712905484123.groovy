@@ -70,7 +70,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Create Payments vs. Enter Customer Receipts Rule')
+    'Create Purchase Agreements vs. Manage Payables Activities')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -98,30 +98,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Apr15_V1')
+    'AllUsersViolation_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_ktln_eam_user1'))
-
-WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_ktln_eam_user1'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/a_Logout'))
-
-WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/a_Logout'))
-
-WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Login/input_P101_COMPANY (1) (1)'), 
-    'KAT')
-
-WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Login/input_P101_USERNAME (1) (1)'), 
-    'KATALON_ADMIN')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Login/input_P101_PASSWORD (1) (1)'), 
-    'Ioqy8emDrxi5mkiNQATzxQ==')
-
-WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Login/button_Login (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/a_Inbox_1'))
 
@@ -148,7 +129,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba3/AllUsersViolat
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/input_p_ignore_10'), 'Create Payments vs. Enter Customer Receipts Rule')
+WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/input_p_ignore_10'), 'Create Purchase Agreements vs. Manage Payables Activities')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/button_Apply'))
 
@@ -227,7 +208,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Create Payments vs. Enter Customer Receipts Rule')
+    'Create Purchase Agreements vs. Manage Payables Activities')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -255,7 +236,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Apr15_V1')
+    'AllUsersViolation_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 

@@ -6,15 +6,15 @@
    <elementGuidId>df2bd124-e943-44c6-a592-b11acac583f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.a-IRR-pagination-label</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='search_data_panel']/div[2]/ul/li[2]/span</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-IRR-pagination-label</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

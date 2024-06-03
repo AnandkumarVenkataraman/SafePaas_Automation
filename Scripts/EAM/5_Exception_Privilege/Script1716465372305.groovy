@@ -23,8 +23,6 @@ WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.maximizeWindow()
 
-WebUI.maximizeWindow()
-
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_IQA - Fall 2023_P101_COMPANY (1)'), 
     'KAT')
 
@@ -65,7 +63,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/FilterFalsePosit
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Apr15_V1')
+    'KTLN_SODTest_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -94,7 +92,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionR
 WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'Maintain Supplier Master and Create Payables Invoices')
+WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'Asset Txns vs. IT User & Role Maintenance Rule')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
@@ -116,31 +114,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba10/ExceptionRole
 WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'ee660885')
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
-
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
-
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/span_a-Menu-statusCol'))
-
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Filter'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Rule NameStart Entry NameViolation E_2541a1'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Rule NameStart Entry NameViolation E_2541a1'), 
-    'VIOLATION_ENTRY_NAME', true)
-
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 
-    '')
-
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'AP_CREATE_PAYABLES_INVOICE_PRIV')
+WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'ed239855')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
@@ -162,7 +136,7 @@ WebUI.delay(3)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), 'JustificationPrivilege_Apr17_V4')
+WebUI.setText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), 'JustificationPrivilege_May30_V1')
 
 WebUI.takeFullPageScreenshot()
 
@@ -173,6 +147,10 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Add Exce
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Add Exception/button_Submit (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/Page_Add Exception/button_Submit (1)'))
+
+WebUI.delay(10)
+
+WebUI.scrollToElement(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'), 0)
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'))
 
@@ -200,7 +178,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/input_Expression_p_ignore_10'), 
-    'JustificationPrivilege_Apr17_V4')
+    'JustificationPrivilege_May30_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
@@ -272,7 +250,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba10/ExceptionRole
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), 'Maintain GL Configurations vs. Enter Customer')
+WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), 'Asset Txns vs. IT User & Role Maintenance Rule')
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/button_Apply (1) - U301'))
 
@@ -353,7 +331,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/input_Expression_p_ignore_10'), 
-    'JustificationPrivilege_Apr17_V4')
+    'JustificationPrivilege_May30_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 

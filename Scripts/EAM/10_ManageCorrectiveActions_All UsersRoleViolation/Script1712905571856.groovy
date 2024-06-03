@@ -58,7 +58,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/All User Roles
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'), 
-    'KTLN_SODTest_Apr13_V1', true)
+    'KTLN_SODTest_May27_V1', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Go (1) (1)'))
 
@@ -101,7 +101,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/All User Roles V
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/input_p_ignore_10 (1)'), 
-    'Buyer[ORA_PO_BUYER_JOB]')
+    'Application Implementation Consultant[ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB]')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
@@ -124,14 +124,14 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/All User Roles V
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/input_p_ignore_10 (1)'), 
-    'ee548037')
+    'svcerpintgusr')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/span_1 -                    4 of           _30b9b1'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/span_1 -                    4 of           _30b9b1'), 
     FailureHandling.OPTIONAL)
@@ -171,7 +171,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrective
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
-    'AllUsersRoleViolation_Apr15_V1')
+    'AllUsersRoleViolation_May27_V1')
 
 WebUI.takeFullPageScreenshot()
 

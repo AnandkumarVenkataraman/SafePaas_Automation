@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.setText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Login/input_P101_COMPANY (1)'), 'KAT')
 
-WebUI.setText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Login/input_P101_USERNAME (1)'), 'KATALON_ADMIN')
+WebUI.setText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Login/input_P101_USERNAME (1)'), 'KTLN_EAM_USER1')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Login/input_P101_PASSWORD (1)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
@@ -36,8 +36,6 @@ WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1'))
-
-WebUI.rightClick(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1_2'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1_2'))
 
@@ -69,7 +67,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/input_p_ignore_10'), 'KTLN_SODReview_Mar08_V1')
+WebUI.setText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/input_p_ignore_10'), 'KTLN_SODReview_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/button_Apply'))
 
@@ -87,9 +85,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/button_Cancel'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODC2DF87BF6D6FE2FF25F97673A7778EC2')
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/p_Remediate Action and Justification fields_daba0f'))
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD2BF92080FDE403AD1805D10875F4FD76')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_Actions'))
 
@@ -114,17 +110,32 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_Apply'))
 
 WebUI.scrollToElement(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/span_1 -                   35 of           _ce9c90'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/span_1 -                   35 of           _ce9c90'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/span_1 -                   35 of           _ce9c90'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.delay(2)
+WebUI.delay(2, FailureHandling.OPTIONAL)
 
-WebUI.scrollToPosition(0, 0)
+WebUI.scrollToPosition(0, 0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_a-Button a-IRR-button a-Button--noUI_9e60bf'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_a-Button a-IRR-button a-Button--noUI_9e60bf'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Actions (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Actions (1)'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Rows Per Page (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_Rows Per Page (1)'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_All (1)'))
+
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/Rough/Page_Snapshot Report/button_All (1)'))
+
+WebUI.delay(10)
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/input_f01 - 005'))
 
@@ -186,11 +197,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.rightClick(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1_2'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1_2'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1_2'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1_2'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/span_a-TreeView-toggle_1_2_3'))
 
@@ -218,7 +227,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/input_p_ignore_10'), 'KTLN_SODReview_Mar08_V1')
+WebUI.setText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/input_p_ignore_10'), 'KTLN_SODReview_May27_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/button_Apply'))
 

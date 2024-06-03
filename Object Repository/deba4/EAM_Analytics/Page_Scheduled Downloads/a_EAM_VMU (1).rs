@@ -6,12 +6,11 @@
    <elementGuidId>8d093584-9658-427c-98ea-eff5eb42b153</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='R160866911876310713_col_values_drop']/a[5]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'EAM_VMU')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cc9fcbf9-dd92-4c56-a5e8-993c136cee36</webElementGuid>
+      <webElementGuid>03eea93a-4db3-4d1a-be0a-01de43df1d54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>3534b9fd-0251-404f-9a0a-caa9bbdb438c</webElementGuid>
+      <webElementGuid>f80f4349-7421-43f0-9f42-f87bada057ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>bdf1a918-9df1-4ab9-8b12-9f02691adcca</webElementGuid>
+      <webElementGuid>47bf8eb2-b5a0-46ab-b3a7-298fb9bb9d0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>EAM_VMU</value>
-      <webElementGuid>daab46f3-d3b0-4db1-bf98-b1a3b4bfee17</webElementGuid>
+      <webElementGuid>1a17c9cb-16f9-41ee-9425-f0c77c66d774</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EAM_VMU</value>
-      <webElementGuid>61beabc0-18f6-4182-8dcb-21fe7a549df9</webElementGuid>
+      <webElementGuid>2e6bfd4a-6f31-43c8-a0d1-ed7b1bd12199</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R160866911876310713_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>44076ceb-c9b7-4af8-985f-da8f9f5feeed</webElementGuid>
+      <webElementGuid>55ade9ba-6e63-4d6e-85cb-e5c22d7d23bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R160866911876310713_col_values_drop']/a[5]</value>
-      <webElementGuid>bde7f5ce-d7e9-4990-9da4-4a7f553afd76</webElementGuid>
+      <webElementGuid>09e8f671-5f1b-447d-bb33-9eedafc85e69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'EAM_VMU')]</value>
-      <webElementGuid>efc8a7f4-6a80-41ab-83da-4bd090a7d83f</webElementGuid>
+      <webElementGuid>dd7359e6-57dc-4c03-b219-8d1cbb206877</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[110]</value>
-      <webElementGuid>a00344a1-220a-4e33-8d69-0290d58abe19</webElementGuid>
+      <webElementGuid>0e1b0ee5-fb30-462f-8939-87e3102754a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[5]</value>
-      <webElementGuid>0d80775c-60b9-46c7-af24-6738a7f91d4a</webElementGuid>
+      <webElementGuid>f1e73370-7683-4356-83ba-44424eb6aef9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'EAM_VMU' or . = 'EAM_VMU')]</value>
-      <webElementGuid>1cdba63b-a777-428e-8366-f9d8dd3e49fd</webElementGuid>
+      <webElementGuid>c94c2e61-38a9-4d28-abed-fc0376725252</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

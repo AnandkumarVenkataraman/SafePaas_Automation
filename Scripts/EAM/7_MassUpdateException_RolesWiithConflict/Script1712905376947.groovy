@@ -60,7 +60,7 @@ WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/P
     '')
 
 WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_Apr13_V1')
+    'KTLN_SODTest_May27_V2')
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 

@@ -6,15 +6,19 @@
    <elementGuidId>d3bbe2e4-3d4c-4aa1-a109-79c91f28c544</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'RoleGroup_AP' or . = 'RoleGroup_AP')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>tr:nth-of-type(2) > td.t-Report-cell</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='report_R407297060702584727']/div/div/table/tbody/tr[2]/td</value>
+         <value>//td[(text() = 'RoleGroup_AP' or . = 'RoleGroup_AP')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>5ced807f-926a-4cf0-87b8-d0bdb9f3bfb1</webElementGuid>
+      <webElementGuid>b9ba5d33-10e7-4bf2-8f47-a37431bc563d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Report-cell</value>
-      <webElementGuid>70a9c523-cdd6-4b87-b16b-b878d9d1e252</webElementGuid>
+      <webElementGuid>a439a544-37b1-4a3c-a94a-3b10b7a100fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>headers</name>
       <type>Main</type>
       <value>APPLICATION_NAME</value>
-      <webElementGuid>e89bf365-b8a2-438f-a7c9-0443c9c415fb</webElementGuid>
+      <webElementGuid>f68bdcc4-316d-4a77-b16f-b4680b1cf341</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>RoleGroup_AP</value>
-      <webElementGuid>b2d98f8b-a7ab-4a8c-b504-ac163a2a4418</webElementGuid>
+      <webElementGuid>ead0734f-0737-4bd5-8469-ad1f5771684a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;report_R407297060702584727&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[2]/td[@class=&quot;t-Report-cell&quot;]</value>
-      <webElementGuid>25cb966d-5640-4919-87ab-390cd5c2ac3f</webElementGuid>
+      <webElementGuid>f37ef776-24dd-4be8-9ad5-b06ae6af5c15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='report_R407297060702584727']/div/div/table/tbody/tr[2]/td</value>
-      <webElementGuid>25a313d6-c43a-4f63-9940-e3e2954435c4</webElementGuid>
+      <webElementGuid>05fef9a0-942b-4d52-ad47-92b962e1bb60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td</value>
-      <webElementGuid>28358216-c6b7-4276-a9ca-9e31b030176d</webElementGuid>
+      <webElementGuid>556d6204-7ec0-4205-8bc5-535994d9d21e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'RoleGroup_AP' or . = 'RoleGroup_AP')]</value>
-      <webElementGuid>b5cebe26-9e39-413d-a9bd-7b380c0e8684</webElementGuid>
+      <webElementGuid>1eb9b90b-ebd3-4620-8b32-0dda1cd0c0ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

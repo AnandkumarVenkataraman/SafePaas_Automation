@@ -6,15 +6,19 @@
    <elementGuidId>a4e7c52d-d9bf-406e-ba74-86f68be08905</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'uacReport_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'User NameStart EntryStart Entry NameRule NameRule TypeRule Activity GroupActivityViolation EntryViolation Entry NameViolation Entry DescriptionViolation Path DescriptionViolation StatusException NameException Type CodeException StatusException ScopeRemediation Status of Role Owner VerifiedVerified On (Role Owner)Verified By (Role Owner)Justification of Role OwnerRemediation Status of Rule OwnerVerified By (Rule Owner)Verified On (Rule Owner)Justification of Rule OwnerRole GroupParent Entry Id' or . = 'User NameStart EntryStart Entry NameRule NameRule TypeRule Activity GroupActivityViolation EntryViolation Entry NameViolation Entry DescriptionViolation Path DescriptionViolation StatusException NameException Type CodeException StatusException ScopeRemediation Status of Role Owner VerifiedVerified On (Role Owner)Verified By (Role Owner)Justification of Role OwnerRemediation Status of Rule OwnerVerified By (Rule Owner)Verified On (Rule Owner)Justification of Rule OwnerRole GroupParent Entry Id')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#uacReport_column_name</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='uacReport_column_name']</value>
+         <value>//div[2]/select</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>7fb00a3c-e602-41b3-a790-c78e44249564</webElementGuid>
+      <webElementGuid>9ae7b569-b501-4413-be3a-30d5f86c5853</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>id</name>
       <type>Main</type>
       <value>uacReport_column_name</value>
-      <webElementGuid>a6bcc6dc-e0a5-4786-8aa1-9e09eda984b4</webElementGuid>
+      <webElementGuid>0e1e516d-fbcf-4c96-8da2-b8086aa927d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Column</value>
-      <webElementGuid>629e25d7-a4fc-45a2-bc9f-285ba7708f4e</webElementGuid>
+      <webElementGuid>aeee0e59-6f4b-4c99-a96b-40624c6e2d5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>p_ignore_10</value>
-      <webElementGuid>645ac39f-eba6-4c6f-b470-cfd038927061</webElementGuid>
+      <webElementGuid>630f8b5b-fa23-48aa-9802-898ef3d43f41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>7b748c46-e1e6-4e12-923f-03d4a0de884b</webElementGuid>
+      <webElementGuid>1f5415d1-9d9c-44b7-be0b-9e82561b997b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-item-select</value>
-      <webElementGuid>f915b0ec-40a1-4421-b8eb-ba2433e32c6a</webElementGuid>
+      <webElementGuid>42848e80-af8d-4710-ade0-5f4a2f743a82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>text</name>
       <type>Main</type>
       <value>User NameStart EntryStart Entry NameRule NameRule TypeRule Activity GroupActivityViolation EntryViolation Entry NameViolation Entry DescriptionViolation Path DescriptionViolation StatusException NameException Type CodeException StatusException ScopeRemediation Status of Role Owner VerifiedVerified On (Role Owner)Verified By (Role Owner)Justification of Role OwnerRemediation Status of Rule OwnerVerified By (Rule Owner)Verified On (Rule Owner)Justification of Rule OwnerRole GroupParent Entry Id</value>
-      <webElementGuid>d7ecd35b-168e-49b5-8022-c55f2d3a9360</webElementGuid>
+      <webElementGuid>4959e407-dee1-463c-981d-0df36ec8e7e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;uacReport_column_name&quot;)</value>
-      <webElementGuid>76de859c-6149-45df-a647-84ab9cca3f60</webElementGuid>
+      <webElementGuid>c3107fa3-89a1-419d-9e1b-b0b44cca73c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='uacReport_column_name']</value>
-      <webElementGuid>4c6cb821-deb7-4510-b007-1a7ff79e53c2</webElementGuid>
+      <webElementGuid>85814d94-c720-4e7b-9ef8-97cd68ef13a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='uacReport_column_filter']/div/div/div/div[2]/select</value>
-      <webElementGuid>5b54bcc4-30ce-462f-866d-29976d7b4e51</webElementGuid>
+      <webElementGuid>fd2532fc-6ca2-424c-8145-e6d71a8ecca7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>e4d6e9f2-5374-4f53-874b-c66122bd1828</webElementGuid>
+      <webElementGuid>a7fa1983-d0dd-4bd5-9beb-c66fd57aab02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'uacReport_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'User NameStart EntryStart Entry NameRule NameRule TypeRule Activity GroupActivityViolation EntryViolation Entry NameViolation Entry DescriptionViolation Path DescriptionViolation StatusException NameException Type CodeException StatusException ScopeRemediation Status of Role Owner VerifiedVerified On (Role Owner)Verified By (Role Owner)Justification of Role OwnerRemediation Status of Rule OwnerVerified By (Rule Owner)Verified On (Rule Owner)Justification of Rule OwnerRole GroupParent Entry Id' or . = 'User NameStart EntryStart Entry NameRule NameRule TypeRule Activity GroupActivityViolation EntryViolation Entry NameViolation Entry DescriptionViolation Path DescriptionViolation StatusException NameException Type CodeException StatusException ScopeRemediation Status of Role Owner VerifiedVerified On (Role Owner)Verified By (Role Owner)Justification of Role OwnerRemediation Status of Rule OwnerVerified By (Rule Owner)Verified On (Rule Owner)Justification of Rule OwnerRole GroupParent Entry Id')]</value>
-      <webElementGuid>9ce07536-c9fa-4a61-aa09-acd720d55e10</webElementGuid>
+      <webElementGuid>88e5e722-1837-4f5c-9c73-a66bfc1a7fdc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
