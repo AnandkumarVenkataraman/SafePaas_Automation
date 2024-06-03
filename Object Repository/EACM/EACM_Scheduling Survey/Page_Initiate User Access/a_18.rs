@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//*[contains(@class, 'today')])//following::td[1]</value>
+         <value>(//*[contains(@class, 'today')])//following::td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6de37324-aeb0-481e-86a7-7598ec65f5f3</webElementGuid>
+      <webElementGuid>66fa32af-a875-48f2-8a9e-0f7adf637f2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-state-default ui-state-hover</value>
-      <webElementGuid>80e41850-c5a6-4fa1-a90e-cac7c186b900</webElementGuid>
+      <webElementGuid>b8753d98-486e-4c5e-b768-a741a67e7176</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>fd9f079d-e8ee-47b6-b7d9-a813e04dd535</webElementGuid>
+      <webElementGuid>faaecbd6-0351-4978-9407-701b615c6e75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>18</value>
-      <webElementGuid>698aa9d5-dec8-4aff-828e-016b109f98e9</webElementGuid>
+      <webElementGuid>d3be3f88-149b-44b7-8835-ed2666c92334</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[4]/td[@class=&quot;ui-datepicker-week-end&quot;]/a[@class=&quot;ui-state-default ui-state-hover&quot;]</value>
-      <webElementGuid>1563dbb3-731f-4352-90ee-338bf1513f12</webElementGuid>
+      <webElementGuid>4f7f1de8-ea1c-4329-976e-d43317f29c2f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td/a</value>
-      <webElementGuid>ad44a060-928f-4a1e-8e43-9934d41ddcb4</webElementGuid>
+      <webElementGuid>252f34fe-7d23-437a-b941-54c37178e301</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'18')]</value>
-      <webElementGuid>8bd0e220-d45d-417d-b1c3-994eea743b67</webElementGuid>
+      <webElementGuid>494d78fe-beac-4def-b95c-047b8f6bae46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[3]</value>
-      <webElementGuid>00e6bdec-ead4-44a0-8845-c3e5055f95fb</webElementGuid>
+      <webElementGuid>00af1063-91b5-4efc-995d-05e28209d615</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td/a</value>
-      <webElementGuid>a7136503-47cf-4cef-8ef4-e41a49ea338a</webElementGuid>
+      <webElementGuid>e206a1be-9162-4824-9649-9354fac30d28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = '18' or . = '18')]</value>
-      <webElementGuid>6725cf43-503d-478f-8d38-152a17659f22</webElementGuid>
+      <webElementGuid>e58f3187-1fdb-4d6e-8455-f0df34b6ec76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

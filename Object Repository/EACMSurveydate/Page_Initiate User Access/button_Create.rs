@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_t-Button t-Button--noUI t-Button--ic_cbe08f</name>
+   <name>button_Create</name>
    <tag></tag>
-   <elementGuidId>59bcc5be-ef53-4521-8889-15203f65205f</elementGuidId>
+   <elementGuidId>1559e66e-288e-4514-a6e8-9c940630960d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @title = 'Close']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+         <value>#B163418048216329722</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @title = 'Close']</value>
+         <value>//button[@id='B163418048216329722']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,15 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c44ffc9e-80b0-49a5-9a1a-babb07169482</webElementGuid>
+      <webElementGuid>1e7cd157-605e-449d-a46d-e1f67126a8e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>apex.submit({request:'CREATE',validate:true});</value>
+      <webElementGuid>75ce7b7d-6804-43d7-ba45-9c623c3640a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button t-Button--noUI t-Button--icon t-Button--closeAlert</value>
-      <webElementGuid>4ded8334-c53e-486a-8a92-1fd9783975ce</webElementGuid>
+      <value>t-Button </value>
+      <webElementGuid>6879cc2f-23e0-4d48-b943-93ac9cde5b84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,54 +46,62 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4d0157c4-b88d-4905-8bde-f26c81d0dc86</webElementGuid>
+      <webElementGuid>b422a6ec-4cf1-479a-be6c-17d773b9d725</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>1222eb29-6c6b-42a8-a3d6-9adf1bffa294</webElementGuid>
+      <value>B163418048216329722</value>
+      <webElementGuid>2066944f-27d6-43ba-9881-3e1ebd243d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>2ae3fdba-f30b-4214-a4a6-7c419b7f2690</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-buttons&quot;]/button[@class=&quot;t-Button t-Button--noUI t-Button--icon t-Button--closeAlert&quot;]</value>
-      <webElementGuid>5aa31357-f2d5-448a-8e74-283d574de4e5</webElementGuid>
+      <value>id(&quot;B163418048216329722&quot;)</value>
+      <webElementGuid>76467b2a-78ea-4e03-9af0-572882a4bb4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>581c0493-fca0-41ad-baa9-7a3e2e0152ad</webElementGuid>
+      <value>//button[@id='B163418048216329722']</value>
+      <webElementGuid>0d165dea-2a16-4185-9812-c86c337f7fef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='t_Alert_Success']/div/div[3]/button</value>
-      <webElementGuid>4b913407-5c90-4647-b847-b246e0360e10</webElementGuid>
+      <value>//div[@id='R163417370251329715']/div/div[2]/button</value>
+      <webElementGuid>49aa1e6b-63bd-4934-8900-583cbc4c395b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>21066d63-a7dc-48c7-b838-2f5904f93ef7</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>5243dff8-1e41-45a6-b4de-035c6df4703f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @title = 'Close']</value>
-      <webElementGuid>244e11cf-d642-4164-bc74-7bc0bd75fe58</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'B163418048216329722' and (text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>c2611ead-eb1b-4aa6-ad1e-ec10a3afaeed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

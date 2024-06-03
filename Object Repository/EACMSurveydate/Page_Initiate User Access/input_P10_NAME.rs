@@ -1,111 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Cancel Schedule</name>
+   <name>input_P10_NAME</name>
    <tag></tag>
-   <elementGuidId>96377c96-f624-4261-a824-38672d43fe5f</elementGuidId>
+   <elementGuidId>36fddfae-e27d-4c17-9484-58a442a81af4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @id = 'B172594913995742850' and (text() = 'Cancel Schedule' or . = 'Cancel Schedule')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>#B172594913995742850</value>
+         <value>#P10_NAME</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[2]/button</value>
+         <value>//input[@id='P10_NAME']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7ec4d631-e2c5-41ac-9956-4a6feb7383c6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>void(0);</value>
-      <webElementGuid>3d752823-e115-4b37-9e0c-85486d9b286a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>t-Button t-Button--hot </value>
-      <webElementGuid>c9054bdd-a7e1-47b3-b608-f58a19812434</webElementGuid>
+      <value>input</value>
+      <webElementGuid>18abe871-5acd-42f3-90d9-4595f77b09f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>1ff93624-7753-4bfe-8b2f-4013316192e4</webElementGuid>
+      <value>text</value>
+      <webElementGuid>a8e4a3c9-4371-4227-8555-669315fa83d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>B172594913995742850</value>
-      <webElementGuid>5fb84a39-58e6-46c6-bebb-bc0bff654745</webElementGuid>
+      <value>P10_NAME</value>
+      <webElementGuid>ca24f3bc-0deb-4216-9873-ebe9c065822a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Cancel Schedule</value>
-      <webElementGuid>dd017d6e-0856-4bc7-910e-b89f68d6b113</webElementGuid>
+      <value>P10_NAME</value>
+      <webElementGuid>64ff3147-9b32-4f5d-a427-56efba8631cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_field apex-item-text</value>
+      <webElementGuid>cfbee292-5054-446f-8936-ddb05329d149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>60</value>
+      <webElementGuid>a47e1b6e-b651-4dd1-a8d0-b550e548e019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B172594913995742850&quot;)</value>
-      <webElementGuid>74e19704-5475-49df-969f-cde728c0d924</webElementGuid>
+      <value>id(&quot;P10_NAME&quot;)</value>
+      <webElementGuid>5434b29f-c9ed-459f-a923-c1e287d93065</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='B172594913995742850']</value>
-      <webElementGuid>d86bb721-8faa-4e2b-b56e-c5ff143be0bb</webElementGuid>
+      <value>//input[@id='P10_NAME']</value>
+      <webElementGuid>268cc6bf-df3f-4ddf-b874-c57c6cda6394</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='R163974332438487309']/div/div[2]/button</value>
-      <webElementGuid>956f7941-50ad-40dc-9299-1773dd94fc02</webElementGuid>
+      <value>//div[@id='P10_NAME_CONTAINER']/div[2]/div/input</value>
+      <webElementGuid>0703f7b8-2ddb-4b62-b04c-ce77ba4cf211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>aade2e8c-df12-49be-8082-7f6d8c1892cd</webElementGuid>
+      <value>//div/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/input</value>
+      <webElementGuid>9eb07c6a-85d9-46af-9320-743c31c14c17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'B172594913995742850' and (text() = 'Cancel Schedule' or . = 'Cancel Schedule')]</value>
-      <webElementGuid>b551470c-da54-4bd1-b243-3aa22930b0e9</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'P10_NAME' and @name = 'P10_NAME']</value>
+      <webElementGuid>b49ed12d-29b4-472c-9408-ea524c2ea3fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

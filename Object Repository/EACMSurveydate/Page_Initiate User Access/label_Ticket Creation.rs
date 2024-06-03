@@ -1,95 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_t-Button t-Button--noUI t-Button--ic_cbe08f</name>
+   <name>label_Ticket Creation</name>
    <tag></tag>
-   <elementGuidId>59bcc5be-ef53-4521-8889-15203f65205f</elementGuidId>
+   <elementGuidId>02726b2f-d8eb-49d3-81da-6c74c3b5dc71</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @title = 'Close']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+         <value>#P10_TICKET_CREATION_LABEL</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @title = 'Close']</value>
+         <value>//label[@id='P10_TICKET_CREATION_LABEL']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c44ffc9e-80b0-49a5-9a1a-babb07169482</webElementGuid>
+      <value>label</value>
+      <webElementGuid>87284c15-83b6-4d24-be93-666761506ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P10_TICKET_CREATION</value>
+      <webElementGuid>6289d479-9f7d-4903-9520-31e999862139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P10_TICKET_CREATION_LABEL</value>
+      <webElementGuid>5c53a79e-1659-4cbb-8437-62bfe3293e42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button t-Button--noUI t-Button--icon t-Button--closeAlert</value>
-      <webElementGuid>4ded8334-c53e-486a-8a92-1fd9783975ce</webElementGuid>
+      <value>t-Form-label</value>
+      <webElementGuid>2ad19727-331d-4585-9661-bbcf96f31bf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>4d0157c4-b88d-4905-8bde-f26c81d0dc86</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>1222eb29-6c6b-42a8-a3d6-9adf1bffa294</webElementGuid>
+      <value>Ticket Creation</value>
+      <webElementGuid>7e846ca8-5f28-43af-9500-55065eaefc2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-buttons&quot;]/button[@class=&quot;t-Button t-Button--noUI t-Button--icon t-Button--closeAlert&quot;]</value>
-      <webElementGuid>5aa31357-f2d5-448a-8e74-283d574de4e5</webElementGuid>
+      <value>id(&quot;P10_TICKET_CREATION_LABEL&quot;)</value>
+      <webElementGuid>214f1f54-f636-41ba-a996-957b6fa510f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>581c0493-fca0-41ad-baa9-7a3e2e0152ad</webElementGuid>
+      <value>//label[@id='P10_TICKET_CREATION_LABEL']</value>
+      <webElementGuid>25a809fa-1b61-48fd-96eb-19f34b265840</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='t_Alert_Success']/div/div[3]/button</value>
-      <webElementGuid>4b913407-5c90-4647-b847-b246e0360e10</webElementGuid>
+      <value>//div[@id='P10_TICKET_CREATION_CONTAINER']/div/label</value>
+      <webElementGuid>5332cfd9-714c-4c36-b400-f90e4a5f2426</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>21066d63-a7dc-48c7-b838-2f5904f93ef7</webElementGuid>
+      <value>//div[10]/div/div/div/label</value>
+      <webElementGuid>f276f014-4bc3-4b9f-a112-945343aa6059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @title = 'Close']</value>
-      <webElementGuid>244e11cf-d642-4164-bc74-7bc0bd75fe58</webElementGuid>
+      <value>//label[@id = 'P10_TICKET_CREATION_LABEL' and (text() = 'Ticket Creation' or . = 'Ticket Creation')]</value>
+      <webElementGuid>233b685e-5b71-4749-aca8-b408cc5f7a03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

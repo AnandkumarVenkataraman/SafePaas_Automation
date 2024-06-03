@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_t-Button t-Button--noUI t-Button--ic_cbe08f</name>
+   <name>a_18</name>
    <tag></tag>
-   <elementGuidId>59bcc5be-ef53-4521-8889-15203f65205f</elementGuidId>
+   <elementGuidId>fd51fc2c-b199-4a10-a4e8-d92d9240a2f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @title = 'Close']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+         <value>a.ui-state-default.ui-state-hover</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @title = 'Close']</value>
+         <value>(//*[contains(@class, 'today')])//following::td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,71 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c44ffc9e-80b0-49a5-9a1a-babb07169482</webElementGuid>
+      <value>a</value>
+      <webElementGuid>66fa32af-a875-48f2-8a9e-0f7adf637f2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button t-Button--noUI t-Button--icon t-Button--closeAlert</value>
-      <webElementGuid>4ded8334-c53e-486a-8a92-1fd9783975ce</webElementGuid>
+      <value>ui-state-default ui-state-hover</value>
+      <webElementGuid>b8753d98-486e-4c5e-b768-a741a67e7176</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>4d0157c4-b88d-4905-8bde-f26c81d0dc86</webElementGuid>
+      <value>#</value>
+      <webElementGuid>faaecbd6-0351-4978-9407-701b615c6e75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>1222eb29-6c6b-42a8-a3d6-9adf1bffa294</webElementGuid>
+      <value>18</value>
+      <webElementGuid>d3be3f88-149b-44b7-8835-ed2666c92334</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-buttons&quot;]/button[@class=&quot;t-Button t-Button--noUI t-Button--icon t-Button--closeAlert&quot;]</value>
-      <webElementGuid>5aa31357-f2d5-448a-8e74-283d574de4e5</webElementGuid>
+      <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[4]/td[@class=&quot;ui-datepicker-week-end&quot;]/a[@class=&quot;ui-state-default ui-state-hover&quot;]</value>
+      <webElementGuid>4f7f1de8-ea1c-4329-976e-d43317f29c2f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>581c0493-fca0-41ad-baa9-7a3e2e0152ad</webElementGuid>
+      <value>//div[@id='ui-datepicker-div']/table/tbody/tr[4]/td/a</value>
+      <webElementGuid>252f34fe-7d23-437a-b941-54c37178e301</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:link</name>
       <type>Main</type>
-      <value>//div[@id='t_Alert_Success']/div/div[3]/button</value>
-      <webElementGuid>4b913407-5c90-4647-b847-b246e0360e10</webElementGuid>
+      <value>//a[contains(text(),'18')]</value>
+      <webElementGuid>494d78fe-beac-4def-b95c-047b8f6bae46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>00af1063-91b5-4efc-995d-05e28209d615</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>21066d63-a7dc-48c7-b838-2f5904f93ef7</webElementGuid>
+      <value>//tr[4]/td/a</value>
+      <webElementGuid>e206a1be-9162-4824-9649-9354fac30d28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @title = 'Close']</value>
-      <webElementGuid>244e11cf-d642-4164-bc74-7bc0bd75fe58</webElementGuid>
+      <value>//a[@href = '#' and (text() = '18' or . = '18')]</value>
+      <webElementGuid>e58f3187-1fdb-4d6e-8455-f0df34b6ec76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
