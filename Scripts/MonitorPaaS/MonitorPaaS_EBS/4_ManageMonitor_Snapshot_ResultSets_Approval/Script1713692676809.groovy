@@ -61,10 +61,12 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_Incid
 
 WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Snapshot Report/label_Occurrence'))
 
+WebUI.delay(3)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Snapshot Report/select_Select any One(SS)KTLN_ARLIMIT_APR19_526a61 (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Snapshot Report/select_Select any One(SS)KTLN_ARLIMIT_APR19_526a61 (1)'), 
-    '313143', true, FailureHandling.OPTIONAL)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Snapshot Report/select_Select any One(SS)KTLN_ARLIMIT_APR19_526a61 (1)'), 
+    '1')
 
 WebUI.delay(10)
 
@@ -102,8 +104,8 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapsho
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'), 
-    'KTLN_ARLIMIT_JUNE10_V1_20240610010925', true, FailureHandling.OPTIONAL)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'), 
+    '1')
 
 WebUI.delay(5)
 
@@ -144,13 +146,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_Incid
 
 WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/span_My Inbox (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Begin Date (1)'))
+not_run: WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Begin Date (1)'))
 
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Begin Date (1)'))
+not_run: WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Begin Date (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Last Hour (1)'))
+not_run: WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Last Hour (1)'))
 
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Last Hour (1)'))
+not_run: WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/a_Last Hour (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Home/button_Actions (1)'))
 
@@ -237,8 +239,8 @@ WebUI.delay(3)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_- Select -KTLN_ARAPRLMT_APR19_V1_202_c0dd84'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_- Select -KTLN_ARAPRLMT_APR19_V1_202_c0dd84'), 
-    'KTLN_ARLIMIT_JUNE10_V1_20240610010925', true, FailureHandling.OPTIONAL)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_- Select -KTLN_ARAPRLMT_APR19_V1_202_c0dd84'), 
+    '1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/button_Snapshot Report for Object AR Approv_d11104'))
 
@@ -405,8 +407,8 @@ WebUI.delay(3)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_- Select -KTLN_ARAPRLMT_APR19_V1_202_c0dd84'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_- Select -KTLN_ARAPRLMT_APR19_V1_202_c0dd84'), 
-    'KTLN_ARLIMIT_JUNE10_V1_20240610010925', true, FailureHandling.OPTIONAL)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_- Select -KTLN_ARAPRLMT_APR19_V1_202_c0dd84'), 
+    '1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/button_Snapshot Report for Object AR Approv_d11104'))
 

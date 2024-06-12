@@ -188,7 +188,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS/MonitorPaa
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME'), 
-    'KTLN_ARLimit_JUNE12_V1')
+    'KTLN_ARLimit_JUNE13_V1')
 
 WebUI.scrollToElement(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Page_Job Detail/span_Set Screen Reader Mode On_a-Icon icon-_34fbcb'), 
     0)
@@ -250,7 +250,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS/ManageMoni
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/input_Expression_p_ignore_10'), 
-    'KTLN_ARLimit_JUNE12_V1')
+    'KTLN_ARLimit_JUNE13_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/button_Apply'))
 
