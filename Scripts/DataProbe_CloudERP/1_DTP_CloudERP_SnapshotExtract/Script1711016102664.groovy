@@ -58,7 +58,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DTP_Snapsho
 WebUI.comment('Verify the ObjectSet element is clickable')
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Manage Snapshot/select_Select any oneCERP_ObjSetCloudERP_AD_d4dded'), 
-    'KTLN_OBJECT_SET', true, FailureHandling.OPTIONAL)
+    'CloudERP_AD_NW', true, FailureHandling.OPTIONAL)
 
 WebUI.comment('select the Object set : KTLN_ObjSet')
 
@@ -73,7 +73,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DTP_Snapsho
 WebUI.comment('Verify the Datasource field is clickable')
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Job Detail/select_EBiz_JDBC_DS'), 
-    'KTLN_Dev22', true, FailureHandling.OPTIONAL)
+    'Azure_DS_CloudERPHCM', true, FailureHandling.OPTIONAL)
 
 WebUI.comment('select the value : KTLN_Dev22')
 
@@ -86,7 +86,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba2/DTP_SnapshotExtr
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Job Detail/input_P30_SCHEDULER_JOB_NAME'), 
-    'CloudERP_Extract_May10')
+    'SnapshotExtract_June12_V1')
 
 WebUI.comment('Provide a unique Scheduler name')
 
