@@ -377,7 +377,7 @@ WebUI.comment('Click on the Add Rule')
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_June05_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_June12_V1')
 
 WebUI.comment('Enter the name of the rule')
 
@@ -385,7 +385,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
-    'Maintain Customer Master vs. Maintain Supplier Master_June05_V1')
+    'Maintain Customer Master vs. Maintain Supplier Master_June12_V1')
 
 WebUI.comment('Enter the Description for the Rule')
 
@@ -699,7 +699,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'June05_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/input_p_ignore_10 (1)'), 'June12_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Home/button_Apply (1)'))
 
@@ -782,7 +782,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageActivity
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'June05_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/input_p_ignore_10'), 'June12_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Apply'))
 

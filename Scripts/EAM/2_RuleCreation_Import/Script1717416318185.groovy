@@ -548,7 +548,7 @@ WebUI.comment('click on Upload file section')
 WebUI.verifyElementText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_June03_V1')
+WebUI.setText(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_LOAD_NAME'), 'KTLNAutomation_ImportFile_June12_V1')
 
 WebUI.comment('Provide the load name')
 
