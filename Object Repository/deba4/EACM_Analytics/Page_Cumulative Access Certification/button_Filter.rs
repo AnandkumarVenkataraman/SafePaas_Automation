@@ -6,12 +6,12 @@
    <elementGuidId>2255c6b1-c0a3-4778-969d-ee536d87b218</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='caCert_actions_menu_2i']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#caCert_actions_menu_2i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'caCert_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>656b26ce-a940-416e-b292-ba762739df3b</webElementGuid>
+      <webElementGuid>fdce448f-9b82-4f18-a2d3-5ba5e85e679a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e6388dec-b80a-414a-ab84-734ee098c873</webElementGuid>
+      <webElementGuid>b635bd17-d488-44f6-9caa-2a93879f9669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>caCert_actions_menu_2i</value>
-      <webElementGuid>8021b72e-00c8-4004-ac4c-417ec382c8a9</webElementGuid>
+      <webElementGuid>d2751836-ed6b-40b9-a786-26f20b169517</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>66521704-1bb1-4072-818c-4ab973a7ae61</webElementGuid>
+      <webElementGuid>8f9652a5-6961-4745-a433-8109c0e2d8f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>0daad4db-4798-486c-adc5-e93dda59c810</webElementGuid>
+      <webElementGuid>4861ec15-68fb-4fbf-bd00-41c1102fd4ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>4149f90d-fe50-460e-b55d-d0373f8cc564</webElementGuid>
+      <webElementGuid>1b55f4dc-cffd-4ff0-a7ae-9342295ddfb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;caCert_actions_menu_2i&quot;)</value>
-      <webElementGuid>06540258-b22c-4f2c-bbf1-b3bd060d8530</webElementGuid>
+      <webElementGuid>a3699a8a-e3a0-4e6f-a4e7-6b8d6f598d43</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='caCert_actions_menu_2i']</value>
-      <webElementGuid>c456ba74-dd89-4798-9af0-d9e9c59c0700</webElementGuid>
+      <webElementGuid>c0ef01e6-2a12-41d0-ae2e-801390586448</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='caCert_actions_menu_2']/div/span/button</value>
-      <webElementGuid>1216e69f-94a9-4bbb-bc73-d6bda1fe2903</webElementGuid>
+      <webElementGuid>5a8553a7-15a9-45de-af36-361e7b68ec42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/button</value>
-      <webElementGuid>3e5a31a4-5cb4-49ef-81ba-141a3dddb1a3</webElementGuid>
+      <webElementGuid>d313fd91-c6ee-4647-9b8c-2bb919e362ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'caCert_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>f5a0cb11-c23e-4bdf-9dd1-1d46d073aa1c</webElementGuid>
+      <webElementGuid>e10df26b-6e83-4dd8-a4eb-f773e157d6fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

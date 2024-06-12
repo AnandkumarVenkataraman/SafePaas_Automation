@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[17]</value>
+         <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b782bca6-98b4-4f94-8d52-37fcd66ed02a</webElementGuid>
+      <webElementGuid>f49b0dd8-e37f-4586-aa01-528586f3ea68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>be6fd3c4-eebc-4599-86fc-c739af131999</webElementGuid>
+      <webElementGuid>9ea582fc-7f17-45d3-897d-8f74c8ac087e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot</value>
-      <webElementGuid>f37f70e7-c677-45d9-af10-960f8953a683</webElementGuid>
+      <webElementGuid>a82219bf-ea78-41bc-b8ee-927aa0d95eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>bb3fa94b-0328-44be-9e32-16dd95f16247</webElementGuid>
+      <webElementGuid>4e4f1392-cf9f-4dca-9c29-92d295956bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-dialog--notification ui-dialog--modern ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot&quot;]</value>
-      <webElementGuid>8a91a01b-feff-43e0-9440-4b3d68b8bde9</webElementGuid>
+      <webElementGuid>fda11ced-9cfb-4f55-aa12-7d55687d9554</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[17]</value>
-      <webElementGuid>3b81ae02-c20f-44e7-a964-9639c68fcb46</webElementGuid>
+      <webElementGuid>1ab3a9eb-e4fa-4794-a50d-fb8ad616bd11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[8]/div[3]/div/button[2]</value>
-      <webElementGuid>966bb56f-71ce-485d-a7b7-bb68971cb056</webElementGuid>
+      <webElementGuid>11868784-1732-46cb-9f06-811035bd3d15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button[2]</value>
-      <webElementGuid>cb3cb2c1-b5dc-4b43-94dd-d40f05b355c6</webElementGuid>
+      <webElementGuid>d1f35e48-574f-4476-adde-7e277d5ac273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>dd3bf74c-6d94-4292-8cb6-3891b5d0704d</webElementGuid>
+      <webElementGuid>d910a0dd-15c3-4f62-a948-0d39ff380580</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

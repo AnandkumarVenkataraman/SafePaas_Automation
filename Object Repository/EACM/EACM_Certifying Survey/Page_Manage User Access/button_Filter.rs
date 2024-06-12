@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='userAccessReport_actions_menu_2i']</value>
+         <value>//button[@type = 'button' and @id = 'userAccessReport_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#userAccessReport_actions_menu_2i</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2528d7a1-f787-4147-9efa-2c3c4a43db09</webElementGuid>
+      <webElementGuid>bf48236b-00f2-4e48-af82-785322f067e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a1d89530-faa4-4729-aa94-4dafa6eddaa9</webElementGuid>
+      <webElementGuid>bc1a7a86-190c-4a2c-8ad5-55e913aa87d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>userAccessReport_actions_menu_2i</value>
-      <webElementGuid>05ea4689-d4cf-4b8d-8096-8445a789f4ce</webElementGuid>
+      <webElementGuid>120cc74b-429c-4faa-91fb-02b10bc9c6eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>d3eaa30a-e400-4726-aef0-2f4c8cdf5631</webElementGuid>
+      <webElementGuid>780cdc03-d339-42f3-a864-a58be7091924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>1ed54736-9e5c-4820-b6e8-1abac6667062</webElementGuid>
+      <webElementGuid>b9d23a83-efd8-400e-a2b9-ab3e0a7917a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>ae2f8ff5-a591-4a3e-8bd8-861c28f0a4b9</webElementGuid>
+      <webElementGuid>b39d3eca-782b-41d4-89c3-c3621e1161c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;userAccessReport_actions_menu_2i&quot;)</value>
-      <webElementGuid>05a2aaa2-68fa-43d0-846e-c56ca13b1559</webElementGuid>
+      <webElementGuid>9c781820-a21a-461c-9098-b58a8aafed39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='userAccessReport_actions_menu_2i']</value>
-      <webElementGuid>25aa6bce-4b05-4053-a3ab-b4063e862195</webElementGuid>
+      <webElementGuid>b87f64fd-be55-45e2-bfa3-bf9e75ea1101</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='userAccessReport_actions_menu_2']/div/span/button</value>
-      <webElementGuid>2a85fecd-16df-4393-9da1-280269e5a566</webElementGuid>
+      <webElementGuid>bc63f5c8-f45f-4724-8343-20c70c3c7ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/button</value>
-      <webElementGuid>54ae33f5-3b1f-4c47-96ed-6b32afb30490</webElementGuid>
+      <webElementGuid>250ea27c-4953-4317-bf80-04d029112eef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'userAccessReport_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>0d3473e4-4aac-436f-a7cd-4162f34e18b6</webElementGuid>
+      <webElementGuid>a1cb8a2a-f2c6-42dc-b42b-0b5f85c50028</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//th[@id='ACTION_COMMENTS']/a</value>
+         <value>//a[contains(text(),'Action Comments')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2195c616-1478-41d4-b59e-f33fcc02fbc6</webElementGuid>
+      <webElementGuid>50dc894f-0e0d-4d95-86f2-37dc0cd5a256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>43addaa6-1260-47fb-9312-5295bd6eee6f</webElementGuid>
+      <webElementGuid>0e370f55-b520-4d93-85a0-629b3b23fa39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>051a6e06-fc4a-4108-befc-31b31de78a44</webElementGuid>
+      <webElementGuid>7836a563-a28e-4471-827a-ac09b78c97f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>2739720616624140</value>
-      <webElementGuid>3cbefa97-75c2-4d5e-9ced-c92317b52a71</webElementGuid>
+      <webElementGuid>fdfa8a9b-090f-4e42-ba9e-baa285172704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>a0e96d7f-2782-4278-aa71-14f5f77d5e56</webElementGuid>
+      <webElementGuid>a0f2eaef-4186-4ef5-a839-973ec6a68f91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Action Comments</value>
-      <webElementGuid>d0fb9b0e-79b7-4b01-924c-9c7ca1e7b2f4</webElementGuid>
+      <webElementGuid>723d3018-800d-4ed5-b1d3-2584dc75d379</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ACTION_COMMENTS&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>6b4d6987-58d3-4c6f-8393-c7310ceb0271</webElementGuid>
+      <webElementGuid>b37afc63-7138-469c-a46f-57faa613d5e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='ACTION_COMMENTS']/a</value>
-      <webElementGuid>3ef4751f-9fd6-49cb-b67f-d1227f67b044</webElementGuid>
+      <webElementGuid>e0d2404e-ced7-40f2-96c1-22c7b909886c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Action Comments')]</value>
-      <webElementGuid>c6b236ef-d528-495c-b908-983d98505f39</webElementGuid>
+      <webElementGuid>6b3210a1-9911-4e56-8409-a60046c49e6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[11]</value>
-      <webElementGuid>d5683cdb-acdf-4fc3-a954-84e1986fa510</webElementGuid>
+      <webElementGuid>98157851-f434-4bcd-80e7-d8294ce1f18f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[6]/a</value>
-      <webElementGuid>033981f3-363a-46f8-b724-1b97c643efd5</webElementGuid>
+      <webElementGuid>2c77bb66-964b-4da3-a9cd-219976d6b83d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Action Comments' or . = 'Action Comments')]</value>
-      <webElementGuid>c6910da1-4aa4-44ca-8465-816515c7a3d6</webElementGuid>
+      <webElementGuid>18f803d6-246f-40bf-a628-aa5a1649f9a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

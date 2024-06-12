@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//h2</value>
+         <value>//h2[(text() = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler' or . = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>cef20c10-87b7-42d6-b1c3-4373a8188886</webElementGuid>
+      <webElementGuid>71145709-03aa-4b06-9859-4cd24c972a06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Alert-title</value>
-      <webElementGuid>0e2d1f8a-5280-4c40-93ea-2e29306d4a04</webElementGuid>
+      <webElementGuid>aaaae59b-2708-458c-b1dc-8cfe55c2ac78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler</value>
-      <webElementGuid>8c095497-069c-4275-8109-91b32daf4bb3</webElementGuid>
+      <webElementGuid>645dda8b-d3e6-4c0b-a18a-7bd545e99a78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
-      <webElementGuid>b43cdb26-d48f-4b47-8491-b141ff2ceee9</webElementGuid>
+      <webElementGuid>e5692e26-3359-4117-ad77-c099a2887fc3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
-      <webElementGuid>78444af0-8c2e-4b0e-b5e4-debcc43dcd12</webElementGuid>
+      <webElementGuid>2da80cd2-6ce2-479e-a940-e9c39897372c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>e4c820f3-ccae-48b0-b900-3444f37333b7</webElementGuid>
+      <webElementGuid>92e6b3fa-fed4-4b8e-9c2c-20c675261fde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler' or . = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler')]</value>
-      <webElementGuid>c4b3d20b-1b15-4962-a498-cd2561fdfe2a</webElementGuid>
+      <webElementGuid>14ae2f72-206d-4fda-b5a7-ac46078f6b67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

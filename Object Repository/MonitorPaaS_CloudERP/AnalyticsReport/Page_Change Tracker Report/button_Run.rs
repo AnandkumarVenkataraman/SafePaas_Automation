@@ -6,12 +6,12 @@
    <elementGuidId>d08e338e-eb03-44d4-895b-a0bb4e8f5e38</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='B36761132459282740']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#B36761132459282740</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'B36761132459282740' and (text() = 'Run' or . = 'Run')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b13e877e-74fd-475c-afcd-5d0a6c96722a</webElementGuid>
+      <webElementGuid>90721fc2-d830-4604-87e1-addb0a20eee2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'RUN',validate:true});</value>
-      <webElementGuid>326f495d-015f-4e55-b086-16b04d32b9e8</webElementGuid>
+      <webElementGuid>f48bdfce-12e2-4087-a8e8-6bc53fb4f4bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>02e761bc-4907-4d60-b5e2-6b335539b3c4</webElementGuid>
+      <webElementGuid>6624c80a-dbb3-449b-86df-9e3931218c15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>987e9225-71a4-4ca9-ae02-ec305cc184d9</webElementGuid>
+      <webElementGuid>1e21eee6-873b-49c9-85fd-1a3a269f795a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B36761132459282740</value>
-      <webElementGuid>0a5f52dd-d748-4356-b1df-ab7db903d95e</webElementGuid>
+      <webElementGuid>806a4dd6-4bb9-44a8-aba1-f5a4a3ebb6e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Run</value>
-      <webElementGuid>33e2c27a-a35f-4319-ac88-70b8e5a0b554</webElementGuid>
+      <webElementGuid>5d4af3df-a417-4674-877a-2c06163ac8fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B36761132459282740&quot;)</value>
-      <webElementGuid>14093134-d0f7-4575-8f88-f0433d2816c8</webElementGuid>
+      <webElementGuid>6b8e0ced-574a-482b-bc5f-3b6a53ab04ec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B36761132459282740']</value>
-      <webElementGuid>6deb8b4e-606f-499e-ab8a-3188d73fb975</webElementGuid>
+      <webElementGuid>ca52f6aa-0cf0-45e2-81e7-2d45feae203a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R174126894471725634']/div/div[2]/button[2]</value>
-      <webElementGuid>3bdebc23-cb9c-4070-aa28-0b25d392c7b2</webElementGuid>
+      <webElementGuid>5cbc7c0b-5cde-4234-8b56-1379c9db6ff4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>20ffc7cf-a7e4-4846-8080-ada79fb334b0</webElementGuid>
+      <webElementGuid>5f1da4d3-b204-4b7c-908c-ff529cc3a39c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B36761132459282740' and (text() = 'Run' or . = 'Run')]</value>
-      <webElementGuid>70143447-5593-4047-bb4a-4df8b7ffa151</webElementGuid>
+      <webElementGuid>c792d27c-503e-4737-9206-4bc5fb9742ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

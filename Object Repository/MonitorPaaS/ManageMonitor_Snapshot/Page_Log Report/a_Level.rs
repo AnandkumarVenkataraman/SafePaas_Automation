@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//th[@id='C129763884825455223']/a</value>
+         <value>//a[(text() = 'Level' or . = 'Level')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2c4c8abf-725f-4cc9-a312-a8903e04a636</webElementGuid>
+      <webElementGuid>1a2632f0-34d8-4511-a2cd-a941302df9ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>2ff28e40-3331-417c-bad8-930764c444a0</webElementGuid>
+      <webElementGuid>2055e6b1-77a3-45e6-80da-55bfbc5c80ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>129763884825455223</value>
-      <webElementGuid>cb4875c8-4df3-4db5-9480-f3a624ed97ca</webElementGuid>
+      <webElementGuid>37c708a8-e1e3-4c6d-876b-1cda00bfb2c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>f4acba98-7250-451e-9dea-a30c2cadb784</webElementGuid>
+      <webElementGuid>00d1901d-1a79-47c2-9624-9a9be17b9971</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Level</value>
-      <webElementGuid>52766c0c-1d84-4d88-825f-5f0f70379228</webElementGuid>
+      <webElementGuid>75685e60-e327-4cf2-9d19-e3d51e0fb8c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;258176024156123510&quot;)/tr[1]/th[@id=&quot;C129763884825455223&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>086e5c57-a27b-4fdf-908d-b74599f0dca1</webElementGuid>
+      <webElementGuid>f8a70d82-2f42-42f3-8134-e6f91b739e04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C129763884825455223']/a</value>
-      <webElementGuid>81b4d328-e108-4091-a24c-e6a730870302</webElementGuid>
+      <webElementGuid>e3d29811-ab71-4003-bf45-eb1a38674382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Level')])[6]</value>
-      <webElementGuid>ddfdb511-cb56-4c0a-a160-5e1900ed8a45</webElementGuid>
+      <webElementGuid>ab55f97c-7515-4a83-af7c-730fbaefd866</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[6]/a</value>
-      <webElementGuid>3d52a1a0-06ad-4ac3-85f4-8fdc6ad17884</webElementGuid>
+      <webElementGuid>009bf1cf-557b-4eba-965d-196817cf6962</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Level' or . = 'Level')]</value>
-      <webElementGuid>c360ed49-9b0a-4f9d-80a4-1aa4730ed798</webElementGuid>
+      <webElementGuid>818a18e0-022b-4578-aab8-1717accd4612</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[47]</value>
+         <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aefdb1ca-0605-4bc9-b773-37e7f346f38e</webElementGuid>
+      <webElementGuid>bf153aeb-6309-483f-a64a-720d2d6a7682</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1c3163ce-af0c-4503-a1de-549b8808016b</webElementGuid>
+      <webElementGuid>04dcbf20-a416-43ec-8669-1905866b840f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button--hot ui-button ui-corner-all ui-widget</value>
-      <webElementGuid>2d8a600f-ee8d-4626-8dd5-2418df095e84</webElementGuid>
+      <webElementGuid>6bd92882-2000-4ed9-b2d5-f5f100526092</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Apply</value>
-      <webElementGuid>5300e9cd-a185-49a6-8826-8472463475e2</webElementGuid>
+      <webElementGuid>a474129b-0902-4d75-a0a2-6311e1044f92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front a-IRR-dialog a-IRR-dialog--filter ui-dialog-buttons ui-draggable ui-resizable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;ui-button--hot ui-button ui-corner-all ui-widget&quot;]</value>
-      <webElementGuid>a50d0e77-4cd5-4402-ae26-a476c1ef7835</webElementGuid>
+      <webElementGuid>8d3953c1-12eb-417d-a9df-93bec51a7717</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[47]</value>
-      <webElementGuid>d75c4c07-3cbd-4022-9eeb-19f61640856e</webElementGuid>
+      <webElementGuid>d3ed32d5-9f7f-4f39-9183-1df1de24381b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[9]/div[3]/div/button[2]</value>
-      <webElementGuid>c5e992a6-d11e-4876-b2af-7eb915dc896e</webElementGuid>
+      <webElementGuid>58a24fca-ce84-4614-aaee-50f7190f4eaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>80a54b29-8656-4cd7-9cd7-c56a5f4d0bd1</webElementGuid>
+      <webElementGuid>c444af9d-2c03-4962-88ac-4e7c82d03c59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
-      <webElementGuid>35ff1e60-51d4-474d-a8f9-bb7f48631708</webElementGuid>
+      <webElementGuid>79560ac6-1b22-42f4-8f98-24e00c79ec61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

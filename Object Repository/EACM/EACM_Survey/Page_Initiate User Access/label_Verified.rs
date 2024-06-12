@@ -6,15 +6,18 @@
    <elementGuidId>fbec5140-ddb2-4a27-89a8-b3acfdbba56f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Verified' or . = 'Verified')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//div[@id='P10_END_DATE_ACTION']/div/div/div[2]/label</value>
+         <value>//label[(text() = 'Verified' or . = 'Verified')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>a3c347f0-60d7-46b8-8b3b-1ece188e0a77</webElementGuid>
+      <webElementGuid>e69ecf3f-120e-46cf-84db-0a8d825fc1b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>e92af494-bd2d-41f7-b042-75e5f9832ee6</webElementGuid>
+      <webElementGuid>209375ac-d629-4099-b1cc-8093fe0d7e6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P10_END_DATE_ACTION_1</value>
-      <webElementGuid>8b7fa8a1-6f08-4155-a3ea-c84747758502</webElementGuid>
+      <webElementGuid>c900c13d-4092-4ac6-ad3a-42b350389c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Verified</value>
-      <webElementGuid>042fccb6-c48c-40d8-af69-55700a244cf8</webElementGuid>
+      <webElementGuid>ce53a4ff-de57-4144-ad05-3c40a6306007</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P10_END_DATE_ACTION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>48e243f8-7ba9-4592-b66e-9546b99b0a5c</webElementGuid>
+      <webElementGuid>3a5ce14a-8bd8-4999-a712-123ad7770cec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P10_END_DATE_ACTION']/div/div/div[2]/label</value>
-      <webElementGuid>65b7240a-cb98-4478-b0bd-5f675fa8a0a7</webElementGuid>
+      <webElementGuid>9ca6387e-524d-4eee-9760-5a0ca28758cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>874276a3-6416-43d5-a100-e7f0b51b4655</webElementGuid>
+      <webElementGuid>207227d7-fd9b-443b-9912-2adf59bd12f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Verified' or . = 'Verified')]</value>
-      <webElementGuid>1d2d99d7-873b-4862-a5c6-544fb4362964</webElementGuid>
+      <webElementGuid>a752512d-72c6-4590-aed9-4ef68c8c022c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

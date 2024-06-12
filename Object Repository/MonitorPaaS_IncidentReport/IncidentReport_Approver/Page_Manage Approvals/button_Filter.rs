@@ -6,12 +6,12 @@
    <elementGuidId>fc06c7b9-665f-4100-aa1d-b75ba69dbe48</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='mngMonitos_actions_menu_2i']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#mngMonitos_actions_menu_2i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'mngMonitos_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f023c20-8e46-4635-8066-7ca37e44971e</webElementGuid>
+      <webElementGuid>21c088b0-45a5-4bbf-8362-f47314b0fa2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2b21f4d8-f45f-4fe6-a0a3-31102baaf77b</webElementGuid>
+      <webElementGuid>d3b848ca-1262-4426-88cd-0ec08c017bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mngMonitos_actions_menu_2i</value>
-      <webElementGuid>7c54ddae-68b1-466c-a492-0a20cb64f028</webElementGuid>
+      <webElementGuid>2af546d9-c873-4aa3-bb42-a9b82b683fcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>9f71c0f3-acef-4602-9660-3aa0ffa78dfd</webElementGuid>
+      <webElementGuid>b4541aa8-77ce-4bd8-8514-862946939873</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>136a39bf-2634-49a6-b648-02974189e6d2</webElementGuid>
+      <webElementGuid>75699d3c-9263-4004-89f4-48197e98a3ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>145910ae-2b39-4b86-b081-ac9c9be69931</webElementGuid>
+      <webElementGuid>376f6fcb-861b-439e-ac5b-6ce45d9f5764</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mngMonitos_actions_menu_2i&quot;)</value>
-      <webElementGuid>c71fdca3-5cbe-4d52-8529-1b1a9dc6f277</webElementGuid>
+      <webElementGuid>50f35939-4feb-4df6-aee6-2b146844a0bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='mngMonitos_actions_menu_2i']</value>
-      <webElementGuid>6c190ece-b944-4ff0-a4d1-2cd35812277a</webElementGuid>
+      <webElementGuid>315cd558-64f2-4635-8ade-ebd135b5dfa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='mngMonitos_actions_menu_2']/div/span/button</value>
-      <webElementGuid>11be8573-3c10-4934-af76-9817bc73423a</webElementGuid>
+      <webElementGuid>13b3e441-2cfc-4081-8a1a-a068b0629b96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/button</value>
-      <webElementGuid>6da5ebf3-8dcb-4535-aea0-ff969ddfe136</webElementGuid>
+      <webElementGuid>1bbf9f57-59f2-4615-986f-d860aa9d1764</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'mngMonitos_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>37735f00-a84f-44db-b56c-5ad7f29558fa</webElementGuid>
+      <webElementGuid>f910e892-2d33-49a7-b557-d4a795816776</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

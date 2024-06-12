@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[3]/a/span[2]</value>
+         <value>//span[(text() = 'People' or . = 'People')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>057cacca-4686-4724-b1bb-b1286b251202</webElementGuid>
+      <webElementGuid>d47f8f0b-c10b-4322-8bc8-6562e6ea5b2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Tabs-label</value>
-      <webElementGuid>4ace3ffe-1038-41a6-a5bb-b642c71368a0</webElementGuid>
+      <webElementGuid>3bfa763a-db5b-49b7-ad93-8cb160fafe28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>People</value>
-      <webElementGuid>179da3c1-2837-449c-915a-a9a27cf1a122</webElementGuid>
+      <webElementGuid>6c0cf534-b838-43a0-ab7c-228ba7594f98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto t-Tabs--simple&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
-      <webElementGuid>59223446-95b2-4d1d-8d93-5a59911c6d52</webElementGuid>
+      <webElementGuid>45e67561-b70a-43c5-9ba0-272f3dd6f7dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[3]/a/span[2]</value>
-      <webElementGuid>5accb4e7-731d-477d-b457-aedba4b32ca5</webElementGuid>
+      <webElementGuid>38678bd5-155d-4236-b179-b5f722c9686e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/span[2]</value>
-      <webElementGuid>02c2f607-6d26-458b-aa02-bba736ab9b7e</webElementGuid>
+      <webElementGuid>9683f9cc-83e9-4cb7-998c-24795c0da2f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +69,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'People' or . = 'People')]</value>
-      <webElementGuid>90d8003a-05da-4481-9c80-818dc33147df</webElementGuid>
+      <webElementGuid>9ff7b5bd-f880-415b-879c-fa54621d0b75</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

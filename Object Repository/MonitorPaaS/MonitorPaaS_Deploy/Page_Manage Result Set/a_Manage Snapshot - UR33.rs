@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_206']/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Snapshot')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a0a7d215-a115-4c53-a569-cc77f1791f4d</webElementGuid>
+      <webElementGuid>a71e2270-bf23-4f7b-adb6-8da140dc1582</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b8dec4b8-a185-4792-8b3b-309a0ede21bc</webElementGuid>
+      <webElementGuid>4fdbaee2-8ea0-44fb-9a5e-5d8be3f40102</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>9f13a9ae-b968-4b18-8eae-85ef45a2499f</webElementGuid>
+      <webElementGuid>2d29bfc9-1e2e-4231-ba65-f188d234d05e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>001edde6-714a-45a6-8abe-adde0a61b5a0</webElementGuid>
+      <webElementGuid>f61db3d8-3cbf-4130-a908-176dbe13342e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:19:1724637529933:::19::</value>
-      <webElementGuid>c01b8aeb-afb9-4521-a836-cb42b82f5015</webElementGuid>
+      <webElementGuid>1ae0c506-dbb7-4683-b47f-f8567225c2be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>d1b1bf53-a208-480b-abaf-c7fa2da5b169</webElementGuid>
+      <webElementGuid>b2e008f6-e56c-4167-84a6-2e69d4ad6721</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>74b614f6-1360-489f-adf3-a032067f9c23</webElementGuid>
+      <webElementGuid>2390e77c-7566-4d69-8b7d-1d48db8c2221</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Snapshot</value>
-      <webElementGuid>6c05e26d-1b4b-4ad4-b103-4db7eb8d27ef</webElementGuid>
+      <webElementGuid>ae7be3da-734f-43f8-801a-2ecf74b312de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_206&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>194463b5-a378-425c-aa78-e992ab5abd14</webElementGuid>
+      <webElementGuid>fe74494f-0ef5-4fd9-b0b4-24b9fe170b5f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_206']/div[2]/a</value>
-      <webElementGuid>9ef2434f-48da-4171-a6ff-174bc47b26dd</webElementGuid>
+      <webElementGuid>a41a9cd8-7b5c-40d1-b4cc-821833572269</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Snapshot')]</value>
-      <webElementGuid>37dd1a12-507c-4d0b-ad65-2fc3d7e38161</webElementGuid>
+      <webElementGuid>6fc7f6df-7d54-420c-b21c-b3158ee04914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:19:1724637529933:::19::')]</value>
-      <webElementGuid>bda3a882-ac2e-4c9e-a903-51f6f39c01a8</webElementGuid>
+      <webElementGuid>ce50e6a9-1625-49d7-a2e1-cde66be9def8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li/div[2]/a</value>
-      <webElementGuid>5977c0e3-b6bb-408d-aced-d99c00012cb8</webElementGuid>
+      <webElementGuid>c2357d04-ddd6-4390-a51e-8aeb2c1278f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:19:1724637529933:::19::' and (text() = 'Manage Snapshot' or . = 'Manage Snapshot')]</value>
-      <webElementGuid>a0b9a40e-9925-4a55-b272-fd13ea5a66b6</webElementGuid>
+      <webElementGuid>8350424e-c0ab-4aa2-9a0f-abf76cc4cd0c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

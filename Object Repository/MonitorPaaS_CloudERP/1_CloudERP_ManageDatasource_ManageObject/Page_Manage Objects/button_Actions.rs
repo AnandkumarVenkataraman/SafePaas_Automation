@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='R122864292076293001_actions_button']</value>
+         <value>//button[@id = 'R122864292076293001_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4d75c6f0-91f2-49d3-8e9f-c2f064c52515</webElementGuid>
+      <webElementGuid>3e9f4c63-f51b-4673-b6a7-e151e60eb567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R122864292076293001_actions_button</value>
-      <webElementGuid>0c3b7028-0d23-4bb6-b3e6-03230f92d5bf</webElementGuid>
+      <webElementGuid>1b46b3b3-b989-498d-a7ba-11087b593f8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--actions js-menuButton</value>
-      <webElementGuid>8f1147a4-7cac-4b34-ae77-791bd7fa79de</webElementGuid>
+      <webElementGuid>4655c658-dc0b-474e-a2f4-a54ad5208545</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8bc5f315-62bb-4a4d-8881-6b811f3f3072</webElementGuid>
+      <webElementGuid>6cad33a9-a199-43e4-becf-0da963b71628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>R122864292076293001_actions_menu</value>
-      <webElementGuid>3c54c470-9fb8-4ca0-97e8-99fe2070001b</webElementGuid>
+      <webElementGuid>e3f069bf-66f9-46c6-befd-f2541e5d197b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>a4c845bd-08b1-4e09-bfec-fcc802e733e0</webElementGuid>
+      <webElementGuid>5d6f6d07-f7fa-43b1-8fb5-5bcfd181fbac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actions</value>
-      <webElementGuid>ca56875c-2791-4ca7-a448-5d7abb97fe59</webElementGuid>
+      <webElementGuid>bcbfa569-5add-4542-a63a-d02557771062</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R122864292076293001_actions_button&quot;)</value>
-      <webElementGuid>3dcc054b-de1e-4fe9-8a8b-0795c7371be8</webElementGuid>
+      <webElementGuid>017db675-3a48-4048-a795-f3f5b6c8e7c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R122864292076293001_actions_button']</value>
-      <webElementGuid>2e8e229c-6f62-4432-a0aa-a67eec8311b4</webElementGuid>
+      <webElementGuid>553058f3-86b2-4743-b806-0df583272fa9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R122864292076293001_toolbar_controls']/div[3]/div/button</value>
-      <webElementGuid>ada5f21d-1a48-48c5-9836-15ee72d05be7</webElementGuid>
+      <webElementGuid>3b7440eb-b41e-4c65-8528-567729bd7c99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button</value>
-      <webElementGuid>116890f4-d92e-48cc-b76a-da50e36d891e</webElementGuid>
+      <webElementGuid>0e55dd0b-bbb2-413c-93e4-76bf90845e7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'R122864292076293001_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
-      <webElementGuid>a9bf9a0d-e32d-40f4-8721-9349b39ebb5d</webElementGuid>
+      <webElementGuid>ee632bc1-eb5e-479b-9712-a4e94b1f86d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

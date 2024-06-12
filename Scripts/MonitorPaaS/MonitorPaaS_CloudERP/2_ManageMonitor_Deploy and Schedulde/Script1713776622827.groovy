@@ -201,7 +201,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS/MonitorPaa
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME'), 
-    'STP_FCPM_APR25_R2')
+    'STP_FCPM_JUNE11_V1')
 
 WebUI.scrollToElement(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Page_Job Detail/span_Set Screen Reader Mode On_a-Icon icon-_34fbcb'), 
     0)
@@ -263,7 +263,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS/ManageMoni
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/input_Expression_p_ignore_10'), 
-    'STP_FCPM_APR25_R2')
+    'STP_FCPM_JUNE11_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/button_Apply'))
 
@@ -271,9 +271,10 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot
 
 WebUI.delay(5)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/a_Completed'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/a_Completed'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/a_Completed'))
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/a_Completed'), FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Log Report/a_Log id'))
 

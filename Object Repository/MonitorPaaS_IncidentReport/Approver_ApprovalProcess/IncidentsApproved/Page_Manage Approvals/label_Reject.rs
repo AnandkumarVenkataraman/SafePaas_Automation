@@ -6,12 +6,11 @@
    <elementGuidId>72e83da1-01ae-4177-943f-6e93c92debbb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='P94_ACTION']/div[2]/label</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Reject' or . = 'Reject')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>ca89e9c4-7e1d-4040-bc19-55b190549cbf</webElementGuid>
+      <webElementGuid>875e06af-0a5e-47c2-97b2-a9d092f71f32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>e8a8d0fb-780b-49e7-9320-b6ce4fa245b6</webElementGuid>
+      <webElementGuid>1d1a0f96-5726-41b0-99d8-d031a8330fab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P94_ACTION_1</value>
-      <webElementGuid>65d58060-d420-4629-9634-c0350eda234d</webElementGuid>
+      <webElementGuid>8a01c899-2392-41f2-ba1d-b89f6d3365a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Reject</value>
-      <webElementGuid>f41a468d-4f55-4dc2-9f3b-579dbc233c6c</webElementGuid>
+      <webElementGuid>b75cb2c1-ed65-432f-b421-b0c4e89b4a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P94_ACTION&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>87698f50-8e48-4b83-8729-b557caf3e1a4</webElementGuid>
+      <webElementGuid>6e6ad5aa-4a13-43b8-b500-896e6519063d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P94_ACTION']/div[2]/label</value>
-      <webElementGuid>3a81814b-ccd1-496a-baa0-720f779dd475</webElementGuid>
+      <webElementGuid>c855d3fb-efef-4a8c-9e77-d9ef2ab32bfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label</value>
-      <webElementGuid>7acaeffd-6a13-42a7-b6bf-ca802286e7d1</webElementGuid>
+      <webElementGuid>852012a6-fd14-4f8e-ba2e-0b3e86cb0b88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Reject' or . = 'Reject')]</value>
-      <webElementGuid>50764ffb-0768-49e2-8522-064202336196</webElementGuid>
+      <webElementGuid>e8c4636d-6cce-4eaa-8b26-6bd69839a4d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

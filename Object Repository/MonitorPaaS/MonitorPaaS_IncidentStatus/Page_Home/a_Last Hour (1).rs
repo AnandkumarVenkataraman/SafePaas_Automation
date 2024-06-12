@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R163105974055422926_sort_widget_rows']/a[10]</value>
+         <value>//a[contains(text(),'Last Hour')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f9aa6ce0-d13e-4f63-8a0b-4d83fe182460</webElementGuid>
+      <webElementGuid>f74e70ea-5743-4b52-98bc-7901e401fb77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>0613fdcf-7dde-48cd-8e6b-2707bb832527</webElementGuid>
+      <webElementGuid>e114c439-e947-4bbd-99da-906633bbdbca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>dt_in_last_1_hours</value>
-      <webElementGuid>3bfb9603-392c-44a1-8569-7c8a03c3f035</webElementGuid>
+      <webElementGuid>8681b8d5-44eb-4a18-81a6-32f9987dbe77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-sortWidget-row</value>
-      <webElementGuid>5f4d195a-f405-475b-b204-00b539f375ad</webElementGuid>
+      <webElementGuid>f889a7d8-0b33-4c3b-a501-a5438739e8c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Last Hour</value>
-      <webElementGuid>aa92e622-f448-40fe-91b4-0b44dff68edc</webElementGuid>
+      <webElementGuid>4aa36d70-9e15-4000-a1c9-c215c9438fd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R163105974055422926_sort_widget_rows&quot;)/a[@class=&quot;a-IRR-sortWidget-row&quot;]</value>
-      <webElementGuid>f2bc1c05-9a2e-43b6-90be-c99a7752a6af</webElementGuid>
+      <webElementGuid>73387f5b-d5e0-4c74-83b9-26c9ff36a04f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R163105974055422926_sort_widget_rows']/a[10]</value>
-      <webElementGuid>82ba3653-1ff6-4821-9a7b-8454ecad0767</webElementGuid>
+      <webElementGuid>14c8f1c1-d7f1-4135-a517-16d5fdf7cf96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Last Hour')]</value>
-      <webElementGuid>b1ece1e5-80e5-4876-8a0c-f8fe7b19f82c</webElementGuid>
+      <webElementGuid>09f14fd4-1974-4dc7-849b-2d3be136ec28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[27]</value>
-      <webElementGuid>33023d54-b203-47bc-89c3-8784e2cd88b6</webElementGuid>
+      <webElementGuid>3e89b362-3002-45c0-bd28-dfd1420407f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[10]</value>
-      <webElementGuid>62796226-3cfb-444d-b304-085429285b0c</webElementGuid>
+      <webElementGuid>642e6546-3c44-48f0-99f6-8f0643b45298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Last Hour' or . = 'Last Hour')]</value>
-      <webElementGuid>a6f8f560-7f24-437e-affe-3380b609cd06</webElementGuid>
+      <webElementGuid>ea801ddc-6303-44d2-a630-efad13f6750e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

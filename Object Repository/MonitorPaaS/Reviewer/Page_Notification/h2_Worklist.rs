@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id='R25755450628809654_heading']</value>
+         <value>//h2[@id = 'R25755450628809654_heading' and (text() = 'Worklist' or . = 'Worklist')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>e105ba0b-a87d-4219-9a1b-60c6ee9161bb</webElementGuid>
+      <webElementGuid>821dfd36-e6d3-42ba-9882-a19711c80a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Region-title</value>
-      <webElementGuid>eeb062d3-a34e-4cf3-828e-741f8d0e519f</webElementGuid>
+      <webElementGuid>3d193a35-7d22-4703-aa76-0c11248b24a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R25755450628809654_heading</value>
-      <webElementGuid>0c89ce0e-73da-4cf5-8657-5f434384676d</webElementGuid>
+      <webElementGuid>6807054d-4832-4295-af2b-2739fcc19375</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Worklist</value>
-      <webElementGuid>d683610e-4f63-483e-88fa-fdc95fd349e3</webElementGuid>
+      <webElementGuid>61c2b525-ec7e-4285-8ff0-fc33762e48a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R25755450628809654_heading&quot;)</value>
-      <webElementGuid>9c4ab95d-9682-43db-b0d3-c23050ed5eaa</webElementGuid>
+      <webElementGuid>9287f48b-2fb6-4f30-82f0-d62dd729b49e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='R25755450628809654_heading']</value>
-      <webElementGuid>e652f2d8-26e1-4d84-b327-d3038ea474e1</webElementGuid>
+      <webElementGuid>a1c51b81-1499-40c1-9811-d047c155136d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R25755450628809654']/div/div/h2</value>
-      <webElementGuid>8bb4896c-a658-4209-86df-086453214ffe</webElementGuid>
+      <webElementGuid>1789ea9b-a31b-4149-8ef7-83ef7b2621e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>5e67b85f-03b6-44db-96a1-b4d2b28aefa9</webElementGuid>
+      <webElementGuid>b8f0589d-a8cf-4fe4-bac3-2180fcd91fe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'R25755450628809654_heading' and (text() = 'Worklist' or . = 'Worklist')]</value>
-      <webElementGuid>6040f0f9-a0be-4183-8814-a449cc19819c</webElementGuid>
+      <webElementGuid>88b62d07-b852-4afe-bf97-6c29052df627</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

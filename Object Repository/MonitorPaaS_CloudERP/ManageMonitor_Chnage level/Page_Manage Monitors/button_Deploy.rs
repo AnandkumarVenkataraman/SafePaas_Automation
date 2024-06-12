@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='P20_CREATE']</value>
+         <value>//button[@type = 'button' and @id = 'P20_CREATE' and (text() = 'Deploy' or . = 'Deploy')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fe5769b2-73eb-4cb6-bda2-218efcad4764</webElementGuid>
+      <webElementGuid>49421fb4-d09b-438f-ac7a-d34efb1eb1cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.navigation.redirect('f?p=1110:12:5596352931597:::RP,12:F_DEPLOY_ID:');</value>
-      <webElementGuid>573a3066-e5f1-4ff6-a97a-72176642f4b3</webElementGuid>
+      <webElementGuid>eec5ff48-c7f2-421e-83a2-b02ecb1b4fed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>80e3b15d-eed2-4913-ad9e-a7a624ceb23b</webElementGuid>
+      <webElementGuid>ba66fed6-a11f-4169-b34e-4e173fe0d5fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>35ce7c59-12b3-41d1-94f8-363059bab18c</webElementGuid>
+      <webElementGuid>327a800c-a085-49ad-b46d-4d2e0c8c3d90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P20_CREATE</value>
-      <webElementGuid>49fc536a-a329-4960-8a06-df87c259c1f6</webElementGuid>
+      <webElementGuid>95dac056-0ccf-48b7-8a19-58c5fb14bd03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Deploy</value>
-      <webElementGuid>ddb13c25-9ed7-44b6-9ac9-553f13e0bf11</webElementGuid>
+      <webElementGuid>62441ea3-dcfb-4e71-ae97-e8114d30087b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P20_CREATE&quot;)</value>
-      <webElementGuid>56e4de7a-8a90-4977-8053-56020fa36256</webElementGuid>
+      <webElementGuid>d7757f4f-1a7d-45cc-b05d-373f3841dec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='P20_CREATE']</value>
-      <webElementGuid>ea9f4143-906e-4e7f-8097-3a4f08f774cb</webElementGuid>
+      <webElementGuid>438b2dfd-697f-4b97-b2ff-0df1829c924d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngMonitos']/div/div[2]/button</value>
-      <webElementGuid>15386db4-fbe8-4af5-bf51-c68856636f0e</webElementGuid>
+      <webElementGuid>95c7ec41-88be-4904-bb6c-44ff8f2ee0b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>7af9c0d6-6502-445d-a3e6-561c904a0aad</webElementGuid>
+      <webElementGuid>a8aa16ab-92e2-4905-956e-bf6cb8d88a4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'P20_CREATE' and (text() = 'Deploy' or . = 'Deploy')]</value>
-      <webElementGuid>d48792cc-b302-435c-8878-59be3623fbbc</webElementGuid>
+      <webElementGuid>aefdffe2-95a4-4e3f-8199-372f4fe445ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

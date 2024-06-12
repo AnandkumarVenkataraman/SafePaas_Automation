@@ -59,15 +59,15 @@ WebUI.delay(3)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_ObjSet - STP-F_95ab96'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_ObjSet - STP-F_95ab96'), 
-    '321272', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_ObjSet - STP-F_95ab96'), 
+    'STP_ObjSet - STP_Funds Capture Payment Method', true)
 
 WebUI.delay(3)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'), 
-    '313696', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'), 
+    'STP_FCPM_JUNE11_V1_361711_20240611041056', true)
 
 WebUI.delay(3)
 
@@ -538,13 +538,13 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_ObjSet - STP-F_95ab96'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_ObjSet - STP-F_95ab96'), 
-    '321272', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_ObjSet - STP-F_95ab96'), 
+    'STP_ObjSet - STP_Funds Capture Payment Method', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'), 
-    '313696', true)
+    'STP_FCPM_JUNE11_V1_361711_20240611041056', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/button_Run'))
 

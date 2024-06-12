@@ -6,12 +6,12 @@
    <elementGuidId>ddb5be9b-3e9f-4a69-b9a3-46e216135609</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C176259808418708835']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C176259808418708835 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Role')])[21]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>41c8617a-4aca-454f-b208-b157cc788f71</webElementGuid>
+      <webElementGuid>e558042d-aa92-4054-b46f-b6bc0c69fd07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>e5524ac2-46c1-4147-96db-16be5ba74e14</webElementGuid>
+      <webElementGuid>ce272375-0354-4df9-8b8c-006ec63c0d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>09fd567c-204f-40ff-b5bd-5fbadecaa23c</webElementGuid>
+      <webElementGuid>e73d0bc9-96b9-41ae-820a-bf2e11bdd36e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>176259808418708835</value>
-      <webElementGuid>6afaee8f-00bd-474f-943d-d94c357b56b3</webElementGuid>
+      <webElementGuid>e987f49f-1fb5-4804-83cd-7f1e81d11993</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>a04168a8-442f-4d43-bd2a-5b749821b9af</webElementGuid>
+      <webElementGuid>4746390f-1db4-4b09-b545-bc57dfbbfd8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Role</value>
-      <webElementGuid>0918bd7a-c9b1-461a-93cd-6ac1ce675fae</webElementGuid>
+      <webElementGuid>0796a261-c94d-4302-844a-a881433a6e3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C176259808418708835&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>264c42da-f4df-46ed-96f3-b01c81b01e88</webElementGuid>
+      <webElementGuid>80dbdce0-5e3e-44a2-8145-62359c6579fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C176259808418708835']/a</value>
-      <webElementGuid>d4a769b3-5c33-47fe-9a78-d6a4b5454691</webElementGuid>
+      <webElementGuid>48282d42-6dab-48d4-955a-1f623761988d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Role')])[21]</value>
-      <webElementGuid>e843ecfe-2c21-4431-b8fe-61e0647065c1</webElementGuid>
+      <webElementGuid>2d00ea5c-5513-4036-a1ce-0d9c8395d897</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[24]</value>
-      <webElementGuid>4b92dcf7-c5c9-4e18-b488-5433cb31555e</webElementGuid>
+      <webElementGuid>a94b6dfb-1395-4c48-be98-7a63103debff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/table/tbody/tr/th[7]/a</value>
-      <webElementGuid>6a4dc680-de06-4952-853d-72da9316fdad</webElementGuid>
+      <webElementGuid>3fe04122-9e80-4e9e-8222-178874122c00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Role' or . = 'Role')]</value>
-      <webElementGuid>e3d1f52e-7ebe-4d9d-bb9f-006a82c03d6a</webElementGuid>
+      <webElementGuid>b6aa4956-b4ae-4c9f-ad11-5d1924f61681</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>57709e57-b947-40d7-83ca-6c8d341dbd45</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;selectUnselectAll&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#selectUnselectAll</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'checkbox' and @id = 'selectUnselectAll' and @title = 'Select/Unselect All']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3b5accf8-323e-4b9f-baea-d82f0f501269</webElementGuid>
+      <webElementGuid>bd9ae38b-cbf7-4151-bdec-2a91914966bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>847f9658-800b-4202-862e-558a6d412fa5</webElementGuid>
+      <webElementGuid>963d17cc-1da0-4abd-ba51-b57655a3885f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>selectUnselectAll</value>
-      <webElementGuid>ca73a5ea-0357-4d2d-b9ce-183a9e4d312d</webElementGuid>
+      <webElementGuid>125a7cc6-2ea2-4968-89d5-403c4d8cbc50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Select/Unselect All</value>
-      <webElementGuid>67e0e4de-440b-40a9-9b35-8995fa24d14b</webElementGuid>
+      <webElementGuid>21177608-a4ec-4fbd-8647-2105e1e6d2ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;489704368707432492&quot;)/tr[1]/th[@id=&quot;C136105901491646406&quot;]/span[@class=&quot;a-IRR-headerLabel&quot;]/input[@id=&quot;selectUnselectAll&quot;]</value>
-      <webElementGuid>fa9f5414-9103-49cb-952c-0b37ddf79476</webElementGuid>
+      <webElementGuid>93059f4c-17a7-4443-b4c2-d57c00ff873b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='selectUnselectAll']</value>
-      <webElementGuid>56110e86-3a4d-4a37-bf4b-36c0969a2177</webElementGuid>
+      <webElementGuid>d64a53a8-c197-4f9a-a19a-35671417b18c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C136105901491646406']/span/input</value>
-      <webElementGuid>5f814f98-4ed1-4e84-a9e7-77ae4f6eb491</webElementGuid>
+      <webElementGuid>2f4b8eb7-a320-4e9c-a6b1-f7de9da34f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>e0ef3d55-ac30-4c92-928c-026922c79755</webElementGuid>
+      <webElementGuid>9c029157-0017-48c2-9cd2-bca30f75b2a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'selectUnselectAll' and @title = 'Select/Unselect All']</value>
-      <webElementGuid>83bc6ce8-61a7-49a7-a414-e7a9fd5d4b8e</webElementGuid>
+      <webElementGuid>63ae77d7-47bf-4b81-939e-bf695bb8ffc8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

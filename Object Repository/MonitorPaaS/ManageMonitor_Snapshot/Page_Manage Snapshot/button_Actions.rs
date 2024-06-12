@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='mngSnap_actions_button']</value>
+         <value>//button[@id = 'mngSnap_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8e3f87e6-59a4-41fb-b9d0-2da3a4b436f6</webElementGuid>
+      <webElementGuid>4439cc5f-0ebb-4f19-bf9a-c8bdfa83d552</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mngSnap_actions_button</value>
-      <webElementGuid>c26f2fb0-fb9f-411f-90ad-1a7464765e6f</webElementGuid>
+      <webElementGuid>3dd9592d-f68e-4033-aa10-3e45338e64f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--actions js-menuButton</value>
-      <webElementGuid>a0c8c58e-8eff-4929-ad2c-e9f492f6f8be</webElementGuid>
+      <webElementGuid>0c585111-ee4a-4d5e-90bc-c4f79f96f038</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8e806a6b-2c18-4ba7-a822-3f96b83fd0f8</webElementGuid>
+      <webElementGuid>b22679eb-1471-46ce-ac7e-9df7d646d302</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>mngSnap_actions_menu</value>
-      <webElementGuid>396ffd0f-0291-417b-a56a-27c48e8062f9</webElementGuid>
+      <webElementGuid>d0527920-ee8f-405d-a410-3cd7480b2c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>3742b509-25ed-4e99-813f-a187e56bc73a</webElementGuid>
+      <webElementGuid>c03268c0-3e79-4a27-997d-359eb910f2bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actions</value>
-      <webElementGuid>eac48667-2372-4f76-8e4f-94e0c6f3e7db</webElementGuid>
+      <webElementGuid>64f5077a-6460-4b60-afc6-cc5a4156287a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mngSnap_actions_button&quot;)</value>
-      <webElementGuid>f2ddf7a9-a49c-4968-bab8-174e5bfed2e6</webElementGuid>
+      <webElementGuid>a54b549a-54e1-4a40-9768-31fc856d2180</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='mngSnap_actions_button']</value>
-      <webElementGuid>a8416b0e-10d1-46b2-9368-ce4d023d4a45</webElementGuid>
+      <webElementGuid>47890399-6d85-4425-8405-7934aabbfbfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngSnap_toolbar_controls']/div[3]/div/button</value>
-      <webElementGuid>a8b27c14-59c3-47dc-9270-4cfd973bb0b3</webElementGuid>
+      <webElementGuid>f58cd529-9b2b-4642-856a-96c6c5cffd36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[3]/div/button</value>
-      <webElementGuid>47b405bc-ae19-452c-b349-422c93d6b130</webElementGuid>
+      <webElementGuid>0b837605-2f7d-4a95-82ff-3c0eb4198689</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'mngSnap_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
-      <webElementGuid>01cf3002-4f9f-46f0-aa0f-944950d14408</webElementGuid>
+      <webElementGuid>474d2d92-a0d2-4829-834e-02ac1e471ea5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

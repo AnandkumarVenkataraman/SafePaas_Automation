@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='scheduleButton']</value>
+         <value>//button[@type = 'button' and @id = 'scheduleButton' and (text() = 'Schedule' or . = 'Schedule')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e6f75c03-aaf9-4f85-bd67-e5baacf30861</webElementGuid>
+      <webElementGuid>fc0c12b6-8cac-46b1-8ca9-99e8bb2633df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>environmentAlert;</value>
-      <webElementGuid>6f4e459b-7921-4319-94bc-0c75b99a5aaa</webElementGuid>
+      <webElementGuid>ed22f2ea-9e93-468b-9ee5-03cc320815f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--large</value>
-      <webElementGuid>92c56ec4-732d-4f36-9d32-69778235a96e</webElementGuid>
+      <webElementGuid>6bb1f892-6d20-4d69-9207-ae688525488c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0c7eb58a-f3b4-45c2-9d66-1fa9fa8f09b4</webElementGuid>
+      <webElementGuid>16c8e67f-bf0d-4c08-ac7b-84f690bb54ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>scheduleButton</value>
-      <webElementGuid>b98fbbfa-ebd2-42e0-9823-c55d1b3e55ab</webElementGuid>
+      <webElementGuid>3fc0c291-2a2b-4ddf-bd14-a96b07e07c1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Schedule</value>
-      <webElementGuid>5192df6e-c6a6-4d9b-b2f0-2884ed92f0fd</webElementGuid>
+      <webElementGuid>2193f8ec-e445-4e65-8d38-5c4bfa2aa33a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scheduleButton&quot;)</value>
-      <webElementGuid>859ea588-46b2-4890-9b5d-32432c4b6b5f</webElementGuid>
+      <webElementGuid>c4c26d0b-926c-400a-8439-a6fee756807f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='scheduleButton']</value>
-      <webElementGuid>95b0af04-2ab0-4eaa-af79-dfcab15ef8da</webElementGuid>
+      <webElementGuid>351b638d-404b-4a95-a2f2-1953ac7c23a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R11616617261196737']/div/div[2]/button[2]</value>
-      <webElementGuid>de67b6c2-82f8-4dfa-9b68-f04c7bc58c77</webElementGuid>
+      <webElementGuid>59f9f0d8-58dc-4b26-bfe2-e716b5c7db95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>6b72390a-a666-4be5-a5fc-3cc1d1f419f6</webElementGuid>
+      <webElementGuid>e54e6670-0064-47aa-a1ec-894253795c81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'scheduleButton' and (text() = 'Schedule' or . = 'Schedule')]</value>
-      <webElementGuid>84fc1d30-e072-456e-b4e7-19902dc3b5f0</webElementGuid>
+      <webElementGuid>eecd25ea-86c9-4998-9e28-98210f5fc127</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

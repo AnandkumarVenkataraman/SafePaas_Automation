@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B116942803549579333']</value>
+         <value>//button[@type = 'button' and @id = 'B116942803549579333' and (text() = 'Cancel' or . = 'Cancel')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4c73e0fd-84ea-4ffd-b19c-6df6a6fe65dd</webElementGuid>
+      <webElementGuid>382f9e52-9820-4c0f-a385-72bd3eced0db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button js-ignoreChange</value>
-      <webElementGuid>a1872bbc-7fca-4a99-9283-f165fc92b677</webElementGuid>
+      <webElementGuid>a77316a2-62ee-4821-8d6a-0f6674973647</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>79aa1234-bdaa-49d5-af9b-c46d94a9efb7</webElementGuid>
+      <webElementGuid>c283b527-1b0d-49c7-8866-767319971f7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B116942803549579333</value>
-      <webElementGuid>5f0d8d17-78fa-47c1-8a08-fb83cab3ad56</webElementGuid>
+      <webElementGuid>6c1b6f54-5a2c-4029-b5ad-332f4bd4b4e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancel</value>
-      <webElementGuid>88079a55-5f12-4014-ad79-9278e12a0136</webElementGuid>
+      <webElementGuid>0c153d00-09af-4695-ae14-7356a4d54b95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B116942803549579333&quot;)</value>
-      <webElementGuid>b478f0c3-50d4-4bbe-9306-de0ea0cb69d5</webElementGuid>
+      <webElementGuid>3d165775-05bd-4f68-9b73-6368fd56997b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B116942803549579333']</value>
-      <webElementGuid>ac3d5368-1f3a-4b47-9bc4-77337078628a</webElementGuid>
+      <webElementGuid>fbd086dd-7b10-4d9c-aa45-a13e8db9338c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R116942182800579332']/div/div[2]/button</value>
-      <webElementGuid>4236978d-1fed-4e06-b925-e1e40d7f8f78</webElementGuid>
+      <webElementGuid>45d9c465-9ce1-4b90-9dae-86186cea6fe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>236e9d01-4113-4b2a-b03b-9e1b9a499b8a</webElementGuid>
+      <webElementGuid>df2fe961-bb61-4ea8-b386-ab85321a56b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B116942803549579333' and (text() = 'Cancel' or . = 'Cancel')]</value>
-      <webElementGuid>ac34c1a7-b8b6-4468-bce0-c5686b63489b</webElementGuid>
+      <webElementGuid>7cbfdb34-1438-465b-9340-ab31d5bc5030</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

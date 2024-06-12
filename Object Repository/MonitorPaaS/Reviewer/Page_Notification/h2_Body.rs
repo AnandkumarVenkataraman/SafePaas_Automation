@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id='R26764655112668901_heading']</value>
+         <value>//h2[@id = 'R26764655112668901_heading' and (text() = 'Body' or . = 'Body')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>9e8de062-4c8d-438b-a59c-60247f90eb72</webElementGuid>
+      <webElementGuid>bd7477e9-d470-4820-980e-3b88656c8c2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Region-title</value>
-      <webElementGuid>fa24932b-7706-4f59-b7bd-5333c3dd43b7</webElementGuid>
+      <webElementGuid>de912382-4a22-40b9-9efa-7cf97226e3a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R26764655112668901_heading</value>
-      <webElementGuid>b712f9be-802c-457a-8ed7-a5d0f48707d8</webElementGuid>
+      <webElementGuid>4a023590-56d2-4ed5-b3d2-e743113b4cc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Body</value>
-      <webElementGuid>d54a57ff-d7ab-49a1-a9c2-2d8e41e4c1e6</webElementGuid>
+      <webElementGuid>0e970ae3-fa1d-4f70-bde3-e662c15cf26f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R26764655112668901_heading&quot;)</value>
-      <webElementGuid>7ce744b0-efc0-4204-956d-f06af10911c6</webElementGuid>
+      <webElementGuid>aa8dae1f-2037-4457-807f-25c5d6e44897</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='R26764655112668901_heading']</value>
-      <webElementGuid>8a0369a1-9d00-4c5f-b30c-1f622e0b2efc</webElementGuid>
+      <webElementGuid>8253c312-05e2-4b39-879f-aa54d9f40fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R26764655112668901']/div/div/h2</value>
-      <webElementGuid>ed630a8e-020e-4b27-b9a0-5a42f3153913</webElementGuid>
+      <webElementGuid>31288c91-8d96-47ff-ad5b-06c006324488</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/h2</value>
-      <webElementGuid>1c2c80b6-94b2-4368-873b-81a0cc954e52</webElementGuid>
+      <webElementGuid>07c4ebdc-fa3c-4f32-9acc-84f306aa00d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'R26764655112668901_heading' and (text() = 'Body' or . = 'Body')]</value>
-      <webElementGuid>ff605302-ba03-4aaa-88c1-a4d70e997f15</webElementGuid>
+      <webElementGuid>b97184f3-a271-4720-b508-d05f8a8675ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='R122864292076293001_actions_menu_2i']</value>
+         <value>//button[@type = 'button' and @id = 'R122864292076293001_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>96e5ffec-9a55-43d2-9cf8-955f37220e38</webElementGuid>
+      <webElementGuid>e32e6560-8966-41f8-8d15-f8defb276343</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>37c975d9-9ab8-4bac-b1d6-023e55aefe65</webElementGuid>
+      <webElementGuid>14a78e7e-2fa5-4caa-ab45-6c1672b78b21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R122864292076293001_actions_menu_2i</value>
-      <webElementGuid>1dad5911-a54e-467c-9d6e-4ad48f1a8d80</webElementGuid>
+      <webElementGuid>49959717-260f-4d33-a530-6ce86e66bca7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>cfa10ce4-ecf4-420a-b1d4-990be639d056</webElementGuid>
+      <webElementGuid>d1f71875-63d2-464a-863e-864c480afc31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>427cf51d-ca4f-431d-a8d4-2f27c8ea2d88</webElementGuid>
+      <webElementGuid>62a04858-f364-4dac-b162-9e3a4bd8016f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>34104e2f-8b23-4a49-aae5-2d7975fdcf5f</webElementGuid>
+      <webElementGuid>ce31b192-1239-4593-8dec-72bf828cc5f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R122864292076293001_actions_menu_2i&quot;)</value>
-      <webElementGuid>59eb2124-8dd2-46e7-9653-97d46ce88d0c</webElementGuid>
+      <webElementGuid>a2d8c573-7ee5-480f-8d69-b110fbe9f0b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R122864292076293001_actions_menu_2i']</value>
-      <webElementGuid>896f90b2-b530-4159-918b-ca7bf070862c</webElementGuid>
+      <webElementGuid>53edf26e-435f-4beb-a729-9854faca65ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='R122864292076293001_actions_menu_2']/div/span/button</value>
-      <webElementGuid>eca52b06-4bad-4d06-abae-7ca4d48e6707</webElementGuid>
+      <webElementGuid>a4dd9218-b0db-437e-b4a9-888104c56bf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/button</value>
-      <webElementGuid>6b60ddae-d045-4023-a081-d21d8bae7bc3</webElementGuid>
+      <webElementGuid>db74e73f-d495-4144-bf4f-ad9f96293c54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'R122864292076293001_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>cae75809-e00b-4b2a-b905-a63f4cfbd8fe</webElementGuid>
+      <webElementGuid>ea167c58-aa42-4055-a9ea-53e2e3fc97f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

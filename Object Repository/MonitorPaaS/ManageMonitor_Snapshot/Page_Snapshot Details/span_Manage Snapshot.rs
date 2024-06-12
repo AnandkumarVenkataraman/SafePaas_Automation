@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li/a/span[2]</value>
+         <value>//span[(text() = 'Manage Snapshot' or . = 'Manage Snapshot')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bc5e15ee-b6e6-42ad-9857-7880dd8115fc</webElementGuid>
+      <webElementGuid>6739fba4-245a-42d0-9be8-526a278f5249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Tabs-label</value>
-      <webElementGuid>96a461cf-e8ed-4952-b4e9-7aa59a6f86d4</webElementGuid>
+      <webElementGuid>6a9ccc64-a87c-4d99-b338-d00615607c3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Snapshot</value>
-      <webElementGuid>f8677489-d002-46a5-83d2-bc6599acbe5a</webElementGuid>
+      <webElementGuid>3b61bcaa-a40b-4c89-b0f1-0be363ca4a9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
-      <webElementGuid>c38ccedc-9c02-4fe7-a986-c99c4018e7d9</webElementGuid>
+      <webElementGuid>9e208f58-27bc-4db6-851b-acd5246fcf36</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li/a/span[2]</value>
-      <webElementGuid>661e68be-31d3-48ff-a98b-8b6dbe691f64</webElementGuid>
+      <webElementGuid>0189d223-0ba1-4b2c-a442-af3b7d896b76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/ul/li/a/span[2]</value>
-      <webElementGuid>2a5df71d-a2eb-411e-a8c5-986e5fbe9228</webElementGuid>
+      <webElementGuid>416b8645-e931-4b3c-ae17-14d97010df81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Manage Snapshot' or . = 'Manage Snapshot')]</value>
-      <webElementGuid>8f87e3c1-5eef-420d-bcbd-c04c6e456ae1</webElementGuid>
+      <webElementGuid>0926167a-4b62-486a-9398-26c2f443729f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

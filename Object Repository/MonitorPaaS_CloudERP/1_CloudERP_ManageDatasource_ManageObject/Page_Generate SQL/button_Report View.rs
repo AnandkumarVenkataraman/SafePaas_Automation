@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='R301859173834507222_report_view']</value>
+         <value>//button[@id = 'R301859173834507222_report_view' and @type = 'button' and (text() = 'Report View' or . = 'Report View')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>77453e29-ec0b-48ba-b148-63ad6cf5b59f</webElementGuid>
+      <webElementGuid>e3e15ffc-345f-4900-a62e-d1a223374c2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R301859173834507222_report_view</value>
-      <webElementGuid>1fd1cf7b-54e0-4758-928a-b7c76150de7a</webElementGuid>
+      <webElementGuid>ae0ace40-9de8-4c7e-bf49-09a8cd8f7177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--reportView</value>
-      <webElementGuid>4f324b72-7160-401e-bb36-04f5151393b0</webElementGuid>
+      <webElementGuid>79043646-7e88-411a-99e8-c81c306f02cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>631dd531-c386-4af6-a099-fbf98e0042bc</webElementGuid>
+      <webElementGuid>60ded469-8ba4-42e1-9e3c-c1496b5aa34b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-report-id</name>
       <type>Main</type>
       <value>301874714231677526</value>
-      <webElementGuid>c4bf3f78-a005-44ce-9fe1-c94973374a8a</webElementGuid>
+      <webElementGuid>0512d529-cab8-4360-8f8e-b0eec01502bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Report View</value>
-      <webElementGuid>b7044066-1254-4fce-a955-c010004c65dd</webElementGuid>
+      <webElementGuid>5a3c833d-cb98-43de-aa51-afc62428d8b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R301859173834507222_report_view&quot;)</value>
-      <webElementGuid>0d0b902b-0952-4e15-8aa4-581ba3e14182</webElementGuid>
+      <webElementGuid>11d36ad6-5081-4fb0-92f0-deacf1883be5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R301859173834507222_report_view']</value>
-      <webElementGuid>8226ca5a-971c-490c-a9d8-c85c524bcf6e</webElementGuid>
+      <webElementGuid>7f4cb031-6840-4d4c-8a35-cbc47869b03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R301859173834507222_single_row_view']/div/div/button</value>
-      <webElementGuid>5d3112d9-1696-4eff-9315-a9ab8b8f1d82</webElementGuid>
+      <webElementGuid>4542119e-5ebd-427f-8336-a6ce46876112</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>470163ee-dc81-4b12-b6bb-aaac18b48eec</webElementGuid>
+      <webElementGuid>5e971abc-29b0-4139-be98-d9abc871259c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'R301859173834507222_report_view' and @type = 'button' and (text() = 'Report View' or . = 'Report View')]</value>
-      <webElementGuid>cc1c48f8-c270-479f-ba6d-dee4b2ab0f4e</webElementGuid>
+      <webElementGuid>930f3a13-5ce7-4a1f-91ff-6746ad971d9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

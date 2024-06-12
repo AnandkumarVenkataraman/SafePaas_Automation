@@ -6,15 +6,19 @@
    <elementGuidId>df0fea9b-0c5a-4bf4-b458-6c3829e07714</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Changes saved' or . = 'Changes saved')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>h2.t-Alert-title</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+         <value>//h2[(text() = 'Changes saved' or . = 'Changes saved')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>cc1b3a65-3671-4e1a-b6e5-7b1d3f2d84c2</webElementGuid>
+      <webElementGuid>0a4e37f0-8d01-44f8-b290-30ba62a6ddf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Alert-title</value>
-      <webElementGuid>ec248be8-852a-45b0-ab84-a7e21c9dfe7e</webElementGuid>
+      <webElementGuid>ebffce90-2b5d-449a-ae8a-4477bf816db7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Changes saved</value>
-      <webElementGuid>ce21b1e6-aa00-46c0-a1f5-d24ac35be063</webElementGuid>
+      <webElementGuid>a92ca567-ea87-4153-8490-a8b3e748fa59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
-      <webElementGuid>5d5b4b85-d67f-46f8-8733-4721f9f5818d</webElementGuid>
+      <webElementGuid>f1aed7e1-ed2a-4c79-9c19-8be372e2c7a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
-      <webElementGuid>fe3fb19f-e025-4f69-b778-bee5d4e59f37</webElementGuid>
+      <webElementGuid>8bc2e383-d3ba-4ef9-98b6-b8180c9c1a64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>3c788956-f91b-46fc-aa76-f6ec269ee732</webElementGuid>
+      <webElementGuid>52cc82bd-8a6d-4a0a-9e85-2853742c3644</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Changes saved' or . = 'Changes saved')]</value>
-      <webElementGuid>098e7baa-91b6-470f-a2a4-79c985997186</webElementGuid>
+      <webElementGuid>45656f48-50d8-40cd-83b9-60a6414fb6f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

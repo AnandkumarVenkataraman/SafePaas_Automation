@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B28091219243483670']</value>
+         <value>//button[@type = 'button' and @id = 'B28091219243483670' and (text() = 'Add Another' or . = 'Add Another')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a84b30ed-a58c-4c16-9178-5a5ff78bd37e</webElementGuid>
+      <webElementGuid>c4413c43-70bb-4f72-974d-63505846807d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'INSERT',validate:true});</value>
-      <webElementGuid>2ddb8abd-8b5e-45a6-8296-5459e68a3c24</webElementGuid>
+      <webElementGuid>d2489216-3da7-4e1e-a282-40f5b282692e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>acaae2ef-9dc5-44b0-bcd3-7feac3ec8d0a</webElementGuid>
+      <webElementGuid>33ae14b3-fdac-4521-a7fd-bee4300908ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5889409c-4572-43d4-8adc-7682114eef6c</webElementGuid>
+      <webElementGuid>b486c9b3-1808-450c-8b99-8a0c36e39205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B28091219243483670</value>
-      <webElementGuid>ff501d01-43bf-4baf-ae1b-377234f63927</webElementGuid>
+      <webElementGuid>9cb4bc88-3422-42b3-a78d-643d82bba9ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Another</value>
-      <webElementGuid>01cb0076-15f5-444e-85fe-8fbd6546bd3c</webElementGuid>
+      <webElementGuid>f7cb3afc-3566-4a2c-aa1d-a309dfa7aa93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B28091219243483670&quot;)</value>
-      <webElementGuid>7078f5f9-4d4c-4846-a4ea-aec27d4b33cb</webElementGuid>
+      <webElementGuid>a2be1cbf-b666-4e64-a4c6-d807db0cf0c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B28091219243483670']</value>
-      <webElementGuid>1e39b0cd-a3ea-4da5-ab9a-72e0f83a479b</webElementGuid>
+      <webElementGuid>bebd9597-0c0d-46b4-b5c8-96bc7f029315</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R28066703361006392']/div/div[2]/button[2]</value>
-      <webElementGuid>53cc5b7e-2ee7-4990-9025-af33195615e5</webElementGuid>
+      <webElementGuid>6d6d4f2b-beba-4fa6-a1c4-6e2d16f58aff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>6863deb6-d2e8-4996-b853-d1a2bd53f5c9</webElementGuid>
+      <webElementGuid>9047665c-9aef-4a31-80bb-3d0fb9b6c4fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B28091219243483670' and (text() = 'Add Another' or . = 'Add Another')]</value>
-      <webElementGuid>d849360f-ea48-40a5-a20d-7f3271639053</webElementGuid>
+      <webElementGuid>df6fc0d7-ef5a-47d8-b9e4-e467d744cda1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

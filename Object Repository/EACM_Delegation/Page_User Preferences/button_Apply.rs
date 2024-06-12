@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B105762015379441642']</value>
+         <value>//button[@type = 'button' and @id = 'B105762015379441642' and (text() = 'Apply' or . = 'Apply')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ca36af06-47a3-473d-bb54-7c5cf3b6fd1b</webElementGuid>
+      <webElementGuid>0c6a8ccc-69bf-435b-a45b-d9a5d9bb99f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'DELEGATE_APPLY_CHANGES',validate:true});</value>
-      <webElementGuid>e8523ff5-da25-4a86-b12d-996661b315b2</webElementGuid>
+      <webElementGuid>f9b1a2a3-97d2-4c81-ac5e-eece206f5172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>398c8431-46d1-4045-822e-710b53a51c29</webElementGuid>
+      <webElementGuid>2486f7ec-830e-4e14-84ed-3fdbd2bc174e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>32374d2d-fc7b-4ec0-8451-69c2aa79c0df</webElementGuid>
+      <webElementGuid>10495cb6-889b-4087-a827-59e84c787e61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B105762015379441642</value>
-      <webElementGuid>7bb01390-6e41-47b1-ac70-9530dc411dbf</webElementGuid>
+      <webElementGuid>385c02d9-656b-46c5-a347-e16dc9dc04ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Apply</value>
-      <webElementGuid>398078e7-b167-4b5a-b586-deb0a686ebad</webElementGuid>
+      <webElementGuid>a8869eb2-9260-4986-b859-730b7ee0f9f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B105762015379441642&quot;)</value>
-      <webElementGuid>f41ceb61-0718-44a3-973f-4a0a2fe2198d</webElementGuid>
+      <webElementGuid>7298a890-0bde-417d-af56-2e195c00d9d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B105762015379441642']</value>
-      <webElementGuid>7269d862-a77c-46e8-a6ec-6abd5f8ab990</webElementGuid>
+      <webElementGuid>ac40394f-79e3-4b6b-925f-e6f77f862511</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R105761937899441641']/div/div[2]/button</value>
-      <webElementGuid>87f187ee-1275-4a9f-a815-8e2ae8d85a73</webElementGuid>
+      <webElementGuid>65fc2a7b-a818-4091-8829-b5861923909a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div/div[2]/button</value>
-      <webElementGuid>651a0357-644d-43ac-980c-7e737c5db2ca</webElementGuid>
+      <webElementGuid>25db56a4-b18d-48c4-8266-a13e82a96ab8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B105762015379441642' and (text() = 'Apply' or . = 'Apply')]</value>
-      <webElementGuid>97044c6c-143d-45c6-949c-4082bb1fc3d3</webElementGuid>
+      <webElementGuid>a53a82da-6305-4abe-a3a5-67e10f8baca2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Home/a_M
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'SailPoint_Env', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/button_Actions'))
 
@@ -65,7 +65,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analyt
 WebUI.verifyElementText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/input_p_ignore_10'), 'GRM_Feb29_V1')
+WebUI.setText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/input_p_ignore_10'), 'KTLN_EACM_Survey_June04_V3')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/button_Apply'))
 
@@ -91,21 +91,27 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Details/a_User Access Certification Summary'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Details/a_User Access Certification Summary'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Details/a_User Access Certification Summary'))
+WebUI.click(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Details/a_User Access Certification Summary'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(15)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'SailPoint_Env', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+
+WebUI.delay(15)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Summary/select_Select any oneGRM_Feb28_V1GRM_Feb28__e3250f'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Summary/select_Select any oneGRM_Feb28_V1GRM_Feb28__e3250f'), 
-    'GRM_Feb29_V1', true)
+    'KTLN_EACM_Survey_June04_V3', true, FailureHandling.OPTIONAL)
 
-WebUI.delay(5)
+WebUI.delay(15)
 
 WebUI.takeFullPageScreenshot()
 
@@ -115,10 +121,14 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analyt
 
 WebUI.click(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Summary/a_Cumulative Access Certification'))
 
+WebUI.delay(15)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'SailPoint_Env', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+
+WebUI.delay(15)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Cumulative Access Certification/button_Actions'))
 
@@ -137,7 +147,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba4/EACM_Analytics/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Cumulative Access Certification/input_p_ignore_10'), 
-    'GRM_Feb29_V1')
+    'KTLN_EACM_Survey_June04_V3')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Cumulative Access Certification/button_Apply'))
 

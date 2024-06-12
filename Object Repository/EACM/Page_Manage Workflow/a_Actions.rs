@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//th[@id='actionsCol']/a)[3]</value>
+         <value>//a[(text() = 'Actions' or . = 'Actions')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c115a205-c86f-457a-a03a-24f402f7f3a7</webElementGuid>
+      <webElementGuid>7bdaafc9-08b2-4214-9240-9dc39ac02674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>dce4c2c3-6204-4fde-b61a-a920b4b5821d</webElementGuid>
+      <webElementGuid>40f3d295-cd6c-49be-93ad-ed298a159dea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>97421978931260306</value>
-      <webElementGuid>9bc43a3e-3fd0-4ad8-98ff-39e142d7dc3d</webElementGuid>
+      <webElementGuid>86ae596f-cc8d-45d6-bb04-1afc17354690</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>bd607c3a-920c-4cfb-be3f-afed88ea3cf0</webElementGuid>
+      <webElementGuid>9fb03efb-a576-4ceb-b433-6e530eaa4a49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actions</value>
-      <webElementGuid>087c1e48-7ae2-4667-8cab-dabb180a07fb</webElementGuid>
+      <webElementGuid>4e0de235-ef73-455f-a549-1c14f27ed041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;97390712237089040&quot;)/tr[1]/th[@id=&quot;actionsCol&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>04e00baa-c3f9-47c9-9b45-19a8580074f1</webElementGuid>
+      <webElementGuid>7a4744b4-6a6b-49a6-bf36-14b2382f253a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>(//th[@id='actionsCol']/a)[3]</value>
-      <webElementGuid>c92f31e8-8a81-4005-8d83-e52fd9300ada</webElementGuid>
+      <webElementGuid>804db7b9-495e-4cc6-b71c-61b90a39887b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Actions')])[6]</value>
-      <webElementGuid>68021610-4008-4505-8720-2df1d596fbe9</webElementGuid>
+      <webElementGuid>95870476-8f01-4976-a41a-fa8a79114e4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div/table/tr/th[2]/a</value>
-      <webElementGuid>9c1e6700-d8f3-48cf-af6b-5a2bc31e056e</webElementGuid>
+      <webElementGuid>e5b5f621-d8d3-44fe-9316-5fa7f5a72db8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Actions' or . = 'Actions')]</value>
-      <webElementGuid>b2f6b059-120e-43eb-849e-4191092d51c7</webElementGuid>
+      <webElementGuid>399883d1-a65c-45c2-a657-a1fb32ee6916</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

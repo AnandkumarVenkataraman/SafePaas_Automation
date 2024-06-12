@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Workflow')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4f072d28-8c01-4007-900b-31b5d37a9b5b</webElementGuid>
+      <webElementGuid>d52fe25c-2ab6-4065-8cdd-d557e3dafac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>a772b174-3ad8-4b35-ad70-320936eb96d7</webElementGuid>
+      <webElementGuid>1157a713-5d0d-4741-a07f-947158bb238e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>65dcf0b4-385f-467e-91c8-b436c6c73d09</webElementGuid>
+      <webElementGuid>e205ee57-288b-4fc4-9bb5-8382ae9b47c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>33d75f10-2a5f-4391-8d1b-ff7accd1ff9e</webElementGuid>
+      <webElementGuid>563cd63d-7f3d-4243-befe-5eb9b867b36a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:37:13244615815219:::37::&amp;cs=3EUwIgx5HKSuqZe3a1VQLzwXiQnepjPtyk_TbjA6I_PRrfOGPhFuDoXCGLIwCFkSKwiQ_7Mz0Da9z_Obn4BYiVw</value>
-      <webElementGuid>5794c13f-cfd3-4718-8448-8d8ae5cc7649</webElementGuid>
+      <webElementGuid>3152741d-a396-4036-a2b6-8bac1c9fa3ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>649219c3-7e04-4d7a-b593-8bf7c18fae7f</webElementGuid>
+      <webElementGuid>57152e29-5662-4b1b-8118-42a2a57e8766</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0f5b282a-b5b1-4557-885c-f092ed5564a4</webElementGuid>
+      <webElementGuid>68fa9087-4e9f-4b92-858d-64ddbaad3ffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Workflow</value>
-      <webElementGuid>e36fb0e4-72b8-466c-9059-26d83005e24a</webElementGuid>
+      <webElementGuid>d933ff4f-7cd7-4f54-98d0-dbfca6ef4f8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_8&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>55258de1-2421-4b58-94e9-c8d36e306028</webElementGuid>
+      <webElementGuid>598ed68d-da49-4d23-9c8c-cf713d8c9588</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
-      <webElementGuid>593e389c-1e1d-4f88-9859-ae28294e8364</webElementGuid>
+      <webElementGuid>90af6c76-b675-42c2-a6f2-21507c9bfe56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Workflow')]</value>
-      <webElementGuid>2611ed70-1a78-4193-bc58-02360fa7e6e2</webElementGuid>
+      <webElementGuid>4ca8f02f-b076-4759-b7e9-a845762806a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:37:13244615815219:::37::&amp;cs=3EUwIgx5HKSuqZe3a1VQLzwXiQnepjPtyk_TbjA6I_PRrfOGPhFuDoXCGLIwCFkSKwiQ_7Mz0Da9z_Obn4BYiVw')]</value>
-      <webElementGuid>7c08175a-e1c0-4a8b-b36c-7a04fb76a917</webElementGuid>
+      <webElementGuid>fac7a023-1fdc-470d-afe6-c7f1caf301f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div[2]/a</value>
-      <webElementGuid>5d83763f-1aec-454d-b06a-075cbe189bc7</webElementGuid>
+      <webElementGuid>a3b6748d-4577-45dc-85f1-991b566e782b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:37:13244615815219:::37::&amp;cs=3EUwIgx5HKSuqZe3a1VQLzwXiQnepjPtyk_TbjA6I_PRrfOGPhFuDoXCGLIwCFkSKwiQ_7Mz0Da9z_Obn4BYiVw' and (text() = 'Manage Workflow' or . = 'Manage Workflow')]</value>
-      <webElementGuid>6fd92c47-8a12-41bf-996f-a9526c8da43e</webElementGuid>
+      <webElementGuid>142432c2-69ba-435d-80ff-966954072b75</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

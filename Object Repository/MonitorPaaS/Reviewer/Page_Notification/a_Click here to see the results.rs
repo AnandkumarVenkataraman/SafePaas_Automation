@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R26764655112668901']/div[2]/div[2]/u/a</value>
+         <value>//a[contains(text(),'Click here to see the results')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f66e8a1d-2cd2-42c8-919f-408ed5e6c9e7</webElementGuid>
+      <webElementGuid>b12e38f2-6a8b-4344-9480-c85158858c45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://us21n.safepaas.com/monitor/f?p=1110:61:::::P0_ENVIRONMENT,P61_ANALYTICS,P61_CONTROL_ID,P61_FROM_EMAIL:,,,1</value>
-      <webElementGuid>abdd834f-b606-4828-a93f-aa86df280237</webElementGuid>
+      <webElementGuid>dc80cfbc-66bf-42db-b994-3f9053e87612</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Click here to see the results</value>
-      <webElementGuid>3646b9f3-dbfd-4377-817a-cc8d95cbc398</webElementGuid>
+      <webElementGuid>3f0a7c30-dd19-4958-aa9a-2ecc65569b98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R26764655112668901&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/u[1]/a[1]</value>
-      <webElementGuid>4dd275ba-cfdf-4b70-a6a2-2afc73c05db2</webElementGuid>
+      <webElementGuid>dff76ddf-b07b-4b4f-8c75-9c3650b087e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R26764655112668901']/div[2]/div[2]/u/a</value>
-      <webElementGuid>e856783d-156a-457f-a8d9-39ec91356528</webElementGuid>
+      <webElementGuid>94e1fa37-5c0e-42a8-b6c4-5ba4dd337d00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Click here to see the results')]</value>
-      <webElementGuid>2e6bb471-1462-49db-b1da-5fbb7d6d8f9d</webElementGuid>
+      <webElementGuid>f300757b-6552-4495-83f0-2a4abac21257</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://us21n.safepaas.com/monitor/f?p=1110:61:::::P0_ENVIRONMENT,P61_ANALYTICS,P61_CONTROL_ID,P61_FROM_EMAIL:,,,1')]</value>
-      <webElementGuid>253f5593-da01-44ea-bf78-4888f915c024</webElementGuid>
+      <webElementGuid>c82f7499-2e09-44c2-8948-96b032206435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//u/a</value>
-      <webElementGuid>b09ca63b-a28c-41e9-a9e9-a02d3f17fcd5</webElementGuid>
+      <webElementGuid>6047fdbd-28d3-459d-8d52-ba13452347b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://us21n.safepaas.com/monitor/f?p=1110:61:::::P0_ENVIRONMENT,P61_ANALYTICS,P61_CONTROL_ID,P61_FROM_EMAIL:,,,1' and (text() = 'Click here to see the results' or . = 'Click here to see the results')]</value>
-      <webElementGuid>d839c8c3-677f-48c5-95f0-7beccc219ffb</webElementGuid>
+      <webElementGuid>cc7a8aba-2b80-4998-88e4-7da315dfe544</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

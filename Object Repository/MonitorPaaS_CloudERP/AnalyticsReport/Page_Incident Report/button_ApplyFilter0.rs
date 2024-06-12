@@ -6,12 +6,12 @@
    <elementGuidId>68d865c8-5a2a-433a-b324-ad5344d0df5b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[13]/div[3]/div/button[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.ui-button--hot.ui-button.ui-corner-all.ui-widget</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d7006420-d21e-43fe-8d54-631d3fcd23c1</webElementGuid>
+      <webElementGuid>51c7925c-4902-49b8-896c-fc1812f40cde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2d5b2be8-a1f7-47a7-9cc6-7c5b26677349</webElementGuid>
+      <webElementGuid>6331f2e2-160a-44cb-b316-32108485175b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button--hot ui-button ui-corner-all ui-widget</value>
-      <webElementGuid>beea8437-d9d8-4a4a-9684-7c77497fa8a3</webElementGuid>
+      <webElementGuid>41a9325f-fe6c-4758-af8a-49cb68d54540</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Apply</value>
-      <webElementGuid>fb72e3aa-4112-4586-9998-3f59549b2ede</webElementGuid>
+      <webElementGuid>4948038f-ea4f-4fe7-8c08-e4183cffd16c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front a-IRR-dialog a-IRR-dialog--filter ui-dialog-buttons ui-draggable ui-resizable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;ui-button--hot ui-button ui-corner-all ui-widget&quot;]</value>
-      <webElementGuid>9a53e99d-dd20-4c2b-b10b-007388794335</webElementGuid>
+      <webElementGuid>193f20b1-9a6d-4870-a6c3-6744c23026f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[55]</value>
-      <webElementGuid>d2a47f93-d48a-4efc-bff0-68aeb33e1eed</webElementGuid>
+      <webElementGuid>17883140-22e6-41ad-bae3-240dca4ce887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[14]/div[3]/div/button[2]</value>
-      <webElementGuid>6fe2ff89-f258-4fd4-9456-c3c20cd910ea</webElementGuid>
+      <webElementGuid>549acd5c-73e7-4ed8-9aa4-910196770f37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>d8aa67d1-94da-4feb-b2e1-e53a8eced006</webElementGuid>
+      <webElementGuid>62401409-2e9c-4ab8-8e15-9875d2c11ab7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
-      <webElementGuid>ee366a5d-130a-493e-a021-3acbba09ea04</webElementGuid>
+      <webElementGuid>58a553b7-5f3f-4e59-ba8f-a0a36399be8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

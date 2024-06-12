@@ -210,7 +210,5 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Inciden
 
 WebUI.comment('click on submit button')
 
-WebUI.delay(500)
-
 WebUI.closeBrowser()
 

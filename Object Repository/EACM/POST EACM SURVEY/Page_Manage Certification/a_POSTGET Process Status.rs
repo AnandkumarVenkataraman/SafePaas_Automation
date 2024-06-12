@@ -6,15 +6,19 @@
    <elementGuidId>cd662e98-dfce-460f-8594-8ae20b889fe4</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'POST/GET Process Status' or . = 'POST/GET Process Status')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#C166878086671089129 > a.a-IRR-headerLink</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//th[@id='C166878086671089129']/a</value>
+         <value>//a[(text() = 'POST/GET Process Status' or . = 'POST/GET Process Status')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>939a944d-d2b4-4188-8dea-4d5fbf62eace</webElementGuid>
+      <webElementGuid>abc5796c-0cba-4219-9839-30705e700b00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>bf9df84e-4958-4274-a311-cd7c3f094643</webElementGuid>
+      <webElementGuid>74e0834f-21eb-41ac-b880-07889be66164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>166878086671089129</value>
-      <webElementGuid>0237be54-64ba-48c8-a343-b3e665d7096c</webElementGuid>
+      <webElementGuid>3c94a70e-f688-48fd-b473-cc9d4b5bcff7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>9e233483-751e-47e0-8833-26ce5df0bdf6</webElementGuid>
+      <webElementGuid>fc1172e0-a319-4911-bdfa-e444d8f89f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>POST/GET Process Status</value>
-      <webElementGuid>f64792ad-4db5-4473-ae38-a0b73ccfb452</webElementGuid>
+      <webElementGuid>b1f8eeb9-5739-416f-a0e0-f8988175368d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;311382674342716621&quot;)/tr[1]/th[@id=&quot;C166878086671089129&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>a1fb3ca5-d36b-4855-8c70-a323ea8ebe68</webElementGuid>
+      <webElementGuid>20ed8d83-82b0-4dd8-9727-261156601840</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C166878086671089129']/a</value>
-      <webElementGuid>ecb8c55d-8150-458f-8519-7e515d796225</webElementGuid>
+      <webElementGuid>6c3bc51a-0090-4001-ae60-01e7f07f92e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'POST/GET Process Status')]</value>
-      <webElementGuid>7f17775a-d872-4055-8632-2d921ef81468</webElementGuid>
+      <webElementGuid>7c530d5c-0fb5-420d-95d2-a7505d6f650d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[10]/a</value>
-      <webElementGuid>81844eff-ecf2-4f24-b266-7e658e4259d5</webElementGuid>
+      <webElementGuid>a44fa22c-95bc-4135-93a0-aee436ebc2d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'POST/GET Process Status' or . = 'POST/GET Process Status')]</value>
-      <webElementGuid>bbe343fd-8cb2-455b-8227-d251f317ba28</webElementGuid>
+      <webElementGuid>67fb537a-7695-4c3e-a18d-fd2ddfe64de4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

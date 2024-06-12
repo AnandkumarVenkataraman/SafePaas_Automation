@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='144264340282266620_orig']/tbody/tr[2]/td[5]/a</value>
+         <value>//a[contains(text(),'Completed')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>554a891d-fa99-43a4-a86f-ef41a07d2fdd</webElementGuid>
+      <webElementGuid>f17d50fa-f63f-44c6-974d-b64e69b93b37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:10:2102189430563:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:313142,Y</value>
-      <webElementGuid>0774d36f-dcef-4cbd-aa2c-989b91d10396</webElementGuid>
+      <webElementGuid>a8439d9d-b619-437d-9578-30f739b71d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Completed</value>
-      <webElementGuid>addef686-79ce-4ebb-8096-fedd7ae2008d</webElementGuid>
+      <webElementGuid>f9a540f1-fed5-44f3-82d7-58051e949471</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;144264340282266620_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]</value>
-      <webElementGuid>29e28a5f-a30e-4299-8fc2-791aae1e4a6e</webElementGuid>
+      <webElementGuid>e811c416-b6d9-4f7d-9da0-2f34a691e7b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='144264340282266620_orig']/tbody/tr[2]/td[5]/a</value>
-      <webElementGuid>cb691304-4c90-47ff-9940-89147231c4e2</webElementGuid>
+      <webElementGuid>4c691f79-15cf-4b91-9ba3-c5d6194d8d3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Completed')]</value>
-      <webElementGuid>3e6bc757-0129-4814-b947-ea88d7474455</webElementGuid>
+      <webElementGuid>1c54df3d-7921-483d-95ba-da9cf4847f1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:10:2102189430563:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:313142,Y')]</value>
-      <webElementGuid>44d9e807-625e-4e06-b534-45ae34997c34</webElementGuid>
+      <webElementGuid>8c49f087-3415-463b-b56d-2f0184bd721b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]/a</value>
-      <webElementGuid>3fc4dcf1-a265-41f1-b691-4c61cbd06fba</webElementGuid>
+      <webElementGuid>60fcd95d-7232-41d6-b418-8330a25aafe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:10:2102189430563:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:313142,Y' and (text() = 'Completed' or . = 'Completed')]</value>
-      <webElementGuid>0b32f478-bee7-4671-9f72-73a519a4389c</webElementGuid>
+      <webElementGuid>cf93bea0-81d8-41dc-b43b-bd3305931915</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

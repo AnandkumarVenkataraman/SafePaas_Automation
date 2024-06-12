@@ -31,26 +31,30 @@ WebUI.setEncryptedText(findTestObject('Object Repository/EACM/POST EACM SURVEY/P
 
 WebUI.click(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Login/button_Login'))
 
-WebUI.verifyElementClickable(findTestObject('EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1) - 700'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1)'))
 
-WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1) - 700'))
+WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1)'))
 
-WebUI.verifyElementClickable(findTestObject('EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1 (1)- 701'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1 (1)'))
 
-WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1 (1)- 701'))
+WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1 (1)'))
 
-WebUI.verifyElementClickable(findTestObject('EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1_2 (1) - 702'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
 
-WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1_2 (1) - 702'))
+WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
 
-WebUI.verifyElementClickable(findTestObject('EACM/POST EACM SURVEY/Page_Home/a_Manage Certification - 821'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba/Rough/EACM_AutomaticPOST/Page_Home/a_Manage Certification'))
 
-WebUI.click(findTestObject('EACM/POST EACM SURVEY/Page_Home/a_Manage Certification - 821'))
+WebUI.click(findTestObject('Object Repository/deba/Rough/EACM_AutomaticPOST/Page_Home/a_Manage Certification'))
+
+WebUI.delay(5)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
     'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+
+WebUI.delay(15)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/button_Actions'))
 
@@ -65,7 +69,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SU
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 'KTLN_EACM_Survey_Feb15_V3')
+WebUI.setText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 'KTLN_EACM_Survey_June05_V4')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/button_Apply'))
 
@@ -104,15 +108,21 @@ WebUI.verifyElementClickable(findTestObject('EACM/POST EACM SURVEY/Page_Log Repo
 
 WebUI.click(findTestObject('EACM/POST EACM SURVEY/Page_Log Report/a_User Access Certification Details - 677'))
 
+WebUI.delay(20)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
     'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
 
+WebUI.delay(20)
+
 WebUI.verifyElementClickable(findTestObject('EACM/POST EACM SURVEY/Page_User Access Certification Details/select_Select any oneKTLN_EACM_Survey_Feb12_597753 - 0003'))
 
 WebUI.selectOptionByLabel(findTestObject('EACM/POST EACM SURVEY/Page_User Access Certification Details/select_Select any oneKTLN_EACM_Survey_Feb12_597753 - 0003'), 
-    'KTLN_EACM_Survey_Feb15_V3', true, FailureHandling.OPTIONAL)
+    'KTLN_EACM_Survey_June05_V4', true, FailureHandling.OPTIONAL)
+
+WebUI.delay(20)
 
 WebUI.delay(3)
 
@@ -130,8 +140,8 @@ WebUI.click(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Ac
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/select_StatusRole GroupUser NameUser Displa_8fbe19'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/select_StatusRole GroupUser NameUser Displa_8fbe19'), 
-    'VALIDATE_STATUS', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/select_StatusRole GroupUser NameUser Displa_8fbe19'), 
+    'Validate Status', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/select_is nullis not nulllikenot likeinnot _365127'))
 

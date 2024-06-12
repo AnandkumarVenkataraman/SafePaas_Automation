@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[3]/a/span[2]</value>
+         <value>//span[(text() = 'Rule Logic' or . = 'Rule Logic')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d8e7b9d2-cea2-4450-8276-7b8f3c435e51</webElementGuid>
+      <webElementGuid>9469f78b-9a80-4995-829d-af82b4b7731f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Tabs-label</value>
-      <webElementGuid>e9d3bcfd-e1fa-419f-ad05-2fe40e04d862</webElementGuid>
+      <webElementGuid>f14ff329-5dd3-4a8b-8a80-a16a44487bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Rule Logic</value>
-      <webElementGuid>0d92a44a-d9c0-4f20-9e17-206b8a266d12</webElementGuid>
+      <webElementGuid>9af91ec2-78a0-4904-be16-977e12f63fc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
-      <webElementGuid>2500df37-2d0f-433f-b062-0ede9f2f346f</webElementGuid>
+      <webElementGuid>8a5fb2de-2373-4ec6-abca-b0123d482c40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[3]/a/span[2]</value>
-      <webElementGuid>e71e92e5-faeb-4501-9946-7a0f6610528d</webElementGuid>
+      <webElementGuid>40f8429a-d76a-4c9b-8504-1b5bafe0a50d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/span[2]</value>
-      <webElementGuid>024c43e0-85a5-4646-be4d-f9bfbffe87cc</webElementGuid>
+      <webElementGuid>17cb2ba6-b24a-4250-b511-f4dd854e0610</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +69,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Rule Logic' or . = 'Rule Logic')]</value>
-      <webElementGuid>a3d2e143-aa37-4577-b3f7-12484de0db06</webElementGuid>
+      <webElementGuid>bd064a1c-a40f-4dc8-aa1d-044f7c7e5d8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

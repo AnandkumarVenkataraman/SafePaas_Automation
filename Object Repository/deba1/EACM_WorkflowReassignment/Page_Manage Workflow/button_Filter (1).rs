@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='wfReport_actions_menu_2i']</value>
+         <value>//button[@type = 'button' and @id = 'wfReport_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1041ae5b-319d-49ab-9b41-4d3c719d637d</webElementGuid>
+      <webElementGuid>670b1fec-c016-4b94-a221-716d18262da0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8b7441aa-72b0-478c-851e-f82c36c82f5f</webElementGuid>
+      <webElementGuid>10eb48c2-4181-4659-a1b3-43b4340f6821</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>wfReport_actions_menu_2i</value>
-      <webElementGuid>12d61cb2-3aa8-4123-92e3-a774d570af42</webElementGuid>
+      <webElementGuid>66109173-14cb-434a-910e-7792111b1269</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>ca5ed34d-3ef7-48d0-996c-afdf04d351de</webElementGuid>
+      <webElementGuid>3828ac2d-627c-4b1a-9664-984f6e0406df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>a62c3167-d00d-4136-9c33-82cbee945377</webElementGuid>
+      <webElementGuid>7862afd0-842e-4a6b-862f-90a08cd9d9ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>c3217ba6-0586-4e60-8760-299548263746</webElementGuid>
+      <webElementGuid>2359b651-69d9-416b-9b16-0548c52bf7d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wfReport_actions_menu_2i&quot;)</value>
-      <webElementGuid>0bb5d00f-dd56-471b-b563-b4fa63c3fae8</webElementGuid>
+      <webElementGuid>cf5c3e38-e008-427d-a82d-d3ad8f789e49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='wfReport_actions_menu_2i']</value>
-      <webElementGuid>39a32324-863c-43d0-9ca3-14ad71ed3a3b</webElementGuid>
+      <webElementGuid>59f1996d-df21-4e2a-af30-7300b7513d86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='wfReport_actions_menu_2']/div/span/button</value>
-      <webElementGuid>1f6d3696-7a67-46d0-a755-78615fe7e255</webElementGuid>
+      <webElementGuid>ca4f57d7-e79b-4bd6-8f82-2b8e3d383a57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/button</value>
-      <webElementGuid>e831a693-b5ec-4175-b505-6013b4c2b836</webElementGuid>
+      <webElementGuid>818bc2d6-9700-43a2-a967-d6ac724d7745</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'wfReport_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>ff1add08-af16-4cc4-b2c7-938522b31b6d</webElementGuid>
+      <webElementGuid>27e77169-42ff-4ed6-acbd-f38db24c55bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

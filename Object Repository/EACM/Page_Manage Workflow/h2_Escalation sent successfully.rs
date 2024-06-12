@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+         <value>//h2[(text() = 'Escalation sent successfully' or . = 'Escalation sent successfully')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>65c4379d-0a6e-4cb3-a58e-e14bf8d52233</webElementGuid>
+      <webElementGuid>89585569-a3b4-46a0-96d2-2812c08f30f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Alert-title</value>
-      <webElementGuid>041b1ec0-bf4c-4a49-8299-df063a514a8e</webElementGuid>
+      <webElementGuid>c4035eb5-2fa2-4449-8a57-a22cf9c9f3e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Escalation sent successfully</value>
-      <webElementGuid>1b1d86cb-1ff9-4ad1-b01d-9048565c0f5e</webElementGuid>
+      <webElementGuid>f5f2345c-6769-400c-a4b0-6f83a87aabac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
-      <webElementGuid>a261c682-2873-4385-9eb4-83c812e27471</webElementGuid>
+      <webElementGuid>c812e62e-1639-4f02-acb8-0866ab0f821b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
-      <webElementGuid>3516d456-0704-4508-93af-851cd7e1207e</webElementGuid>
+      <webElementGuid>6613b6b8-cd4d-48fa-bbd4-16372c4d6eaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>6a3b2862-aa6f-468d-97dd-86ef7967e9ff</webElementGuid>
+      <webElementGuid>29ef0181-759d-4770-a2ff-9af565c66df3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Escalation sent successfully' or . = 'Escalation sent successfully')]</value>
-      <webElementGuid>013dafea-456a-498b-b3ad-2935d33a01f9</webElementGuid>
+      <webElementGuid>b00da90b-f0df-4e9a-bc77-ee02244e7d22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

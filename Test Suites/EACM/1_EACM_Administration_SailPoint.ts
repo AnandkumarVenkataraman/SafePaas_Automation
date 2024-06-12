@@ -15,7 +15,7 @@
       <guid>ed745858-b58e-4828-9786-f66ac1ae00bf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/21_EACM_Administration_SailPoint</testCaseId>
+      <testCaseId>Test Cases/Login and ManageRulesTag/21_EACM_Administration_SailPoint</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

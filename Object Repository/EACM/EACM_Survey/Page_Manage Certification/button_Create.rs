@@ -6,15 +6,19 @@
    <elementGuidId>af5c9dd0-646b-4be0-8855-f7587baff77a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='B167126276549450183']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B167126276549450183' and (text() = 'Create' or . = 'Create')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#B167126276549450183</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'B167126276549450183' and (text() = 'Create' or . = 'Create')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d7f82d41-e62a-4599-a39b-0a0b6b560186</webElementGuid>
+      <webElementGuid>09b2cb02-beab-471a-babb-b06916ce7f5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.navigation.redirect('f?p=1400:10:15672509728453:::RP,10::');</value>
-      <webElementGuid>b6b83bbd-14dd-42ef-82bd-88e741082a8a</webElementGuid>
+      <webElementGuid>6fff489a-be26-41ea-9746-5e1fd1bacb1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>61809ac4-a029-4075-8018-95bafa70e8f8</webElementGuid>
+      <webElementGuid>ea8a70ed-a9f2-4b41-99e1-6a9675bc6fd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d6cfe83a-43bf-45ff-9e25-a0336930b90f</webElementGuid>
+      <webElementGuid>fe87e7dd-7ec5-4c6e-8610-889c4ddde94c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B167126276549450183</value>
-      <webElementGuid>71294c11-0b8f-437f-bf5b-8c877263b452</webElementGuid>
+      <webElementGuid>14944039-3b43-49ec-a3d2-73fd5621fcba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create</value>
-      <webElementGuid>85f1a84f-a1ad-4a94-ab73-0618f9fb341b</webElementGuid>
+      <webElementGuid>16420733-93b7-4d6f-8109-6b976a3d69e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B167126276549450183&quot;)</value>
-      <webElementGuid>4c92ad43-dad0-4183-a760-c1e97800658e</webElementGuid>
+      <webElementGuid>9b2dfeaf-410d-4e1b-9990-dd2e67f1fb47</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B167126276549450183']</value>
-      <webElementGuid>e87e3aea-8eb8-4914-bc06-ae06590426e4</webElementGuid>
+      <webElementGuid>4ec17b6b-dba6-4a85-8dd3-d995b0ef56b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngSnap']/div/div[2]/button</value>
-      <webElementGuid>722c5d7d-7dc9-4588-ad12-06a6048770af</webElementGuid>
+      <webElementGuid>ec591600-7b07-4ea7-a2a1-40f98a25cd8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>ae736623-26f9-49f4-989d-9417ed2833f7</webElementGuid>
+      <webElementGuid>99b6072e-eb8e-40b0-a66d-82ef7f69742b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B167126276549450183' and (text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>cb0e4612-83b1-4089-b679-5e132ef234f2</webElementGuid>
+      <webElementGuid>0e296022-93be-4985-9029-c4b0b8f84bc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

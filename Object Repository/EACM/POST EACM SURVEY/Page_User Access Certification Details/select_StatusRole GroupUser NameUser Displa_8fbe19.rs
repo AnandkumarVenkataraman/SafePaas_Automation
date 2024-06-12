@@ -6,6 +6,10 @@
    <elementGuidId>549b5902-a741-441a-92b0-caf1ca1dd826</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'uacDetails_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'StatusRole GroupUser NameUser Display NameUser TypeEmail AddressRolePrimary OwnerSecondary OwnerValidate StatusJustificationReceived ByVerified ByTicket NoTicket StatusOrig IdStart DateUser Certification NameVerified Date' or . = 'StatusRole GroupUser NameUser Display NameUser TypeEmail AddressRolePrimary OwnerSecondary OwnerValidate StatusJustificationReceived ByVerified ByTicket NoTicket StatusOrig IdStart DateUser Certification NameVerified Date')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#uacDetails_column_name</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>//select[@id='uacDetails_column_name']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>2bb10133-4cd6-41c3-bb41-6667bfc77e72</webElementGuid>
+      <webElementGuid>9e44522e-967d-4778-b8f3-e1c83d5dda51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>id</name>
       <type>Main</type>
       <value>uacDetails_column_name</value>
-      <webElementGuid>05a8a84f-f192-4274-831b-614672d1c83d</webElementGuid>
+      <webElementGuid>aaa52eae-ac09-4e26-afe3-c6038c3b2c91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Column</value>
-      <webElementGuid>8c9b247b-3a69-4c08-a357-9ac8f406d61a</webElementGuid>
+      <webElementGuid>ef58902d-310c-4afb-8431-f7c5e14b71dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>p_ignore_10</value>
-      <webElementGuid>719a85cc-97d7-42cb-81f8-cc3fe4a92acf</webElementGuid>
+      <webElementGuid>8b4db01c-1368-4d58-bfbc-a8df5a8861e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>6ecbd4de-52b9-419c-9bd5-bec82b3b3657</webElementGuid>
+      <webElementGuid>9ecf99b8-6da3-4514-9006-e26ee22db2c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-item-select</value>
-      <webElementGuid>d053bed5-9663-4e54-8b0c-37ef0cb2907a</webElementGuid>
+      <webElementGuid>87483277-521c-4e2c-8a3b-ec724520f017</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>text</name>
       <type>Main</type>
       <value>StatusRole GroupUser NameUser Display NameUser TypeEmail AddressRolePrimary OwnerSecondary OwnerValidate StatusJustificationReceived ByVerified ByTicket NoTicket StatusOrig IdStart DateUser Certification NameVerified Date</value>
-      <webElementGuid>fae2379c-8004-4606-83ff-87ef04b06bf4</webElementGuid>
+      <webElementGuid>e766a058-95f9-4f83-b832-7358799aee12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;uacDetails_column_name&quot;)</value>
-      <webElementGuid>a0fb26fa-b2a3-45bc-b9b5-05345b1d94b6</webElementGuid>
+      <webElementGuid>64a571fa-e34e-498d-aef3-ddadd0af8711</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='uacDetails_column_name']</value>
-      <webElementGuid>b8d26f6a-573e-4f51-8ef4-5876daed60e4</webElementGuid>
+      <webElementGuid>d8d7ed27-6430-4b9d-af80-1ad905d14cdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='uacDetails_column_filter']/div/div/div/div[2]/select</value>
-      <webElementGuid>27a23a7f-c193-4efb-be40-e52d60de89ca</webElementGuid>
+      <webElementGuid>5fb79172-daca-4fd5-8cf5-d0466ad1e373</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>bfc21e35-d84b-4050-9fc9-1787eb8e6db3</webElementGuid>
+      <webElementGuid>6c2f0b5c-1b40-43bd-8897-96e1b7c51ee8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'uacDetails_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'StatusRole GroupUser NameUser Display NameUser TypeEmail AddressRolePrimary OwnerSecondary OwnerValidate StatusJustificationReceived ByVerified ByTicket NoTicket StatusOrig IdStart DateUser Certification NameVerified Date' or . = 'StatusRole GroupUser NameUser Display NameUser TypeEmail AddressRolePrimary OwnerSecondary OwnerValidate StatusJustificationReceived ByVerified ByTicket NoTicket StatusOrig IdStart DateUser Certification NameVerified Date')]</value>
-      <webElementGuid>787814bc-101b-40b8-b23c-6f6d16fff253</webElementGuid>
+      <webElementGuid>cd3dcb23-61b9-4563-88cc-aaa3a37666aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

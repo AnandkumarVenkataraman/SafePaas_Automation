@@ -31,12 +31,12 @@ WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Submi
 WebUI.comment('Enter KAT company')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Submitted by Reviewer/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (1) (1) (1)'), 
-    'ANANDK1')
+    'DPATEL')
 
 WebUI.comment('Enter the Username as ANANDK1')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Submitted by Reviewer/Page_Login/input_New_P101_PASSWORD (1) (1) (1)'), 
-    'ValhQjMPEplf6UMceguWnQ==')
+    '0zGlmfjtZXdd0J79v48Xbw==')
 
 WebUI.comment('Enter the Password')
 
@@ -44,9 +44,9 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Submitt
 
 WebUI.comment('click on Login button')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:REVIEWER,66812886,313696,40217,321272')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:REVIEWER,66812854,314325,40639,322570')
 
-WebUI.comment('launch the Incident report URL for Owner')
+WebUI.comment('launch the Incident report URL for reviewer')
 
 WebUI.delay(3)
 

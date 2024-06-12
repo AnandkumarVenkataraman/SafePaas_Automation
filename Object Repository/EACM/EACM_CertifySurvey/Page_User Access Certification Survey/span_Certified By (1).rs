@@ -6,15 +6,19 @@
    <elementGuidId>bdf9ad23-3872-4490-a3bd-a6e1e906d086</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'C484082020014932127_HDR' and (text() = 'Certified By' or . = 'Certified By')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#C484082020014932127_HDR</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='C484082020014932127_HDR']</value>
+         <value>//span[@id = 'C484082020014932127_HDR' and (text() = 'Certified By' or . = 'Certified By')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e1934918-4b98-41fb-953c-cd5190105ea6</webElementGuid>
+      <webElementGuid>02641a46-78fc-40c8-985c-3ee68cc81674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>ad3154b7-f60a-4e68-850d-1b007e79bb28</webElementGuid>
+      <webElementGuid>f76462e5-e477-4f05-aeed-6af3fb1c5a03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>C484082020014932127_HDR</value>
-      <webElementGuid>8fa7fa57-4bd1-42e1-8f53-c213174b6e7d</webElementGuid>
+      <webElementGuid>83e176f7-6584-401e-aedb-f6f19025003c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Certified By</value>
-      <webElementGuid>25d85604-6adb-4f84-bb89-8f84bcd18be4</webElementGuid>
+      <webElementGuid>74043ecb-b8ad-40ca-b338-51d30875002f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C484082020014932127_HDR&quot;)</value>
-      <webElementGuid>4950dc90-7645-4007-be96-ed92149bc5e9</webElementGuid>
+      <webElementGuid>f034dcb7-67ad-46e7-a8b9-2671111b53f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='C484082020014932127_HDR']</value>
-      <webElementGuid>ea268058-2871-411e-9e74-9ce97932fdbc</webElementGuid>
+      <webElementGuid>5a2acc73-1f33-4ae9-890d-4fdb0974bfe6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='uacReport_ig_grid_vc_cur']/span</value>
-      <webElementGuid>cc416d58-ad84-4984-af01-64e1110bd8bb</webElementGuid>
+      <webElementGuid>cf0eb6c1-e943-4ad4-a1cf-c7b834986e81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[8]/span</value>
-      <webElementGuid>fbf59d7f-9b74-4c4b-b44e-de13b766b1dd</webElementGuid>
+      <webElementGuid>228b33aa-68bc-43af-88b9-7b4971a11fc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'C484082020014932127_HDR' and (text() = 'Certified By' or . = 'Certified By')]</value>
-      <webElementGuid>1586eb98-31e2-4a13-b704-80a01181b00f</webElementGuid>
+      <webElementGuid>3d8e3ad5-3c0a-4b4c-800f-330ec2f3b98a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

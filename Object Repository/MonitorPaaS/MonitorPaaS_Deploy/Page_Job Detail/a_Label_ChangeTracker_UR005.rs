@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div[1]/div/div/div[2]/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div/div/div[2]/label</value>
+         <value>//label[(text() = 'Change Tracker' or . = 'Change Tracker')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>6658f540-fc93-4bec-9295-25255820c826</webElementGuid>
+      <webElementGuid>63f91a3c-a418-4f45-ac0e-43df60f9f399</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>5a4ef7e5-1aff-4a28-b233-5c7d8520fa2d</webElementGuid>
+      <webElementGuid>b0f4469b-c2cf-4c90-88ac-863488fc9b38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P30_CHANGE_TRACK_0</value>
-      <webElementGuid>be59e7aa-94da-49b8-9544-220f44dddc9f</webElementGuid>
+      <webElementGuid>175db1af-b516-40e8-89c8-c6630d419a50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Occurrences</value>
-      <webElementGuid>9497ba38-e8c6-4e06-af21-17adcfd29fd2</webElementGuid>
+      <webElementGuid>f79793d2-8887-4154-9f63-3d4661c8a68d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P30_CHANGE_TRACK&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>f54055bd-6053-4d1b-9884-981f0b5af50e</webElementGuid>
+      <webElementGuid>b89f6091-dbcc-4a1a-b31d-16feb5d1c2df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P30_CHANGE_TRACK']/div/div/div/label</value>
-      <webElementGuid>9119c2b0-8688-4f95-9db7-53e677581de1</webElementGuid>
+      <webElementGuid>8e4642fa-e074-4e7d-8b06-e57a7278fe50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div/div/div/div/div/label</value>
-      <webElementGuid>216ce0d6-1881-484a-a1d1-dc70836423e0</webElementGuid>
+      <webElementGuid>7b0529cd-b8d5-4427-b8d7-8c4660dd58d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Occurrences' or . = 'Occurrences')]</value>
-      <webElementGuid>f9912f20-996a-47a7-9302-91127d5745d7</webElementGuid>
+      <webElementGuid>90e9cda6-b0d8-4c38-ad8e-021526b267c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

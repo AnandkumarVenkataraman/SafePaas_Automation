@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='144264340282266620_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[@href = 'f?p=1120:20:2102189430563::::P20_SNAPSHOT_ID,P21_SNAPSHOT,P21_SNAPSHOT_ID:313142,313142,313142' and (text() = ' (SS)KTLN_ARAPRLMT_APR19_V1_20240419023818 ' or . = ' (SS)KTLN_ARAPRLMT_APR19_V1_20240419023818 ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e6c46830-28e7-417d-a50e-69ef04fa1b07</webElementGuid>
+      <webElementGuid>9fef6c80-ef67-45ce-8469-1d563902d469</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:20:2102189430563::::P20_SNAPSHOT_ID,P21_SNAPSHOT,P21_SNAPSHOT_ID:313142,313142,313142</value>
-      <webElementGuid>e6f49d26-e30a-4baa-88b1-05837ae4ad74</webElementGuid>
+      <webElementGuid>1892631f-b149-4302-b40a-02e7fe440d83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value> (SS)KTLN_ARAPRLMT_APR19_V1_20240419023818 </value>
-      <webElementGuid>1f2820a7-e5e1-4fe7-82e7-49317de1eb3e</webElementGuid>
+      <webElementGuid>ef929664-1482-4aff-aeb2-23870b193ec7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;144264340282266620_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]</value>
-      <webElementGuid>ff0b30e0-6d9c-40c7-ba83-e7abd74027e1</webElementGuid>
+      <webElementGuid>ad252eb7-6fe4-426e-8b34-983662e63f11</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='144264340282266620_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>18c7d572-c094-4915-8fa0-0e1b7ff96a05</webElementGuid>
+      <webElementGuid>083d1093-bfe7-47a4-aac1-70776e962699</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'(SS)KTLN_ARAPRLMT_APR19_V1_20240419023818')]</value>
-      <webElementGuid>b4f2dbeb-d146-4ac2-8cf9-a98b73af5bbc</webElementGuid>
+      <webElementGuid>cbfa32ec-76d7-4abd-81a2-110719e28930</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:20:2102189430563::::P20_SNAPSHOT_ID,P21_SNAPSHOT,P21_SNAPSHOT_ID:313142,313142,313142')]</value>
-      <webElementGuid>15e76ba7-a938-4240-bfaa-4ac82895ceb3</webElementGuid>
+      <webElementGuid>f2167686-3279-4dd2-ab08-8ac67a8d097a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>63851806-1adf-406f-8c78-f61396fd802f</webElementGuid>
+      <webElementGuid>b3b423ce-f538-48d4-afa8-0b1edcfab91c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:20:2102189430563::::P20_SNAPSHOT_ID,P21_SNAPSHOT,P21_SNAPSHOT_ID:313142,313142,313142' and (text() = ' (SS)KTLN_ARAPRLMT_APR19_V1_20240419023818 ' or . = ' (SS)KTLN_ARAPRLMT_APR19_V1_20240419023818 ')]</value>
-      <webElementGuid>d230c359-63ee-4740-8f33-c797ef4175bd</webElementGuid>
+      <webElementGuid>e7d64e8c-de1d-4066-826d-c1c32a1a0bf0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

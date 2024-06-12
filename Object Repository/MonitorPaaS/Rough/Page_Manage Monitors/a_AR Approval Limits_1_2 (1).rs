@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[contains(text(),'AR Approval Limits')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>82cfbb19-b48b-4b3c-860b-842d62553d3e</webElementGuid>
+      <webElementGuid>bfe7f6d5-1a33-44a1-b0ca-73c5cc6438ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1110:21:2102189430563:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320477,320477,AR%20Approval%20Limits</value>
-      <webElementGuid>226d05b8-8ec4-47f0-91c5-249d7efa06b0</webElementGuid>
+      <webElementGuid>c94734f1-cfbb-49d2-88a0-9960ea2905e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AR Approval Limits</value>
-      <webElementGuid>5e342b69-15a9-4164-b184-362b0e75dadc</webElementGuid>
+      <webElementGuid>15ef5d11-fbde-4250-a476-324547fb0338</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;136025645279714537_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>6d422b91-c7d1-41db-88b0-32a37734cb6b</webElementGuid>
+      <webElementGuid>1e4608df-ca57-4fab-8ec1-762c7bf9913b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>2ea31390-b1b6-4dd2-9af3-460b48795b13</webElementGuid>
+      <webElementGuid>b0749c5a-812e-443b-a47f-4761450e08ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'AR Approval Limits')]</value>
-      <webElementGuid>eb334d27-6019-4e25-b6ef-e87d68b601e0</webElementGuid>
+      <webElementGuid>b39c3628-ae85-4a0d-81ca-73ca0f919268</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1110:21:2102189430563:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320477,320477,AR%20Approval%20Limits')]</value>
-      <webElementGuid>05956574-74b8-4d56-a52e-687ffa126542</webElementGuid>
+      <webElementGuid>336ab458-a117-4ff2-bde6-4cffc92029a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>bbeb536e-930c-4370-b6dc-6e3d98993580</webElementGuid>
+      <webElementGuid>0a6d079f-b1db-4b8c-9b3c-2e8c6359071e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1110:21:2102189430563:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320477,320477,AR%20Approval%20Limits' and (text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
-      <webElementGuid>f81057a7-19a9-4326-82b4-cbfae182efeb</webElementGuid>
+      <webElementGuid>ed5e40dc-4e73-4965-9857-eae27ae79f03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

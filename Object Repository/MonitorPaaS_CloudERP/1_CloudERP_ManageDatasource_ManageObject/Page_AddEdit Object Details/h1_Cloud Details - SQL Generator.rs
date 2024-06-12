@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='cloudsqlSecRegion']/div/h1</value>
+         <value>//h1[(text() = 'Cloud Details - SQL Generator' or . = 'Cloud Details - SQL Generator')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>19edbcad-09b3-4515-b64d-f019c6dda2c1</webElementGuid>
+      <webElementGuid>fa4a822b-39f9-4242-9ac3-a284ea070ad4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-ContentBlock-title</value>
-      <webElementGuid>3ab7f8b9-0e4c-4845-b704-f5e82e683d48</webElementGuid>
+      <webElementGuid>dd8b9a02-01c3-4aba-9137-6e8735f51316</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cloud Details - SQL Generator</value>
-      <webElementGuid>79535316-2ae8-4b39-bf9e-bcea1f42de45</webElementGuid>
+      <webElementGuid>a48baa67-2414-40f9-a17a-e19c2281a804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cloudsqlSecRegion&quot;)/div[@class=&quot;t-ContentBlock-header&quot;]/h1[@class=&quot;t-ContentBlock-title&quot;]</value>
-      <webElementGuid>48ae3aab-cb2a-4453-8dfc-9dfec3a26ce8</webElementGuid>
+      <webElementGuid>a7441416-45ea-442c-ad0b-887914ae1e84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cloudsqlSecRegion']/div/h1</value>
-      <webElementGuid>3898ba2a-bae5-4759-b0d7-e33b93b921a3</webElementGuid>
+      <webElementGuid>19b5ceb1-89cf-43f7-8aed-07625b3bc7d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/h1</value>
-      <webElementGuid>a76d49fc-2cc2-4acc-beee-94fa205df007</webElementGuid>
+      <webElementGuid>056cf67d-fed7-4a92-826a-a04f328192d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Cloud Details - SQL Generator' or . = 'Cloud Details - SQL Generator')]</value>
-      <webElementGuid>09d6e02b-e22b-4a69-b60d-4a50a7586134</webElementGuid>
+      <webElementGuid>4b538e7e-706e-4daf-ae75-ca3a807c3cbf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

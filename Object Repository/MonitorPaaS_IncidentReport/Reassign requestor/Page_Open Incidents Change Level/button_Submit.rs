@@ -6,12 +6,12 @@
    <elementGuidId>c9afe760-fa2c-4ec9-8fb0-379080ce45e8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='P20_CREATE']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#P20_CREATE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'P20_CREATE' and (text() = 'Submit' or . = 'Submit')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>535663d0-7264-4885-9284-d931dd01431d</webElementGuid>
+      <webElementGuid>dde7b561-bb33-43d9-ace7-74d4ad8d1de1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'P93_SUBMIT',validate:true});</value>
-      <webElementGuid>1c13848b-fe14-43f7-a23d-9b2c660078c0</webElementGuid>
+      <webElementGuid>a489714d-c891-4e92-8ca4-f4c2e5b807ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button</value>
-      <webElementGuid>c8fa5f2b-5264-4f6a-83c9-0c772f8ea115</webElementGuid>
+      <webElementGuid>d0b652c4-228c-4578-a310-318975717ad7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1cdece61-3a63-47df-b2c2-ea32ce29d17d</webElementGuid>
+      <webElementGuid>2d7766de-b866-44c5-b0c4-319cfd697008</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P20_CREATE</value>
-      <webElementGuid>a1dfbff6-3ba3-40e8-b580-8dd7e9e1a210</webElementGuid>
+      <webElementGuid>ad84c394-d4aa-4ae0-848b-f43c35798560</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>595283d1-89da-49b5-893d-ff28c0441597</webElementGuid>
+      <webElementGuid>de8212a4-9c5a-4de8-88ea-9e64d8f8abd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P20_CREATE&quot;)</value>
-      <webElementGuid>ad8e4124-b8dc-47dd-8e48-dad4759ef89b</webElementGuid>
+      <webElementGuid>79f70496-c0fd-43f3-a3d9-41b7deb1efad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='P20_CREATE']</value>
-      <webElementGuid>6d644f4a-fbfb-46b3-95dd-17bacd426f16</webElementGuid>
+      <webElementGuid>a84043a5-e15b-4011-bd3c-cdc9fc3b72d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R176871984904839114']/div[2]/div[2]/div/div/div[3]/button</value>
-      <webElementGuid>bc4c0eba-7d27-42eb-940b-998bd244f189</webElementGuid>
+      <webElementGuid>33f284ef-e6de-476e-bfc2-396268c8bc9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>066bc3d4-8424-4c36-8352-f67a520ee913</webElementGuid>
+      <webElementGuid>725cc22f-6d58-4d92-9752-7bd5664ea1b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'P20_CREATE' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>4d9f73c1-37fa-4ba0-a829-b0ff52b98622</webElementGuid>
+      <webElementGuid>36498d47-0f12-4de6-8c24-a1b8aa39177c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

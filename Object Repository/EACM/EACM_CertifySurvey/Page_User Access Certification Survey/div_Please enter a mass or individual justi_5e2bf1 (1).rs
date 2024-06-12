@@ -6,15 +6,19 @@
    <elementGuidId>0f834748-62d5-47b0-b418-3d7c8277b8fe</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'P4_JUSTIFICATION_error' and (text() = 'Please enter a mass or individual justification in order to Terminate Access' or . = 'Please enter a mass or individual justification in order to Terminate Access')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#P4_JUSTIFICATION_error</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='P4_JUSTIFICATION_error']</value>
+         <value>//div[@id = 'P4_JUSTIFICATION_error' and (text() = 'Please enter a mass or individual justification in order to Terminate Access' or . = 'Please enter a mass or individual justification in order to Terminate Access')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>39cb44b5-3055-4fd7-8baf-6e0e53b1951a</webElementGuid>
+      <webElementGuid>56df7d9f-094f-430f-8843-5f2666fe69cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P4_JUSTIFICATION_error</value>
-      <webElementGuid>85bedae6-194b-4da0-8015-6020c77693a2</webElementGuid>
+      <webElementGuid>ef4e6a3b-dff6-4460-beb5-05f74f7b18e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please enter a mass or individual justification in order to Terminate Access</value>
-      <webElementGuid>58de989c-242b-4831-9916-af643ce14e82</webElementGuid>
+      <webElementGuid>e51c902e-ab7f-4702-bd22-688b23edf654</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P4_JUSTIFICATION_error&quot;)</value>
-      <webElementGuid>987bea23-70ac-4e26-9368-b1469aaa5d6c</webElementGuid>
+      <webElementGuid>17d3fd8e-bd92-4c84-8f5d-e03654925a54</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='P4_JUSTIFICATION_error']</value>
-      <webElementGuid>f47f4339-86bc-4653-9c73-992012f8d3ed</webElementGuid>
+      <webElementGuid>cd2a070f-5093-4431-949d-d68c3e79fda3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='P4_JUSTIFICATION_error_placeholder']/span/div</value>
-      <webElementGuid>7ebfe07e-e461-4da9-a5ba-98e35e68bc69</webElementGuid>
+      <webElementGuid>30970c71-51e6-47e1-8566-a5de81288611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/div</value>
-      <webElementGuid>cec97d8f-87f4-489b-8eb1-9a0e657aedb9</webElementGuid>
+      <webElementGuid>6998099c-1f58-43b8-ad59-0a62026ac799</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'P4_JUSTIFICATION_error' and (text() = 'Please enter a mass or individual justification in order to Terminate Access' or . = 'Please enter a mass or individual justification in order to Terminate Access')]</value>
-      <webElementGuid>c5fd705e-a7d4-4a1f-9fd8-6abb9ea95e53</webElementGuid>
+      <webElementGuid>5162a05e-6a89-478a-bf04-4364084a7e92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>af4d610a-4723-4d20-9300-93ce57d3264a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C176872697860839121']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C176872697860839121 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Tkt number')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6fd3332f-c754-4bb9-ac94-fcfbd071a319</webElementGuid>
+      <webElementGuid>3f0cadb1-e600-40ab-b1f2-4e85c4af7a83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>2d8631f3-6f9e-4ea6-bcf7-5dbc94fe0f73</webElementGuid>
+      <webElementGuid>9e8fe87a-d99f-4f3f-b0f2-d4323c9f39c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>c100873a-e2a6-4b8d-af07-25b8422b0987</webElementGuid>
+      <webElementGuid>21117aca-4d75-4ae3-b808-229c3227dd20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>176872697860839121</value>
-      <webElementGuid>062cd852-8a9e-466d-bb01-9562d4a0ed09</webElementGuid>
+      <webElementGuid>1de140dc-5e03-4a09-8336-56cc5ee71a0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>5ba11348-9cd8-4f72-b730-cdadd01e449e</webElementGuid>
+      <webElementGuid>64196c17-aaea-4331-b191-01cf840363e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tkt number</value>
-      <webElementGuid>e87c52c4-05ee-426e-8204-dceb6673b990</webElementGuid>
+      <webElementGuid>d5eb25df-8e81-4da6-86d5-66b561e8e522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C176872697860839121&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>6b8f50e6-17e5-45ab-8481-ec8ccecbabae</webElementGuid>
+      <webElementGuid>56815dc5-49af-4184-8fbd-94d25a491735</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C176872697860839121']/a</value>
-      <webElementGuid>e87d0261-e62e-4414-86e0-3220fcdf3906</webElementGuid>
+      <webElementGuid>4b4207b4-7dbd-4bbb-93fc-a4d4649671f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tkt number')]</value>
-      <webElementGuid>aeda2e66-a1e1-4363-99d0-60368cca26ee</webElementGuid>
+      <webElementGuid>f47b0e10-a38a-4701-8e57-f9681668773f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[28]</value>
-      <webElementGuid>1eb935c6-d0f9-403e-a304-e23043948073</webElementGuid>
+      <webElementGuid>c81bf030-0377-438d-857d-59b72e0a9650</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/table/tbody/tr/th[11]/a</value>
-      <webElementGuid>57914cdc-cad1-40fb-bc67-63917bda4c4b</webElementGuid>
+      <webElementGuid>4056c2de-ce54-43bf-acc2-1c0e90f60b07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Tkt number' or . = 'Tkt number')]</value>
-      <webElementGuid>ed5a09b7-0edf-429a-b48f-c05af6eddb9c</webElementGuid>
+      <webElementGuid>f7cf47d7-ab8a-46d7-a345-502d1acaecb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

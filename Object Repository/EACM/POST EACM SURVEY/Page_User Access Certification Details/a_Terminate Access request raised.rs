@@ -6,6 +6,10 @@
    <elementGuidId>4df64353-a044-4dde-9090-7fa00de2682e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = 'Terminate Access request raised' or . = 'Terminate Access request raised')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>a.a-IRR-col-value</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>//div[@id='uacDetails_col_values_drop']/a</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5ab16806-30b6-4225-9cd2-8191120ed45e</webElementGuid>
+      <webElementGuid>1584a0a8-1026-404b-bcd7-39d95b27bd4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>698ef1b7-9ed3-4471-a543-588a307d7a55</webElementGuid>
+      <webElementGuid>018abd2c-e45b-4bb0-988c-3ae25ac2c9b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>a7990216-cda8-4a7c-91b1-0751a3bac4c1</webElementGuid>
+      <webElementGuid>8473b590-2bbc-441b-a5dc-db210a859d5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>Terminate Access request raised</value>
-      <webElementGuid>924a71c8-4acb-4c32-a0b2-933ff250a27b</webElementGuid>
+      <webElementGuid>40f552d8-2e7d-43ce-be18-d7a845451368</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Terminate Access request raised</value>
-      <webElementGuid>ca1da695-04d7-4ee8-abe8-5d94f669c03b</webElementGuid>
+      <webElementGuid>b45b3efa-1a6f-46d3-b5e5-ffc15713c8c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;uacDetails_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>0c4211a4-ff92-4995-998a-6793ee74a7a9</webElementGuid>
+      <webElementGuid>08c1351f-61ef-451e-97de-d9c9cfe356a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='uacDetails_col_values_drop']/a</value>
-      <webElementGuid>752d9c35-63b8-4fea-a9f5-6bf08308b93e</webElementGuid>
+      <webElementGuid>d7169c81-228f-48c7-b666-825184a915a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Terminate Access request raised')]</value>
-      <webElementGuid>2ea3d083-afbc-4878-b1d0-fb4318db71eb</webElementGuid>
+      <webElementGuid>57e604bc-412f-4f75-8eaf-4312720ed2fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[109]</value>
-      <webElementGuid>7dcaa4b9-b11f-43a6-82cd-5101b8671143</webElementGuid>
+      <webElementGuid>8f099ee7-7926-4d3a-9f25-450a4508fae2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html/div/a</value>
-      <webElementGuid>94509210-2490-47a4-879c-db3a40014fe3</webElementGuid>
+      <webElementGuid>7559d245-cb4b-4a32-880e-92e923a3ad57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Terminate Access request raised' or . = 'Terminate Access request raised')]</value>
-      <webElementGuid>48b29dca-2250-4f5a-89e5-919c2bfe081f</webElementGuid>
+      <webElementGuid>48791f88-3c05-4808-8644-8adf1688e2f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,15 +6,19 @@
    <elementGuidId>dd629ceb-26fd-4d84-a4bc-d67201f0d3c0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'No' or . = 'No')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//div[@id='P41_EACM_MAND_JUSTIF']/div/div/div/label</value>
+         <value>//label[(text() = 'No' or . = 'No')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#P41_EACM_MAND_JUSTIF > div.apex-item-grid.radio_group > div.apex-item-grid-row > div.apex-item-option > label.u-radio</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>79fe5391-391b-4c7c-af93-bcef23b73e2c</webElementGuid>
+      <webElementGuid>3c99af64-35b8-4342-a884-ddb830bd2025</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>612db479-ce32-4548-919a-1b8501ed538b</webElementGuid>
+      <webElementGuid>d6e785de-b280-4b6b-9f3b-8ddaa595d7cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P41_EACM_MAND_JUSTIF_0</value>
-      <webElementGuid>30fe8883-706a-401e-bf7e-835c83ec8c78</webElementGuid>
+      <webElementGuid>9cf3ef98-4cce-4d92-b4e5-9a7a8a2ffa59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No</value>
-      <webElementGuid>5332fd78-bfd0-40db-9689-c23779b9ed45</webElementGuid>
+      <webElementGuid>8057eee3-38f9-47d5-b307-4efd3319e9e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P41_EACM_MAND_JUSTIF&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>3b572e2e-fa18-4c4a-8be7-b9ede7526196</webElementGuid>
+      <webElementGuid>316f98a6-97a6-4604-9e51-a1ad2cb88dd5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P41_EACM_MAND_JUSTIF']/div/div/div/label</value>
-      <webElementGuid>709c7647-787d-4935-8c82-d2876c600e7d</webElementGuid>
+      <webElementGuid>b330b523-6039-446a-9ee2-d91cc39de2aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/div/div/div/label</value>
-      <webElementGuid>15293d00-8e49-4d04-bd45-e8b99876c900</webElementGuid>
+      <webElementGuid>6557454c-98f5-4522-9a40-9c208dccee4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'No' or . = 'No')]</value>
-      <webElementGuid>5d221a95-cfaa-4db2-8dd7-c2ef0e4a9b3f</webElementGuid>
+      <webElementGuid>9ffdb590-229d-4f90-be15-cc4f5cc3fd1b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

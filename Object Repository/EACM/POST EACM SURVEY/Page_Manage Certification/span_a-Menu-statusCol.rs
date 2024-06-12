@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>030e9c5a-0d49-44a3-9558-6dfcae8ac12f</webElementGuid>
+      <webElementGuid>ab7b478f-e2c4-491c-ba35-2dcf1bff68a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-statusCol</value>
-      <webElementGuid>87461793-c04e-4e5c-84b0-42687283dbc9</webElementGuid>
+      <webElementGuid>7ea60cf0-dbc2-4a34-996f-ecfb28128509</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mngSnap_actions_menu_2&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]/span[@class=&quot;a-Menu-statusCol&quot;]</value>
-      <webElementGuid>15bcfb12-0a06-404d-bdab-0271d2e724eb</webElementGuid>
+      <webElementGuid>b220292d-262e-4c40-a51c-c8200e23a5dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='mngSnap_actions_menu_2']/div/span/span</value>
-      <webElementGuid>cd97c777-0ea5-4334-a239-966f71288e8d</webElementGuid>
+      <webElementGuid>84cf2311-314b-4405-81d3-e8bc384d65a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/span</value>
-      <webElementGuid>c9b898d4-63b7-418f-8c4a-2277a51479bf</webElementGuid>
+      <webElementGuid>229befc8-27b1-432e-a8ea-168e2326f9b9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

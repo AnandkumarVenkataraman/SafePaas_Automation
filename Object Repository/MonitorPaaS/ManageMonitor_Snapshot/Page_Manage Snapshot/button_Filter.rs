@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='mngSnap_actions_menu_2i']</value>
+         <value>//button[@type = 'button' and @id = 'mngSnap_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cd8208f5-7d15-4d41-b9a3-506bcfff4352</webElementGuid>
+      <webElementGuid>afbb0147-8ee0-4b4f-8687-3f21036be025</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6dad1005-5a4a-40ad-82ef-c6b9563189e6</webElementGuid>
+      <webElementGuid>15a33e85-a666-426e-a8c5-6ec04264db9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mngSnap_actions_menu_2i</value>
-      <webElementGuid>5640196a-4ef5-45b4-98b6-0cef971e6bb5</webElementGuid>
+      <webElementGuid>ee59c1fd-ca48-4637-8dd4-8a30c817245d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>9e3e5b89-e7d8-4dd9-8104-382e18449158</webElementGuid>
+      <webElementGuid>397c4388-626e-4092-b46c-9d3c7444be26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>27f6df92-0503-43b4-8156-548dca4affc1</webElementGuid>
+      <webElementGuid>b4781b16-3e33-4546-9357-b96a6eae950c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>401482b3-c811-4c8a-86ce-48154652201c</webElementGuid>
+      <webElementGuid>55388c57-ebca-4646-8968-902697f6c549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mngSnap_actions_menu_2i&quot;)</value>
-      <webElementGuid>f86bb532-be01-414f-a3e4-028f278f7960</webElementGuid>
+      <webElementGuid>09253e89-b373-433f-9271-9aabf4048aee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='mngSnap_actions_menu_2i']</value>
-      <webElementGuid>e2e7add3-ea13-4c0e-8b3a-381ef035f5c1</webElementGuid>
+      <webElementGuid>67bf117f-992f-436b-83b0-58f0aa8fdbad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='mngSnap_actions_menu_2']/div/span/button</value>
-      <webElementGuid>70374fb5-84d8-487b-b7e1-6741604323da</webElementGuid>
+      <webElementGuid>2b131beb-c3ee-46e4-bdbf-fb24a2d10ba7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/button</value>
-      <webElementGuid>b889623c-7c2c-429f-a3a4-6b6896de4650</webElementGuid>
+      <webElementGuid>47591544-6b78-4b1e-a798-7cb829eb3bdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'mngSnap_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>6ddafb7b-7b8b-4d90-a2b5-cf33b9891c6e</webElementGuid>
+      <webElementGuid>4706aee8-055a-4fbd-819d-a2725c0af245</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

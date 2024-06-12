@@ -6,15 +6,19 @@
    <elementGuidId>86acacf8-f7ed-49ea-a96c-098c65d07b16</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B166877291336089121' and (text() = 'POST' or . = 'POST')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#B166877291336089121</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B166877291336089121']</value>
+         <value>//button[@type = 'button' and @id = 'B166877291336089121' and (text() = 'POST' or . = 'POST')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b183d9c4-18d1-4af0-937b-3c19e6d7a12b</webElementGuid>
+      <webElementGuid>1c3f73c2-e334-4a76-a93e-04dc8a70fc84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>postValidation()</value>
-      <webElementGuid>cc2424f1-5bff-4864-a9d9-f16248e527e4</webElementGuid>
+      <webElementGuid>870c0f32-8c63-419d-8ad8-be0860b3bb93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>731dfb67-d62d-4df6-a2ce-0abbc2e15b1c</webElementGuid>
+      <webElementGuid>d6e1aba6-61a4-430e-b401-8565e904fe7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8fe1c711-3dae-4950-9098-c0e5d4be9721</webElementGuid>
+      <webElementGuid>9a9a8997-9f2f-44c3-a4e6-ffef312ba9ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B166877291336089121</value>
-      <webElementGuid>c5f0f533-7553-40d6-8f70-e19817edfd1d</webElementGuid>
+      <webElementGuid>f6bf8c65-b07d-4826-8147-7987b85664ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>POST</value>
-      <webElementGuid>e55250ad-42e2-4abb-9e50-6317db56e7b5</webElementGuid>
+      <webElementGuid>b7b03594-028a-46d7-882d-0a9995b163a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B166877291336089121&quot;)</value>
-      <webElementGuid>3f76f207-3075-4621-a88f-318a662faf7a</webElementGuid>
+      <webElementGuid>50e52ba3-01d7-45d8-bb27-5dc49d904c53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B166877291336089121']</value>
-      <webElementGuid>b2435122-0e2f-44a9-b61c-2334e01d5389</webElementGuid>
+      <webElementGuid>39788ebf-f3de-4869-b8a6-81c63a6228fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngSnap']/div/div[2]/button[2]</value>
-      <webElementGuid>b16bb86b-7387-4022-a4d6-35cec5262270</webElementGuid>
+      <webElementGuid>f39e3c3a-02cc-44ad-8424-7cca815b7092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>9ff4aae8-1adc-4321-b9a7-c98a318a7612</webElementGuid>
+      <webElementGuid>69b5d574-39f1-464a-9536-0fe194ad16fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B166877291336089121' and (text() = 'POST' or . = 'POST')]</value>
-      <webElementGuid>e1c44638-9bde-45f0-b2ee-60b1f0b34fb2</webElementGuid>
+      <webElementGuid>1a0a600b-2540-4348-bdc9-edd5ea83d8cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P8_TEST']</value>
+         <value>//div[2]/div/div/div/div/div[2]/div/select</value>
       </entry>
       <entry>
          <key>CSS</key>

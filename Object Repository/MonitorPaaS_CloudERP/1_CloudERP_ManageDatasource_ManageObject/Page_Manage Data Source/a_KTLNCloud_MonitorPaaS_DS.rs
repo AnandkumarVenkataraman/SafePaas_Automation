@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='119140694016328613_orig']/tbody/tr[2]/td[2]/a</value>
+         <value>//a[contains(text(),'KTLNCloud_MonitorPaaS_DS')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>43cad69a-e4ab-450b-bf1b-3ba30751ca4c</webElementGuid>
+      <webElementGuid>d482296b-e85a-40d4-8bb8-48048a7d81e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:4:8790943421484:::RP,4:P4_ROWID:5380&amp;cs=3ftTvkfw5yz0QhjMQjivw6HpDWnxU1y9VfVZU2uH0FjOfznyReflkrPFPN77sHv7L3l-ksIBBJzhVFI3-vz18rw</value>
-      <webElementGuid>da2003b8-0a5f-483d-93be-a1f10f38baa2</webElementGuid>
+      <webElementGuid>1933a207-bedb-499c-b733-0b418df232db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>KTLNCloud_MonitorPaaS_DS</value>
-      <webElementGuid>86913317-af6a-4fef-ba5e-53d8171ba0b6</webElementGuid>
+      <webElementGuid>59ac8cfb-fedb-4c7d-b290-ddd052bf50fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;119140694016328613_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>2db9e6ae-0552-47bf-8339-3563c0c5edd1</webElementGuid>
+      <webElementGuid>f8d08b2d-34fe-4a90-b83e-3f002cd04b3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='119140694016328613_orig']/tbody/tr[2]/td[2]/a</value>
-      <webElementGuid>dce0bb66-31ac-498b-832a-e54bdc830ee9</webElementGuid>
+      <webElementGuid>fb1cc478-16e7-41f0-a31a-fc47523bc841</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'KTLNCloud_MonitorPaaS_DS')]</value>
-      <webElementGuid>8b3cee6e-07d9-46d3-8f7e-e7825972ed71</webElementGuid>
+      <webElementGuid>a5443686-1a35-43ca-ba3d-0dd717727658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:4:8790943421484:::RP,4:P4_ROWID:5380&amp;cs=3ftTvkfw5yz0QhjMQjivw6HpDWnxU1y9VfVZU2uH0FjOfznyReflkrPFPN77sHv7L3l-ksIBBJzhVFI3-vz18rw')]</value>
-      <webElementGuid>9b8b16ed-80af-40a2-87c1-db77ad286fb3</webElementGuid>
+      <webElementGuid>2acb6c2b-0fa8-4b17-8fd7-70f5b93fe1c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/a</value>
-      <webElementGuid>e500ceb7-c2e9-48cf-8fb7-8c8410a52166</webElementGuid>
+      <webElementGuid>a8e5b8b8-2b64-4e64-9dbf-189f0728008c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:4:8790943421484:::RP,4:P4_ROWID:5380&amp;cs=3ftTvkfw5yz0QhjMQjivw6HpDWnxU1y9VfVZU2uH0FjOfznyReflkrPFPN77sHv7L3l-ksIBBJzhVFI3-vz18rw' and (text() = 'KTLNCloud_MonitorPaaS_DS' or . = 'KTLNCloud_MonitorPaaS_DS')]</value>
-      <webElementGuid>665b32e9-5d83-4d13-81b5-90f0f8da1c4f</webElementGuid>
+      <webElementGuid>4e46bac5-a3a1-4ed4-aa58-1da64c78d2e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

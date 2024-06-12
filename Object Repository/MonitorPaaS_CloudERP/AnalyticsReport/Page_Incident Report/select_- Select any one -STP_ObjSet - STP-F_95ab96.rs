@@ -6,12 +6,14 @@
    <elementGuidId>e0a065ee-ffc0-4b69-8f2a-96afdda1233d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='P75_OBJECT']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#P75_OBJECT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id = 'P75_OBJECT' and @name = 'P75_OBJECT' and (text() = '- Select any one -&#xd;
+STP_ObjSet - STP-Funds Capture Payment Method' or . = '- Select any one -&#xd;
+STP_ObjSet - STP-Funds Capture Payment Method')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +24,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>4bdc38da-c607-445b-9a88-88224ec31fe5</webElementGuid>
+      <webElementGuid>15315ee7-ff9d-4c81-b421-301c35f039ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +32,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P75_OBJECT</value>
-      <webElementGuid>15f10992-9eb5-4119-a7fa-598109e1183e</webElementGuid>
+      <webElementGuid>736a7a19-1fed-4527-9a86-3262349de84a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +40,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P75_OBJECT</value>
-      <webElementGuid>4655ba51-9cb4-4765-9b21-4c7480cee1af</webElementGuid>
+      <webElementGuid>ee071b69-346b-46a7-8a29-3a887fd03c10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +48,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>c40720b1-9753-453c-a48f-1500fe379468</webElementGuid>
+      <webElementGuid>b23f2825-d4ff-4e32-ac4c-5185134d3b29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +56,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>dbdfcd53-b4dd-4ebe-81c6-da674dddddb1</webElementGuid>
+      <webElementGuid>c5bc7625-0fe9-4331-b86d-53a9484152dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +64,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>241c576c-9fcf-4ffd-90ac-449931eb48eb</webElementGuid>
+      <webElementGuid>dfc90f9e-8efe-41cc-9d5f-19eef17aa86c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +73,7 @@
       <type>Main</type>
       <value>- Select any one -
 STP_ObjSet - STP-Funds Capture Payment Method</value>
-      <webElementGuid>e326df69-a0d7-4c2d-a3de-f29e3d7d91a7</webElementGuid>
+      <webElementGuid>57575c0d-fe66-4939-b723-331921462b45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +81,7 @@ STP_ObjSet - STP-Funds Capture Payment Method</value>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P75_OBJECT&quot;)</value>
-      <webElementGuid>6999ee16-c7fa-480d-b05d-95e6db5a9cc1</webElementGuid>
+      <webElementGuid>ef5ba5c9-8bb8-4422-ba47-be02588ad7f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +89,7 @@ STP_ObjSet - STP-Funds Capture Payment Method</value>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P75_OBJECT']</value>
-      <webElementGuid>caa7c4da-e11c-47bd-82d3-08135cd343a1</webElementGuid>
+      <webElementGuid>050526e7-056c-4625-9696-68fcbd048d89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +97,7 @@ STP_ObjSet - STP-Funds Capture Payment Method</value>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P75_OBJECT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>0cb81af7-2724-4887-b039-3e2a75f60675</webElementGuid>
+      <webElementGuid>2b2b050b-06a2-4b91-aefc-f528b1a51c44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,16 +105,16 @@ STP_ObjSet - STP-Funds Capture Payment Method</value>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/select</value>
-      <webElementGuid>5ee85913-1c3b-4e71-b644-1d9136bc8dde</webElementGuid>
+      <webElementGuid>b6f6dc06-3f71-4e45-97b1-14d646c576f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P75_OBJECT' and @name = 'P75_OBJECT' and (text() = '- Select any one -
-STP_ObjSet - STP-Funds Capture Payment Method' or . = '- Select any one -
+      <value>//select[@id = 'P75_OBJECT' and @name = 'P75_OBJECT' and (text() = '- Select any one -&#xd;
+STP_ObjSet - STP-Funds Capture Payment Method' or . = '- Select any one -&#xd;
 STP_ObjSet - STP-Funds Capture Payment Method')]</value>
-      <webElementGuid>03690583-da7a-4597-8f44-6160843dd5c5</webElementGuid>
+      <webElementGuid>dcc940ee-75eb-4a2a-b001-69448b625cd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

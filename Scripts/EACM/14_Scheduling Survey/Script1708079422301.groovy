@@ -58,12 +58,12 @@ WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Manage Certifi
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/input_P10_NAME'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_June03_V2')
+WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_June05_V6')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_June03_V2')
+WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_June05_V6')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/label_Schedule'))
 
@@ -115,6 +115,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Pa
 WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/span_a-Icon icon-up-chevron'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/button_Create'))
+
+WebUI.delay(500)
 
 WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/button_Create'))
 

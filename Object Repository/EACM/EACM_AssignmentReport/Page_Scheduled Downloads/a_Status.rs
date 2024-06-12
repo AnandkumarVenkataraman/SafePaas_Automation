@@ -6,15 +6,19 @@
    <elementGuidId>3ec73061-6f12-4dbf-9ef8-f8101543ed60</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C160867851294310747']/a</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Status' or . = 'Status')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#C160867851294310747 > a.a-IRR-headerLink</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Status' or . = 'Status')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>48ddcfd2-055f-4fe4-9568-388e565928f2</webElementGuid>
+      <webElementGuid>812d2025-b7bf-458d-b033-595269208024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>7e46b18e-dfda-4191-9378-e51c5d319294</webElementGuid>
+      <webElementGuid>b011248f-253d-4956-bdd3-c7e12888da56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>160867851294310747</value>
-      <webElementGuid>0c9f2735-8877-453f-b953-31baddc8f489</webElementGuid>
+      <webElementGuid>53773efc-b657-4a47-9594-924e09ead85c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>1d4d7d45-6d4d-4fe5-a334-e1f4a702f6c1</webElementGuid>
+      <webElementGuid>aab98355-5e39-4a07-9ab5-d2a05badc47b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Status</value>
-      <webElementGuid>d4c8a2a0-6bb0-4422-bd00-aa8b39fa1ae0</webElementGuid>
+      <webElementGuid>b951346c-08f2-4e4d-9549-f27d489189b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;160867000903310713&quot;)/tr[1]/th[@id=&quot;C160867851294310747&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>7d11691a-bb66-4f1b-9cf9-65b9c7a22853</webElementGuid>
+      <webElementGuid>350c272f-a48d-4c84-975d-e2d32043aa70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C160867851294310747']/a</value>
-      <webElementGuid>86662246-0fea-4aa5-8ff1-18e8c856ab78</webElementGuid>
+      <webElementGuid>634d7975-f330-44e4-aa65-83a29ee7887a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Status')])[7]</value>
-      <webElementGuid>4b2d838d-c578-44b5-abbc-a0c6bcb977c3</webElementGuid>
+      <webElementGuid>3745c9a4-1951-472c-837c-25c2fc88c2d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[3]/a</value>
-      <webElementGuid>011d16fb-e910-43f8-a802-d9f807dfb380</webElementGuid>
+      <webElementGuid>5171d4cc-e0bd-40b7-881a-42a11f35657c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Status' or . = 'Status')]</value>
-      <webElementGuid>f9a33abd-7891-4ded-8103-1d33ac713174</webElementGuid>
+      <webElementGuid>04ce9733-c637-4a82-b78b-5e14fbc6b815</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

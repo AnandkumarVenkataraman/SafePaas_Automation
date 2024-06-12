@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='tree148696911230953057_1']/div[2]/a</value>
+         <value>//a[contains(text(),'AR Approval Limits')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dd491123-9d5b-488c-8c13-3bb6b5db0439</webElementGuid>
+      <webElementGuid>2c7ce0fb-a8e3-4e6c-8694-fcb08b9a6e65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>22a84cf2-615f-489f-9e70-160d91c4e706</webElementGuid>
+      <webElementGuid>b44d61cb-1641-40c1-b88e-dd28537211c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>4a0cac25-da77-4bbb-a612-3d828621814f</webElementGuid>
+      <webElementGuid>fe0365d5-dd35-4e0c-b61a-2fd00cc39f2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>79d70c3b-39e4-42c5-9579-b4e5d1d9cbe7</webElementGuid>
+      <webElementGuid>1a6b186a-5a9e-4435-a7ae-adef85cb9266</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1110:61:2297481711853::::P61_CONTROL_ID:320478</value>
-      <webElementGuid>abb4b210-6393-41a1-9da5-1cb49c1a4a56</webElementGuid>
+      <webElementGuid>1d31d1db-d5e3-463d-977f-8d985fcf1a2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>9b421f59-0af4-4997-8134-56500c60a6a0</webElementGuid>
+      <webElementGuid>3835e238-610e-4157-930c-268282059aa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e72d4734-2734-4d30-9040-a73a740861a8</webElementGuid>
+      <webElementGuid>9ef38dc1-b1d2-4275-8477-ea13936ad73d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AR Approval Limits</value>
-      <webElementGuid>6aee987a-193c-414c-8ea5-5c5407900886</webElementGuid>
+      <webElementGuid>7225fd9b-d411-4efb-bd24-bbcccfa02be4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tree148696911230953057_1&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>522f7f29-0f09-49be-8509-cac2a6fdae8b</webElementGuid>
+      <webElementGuid>cb592367-3b03-4e98-bf8f-9dc573235812</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='tree148696911230953057_1']/div[2]/a</value>
-      <webElementGuid>ef22b559-8a51-4a03-8cee-e4c7fb5d40af</webElementGuid>
+      <webElementGuid>9eca8a5c-1d2e-4f10-877a-ea74ef7e5d7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'AR Approval Limits')]</value>
-      <webElementGuid>434359e3-5c5c-4c56-9bbd-51a13f9460af</webElementGuid>
+      <webElementGuid>37665b68-af4c-493a-9423-36f5be1cc90b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1110:61:2297481711853::::P61_CONTROL_ID:320478')]</value>
-      <webElementGuid>c774de3f-72bf-489f-9a24-9206a2372eda</webElementGuid>
+      <webElementGuid>7e385ce8-ed63-497c-b39a-fd33a88c141a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/ul/li/ul/li/div[2]/a</value>
-      <webElementGuid>4f144f14-c67d-4b25-a524-e06178109172</webElementGuid>
+      <webElementGuid>3c5b75a8-fa1d-4460-9560-adbe7c11471a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1110:61:2297481711853::::P61_CONTROL_ID:320478' and (text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
-      <webElementGuid>bd601704-80a1-479e-9fc5-09589fdb8c75</webElementGuid>
+      <webElementGuid>0ddf569b-f99d-4f79-95a6-ac5484bd8cb6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

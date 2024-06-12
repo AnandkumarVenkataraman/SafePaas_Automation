@@ -31,17 +31,17 @@ WebUI.setEncryptedText(findTestObject('Object Repository/EACM/EACM_Survey/Page_L
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Login/button_Login'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/span_a-TreeView-toggle'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1)'))
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/span_a-TreeView-toggle'))
+WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/span_a-TreeView-toggle_1'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1 (1)'))
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/span_a-TreeView-toggle_1'))
+WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1 (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/span_a-TreeView-toggle_1_2'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/span_a-TreeView-toggle_1_2'))
+WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/a_Manage Certification'))
 
@@ -58,12 +58,12 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certi
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_Feb14_V2')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_June05_V2')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_Feb14_V2')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_June05_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/button_Popup Calendar End Date'))
 
@@ -114,6 +114,8 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage User 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage User Access/span_a-TreeView-toggle_1'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage User Access/span_a-TreeView-toggle_1'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage User Access/span_a-TreeView-toggle_1'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage User Access/span_a-TreeView-toggle_1'))
 

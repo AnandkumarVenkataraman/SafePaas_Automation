@@ -6,12 +6,12 @@
    <elementGuidId>ece05d72-b83d-4c20-aa0c-6166af702ec4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C145365737067709642']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Monitor Name')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ad08d0b9-288f-467c-a60d-a4e8dc3f45f8</webElementGuid>
+      <webElementGuid>f3dbd352-609a-49db-b7e9-fd8d2d7c6b82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>d1c24f46-91f3-4e13-a930-a16260310472</webElementGuid>
+      <webElementGuid>85fa9cc1-998c-4566-9665-c59885d56b30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>145365737067709642</value>
-      <webElementGuid>2f71ee9b-7eb6-4894-86a9-2921a865b378</webElementGuid>
+      <webElementGuid>f443259e-53c8-4f22-86a2-40bd0a471470</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c00afdd0-7a36-4535-aff6-ae72001fea76</webElementGuid>
+      <webElementGuid>dd1f6530-0d5c-45a2-b2d2-12d43e7a8bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Monitor Name</value>
-      <webElementGuid>dd5bec11-2458-4e56-97d3-72e3bbeff6c7</webElementGuid>
+      <webElementGuid>82a02537-8e5f-41d7-b0da-f7ee778bd5f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;36761243593282741&quot;)/tr[1]/th[@id=&quot;C145365737067709642&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>50535cf5-9ea8-46f9-aa9c-897c7b3a1e29</webElementGuid>
+      <webElementGuid>0e7cfa4d-f299-4303-b909-0e00a96721c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C145365737067709642']/a</value>
-      <webElementGuid>ae84df96-f323-4267-b8cc-360018809a21</webElementGuid>
+      <webElementGuid>0708b579-b672-4343-8963-eb623a80a8a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Monitor Name')]</value>
-      <webElementGuid>cd2124be-74ea-4e4c-bc56-82c53ee0ba6d</webElementGuid>
+      <webElementGuid>c206974a-d214-49a0-b97c-73a3eade5b92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th/a</value>
-      <webElementGuid>e8dabb23-818e-4093-ab0a-40142412d6b7</webElementGuid>
+      <webElementGuid>c2a4e8f5-1d15-49c6-b16e-4e186cef93bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Monitor Name' or . = 'Monitor Name')]</value>
-      <webElementGuid>4944cb75-9c88-4ae4-afe8-acea1def7a49</webElementGuid>
+      <webElementGuid>f7006b76-160b-4b32-be54-b2b598e76186</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

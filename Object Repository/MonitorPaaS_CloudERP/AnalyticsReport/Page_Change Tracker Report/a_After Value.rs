@@ -6,12 +6,12 @@
    <elementGuidId>0690b164-8322-4dd7-8c47-4f07da94daac</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C145366370201709648']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C145366370201709648 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'After Value')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7fce07bf-8960-4d76-84a9-aec48f579094</webElementGuid>
+      <webElementGuid>6fba2ec1-4b08-43ef-bdc3-ef3f05e80789</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>0d73a9b7-41a7-4511-a914-01424ba46acb</webElementGuid>
+      <webElementGuid>28621425-7470-45b9-b815-8f2d3b566bb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>145366370201709648</value>
-      <webElementGuid>d45948f0-048c-4ce8-8956-7485fb918620</webElementGuid>
+      <webElementGuid>fc4ea584-89e5-4670-8d3a-c0ec7f8eaea5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>6</value>
-      <webElementGuid>8fe827f1-80d1-43d0-97b6-e1f13946b25b</webElementGuid>
+      <webElementGuid>41f31335-b18e-4ded-8889-1808bb8f0c6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>After Value</value>
-      <webElementGuid>ccafb14b-d43d-43b5-8563-04ca8d774ad1</webElementGuid>
+      <webElementGuid>3c2cf4e7-863f-433e-a6f2-f9491d5b730e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;36761243593282741&quot;)/tr[1]/th[@id=&quot;C145366370201709648&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>cf2782fb-ba44-411a-9010-3593d174f5ab</webElementGuid>
+      <webElementGuid>78032964-07d5-470a-ad52-9a1144a8d152</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C145366370201709648']/a</value>
-      <webElementGuid>3e2eef94-4085-4d0c-9346-03e64a22779b</webElementGuid>
+      <webElementGuid>48c503e9-de7f-4664-912b-5bdbdecf102f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'After Value')]</value>
-      <webElementGuid>57c2fe1a-0794-46d3-ac5c-368494b4525c</webElementGuid>
+      <webElementGuid>144eed22-f3a6-4dd9-9706-f3d5a2344637</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[7]/a</value>
-      <webElementGuid>413c8dbc-92e2-45b0-9da9-206b827d59de</webElementGuid>
+      <webElementGuid>137e355d-888b-40f9-9c77-e6bb402dd1cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'After Value' or . = 'After Value')]</value>
-      <webElementGuid>d254af5b-7faf-4847-a531-7360a7ebc4a5</webElementGuid>
+      <webElementGuid>0edf6eec-007b-4130-b60b-464207cf0a70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

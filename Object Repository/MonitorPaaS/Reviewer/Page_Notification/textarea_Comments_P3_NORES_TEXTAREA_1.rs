@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='P3_NORES_TEXTAREA_1']</value>
+         <value>//textarea[@name = 'P3_NORES_TEXTAREA_1' and @id = 'P3_NORES_TEXTAREA_1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>f7c4ab54-51ab-4089-856c-5c2853c8e971</webElementGuid>
+      <webElementGuid>88dff54c-7bd1-4e50-a8a3-3f194f0dd01e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P3_NORES_TEXTAREA_1</value>
-      <webElementGuid>9cf5f516-9983-47e4-a885-a454bb3f9389</webElementGuid>
+      <webElementGuid>476b22de-5713-46ef-8495-12bafa45c094</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>bb94bffc-a5f5-4df7-ab59-835735a79be2</webElementGuid>
+      <webElementGuid>c6576c41-48fd-4571-ad97-106309c9bafb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>cols</name>
       <type>Main</type>
       <value>60</value>
-      <webElementGuid>1c116f37-807b-453e-941a-e605cf9cdb98</webElementGuid>
+      <webElementGuid>3a1fc049-e710-4eb5-9465-9adc93af3a44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>1c414c68-a7ff-41ad-ab17-40d1233e9607</webElementGuid>
+      <webElementGuid>1dc0d73b-3d5a-4ced-8fd3-2055167822d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P3_NORES_TEXTAREA_1</value>
-      <webElementGuid>0b3005da-2894-4134-a579-f293c0364cf7</webElementGuid>
+      <webElementGuid>2c38016a-4430-4634-89ba-99e137120b66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textarea apex-item-textarea</value>
-      <webElementGuid>b48039b0-eff8-4666-b96d-dac1b18d7dd6</webElementGuid>
+      <webElementGuid>bdae2352-0df7-4e39-9bc4-a8f692f2fe5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-trim-spaces</name>
       <type>Main</type>
       <value>NONE</value>
-      <webElementGuid>7cf11ec7-45a1-432d-8b9e-2d7f51550cc0</webElementGuid>
+      <webElementGuid>970d69a4-73b7-4543-8b26-bf523e1967b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P3_NORES_TEXTAREA_1&quot;)</value>
-      <webElementGuid>91e6e49f-5cd3-49eb-b845-6cacdd63741b</webElementGuid>
+      <webElementGuid>31dc6e80-f9a2-44d2-9275-49f5ef5c08b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='P3_NORES_TEXTAREA_1']</value>
-      <webElementGuid>665909df-bedd-47f1-b881-e0ddc4dabc0e</webElementGuid>
+      <webElementGuid>0d6e535e-2c69-46f8-ba24-65605ece8922</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P3_NORES_TEXTAREA_1_CONTAINER']/div[2]/div/div/textarea</value>
-      <webElementGuid>dc61be50-ac51-4fd5-8fa2-f1b70a8649f9</webElementGuid>
+      <webElementGuid>2505bad4-dafd-413b-b1a5-d1efd46d1c67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>197b2cea-bdc4-41d7-8496-a60642e9e538</webElementGuid>
+      <webElementGuid>c13b7083-f083-4c71-bef8-f44c260a62ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'P3_NORES_TEXTAREA_1' and @id = 'P3_NORES_TEXTAREA_1']</value>
-      <webElementGuid>6c736018-1e8a-4b6a-9ac9-06e4f62d1f61</webElementGuid>
+      <webElementGuid>3a5df844-8c85-4428-968d-65885cd862da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

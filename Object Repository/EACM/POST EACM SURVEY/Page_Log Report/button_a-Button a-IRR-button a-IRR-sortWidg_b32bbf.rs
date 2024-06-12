@@ -6,15 +6,19 @@
    <elementGuidId>c6d8616f-b540-476c-9348-e5238677bbe4</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @title = 'Sort Descending']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#R258175911212123510_sort_widget_action_down > button.a-Button.a-IRR-button.a-IRR-sortWidget-button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[11]</value>
+         <value>//button[@type = 'button' and @title = 'Sort Descending']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9b92d4c9-6d41-4836-8a29-a0581e195a6e</webElementGuid>
+      <webElementGuid>49c31645-cbbd-4a2d-8404-8ff20c067531</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-sortWidget-button</value>
-      <webElementGuid>ebf391e2-d20b-47e7-8971-360c8cb2c332</webElementGuid>
+      <webElementGuid>28067f98-872f-4705-bf8a-b3a55219afa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>be3f70a3-e075-4869-904e-ddc3a1b3dddb</webElementGuid>
+      <webElementGuid>e433838f-1890-40d7-bbbf-1f617c27daa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Sort Descending</value>
-      <webElementGuid>4046dd52-6d4c-4428-b9e5-492be5b81722</webElementGuid>
+      <webElementGuid>a0e5a11e-4dcd-411a-8608-2632f205b803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Sort Descending</value>
-      <webElementGuid>8fadb03e-496f-4878-ae01-55147ba0dc1a</webElementGuid>
+      <webElementGuid>ff1f041e-fdc6-4979-a86d-b17a1ffb9486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>data-option</name>
       <type>Main</type>
       <value>down</value>
-      <webElementGuid>3fd00e3e-b45d-48bf-874d-b38eea834ea9</webElementGuid>
+      <webElementGuid>9a4f90fd-eea9-41cd-8967-4b6cdeaa4680</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R258175911212123510_sort_widget_action_down&quot;)/button[@class=&quot;a-Button a-IRR-button a-IRR-sortWidget-button&quot;]</value>
-      <webElementGuid>ab793e35-f168-4a12-995b-af786d73b748</webElementGuid>
+      <webElementGuid>a8c84947-c8c6-4055-91f3-064950d72c67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[11]</value>
-      <webElementGuid>74dab399-3ba2-4886-8e24-57021f6c151f</webElementGuid>
+      <webElementGuid>1f8597a7-a2e5-42f7-949a-eae1f15058c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='R258175911212123510_sort_widget_action_down']/button</value>
-      <webElementGuid>a48e8dd7-3121-403f-a6a2-5944f52c6942</webElementGuid>
+      <webElementGuid>f7b2d2f3-3885-466b-8890-489a0da35032</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/ul/li[2]/button</value>
-      <webElementGuid>1ab11d1c-eff8-44d6-b9a2-9a2d22fa0e68</webElementGuid>
+      <webElementGuid>585ec210-cab2-4279-84db-2b1139457b0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @title = 'Sort Descending']</value>
-      <webElementGuid>62459e9d-05dd-47b9-9a9b-c2cec4e6c36c</webElementGuid>
+      <webElementGuid>a6fe3eb7-798b-420c-af63-e071337648e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

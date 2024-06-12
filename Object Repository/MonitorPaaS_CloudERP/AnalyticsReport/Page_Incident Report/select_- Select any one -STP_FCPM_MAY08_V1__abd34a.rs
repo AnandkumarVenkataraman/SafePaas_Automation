@@ -6,12 +6,14 @@
    <elementGuidId>b99e1e55-d3ba-4ac8-8313-0565837b5a94</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='P75_RESULT_SET']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#P75_RESULT_SET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id = 'P75_RESULT_SET' and @name = 'P75_RESULT_SET' and (text() = '- Select any one -&#xd;
+STP_FCPM_MAY08_V1_20240508093844' or . = '- Select any one -&#xd;
+STP_FCPM_MAY08_V1_20240508093844')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +24,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>8dcb6b58-dca0-462f-8478-88475156f303</webElementGuid>
+      <webElementGuid>3dc161c6-fbc3-435b-8553-a01b03e5e13e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +32,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P75_RESULT_SET</value>
-      <webElementGuid>2fa1b650-6ccf-46fe-b6e5-fcf5f50fb554</webElementGuid>
+      <webElementGuid>06b2c023-f135-47a6-8eee-3a2723d18549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +40,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P75_RESULT_SET</value>
-      <webElementGuid>7042917f-9f16-46e3-b029-450008ab94da</webElementGuid>
+      <webElementGuid>1d1275a7-fde3-452a-b729-6cfc11e3c1ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +48,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>29cfec56-7659-402b-9301-80f772d5c83e</webElementGuid>
+      <webElementGuid>38daa6cd-b039-42d5-823f-c4a7087963c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +56,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c41ee8cf-e17b-4e2a-898f-e8ca41bf7dfd</webElementGuid>
+      <webElementGuid>1e755a3c-ed69-4b6e-bf8f-70fa5d305076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +64,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>4bc5c931-c685-41bd-9949-01bef7257a55</webElementGuid>
+      <webElementGuid>304865f8-5d3e-45c8-a0a0-7ab15833fc41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +73,7 @@
       <type>Main</type>
       <value>- Select any one -
 STP_FCPM_MAY08_V1_20240508093844</value>
-      <webElementGuid>25fa3ef9-f7d6-4ed8-a01d-f71ba190eff3</webElementGuid>
+      <webElementGuid>95edd409-19bf-45c8-8b69-6741cfe4ca50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +81,7 @@ STP_FCPM_MAY08_V1_20240508093844</value>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P75_RESULT_SET&quot;)</value>
-      <webElementGuid>f5b6c67d-c6ab-4909-a281-1dbecdb79055</webElementGuid>
+      <webElementGuid>bb9c27b8-ef51-47b4-8892-1dc2ab08b4ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +89,7 @@ STP_FCPM_MAY08_V1_20240508093844</value>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P75_RESULT_SET']</value>
-      <webElementGuid>b6ff9f44-bc6f-4156-b27d-f41040a3278d</webElementGuid>
+      <webElementGuid>e4ede9e0-3420-4b79-8a71-a122a39fa88c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +97,7 @@ STP_FCPM_MAY08_V1_20240508093844</value>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P75_RESULT_SET_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>5cac7369-24da-4e9a-b151-5e8bd7f24ccb</webElementGuid>
+      <webElementGuid>8e2099bc-c437-4308-9c9e-cbbfce1feb96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,16 +105,16 @@ STP_FCPM_MAY08_V1_20240508093844</value>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/select</value>
-      <webElementGuid>45561f22-da23-4720-8d98-cc5d0cd9be82</webElementGuid>
+      <webElementGuid>3d373b3c-fe01-4162-93cf-76cc6983026c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P75_RESULT_SET' and @name = 'P75_RESULT_SET' and (text() = '- Select any one -
-STP_FCPM_MAY08_V1_20240508093844' or . = '- Select any one -
+      <value>//select[@id = 'P75_RESULT_SET' and @name = 'P75_RESULT_SET' and (text() = '- Select any one -&#xd;
+STP_FCPM_MAY08_V1_20240508093844' or . = '- Select any one -&#xd;
 STP_FCPM_MAY08_V1_20240508093844')]</value>
-      <webElementGuid>8b1dcc00-19d5-45ed-a8f6-c3986fc87c5e</webElementGuid>
+      <webElementGuid>f80bb89d-fd0f-497f-9035-fd4ae022612e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

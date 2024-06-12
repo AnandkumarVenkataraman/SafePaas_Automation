@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='R171917969038552305_search_button']</value>
+         <value>//button[@id = 'R171917969038552305_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0a172cbf-22bc-4f3f-beab-0e56d3522be1</webElementGuid>
+      <webElementGuid>35ab46bc-688f-4b8e-97d6-176c015538ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R171917969038552305_search_button</value>
-      <webElementGuid>846085c1-bb70-40df-907d-7514c3f61a5e</webElementGuid>
+      <webElementGuid>f590b767-0353-49db-96de-9b8a292fd685</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--search</value>
-      <webElementGuid>99cfd048-bb8d-4b24-9684-40b4bd17e0b3</webElementGuid>
+      <webElementGuid>ed90abca-e22e-4701-b50b-adf4e488de16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>874d9419-8979-45ac-b53f-eb8547f2e406</webElementGuid>
+      <webElementGuid>d78b2b95-7f8f-43b3-9dd1-28a61d9b5c1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go</value>
-      <webElementGuid>f7b48e05-5aa0-48ca-a287-1c3b6269976c</webElementGuid>
+      <webElementGuid>5aeaaa06-1be6-4c31-8cfa-9c31bc8e0e26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R171917969038552305_search_button&quot;)</value>
-      <webElementGuid>0a814024-0bd0-4549-8a7b-9a1935e39159</webElementGuid>
+      <webElementGuid>661492b8-aa62-4d71-bd31-882342310b5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R171917969038552305_search_button']</value>
-      <webElementGuid>80ef338b-90b0-4255-8281-8a5398017e07</webElementGuid>
+      <webElementGuid>283c9a8d-431e-40f5-bf09-6a5cb2fd5198</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R171917969038552305_toolbar_controls']/div/div/div[3]/button</value>
-      <webElementGuid>b79eda0c-214c-4f08-ad7d-57880e53b264</webElementGuid>
+      <webElementGuid>3f2fd29f-1c33-424f-aa55-442ad47aeb4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div[3]/button</value>
-      <webElementGuid>6838f509-e89d-4d1e-9360-71be39c7e27a</webElementGuid>
+      <webElementGuid>08034967-6387-4dc5-8908-8f2a77902c8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'R171917969038552305_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
-      <webElementGuid>c95eaa18-dc89-4421-8af2-ff3503e7be12</webElementGuid>
+      <webElementGuid>1905d535-8316-4109-869d-37541e525c6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

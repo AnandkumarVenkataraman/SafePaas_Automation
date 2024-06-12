@@ -6,16 +6,16 @@
    <elementGuidId>6090adf8-900e-437d-86c8-89565dffd524</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1400:7:14766084256794:::7::' and (text() = 'User Access Certification Details' or . = 'User Access Certification Details')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>a.a-TreeView-label.is-focused</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[1]/ul/li[2]/ul/li[1]/ul/li[1]/div[2]/a</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = 'f?p=1400:7:14766084256794:::7::' and (text() = 'User Access Certification Details' or . = 'User Access Certification Details')]</value>
+         <value>//a[contains(text(),'User Access Certification Details')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c01d7e84-440f-4b19-92f1-4a7d39ed1cbe</webElementGuid>
+      <webElementGuid>69a3038e-4a6a-4d4f-9408-f22a51148ce1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cfeccae7-4ddb-4752-9627-e892adac1552</webElementGuid>
+      <webElementGuid>96b8bee7-93a7-4896-a463-19586e204b47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>7998b222-c1ee-4a01-b5c4-f593f371cee9</webElementGuid>
+      <webElementGuid>81ee10d6-5c61-45b0-95f1-527fc8f4ab43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>1b7c4c41-c4b9-420f-96d8-955090a8514e</webElementGuid>
+      <webElementGuid>3713f4af-ba62-4d1c-a6ff-4b0614777f97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1400:7:14766084256794:::7::</value>
-      <webElementGuid>767e67c8-7614-43c0-82f7-1eb6e595a06c</webElementGuid>
+      <webElementGuid>0bf997fa-de22-4b5f-a669-121b5656caa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>e932bb0a-56b7-4ce5-a5ae-a7f797927624</webElementGuid>
+      <webElementGuid>ae166025-1e43-48a6-b98b-a2217670e25e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>46292338-db1d-4103-a012-83236506e201</webElementGuid>
+      <webElementGuid>f27db282-e9ee-447f-be8d-fcd80dd13ba3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>User Access Certification Details</value>
-      <webElementGuid>2227e3b2-4c00-4582-ad9c-d89c3e4c52e2</webElementGuid>
+      <webElementGuid>ba394349-1766-449c-b358-cd56c4f89f36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_59&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>1600fc7a-8377-45b4-89c2-43249569fa20</webElementGuid>
+      <webElementGuid>0926dd20-2974-4c98-b53e-27175d3819a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_59']/div[2]/a</value>
-      <webElementGuid>e903a8cb-dd46-42f8-a782-393723d9248d</webElementGuid>
+      <webElementGuid>cca6cc8c-5916-4b43-beaf-cde82d8ac66c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'User Access Certification Details')]</value>
-      <webElementGuid>27541975-203f-43e0-b003-cdb7b9a20ede</webElementGuid>
+      <webElementGuid>e2ea6563-53c8-4878-9b9e-12c44ef9c54e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1400:7:14766084256794:::7::')]</value>
-      <webElementGuid>2b5087ef-e998-4c6d-a38d-fad06df7c8c4</webElementGuid>
+      <webElementGuid>16db7f15-ed4b-443a-8fd8-48511f0a7d8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li[2]/ul/li/ul/li/div[2]/a</value>
-      <webElementGuid>48a205fb-05bb-44c5-8564-fa4760d9c5a1</webElementGuid>
+      <webElementGuid>c3fe363d-bad1-4a13-9de0-bd41e6bfa023</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1400:7:14766084256794:::7::' and (text() = 'User Access Certification Details' or . = 'User Access Certification Details')]</value>
-      <webElementGuid>9fc33a44-6c84-484b-a0e1-c36081ac9e4f</webElementGuid>
+      <webElementGuid>4aefe5e0-3ca8-4ab7-b2d2-ce1629bd29e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

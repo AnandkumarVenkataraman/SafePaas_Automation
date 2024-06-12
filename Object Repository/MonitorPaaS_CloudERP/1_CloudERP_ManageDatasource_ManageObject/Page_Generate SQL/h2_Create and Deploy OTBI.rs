@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id='R171917969038552305_heading']</value>
+         <value>//h2[@id = 'R171917969038552305_heading' and (text() = 'Create and Deploy OTBI' or . = 'Create and Deploy OTBI')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>db2c3334-1728-486d-9c6c-7f192d740607</webElementGuid>
+      <webElementGuid>19c1845f-899b-4884-a7d8-13f366b63086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Region-title</value>
-      <webElementGuid>d9be09bc-87e5-49b5-b1be-0b2bd56b8a27</webElementGuid>
+      <webElementGuid>3142d18c-bd83-4519-b228-1f36555a61de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R171917969038552305_heading</value>
-      <webElementGuid>4f2e0d0f-eae9-4376-82a6-ce8978a12f61</webElementGuid>
+      <webElementGuid>a9795cd5-bc5c-452a-a747-09ed57a8411e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create and Deploy OTBI</value>
-      <webElementGuid>8218d862-950b-49b2-8cf6-e344fe44aab5</webElementGuid>
+      <webElementGuid>70be7f41-13c3-4db6-9876-fb93d96f01a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R171917969038552305_heading&quot;)</value>
-      <webElementGuid>8912e2d1-96eb-427c-9cfa-b9007697ae62</webElementGuid>
+      <webElementGuid>3344c341-d351-4e61-b2fb-91ae72bf00b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='R171917969038552305_heading']</value>
-      <webElementGuid>1bd21653-c29a-40a8-89db-e2c988221d06</webElementGuid>
+      <webElementGuid>dc68e04b-fa45-4d30-b0c9-ee95ff70162b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R171917969038552305']/div/div/h2</value>
-      <webElementGuid>78a74316-76cc-452b-a3de-6aa5a4a6820e</webElementGuid>
+      <webElementGuid>22f42f7c-aa42-472d-96aa-0bb55f33c401</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/h2</value>
-      <webElementGuid>0850bec2-b1ac-479a-84f2-ac78191312c3</webElementGuid>
+      <webElementGuid>1e42425a-459f-484b-820b-17ea60745928</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'R171917969038552305_heading' and (text() = 'Create and Deploy OTBI' or . = 'Create and Deploy OTBI')]</value>
-      <webElementGuid>f0465798-2017-489d-b6c6-a841b660d0b0</webElementGuid>
+      <webElementGuid>0746d7a6-9a1c-4cb6-837a-cdcc2cfb7138</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

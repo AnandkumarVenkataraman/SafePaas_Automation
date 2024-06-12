@@ -6,12 +6,12 @@
    <elementGuidId>7040fd10-3eea-4b3c-884d-058d1ac8312c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_172']/div[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.a-TreeView-label.is-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'User Access Certification Summary')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0f734715-2b83-4482-8c66-6a673ff48b6c</webElementGuid>
+      <webElementGuid>2c6461aa-9b27-459a-9f59-b0307fdc3dcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>2b71775e-1c2f-40b7-8a62-a20bda076e38</webElementGuid>
+      <webElementGuid>34235529-2ec3-416a-95d3-1872981c5d35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>97b9d2dd-4bcf-4d3d-9914-929d160bee35</webElementGuid>
+      <webElementGuid>4f9f4835-1170-4de9-9c3d-1264f9077001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>2454fe42-c286-4efc-9a6d-bdbdec3cd8f3</webElementGuid>
+      <webElementGuid>9a64034b-cac7-4a33-ba59-4113c86b00e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1400:8:9655886996682:::8::</value>
-      <webElementGuid>88f4f6eb-4e66-4c15-8b0b-6452e376f6d5</webElementGuid>
+      <webElementGuid>166d4903-5a70-4c42-87cd-36e8749ddd64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>8b5aaad5-1fb9-481c-a9ea-439fff8ac8ff</webElementGuid>
+      <webElementGuid>01a24958-8004-4cd4-bb32-41d010ab06a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4251bb28-9b8c-4548-bdd3-1e7a0d0a46a6</webElementGuid>
+      <webElementGuid>ef783ed9-8358-4ee9-aaf3-5a58cd653008</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>User Access Certification Summary</value>
-      <webElementGuid>6b6aae63-1dfd-4c4e-99a2-82473e2b1bf9</webElementGuid>
+      <webElementGuid>af1af915-1720-4ef2-9c53-e9d2fe58d270</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_172&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>a3e27228-ab34-4525-a7cf-830934eb6196</webElementGuid>
+      <webElementGuid>10ba16c3-b2a2-4d6f-8e2e-d163b42644e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_172']/div[2]/a</value>
-      <webElementGuid>fe1b9327-f4b9-4417-b289-c1d97998e353</webElementGuid>
+      <webElementGuid>127841c6-a5fe-4c73-88ee-907957eac69d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'User Access Certification Summary')]</value>
-      <webElementGuid>15ca884a-b417-4e67-98aa-e263fa9e94c8</webElementGuid>
+      <webElementGuid>ebf68e6d-25ac-4cef-9091-ac5866a38b56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1400:8:9655886996682:::8::')]</value>
-      <webElementGuid>54621d19-43d0-4649-bcd4-bf5281343ce2</webElementGuid>
+      <webElementGuid>03d6f51a-8f83-4d20-8d59-68a24c872e00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li/ul/li[2]/div[2]/a</value>
-      <webElementGuid>60531d73-4bff-41ff-8ed6-e84b2fa91bab</webElementGuid>
+      <webElementGuid>da6f5cd2-8a70-4857-aa5f-0dbad17f2d2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1400:8:9655886996682:::8::' and (text() = 'User Access Certification Summary' or . = 'User Access Certification Summary')]</value>
-      <webElementGuid>f30c8202-9f47-4cf8-b1ca-86c6b9ac1e29</webElementGuid>
+      <webElementGuid>1c2a90e4-4561-4fe5-887b-8b92684484ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//option[@value='361691']</value>
+         <value>//option[(text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>0c80e6e4-f724-4ab5-ad95-ec6d002c3b31</webElementGuid>
+      <webElementGuid>0bd54dff-4ee4-4fee-8617-dc3090cc1066</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>value</name>
       <type>Main</type>
       <value>361691</value>
-      <webElementGuid>7a9fe480-6b36-4e05-92fb-4c02064120ac</webElementGuid>
+      <webElementGuid>468ab6ad-5751-4c2f-8264-9b0e9bccffc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AR Approval Limits</value>
-      <webElementGuid>dd90bc7f-d40b-4b0c-beb5-c6fe6f436e81</webElementGuid>
+      <webElementGuid>cb5c719f-9b8c-40a7-b123-9faa24a10d79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P30_MULTI_OBJECT_ID_LEFT&quot;)/option[1]</value>
-      <webElementGuid>eeccaa1b-00e0-40db-a955-4aeffdadd654</webElementGuid>
+      <webElementGuid>1b6c5f57-af0e-469a-92f7-3f25a63f43b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//option[@value='361691']</value>
-      <webElementGuid>095dce9a-5562-4fbd-937c-aff796657a2b</webElementGuid>
+      <webElementGuid>7cfdaaee-9dd5-4e70-b53f-ea5e460d64e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//select[@id='P30_MULTI_OBJECT_ID_LEFT']/option</value>
-      <webElementGuid>63e8b622-0950-43c0-949c-406e3f3b0d67</webElementGuid>
+      <webElementGuid>0a2dd7d2-c899-4bc7-8906-06cada272c87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/select/option</value>
-      <webElementGuid>64a8c046-26ec-4d15-be2f-279227c0cfe9</webElementGuid>
+      <webElementGuid>ef5c6b2f-203e-4f9c-ad81-5ada96dc9ab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//option[(text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
-      <webElementGuid>22f99722-edfd-4597-bdcb-0358de450623</webElementGuid>
+      <webElementGuid>b5d407cc-38b3-4c14-9606-56e5ca343cdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

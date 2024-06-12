@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//th[@id='C135726173737531539']/a</value>
+         <value>//a[contains(text(),'Log id')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3ce02a86-05a6-45af-acc1-7fbc6f54d502</webElementGuid>
+      <webElementGuid>b88c7c60-da20-4e77-b229-dba8e19026c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>d0606dfc-5734-4b37-9382-89e56f47f4e7</webElementGuid>
+      <webElementGuid>4b60a664-e6f3-4f94-bd3f-675b6b59683b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>135726173737531539</value>
-      <webElementGuid>adc5d9b5-12cb-478d-9e50-c979f314706a</webElementGuid>
+      <webElementGuid>58d1aff9-6ddc-493a-96fb-9932f6ce02c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>157fd9ba-8339-49da-87f0-ee02c1215aff</webElementGuid>
+      <webElementGuid>1a9a133f-7482-4ecf-bc6e-79b1b2a6ca60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log id</value>
-      <webElementGuid>2a63bab2-88d0-430a-ab70-9a8f41917771</webElementGuid>
+      <webElementGuid>217ceb1e-28c7-4221-951e-bf1c9df547e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;258176024156123510&quot;)/tr[1]/th[@id=&quot;C135726173737531539&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>bd4be7c8-7bb9-48b2-9e8c-a98c0aef10a7</webElementGuid>
+      <webElementGuid>ea7291b9-7dcd-42ea-ab55-171413f82093</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C135726173737531539']/a</value>
-      <webElementGuid>5ebe4a4b-91f6-4f74-90cb-e8bd8b65c5c3</webElementGuid>
+      <webElementGuid>aa795960-f7f4-42a3-a2a2-786218efc459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Log id')]</value>
-      <webElementGuid>e9233abd-c665-4020-9311-8d378a7e686e</webElementGuid>
+      <webElementGuid>9eb165a1-299c-4d92-b3b4-294fbdd23f7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[10]/a</value>
-      <webElementGuid>035f39e9-3e45-4c50-bcd2-c74eb5b4d253</webElementGuid>
+      <webElementGuid>2627963f-41b0-47c5-b512-ec64f1fb8829</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Log id' or . = 'Log id')]</value>
-      <webElementGuid>e17443a1-deb1-4cf6-bedd-2fd7d1c58a99</webElementGuid>
+      <webElementGuid>3e15962e-e9a2-4fd3-8564-ca1f62178a7c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

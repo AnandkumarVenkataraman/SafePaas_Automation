@@ -15,7 +15,7 @@
       <guid>b6078362-4fab-4ace-9ce3-0691ae005e7d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/23_EACM Survey_Reassignment</testCaseId>
+      <testCaseId>Test Cases/Login and ManageRulesTag/23_EACM Survey_Reassignment_SailPointEnv</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

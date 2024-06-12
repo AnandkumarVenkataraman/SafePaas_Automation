@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//th[@id='BEGIN_DATE']/a</value>
+         <value>//a[contains(text(),'Begin Date')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fda54ec9-0f75-4819-a27a-5c3748c6ab9d</webElementGuid>
+      <webElementGuid>2f42b286-7463-4398-a1a5-585cff335936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>66f28f13-8bb1-4e5a-ab4f-84a65d29f639</webElementGuid>
+      <webElementGuid>800c51f4-cadb-41ec-b7d9-af22ee94bef9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>f5baed11-44ab-4aac-8495-2fff9a43943e</webElementGuid>
+      <webElementGuid>fa12d76e-f20d-496b-a18a-3a067a9234e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>163106702115422934</value>
-      <webElementGuid>d6689216-b5ee-45c4-ae86-e89c97e6d234</webElementGuid>
+      <webElementGuid>701eb8f0-9311-4adc-8f3c-a7a10cdd2061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>d09792c9-00f6-42f8-aaf9-66fe852f5db2</webElementGuid>
+      <webElementGuid>9ac41827-2e8a-4352-8443-85974003f2b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Begin Date</value>
-      <webElementGuid>24391681-370c-4451-acf0-f3d445e91263</webElementGuid>
+      <webElementGuid>8afe6e9b-4c7e-4364-9122-84c03ecdceec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;BEGIN_DATE&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>215cc6ac-e901-4057-9bbc-3a99cae8f903</webElementGuid>
+      <webElementGuid>224c6004-223f-4fd9-9a80-48704bec97e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='BEGIN_DATE']/a</value>
-      <webElementGuid>7b5ce98e-990c-41a1-b370-8dface0fedb7</webElementGuid>
+      <webElementGuid>0dc27e1b-fe92-4937-b6a0-1e9325e2179d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Begin Date')]</value>
-      <webElementGuid>b7efcc2c-9757-465b-8dd6-fdbcd57db000</webElementGuid>
+      <webElementGuid>6022ae35-8447-4dea-bb61-b0efde5494fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[7]</value>
-      <webElementGuid>1018eff8-4f5e-4b73-a69d-ff33a7e10948</webElementGuid>
+      <webElementGuid>0c632675-20d6-4752-9bd0-4e7e8b93880e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[6]/a</value>
-      <webElementGuid>6b700a21-ff3d-4569-a2c7-dbae1212e43c</webElementGuid>
+      <webElementGuid>5dec0d0e-11d3-47ab-99f4-e85e75808c02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Begin Date' or . = 'Begin Date')]</value>
-      <webElementGuid>ccb288d7-df19-449b-8a62-40629f198da8</webElementGuid>
+      <webElementGuid>c42ad132-4e48-454b-b091-18f31835566b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

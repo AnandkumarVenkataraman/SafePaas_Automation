@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any One(SS)KTLN_ARLIMIT_APR19_526a61 (1)</name>
+   <tag></tag>
+   <elementGuidId>26feaaf3-dcd5-4bcd-9aa7-27bb4146e53d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_SNAPSHOT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P13_SNAPSHOT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e98ba4f3-c71e-4a8e-911e-80c6d9b0ea37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P13_SNAPSHOT</value>
+      <webElementGuid>ca9f62a2-4002-4ff3-9cc8-3621d86e9541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P13_SNAPSHOT</value>
+      <webElementGuid>d8214541-ffe4-4cb0-865d-c22eede87c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>35311ea0-19d0-4636-a9b9-979c56860cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ad661018-e97f-4dd1-bb20-6874a1dd3718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>0767991d-cbb2-4045-a1e1-aaea7c465bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P13_SNAPSHOT');</value>
+      <webElementGuid>087454d5-5161-4731-8656-27ca7e75fbdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+(SS)KTLN_ARLIMIT_APR19_V2_20240419055809
+(SS)KTLN_ARAPRLMT_APR19_V1_20240419023818
+(SS)KTLN_ARAPRLMT_APR18_V1_20240418110657
+</value>
+      <webElementGuid>23de2a74-4065-45b9-94d3-afe2d0e7558e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_SNAPSHOT&quot;)</value>
+      <webElementGuid>f1685823-7069-4bb2-953d-eeda7bb90e06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P13_SNAPSHOT']</value>
+      <webElementGuid>95cb877e-ced1-4b5b-99d5-809d78b23050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R21041807254719889']/div[2]/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>a9e4568c-2a9e-45b2-8d94-3fbd9135c3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>10ea82b4-b38c-49a0-8a9f-aaeb4ebd6cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P13_SNAPSHOT' and @name = 'P13_SNAPSHOT' and (text() = 'Select any One
+(SS)KTLN_ARLIMIT_APR19_V2_20240419055809
+(SS)KTLN_ARAPRLMT_APR19_V1_20240419023818
+(SS)KTLN_ARAPRLMT_APR18_V1_20240418110657
+' or . = 'Select any One
+(SS)KTLN_ARLIMIT_APR19_V2_20240419055809
+(SS)KTLN_ARAPRLMT_APR19_V1_20240419023818
+(SS)KTLN_ARAPRLMT_APR18_V1_20240418110657
+')]</value>
+      <webElementGuid>e1f8c59d-cce3-4508-84ac-eabfae8ce154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

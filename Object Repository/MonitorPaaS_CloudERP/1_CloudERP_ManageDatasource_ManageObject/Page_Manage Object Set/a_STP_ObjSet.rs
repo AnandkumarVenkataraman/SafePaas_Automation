@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='139654309731596916_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[contains(text(),'STP_ObjSet')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3d9442e6-1bd4-4649-b53a-520a7e4c95cb</webElementGuid>
+      <webElementGuid>1439b301-51c0-4f9a-b10a-cb6981c55716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:18:8790943421484:::18:P18_OBJECT_SET_ID:5481</value>
-      <webElementGuid>317527a1-1016-4851-a190-87c375ab699f</webElementGuid>
+      <webElementGuid>fedcfef7-a604-41a1-ade7-28fad31da44f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>STP_ObjSet</value>
-      <webElementGuid>2e5870ca-d057-452c-8cf5-26c07b6228bf</webElementGuid>
+      <webElementGuid>ead75fdd-2e0a-4634-92a2-20ec18e58f68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;139654309731596916_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>2c7bea7d-8743-4476-8bb4-7be1493ab708</webElementGuid>
+      <webElementGuid>efa81b64-18d4-4e65-b7ef-cc05feb8cf4b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='139654309731596916_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>62c1a947-eea7-44b8-bc89-874936621aac</webElementGuid>
+      <webElementGuid>312c6b01-0717-4094-9b3c-88bb812ef0d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'STP_ObjSet')]</value>
-      <webElementGuid>86cebcc2-2e94-44cf-9c3b-5a0ee84da1ce</webElementGuid>
+      <webElementGuid>e418aea9-b87a-40e2-b5bd-d95c6ea80d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:18:8790943421484:::18:P18_OBJECT_SET_ID:5481')]</value>
-      <webElementGuid>28c4be29-fcf0-4b56-8bff-55beef2a8660</webElementGuid>
+      <webElementGuid>80f05ad8-5ea4-4ab8-96ae-caa6b1193902</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>29046453-38cd-4274-84f6-6afe0d999832</webElementGuid>
+      <webElementGuid>0ae515dc-56ba-4311-a010-cbc0ce0cb889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:18:8790943421484:::18:P18_OBJECT_SET_ID:5481' and (text() = 'STP_ObjSet' or . = 'STP_ObjSet')]</value>
-      <webElementGuid>25475cef-b0c2-4eb8-8c3c-5b2bb55064a1</webElementGuid>
+      <webElementGuid>3420b7ed-37a1-4e77-9a43-135eeed03696</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B16407712320415213']</value>
+         <value>//button[@type = 'button' and @id = 'B16407712320415213' and (text() = 'Apply Changes' or . = 'Apply Changes')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d4e9f22e-a758-4d41-9990-670d99904732</webElementGuid>
+      <webElementGuid>7c41107f-8196-4924-aa3c-ff49e9657ce1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'SAVE',validate:true});</value>
-      <webElementGuid>26351fef-f368-451e-b59c-336dd53bce0c</webElementGuid>
+      <webElementGuid>12c48be6-d0a7-4c01-9f5e-48248cb6ca9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>48b01d8f-e976-47af-9623-eb07b673bfd8</webElementGuid>
+      <webElementGuid>4f13fab4-7b6d-403a-8517-926ec8c90268</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c5eb20bd-2cf2-4d0b-8513-aa4d7f5e1a28</webElementGuid>
+      <webElementGuid>6fede01c-3664-4594-9412-93fdac0e3943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B16407712320415213</value>
-      <webElementGuid>759a8a67-4f1f-42ba-910e-11ec7da72816</webElementGuid>
+      <webElementGuid>23a9245f-1332-426c-a8eb-0a3e8643e315</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Apply Changes</value>
-      <webElementGuid>bebfc254-9025-4667-a017-e3f1f541f432</webElementGuid>
+      <webElementGuid>95a110bf-8a2e-49a6-8684-5a8932c4f53e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B16407712320415213&quot;)</value>
-      <webElementGuid>f20bbc7d-0b7f-46b8-a8e4-cdbc58a069de</webElementGuid>
+      <webElementGuid>e60bd9d6-363d-4f93-b845-c2076ac30b01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B16407712320415213']</value>
-      <webElementGuid>4215e067-c6db-48b4-88fa-fdb371feb836</webElementGuid>
+      <webElementGuid>22061dc4-2072-491e-ba23-4176a42cf5c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R16406609603415143']/div/div[2]/button[2]</value>
-      <webElementGuid>85e42781-9916-418b-9548-12779eb12240</webElementGuid>
+      <webElementGuid>03de89a5-8861-48af-806c-f3903674bf11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>af05f383-a286-4cc0-a55e-02a869ff9d9b</webElementGuid>
+      <webElementGuid>eea9d02e-f58b-4d54-84bd-c4dfe0ca731d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B16407712320415213' and (text() = 'Apply Changes' or . = 'Apply Changes')]</value>
-      <webElementGuid>c9cbbe5a-df71-4103-8aee-e4dd97b8930b</webElementGuid>
+      <webElementGuid>2a842b23-06cf-4a1b-bc76-64b146c53e6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

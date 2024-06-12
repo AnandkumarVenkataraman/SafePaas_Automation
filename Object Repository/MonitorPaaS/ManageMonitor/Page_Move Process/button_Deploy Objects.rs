@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[2]/button</value>
+         <value>//button[@type = 'button' and @id = 'B434304722119685349' and (text() = 'Deploy Objects' or . = 'Deploy Objects')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>92ca990b-6ebb-423f-8dab-3d70aeed9c1c</webElementGuid>
+      <webElementGuid>ed8a1dc0-3a1e-4ff8-bacf-df57388f94ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>void(0);</value>
-      <webElementGuid>2548661b-8582-4427-be0c-712338740a59</webElementGuid>
+      <webElementGuid>7c58e218-d794-4825-9784-a8ac2439f0cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--large</value>
-      <webElementGuid>834b1216-347b-4fab-bd7f-e2fc078cf755</webElementGuid>
+      <webElementGuid>1fef0a12-0e4b-4b8d-ae5c-a93d89ad18ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ab64e5e9-ff03-4c89-8e22-34e542ba571f</webElementGuid>
+      <webElementGuid>8ddc3a3f-c54c-49f1-96d2-3b2ee98e3315</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B434304722119685349</value>
-      <webElementGuid>ab80f2f1-c389-47a1-b02b-696ac92a3e6f</webElementGuid>
+      <webElementGuid>7e23caab-80c8-4483-bd02-68b6041a6e6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Deploy Objects</value>
-      <webElementGuid>72f14c02-720d-454b-9f7e-c394196a8eb9</webElementGuid>
+      <webElementGuid>32fde8f2-393e-4459-b04c-72d6446719bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B434304722119685349&quot;)</value>
-      <webElementGuid>1006d619-8e1b-4cad-8f96-6a64ea96b1e0</webElementGuid>
+      <webElementGuid>dd7d584e-450d-4b79-942a-f8efc1880364</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B434304722119685349']</value>
-      <webElementGuid>802f190f-4a73-43fa-a72c-633f96b11c43</webElementGuid>
+      <webElementGuid>6c551222-65a9-4e04-8609-5e4cb530c05c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R433726316682115957']/div/div[2]/button</value>
-      <webElementGuid>00d61054-fa60-42d9-8c48-8a4a9724ace3</webElementGuid>
+      <webElementGuid>3405eace-17a7-44d1-97fa-79693bc524a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>420ed256-ce8c-4845-8279-20ab2c27dd55</webElementGuid>
+      <webElementGuid>f9a51a59-e860-4240-b478-a6a69541926f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B434304722119685349' and (text() = 'Deploy Objects' or . = 'Deploy Objects')]</value>
-      <webElementGuid>9a89439d-5707-4850-a4b6-c81626a79658</webElementGuid>
+      <webElementGuid>cf79f41e-8bc8-48ab-a14b-58d39aa5b1c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

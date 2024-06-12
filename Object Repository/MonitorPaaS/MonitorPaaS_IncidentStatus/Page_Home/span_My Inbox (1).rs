@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='SR_inboxTab_tab']/a/span</value>
+         <value>//span[(text() = 'My Inbox' or . = 'My Inbox')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>faec5dc2-9f6b-40a4-80b0-f0723316e432</webElementGuid>
+      <webElementGuid>a4b2898f-bb29-406d-9b6b-42b4e06514c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>My Inbox</value>
-      <webElementGuid>d285db4c-f6fb-4018-8606-23b4fafc0020</webElementGuid>
+      <webElementGuid>86b6b79e-4c0c-4936-84de-2be591b1f1f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;SR_inboxTab_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
-      <webElementGuid>fa3fbbb5-3838-4505-81e8-955c7214053b</webElementGuid>
+      <webElementGuid>af0d5598-1535-4875-b429-874080d45743</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='SR_inboxTab_tab']/a/span</value>
-      <webElementGuid>cc470d87-be10-4566-80a8-7d4deee4c8d9</webElementGuid>
+      <webElementGuid>b8a05a41-ad06-441d-8b01-92af99a62c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/ul/li/a/span</value>
-      <webElementGuid>c8339b99-0846-4ec9-b410-68b7e59d8200</webElementGuid>
+      <webElementGuid>c54bbaea-2443-4e00-a2e3-a1be97364260</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'My Inbox' or . = 'My Inbox')]</value>
-      <webElementGuid>447ca98d-0637-4330-a3b5-efc6afe20f93</webElementGuid>
+      <webElementGuid>0c961b08-27f3-4700-bfe3-93842d7f99e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

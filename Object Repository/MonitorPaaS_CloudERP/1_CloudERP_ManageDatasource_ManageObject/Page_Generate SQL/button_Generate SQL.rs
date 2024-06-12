@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B172563490979017770']</value>
+         <value>//button[@type = 'button' and @id = 'B172563490979017770' and (text() = 'Generate SQL' or . = 'Generate SQL')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f33865e-f238-43fc-878a-a5d0a902b6c2</webElementGuid>
+      <webElementGuid>72e1ee01-03eb-494c-8e44-bfb992957afe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'CREATE'});</value>
-      <webElementGuid>4c05027c-86ad-4f0b-88b4-e8b521edabdb</webElementGuid>
+      <webElementGuid>862d2aa4-5c39-4c93-a84b-10a8404848b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--hot </value>
-      <webElementGuid>6f3f5293-0a3f-445f-861f-52c915fa120c</webElementGuid>
+      <webElementGuid>d6cbcbfc-7d25-4f02-8dbe-9c966434e18c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>34bbb4cc-2cac-4b65-b6f5-dd21ff3f87e9</webElementGuid>
+      <webElementGuid>b94af3a8-aa6c-47a9-aa31-8afbb46e1be9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B172563490979017770</value>
-      <webElementGuid>9592a634-a919-430b-91ce-266a0bad51c2</webElementGuid>
+      <webElementGuid>9eaf6caf-4f63-4153-811d-f9298ec03e17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Generate SQL</value>
-      <webElementGuid>984cd0d3-d0af-47ca-9e06-f0fa1c6abf37</webElementGuid>
+      <webElementGuid>6a70fc72-faac-4212-ba78-95a5bae11376</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B172563490979017770&quot;)</value>
-      <webElementGuid>17af0cac-e85e-4682-97d6-1d5048536f57</webElementGuid>
+      <webElementGuid>da21da5a-d4fa-4200-a5a9-a7ee8a2d944b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B172563490979017770']</value>
-      <webElementGuid>a1c7118a-167a-41ab-a182-520fcc43476c</webElementGuid>
+      <webElementGuid>d0461fe3-7d31-4011-8f07-810f1cbb936c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R301859173834507222']/div/div[2]/button[2]</value>
-      <webElementGuid>8524cbe2-03f1-4341-b70a-7b5073757ea7</webElementGuid>
+      <webElementGuid>83d3f609-0166-4ae5-bef0-f969aa7d4a2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>246ac91c-daa9-477b-ad5c-0bafb3893ae3</webElementGuid>
+      <webElementGuid>048556c7-231b-4e61-bf09-28f22a167f10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B172563490979017770' and (text() = 'Generate SQL' or . = 'Generate SQL')]</value>
-      <webElementGuid>61995ab3-4253-48fd-931a-30d91d24fcd7</webElementGuid>
+      <webElementGuid>7a58626a-5700-4cc3-949c-f4e432c8b5e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

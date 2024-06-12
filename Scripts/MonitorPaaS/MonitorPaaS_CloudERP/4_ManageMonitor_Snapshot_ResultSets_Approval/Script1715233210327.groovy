@@ -81,7 +81,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonit
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/Rough/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'), 
-    'STP_FCPM_APR24_R1_20240424003504', true, FailureHandling.OPTIONAL)
+    'STP_FCPM_JUNE11_V1_361711_20240611041056', true, FailureHandling.OPTIONAL)
 
 WebUI.delay(5)
 
@@ -89,34 +89,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_IncidentStatus/Page_Home/button_katalon_admin (1)'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_IncidentStatus/Page_Home/button_katalon_admin (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_IncidentStatus/Page_Home/a_Logout (1)'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_IncidentStatus/Page_Home/a_Logout (1)'))
-
-WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Login/input_Spring 2024_P101_COMPANY (1) (1) (1)'), 
-    'KAT')
-
-WebUI.comment('Enter KAT company')
-
-WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (1) (1) (1)'), 
-    'ANANDK')
-
-WebUI.comment('Enter the Username as ANANDK')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Login/input_New_P101_PASSWORD (1) (1) (1)'), 
-    'ValhQjMPEplf6UMceguWnQ==')
-
-WebUI.comment('Enter the Password')
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Login/button_Login (1) (1) (1)'))
-
-WebUI.comment('click on Login button')
-
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:APPROVER,66812882,313696,40217,321272')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:APPROVER,100912,314325,40639,322570')
 
 WebUI.delay(5)
 
@@ -256,53 +229,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_Incid
 
 WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV12'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV12'))
-
-WebUI.takeFullPageScreenshot()
-
 WebUI.scrollToPosition(0, 0)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV13'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV13'))
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.scrollToPosition(0, 0)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV14'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV14'))
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.scrollToPosition(0, 0)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV15'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/img_Detail_apex-edit-view - UV15'))
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.scrollToPosition(0, 0)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/span_Close_ui-button-icon ui-icon ui-icon- UR800'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Manage Approvals/button_Actions'))
 
@@ -364,7 +291,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS_IncidentRe
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Reassign tkts/textarea_Comments_P92_COMMENTS'), 
-    'Test reassignment- Apr 26')
+    'Test reassignment- June11_V1')
 
 WebUI.takeFullPageScreenshot()
 

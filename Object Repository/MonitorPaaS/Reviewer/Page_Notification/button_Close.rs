@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B143054912361357411']</value>
+         <value>//button[@type = 'button' and @id = 'B143054912361357411' and (text() = 'Close' or . = 'Close')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fab47b4e-9320-46d2-803c-1a735573c1a5</webElementGuid>
+      <webElementGuid>308da07f-1583-4915-836f-df37e7dbcde0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'CLOSE',validate:true});</value>
-      <webElementGuid>19fce6fa-a058-4102-b65f-470bd16c74dd</webElementGuid>
+      <webElementGuid>605cda4e-5e53-4572-86da-7604fdb5e673</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>c84dfb78-1179-4b4a-9cca-2912a531edac</webElementGuid>
+      <webElementGuid>76511578-3721-4090-ad6b-6df06dba0c1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eb674c10-4441-42dd-8355-08a47fb2c351</webElementGuid>
+      <webElementGuid>ea91b179-7fa0-4605-b9fb-b7d0949d5d3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B143054912361357411</value>
-      <webElementGuid>5aff29ff-6164-461f-baf4-dfeed98f3e12</webElementGuid>
+      <webElementGuid>17e68d57-c026-4ea5-bcd8-50ac95e156c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>02ca43db-7afa-4b93-baf8-8b61bc678327</webElementGuid>
+      <webElementGuid>d8d73500-5f33-4aa3-89a3-90b383f9d9a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B143054912361357411&quot;)</value>
-      <webElementGuid>d3802626-bc57-4b6f-877e-6abc7a373fbd</webElementGuid>
+      <webElementGuid>3ca697f0-2413-42a1-9323-5f1828d381c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B143054912361357411']</value>
-      <webElementGuid>ffbb6258-3343-4b5e-8622-0e271801a4b0</webElementGuid>
+      <webElementGuid>dfe6b5ca-2d96-4262-aa81-587da2c993a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R25755450628809654']/div/div[2]/button[2]</value>
-      <webElementGuid>a959b547-d0e1-403c-9c2a-c3a8fd8067a5</webElementGuid>
+      <webElementGuid>97ba93a6-f00f-4531-ae17-5d39bf93008c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>e0d198fc-b2f4-484a-8d2d-f711bfc40c0a</webElementGuid>
+      <webElementGuid>d7955a11-a8cc-4718-9799-b2de44662db1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B143054912361357411' and (text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>fa662acf-b3bc-4d05-b8ab-d8b22b3fc108</webElementGuid>
+      <webElementGuid>0a36b168-e2cf-42c7-85fb-4f9707822add</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

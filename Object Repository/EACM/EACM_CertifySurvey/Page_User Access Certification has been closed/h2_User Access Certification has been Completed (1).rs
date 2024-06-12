@@ -6,15 +6,19 @@
    <elementGuidId>bf0ed1ec-36f1-4240-800a-2bcd2e919903</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'R183515302298730869_heading' and (text() = 'User Access Certification has been Completed' or . = 'User Access Certification has been Completed')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#R183515302298730869_heading</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id='R183515302298730869_heading']</value>
+         <value>//h2[@id = 'R183515302298730869_heading' and (text() = 'User Access Certification has been Completed' or . = 'User Access Certification has been Completed')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>006a0a2f-8aab-442a-a5c3-9732aa5a8424</webElementGuid>
+      <webElementGuid>85df34c3-b1c5-4ffa-b54e-0adc8c3eb041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Region-title</value>
-      <webElementGuid>c9dc443c-7e1c-4c06-8375-a6747fd0454a</webElementGuid>
+      <webElementGuid>94924ce8-1bc8-4968-8e44-745e7bd71d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R183515302298730869_heading</value>
-      <webElementGuid>9f9d41bb-0dd2-4b13-bca2-615ce637d665</webElementGuid>
+      <webElementGuid>f702bfd4-dee5-4a07-8d88-b598bad1fd34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>User Access Certification has been Completed</value>
-      <webElementGuid>181b9725-eab5-48a9-8755-e19812295eeb</webElementGuid>
+      <webElementGuid>9d7f3cb8-f11b-4275-832a-ecf72cf85519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R183515302298730869_heading&quot;)</value>
-      <webElementGuid>b653f965-ec95-4511-9987-589d30cf4dcc</webElementGuid>
+      <webElementGuid>0f893e35-8f3b-4d05-981b-a30ecb6c442b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='R183515302298730869_heading']</value>
-      <webElementGuid>cba47343-644d-4c00-8a8e-4c5ec944747c</webElementGuid>
+      <webElementGuid>bfbc73f6-d209-474a-bd3a-a5eefbe057e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R183515302298730869']/div/div/h2</value>
-      <webElementGuid>2c3c5357-9be2-4a7d-b0be-978679ddd7af</webElementGuid>
+      <webElementGuid>9c10f83c-7a5d-475c-9e92-0d4d5fdad8eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>47d49b12-077a-48be-a7e4-b356a2e5dfc1</webElementGuid>
+      <webElementGuid>3f165372-496f-4f64-97ff-e6bf0af62b9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'R183515302298730869_heading' and (text() = 'User Access Certification has been Completed' or . = 'User Access Certification has been Completed')]</value>
-      <webElementGuid>e77b7c61-0aa7-484c-b63a-f69e2dab2a30</webElementGuid>
+      <webElementGuid>2cdcde7e-3925-4e00-8350-3168bbe10510</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

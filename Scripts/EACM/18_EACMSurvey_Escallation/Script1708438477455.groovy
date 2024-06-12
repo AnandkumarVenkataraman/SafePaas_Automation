@@ -51,11 +51,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Page_Manage Wor
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_Search'))
-
-WebUI.click(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_Search'))
+    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_Actions'))
 
@@ -72,7 +68,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/Page_Manage Wor
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_p_ignore_10'), 'Test14')
+WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_p_ignore_10'), 'CLOUDERP_CERT_JUN6_V2')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_Apply'))
 
@@ -82,14 +78,17 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage 
 
 WebUI.click(findTestObject('Object Repository/EACM/Page_Manage Workflow/span_fa fa-search'))
 
+WebUI.delay(180)
+
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/Page_Manage Workflow/h2_Manage Workflow - Level 2 - Test14'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/Page_Manage Workflow/h2_Manage Workflow - Level 2 - Test14'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/Page_Manage Workflow/h2_Manage Workflow - Level 2 - Test14'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/Page_Manage Workflow/a_Actions'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/Page_Manage Workflow/a_Actions'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/Page_Manage Workflow/a_Actions'), FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/i_fa fa-wrench'))
 

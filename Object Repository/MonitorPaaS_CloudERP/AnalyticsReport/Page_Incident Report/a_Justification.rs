@@ -6,12 +6,12 @@
    <elementGuidId>fdfbb371-6f3d-424b-bd8b-0212383f571c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C176872731456839122']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C176872731456839122 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Justification')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e275c26f-002d-4a2e-928b-5009cf586435</webElementGuid>
+      <webElementGuid>7988f5bf-36ea-4e89-8bc0-591f49a962c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>abd846da-7f4b-42cf-b2ca-4acbece5584b</webElementGuid>
+      <webElementGuid>94aef4c4-ec0b-4be4-a55a-fa25b87e6df1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>b5ee4fee-1f84-40bd-8691-503c6349fb18</webElementGuid>
+      <webElementGuid>68e75b60-3487-4800-b5cb-1d4127b8aa84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>176872731456839122</value>
-      <webElementGuid>9809db17-f1f0-4270-be5f-97bbd97b103b</webElementGuid>
+      <webElementGuid>6232b20d-8b9d-42e9-b0e7-87f124d77505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>d799d901-aa44-4691-88ad-0f742628b00f</webElementGuid>
+      <webElementGuid>1fd0e646-6171-4e00-aaa7-c3ddf8f824d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Justification</value>
-      <webElementGuid>b5347068-0e54-4506-8e50-97564bea8c7c</webElementGuid>
+      <webElementGuid>418c75a3-54ec-4cc0-aac1-b7c29757a408</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C176872731456839122&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>8579a6be-ddbd-4341-af32-e02a6af7e7c7</webElementGuid>
+      <webElementGuid>fc661727-2a99-43ab-bdf2-8385c375cf70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C176872731456839122']/a</value>
-      <webElementGuid>3c608dd9-8dbb-48da-874b-2114738be68c</webElementGuid>
+      <webElementGuid>3053536f-00ac-48c5-a5a4-dcda546cb5f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Justification')]</value>
-      <webElementGuid>4b3c5700-41b6-4032-b0b0-05e72a1789a5</webElementGuid>
+      <webElementGuid>71d274a5-e12f-40f0-814e-c5de26adab1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[29]</value>
-      <webElementGuid>b7e3fd40-803c-47e1-b00a-7deda79163b1</webElementGuid>
+      <webElementGuid>ff64b063-be04-4061-9269-cd059c88cb61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[12]/a</value>
-      <webElementGuid>d7ac5893-37b1-44f2-b1ee-59c7825aa587</webElementGuid>
+      <webElementGuid>3177572c-b120-436d-9f2c-2a8f8b922b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Justification' or . = 'Justification')]</value>
-      <webElementGuid>d71635b5-28aa-47cf-8cf3-eea06cf660a5</webElementGuid>
+      <webElementGuid>4a999c7c-7f85-4dcf-a88c-469827657925</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

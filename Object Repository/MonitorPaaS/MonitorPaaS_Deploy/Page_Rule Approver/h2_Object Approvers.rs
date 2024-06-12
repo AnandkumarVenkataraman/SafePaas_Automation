@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id='R28070122407018181_heading']</value>
+         <value>//h2[@id = 'R28070122407018181_heading' and (text() = 'Object Approvers' or . = 'Object Approvers')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>cfd94bf6-6b1c-4b80-bb19-497b015509ea</webElementGuid>
+      <webElementGuid>ab801730-6ac4-4a3b-a699-e3e08bc19937</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Region-title</value>
-      <webElementGuid>60dca271-f45d-4f4c-88a4-597764309ef7</webElementGuid>
+      <webElementGuid>c0a68313-07c7-43eb-86ac-7999da6c1eb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R28070122407018181_heading</value>
-      <webElementGuid>51b32508-d10d-417a-b6e4-7638dacc1fc1</webElementGuid>
+      <webElementGuid>c1d1cb73-c5dc-4290-939c-17d039af10f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Object Approvers</value>
-      <webElementGuid>117e42aa-b401-4ebe-b2e5-438f9209198c</webElementGuid>
+      <webElementGuid>67d7a889-061f-4eae-b8bd-6d96af452edd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R28070122407018181_heading&quot;)</value>
-      <webElementGuid>919e8e37-2e34-47a6-a8e3-78d63745dfd9</webElementGuid>
+      <webElementGuid>b7b40217-1e2d-49ae-89e3-ab15a4a5bbfa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='R28070122407018181_heading']</value>
-      <webElementGuid>5c498bfb-d116-41ce-a723-d62c554a5d59</webElementGuid>
+      <webElementGuid>352ac081-a020-454c-94fb-333e5ff4299c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R28070122407018181']/div/div/h2</value>
-      <webElementGuid>7ed56f99-f606-4b5f-9fd8-5ac45d5ef0bd</webElementGuid>
+      <webElementGuid>d8d1756a-0a90-4f1f-9ba7-34bfc7c248c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/h2</value>
-      <webElementGuid>0b15192c-6bb7-4641-b30d-7db6f5b3a42c</webElementGuid>
+      <webElementGuid>06fb3edf-67f1-409e-bbd6-a9cbb8a49ea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'R28070122407018181_heading' and (text() = 'Object Approvers' or . = 'Object Approvers')]</value>
-      <webElementGuid>0962b154-1eb1-401a-84b3-e9735d735c46</webElementGuid>
+      <webElementGuid>2a9a740c-3b62-4f16-9395-eec98ef49dfa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

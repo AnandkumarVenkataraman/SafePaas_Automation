@@ -6,12 +6,12 @@
    <elementGuidId>cd4e3a3b-20a0-495b-929f-cd63457c617b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mngMonitos_col_values_drop']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.a-IRR-col-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Not Defined')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>68c6f085-279f-4d40-84b7-188c341bd761</webElementGuid>
+      <webElementGuid>54990684-6d30-4092-b786-b87622ccfd7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>a59471cd-c8d3-48fa-910a-3ae07fb0e624</webElementGuid>
+      <webElementGuid>f5f5e412-ed9a-4e63-9783-da85013d6533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>ba12e17d-f4a3-4c86-a77b-d384d0340b22</webElementGuid>
+      <webElementGuid>616fedec-2590-4f0e-9801-eb52c29a2f00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>Not Defined</value>
-      <webElementGuid>59308f64-8379-4295-b7de-41b77dd4cab9</webElementGuid>
+      <webElementGuid>afc60527-9184-4727-a0eb-0bbfc231993b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Not Defined</value>
-      <webElementGuid>63d9cec4-2d0c-4e65-acde-3615abd10b59</webElementGuid>
+      <webElementGuid>d8483c01-45e5-4f70-a778-c5d3d45fa601</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mngMonitos_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>4e3a5fc0-74b5-4ac6-93b3-016b64054c8b</webElementGuid>
+      <webElementGuid>f539b048-b183-4871-ac32-fbccf27dd74e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngMonitos_col_values_drop']/a</value>
-      <webElementGuid>4ebe7ef1-a3b1-439a-8825-c88d2b6120af</webElementGuid>
+      <webElementGuid>1d0780f9-853e-4c3e-828c-34757afa959e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Not Defined')]</value>
-      <webElementGuid>77c2b493-0d55-4aae-9f3c-0d11a1070002</webElementGuid>
+      <webElementGuid>e6769fb3-b881-471e-ad16-c1d353541878</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[99]</value>
-      <webElementGuid>595802d4-12f0-47fe-9caa-28476f61e1db</webElementGuid>
+      <webElementGuid>e6a10958-acef-4947-9833-6a5227916055</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html/div/a</value>
-      <webElementGuid>42949297-218e-4caa-bb11-a0d08f20edb1</webElementGuid>
+      <webElementGuid>d47dfcd4-3d3b-436b-a85f-1461442e691b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Not Defined' or . = 'Not Defined')]</value>
-      <webElementGuid>4d4c1c63-95a4-4edf-9852-4d774b69001e</webElementGuid>
+      <webElementGuid>aaa9dc77-13b4-40ed-8bf7-1d3573a5bec7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

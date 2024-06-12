@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[2]/div[1]/div/ul/li[1]/ul/li[5]/ul/li[3]/ul/li[11]/div[2]/a</value>
+         <value>//a[contains(text(),'Certification Configuration')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2d123c49-f6a3-4c64-a0b7-2724e1908dba</webElementGuid>
+      <webElementGuid>916cd56f-23a2-423b-8eb4-392e06d9e11d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>fbe05641-828d-4c37-bd9e-50bde498abd8</webElementGuid>
+      <webElementGuid>788ad1ff-b787-4f01-bc7f-29d54389aebb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>f5cf0b66-7357-483c-bfcd-73325ce8108d</webElementGuid>
+      <webElementGuid>055447e0-75a7-450c-89c1-2c3a30ef5b71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>5f342fb7-f6e1-497f-ae75-f70a1703cc7a</webElementGuid>
+      <webElementGuid>61d88813-9587-427f-bbd2-e520976edb34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1400:41:15566693211728:::41::</value>
-      <webElementGuid>59ca27bc-e235-4578-8d73-2869dd8e3199</webElementGuid>
+      <webElementGuid>a1a0cd8c-7357-4a31-aecd-5fcbebcbff35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>af574ec8-1ff0-4374-b2de-4545c0c71ed3</webElementGuid>
+      <webElementGuid>d983a02c-b9c6-43b5-a51e-052a1724b568</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6f9320b1-72a3-4a52-b589-1cfa64b052ef</webElementGuid>
+      <webElementGuid>8f0e52ab-6ddb-47fe-aac4-b1ac2b784939</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Certification Configuration</value>
-      <webElementGuid>fdf4e64c-563b-4335-8b5e-3ba205d79c83</webElementGuid>
+      <webElementGuid>b3a44f0e-8ce0-460c-b682-33aedb7a00f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_23&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>95750038-4a74-45e9-8c12-c77e04129773</webElementGuid>
+      <webElementGuid>f8ca9bdc-81ae-4c6f-87f8-e64b4c1c69ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_23']/div[2]/a</value>
-      <webElementGuid>06995902-a484-4021-922e-c25d5991a96b</webElementGuid>
+      <webElementGuid>4789b6fb-f327-4230-82dc-475b92c63746</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Certification Configuration')]</value>
-      <webElementGuid>3610fb1a-6079-44a0-92ef-3d21c1536eaf</webElementGuid>
+      <webElementGuid>8ecf82e5-13b7-4379-a848-d5df63fe5501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1400:41:15566693211728:::41::')]</value>
-      <webElementGuid>6572f542-c8c5-4a2d-af01-be21b2e5e660</webElementGuid>
+      <webElementGuid>8224049c-6b20-4656-b590-d78ce261a097</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[11]/div[2]/a</value>
-      <webElementGuid>dbb07ff5-dbad-4309-9a3b-55b4e810559c</webElementGuid>
+      <webElementGuid>fe039293-7566-4541-8b35-954bb44d960a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1400:41:15566693211728:::41::' and (text() = 'Certification Configuration' or . = 'Certification Configuration')]</value>
-      <webElementGuid>5cb8a4cc-78fa-4dbe-a604-dac4235a0067</webElementGuid>
+      <webElementGuid>1f933f29-7b30-474e-bdbc-8684f240d46a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

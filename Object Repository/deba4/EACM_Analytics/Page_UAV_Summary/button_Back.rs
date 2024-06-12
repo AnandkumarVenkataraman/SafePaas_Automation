@@ -6,12 +6,12 @@
    <elementGuidId>3d21eafa-e3c3-4e11-a558-299c4ccd1dd1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='B164620650448974049']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#B164620650448974049</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'B164620650448974049' and (text() = 'Back' or . = 'Back')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cede9be9-e2ea-4d0c-98c0-496cf2ddacdc</webElementGuid>
+      <webElementGuid>07270cb6-0f57-47df-8c64-def7a0ec0b10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button js-ignoreChange</value>
-      <webElementGuid>8321c3c3-0588-4b37-a43f-0c19ef694e2c</webElementGuid>
+      <webElementGuid>7fe513d2-0ebd-4ac7-80d9-55a7c892433b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f67b946d-1902-483a-9bb9-efb81bc62e39</webElementGuid>
+      <webElementGuid>5f708f98-6443-42dd-9032-be39fd06542b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B164620650448974049</value>
-      <webElementGuid>3d3009ff-7824-45bc-8600-dfaa8e3b06e1</webElementGuid>
+      <webElementGuid>ec7fb2fc-f572-4e6e-ac66-5455d9e8f5c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Back</value>
-      <webElementGuid>fe06fb33-9e2a-42a0-b4e4-6127a2e4f2c6</webElementGuid>
+      <webElementGuid>a36b919d-de37-40ef-a154-ef7ee7972869</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B164620650448974049&quot;)</value>
-      <webElementGuid>c6dd8a5d-faa2-4316-aabb-a557fabd5b81</webElementGuid>
+      <webElementGuid>45fdd974-ac0f-4da2-a4a6-1ade4300181b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B164620650448974049']</value>
-      <webElementGuid>b4670a40-d7ea-4821-917a-f1f19ef3f2cd</webElementGuid>
+      <webElementGuid>e2a5bbde-92c2-4cbe-888e-775e2185ac1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='uacSummary']/div/div[2]/button</value>
-      <webElementGuid>5fb54259-ed30-49f9-9d47-136adcd0151b</webElementGuid>
+      <webElementGuid>59223de9-ca4a-47a4-b8d7-f4a6d1f3c2bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>379728b0-f496-458d-99ed-5889c4ca584a</webElementGuid>
+      <webElementGuid>105006d6-f670-410b-b826-7502bf8807ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B164620650448974049' and (text() = 'Back' or . = 'Back')]</value>
-      <webElementGuid>66601f6b-df41-4148-9dca-2c4ca2de189d</webElementGuid>
+      <webElementGuid>ba4121b8-2921-4664-a589-527c3768662c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

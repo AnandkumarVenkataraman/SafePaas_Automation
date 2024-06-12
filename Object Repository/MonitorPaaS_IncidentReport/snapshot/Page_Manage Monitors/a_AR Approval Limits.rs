@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AR Approval Limits</name>
+   <tag></tag>
+   <elementGuidId>b09c5822-2570-4a40-93f1-b27da5960511</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0180b7c0-8311-4318-b098-eece85d7cf0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1110:21:6567004670480:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:322437,322437,AR%20Approval%20Limits</value>
+      <webElementGuid>313f2b19-c4e6-4294-9a88-f56788fa5539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AR Approval Limits</value>
+      <webElementGuid>3e4973fb-c4b5-4df7-a8f7-7deca7f87c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;136025645279714537_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>da70e8b9-0f30-4e05-9e83-214d9b1b5961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
+      <webElementGuid>41859f17-e602-4641-a158-4fdef383b8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'AR Approval Limits')]</value>
+      <webElementGuid>f0d2e4ed-46e7-4ae4-a444-8c5cdd9bfb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update Date'])[1]/following::a[8]</value>
+      <webElementGuid>0dfdf87f-84c9-4596-a972-6592b5ba38ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated By'])[1]/following::a[9]</value>
+      <webElementGuid>59f6ea96-ae46-4424-b449-62a07b15d031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AR Approval Limits'])[2]/preceding::a[1]</value>
+      <webElementGuid>80c61b19-5df5-47f4-be55-f66b687662d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[1]/preceding::a[1]</value>
+      <webElementGuid>c2dababa-b527-4584-816d-72035111046f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AR Approval Limits']/parent::*</value>
+      <webElementGuid>8254ec45-b5a9-4cce-8a56-f88909fcb02d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1110:21:6567004670480:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:322437,322437,AR%20Approval%20Limits')]</value>
+      <webElementGuid>cfb836c2-8aa7-4eda-8f72-3d7ab2ff8b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>58fc32d3-9297-42a8-bfb6-f4709969b099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
+      <webElementGuid>70c78fca-b549-4bd1-a54e-9bb42db4647f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

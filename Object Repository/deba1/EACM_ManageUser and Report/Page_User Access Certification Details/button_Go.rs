@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='uacDetails_search_button']</value>
+         <value>//button[@id = 'uacDetails_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b5373681-6e16-42c5-99c7-60221232c31e</webElementGuid>
+      <webElementGuid>ba1742fa-a547-4608-8093-81a13cda9646</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>uacDetails_search_button</value>
-      <webElementGuid>24eb96a0-cb4a-46cb-aea6-1ab5139f8ca6</webElementGuid>
+      <webElementGuid>b75a92cb-8fc1-416f-b7bd-3c38ab479c4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--search</value>
-      <webElementGuid>6db0dd09-9731-48dc-acfb-99c8d2c0b14e</webElementGuid>
+      <webElementGuid>b32d6131-ec57-429a-a6cb-ca8295b6fd2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f518f3ee-ba49-4158-a29e-410616120df9</webElementGuid>
+      <webElementGuid>64bf74a3-71f0-4591-8f43-e6544b3be90e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go</value>
-      <webElementGuid>e15d9cc7-cc67-4d81-90bf-d18c4a10f636</webElementGuid>
+      <webElementGuid>d91ecb3a-516b-4f4e-b76e-2044f38bbaa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;uacDetails_search_button&quot;)</value>
-      <webElementGuid>fda3bb53-ae36-45db-8487-04bce11e2ae7</webElementGuid>
+      <webElementGuid>9876bc30-4a5b-4ea2-bc51-c20295e3c476</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='uacDetails_search_button']</value>
-      <webElementGuid>43b9329a-25bc-442e-bf0d-91b66b4c84bf</webElementGuid>
+      <webElementGuid>ba2849e4-2a84-4484-899d-1fe114d89117</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='uacDetails_toolbar_controls']/div/div/div[3]/button</value>
-      <webElementGuid>1c426013-3738-46c5-9a28-32cf839148e4</webElementGuid>
+      <webElementGuid>b8160bbe-02a2-4294-b660-2944e9de2319</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div[3]/button</value>
-      <webElementGuid>e67625e3-262d-4bc3-a239-6da3e5d5fa25</webElementGuid>
+      <webElementGuid>c259a916-9f41-485c-a9fb-a0840188d8d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'uacDetails_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
-      <webElementGuid>392ecbf5-564f-4289-8db9-b815065fb1d4</webElementGuid>
+      <webElementGuid>bc30d20d-0171-4a99-9cc8-a00ad5e6f428</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

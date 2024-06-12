@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='P21_CONSOLIDATED_WF']/div/label</value>
+         <value>//label[(text() = 'Change Level' or . = 'Change Level')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>d6841d29-63c4-4ef0-bd32-12e0244461f8</webElementGuid>
+      <webElementGuid>9ab0b2f7-c718-4831-bd61-ff0591351a44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>caeff150-e962-46aa-b6ff-73c75fea0102</webElementGuid>
+      <webElementGuid>b1522bec-a809-46c0-bfa1-040c2f7a1a73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P21_CONSOLIDATED_WF_0</value>
-      <webElementGuid>88b3b251-181a-4dbd-b51e-65770335fad1</webElementGuid>
+      <webElementGuid>b335b014-4219-41f3-9765-bbd3115dc6f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Change Level</value>
-      <webElementGuid>eb94131e-a559-47e9-bd8b-2a5b884335ad</webElementGuid>
+      <webElementGuid>7be39a90-0d56-4ed9-8dc3-a64d5cce2a0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P21_CONSOLIDATED_WF&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>0a6fc70c-39af-4cc3-8192-de8f4dc2f58d</webElementGuid>
+      <webElementGuid>a4a6bf40-525e-419c-a466-80c0dffe0dbe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P21_CONSOLIDATED_WF']/div/label</value>
-      <webElementGuid>faffbc68-63c0-4b8e-88a1-c6d7fe270910</webElementGuid>
+      <webElementGuid>e1d882ef-a73b-4a11-8642-23001376d1f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div/div/div/label</value>
-      <webElementGuid>e70f7dcd-5ae6-4bfc-82f4-8aa2b25c8fdd</webElementGuid>
+      <webElementGuid>95814f5d-a7a0-4fa6-9aaa-491c5340005d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Change Level' or . = 'Change Level')]</value>
-      <webElementGuid>e513a4dc-a082-4a93-bfe2-90ce13796b77</webElementGuid>
+      <webElementGuid>726722d6-e8b1-4883-a15b-cf92a06be90e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>7c0992eb-9b31-4d87-91b6-8ca168ce9754</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/3_ManageRoleGroups_NewEnv</testCaseId>
+      <testCaseId>Test Cases/EACM/3_EACM_ManageRoleGroups</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

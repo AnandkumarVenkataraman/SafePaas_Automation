@@ -6,12 +6,12 @@
    <elementGuidId>43420564-04e3-48e2-969e-a245cf3fdc76</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='B126204675758114101']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#B126204675758114101</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'B126204675758114101' and (text() = 'Reassign Requestor' or . = 'Reassign Requestor')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>248384ea-50d4-48a2-befc-ae4dddae9990</webElementGuid>
+      <webElementGuid>2368f0b6-680c-473c-9cac-77955c908968</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'Reassign',validate:true});</value>
-      <webElementGuid>84e89396-b301-4e64-9e73-3449e7b22ddd</webElementGuid>
+      <webElementGuid>c6c57446-d824-4500-93c3-4d15f8d79187</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>16560747-8d0b-4e59-896d-4b56c75060c7</webElementGuid>
+      <webElementGuid>9cc98ff4-36a1-4a1e-9858-b4e5cabc302d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7e649f57-0814-45e1-873a-3079249a1dfa</webElementGuid>
+      <webElementGuid>a980c06e-0719-4a05-b458-56830d34dc0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B126204675758114101</value>
-      <webElementGuid>943cd6c8-b97f-42a2-821d-723c3fabae16</webElementGuid>
+      <webElementGuid>0f9e4ac9-ea04-4ab9-847d-4943ce7a2353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Reassign Requestor</value>
-      <webElementGuid>7cf8893e-3fc5-4d80-b704-a69fe8991a4c</webElementGuid>
+      <webElementGuid>fe809468-9a35-49cb-b850-6392e03f7a5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B126204675758114101&quot;)</value>
-      <webElementGuid>ed3d9004-4f5d-407a-8f43-8550bd9397b2</webElementGuid>
+      <webElementGuid>65ca3b8c-344f-4313-9610-37dbf58858bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B126204675758114101']</value>
-      <webElementGuid>cbdb716a-6cce-4a5a-923c-03a24aa87a91</webElementGuid>
+      <webElementGuid>ed45c37f-29f9-4ce6-a48e-befb85c5ee6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngMonitos']/div/div[2]/button</value>
-      <webElementGuid>0f010c24-33dd-46af-b44d-3bfdd30d4dc4</webElementGuid>
+      <webElementGuid>15a2e175-1630-4c17-9dd1-d375b22ff860</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>35ec7dbc-3e8b-4b3f-99cd-df9d5a6f8979</webElementGuid>
+      <webElementGuid>2f1d9490-1608-42eb-b222-65a7e0f60947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B126204675758114101' and (text() = 'Reassign Requestor' or . = 'Reassign Requestor')]</value>
-      <webElementGuid>71e973d5-24b5-4ac7-b311-20b1715b0cd7</webElementGuid>
+      <webElementGuid>ca43ed68-e286-44e5-815b-6044d38a85b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

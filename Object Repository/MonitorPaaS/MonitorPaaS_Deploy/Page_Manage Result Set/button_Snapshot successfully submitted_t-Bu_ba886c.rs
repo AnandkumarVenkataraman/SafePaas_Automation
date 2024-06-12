@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <value>//button[@type = 'button' and @title = 'Close']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4577afff-da90-4efb-aab8-b9133da5b93b</webElementGuid>
+      <webElementGuid>e4d9702b-c3ad-4f90-b0e4-d551ae3f918c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--noUI t-Button--icon t-Button--closeAlert</value>
-      <webElementGuid>4d66161a-51ed-4104-973d-c56e6fac5bc8</webElementGuid>
+      <webElementGuid>17db697c-3c92-4d3d-809f-9ed408c54d5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>34d406cd-ed48-4902-ab5a-c80c6e442fd6</webElementGuid>
+      <webElementGuid>aedfa2cb-9ddf-45ca-891c-191d97ccfeee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>2a720160-ecf6-48a7-8f35-97bc84767745</webElementGuid>
+      <webElementGuid>180539fd-574f-405a-8eaa-069118d6834e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-buttons&quot;]/button[@class=&quot;t-Button t-Button--noUI t-Button--icon t-Button--closeAlert&quot;]</value>
-      <webElementGuid>637ca305-8893-4823-becd-a3f2bb5f43e1</webElementGuid>
+      <webElementGuid>c7147ca5-edfc-49ba-8251-6d9bb5a73f0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>89417a71-d312-42c8-a416-65f14b413a34</webElementGuid>
+      <webElementGuid>402d8236-7fac-4d15-9074-ffae888dea54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[3]/button</value>
-      <webElementGuid>f71e1653-e94c-4a20-9c13-8c8dc050ea8d</webElementGuid>
+      <webElementGuid>3086590f-a87a-4086-bfe8-79f1507061a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>af7f0415-2dd2-4bb3-b29a-c951af27d0b4</webElementGuid>
+      <webElementGuid>3f9960a9-f3c3-487a-b551-114534b65446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @title = 'Close']</value>
-      <webElementGuid>3e8f0d98-3839-492b-bd7c-e970900419ec</webElementGuid>
+      <webElementGuid>73e6ab58-2ef5-4eff-9fbb-409a3f7a7602</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R163105974055422926_col_values_drop']/a</value>
+         <value>//a[contains(text(),'AR Approval Limits')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>53237f7a-b404-4d4b-a978-3ee9d43f9368</webElementGuid>
+      <webElementGuid>80b7a1e0-c0be-4783-b654-88e198557aa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>2a7b2dec-cbe5-4bf8-bd40-d53968ade0ee</webElementGuid>
+      <webElementGuid>c05f6697-23b3-4d16-8e7d-a70e25ca2e71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>d98dd5e6-f5cc-4282-a2b8-a872c053a7b6</webElementGuid>
+      <webElementGuid>9d8374cc-170d-4e9d-a5d7-b0c48ea4537e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>AR Approval Limits </value>
-      <webElementGuid>44ccae79-9bb4-4102-8bc4-9ba45043444b</webElementGuid>
+      <webElementGuid>40e83149-f130-4446-b1da-6d48c8a988c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AR Approval Limits </value>
-      <webElementGuid>7530d259-6761-4c85-9a52-daa950d485b7</webElementGuid>
+      <webElementGuid>01770a4b-9be5-47d0-9e28-2baa9aebae49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R163105974055422926_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>e8591976-5e51-47c7-a610-78c5913eb6bf</webElementGuid>
+      <webElementGuid>545e5b75-e977-4437-ab20-1ab05b9bfe73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R163105974055422926_col_values_drop']/a</value>
-      <webElementGuid>410c47ed-2460-4f0e-b6b3-a02b386161cc</webElementGuid>
+      <webElementGuid>250fe01d-0a23-4838-806d-ff097d3aeed4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'AR Approval Limits')]</value>
-      <webElementGuid>d34dac70-6de7-460a-badd-5499d3162768</webElementGuid>
+      <webElementGuid>33be8c3c-343f-4b4f-9b5a-57663c73b5f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[102]</value>
-      <webElementGuid>4fce8a21-b0ea-4951-8474-04396a3a33c1</webElementGuid>
+      <webElementGuid>eef9d7f6-432f-475e-8503-f0597a0dc75c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html/div/a</value>
-      <webElementGuid>d7eeb199-171a-4c3c-a45f-3c6d3251c57d</webElementGuid>
+      <webElementGuid>0ec39426-508c-46d4-a97f-e8dadc7feb69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'AR Approval Limits ' or . = 'AR Approval Limits ')]</value>
-      <webElementGuid>db961dcb-1344-4e12-b9ae-08c09009dfd8</webElementGuid>
+      <webElementGuid>39ca5a5d-4f82-400c-a622-438ea73bdb82</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

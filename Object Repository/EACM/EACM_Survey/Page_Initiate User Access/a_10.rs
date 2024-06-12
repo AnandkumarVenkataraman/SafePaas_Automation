@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[2]</value>
+         <value>(//*[contains(@class, 'today')])//following::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5f7980bd-cac4-4f56-9d9d-204c1bdeeba4</webElementGuid>
+      <webElementGuid>0097c296-73bb-4c22-8c84-c35e090b82a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-state-default ui-state-hover</value>
-      <webElementGuid>f4ad69d3-39d3-4141-b548-4b8e023a699e</webElementGuid>
+      <webElementGuid>915f238d-d2d4-4c94-83b7-2740eca26dc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>b35aebe1-7036-42c1-bfc8-90649410db3e</webElementGuid>
+      <webElementGuid>066ea5c4-298a-46ed-b25f-7773ad9778c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-current</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a84602d8-5110-45f6-8ecf-7a092d98cba9</webElementGuid>
+      <webElementGuid>eff44397-fa52-4afb-890c-82837f601400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-date</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>0e81295f-3dcb-4796-9aba-fa80b1cc0fc8</webElementGuid>
+      <webElementGuid>e9e09a98-af19-4604-941c-3ec6a167a073</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>de822d20-608b-4d55-9ddc-570553a759a3</webElementGuid>
+      <webElementGuid>31209dbd-4a1f-4511-8341-eb62b989523b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[2]/td[@class=&quot;ui-datepicker-week-end ui-datepicker-days-cell-over&quot;]/a[@class=&quot;ui-state-default ui-state-hover&quot;]</value>
-      <webElementGuid>cddefe32-71cb-48ef-86c2-6447e052db43</webElementGuid>
+      <webElementGuid>1a7af19e-f761-4b58-8572-d13617478ebe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/table/tbody/tr[2]/td[7]/a</value>
-      <webElementGuid>e8ebc76a-6128-4563-b91b-07ff18f17dcd</webElementGuid>
+      <webElementGuid>bee34172-ea6d-4619-9279-073f1b1ab2e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'10')]</value>
-      <webElementGuid>afe71198-61cd-452e-a370-fc2003f672ec</webElementGuid>
+      <webElementGuid>530d781c-0377-48e0-9e2b-709677de8c45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[2]</value>
-      <webElementGuid>d0f53e6d-23bc-4e34-9be3-81bad0eaeb37</webElementGuid>
+      <webElementGuid>1285e79e-6c29-43f9-9b85-3945cfc93220</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/a</value>
-      <webElementGuid>aedbd4f1-f26c-4262-a879-eac957065eff</webElementGuid>
+      <webElementGuid>4812778a-545b-41cc-a9f0-7469141f9713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = '10' or . = '10')]</value>
-      <webElementGuid>0f033d5d-896c-46d5-b181-b9a4fe8f629e</webElementGuid>
+      <webElementGuid>1d215d6e-4476-4049-a3a2-a25ceb26f70b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

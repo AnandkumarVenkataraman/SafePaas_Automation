@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[contains(text(),'STP-Funds Capture Payment Method')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3e115c3a-7602-4ced-a9d5-e9a9aff46841</webElementGuid>
+      <webElementGuid>95a6553b-e0aa-435f-bd22-eca3d1c6d40f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1110:21:1987856516126:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320632,320632,STP-Funds%20Capture%20Payment%20Method</value>
-      <webElementGuid>27bac431-2db8-40d7-a505-26078f16ce92</webElementGuid>
+      <webElementGuid>1d4697c2-3e66-4118-94dc-f9bb9050c35a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>STP-Funds Capture Payment Method</value>
-      <webElementGuid>1fa377a8-62bb-4c8b-b95c-799b328042cc</webElementGuid>
+      <webElementGuid>c23c0593-b461-4069-93e1-23b01a11e7db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;136025645279714537_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>dcfadb07-38a6-44e4-a0c5-eabb49f56c27</webElementGuid>
+      <webElementGuid>93540a07-0d44-41c4-ad9a-12fdb3d19209</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>9480c98b-ace0-4135-baff-71cf9cbd51c8</webElementGuid>
+      <webElementGuid>e8b4f6ee-3ab1-40bc-8502-fe205fc198fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'STP-Funds Capture Payment Method')]</value>
-      <webElementGuid>847cab93-9889-4926-bfee-141178f30c2b</webElementGuid>
+      <webElementGuid>3f27d5d1-ced5-434e-946b-db9631faeb1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1110:21:1987856516126:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320632,320632,STP-Funds%20Capture%20Payment%20Method')]</value>
-      <webElementGuid>71f9c2b9-37ff-41d8-a370-24153f47dd17</webElementGuid>
+      <webElementGuid>fa92473d-f110-4729-844b-45737f862e6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>3e0045fc-cefa-468a-992a-a1e7cfb0d669</webElementGuid>
+      <webElementGuid>b1ba389a-8118-4c05-814f-095d850cd928</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1110:21:1987856516126:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320632,320632,STP-Funds%20Capture%20Payment%20Method' and (text() = 'STP-Funds Capture Payment Method' or . = 'STP-Funds Capture Payment Method')]</value>
-      <webElementGuid>a2611c98-af13-4a5a-af14-a7c0e3b795d1</webElementGuid>
+      <webElementGuid>0d1c94a6-874d-4d17-b0ad-40b5118544ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

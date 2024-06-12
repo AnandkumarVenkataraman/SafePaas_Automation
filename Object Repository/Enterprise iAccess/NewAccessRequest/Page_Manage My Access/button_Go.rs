@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B162774244382928185']</value>
+         <value>//button[@type = 'button' and (text() = 'Go' or . = 'Go')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>04d4a7c3-620c-4d81-ab4a-c49a52a95481</webElementGuid>
+      <webElementGuid>a90470d1-eb8a-4694-84e7-77ec7312bc5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'SET_USER',validate:true});</value>
-      <webElementGuid>8198e5f9-85e8-4950-acea-acdc18cd7b43</webElementGuid>
+      <webElementGuid>7d6db6d4-3934-404d-92aa-cf52ad2765c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>2a0cce1c-0120-4409-9457-d11a621d266d</webElementGuid>
+      <webElementGuid>a42a8e63-daa9-498c-a60f-62f47def8952</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c8dd510d-c6e7-4451-bdf8-8414111cdc34</webElementGuid>
+      <webElementGuid>ac98e5e3-5f21-4b9b-9ba5-73aad34155d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B162774244382928185</value>
-      <webElementGuid>fe0d8628-0fcb-4ddc-b810-8191ee77c4e9</webElementGuid>
+      <webElementGuid>528c98cb-6707-4ab3-ac08-55a8f157a350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go</value>
-      <webElementGuid>ed70c33a-028d-4904-925d-8cb6822f8067</webElementGuid>
+      <webElementGuid>89c19901-0c6d-43be-a415-89a0591bd14d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B162774244382928185&quot;)</value>
-      <webElementGuid>fc0f6b37-63aa-4fb5-90c1-41709c1c79b9</webElementGuid>
+      <webElementGuid>fb4de8af-ee0d-4e2e-b470-653b845b76ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B162774244382928185']</value>
-      <webElementGuid>e3a83407-aa35-4274-b40e-76882ddfa353</webElementGuid>
+      <webElementGuid>0f4852ed-3ded-4e9a-978c-94561864bac9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R162772878753928172']/div[2]/div[2]/div/div/div[2]/button</value>
-      <webElementGuid>cf3f56fe-f118-4b5b-8f39-8a0458c91314</webElementGuid>
+      <webElementGuid>e6672a04-d114-4d56-ace8-1272cd8064dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>5992cbfd-e771-4ef4-a0f7-bbb5f95ed832</webElementGuid>
+      <webElementGuid>3a813e84-df0f-471c-8512-055fca63b20e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B162774244382928185' and (text() = 'Go' or . = 'Go')]</value>
-      <webElementGuid>68d3b309-b641-4468-99c6-0668c7cd1e0d</webElementGuid>
+      <webElementGuid>8f4a03fe-c661-4bc4-a167-b270397737f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

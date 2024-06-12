@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='wfReport_actions_button']</value>
+         <value>//button[@id = 'wfReport_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4154537d-30cc-496a-b250-f6ba2f039fe1</webElementGuid>
+      <webElementGuid>fd0b73ec-9d62-47f5-abda-e75d6738b717</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>wfReport_actions_button</value>
-      <webElementGuid>2721e6c3-d7cf-47a7-950e-0aa3e8fb857c</webElementGuid>
+      <webElementGuid>493ea3b5-59cb-48c8-ab4d-90f11238031e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--actions js-menuButton</value>
-      <webElementGuid>ddabe528-8ed5-4d77-9222-b69476424557</webElementGuid>
+      <webElementGuid>d224e56c-f5cd-4146-89f7-f045b8595cd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f84542e0-a57e-4c0d-9799-9dde465f5401</webElementGuid>
+      <webElementGuid>b3b50a8e-c64a-44cf-b643-ba148820436d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>wfReport_actions_menu</value>
-      <webElementGuid>0febcf89-ae8b-4499-82e3-9d0941a5a272</webElementGuid>
+      <webElementGuid>465aa9c4-a180-4e7e-8fed-8857e6fe190f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>11310e23-b2db-4ab3-8c13-cb7c425d8d07</webElementGuid>
+      <webElementGuid>d54b02c0-4900-4bdc-964f-7680eca16252</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Actions</value>
-      <webElementGuid>b5019911-e237-4cee-915d-b733dd8ea72e</webElementGuid>
+      <webElementGuid>078beaed-0ddc-4d2e-a86f-2d2ab02b43cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wfReport_actions_button&quot;)</value>
-      <webElementGuid>982173f4-5032-44a4-a42f-c9299f928a96</webElementGuid>
+      <webElementGuid>a6e41441-bf10-42bc-8874-4dd866100bd7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='wfReport_actions_button']</value>
-      <webElementGuid>019f93ad-990a-40a3-bf87-8cd05c3493b7</webElementGuid>
+      <webElementGuid>93c30325-0a63-4cbc-8ac4-779cd78f2d3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wfReport_toolbar_controls']/div[3]/div/button</value>
-      <webElementGuid>a48224de-88e7-471f-9006-54585c62eb20</webElementGuid>
+      <webElementGuid>9a685fdb-eed0-4d6c-88bb-675d1f027e97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button</value>
-      <webElementGuid>c579c16b-27b3-41dd-9dee-34f425047eb7</webElementGuid>
+      <webElementGuid>47e11382-1b07-4764-bfe3-5977fe7e1a2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'wfReport_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
-      <webElementGuid>fb1a3f1e-0404-405c-8471-dcb1a08f0bd6</webElementGuid>
+      <webElementGuid>e81d7c8f-87c0-4904-8c08-d9d0364e6056</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

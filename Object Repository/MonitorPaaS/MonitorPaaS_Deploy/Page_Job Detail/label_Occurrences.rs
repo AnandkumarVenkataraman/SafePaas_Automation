@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='P30_CHANGE_TRACK']/div/div/div/label</value>
+         <value>//label[(text() = 'Occurrences' or . = 'Occurrences')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>9acb4d55-ce49-4c03-a201-624b8e8d723b</webElementGuid>
+      <webElementGuid>d258108d-730f-4ec3-8770-c8fb2d6ddf8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>73ec8802-bcb0-48cc-928d-804fa435456f</webElementGuid>
+      <webElementGuid>67cd8aaf-1208-41c9-8ffd-95f75fd3a6a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P30_CHANGE_TRACK_0</value>
-      <webElementGuid>97afb9c2-c7fc-4150-ac47-6aaa107d791d</webElementGuid>
+      <webElementGuid>615b881d-0a24-42ed-b534-34b1f5336415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Occurrences</value>
-      <webElementGuid>4bf1aaf9-eec5-4272-99bd-28372cf47534</webElementGuid>
+      <webElementGuid>7ba049a8-3a2a-42a1-97fe-ed6e638e95b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P30_CHANGE_TRACK&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>e67ed77a-a0a3-4a2c-9264-75ff32ca00fe</webElementGuid>
+      <webElementGuid>f828af55-ad93-4044-be15-ca620fe8fe82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P30_CHANGE_TRACK']/div/div/div/label</value>
-      <webElementGuid>b5134e9e-5447-4a47-a97c-b88ccfaccd30</webElementGuid>
+      <webElementGuid>fdc00c8a-9bb2-496d-981d-595ec01ba01a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div/div/div/div/div/label</value>
-      <webElementGuid>66c512b8-c8d8-4e1c-9382-a65437f1621e</webElementGuid>
+      <webElementGuid>79f8b44d-0f52-4ce5-9ff7-59a24c76f529</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Occurrences' or . = 'Occurrences')]</value>
-      <webElementGuid>3c46d690-d3e8-4e43-ade3-4c5ff2e9aa5e</webElementGuid>
+      <webElementGuid>2b5e2239-8798-4e2c-aba9-99524fac6e99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

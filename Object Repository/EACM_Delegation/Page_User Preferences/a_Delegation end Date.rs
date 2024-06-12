@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/div/div/div/div/div/table/tbody/tr[5]/td[4]/a</value>
+         <value>(//*[contains(@class, 'today')])//following::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>130d4354-1fe7-4282-bbf4-edfe64717ace</webElementGuid>
+      <webElementGuid>06642614-baff-487f-b4cc-a879d99cb901</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4ab73b55-5ac2-450a-8eea-cebbac1113a3</webElementGuid>
+      <webElementGuid>8dfddfb5-3c1b-4074-a9ea-eda85a9b1099</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-enabled oj-selected oj-hover oj-focus</value>
-      <webElementGuid>97ad5739-3baa-4a27-80a7-8f04e87f8a43</webElementGuid>
+      <webElementGuid>6c138cc5-eb65-44f6-8460-a7b293707b4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>2228c19f-2a3f-4dec-bb47-6336c65e2c32</webElementGuid>
+      <webElementGuid>8f0be932-1e51-4b48-8b9b-0982ef2c186d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>23</value>
-      <webElementGuid>078b5b00-80ea-40cf-b5fd-d8f3e36b46ac</webElementGuid>
+      <webElementGuid>c8feea6e-4c89-4c36-b875-e81243652462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oj-dp-9-3-5-0-0&quot;)/a[@class=&quot;oj-enabled oj-selected oj-hover oj-focus&quot;]</value>
-      <webElementGuid>a7b98cb9-fa05-4de4-a3a4-25ab85039188</webElementGuid>
+      <webElementGuid>942df752-3d5e-4b45-85a3-8747b0399b14</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='oj-dp-9-3-5-0-0']/a</value>
-      <webElementGuid>cbc8b109-5a0a-4328-9892-74b4df6419e8</webElementGuid>
+      <webElementGuid>081d038c-9d6a-470f-98e0-62a7345fd27a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'23')]</value>
-      <webElementGuid>40a23fda-5d6e-423d-bf30-3f852b6477c0</webElementGuid>
+      <webElementGuid>a10b320c-7720-4930-89ad-fa4d7317ecc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[4]</value>
-      <webElementGuid>74dde41a-8511-4716-8b87-9ca497343248</webElementGuid>
+      <webElementGuid>843ad9ef-8677-4b12-afec-18381084fde5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/a</value>
-      <webElementGuid>e4916c64-b86a-4ac8-9dea-1a6c6c772919</webElementGuid>
+      <webElementGuid>edd63c16-98c9-4515-abdb-3a4037a7046d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = '23' or . = '23')]</value>
-      <webElementGuid>a2465408-1e26-4bc7-997e-6485d5730947</webElementGuid>
+      <webElementGuid>b324dd3c-0e36-4dd5-810f-724a302ff884</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

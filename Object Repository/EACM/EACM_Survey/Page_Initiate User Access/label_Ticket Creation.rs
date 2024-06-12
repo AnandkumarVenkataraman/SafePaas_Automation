@@ -6,15 +6,19 @@
    <elementGuidId>3fcedbaa-7acd-45c6-be46-8904bff61098</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'P10_TICKET_CREATION_LABEL' and (text() = 'Ticket Creation' or . = 'Ticket Creation')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//label[@id='P10_TICKET_CREATION_LABEL']</value>
+         <value>//label[@id = 'P10_TICKET_CREATION_LABEL' and (text() = 'Ticket Creation' or . = 'Ticket Creation')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#P10_TICKET_CREATION_LABEL</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>47793367-dde8-4f01-b1ad-3d9bab10325a</webElementGuid>
+      <webElementGuid>67296090-84ff-4d50-ab21-117d92935d69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P10_TICKET_CREATION</value>
-      <webElementGuid>dea22b1a-d8b1-4904-bbb4-a0b6d34214a4</webElementGuid>
+      <webElementGuid>a1eceae9-488f-4d60-8f02-2c8cc11f3e74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P10_TICKET_CREATION_LABEL</value>
-      <webElementGuid>2cd5765c-cde6-49bf-8e44-4ce53981cf65</webElementGuid>
+      <webElementGuid>d1513b60-665c-436b-99c8-9484864132d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Form-label</value>
-      <webElementGuid>e6baf591-d88d-4efd-9410-882e39435491</webElementGuid>
+      <webElementGuid>04af520d-cd05-43a9-80e5-40903b71efb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ticket Creation</value>
-      <webElementGuid>6cacc5f7-2648-49a3-b081-051cdec40006</webElementGuid>
+      <webElementGuid>f938a60a-62b6-449d-8938-826f3eaa33ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P10_TICKET_CREATION_LABEL&quot;)</value>
-      <webElementGuid>bce05bc0-4454-419e-a822-7d2f69bc189c</webElementGuid>
+      <webElementGuid>21a181b3-9f3f-4239-b0a6-9a066e9d8dac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='P10_TICKET_CREATION_LABEL']</value>
-      <webElementGuid>ed2656ee-2404-48a7-86cd-c4511cdad18f</webElementGuid>
+      <webElementGuid>891f25ae-818c-4272-82e9-a1c28be65aa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P10_TICKET_CREATION_CONTAINER']/div/label</value>
-      <webElementGuid>c2460ed4-d0b2-4ed2-a209-e473bf9bf012</webElementGuid>
+      <webElementGuid>0cbab003-1065-465d-88a8-e5f043f4bfdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div/div/label</value>
-      <webElementGuid>eb37304c-63c1-4787-9574-d135443b333f</webElementGuid>
+      <webElementGuid>a6e66a75-2c73-4caa-9d0a-94ad5a386230</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[@id = 'P10_TICKET_CREATION_LABEL' and (text() = 'Ticket Creation' or . = 'Ticket Creation')]</value>
-      <webElementGuid>478a5cc7-15de-491e-b33f-e2785cbf677a</webElementGuid>
+      <webElementGuid>bfb8e328-94e9-40a7-b565-2b33df2604b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B175328180328307415']</value>
+         <value>//button[@type = 'button' and @id = 'B175328180328307415' and (text() = 'Search' or . = 'Search')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>56201cdc-634d-43ac-ad75-5ba987a8d8c8</webElementGuid>
+      <webElementGuid>83654d84-eb4e-4ce0-87d9-f1b6497531a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'SEARCH',validate:true});</value>
-      <webElementGuid>5429db77-4a3e-457c-8fd5-a390a18349e2</webElementGuid>
+      <webElementGuid>2f210059-46e4-44c8-b89a-b3d810e58956</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>2205b488-2c7d-49df-8449-7a9642809b55</webElementGuid>
+      <webElementGuid>b2e447e1-c6fa-4ddc-9652-e09bd307f09a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a30380e8-d40b-4838-8f0b-dd344899d203</webElementGuid>
+      <webElementGuid>a24b7a81-3d0c-4b8d-afde-8ba5a1c0d577</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B175328180328307415</value>
-      <webElementGuid>0daf6002-d74d-493f-a69e-f4340b3e5491</webElementGuid>
+      <webElementGuid>2f4a69a3-ac1b-47cb-9d7e-bd54218c9235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>c7b49db9-fddb-43b2-948d-0902bfd3672d</webElementGuid>
+      <webElementGuid>6284b291-2a1d-45b9-959e-692690435691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B175328180328307415&quot;)</value>
-      <webElementGuid>824ec8dd-ddc0-4aa7-87b9-cd3519c89d09</webElementGuid>
+      <webElementGuid>27f1f242-d810-455a-a1b8-5f06747d41d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B175328180328307415']</value>
-      <webElementGuid>3ca666e4-7f2b-4f6c-827b-8e6bf640b440</webElementGuid>
+      <webElementGuid>62f72bc9-0d44-4016-8052-89fdefeaa9c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R175327978350307413']/div/div[2]/button</value>
-      <webElementGuid>0dd2de5e-7643-4778-a5d8-27250274884d</webElementGuid>
+      <webElementGuid>871e3b3f-11eb-4a92-a46c-b49623c2ce47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>5318cd08-eeb2-4187-a159-38e6bc9b12d5</webElementGuid>
+      <webElementGuid>171bf657-0f0d-4d54-9cbe-c3e6257d37cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B175328180328307415' and (text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>e2a2251f-3d24-4616-8896-5e0c77a132df</webElementGuid>
+      <webElementGuid>eb8497d5-5cb6-48f4-b33c-5d76163af141</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

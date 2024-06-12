@@ -6,12 +6,16 @@
    <elementGuidId>19b18244-9779-49ba-8c55-0378c12874dc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[1]/table/tbody/tr[1]/td[1]/input</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'checkbox' and @name = 'f01']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;f01&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[1]//input[@type = 'checkbox' and @name = 'f01']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6279f94b-8115-4aa8-ba9c-c4e670c46c83</webElementGuid>
+      <webElementGuid>85e6b8a4-e77a-4108-84b6-f622697cf7c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>57465622-09b3-42b2-9b2c-2312f1031ce7</webElementGuid>
+      <webElementGuid>e1b239ec-effc-417b-9ab0-a22450de0885</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>f01</value>
-      <webElementGuid>f4a57728-cdd6-4674-be91-c06f6bd4f531</webElementGuid>
+      <webElementGuid>c63e22ac-b677-4d23-a1ba-2cd2cbc50ed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>value</name>
       <type>Main</type>
       <value>12139</value>
-      <webElementGuid>34f78420-e8da-4aec-8929-0b2e5bac5385</webElementGuid>
+      <webElementGuid>8ce6845c-7e67-4964-b1f6-356c5ca3a8a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>f_UpdateCollection(this)</value>
-      <webElementGuid>0f908514-b99b-4fbc-827c-3a710c9275ce</webElementGuid>
+      <webElementGuid>82faff66-8639-466d-8eae-e0a489f27abd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;report_R163974576499487311&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[1]/td[@class=&quot;t-Report-cell&quot;]/input[1]</value>
-      <webElementGuid>40859592-8a0f-4684-8fab-3309fd5bf275</webElementGuid>
+      <webElementGuid>03d57354-3839-4f86-8ab2-1d5c6dd95854</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='f01']</value>
-      <webElementGuid>bf52c8a2-ba0c-428f-bf8b-52288c0e2786</webElementGuid>
+      <webElementGuid>a14657d3-35b4-4b26-a4dd-5a225117c3de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='report_R163974576499487311']/div/div/table/tbody/tr/td/input</value>
-      <webElementGuid>dcedb7bb-74d2-4718-8854-2de803726fb1</webElementGuid>
+      <webElementGuid>aa47d400-9ad2-443c-b8c5-a4ac7ba93979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/input</value>
-      <webElementGuid>09111de9-d531-4fc6-a027-ae1651346a83</webElementGuid>
+      <webElementGuid>31112c06-4f53-4276-a508-d9eaf7bae5f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'f01']</value>
-      <webElementGuid>01efc730-53ce-405a-8460-bda8f7f4ea10</webElementGuid>
+      <webElementGuid>5c65483b-e225-4c80-baed-630b0ef1919d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
