@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1120:19:2102189430563:::19::' and (text() = 'Manage Snapshot' or . = 'Manage Snapshot')]</value>
+         <value>//li[@id='t_TreeNav_215']/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

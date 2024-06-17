@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1120:20:2102189430563::::P20_SNAPSHOT_ID,P21_SNAPSHOT,P21_SNAPSHOT_ID:313142,313142,313142' and (text() = ' (SS)KTLN_ARAPRLMT_APR19_V1_20240419023818 ' or . = ' (SS)KTLN_ARAPRLMT_APR19_V1_20240419023818 ')]</value>
+         <value>//table[@id='144264340282266620_orig']/tbody/tr[2]/td/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

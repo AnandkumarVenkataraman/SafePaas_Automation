@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any one -RoleGroup_A_0709b4_1</name>
+   <tag></tag>
+   <elementGuidId>7b338722-ea77-42b7-a331-3fe35838c502</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P47_SELECT_RG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6747796e-f9b3-4b75-8436-fde06498980c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P47_SELECT_RG</value>
+      <webElementGuid>11867a7b-4018-4e0f-abed-25c5c850c895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P47_SELECT_RG</value>
+      <webElementGuid>ef7161ab-53d8-4eab-a73c-09ee4f340630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>7367d92f-1936-4a8f-a10d-3fe9991ed421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b3378288-f741-409d-9fb2-d62e78df7f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b044e1d6-23bc-4a67-ac70-014c5590518f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any one -
+RoleGroup_AM
+RoleGroup_AP
+RoleGroup_AR
+RoleGroup_GL
+RoleGroup_HCM
+RoleGroup_Other
+</value>
+      <webElementGuid>4a0a1e8d-71bf-4ee7-aa25-cbbd370849c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P47_SELECT_RG&quot;)</value>
+      <webElementGuid>e750ffd7-484f-450f-a65f-53ea333198f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P47_SELECT_RG' and @name = 'P47_SELECT_RG' and (text() = '- Please select any one -&#xd;
+RoleGroup_AM&#xd;
+RoleGroup_AP&#xd;
+RoleGroup_AR&#xd;
+RoleGroup_GL&#xd;
+RoleGroup_HCM&#xd;
+RoleGroup_Other&#xd;
+' or . = '- Please select any one -&#xd;
+RoleGroup_AM&#xd;
+RoleGroup_AP&#xd;
+RoleGroup_AR&#xd;
+RoleGroup_GL&#xd;
+RoleGroup_HCM&#xd;
+RoleGroup_Other&#xd;
+')]</value>
+      <webElementGuid>81deebc8-a880-4ffc-b1f3-1faaac956096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P47_SELECT_RG']</value>
+      <webElementGuid>822f769d-63bb-4787-9b63-5b98bcadf8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Role Group'])[1]/following::select[1]</value>
+      <webElementGuid>4a226167-efa6-44f7-9d44-4b35fcf6514d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Draft Mapping'])[1]/following::select[1]</value>
+      <webElementGuid>6af0743a-fe3a-41cc-88bb-299e4f738e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::select[1]</value>
+      <webElementGuid>41c20ac8-df12-40a2-b264-c21166d04efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>aefe69e4-41c2-4d45-938f-b0972c4dadc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>8503d229-ad9b-4a55-a2a3-ee634ecb51bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P47_SELECT_RG_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>bf8bbc59-79d9-4893-9d2b-6230ce1a6c4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

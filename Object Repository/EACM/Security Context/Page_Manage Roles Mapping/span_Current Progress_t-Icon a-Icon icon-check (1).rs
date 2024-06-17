@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Current Progress_t-Icon a-Icon icon-check (1)</name>
+   <tag></tag>
+   <elementGuidId>9dcdbde6-20e8-45e9-919c-faea362426f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.t-Icon.a-Icon.icon-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a127fe88-c4b1-4b33-ac10-7f791e730dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Icon a-Icon icon-check</value>
+      <webElementGuid>1d926446-d292-4b97-98d0-c58e53fd883f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;L158169670482136833&quot;)/div[@class=&quot;t-WizardSteps-wrap&quot;]/span[@class=&quot;t-WizardSteps-marker&quot;]/span[@class=&quot;t-Icon a-Icon icon-check&quot;]</value>
+      <webElementGuid>cd2b4ad7-4db7-44bc-9521-e7b6fe96cabc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/span</value>
+      <webElementGuid>60961980-cc4a-4727-8ee1-022c1b9d5e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='L158169670482136833']/div/span/span</value>
+      <webElementGuid>9f800d20-9cfb-45c5-ae9f-7303f4971b62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

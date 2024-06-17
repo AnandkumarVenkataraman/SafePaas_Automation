@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id = 'userAccessReport_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
+         <value>//div[3]/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>

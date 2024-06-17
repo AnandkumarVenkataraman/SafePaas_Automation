@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[(text() = 'STP-Funds Capture Payment Method' or . = 'STP-Funds Capture Payment Method')]</value>
+         <value>//select[@id='P30_MULTI_OBJECT_ID_LEFT']/option</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

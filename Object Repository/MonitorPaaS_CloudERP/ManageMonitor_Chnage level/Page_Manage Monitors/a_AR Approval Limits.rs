@@ -10,8 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'STP-Funds Capture Payment Method')]&#xd;
-</value>
+         <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

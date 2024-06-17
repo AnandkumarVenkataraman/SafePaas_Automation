@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_RoleGroup_GL</name>
+   <tag></tag>
+   <elementGuidId>ef2f8b7c-35eb-4cc1-8765-134d16375366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'RoleGroup_GL' or . = 'RoleGroup_GL')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>746efe53-31cd-485b-bd63-54bdc0241ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tR</value>
+      <webElementGuid>8a79c035-6f6c-4b55-878e-9115bb160080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C179035684660773312</value>
+      <webElementGuid>d287b9c5-1fe5-40b2-83d4-12bf68de2319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RoleGroup_GL</value>
+      <webElementGuid>91c7dce3-02a1-4e6b-881d-97ed98367301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;158228896595590718_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tR&quot;]</value>
+      <webElementGuid>71498304-ce5c-47b7-a142-6a69479b4722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'RoleGroup_GL' or . = 'RoleGroup_GL')]</value>
+      <webElementGuid>b940f517-e5ae-4779-b0d2-595d80110928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN TeST Justification for Roles and Attributes'])[1]/following::td[1]</value>
+      <webElementGuid>2d30e93d-34ab-4cff-8e4b-3fab293e5b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[3]/following::td[2]</value>
+      <webElementGuid>0d63eb4d-faa3-4738-89ca-60f4c283e1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM2'])[2]/preceding::td[2]</value>
+      <webElementGuid>aa7713c8-e610-4898-b0ae-b0e396711bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MCD Project Close Coordinator[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM2]'])[2]/preceding::td[3]</value>
+      <webElementGuid>77218641-5e51-47f5-9901-97dc826eee65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]</value>
+      <webElementGuid>362e411d-5222-4063-a7d3-74e5aff67b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='158228896595590718_orig']/tbody/tr[2]/td[12]</value>
+      <webElementGuid>a424cd27-c25e-42d6-bfa6-1d8a39c8f413</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

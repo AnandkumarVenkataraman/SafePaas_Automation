@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id = 'P10_TICKET_CREATION_LABEL' and (text() = 'Ticket Creation' or . = 'Ticket Creation')]</value>
+         <value>//div[10]/div/div/div/label</value>
       </entry>
       <entry>
          <key>CSS</key>
