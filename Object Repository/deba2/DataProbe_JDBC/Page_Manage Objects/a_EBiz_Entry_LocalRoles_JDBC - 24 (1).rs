@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[3]/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[3]/table/tbody/tr[8]/td[1]/a</value>
+         <value>//a[contains(text(),'EBiz_Entry_LocalRoles_JDBC')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2441f40e-5c5c-4d6a-8cc4-328f0210bd2b</webElementGuid>
+      <webElementGuid>67bb2406-56fb-4f8b-860a-9d7abd2dd9b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:10:7968876210474:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:353651,5888,5888,353651&amp;cs=3lD8StSWpLkDzOA_5sv8UPoN_U2QK22fqsRszJev2Q48BD2HXQq4eOn8PoQYRAk-NZgHWHViefhlmEtWCdKwm4A</value>
-      <webElementGuid>681dfff7-abdb-48e3-ab7f-5c54f149aa5d</webElementGuid>
+      <webElementGuid>2b3f88f5-3f9d-41ad-811c-f98bd6844c31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EBiz_Entry_LocalRoles_JDBC</value>
-      <webElementGuid>f6b68bf3-4901-44c7-b856-0d274bf16a35</webElementGuid>
+      <webElementGuid>bde9791e-2f91-4c1d-8c90-f3bd36592a2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[8]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>8cee6197-5807-4be7-a9de-38fd1f7fba81</webElementGuid>
+      <webElementGuid>a6928e3e-8f00-40b7-a11a-f60b93b44ec2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='122864437533293003_orig']/tbody/tr[8]/td/a</value>
-      <webElementGuid>fde1e98f-db2d-4b5c-b01e-fa363f84d006</webElementGuid>
+      <webElementGuid>938ee531-5daf-4d5a-87d9-9ed1eb7a1f3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'EBiz_Entry_LocalRoles_JDBC')]</value>
-      <webElementGuid>3996f33e-f814-4d5c-9770-3d7aa032a513</webElementGuid>
+      <webElementGuid>1702a1a6-078d-47f7-8269-7b0d0604206c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:10:7968876210474:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:353651,5888,5888,353651&amp;cs=3lD8StSWpLkDzOA_5sv8UPoN_U2QK22fqsRszJev2Q48BD2HXQq4eOn8PoQYRAk-NZgHWHViefhlmEtWCdKwm4A')]</value>
-      <webElementGuid>f5f89a54-8dc3-496d-a535-a2a5b3bfd58d</webElementGuid>
+      <webElementGuid>f15a8642-c870-452f-a925-10723e0358bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[8]/td/a</value>
-      <webElementGuid>5d7e4b3b-c65e-47f5-adb6-07a833c5bb43</webElementGuid>
+      <webElementGuid>475d7cfb-7ac8-4053-b088-d6d3161967aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:10:7968876210474:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:353651,5888,5888,353651&amp;cs=3lD8StSWpLkDzOA_5sv8UPoN_U2QK22fqsRszJev2Q48BD2HXQq4eOn8PoQYRAk-NZgHWHViefhlmEtWCdKwm4A' and (text() = 'EBiz_Entry_LocalRoles_JDBC' or . = 'EBiz_Entry_LocalRoles_JDBC')]</value>
-      <webElementGuid>a2a0b2c7-e638-4f4f-aafc-adf19e60d1c4</webElementGuid>
+      <webElementGuid>85c16116-4238-46db-8eea-0ddb0943172d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

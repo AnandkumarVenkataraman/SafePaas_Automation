@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[3]/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[3]/table/tbody/tr[10]/td[1]/a</value>
+         <value>//a[contains(text(),'EBiz_Entry_Request_Group_JDBC')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3f3dc466-f1f6-4bdf-83f2-fa19f77d7508</webElementGuid>
+      <webElementGuid>eae47296-0245-4b8a-8207-a84a2aaad343</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:10:7968876210474:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:353671,5888,5888,353671&amp;cs=3YvD_aIxGn_vkfCG46ttO-pS_jSGXu5EVejA8NYZgkjcQmS8ufa-K8wQJhXVqDUZwbmcg0LjsxJH3-2mk8lxVIw</value>
-      <webElementGuid>99b0f75a-d0ef-4c73-a920-0eea5e9adca8</webElementGuid>
+      <webElementGuid>984706b1-5bb3-4a91-ac4e-c174a2d5b79e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EBiz_Entry_Request_Group_JDBC</value>
-      <webElementGuid>1ff7b710-c885-40b2-8001-2cea1f57740d</webElementGuid>
+      <webElementGuid>c825c352-50f1-411d-a4ce-e252321a1147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[10]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>d20147d6-f797-4857-888d-e0bd8aca277a</webElementGuid>
+      <webElementGuid>b84794f7-be74-47ab-9e25-87453e69df28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='122864437533293003_orig']/tbody/tr[10]/td/a</value>
-      <webElementGuid>b4e92eb9-d8c5-4538-81c7-41c366cd61d9</webElementGuid>
+      <webElementGuid>af45ccb7-2192-499e-a1a8-e9a51937ac88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'EBiz_Entry_Request_Group_JDBC')]</value>
-      <webElementGuid>fc4284b0-3541-4126-a5c3-efd6d84b72ba</webElementGuid>
+      <webElementGuid>4d7de9bd-c49b-4cb2-ab23-3ab7b2702e8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:10:7968876210474:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:353671,5888,5888,353671&amp;cs=3YvD_aIxGn_vkfCG46ttO-pS_jSGXu5EVejA8NYZgkjcQmS8ufa-K8wQJhXVqDUZwbmcg0LjsxJH3-2mk8lxVIw')]</value>
-      <webElementGuid>5596d062-d418-48c8-9ffa-d35375029e51</webElementGuid>
+      <webElementGuid>889e3a3a-d2d2-4584-bec0-3e71578ebb6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[10]/td/a</value>
-      <webElementGuid>6e65c47e-6805-402d-b3eb-e794683f4afe</webElementGuid>
+      <webElementGuid>93f95461-6857-4aa5-b360-5eb371db7a17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:10:7968876210474:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:353671,5888,5888,353671&amp;cs=3YvD_aIxGn_vkfCG46ttO-pS_jSGXu5EVejA8NYZgkjcQmS8ufa-K8wQJhXVqDUZwbmcg0LjsxJH3-2mk8lxVIw' and (text() = 'EBiz_Entry_Request_Group_JDBC' or . = 'EBiz_Entry_Request_Group_JDBC')]</value>
-      <webElementGuid>a8de0e7f-f92e-40b1-b0a2-051995ac7a8c</webElementGuid>
+      <webElementGuid>d6140fb0-2d8d-484e-bc6f-c0a0c102f396</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

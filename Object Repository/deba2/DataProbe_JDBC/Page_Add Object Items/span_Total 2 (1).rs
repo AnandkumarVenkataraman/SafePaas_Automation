@@ -14,7 +14,7 @@
          <value>//span[@id='oItemsSodJdbcIg_ig_grid_vc_pageRange']/span[2]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

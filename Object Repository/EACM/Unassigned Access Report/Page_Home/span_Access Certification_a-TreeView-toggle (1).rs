@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[text()='Setup']//preceding::span[@class='a-TreeView-toggle'][1]</value>
+         <value>//span[text()='Access Certification']//following::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a2306b01-1472-4f67-96f4-2976baa059c3</webElementGuid>
+      <webElementGuid>4178fe48-ec78-4c0d-a02c-853b5b07f046</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>4324bc15-c58a-467e-ad5c-9c414dc31a87</webElementGuid>
+      <webElementGuid>1e878ddc-89b1-4eda-829e-fe8255e98403</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_12&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>11895dfe-c0e5-4753-ad63-e773eaf04c00</webElementGuid>
+      <webElementGuid>95b9fe14-efc3-458b-b627-268378949ac3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]/span</value>
-      <webElementGuid>6f93ec4c-9c65-4b98-bbf9-8ccb7f2201de</webElementGuid>
+      <webElementGuid>37f5dc2a-0154-4161-a4d2-a5347cd9116c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_12']/span</value>
-      <webElementGuid>b1e297d1-fdec-45cb-be83-718844065995</webElementGuid>
+      <webElementGuid>04498408-99d1-4d88-a0e6-1a5751e754dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Role Group_f01</name>
+   <name>input_Role Group_f02</name>
    <tag></tag>
-   <elementGuidId>009bd936-042d-4f8e-961b-b2c58694a6e5</elementGuidId>
+   <elementGuidId>2e3063df-85a7-48ca-9046-51cdd7d6af7f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type = 'checkbox' and @name = 'f01' and @id = 'singleCheck' and @value = '2']</value>
+         <value>//input[@type = 'checkbox' and @name = 'f01' and @id = 'singleCheck' and @value = '1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d2a79106-480d-44de-9a55-ce7b4cfbca2e</webElementGuid>
+      <webElementGuid>9db696c2-153d-48f3-bf79-1b1cc798de68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>112e05c5-25e2-47d3-a094-83e350eb4e97</webElementGuid>
+      <webElementGuid>8cda62d4-b49d-4640-8ec0-37d52f8c6e02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>f01</value>
-      <webElementGuid>d16ada34-cd83-480b-b76b-e75082da0be0</webElementGuid>
+      <webElementGuid>16b825dd-795e-41fb-a3d8-a4ec3b08d8fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>f0b6fd63-39c2-4313-9284-40eee4887517</webElementGuid>
+      <webElementGuid>ac5a3217-a940-424d-a2e4-46409727ae12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>singleCheck</value>
-      <webElementGuid>3680f173-0aad-49ea-9455-ddccbd33cc59</webElementGuid>
+      <webElementGuid>86adcba8-ea71-45be-90ad-be0188170934</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;158228896595590718_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/input[@id=&quot;singleCheck&quot;]</value>
-      <webElementGuid>7231a245-db54-462f-9cc8-85a19a5dfeda</webElementGuid>
+      <webElementGuid>85a20dd0-7385-4646-9a90-91ea7bf39708</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'f01' and @id = 'singleCheck']</value>
-      <webElementGuid>65fe36b3-2562-4cc6-ad92-0b314f7d92c9</webElementGuid>
+      <webElementGuid>6927f9ba-d013-47ed-bbd4-2c3fd9052b09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='singleCheck']</value>
-      <webElementGuid>1de0960f-5ac5-40bf-9d94-569bc9164edb</webElementGuid>
+      <webElementGuid>e47a3f7c-383d-4f2c-94b4-f60b5969f8eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/input</value>
-      <webElementGuid>4c6e3f42-ce8b-4880-8e5b-148435f84cd6</webElementGuid>
+      <webElementGuid>b93cf2d7-ea42-48c4-809a-3df288c0dc0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='158228896595590718_orig']/tbody/tr[2]/td/input</value>
-      <webElementGuid>6670ceed-c80b-48bf-bab6-94819d8c41e6</webElementGuid>
+      <webElementGuid>a9dc2a91-35ac-46ad-a04a-d8f328cebee6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

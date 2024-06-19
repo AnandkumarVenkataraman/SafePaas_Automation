@@ -429,9 +429,9 @@ WebUI.setText(findTestObject('Object Repository/EACM/Security Context/Roles and 
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/button_Save Justification'))
 
-WebUI.delay(60)
-
 WebUI.click(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/button_Save Justification'))
+
+WebUI.delay(20)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/a_Justification'), 
     0)
@@ -482,17 +482,17 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/EACM/Security Conte
 WebUI.verifyElementPresent(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/a_Justification'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/input_Role Group_f01'))
+WebUI.verifyElementClickable(findTestObject('EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/input_Role Group_f02'))
 
-WebUI.click(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/input_Role Group_f01'))
+WebUI.click(findTestObject('EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/input_Role Group_f02'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/select_- Please select any one -RoleGroup_A_0709b4_1'), 
+WebUI.scrollToElement(findTestObject('EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/button_Submit'), 
     0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/select_- Please select any one -RoleGroup_A_0709b4_1'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/select_- Please select any one -RoleGroup_A_0709b4_1'), 
-    'RoleGroup_GL', true, FailureHandling.STOP_ON_FAILURE)
+    'RoleGroup_GL', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/button_Save Draft Mapping'))
 
@@ -792,13 +792,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageC
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Role Groups in Scope with Entire History'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/a_Detail'))
+WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/a_Detail'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Role Groups in Scope - Current Status'))
 
@@ -844,13 +840,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageC
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Role Groups in Scope with Entire History'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/a_Detail'))
+WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/a_Detail'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Role Groups in Scope - Current Status'))
 
@@ -892,13 +884,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageC
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Role Groups in Scope with Entire History'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/a_Detail'))
+WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/a_Detail'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/span_Role Groups in Scope - Current Status'))
 

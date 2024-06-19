@@ -172,11 +172,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/
 
 WebUI.click(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/button_Apply'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle'), 0)
+WebUI.scrollToElement(findTestObject('deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle1'), 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle'))
+WebUI.verifyElementClickable(findTestObject('deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle1'))
 
-WebUI.click(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle'))
+WebUI.click(findTestObject('deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle1'))
 
 WebUI.delay(5)
 

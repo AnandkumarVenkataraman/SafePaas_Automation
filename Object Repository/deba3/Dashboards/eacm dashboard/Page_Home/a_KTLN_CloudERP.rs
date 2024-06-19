@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//a[(text() = 'KTLN_CloudERP' or . = 'KTLN_CloudERP')]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'KTLN_CloudERP' or . = 'KTLN_CloudERP')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

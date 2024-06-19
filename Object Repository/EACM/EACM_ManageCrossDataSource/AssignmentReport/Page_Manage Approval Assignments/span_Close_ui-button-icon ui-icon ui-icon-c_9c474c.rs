@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[32]/div/button/span</value>
+         <value>//button[@title='Close']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6ee0872e-087a-4adf-a61a-1998c237f389</webElementGuid>
+      <webElementGuid>1e92fb07-82f7-42d8-b0ac-e2c60941df89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-icon ui-icon ui-icon-closethick</value>
-      <webElementGuid>03060734-f66a-41b3-a2ac-6ec5d9bf0fad</webElementGuid>
+      <webElementGuid>b081416a-ff68-4bd4-bcdf-56ec3484c1f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog--apex t-Dialog-page--standard ui-draggable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle&quot;]/button[@class=&quot;ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close&quot;]/span[@class=&quot;ui-button-icon ui-icon ui-icon-closethick&quot;]</value>
-      <webElementGuid>cb416c16-1a68-4265-9ddd-19e0bcf3c999</webElementGuid>
+      <webElementGuid>b2b77235-1061-4a0f-929e-2c7ae78f4f77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[32]/div/button/span</value>
-      <webElementGuid>d29ebf3b-270c-4655-8db9-400373c0be5d</webElementGuid>
+      <webElementGuid>9b67ed4e-46e1-4248-b164-ffd83a5c3a9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[32]/div/button/span</value>
-      <webElementGuid>25d33b33-ff46-4062-b627-c16a311bdc92</webElementGuid>
+      <webElementGuid>b26ce738-1d87-4124-9ca8-c2a2d4ef2590</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

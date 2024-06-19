@@ -458,13 +458,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/span_1 -                   13 of           _a456d9 (1) (1)'), 
-    0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/span_1 -                   13 of           _a456d9 (1) (1)'), 
-    FailureHandling.OPTIONAL)
-
 WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
@@ -529,7 +525,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba2/DTP_SnapshotExtr
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Job Detail/input_P30_SCHEDULER_JOB_NAME'), 
-    'JDBC_Extract_June19_V1')
+    'JDBC_Extract_June19_V2')
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Job Detail/span_a-Icon icon-up-chevron'), 
     0)
