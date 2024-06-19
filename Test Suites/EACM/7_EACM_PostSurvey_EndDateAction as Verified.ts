@@ -15,7 +15,7 @@
       <guid>1158426e-25fd-4f18-bd34-220a7ade72cc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/6_POST EACM Survey - Verified</testCaseId>
+      <testCaseId>Test Cases/EACM/5_POSTSurvey_End date action as Verified</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -15,7 +15,7 @@
       <guid>d050c0df-38ca-4474-97f3-70e9ccb515dd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/25_EACM_ManageWorkflow_Reassignment</testCaseId>
+      <testCaseId>Test Cases/EACM/22_ManageWorkflow_Reassignment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>2_DTP_JDBC_SnapshotExtract</name>
+   <name>1_ManageDatasource</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>b9bfaeb0-f540-4dbd-a4f5-75c6bddceec0</testSuiteGuid>
+   <testSuiteGuid>baaa2c32-4232-4320-8be2-6e1b7749bb2f</testSuiteGuid>
    <testCaseLink>
-      <guid>c385afcd-6b79-48ad-8456-ca8b48ebe011</guid>
+      <guid>363c2386-5171-4112-806c-e07afa0981ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DataProbe_JDBC/2_DTP_JDBC_SnapshotExtract</testCaseId>
+      <testCaseId>Test Cases/DataProbe_JDBC/1_DTP_ManageDataSource_Synchronization</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

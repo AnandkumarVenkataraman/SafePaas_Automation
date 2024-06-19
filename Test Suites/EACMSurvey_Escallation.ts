@@ -15,7 +15,7 @@
       <guid>5910e845-04be-4cec-b78b-b2d75fd81c17</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/18_EACMSurvey_Escallation</testCaseId>
+      <testCaseId>Test Cases/EACM/17_Escallation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

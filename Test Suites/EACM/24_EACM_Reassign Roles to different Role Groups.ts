@@ -15,7 +15,7 @@
       <guid>a7099e26-613a-4902-a67a-96d77d643ad1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/24_EACM_Reassign Roles to different Role Groups</testCaseId>
+      <testCaseId>Test Cases/EACM/21_Reassign Roles to different Role Groups</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

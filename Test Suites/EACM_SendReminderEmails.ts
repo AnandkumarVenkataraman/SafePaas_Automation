@@ -15,7 +15,7 @@
       <guid>9090e763-0367-4f9b-b6b5-a0500ba2687e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/17_EACM_SendReminderEmail</testCaseId>
+      <testCaseId>Test Cases/EACM/16_SendReminderEmail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

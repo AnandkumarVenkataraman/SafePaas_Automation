@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_All Certifications - View only Access_e3ff9d</name>
+   <tag></tag>
+   <elementGuidId>f5d090e3-a518-4edd-ab42-19d082ec7172</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.u-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'All Certifications - View only Access to All Certifications Report on successful Login via Universal Dashboard' or . = 'All Certifications - View only Access to All Certifications Report on successful Login via Universal Dashboard')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>410c6870-3dcb-41a2-b976-10ce2a68247b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>aa7ffa61-8367-41b3-bc3e-ea87805e8dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P36_FUNCTION_READ_ACCESS_0</value>
+      <webElementGuid>969ef8da-744b-4c96-a1d9-4719b129afb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Certifications - View only Access to All Certifications Report on successful Login via Universal Dashboard</value>
+      <webElementGuid>e2156452-b89c-47ab-b105-29ea11b525de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P36_FUNCTION_READ_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>4239f2f3-0039-4395-b6d7-8b0c90c55021</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'All Certifications - View only Access to All Certifications Report on successful Login via Universal Dashboard' or . = 'All Certifications - View only Access to All Certifications Report on successful Login via Universal Dashboard')]</value>
+      <webElementGuid>66586f89-c878-45be-a415-8cd6e1d080f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Function Read Access'])[1]/following::label[1]</value>
+      <webElementGuid>3247636b-2128-463f-b799-2b059f258dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected format: DD-MON-RR'])[2]/following::label[1]</value>
+      <webElementGuid>e26fbacb-12cf-43cb-9a50-ace5b38edcae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles - View only access to view the roles assigned to Users.'])[1]/preceding::label[1]</value>
+      <webElementGuid>e6141388-a9af-4ea8-a632-9a5912e0dd85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment Report - View only access for Assignment Report'])[1]/preceding::label[2]</value>
+      <webElementGuid>79f00076-6ae5-47e3-a6ca-f3f9523a8cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Certifications - View only Access to All Certifications Report on successful Login via Universal Dashboard']/parent::*</value>
+      <webElementGuid>0dcea105-6cdc-49b4-b06f-c55260f6882a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>c1468f0f-4e9d-48f1-b602-a1a917aa2db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P36_FUNCTION_READ_ACCESS']/div/label</value>
+      <webElementGuid>d84e5c0f-353d-4e56-a7cd-5cc0539e4604</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>f92c1362-345b-4ae0-8ac1-b08825b7ad15</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EACM/2_EACM_DataProbe_Setup</testCaseId>
+      <testCaseId>Test Cases/EACM/1_DataProbe Setup</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
