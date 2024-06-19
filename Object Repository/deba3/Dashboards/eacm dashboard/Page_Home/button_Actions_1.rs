@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_- Please select any one -RoleGroup_A_0709b4_1</name>
+   <name>button_Actions_1</name>
    <tag></tag>
-   <elementGuidId>7b338722-ea77-42b7-a331-3fe35838c502</elementGuidId>
+   <elementGuidId>6e6f3b7b-c53a-4d40-8de6-1d5dfccf331e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P47_SELECT_RG</value>
+         <value>#R118245851706460410_actions_button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P47_SELECT_RG']</value>
+         <value>//button[@id = 'R118245851706460410_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,148 +21,127 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>c5167ebe-4ef5-4fe3-8a75-7f428db9107d</webElementGuid>
+      <value>button</value>
+      <webElementGuid>c8766ff2-dae0-4784-a007-df9bb0300044</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P47_SELECT_RG</value>
-      <webElementGuid>bdf01fd5-fd6d-4bef-8471-cdc408de4c60</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>P47_SELECT_RG</value>
-      <webElementGuid>880594df-d9c8-402a-9be3-610ede71e347</webElementGuid>
+      <value>R118245851706460410_actions_button</value>
+      <webElementGuid>3f4a62cf-566b-4f18-b51d-7cae9e29725f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>selectlist apex-item-select</value>
-      <webElementGuid>5543ef46-89f7-4cc4-bfed-a43a01c4dba4</webElementGuid>
+      <value>a-Button a-IRR-button a-IRR-button--actions js-menuButton</value>
+      <webElementGuid>21bc89bb-acf3-402c-ba30-e0a156f1644a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f21c1bd-047c-429b-907b-c8f77ac3a00a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-native-menu</name>
+      <name>data-menu</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>d5a05fef-3d14-4bc1-8231-02846fa7e7af</webElementGuid>
+      <value>R118245851706460410_actions_menu</value>
+      <webElementGuid>7f590743-c13c-4227-bc2c-296cbdf2c6bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>size</name>
+      <name>aria-haspopup</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>6c46d756-dd3f-4abc-b4c5-f1f2ffa3b49c</webElementGuid>
+      <value>menu</value>
+      <webElementGuid>0ee8c1b7-b368-4b89-8557-8929c3015f13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>- Please select any one -
-RoleGroup_AM
-RoleGroup_AP
-RoleGroup_AR
-RoleGroup_GL
-RoleGroup_HCM
-RoleGroup_Other
-</value>
-      <webElementGuid>202d65ff-ed13-4eac-b0c4-315173f7147e</webElementGuid>
+      <value>Actions</value>
+      <webElementGuid>f7e4e465-413f-4e1e-bc26-2cdcfe385bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P47_SELECT_RG&quot;)</value>
-      <webElementGuid>6c3f955a-eb2e-454b-bc86-272e19fd0651</webElementGuid>
+      <value>id(&quot;R118245851706460410_actions_button&quot;)</value>
+      <webElementGuid>52355e90-c4a9-4271-83ef-843d7e147222</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P47_SELECT_RG' and @name = 'P47_SELECT_RG' and (text() = '- Please select any one -&#xd;
-RoleGroup_AM&#xd;
-RoleGroup_AP&#xd;
-RoleGroup_AR&#xd;
-RoleGroup_GL&#xd;
-RoleGroup_HCM&#xd;
-RoleGroup_Other&#xd;
-' or . = '- Please select any one -&#xd;
-RoleGroup_AM&#xd;
-RoleGroup_AP&#xd;
-RoleGroup_AR&#xd;
-RoleGroup_GL&#xd;
-RoleGroup_HCM&#xd;
-RoleGroup_Other&#xd;
-')]</value>
-      <webElementGuid>119a16ee-4eff-437b-a40d-d1bf28a012f4</webElementGuid>
+      <value>//button[@id = 'R118245851706460410_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
+      <webElementGuid>8c976692-7fd7-495f-b793-54266ce8ce75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P47_SELECT_RG']</value>
-      <webElementGuid>facbb165-a79a-4636-a2f7-bb017e1df4b7</webElementGuid>
+      <value>//button[@id='R118245851706460410_actions_button']</value>
+      <webElementGuid>31852168-0c2a-4e43-8b9e-f66c99bc10a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Role Group'])[1]/following::select[1]</value>
-      <webElementGuid>c14e4dd4-38a0-4e70-a5aa-56c2b437abea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[3]/following::button[1]</value>
+      <webElementGuid>5d885d35-ed87-4423-bd65-24af7da86e4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Draft Mapping'])[1]/following::select[1]</value>
-      <webElementGuid>af39649e-1531-44ee-8705-92085506c820</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Certifications'])[1]/following::button[3]</value>
+      <webElementGuid>9b73d6e6-3316-4d53-84e9-e7d3ce9b2247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::select[1]</value>
-      <webElementGuid>0aa86014-d5ea-42f3-b2a4-8a74a1e7c3b1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Settings'])[2]/preceding::button[1]</value>
+      <webElementGuid>dd8b9bbe-0941-47db-8f84-cd92bf91bd6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
-      <webElementGuid>226186a5-fa04-4c11-a8be-3ddac9c7600d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[3]/preceding::button[2]</value>
+      <webElementGuid>65da9650-6eed-49ae-b272-ac83bc4b27ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
-      <webElementGuid>c5cdc6c5-790d-4fa8-bd2c-18e295dad242</webElementGuid>
+      <value>//div[3]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div[3]/div/button</value>
+      <webElementGuid>9a224dd9-3812-4368-aa29-86babc33ee8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P47_SELECT_RG_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>d0eec2c9-7380-4964-8257-77bbacf26dcd</webElementGuid>
+      <value>//div[@id='R118245851706460410_toolbar_controls']/div[3]/div/button</value>
+      <webElementGuid>66d38f93-28ca-472b-b66b-863e8be0e2ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

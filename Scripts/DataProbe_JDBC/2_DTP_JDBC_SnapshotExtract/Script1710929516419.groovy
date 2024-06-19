@@ -529,7 +529,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba2/DTP_SnapshotExtr
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Job Detail/input_P30_SCHEDULER_JOB_NAME'), 
-    'JDBC_Extract_Mar19_V1')
+    'JDBC_Extract_June19_V1')
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba2/DTP_SnapshotExtract/Page_Job Detail/span_a-Icon icon-up-chevron'), 
     0)
