@@ -15,7 +15,7 @@
       <guid>69d6cdf0-15f3-4292-9c0c-ec7abe9420aa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DataProbe_CloudERP/2_DTP_CloudERP_ManageSnapshot</testCaseId>
+      <testCaseId>Test Cases/DataProbe_CloudERP/2_DTP_CloudERP_Manage Snapshot Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

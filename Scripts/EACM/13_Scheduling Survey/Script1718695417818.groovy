@@ -116,8 +116,6 @@ WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User 
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/button_Create'))
 
-WebUI.delay(500)
-
 WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/button_Create'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Manage User Access/button_t-Button t-Button--noUI t-Button--ic_cbe08f'))
