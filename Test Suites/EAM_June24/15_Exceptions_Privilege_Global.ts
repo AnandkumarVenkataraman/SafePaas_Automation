@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>ManageException_Privilege_Global</name>
+   <name>15_Exceptions_Privilege_Global</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6fd54fa8-d7e1-4a9c-b88c-2a5611cb40d4</testSuiteGuid>
+   <testSuiteGuid>02290442-84d8-4061-96c1-3d56b807ebbe</testSuiteGuid>
    <testCaseLink>
-      <guid>a63b77d6-8bef-4492-b2b1-fc0c8c92db82</guid>
+      <guid>6b071e6c-50cf-419b-83dc-8498438a67a7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/EAM/9_Exception_Privilege and Global</testCaseId>

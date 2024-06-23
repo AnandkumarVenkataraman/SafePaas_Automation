@@ -15,7 +15,7 @@
       <guid>ddcd3b75-be05-4cdf-8793-2ea139d5221a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/4_Exception_Role</testCaseId>
+      <testCaseId>Test Cases/EAM/7_Exception_Role and Local</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

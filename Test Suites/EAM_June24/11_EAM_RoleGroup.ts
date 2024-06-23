@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>ManageException_Privilege_Global</name>
+   <name>11_EAM_RoleGroup</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6fd54fa8-d7e1-4a9c-b88c-2a5611cb40d4</testSuiteGuid>
+   <testSuiteGuid>8e73af36-7b8e-4ce9-a558-806c8dea2131</testSuiteGuid>
    <testCaseLink>
-      <guid>a63b77d6-8bef-4492-b2b1-fc0c8c92db82</guid>
+      <guid>0caa51c1-d580-4526-96b1-856e74fd975e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/9_Exception_Privilege and Global</testCaseId>
+      <testCaseId>Test Cases/EAM/20_SODReviewSetup_RoleGroups</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

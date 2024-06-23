@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_End Date_oj-inputdatetime-calendar-i_d77116 - Copy</name>
+   <tag></tag>
+   <elementGuidId>3d6e68c4-64ef-4bf5-b88d-4b1ee28bd5c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.oj-inputdatetime-calendar-icon.oj-clickable-icon-nocontext.oj-component-icon.oj-enabled.oj-default.oj-hover.oj-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//oj-input-date[@id='P138_END_DATE']/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>341a2371-3ff4-467f-b179-c861b2eaf293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select Date.</value>
+      <webElementGuid>b320e9fe-5797-49f3-990e-8d4fc7b81017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-inputdatetime-calendar-icon oj-clickable-icon-nocontext oj-component-icon oj-enabled oj-default oj-hover oj-active</value>
+      <webElementGuid>286c7f32-a0ab-4739-a21c-98e36dd57d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P138_START_DATE&quot;)/div[@class=&quot;oj-inputdatetime-input-container oj-text-field-container oj-active&quot;]/span[@class=&quot;oj-inputdatetime-input-trigger&quot;]/span[@class=&quot;oj-inputdatetime-calendar-icon oj-clickable-icon-nocontext oj-component-icon oj-enabled oj-default oj-hover oj-active&quot;]</value>
+      <webElementGuid>e0096c83-0615-443b-8b20-a48f8cc58fb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Select Date.']</value>
+      <webElementGuid>1d726b72-ee06-4f46-8701-dffc94d63dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/span</value>
+      <webElementGuid>6ec8f667-07c9-4a77-a8e2-f4effc762fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//oj-input-date[@id='P138_START_DATE']/div/span/span</value>
+      <webElementGuid>8487655b-e79b-4b21-bc68-356f088931fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

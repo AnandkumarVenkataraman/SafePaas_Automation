@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>ManageException_Privilege_Global</name>
+   <name>6_EAM_ManageViolation_MassUpdateException_UsersWithConflict</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6fd54fa8-d7e1-4a9c-b88c-2a5611cb40d4</testSuiteGuid>
+   <testSuiteGuid>dfbe8f03-c7bf-425f-a502-08da8abfe277</testSuiteGuid>
    <testCaseLink>
-      <guid>a63b77d6-8bef-4492-b2b1-fc0c8c92db82</guid>
+      <guid>0d84c701-711f-44b4-87ec-e895db686f2b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/9_Exception_Privilege and Global</testCaseId>
+      <testCaseId>Test Cases/EAM/10_MassUpdateException_UsersWithConflict</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

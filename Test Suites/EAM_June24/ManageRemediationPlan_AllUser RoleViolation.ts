@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>ManageException_Privilege_Global</name>
+   <name>ManageRemediationPlan_AllUser RoleViolation</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6fd54fa8-d7e1-4a9c-b88c-2a5611cb40d4</testSuiteGuid>
+   <testSuiteGuid>310f60b0-5e3b-4ef2-b06c-6d9ab545fe66</testSuiteGuid>
    <testCaseLink>
-      <guid>a63b77d6-8bef-4492-b2b1-fc0c8c92db82</guid>
+      <guid>33e58415-b3bd-4684-9b29-1bea7ddec4be</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/9_Exception_Privilege and Global</testCaseId>
+      <testCaseId>Test Cases/EAM/16_Remediations_AllUsersRoleViolation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>ManageException_Privilege_Global</name>
+   <name>10_SODReview_AggregatedLevel</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6fd54fa8-d7e1-4a9c-b88c-2a5611cb40d4</testSuiteGuid>
+   <testSuiteGuid>7f4adcc0-83da-4f25-b78c-47ac77f739f6</testSuiteGuid>
    <testCaseLink>
-      <guid>a63b77d6-8bef-4492-b2b1-fc0c8c92db82</guid>
+      <guid>d26a59e9-7e01-4de8-a7c3-92e5fa87d57c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/9_Exception_Privilege and Global</testCaseId>
+      <testCaseId>Test Cases/EAM/25_Create SODSurvey_AggregatedLevel</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
