@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rule In Scope</name>
+   <tag></tag>
+   <elementGuidId>aa3eedef-20d5-4ee9-9c1d-98dfb2f2ef6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Rule In Scope' or . = 'Rule In Scope')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C175819939206426939 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90e2e231-3e04-46e7-bddf-564be63a0794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>e4ea8139-b798-43a1-a49c-8120a96a8756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>175819939206426939</value>
+      <webElementGuid>c5e47441-15f9-4a3f-baa0-80966956188f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>81b74fcd-9779-4339-aeca-ef9703891e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rule In Scope</value>
+      <webElementGuid>2489c294-dce2-4467-a97a-f391fa44ba87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939&quot;)/tr[1]/th[@id=&quot;C175819939206426939&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>7113fdc2-a48d-4c62-97f5-d41446864c09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Rule In Scope' or . = 'Rule In Scope')]</value>
+      <webElementGuid>7da0a180-93df-4ec8-8333-426318e50a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Rule In Scope')]</value>
+      <webElementGuid>72947d23-09aa-41d5-b179-c2374528b75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Tags'])[1]/following::a[1]</value>
+      <webElementGuid>990fa7c3-b199-4de2-885a-5f31f1962111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Owners'])[1]/following::a[2]</value>
+      <webElementGuid>d86e278b-736b-40fa-8217-ea702ebf4ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities Verified'])[2]/preceding::a[1]</value>
+      <webElementGuid>0f6af159-8bb5-4d00-9f3a-b6b5a156304f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exception Verified'])[1]/preceding::a[2]</value>
+      <webElementGuid>3b95e41a-6d86-4941-b060-a4c9ce60462b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[14]/a</value>
+      <webElementGuid>5282bf83-d0dd-4df9-a48e-03f4df40ae12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C175819939206426939']/a</value>
+      <webElementGuid>06842e42-fe43-4f0d-ab69-fea2b3a2238d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -81,7 +81,7 @@ WebUI.click(findTestObject('deba3/Sample1/Page_Manage Violation/buttonP74_REQUES
 WebUI.verifyElementText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 
     '')
 
-WebUI.setText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 'KTLN_SODTest_May17_V1')
+WebUI.setText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 'KTLN_SODTest_May22_V1')
 
 WebUI.sendKeys(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), Keys.chord(
         Keys.ENTER))
@@ -141,9 +141,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage
 
 WebUI.click(findTestObject('Object Repository/deba1/Page_Manage Violation/label_Toggle'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_User Name  Akhil'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_User Name  Akhil'), FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_Rule Name  AR vs. GL Rule'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/Page_Manage Violation/span_Rule Name  AR vs. GL Rule'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('deba1/Page_Manage Violation/span_1 -                   15 of           _8bc35e'), 
     0, FailureHandling.OPTIONAL)

@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>KTLN_SODTest_June24_V1</description>
+      <initValue>'KTLN_SODTest_ +Today()+_V1'</initValue>
+      <name>SOD_Test</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

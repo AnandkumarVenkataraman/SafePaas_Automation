@@ -6,12 +6,12 @@
    <elementGuidId>6c714546-f8d3-4ca2-8d5f-dc19805e1344</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Maintain Approval Hierarchy')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_197']/div[2]/a</value>
+         <key>CSS</key>
+         <value>a.a-TreeView-label.is-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8b285961-1c66-44bc-b97c-bac35843a5c8</webElementGuid>
+      <webElementGuid>6a67c4fa-d5c8-4917-8f3f-edc99e8a327e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d2e3cc42-2960-4df3-9ca9-1b22595a2179</webElementGuid>
+      <webElementGuid>ccbf9a15-3ca7-4a72-9a6f-92c96fec7d46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>db042e75-14a0-44bb-80b9-601b44a95ba9</webElementGuid>
+      <webElementGuid>a4e3d105-d9bf-45ce-960f-fc29be177333</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>ad73b6c5-5a74-4c9d-808a-f03286acd22b</webElementGuid>
+      <webElementGuid>008eeaee-a5e6-40f1-b0d3-498c68a82c38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1200:9:1974347936367:::9::</value>
-      <webElementGuid>656b65f6-91e0-4593-85e9-76ed862532e9</webElementGuid>
+      <webElementGuid>e7632c3e-7175-4cd5-ae62-5acc4a135634</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>d06368c5-759a-4304-9911-9beac69dd7de</webElementGuid>
+      <webElementGuid>8e1208e6-2cb2-44b7-aa75-9f28ef2248e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fed0cc5f-0094-438b-8ef9-7e94f5a13b8f</webElementGuid>
+      <webElementGuid>b1676e61-3adc-4bcc-a3ad-7f5ab3b58a47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Maintain Approval Hierarchy</value>
-      <webElementGuid>94d19ecd-cebc-4644-843c-7a0c2fe448a2</webElementGuid>
+      <webElementGuid>c217d2b9-d414-44d6-994d-b055b96f9fe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_197&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>84694d69-aab5-444c-9ebe-49ed53ad8577</webElementGuid>
+      <webElementGuid>677d716b-71d5-401c-bac7-b7de816f2e82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_197']/div[2]/a</value>
-      <webElementGuid>bea5dca2-07e1-4e56-9515-cadf3e454d95</webElementGuid>
+      <webElementGuid>b8c3f8b2-3cf7-4faa-9cac-81fa679d2564</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Maintain Approval Hierarchy')]</value>
-      <webElementGuid>3063db02-c748-49eb-be9b-d2d1d132a4b1</webElementGuid>
+      <webElementGuid>0af89a9b-ea52-468f-b5c0-647304cec4ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1200:9:1974347936367:::9::')]</value>
-      <webElementGuid>2042a793-51c2-4cde-a5c3-7178df1a0e88</webElementGuid>
+      <webElementGuid>d1537b6e-388b-4c18-8616-6da75fe8d090</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[3]/ul/li[5]/div[2]/a</value>
-      <webElementGuid>0c73d0c5-0ec9-41a4-aa16-2f98b81c61f0</webElementGuid>
+      <webElementGuid>0693b70e-33e2-4dfd-b77e-76136789ad10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1200:9:1974347936367:::9::' and (text() = 'Maintain Approval Hierarchy' or . = 'Maintain Approval Hierarchy')]</value>
-      <webElementGuid>70144958-5f57-4402-b1f6-07b3785b08f4</webElementGuid>
+      <webElementGuid>cb79b70e-d37b-4aab-8078-b43bb20aac11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

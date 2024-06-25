@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Activities Verified</name>
+   <tag></tag>
+   <elementGuidId>5bc937c7-655f-42e6-8e40-ceb2ee217f74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Activities Verified' or . = 'Activities Verified')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C175820049299426940 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a98102b8-690d-45cd-b249-6aeb92c48e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>f14426b9-cfff-4f0a-a759-642b25920285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>175820049299426940</value>
+      <webElementGuid>9ce8c22c-ad71-4dfb-b798-304ebd83f8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>199d7bd9-f080-498a-81af-37d026be1cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Activities Verified</value>
+      <webElementGuid>ff064514-7d2a-4fbe-981e-a32232e8deed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939&quot;)/tr[1]/th[@id=&quot;C175820049299426940&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>707c6500-c15d-4d25-a3d0-57e57e65576b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Activities Verified' or . = 'Activities Verified')]</value>
+      <webElementGuid>6835730b-c1bf-43de-8951-03342e8bd1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Activities Verified')]</value>
+      <webElementGuid>00fd5925-37f7-4c73-9642-470f4b109993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule In Scope'])[2]/following::a[1]</value>
+      <webElementGuid>49bfb88e-8f74-4be3-846c-158cbac3ea68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Tags'])[1]/following::a[2]</value>
+      <webElementGuid>cb400371-d05d-453b-b208-6cad4d916287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exception Verified'])[1]/preceding::a[1]</value>
+      <webElementGuid>db42279f-76b3-470a-8bb0-04b6bb8e3e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Justification'])[1]/preceding::a[2]</value>
+      <webElementGuid>d938b2f9-6e0c-4d58-8f4a-223e47ecc796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[15]/a</value>
+      <webElementGuid>3e3abbac-cb28-4def-bfdf-d9f8b8a5e817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C175820049299426940']/a</value>
+      <webElementGuid>c73a13ad-3526-4def-9519-b295fbb5b473</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Maintain Customer Master vs. Maintain Sup_8e16f4</name>
+   <tag></tag>
+   <elementGuidId>0e9e2b2b-d52f-4ab5-b57e-defa1cbb6364</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Maintain Customer Master vs. Maintain Supplier Master Rule' or . = 'Maintain Customer Master vs. Maintain Supplier Master Rule')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>014ff646-60cd-47b2-96b9-91c4eb0552dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:6481371511701::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21137,21139,144</value>
+      <webElementGuid>4b01c479-a73d-4aa4-9244-750e395e6642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maintain Customer Master vs. Maintain Supplier Master Rule</value>
+      <webElementGuid>c84c5c4e-39bb-4a78-9760-d4e66f1e9a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>33b2c0cc-fdc5-433e-bb07-ba751cdd0597</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Maintain Customer Master vs. Maintain Supplier Master Rule' or . = 'Maintain Customer Master vs. Maintain Supplier Master Rule')]</value>
+      <webElementGuid>806463a9-c247-4c2c-a123-640c4dbe7c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Maintain Customer Master vs. Maintain Supplier Master Rule')]</value>
+      <webElementGuid>63540cf9-5a2a-4e98-a1ff-6fe05557f1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated Date'])[1]/following::a[20]</value>
+      <webElementGuid>352f3357-fc88-4084-b173-73ca2757bea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviewed On'])[1]/following::a[21]</value>
+      <webElementGuid>13849c8b-156c-49a3-bba8-181310579cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintain Customer Master vs. Maintain Supplier Master Rule'])[2]/preceding::a[1]</value>
+      <webElementGuid>e1b325aa-6035-4a7b-8568-c2f695ac1a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[1]/preceding::a[1]</value>
+      <webElementGuid>770e5092-e7c2-4453-b7dc-22d000767e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maintain Customer Master vs. Maintain Supplier Master Rule']/parent::*</value>
+      <webElementGuid>864be4c1-e438-4335-924c-369bd6d042e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:6481371511701::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21137,21139,144')]</value>
+      <webElementGuid>b746164a-1ff1-4331-89d2-d9d6657c70b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>bb90a62a-892f-4015-9f47-f9f8f40d1371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='173864579298281939_orig']/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>d13a95c5-99a5-474c-8c48-f3860d54d7a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

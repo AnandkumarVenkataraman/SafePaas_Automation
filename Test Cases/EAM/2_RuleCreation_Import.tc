@@ -12,7 +12,7 @@
       <variableId>7df8a602-dc9b-4a09-bf2a-d3693b9a66cd</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'C:\\\\Users\\\\debabrata.patel\\\\Documents\\\\EAM_Rules_Template.csv'</defaultValue>
+      <defaultValue>'C:\\Katalon Studio\\New Project\\EAM_Rules_Template.csv'</defaultValue>
       <description></description>
       <id>7df8a602-dc9b-4a09-bf2a-d3693b9a66cd</id>
       <masked>false</masked>
