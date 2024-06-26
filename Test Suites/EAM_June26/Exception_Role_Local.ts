@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>14.1_Exception_Role_Local_ApprovalProcess</name>
+   <name>Exception_Role_Local</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>5e1ade30-a729-461e-863a-f56ddc6bb964</testSuiteGuid>
+   <testSuiteGuid>73c4913e-8b4b-4ff5-811d-edf2c7bd35c0</testSuiteGuid>
    <testCaseLink>
-      <guid>1fc103f2-dbc3-4b1d-9056-f62d09ed3330</guid>
+      <guid>2dd11849-9228-43bd-a700-35ddac4196c2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/8_Exception_Role and Local_ApprovalProcess</testCaseId>
+      <testCaseId>Test Cases/EAM/7_Exception_Role and Local</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

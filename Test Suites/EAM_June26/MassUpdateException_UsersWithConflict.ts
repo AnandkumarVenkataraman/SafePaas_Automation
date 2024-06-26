@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>8_ManageRemediationPlan_AllUsersViolation</name>
+   <name>MassUpdateException_UsersWithConflict</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>5ebe63c5-b0bd-4193-92db-b0eedb07b337</testSuiteGuid>
+   <testSuiteGuid>dfbe8f03-c7bf-425f-a502-08da8abfe277</testSuiteGuid>
    <testCaseLink>
-      <guid>72cc5349-8958-4f28-81ac-bc1cfb42eb53</guid>
+      <guid>0d84c701-711f-44b4-87ec-e895db686f2b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/12_Remediations_AllUsersViolation</testCaseId>
+      <testCaseId>Test Cases/EAM/10_MassUpdateException_UsersWithConflict</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

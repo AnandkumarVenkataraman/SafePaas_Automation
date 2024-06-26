@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>8.1_ManageRemediationPlan_AllUsersViolation_ApprovalProcess</name>
+   <name>Exception_Role_Local_ApprovalProcess</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>e74268ac-5fb2-455b-94c8-9fa7de5077cd</testSuiteGuid>
+   <testSuiteGuid>5e1ade30-a729-461e-863a-f56ddc6bb964</testSuiteGuid>
    <testCaseLink>
-      <guid>64c1dfbd-7003-4c37-a0b9-914a437a19a7</guid>
+      <guid>1fc103f2-dbc3-4b1d-9056-f62d09ed3330</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/13_Remediations_AllUserViolation_ApprovalProcess</testCaseId>
+      <testCaseId>Test Cases/EAM/8_Exception_Role and Local_ApprovalProcess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

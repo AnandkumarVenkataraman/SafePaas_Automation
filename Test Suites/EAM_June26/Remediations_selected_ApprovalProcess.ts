@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>14_Exception_Role_Local</name>
+   <name>Remediations_selected_ApprovalProcess</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>73c4913e-8b4b-4ff5-811d-edf2c7bd35c0</testSuiteGuid>
+   <testSuiteGuid>dcaa5180-e44f-4d54-b2bc-be1dba155f14</testSuiteGuid>
    <testCaseLink>
-      <guid>2dd11849-9228-43bd-a700-35ddac4196c2</guid>
+      <guid>9791ded7-5172-4042-b9ad-bfdb69591f0d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/7_Exception_Role and Local</testCaseId>
+      <testCaseId>Test Cases/EAM/15_Remediations_Selected_ApprovalProcess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

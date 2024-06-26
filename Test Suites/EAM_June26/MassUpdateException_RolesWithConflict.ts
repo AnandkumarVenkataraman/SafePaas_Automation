@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>16_EAM_Analytics_After SODTest</name>
+   <name>MassUpdateException_RolesWithConflict</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>b4af221c-bc3a-42e4-9246-0bd95c34542e</testSuiteGuid>
+   <testSuiteGuid>1f0e92ca-27c2-4053-991d-223844651c4c</testSuiteGuid>
    <testCaseLink>
-      <guid>2c15e73d-1609-4e06-b2fd-ea78444f01e4</guid>
+      <guid>3e6c2444-b307-4d3a-9737-32db52a8840a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login and ManageRulesTag/12_EAM_Analytics_After SODTest</testCaseId>
+      <testCaseId>Test Cases/EAM/11_MassUpdateException_RolesWiithConflict</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

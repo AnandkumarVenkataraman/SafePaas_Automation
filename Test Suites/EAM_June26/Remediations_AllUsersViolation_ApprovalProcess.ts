@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>7_EAM_ManageViolation_MassUpdateException_RolesWithConflict</name>
+   <name>Remediations_AllUsersViolation_ApprovalProcess</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>1f0e92ca-27c2-4053-991d-223844651c4c</testSuiteGuid>
+   <testSuiteGuid>e74268ac-5fb2-455b-94c8-9fa7de5077cd</testSuiteGuid>
    <testCaseLink>
-      <guid>3e6c2444-b307-4d3a-9737-32db52a8840a</guid>
+      <guid>64c1dfbd-7003-4c37-a0b9-914a437a19a7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/11_MassUpdateException_RolesWiithConflict</testCaseId>
+      <testCaseId>Test Cases/EAM/13_Remediations_AllUserViolation_ApprovalProcess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
