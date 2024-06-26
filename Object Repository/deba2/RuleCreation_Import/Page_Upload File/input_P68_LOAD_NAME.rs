@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//input[@id='P68_LOAD_NAME']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'P68_LOAD_NAME' and @name = 'P68_LOAD_NAME']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7f9001bc-7e1f-40f9-be9d-a3651d24dc92</webElementGuid>
+      <webElementGuid>be8c99f6-9734-42ef-919b-81754b0f6a84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>82bac422-d686-45ab-8884-3e0b81d114b3</webElementGuid>
+      <webElementGuid>f58a9482-9e0c-4dfe-8349-3e3ab1fc7e3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P68_LOAD_NAME</value>
-      <webElementGuid>2fac78f1-567a-4704-864e-87e5cab3478b</webElementGuid>
+      <webElementGuid>3fccc456-854c-4bc2-aa3f-9533726c7459</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P68_LOAD_NAME</value>
-      <webElementGuid>6691b2d9-6ac0-42f4-9a50-ea7ea20e6540</webElementGuid>
+      <webElementGuid>d1106104-fa73-4088-88ee-6de7076d54e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text_field apex-item-text</value>
-      <webElementGuid>12b21d21-3f40-4778-8fb7-b2a51cfd0286</webElementGuid>
+      <webElementGuid>95965d6f-047d-442d-a58d-05fa6a649ec2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>size</name>
       <type>Main</type>
       <value>60</value>
-      <webElementGuid>fa6a8fe7-23e4-425b-bbe8-ebdef081201f</webElementGuid>
+      <webElementGuid>d055b66d-e72f-4c54-8ffd-f9395b893311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>500</value>
-      <webElementGuid>350f1c4a-3e8e-4d1b-a302-e19a4a29fcab</webElementGuid>
+      <webElementGuid>9c222752-2bd2-48c3-9c5d-ee87730d3b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>data-trim-spaces</name>
       <type>Main</type>
       <value>NONE</value>
-      <webElementGuid>73b70c17-6337-47df-b723-777d62826fa3</webElementGuid>
+      <webElementGuid>cf9bccd7-2bd2-4562-841b-30b27764f54e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P68_LOAD_NAME&quot;)</value>
-      <webElementGuid>4706c1d3-f962-425b-8adb-a4b02a151974</webElementGuid>
+      <webElementGuid>5e93c3c1-c615-4f46-b309-5d356c25b3e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='P68_LOAD_NAME']</value>
-      <webElementGuid>b4c50318-ee3b-48b2-9e9e-320f22ed68e2</webElementGuid>
+      <webElementGuid>140f0bb1-74a6-4cf2-8afb-95a9330793a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P68_LOAD_NAME_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>ebf0a504-9400-40d4-95bb-de34e7dee1f5</webElementGuid>
+      <webElementGuid>2dff8e10-ca39-419c-b095-875ece893c11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/input</value>
-      <webElementGuid>f1c68747-c8e4-440c-82f9-beaabf055a66</webElementGuid>
+      <webElementGuid>68dc58f4-232f-48b3-b22f-4dddbe9c2a07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'P68_LOAD_NAME' and @name = 'P68_LOAD_NAME']</value>
-      <webElementGuid>df6e1c36-57c4-482d-9889-443fd5c52b99</webElementGuid>
+      <webElementGuid>f0ce5ffc-dd93-4719-b0bd-e23d38ac527b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

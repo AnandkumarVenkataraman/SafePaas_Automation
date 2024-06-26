@@ -64,13 +64,13 @@ WebUI.click(findTestObject('Object Repository/EAM_RulesReview/RulesReview status
 WebUI.verifyElementText(findTestObject('Object Repository/EAM_RulesReview/Page_Initiate Rules Review/input_Name_P138_NAME'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EAM_RulesReview/Page_Initiate Rules Review/input_Name_P138_NAME'), 'KTLN_RulesReview_DEV22_June24_V1')
+WebUI.setText(findTestObject('Object Repository/EAM_RulesReview/Page_Initiate Rules Review/input_Name_P138_NAME'), 'KTLN_RulesReview_DEV22_June25_V1')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EAM_RulesReview/Page_Initiate Rules Review/textarea_Description_P138_DESCRIPTION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/EAM_RulesReview/Page_Initiate Rules Review/textarea_Description_P138_DESCRIPTION'), 
-    'KTLN_RulesReview_DEV22_June24_V1')
+    'KTLN_RulesReview_DEV22_June25_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EAM_RulesReview/Page_Initiate Rules Review/span_Start Date_oj-inputdatetime-calendar-i_d77116'))
 
@@ -110,7 +110,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EAM_RulesReview/RulesR
     '')
 
 WebUI.setText(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/input_Expression_p_ignore_10'), 
-    'KTLN_RulesReview_DEV22_June24_V1')
+    'KTLN_RulesReview_DEV22_June25_V1')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/button_Apply'))
 
