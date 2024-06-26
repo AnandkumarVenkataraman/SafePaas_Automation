@@ -6,15 +6,15 @@
    <elementGuidId>5bd8d641-6acc-463f-956c-0cb6b7d0444f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1400:42:7322436759183::::P42_ASSIGN_ID:33339\u0026cs=1914079C629C3B505548F8E8AEDD5004B\u0026p_dialog_cs=LplfmjeSjn76tGyWXrlcQ-Kdp-imENkww14EljCwYEaJx8Sr_GkQXGi9aX0JIs0S5FqXGblCZy-zYeo75Z2VkQ&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;Role Scope History&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#R485447514490922889&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'Detail' or . = 'Detail')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//table[@id='325069098919960516_orig']/tbody/tr[2]/td[11]/a</value>
+         <value>(//a[contains(text(),'Detail')])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a8971795-2859-4c18-8a31-fd02adf729fe</webElementGuid>
+      <webElementGuid>c486f7ab-9f17-4172-9057-4513c9f90203</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:apex.navigation.dialog('f?p=1400:42:7322436759183::::P42_ASSIGN_ID:33339\u0026cs=1914079C629C3B505548F8E8AEDD5004B\u0026p_dialog_cs=LplfmjeSjn76tGyWXrlcQ-Kdp-imENkww14EljCwYEaJx8Sr_GkQXGi9aX0JIs0S5FqXGblCZy-zYeo75Z2VkQ',{title:'Role Scope History',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R485447514490922889'));</value>
-      <webElementGuid>4f9b48c7-655e-438a-8cf0-dfae669e2ec1</webElementGuid>
+      <webElementGuid>efff734f-31bc-4b5a-9f21-a97ff30914cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Detail</value>
-      <webElementGuid>f34ada7c-673c-46ae-9e5e-34c857bd59a5</webElementGuid>
+      <webElementGuid>5fc0e2b9-bc42-4404-880c-6ab40ae77759</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;325069098919960516_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>ecc02ac0-1280-4000-9de8-d0ea683e52ba</webElementGuid>
+      <webElementGuid>a68963f5-2561-4c9d-b8cc-ef8bf7ca3775</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='325069098919960516_orig']/tbody/tr[2]/td[11]/a</value>
-      <webElementGuid>947d7dce-ef2d-4216-9089-a07d24a28104</webElementGuid>
+      <webElementGuid>686baf2f-c72b-43a1-b054-1efb2ac6c71f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Detail')])[4]</value>
-      <webElementGuid>3d80a14b-e89a-4f2d-9b7c-38b4e880adc6</webElementGuid>
+      <webElementGuid>fbc1234c-3065-4e1b-87a7-3c2634b76c13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, &quot;javascript:apex.navigation.dialog('f?p=1400:42:7322436759183::::P42_ASSIGN_ID:33339\u0026cs=1914079C629C3B505548F8E8AEDD5004B\u0026p_dialog_cs=LplfmjeSjn76tGyWXrlcQ-Kdp-imENkww14EljCwYEaJx8Sr_GkQXGi9aX0JIs0S5FqXGblCZy-zYeo75Z2VkQ',{title:'Role Scope History',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R485447514490922889'));&quot;)]</value>
-      <webElementGuid>cb05c6be-14c8-4dcf-80cc-9ee2551f0d37</webElementGuid>
+      <webElementGuid>a101e8f6-a971-4b22-92ee-f515c5cd4ec4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[11]/a</value>
-      <webElementGuid>67c1cca6-851d-4b23-955c-c1d1ff9a9039</webElementGuid>
+      <webElementGuid>d8579af3-a559-4359-a729-455a5a7e95d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1400:42:7322436759183::::P42_ASSIGN_ID:33339\u0026cs=1914079C629C3B505548F8E8AEDD5004B\u0026p_dialog_cs=LplfmjeSjn76tGyWXrlcQ-Kdp-imENkww14EljCwYEaJx8Sr_GkQXGi9aX0JIs0S5FqXGblCZy-zYeo75Z2VkQ&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;Role Scope History&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#R485447514490922889&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'Detail' or . = 'Detail')]</value>
-      <webElementGuid>a7bb88bd-eea7-46a7-9000-69c041fd7bb4</webElementGuid>
+      <webElementGuid>10ac727c-2c3d-445b-b59c-2164ab2bf6b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -4,15 +4,13 @@
    <name>input_P68_FILE_CONTENT - 144</name>
    <tag></tag>
    <elementGuidId>6039b787-f831-45bf-86f3-c02b5eb2a12c</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>#P68_FILE_CONTENT</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -20,7 +18,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div[1]/div[2]/div/div/div[2]/div/div/input</value>
+         <value>//input[@id='P68_FILE_CONTENT']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f507e2c7-0b74-4a0b-9e31-88c0e198155a</webElementGuid>
+      <webElementGuid>cc808aee-8d08-4405-ba6f-1ba77783ee4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>0d59949b-61fc-4c02-bdb8-9b69ff028e18</webElementGuid>
+      <webElementGuid>91766b33-7d13-4a5e-925f-7498e21065b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P68_FILE_CONTENT</value>
-      <webElementGuid>0e6d65b8-b35a-4010-9920-8213bae094d0</webElementGuid>
+      <webElementGuid>73752a3b-49d2-4411-b647-50ead669c577</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P68_FILE_CONTENT</value>
-      <webElementGuid>90d25ba5-a1b2-4e18-98d0-f25b02329a2f</webElementGuid>
+      <webElementGuid>9adc8173-ddce-4b4b-ac04-0b52e4d7e1d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>file apex-item-file apex-item-file--native</value>
-      <webElementGuid>89cc2db4-44b1-4c1b-ad9c-a0a5064218bc</webElementGuid>
+      <webElementGuid>e378869d-a485-4b6a-8ef0-ffc125d29c18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +69,7 @@
       <name>data-display-style</name>
       <type>Main</type>
       <value>NATIVE</value>
-      <webElementGuid>93f4efa2-29ee-4c61-ac04-a7e4a22a7048</webElementGuid>
+      <webElementGuid>dc65fe81-481c-4edf-9418-7e9300c729ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +77,7 @@
       <name>data-caption</name>
       <type>Main</type>
       <value>Choose File</value>
-      <webElementGuid>defc9518-f6c1-4ef6-ac8b-42800321d399</webElementGuid>
+      <webElementGuid>0d776c5d-f1d7-44e2-900d-be8dee5f1659</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +85,7 @@
       <name>accept</name>
       <type>Main</type>
       <value>.csv</value>
-      <webElementGuid>448320f0-1da1-4418-9432-bcf22d4bff1b</webElementGuid>
+      <webElementGuid>e6cc9f46-0efd-4d2a-b106-1ae94723e055</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +93,7 @@
       <name>size</name>
       <type>Main</type>
       <value>60</value>
-      <webElementGuid>d6f13e0a-42f4-4013-bb7e-90a0b63db26d</webElementGuid>
+      <webElementGuid>835c9f1d-c3e0-4168-8ba3-fde2c768282a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P68_FILE_CONTENT&quot;)</value>
-      <webElementGuid>ad24efa1-5c80-470d-9c95-36b301a6ef95</webElementGuid>
+      <webElementGuid>62722d7a-c08f-4f9a-a3a4-c7d2023ffbe2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='P68_FILE_CONTENT']</value>
-      <webElementGuid>9264ee52-a57d-4b37-b053-1a45f544f5ce</webElementGuid>
+      <webElementGuid>4755109c-fdea-48a0-85e9-1ff5b9d66519</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P68_FILE_CONTENT_GROUP']/input</value>
-      <webElementGuid>e718bcc3-abee-4290-bd5e-10d7ae86ebb6</webElementGuid>
+      <webElementGuid>266dc7fa-88bc-43ee-bf23-24e86a037531</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>cabe0277-a745-4cff-9fcb-32447293e563</webElementGuid>
+      <webElementGuid>2a4cdae2-b12e-48d9-8416-044951e4d970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file' and @id = 'P68_FILE_CONTENT' and @name = 'P68_FILE_CONTENT']</value>
-      <webElementGuid>dc592ce1-8847-423a-928b-e78856106f81</webElementGuid>
+      <webElementGuid>baa7f663-30cd-4344-abc4-689b04f754e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

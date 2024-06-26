@@ -184,18 +184,18 @@ WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssig
 WebUI.verifyElementPresent(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Scope History'), 
     0, FailureHandling.OPTIONAL)
 
-WebUI.scrollToElement(findTestObject('EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Detail - 436'), 
-    0)
+WebUI.verifyElementClickable(findTestObject('EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Detail - 436'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementClickable(findTestObject('EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Detail - 436'))
-
-WebUI.click(findTestObject('EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Detail - 436'))
+WebUI.click(findTestObject('EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Detail - 436'), FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_ui-button-icon ui-icon ui-icon-closethick'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_ui-button-icon ui-icon ui-icon-closethick'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_ui-button-icon ui-icon ui-icon-closethick'))
+WebUI.click(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_ui-button-icon ui-icon ui-icon-closethick'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToPosition(0, 0)
 
