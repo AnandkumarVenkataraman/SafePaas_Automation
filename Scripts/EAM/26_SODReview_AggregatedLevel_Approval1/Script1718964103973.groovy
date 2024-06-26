@@ -137,7 +137,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AggregatedLevel_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/textarea_P10_JUSTIFICATION (1) (1) (1) (1) (1)'), 
-    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_May28_V2')
+    GlobalVariable.Justification_AggregatedLevel)
 
 WebUI.takeFullPageScreenshot()
 
@@ -173,7 +173,7 @@ WebUI.verifyElementText(findTestObject('deba3/AggregatedLevel_SODReviewApproval/
     '')
 
 WebUI.setText(findTestObject('deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/input_p_ignore_10 -2'), 
-    'KTLN_SODReview_May28_V2')
+    GlobalVariable.Justification_AggregatedLevel)
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Apply - 44'))
 

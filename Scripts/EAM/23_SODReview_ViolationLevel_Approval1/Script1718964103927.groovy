@@ -73,7 +73,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/ManageReviewStat
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/input_p_ignore_10'), 
-    'KTLN_SODReview_May27_V1')
+    GlobalVariable.SODSurveyName_ViolationLevel)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 
@@ -248,7 +248,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewStatus_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/textarea_P10_JUSTIFICATION (1) (1) (1) (1) (1)'), 
-    'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_May27_V1')
+    GlobalVariable.Justification_ViolationLevel)
 
 WebUI.takeFullPageScreenshot()
 
@@ -282,7 +282,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewStatus_
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/input_p_ignore_10 (1) (1) (1)'), 
-    'KTLN_SODReview_May27_V1')
+    GlobalVariable.Justification_ViolationLevel)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/button_Apply (1) (1) (1) (1) (1)'))
 

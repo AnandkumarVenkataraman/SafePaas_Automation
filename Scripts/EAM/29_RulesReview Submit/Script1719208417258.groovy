@@ -229,7 +229,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EAM_RulesReview/RulesR
     '')
 
 WebUI.setText(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/input_Expression_p_ignore_10'), 
-    'KTLN_RulesReview_DEV22_June24_V1')
+    GlobalVariable.RulesReviewName)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/button_Apply'))
 

@@ -151,13 +151,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/input_P181_NAME'), 
-    'KTLN_SODReview_May27_V1')
+    GlobalVariable.SODSurveyName_ViolationLevel)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/textarea_P181_DESCRIPTION'), 
-    'KTLN_SODReview_May27_V1')
+    GlobalVariable.SODSurveyName_ViolationLevel)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/button_Popup Calendar Start Date'))
 
@@ -202,7 +202,7 @@ WebUI.delay(10)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.comment('SOD Review survey <KTLN_SODReview_May27_V1> at Violation-level, has been initiated successfully, and the status is Open')
+WebUI.comment('SOD Survey created')
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/button_t-Button t-Button--noUI t-Button--ic_cbe08f'), 
     FailureHandling.OPTIONAL)
@@ -255,7 +255,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/ManageReviewStat
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/input_p_ignore_10'), 
-    'KTLN_SODReview_May27_V1')
+    GlobalVariable.SODSurveyName_ViolationLevel)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Apply'))
 

@@ -30,7 +30,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/deba/TestDemo2_Logi
     0)
 
 WebUI.setText(findTestObject('Object Repository/deba/TestDemo2_Login/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
-    'KATALON_ADMIN')
+    'KTLN_eam_user1')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba/TestDemo2_Login/Page_Login/input_New_P101_PASSWORD'))
 
@@ -58,5 +58,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba/TestDemo2_Lo
 
 WebUI.click(findTestObject('Object Repository/deba/TestDemo2_Login/Page_Home/a_Manage Rules'))
 
-WebUI.closeBrowser()
+WebUI.navigateToUrl('')
+
+WebUI.selectOptionByLabel(findTestObject(null), '', false)
 
