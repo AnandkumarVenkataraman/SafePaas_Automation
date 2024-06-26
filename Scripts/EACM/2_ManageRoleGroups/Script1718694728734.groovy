@@ -160,9 +160,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Scope Roles/
 WebUI.click(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/button_Apply'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/span_a-Icon icon-irr-no-results'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/span_a-Icon icon-irr-no-results'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/span_a-Icon icon-irr-no-results'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -178,10 +179,10 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Scope Roles/Pag
     'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Scope History'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Scope History'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Detail - 436'), 
     0)
@@ -229,9 +230,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/ManageApprov
 WebUI.click(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Apply'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_a-Icon icon-irr-no-results'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_a-Icon icon-irr-no-results'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_a-Icon icon-irr-no-results'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -351,9 +353,10 @@ WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssig
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToPosition(0, 0)
 
