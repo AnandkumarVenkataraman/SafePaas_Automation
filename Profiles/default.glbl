@@ -39,4 +39,39 @@
       <initValue>'KTLN_SODTest_June26_V2'</initValue>
       <name>SOD_Testnew</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_SODReview_June26_V1</description>
+      <initValue>'KTLN_SODReview_June26_V1'</initValue>
+      <name>SODSurveyName_ViolationLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_June26_V1</description>
+      <initValue>'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_June26_V1'</initValue>
+      <name>Justification_ViolationLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_SODReview_June26_V2</description>
+      <initValue>'KTLN_SODReview_June26_V2'</initValue>
+      <name>SODSurveyName_AggregatedLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_June26_V2</description>
+      <initValue>'KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_June26_V2'</initValue>
+      <name>Justification_AggregatedLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_RulesReview_DEV22_June26_V1</description>
+      <initValue>'KTLN_RulesReview_DEV22_June26_V1'</initValue>
+      <name>RulesReviewName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Maintain Customer Master vs. Maintain Supplier Master_June26_V1</description>
+      <initValue>'Maintain Customer Master vs. Maintain Supplier Master_June26_V1'</initValue>
+      <name>AddRule_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLNAutomation_ImportFile_June26_V1</description>
+      <initValue>'KTLNAutomation_ImportFile_June26_V1'</initValue>
+      <name>ImportRule_Name</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
