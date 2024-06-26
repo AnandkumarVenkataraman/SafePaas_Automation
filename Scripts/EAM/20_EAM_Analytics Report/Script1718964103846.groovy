@@ -59,7 +59,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EAM_Analytics/
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070'), 
-    'KTLN_SODTest_Jan05_V2_All', true, FailureHandling.OPTIONAL)
+    GlobalVariable.SOD_Testnew, true, FailureHandling.OPTIONAL)
 
 WebUI.delay(5)
 
@@ -141,7 +141,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EAM_Analytics/
 WebUI.verifyElementText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), 'KTLN_SODTest_Jan05_V2_All')
+WebUI.setText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), GlobalVariable.SOD_Testnew)
 
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_Scheduled Downloads/button_Apply_1101'))
 
@@ -191,7 +191,7 @@ WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violatio
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1103'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1103'), 
-    'KTLN_SODTest_Jan05_V2_All', true, FailureHandling.OPTIONAL)
+    GlobalVariable.SOD_Testnew, true, FailureHandling.OPTIONAL)
 
 WebUI.delay(5)
 
@@ -268,7 +268,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EAM_Analytics/
 WebUI.verifyElementText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), 'KTLN_SODTest_Jan05_V2_All')
+WebUI.setText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), GlobalVariable.SOD_Testnew)
 
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_Scheduled Downloads/button_Apply_1101'))
 
@@ -318,7 +318,7 @@ WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violatio
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1106'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1106'), 
-    'KTLN_SODTest_Jan05_V2_All', true, FailureHandling.OPTIONAL)
+    GlobalVariable.SOD_Testnew, true, FailureHandling.OPTIONAL)
 
 WebUI.delay(5)
 
@@ -393,7 +393,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba4/EAM_Analytics/
 WebUI.verifyElementText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), 'KTLN_SODTest_Jan05_V2_All')
+WebUI.setText(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/input_p_ignore_10 (1)'), GlobalVariable.SOD_Testnew)
 
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_Scheduled Downloads/button_Apply_1101'))
 

@@ -98,7 +98,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'AllUsersViolation_May27_V1')
+    GlobalVariable.Justification_AllUsersViolation)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -236,7 +236,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'AllUsersViolation_May27_V1')
+    GlobalVariable.Justification_AllUsersViolation)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 

@@ -80,7 +80,7 @@ WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/P
     '')
 
 WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_May27_V1')
+    GlobalVariable.SOD_Test)
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -176,7 +176,7 @@ WebUI.comment('click on submit button')
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), 'JustificationRole_May27_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), GlobalVariable.Justification_Role_Local)
 
 WebUI.comment('provide a unique Justification name')
 

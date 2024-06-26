@@ -188,7 +188,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/input_Expression_p_ignore_10'), 
-    'JustificationRole_May27_V1')
+    GlobalVariable.Justification_Role_Local)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 

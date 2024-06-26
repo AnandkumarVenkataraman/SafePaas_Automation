@@ -15,7 +15,7 @@
       <guid>2c15e73d-1609-4e06-b2fd-ea78444f01e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/12_EAM_Analytics_After SODTest</testCaseId>
+      <testCaseId>Test Cases/Login and ManageRulesTag/12_EAM_Analytics_After SODTest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

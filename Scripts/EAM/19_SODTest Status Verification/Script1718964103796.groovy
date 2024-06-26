@@ -85,7 +85,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODTestVeri
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/input_p_ignore_10'), 'KTLN_SODTest_May17_V1')
+WebUI.setText(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/input_p_ignore_10'), GlobalVariable.SOD_Testnew)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/button_Apply'))
 

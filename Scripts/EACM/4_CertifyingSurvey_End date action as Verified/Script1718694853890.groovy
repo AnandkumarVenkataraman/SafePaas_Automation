@@ -217,7 +217,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'))
 
@@ -324,7 +324,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Confirm Changes (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 

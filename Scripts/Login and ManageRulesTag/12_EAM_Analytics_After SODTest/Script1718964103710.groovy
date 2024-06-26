@@ -64,7 +64,7 @@ WebUI.delay(3)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EAM_Analytics_Remediations/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__877ce1 (1) (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EAM_Analytics_Remediations/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__877ce1 (1) (1)'), 
-    'KTLN_SODTest_Apr13_V1', true, FailureHandling.OPTIONAL)
+    GlobalVariable.SOD_Test, true, FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 

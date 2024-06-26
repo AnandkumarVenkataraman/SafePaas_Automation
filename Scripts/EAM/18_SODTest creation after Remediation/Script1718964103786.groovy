@@ -66,11 +66,9 @@ WebUI.click(findTestObject('Object Repository/deba1/Page_Manage SOD Test/button_
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_AddEdit Test/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
-WebUI.setText(findTestObject('Object Repository/deba1/Page_AddEdit Test/input_Name_P35_REQUEST_NAME'), findTestData('login SOD TEST data').getValue(
-        'SOD test name', 1))
+WebUI.setText(findTestObject('Object Repository/deba1/Page_AddEdit Test/input_Name_P35_REQUEST_NAME'), GlobalVariable.SOD_Testnew)
 
-WebUI.setText(findTestObject('deba1/Page_AddEdit Test/input_Description_P35_REQUEST_DESCRIPTION - Copy'), findTestData('login SOD TEST data').getValue(
-        'SOD test name', 1))
+WebUI.setText(findTestObject('deba1/Page_AddEdit Test/input_Description_P35_REQUEST_DESCRIPTION - Copy'), GlobalVariable.SOD_Testnew)
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/Page_AddEdit Test/select_Select any OneSOD PreventiveSOD Dete_369111'), 
     'Select any One', true)

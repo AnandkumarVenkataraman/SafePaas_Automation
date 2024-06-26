@@ -163,7 +163,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageRemediat
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1) - 9abc'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1) - 9abc'), 
-    'KTLN_SODTest_May27_V1', true)
+    GlobalVariable.SOD_Test, true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Remediate Issues/button_Go'))
 
@@ -254,7 +254,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
-    'AllUsersViolation_May27_V1')
+    GlobalVariable.Justification_AllUsersViolation)
 
 WebUI.delay(3)
 

@@ -63,7 +63,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/FilterFalsePosit
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
-    'KTLN_SODTest_May27_V1')
+    GlobalVariable.SOD_Test)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
@@ -136,7 +136,7 @@ WebUI.delay(3)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), 'JustificationPrivilege_May30_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/Page_Add Exception/input_P64_JUSTIFICATION (2)'), GlobalVariable.Justification_Privilege_Global)
 
 WebUI.takeFullPageScreenshot()
 
@@ -178,7 +178,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/input_Expression_p_ignore_10'), 
-    'JustificationPrivilege_May30_V1')
+    GlobalVariable.Justification_Privilege_Global)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
@@ -331,7 +331,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/input_Expression_p_ignore_10'), 
-    'JustificationPrivilege_May30_V1')
+    GlobalVariable.Justification_Privilege_Global)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 

@@ -98,7 +98,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'AllUsersRoleViolation_May27_V1')
+    GlobalVariable.Justification_AllUsersRoleViolation)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -189,12 +189,6 @@ WebUI.verifyElementClickable(findTestObject('deba1/All User Roles Violation/Page
 
 WebUI.click(findTestObject('deba1/All User Roles Violation/Page_Home/a_Logout 788'))
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
-
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Login/input_P101_COMPANY (1) (1) (1) (1)'))
-
 WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Login/input_P101_COMPANY (1) (1) (1) (1)'), 
     'KAT')
 
@@ -272,7 +266,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'AllUsersRoleViolation_May27_V1')
+    GlobalVariable.Justification_AllUsersRoleViolation)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
