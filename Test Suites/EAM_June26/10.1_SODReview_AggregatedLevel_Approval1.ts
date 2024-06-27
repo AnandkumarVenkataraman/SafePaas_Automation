@@ -7,7 +7,7 @@
    <mailRecipient></mailRecipient>
    <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
-   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <pageLoadTimeoutDefault>false</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ee005cca-7ab0-4637-8ada-0ec590edd80a</testSuiteGuid>
