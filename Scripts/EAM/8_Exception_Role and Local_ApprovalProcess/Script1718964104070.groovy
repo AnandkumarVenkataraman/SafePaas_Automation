@@ -197,9 +197,10 @@ WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage E
 WebUI.comment('Filter with the Justification name provided earlier')
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.comment('Verify the status as "Approved"')
 

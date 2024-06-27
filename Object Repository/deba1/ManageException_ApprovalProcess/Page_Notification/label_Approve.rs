@@ -6,12 +6,12 @@
    <elementGuidId>b8c8f3a7-6e39-420a-9b44-462f371fcd27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='P3_RESULT']/div/div/div/label</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>label.u-radio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Approve' or . = 'Approve')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>e8afccbd-2771-4a10-83d9-8aa506b0920e</webElementGuid>
+      <webElementGuid>9a0c12d7-7578-4446-bf73-a2c3b150c2d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>35d00c71-4ae8-46a0-9562-4f4c9c2d334a</webElementGuid>
+      <webElementGuid>5e6d4730-25b4-4802-b321-50b03068c1c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P3_RESULT_0</value>
-      <webElementGuid>17beb9a6-d99a-40ca-9722-833cad61bfc0</webElementGuid>
+      <webElementGuid>70552c57-58be-47c2-b625-77cc68c20460</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Approve</value>
-      <webElementGuid>b282bb91-31c7-4bdf-9cbb-da7380ec2914</webElementGuid>
+      <webElementGuid>c498b09f-a86d-404d-bf4f-23b7480a7c72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P3_RESULT&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>76ee3de4-19a0-4300-9378-1fe53c9b211b</webElementGuid>
+      <webElementGuid>8d82dc71-ae84-4e49-9d84-34db81b5fce8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P3_RESULT']/div/div/div/label</value>
-      <webElementGuid>67d8628d-bcd5-431f-90d7-a3ce15681f1b</webElementGuid>
+      <webElementGuid>44b997f8-2ddc-46c6-a54b-7ca87be19089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div/div/div/div/label</value>
-      <webElementGuid>1570e08f-6957-45a9-b7d0-4c5c13dc41e2</webElementGuid>
+      <webElementGuid>4b52b5c6-3459-45e1-99da-8ea241464cd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Approve' or . = 'Approve')]</value>
-      <webElementGuid>e65ef0cc-1edd-4b3d-ba23-70e7f08a0308</webElementGuid>
+      <webElementGuid>1f959e68-5334-4294-bd30-791cbf3a16ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

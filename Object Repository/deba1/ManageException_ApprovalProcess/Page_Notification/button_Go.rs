@@ -6,12 +6,12 @@
    <elementGuidId>e416e0d9-8362-466e-bca2-23baec1d1e9c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='P3_RESULT_ACTION']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#P3_RESULT_ACTION</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'P3_RESULT_ACTION' and (text() = 'Go' or . = 'Go')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eae93b06-baba-4487-ba26-dfbf63c42a58</webElementGuid>
+      <webElementGuid>fbf9793e-9b0e-488c-bcb4-59746a3028bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'ResultAction',validate:true});</value>
-      <webElementGuid>121ec0b9-3093-40a1-8770-bbec99258de1</webElementGuid>
+      <webElementGuid>3fc1f4c8-e2e6-4d5d-926a-ebbb84c52114</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button /i/go.gif</value>
-      <webElementGuid>d92d4c82-7c69-426b-9938-6e418998653a</webElementGuid>
+      <webElementGuid>ba5bf161-dfcd-4094-9603-6c2b4eefd2af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>28d5cb6f-5018-48a7-a9dc-f8a60262318d</webElementGuid>
+      <webElementGuid>477138e4-62cb-46c0-839e-5f95464ed03a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P3_RESULT_ACTION</value>
-      <webElementGuid>ff6f1fa2-97fe-49b0-b7f1-f43ec342ba0f</webElementGuid>
+      <webElementGuid>f51343ff-e459-44ad-8e81-be1cf8ae8891</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go</value>
-      <webElementGuid>a7bd64b3-2f7c-44f8-bfff-7c9d48359051</webElementGuid>
+      <webElementGuid>ecdd10f9-65e1-448f-86d9-d1bd9a92a4ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P3_RESULT_ACTION&quot;)</value>
-      <webElementGuid>c68dd6a0-6df7-43a3-bb65-732b967e971f</webElementGuid>
+      <webElementGuid>c5a01c4b-4e43-43ce-bd93-9fd1cc85bf4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='P3_RESULT_ACTION']</value>
-      <webElementGuid>56fcc9a9-1121-4e53-a20e-51c860ccfd5d</webElementGuid>
+      <webElementGuid>3b315493-799e-48cd-aff1-e03fd276bae0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R25800045638773306']/div[2]/div[2]/div/div[2]/div[2]/button</value>
-      <webElementGuid>8b414bb4-a3b1-4e0d-9a53-8a875eb6560e</webElementGuid>
+      <webElementGuid>aeb9a84e-9996-4e6f-923c-3d701b7b73f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>28e150fd-f67a-487b-a1d3-fd9bf9e281f8</webElementGuid>
+      <webElementGuid>da856a61-5fc4-4111-844a-80c8de481fd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'P3_RESULT_ACTION' and (text() = 'Go' or . = 'Go')]</value>
-      <webElementGuid>a94f759e-2dc8-4b16-9936-9d8f65c64a6d</webElementGuid>
+      <webElementGuid>31fafc75-7a9b-410b-b872-a59051c179d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
