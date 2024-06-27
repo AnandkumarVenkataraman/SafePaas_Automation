@@ -74,17 +74,19 @@ WebUI.comment('select the environment as "KTLN_CloudERP"')
 
 WebUI.delay(10)
 
-WebUI.verifyElementClickable(findTestObject('deba3/Sample1/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 801'))
+WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
 
-WebUI.click(findTestObject('deba3/Sample1/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 801'))
+WebUI.click(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
 
-WebUI.verifyElementText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), 
+WebUI.verifyElementText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
     '')
 
-WebUI.setText(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), GlobalVariable.SOD_Test)
+WebUI.setText(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
+    GlobalVariable.SOD_Test)
 
-WebUI.sendKeys(findTestObject('deba3/Sample1/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 802'), Keys.chord(
-        Keys.ENTER))
+WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
+
+WebUI.click(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
 WebUI.comment('select the latest SOD test name')
 
