@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>23_EACM Survey_Reassignment</name>
+   <name>SODReviewSetup_ManageApprovalAssignments</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3599906d-7327-40ec-9420-65b8b877c220</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f530b035-0fea-4d8d-8b8e-54ae4c001fff</testSuiteGuid>
    <testCaseLink>
-      <guid>b6078362-4fab-4ace-9ce3-0691ae005e7d</guid>
+      <guid>f5506151-8168-4303-a28d-df75dc47afba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login and ManageRulesTag/EACM Survey_Reassignment_SailPointEnv</testCaseId>
+      <testCaseId>Test Cases/EAM/21_SODReviewSetup_ManageApprovalAssignments</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

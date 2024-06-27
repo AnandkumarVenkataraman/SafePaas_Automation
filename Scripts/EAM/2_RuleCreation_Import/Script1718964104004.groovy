@@ -24,6 +24,10 @@ println('Project Directory: ' + dirName)
 
 File file = new File(dirName + '/EAM_Rules_Template.csv')
 
+String uploadfile = file
+
+println(uploadfile)
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
@@ -562,7 +566,7 @@ WebUI.comment('Provide the load name')
 WebUI.verifyElementPresent(findTestObject('deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), 0, 
     FailureHandling.OPTIONAL)
 
-WebUI.uploadFile(findTestObject('deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), file)
+WebUI.uploadFile(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), uploadfile)
 
 WebUI.comment('Choose the .csv file')
 

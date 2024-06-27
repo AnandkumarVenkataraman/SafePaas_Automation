@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>23_EACM Survey_Reassignment</name>
+   <name>Remediations_AllUsersViolation</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,13 +9,13 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3599906d-7327-40ec-9420-65b8b877c220</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7fe403f4-1929-4fab-ac9e-f8ef62a5b385</testSuiteGuid>
    <testCaseLink>
-      <guid>b6078362-4fab-4ace-9ce3-0691ae005e7d</guid>
+      <guid>72cc5349-8958-4f28-81ac-bc1cfb42eb53</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login and ManageRulesTag/EACM Survey_Reassignment_SailPointEnv</testCaseId>
+      <testCaseId>Test Cases/EAM/12_Remediations_AllUsersViolation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

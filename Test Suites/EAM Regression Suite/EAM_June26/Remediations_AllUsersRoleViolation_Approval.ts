@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>23_EACM Survey_Reassignment</name>
+   <name>Remediations_AllUsersRoleViolation_Approval</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3599906d-7327-40ec-9420-65b8b877c220</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a9817427-a72c-4796-9902-c7f7004a6fd4</testSuiteGuid>
    <testCaseLink>
-      <guid>b6078362-4fab-4ace-9ce3-0691ae005e7d</guid>
+      <guid>63f7cfec-f399-4de3-a2ef-3932e61c3dcc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login and ManageRulesTag/EACM Survey_Reassignment_SailPointEnv</testCaseId>
+      <testCaseId>Test Cases/EAM/17_Remediations_AllUsersRoleViolation_ApprovalProcess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>23_EACM Survey_Reassignment</name>
+   <name>EAM_ManageRuleCreation_Import</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,13 +9,19 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3599906d-7327-40ec-9420-65b8b877c220</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>0465e2ec-9d57-4e10-9dd7-29e4c59d72c5</testSuiteGuid>
    <testCaseLink>
-      <guid>b6078362-4fab-4ace-9ce3-0691ae005e7d</guid>
+      <guid>35fd5460-9c2d-42d9-95ec-299582162a1d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login and ManageRulesTag/EACM Survey_Reassignment_SailPointEnv</testCaseId>
+      <testCaseId>Test Cases/EAM/2_RuleCreation_Import</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7df8a602-dc9b-4a09-bf2a-d3693b9a66cd</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
