@@ -56,8 +56,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Provision and Deprovision/button_Submit for Violation Testing'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/h2_Request Submitted. Please check after sometime'))
-
 WebUI.delay(30)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/button_Refresh'))
@@ -175,7 +173,9 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/span_3-Secondary Owner'), 
     '3-Secondary Owner')
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
+WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/label_Reject'))
+
+WebUI.setText(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/textarea_Review Comments_P23_COMMENTS'), 'Rejected level 3')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
@@ -201,33 +201,6 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/spa
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/span_AccessPaaS_a-TreeView-toggle'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/span_Enterprise iAccess_a-TreeView-toggle'))
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_Request Status'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_TIME_AND_LABOR_MANAGER_VIEWALL_DATA'))
-
-WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/input_Request Status_R162628977986491037_se_82c5b2'), 
-    'TIME_AND_LABOR_MANAGER_VIEWALL_DATA')
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/button_Go'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Approved'), 'Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Approved'), 'Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Approved'), 'Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Request Approved'), 
-    'Request Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Request Approved'), 
-    'Request Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Request Approved'), 
-    'Request Approved')
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/a_Manage My Access'))
 

@@ -24,13 +24,13 @@ WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101')
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_Spring 2024_P101_COMPANY'), 'KAT')
 
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
-    'MOHIT.KUMAR')
+    'AKASH.KUMAR GANDHI')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'p0vweySa4WuhozMDvWqb8g==')
+WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'v4fgChZp7W5aoApx6i0GyA==')
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/button_Login'))
+WebUI.sendKeys(findTestObject('EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/span_Help_a-TreeView-toggle'))
+WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Home/span_Help_a-TreeView-toggle_1'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/span_AccessPaaS_a-TreeView-toggle'))
 
@@ -133,24 +133,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A new access request for user Mohit.Kumar_20b055'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/span_2-Primary Owner'), 
-    '2-Primary Owner')
+WebUI.verifyElementText(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/span_2-Primary Owner'), '2-Primary Owner')
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
+WebUI.verifyElementText(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/span_Status'), 'Auto Approved')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_User Access Request Review Success_t_e28262'))
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_katalon_admin'))
+WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Home/button_katalon_admin'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_Logout'))
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/div_Spring 2024_t-Form-inputContainer col col-null'))
-
-WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_Spring 2024_P101_COMPANY'), 'KAT')
 
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
     'MARIAB1')
@@ -202,34 +191,10 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/spa
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/span_Enterprise iAccess_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_Request Status'))
+WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/a_Manage My Access'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
     'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_TIME_AND_LABOR_MANAGER_VIEWALL_DATA'))
-
-WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/input_Request Status_R162628977986491037_se_82c5b2'), 
-    'TIME_AND_LABOR_MANAGER_VIEWALL_DATA')
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/button_Go'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Approved'), 'Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Approved'), 'Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Approved'), 'Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Request Approved'), 
-    'Request Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Request Approved'), 
-    'Request Approved')
-
-WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_Request Approved'), 
-    'Request Approved')
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/a_Manage My Access'))
 
 WebUI.closeBrowser()
 

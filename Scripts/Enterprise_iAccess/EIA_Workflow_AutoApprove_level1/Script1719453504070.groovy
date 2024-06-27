@@ -19,18 +19,20 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
+WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_Spring 2024_P101_COMPANY'), 'KAT')
 
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
-    'MOHIT.KUMAR')
+    'AKASH.KUMAR GANDHI')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'p0vweySa4WuhozMDvWqb8g==')
+WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'v4fgChZp7W5aoApx6i0GyA==')
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/button_Login'))
+WebUI.sendKeys(findTestObject('EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/span_Help_a-TreeView-toggle'))
+WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Home/span_Help_a-TreeView-toggle_1'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/span_AccessPaaS_a-TreeView-toggle'))
 
@@ -99,13 +101,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/span_1-Manager'), 
     '1-Manager')
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
-
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_User Access Request Review Success_t_e28262'))
+WebUI.verifyElementText(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/span_Status'), 'Auto Approved')
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_mc28967'))
 

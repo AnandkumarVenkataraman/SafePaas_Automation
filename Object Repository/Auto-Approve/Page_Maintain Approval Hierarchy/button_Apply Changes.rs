@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Submit</name>
+   <name>button_Apply Changes</name>
    <tag></tag>
-   <elementGuidId>a5f11ffe-b78f-4490-beed-43efc74de88f</elementGuidId>
+   <elementGuidId>c838b660-4f03-4a1f-8814-d06f35fced8d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#B202484541179679812</value>
+         <value>#B161102645408681364</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'B202484541179679812' and (text() = 'Submit' or . = 'Submit')]</value>
+         <value>//button[@type = 'button' and @id = 'B161102645408681364' and (text() = 'Apply Changes' or . = 'Apply Changes')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3b5c663d-6381-4b1b-a33b-71b517b61a24</webElementGuid>
+      <webElementGuid>ff7e1840-19c2-40d4-9057-6596350dd871</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>apex.submit({request:'SUBMIT'});</value>
-      <webElementGuid>9248a637-7a43-442a-94ac-31db07e77447</webElementGuid>
+      <value>apex.submit({request:'SAVE',validate:true});</value>
+      <webElementGuid>b2aefdd9-e70f-489f-9749-2154454eca17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button </value>
-      <webElementGuid>71f4392b-f3ac-45e9-8498-05a76e5d6a37</webElementGuid>
+      <value>t-Button t-Button--hot </value>
+      <webElementGuid>718669e0-f750-4ca4-b37a-fc8d45ab31a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,86 +46,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>572f5591-6641-4853-ad0e-207d38e74349</webElementGuid>
+      <webElementGuid>1766a157-0931-42bb-a4b4-4424dd72bd29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>B202484541179679812</value>
-      <webElementGuid>fdab0f46-a6b1-482d-9dab-52f3b481f05f</webElementGuid>
+      <value>B161102645408681364</value>
+      <webElementGuid>abc74b28-cf1a-491a-9771-5af275e66ac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Submit</value>
-      <webElementGuid>363664a1-aa7c-4778-a061-c31d58fcd974</webElementGuid>
+      <value>Apply Changes</value>
+      <webElementGuid>06cff9d5-40b8-4f42-876e-6b4650ee0648</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B202484541179679812&quot;)</value>
-      <webElementGuid>cbae1a68-3828-457a-a785-51d88ea33660</webElementGuid>
+      <value>id(&quot;B161102645408681364&quot;)</value>
+      <webElementGuid>f0377aba-7d61-4e21-9a7c-e07b62a5c944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Auto-Approve/Page_Maintain Approval Hierarchy/iframe</value>
+      <webElementGuid>7aa11baf-d202-4a04-b144-22ac0120be77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'B202484541179679812' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>e8428d6f-38c0-4da2-8aaa-2cad41e3800d</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'B161102645408681364' and (text() = 'Apply Changes' or . = 'Apply Changes')]</value>
+      <webElementGuid>638b13b3-a19b-4f9f-83f1-f198d2e4c16d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='B202484541179679812']</value>
-      <webElementGuid>6bada67d-4a36-48ae-a49c-aebb270c562e</webElementGuid>
+      <value>//button[@id='B161102645408681364']</value>
+      <webElementGuid>abf36131-dd89-4e97-839d-d6295902af5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access Request Approval'])[1]/following::button[1]</value>
-      <webElementGuid>79877a23-1480-4f70-b539-eaa50e19faea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::button[1]</value>
+      <webElementGuid>166396dc-e9cc-4ac7-8f8e-34eb0501229c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::button[1]</value>
-      <webElementGuid>9460ea9e-e4a0-4cc4-9b6b-85b2587b069b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
+      <webElementGuid>d6aaf886-6fd3-40f1-8c1d-fffff8171ee6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Level'])[1]/preceding::button[1]</value>
-      <webElementGuid>b4fb1a4f-2c74-4c1a-ac40-dbeff38d3895</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'B161102645408681364', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>c0347ff8-3322-428e-bd90-3bb180582761</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>c1eb9b5c-530c-4cf1-acf1-c42dfedfcc62</webElementGuid>
+      <value>//button[3]</value>
+      <webElementGuid>d4062a6d-ea66-4dde-9600-dab3977ced4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='R202414584864931034']/div/div[2]/button</value>
-      <webElementGuid>3f438d55-f9f0-4d81-a2fc-41f58e56ad74</webElementGuid>
+      <value>//div[@id='R161102806396681364']/div/div[3]/div/button[3]</value>
+      <webElementGuid>7855c9c5-7a29-477c-8bb7-644c5a420554</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

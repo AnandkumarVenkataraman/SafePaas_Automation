@@ -377,7 +377,7 @@ WebUI.comment('Click on the Add Rule')
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), 'Maintain Customer Master vs. Maintain Supplier Master_June22_V1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/input_P10_NAME (1) (1) (1)'), GlobalVariable.AddRule_Name)
 
 WebUI.comment('Enter the name of the rule')
 
@@ -385,7 +385,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageActivity/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageActivity/Page_Add Rule/textarea_P10_DESCRIPTION (1) (1) (1)'), 
-    'Maintain Customer Master vs. Maintain Supplier Master_June22_V1')
+    GlobalVariable.AddRule_Name)
 
 WebUI.comment('Enter the Description for the Rule')
 
