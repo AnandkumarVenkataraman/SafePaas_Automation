@@ -26,13 +26,13 @@ WebUI.maximizeWindow()
 WebUI.setText(findTestObject('Object Repository/EAM_RulesReview/Status/Page_Login/input_Spring 2024_P101_COMPANY'), 'KAT')
 
 WebUI.setText(findTestObject('Object Repository/EAM_RulesReview/Status/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
-    'KATALON_ADMIN')
+    'KTLN_EAM_USER1')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/EAM_RulesReview/Status/Page_Login/input_New_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
 WebUI.click(findTestObject('Object Repository/EAM_RulesReview/Status/Page_Login/button_Login'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_entrypoint?URLC=5EA383C5233CA2D3C652896138045DEE&P_SURVEY=RR')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_entrypoint?URLC=CC7B809A1A88D6F1A084B7DBEFADE021&P_SURVEY=RR')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EAM_RulesReview/RuleReview_Submit/Page_Review Rules/a_Maintain Customer Master vs. Maintain Sup_8e16f4'))
 
