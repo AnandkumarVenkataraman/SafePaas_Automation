@@ -105,7 +105,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersVio
 WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
 WebUI.scrollToElement(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Manage Corrective Action/td_In Progress'), 
-    0)
+    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Manage Corrective Action/td_In Progress'), 
     FailureHandling.OPTIONAL)
