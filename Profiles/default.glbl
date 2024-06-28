@@ -60,8 +60,8 @@
       <name>Justification_AggregatedLevel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_RulesReview_DEV22_June26_V1</description>
-      <initValue>'KTLN_RulesReview_DEV22_June26_V1'</initValue>
+      <description>KTLN_RulesReview_DEV22_June26_V2</description>
+      <initValue>'KTLN_RulesReview_DEV22_June26_V2'</initValue>
       <name>RulesReviewName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
