@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Manage Payables Activities vs. Approv_95a034</name>
+   <tag></tag>
+   <elementGuidId>1e222993-a340-476c-befa-2c77140b3484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'The Manage Payables Activities vs. Approve Payables Activities Rule has been sent for your approval - Owner' or . = 'The Manage Payables Activities vs. Approve Payables Activities Rule has been sent for your approval - Owner')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d91ef30-5624-4e14-a5bc-06befd28b243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:3:1874164744563:::3:P3_NID:78306</value>
+      <webElementGuid>c22dd89d-46fe-4438-a4a3-45a8aad34de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Manage Payables Activities vs. Approve Payables Activities Rule has been sent for your approval - Owner</value>
+      <webElementGuid>376f1d50-41b9-461a-b9be-6bd6a46a3020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>4489cb3b-4a34-430b-8c3b-f53dd28ef1f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'The Manage Payables Activities vs. Approve Payables Activities Rule has been sent for your approval - Owner' or . = 'The Manage Payables Activities vs. Approve Payables Activities Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>4c141562-ec82-4483-90ea-d013cac06fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Manage Payables Activities vs. Approve Payables Activities Rule has been sent for your approval - Owner')]</value>
+      <webElementGuid>b049d9e8-3887-4fa9-82a1-75e9908d9af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R-18996-6719'])[1]/following::a[1]</value>
+      <webElementGuid>8c69e05c-2b8e-4942-932b-3bc04d784a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD Actions Approval'])[1]/following::a[1]</value>
+      <webElementGuid>ad1918c7-32c8-4c37-9a3e-f53c1b65a153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d814ede-9702-44b9-b781-f045e1568da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[2]/preceding::a[1]</value>
+      <webElementGuid>ae1f69ed-4cc5-45c8-9197-259668a0eb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Manage Payables Activities vs. Approve Payables Activities Rule has been sent for your approval - Owner']/parent::*</value>
+      <webElementGuid>80d6d35a-ed01-4bb1-b297-3112cb3a55d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:3:1874164744563:::3:P3_NID:78306')]</value>
+      <webElementGuid>e3bc746c-446d-4b1d-bdd2-dc381c8b39e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>832210b2-c85f-4e1d-b893-e66614052205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>585d914d-9808-4d59-a9c5-2ef2022dcc66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
