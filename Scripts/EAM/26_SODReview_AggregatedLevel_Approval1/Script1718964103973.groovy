@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/AggregatedLevel_S
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD79F02766FE9744A3FB025B1D21C5A0E0')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODD5B2348A042415065280478A0646A7C1')
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Actions - 40'))
 

@@ -87,7 +87,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/button_Cancel'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD9918DA842E59C6718EA77AEFF6B159FC')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODA714DC1608A44040363EE77B884E45F1')
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Actions - 40'))
 
