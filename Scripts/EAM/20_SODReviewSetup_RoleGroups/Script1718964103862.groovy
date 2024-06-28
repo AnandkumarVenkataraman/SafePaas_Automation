@@ -99,25 +99,17 @@ WebUI.delay(2)
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle - 001 - Copy'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle - 001 - Copy'))
+WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle'))
 
-WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle - 001'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.click(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle - 001'))
+WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle_1 - 002'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/a_Manage Approval Assignments_1'))
 
-WebUI.click(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle_1 - 002'))
-
-WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle_1 - 002'))
-
-WebUI.click(findTestObject('deba1/Rough/Page_Home/span_a-TreeView-toggle_1 - 002'))
-
-WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/a_Manage Approval Assignments - 7867'))
-
-WebUI.click(findTestObject('deba1/Rough/Page_Home/a_Manage Approval Assignments - 7867'))
+WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/a_Manage Approval Assignments_1'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/RoleGroups/Page_Manage Approval Assignments/select_Select any oneCERP_1CloudERPEBizApp__c5e50a'), 
     FailureHandling.OPTIONAL)
