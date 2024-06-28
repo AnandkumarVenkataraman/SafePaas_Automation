@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R163105974055422926_col_values_drop']/a</value>
+         <value>(//a[contains(text(),'The Manage Payables Activities')</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d431f8c5-0d3e-481b-9d9e-6b37ced9bf8b</webElementGuid>
+      <webElementGuid>509dddac-d8b7-4f39-a24c-dc455350b2ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>e1380f70-10d3-4e49-8d74-19be52b98a2f</webElementGuid>
+      <webElementGuid>f15710b7-b253-45d5-86c9-3929455266f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>4ef6c5d5-bac3-4f85-ba2f-1f1104532543</webElementGuid>
+      <webElementGuid>e2136017-6be2-49ed-adbc-ca0e965b5e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>The Create Purchase Agreements vs. Manage Payables Activities has been sent for your approval - Owner</value>
-      <webElementGuid>7bd66d6d-c539-44b6-826c-444790d7ba35</webElementGuid>
+      <webElementGuid>6a4f3f32-47e5-4f07-9fa4-89a1f3bea5a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The Create Purchase Agreements vs. Manage Payables Activities has been sent for your approval - Owner</value>
-      <webElementGuid>fd5b5759-49c9-46a8-a650-85f3b6e524ce</webElementGuid>
+      <webElementGuid>6524fd65-c650-4504-a70b-ac9fa6036e12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R163105974055422926_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>a90d3bdc-aaa3-49e9-a3bc-4c47e40f2bba</webElementGuid>
+      <webElementGuid>a3a3d0e7-9eaa-469e-8d7d-497081931039</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R163105974055422926_col_values_drop']/a</value>
-      <webElementGuid>a82cf1cc-995f-4486-9fb9-926a3f7ca78e</webElementGuid>
+      <webElementGuid>19e4f7c6-0db3-4a5a-891c-4d5d21fb1c84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'The Create Purchase Agreements vs. Manage Payables Activities has been sent for your approval - Owner')])[2]</value>
-      <webElementGuid>10dd69b0-35ca-48ad-86ae-679a28b28717</webElementGuid>
+      <webElementGuid>ac5da92d-4ec0-4ccd-aae1-ac3ed5b8b37a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[98]</value>
-      <webElementGuid>57627ef7-b490-42bc-8c8b-5ebf52917527</webElementGuid>
+      <webElementGuid>dee43747-f743-4f59-aa4d-f52136e0d596</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html/div/a</value>
-      <webElementGuid>30787e88-35d6-4452-a315-1192d1698a9b</webElementGuid>
+      <webElementGuid>be0a04ad-d1c1-46c5-93a4-dc834f0865e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'The Create Purchase Agreements vs. Manage Payables Activities has been sent for your approval - Owner' or . = 'The Create Purchase Agreements vs. Manage Payables Activities has been sent for your approval - Owner')]</value>
-      <webElementGuid>a1b499df-b9e6-4038-98e1-0639232f5b07</webElementGuid>
+      <webElementGuid>bc2d5f36-74f1-4a79-a981-5fe1e9879b9d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

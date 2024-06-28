@@ -6,12 +6,12 @@
    <elementGuidId>f51fc12d-b256-4931-8eb5-137f4ce76cba</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h2[(text() = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler' or . = 'Certification job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the job.You can check the status of the job FSOD_INITIATE_UAC_15947 at Administration -> Platform -> Scheduler')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h2.t-Alert-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

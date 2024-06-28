@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='R158203823986183430_7']</value>
+         <value>//a[contains(text(),'Created by')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

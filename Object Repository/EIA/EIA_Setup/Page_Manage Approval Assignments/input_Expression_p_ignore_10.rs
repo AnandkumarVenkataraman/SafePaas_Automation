@@ -6,16 +6,16 @@
    <elementGuidId>78eac1a4-64db-46c2-bb27-80bc9e20238f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;R160504369387363436_expression&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#R321655022960176419_expression</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>id(&quot;R321655022960176419_expression&quot;)[count(. | //*[@id = 'R321655022960176419_expression' and @type = 'text' and @name = 'p_ignore_10']) = count(//*[@id = 'R321655022960176419_expression' and @type = 'text' and @name = 'p_ignore_10'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

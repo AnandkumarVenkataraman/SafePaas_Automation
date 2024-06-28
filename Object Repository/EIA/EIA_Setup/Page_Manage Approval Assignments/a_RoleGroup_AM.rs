@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='161276607389214046_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[contains(text(),'RoleGroup_AM')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

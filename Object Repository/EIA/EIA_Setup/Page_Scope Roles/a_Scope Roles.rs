@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R400294451520350906']/div/div/ul/li[4]/a</value>
+         <value>//a[contains(text(),'Scope Roles')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

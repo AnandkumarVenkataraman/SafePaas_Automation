@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[(text() = 'KTLN_RulesReview_DEV22_Jun21_v1' or . = 'KTLN_RulesReview_DEV22_Jun21_v1')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated Date'])[1]/following::a[8]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
