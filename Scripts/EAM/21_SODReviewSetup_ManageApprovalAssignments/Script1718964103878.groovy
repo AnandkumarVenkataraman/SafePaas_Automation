@@ -23,37 +23,25 @@ WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Login/input_P101_COMPANY'), 'KAT')
+WebUI.setText(findTestObject('Object Repository/Auto-Approve/admin/Page_Login/input_P101_COMPANY'), 'KAT')
 
-WebUI.setText(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Login/input_P101_USERNAME'), 'KATALON_ADMIN')
+WebUI.setText(findTestObject('Object Repository/Auto-Approve/admin/Page_Login/input_P101_USERNAME'), 'KATALON_ADMIN')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Login/input_P101_PASSWORD'), 
-    'Ioqy8emDrxi5mkiNQATzxQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Auto-Approve/admin/Page_Login/input_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Login/button_Login'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle'))
+WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1'))
+WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1_2'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/a_Manage Approval Assignments_1'))
 
-WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1_2'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1_2'))
-
-WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1_2'))
-
-WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/a_Manage Approval Assignments'), 
-    0)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/a_Manage Approval Assignments'))
-
-WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/a_Manage Approval Assignments'))
+WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/a_Manage Approval Assignments_1'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/select_Select any oneCERP_1CloudERPEBizApp__c5e50a'))
 
@@ -185,17 +173,17 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageAppro
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Apply'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AM_1 - 112'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AM_1 - 112'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AM_1 - 112'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AM_1 - 112'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary owner'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary owner'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Actions_1'))
 
@@ -235,25 +223,25 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba3/ManageApproval
 WebUI.selectOptionByValue(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/select_equalsnot equalsis emptyis not empty_c59f5b'), 
     'NN', true)
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Save - 33'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Save - 33'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Save - 33'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Save - 33'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/td_MCD_HRPY_HR_SPECIALISTS_PROCESS_SUPPORT__303a9d'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'))
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'))
@@ -262,9 +250,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Actions'))
 
@@ -280,41 +268,41 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageAppro
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/buttonR570861162460345007_expression_icon_link'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP - 000'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP - 000'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP - 000'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP - 000'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Apply'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP_1 - 113'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP_1 - 113'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP_1 - 113'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AP_1 - 113'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary owner'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary owner'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/td_HR_SPECIALIST_VIEWALL_DATA'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'))
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'))
@@ -323,9 +311,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Actions'))
 
@@ -349,33 +337,33 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageAppro
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Apply'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AR_1 - 116'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AR_1 - 116'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AR_1 - 116'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_AR_1 - 116'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary owner'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary owner'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/td_MCD_POR_PROCUREMENT_CATALOG_ADMINISTRATO_3d8cf3'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'))
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'))
@@ -384,9 +372,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Actions'))
 
@@ -410,33 +398,33 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageAppro
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Apply'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_GL_1 - 117'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_GL_1 - 117'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_GL_1 - 117'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_GL_1 - 117'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary owner'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary owner'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/td_MCD_ZX_TAX_ANALYST_JOB_CUSTOM'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'))
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 60'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 60'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 60'))
@@ -445,9 +433,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Manage Approval Assignments - 115'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Actions'))
 
@@ -471,33 +459,33 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageAppro
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Apply'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_HCM_1 - 118'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_HCM_1 - 118'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_HCM_1 - 118'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/a_RoleGroup_HCM_1 - 118'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary owner'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary owner'))
 
-WebUI.verifyElementClickable(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
-WebUI.click(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
+WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Assign Role Owners - 22'))
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/td_MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRA_c305ce'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner (1)'))
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner (1)'))
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.scrollToElement(findTestObject('deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'), 
     0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Total 45'))
