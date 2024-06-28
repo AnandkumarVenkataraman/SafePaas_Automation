@@ -44,7 +44,12 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageAppro
 
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1_2'))
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1_2'))
+
 WebUI.click(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/span_a-TreeView-toggle_1_2'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/a_Manage Approval Assignments'), 
+    0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Home/a_Manage Approval Assignments'))
 

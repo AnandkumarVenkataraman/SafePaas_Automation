@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_15']/div[2]/a</value>
+         <value>//div[contains(@class,'is-current')]//following::a[contains(text(),'Manage Approval Assignments')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2fde0f38-6778-4049-a8a2-c60292579b21</webElementGuid>
+      <webElementGuid>367be3e9-2fa9-46c3-8a08-54bee5ddf0cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>04e04cee-d083-43b0-9e4d-87ea7aa998c9</webElementGuid>
+      <webElementGuid>5f44340b-d9d5-4b47-bb58-f828077b7fa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>60b6c6c2-ef0f-4060-b66c-45d8fe89654e</webElementGuid>
+      <webElementGuid>4602d732-30d3-4f00-904e-d43fa97db54a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>3509130a-faaf-443a-b2f9-c10c231b2ccd</webElementGuid>
+      <webElementGuid>19724d56-66ba-4462-8a59-3f1de0832691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:125:7165607810712:::125::</value>
-      <webElementGuid>1e141401-e8e1-4564-8153-8448da7050c0</webElementGuid>
+      <webElementGuid>3b97d46a-319a-4a11-a3aa-9ca9abe82e87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>1d7b6c3a-c1cc-4dd7-b884-0ba65d3e3eb9</webElementGuid>
+      <webElementGuid>1ea216a2-b819-4db4-b28d-50b596bbe2f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0d096a49-92ee-4b28-9773-dfbca32ecd24</webElementGuid>
+      <webElementGuid>e72b26d5-e241-4cda-ad60-3671311d277e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Approval Assignments</value>
-      <webElementGuid>861ec8dd-b66b-4829-ac44-9e89eec48188</webElementGuid>
+      <webElementGuid>0a5136c8-6659-41bf-9004-d970a9772756</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_15&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>0edbc443-cccf-440f-a5d1-870d5a401762</webElementGuid>
+      <webElementGuid>ab28d152-1730-44dd-9187-070b41485af2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_15']/div[2]/a</value>
-      <webElementGuid>8592634c-6c24-4a44-83b9-8acbe0ca65df</webElementGuid>
+      <webElementGuid>0edfa941-6e15-4a5f-bf9b-1168aa87fdb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Approval Assignments')]</value>
-      <webElementGuid>04861046-9689-4247-882a-d150b6ec7b54</webElementGuid>
+      <webElementGuid>035136aa-23c9-4f93-a2be-57d348888635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:125:7165607810712:::125::')]</value>
-      <webElementGuid>06489622-ab00-49d7-84ce-93433d83304d</webElementGuid>
+      <webElementGuid>c636cd33-d83b-41ef-a647-4ef713558d22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>3a21a905-095b-4efa-a21f-d29d10f22e95</webElementGuid>
+      <webElementGuid>48c038d7-4553-4c2a-a7f9-07d599e19d57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:125:7165607810712:::125::' and (text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
-      <webElementGuid>ab5699ec-3e27-4655-9a68-79182f6b36a6</webElementGuid>
+      <webElementGuid>4ac0fb79-ef8d-4c5d-abdb-0140c8aa0dc5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
