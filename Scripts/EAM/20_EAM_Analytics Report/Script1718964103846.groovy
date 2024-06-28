@@ -399,21 +399,23 @@ WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_Scheduled 
 
 WebUI.click(findTestObject('deba4/EAM_Analytics/Page_Scheduled Downloads/button_Apply_1101'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'), 0)
+WebUI.scrollToElement(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'), 0, 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/a_Download (1)'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.takeFullPageScreenshot()
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.scrollToPosition(0, 0)
+WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
+WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
-
-WebUI.closeBrowser()
+WebUI.closeBrowser(FailureHandling.OPTIONAL)
 

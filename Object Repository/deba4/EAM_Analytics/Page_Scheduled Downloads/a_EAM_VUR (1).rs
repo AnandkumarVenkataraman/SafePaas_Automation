@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[110]</value>
+         <value>//a[contains(text(),'EAM_VUR')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a7c76812-b4fa-4224-bc2c-e8fa6eca472e</webElementGuid>
+      <webElementGuid>565b9527-5087-403d-b2b1-6479e110bba6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>283ca678-77cd-4948-9d22-69ace6f9fb29</webElementGuid>
+      <webElementGuid>d84d849a-0602-4076-ac98-827d1af28ea5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>1af0dadc-7787-456c-9eba-7efd27d51b91</webElementGuid>
+      <webElementGuid>c7b566ea-bd26-402d-8f4a-fe6a3f54b4bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>EAM_VUR</value>
-      <webElementGuid>0ff5a5ee-3c23-4b91-98bb-f3d0df58e71a</webElementGuid>
+      <webElementGuid>463149b5-4489-44a6-9a49-94cf5c4abdbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EAM_VUR</value>
-      <webElementGuid>54cca202-a194-4085-b251-543160b00f7a</webElementGuid>
+      <webElementGuid>5e2b8eec-c4f0-4859-8bf1-a08ae9380d4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R160866911876310713_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>15a05d5e-a80c-4599-aa60-95b16d2ad125</webElementGuid>
+      <webElementGuid>f5b91c63-0d74-44c1-8482-ac8e77273856</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R160866911876310713_col_values_drop']/a[6]</value>
-      <webElementGuid>cbc94235-8af1-4739-80fe-a60fa3bd6e5f</webElementGuid>
+      <webElementGuid>853fda9e-d31d-48e8-98fd-f39097992631</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'EAM_VUR')]</value>
-      <webElementGuid>8194ac01-6207-4653-b73b-8b9fa3622654</webElementGuid>
+      <webElementGuid>6aa6c6db-21c2-4bac-b435-3e3770fe050c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[110]</value>
-      <webElementGuid>b7703374-13d6-4bad-a54d-0851df1c2832</webElementGuid>
+      <webElementGuid>a9bd7d26-1cf5-47cb-8d92-a9f4c882ae8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[6]</value>
-      <webElementGuid>64429c86-76da-416a-b816-1a4c372eb441</webElementGuid>
+      <webElementGuid>196ee2e6-c1f9-4d9f-86b8-9ad9d5738f71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'EAM_VUR' or . = 'EAM_VUR')]</value>
-      <webElementGuid>35f6f2b6-6a15-41fb-998c-7657e8686972</webElementGuid>
+      <webElementGuid>7f60d6b7-fe40-4111-9810-6135309fea55</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
