@@ -6,12 +6,11 @@
    <elementGuidId>f38f84be-d9de-4ede-9023-2c6d40f97d15</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='324291251635100092_orig']/tbody/tr[2]/td/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Test_RoleGroup1')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ab96eab5-fd96-4b1c-a471-8332a215cb3b</webElementGuid>
+      <webElementGuid>890efc4e-151b-40c0-bd41-f75a51583f9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1400:20:15443860353445:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:2986,Test_RoleGroup1</value>
-      <webElementGuid>79fb17f7-b5ed-4fa9-9e31-ab4eb2492ad5</webElementGuid>
+      <webElementGuid>192fcba9-3abc-4bc7-9296-b8e1445e33b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test_RoleGroup1</value>
-      <webElementGuid>6c55d2ef-c2e8-437a-8f94-8ededc67e1b1</webElementGuid>
+      <webElementGuid>83bc3ae6-dda2-4f64-9063-98d2ad88d886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;324291251635100092_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]</value>
-      <webElementGuid>b5a8dbab-6136-4dfc-8116-0ab72e09a937</webElementGuid>
+      <webElementGuid>08808bf3-123a-4a5d-95df-f547ea31b6f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='324291251635100092_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>e21613b8-9816-4c2e-aed3-35c85d642228</webElementGuid>
+      <webElementGuid>666d1185-a1d1-4457-90af-feb31dbbfbff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Test_RoleGroup1')]</value>
-      <webElementGuid>f17420f2-06d7-4b8b-b0a6-881c44c61e37</webElementGuid>
+      <webElementGuid>c8a5ced9-ebf2-4859-a832-604a62b08d6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1400:20:15443860353445:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:2986,Test_RoleGroup1')]</value>
-      <webElementGuid>7edee960-209a-4a10-af53-9441125b5e08</webElementGuid>
+      <webElementGuid>185e0534-b709-4f67-aef5-ac1d788e1e80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>78deca6a-388f-4078-9989-9505265c3b3d</webElementGuid>
+      <webElementGuid>e94cde68-e772-4122-b4e5-0c1f29082bf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1400:20:15443860353445:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:2986,Test_RoleGroup1' and (text() = 'Test_RoleGroup1' or . = 'Test_RoleGroup1')]</value>
-      <webElementGuid>41d68a2d-d11c-4ae8-825e-e80ea368567a</webElementGuid>
+      <webElementGuid>10ad3636-11a6-46c6-8d56-a3e79d566e9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
