@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any -CancelReassignEscalationReminder</name>
+   <tag></tag>
+   <elementGuidId>a1792258-8e94-4290-b030-44d131d604c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_ACTIONS_AVAILABLE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ff13e4b3-69d9-4791-8d09-e6b660096661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>d563fd9f-1f50-479b-a2c6-bec1874dacaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>28fb3129-e284-4000-a8a7-7538669eddfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>04e16585-d8fa-44c6-9229-e390836b6149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>807db7c6-bffa-4e96-83a0-83d23e6f741f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>4a2f2184-a3df-4f24-88cc-0072a571a691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any -
+Cancel
+Reassign
+Escalation
+Reminder
+</value>
+      <webElementGuid>7aee621f-db78-4137-b440-d53d000e3748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_ACTIONS_AVAILABLE&quot;)</value>
+      <webElementGuid>45341bf4-f9c9-49ae-8e48-b1f95ad6d822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/EIA_Cancel/Page_Manage Workflow/iframe</value>
+      <webElementGuid>e568c8d6-200d-419f-acfc-e5588c246fdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P35_ACTIONS_AVAILABLE' and @name = 'P35_ACTIONS_AVAILABLE' and (text() = '- Please select any -
+Cancel
+Reassign
+Escalation
+Reminder
+' or . = '- Please select any -
+Cancel
+Reassign
+Escalation
+Reminder
+')]</value>
+      <webElementGuid>35ff3ec9-9fcc-4498-8efa-9d3d2f42ebc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
+      <webElementGuid>3708ca20-765c-41f9-83f2-d1192ace2a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::select[1]</value>
+      <webElementGuid>088f7a09-22f3-4442-b632-59ba558fdbb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Original Approver'])[1]/preceding::select[1]</value>
+      <webElementGuid>bb0a9415-ecdf-4fdf-8ad2-f0c4a8eeeb09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Approver'])[1]/preceding::select[2]</value>
+      <webElementGuid>70c6755e-f1c0-4bd1-89f3-a036507c26e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>761299c7-aaaf-43c7-845c-23509db0eeb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_ACTIONS_AVAILABLE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>95e5e047-8ed8-4fbf-9204-5725b00901d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -61,13 +61,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba/Rough/EACM_Automa
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba/Rough/EACM_AutomaticPOST/Page_Initiate User Access/input_P10_NAME'), 
-    'KTLN_EACM_Survey_June05_V4')
+    GlobalVariable.EACM_SurveyName_AutomaticPOST)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba/Rough/EACM_AutomaticPOST/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba/Rough/EACM_AutomaticPOST/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
-    'KTLN_EACM_Survey_June05_V4')
+    GlobalVariable.EACM_SurveyName_AutomaticPOST)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba/Rough/EACM_AutomaticPOST/Page_Initiate User Access/button_Popup Calendar End Date'))
 

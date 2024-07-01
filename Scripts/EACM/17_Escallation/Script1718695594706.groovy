@@ -68,7 +68,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/Page_Manage Wor
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_p_ignore_10'), 'CLOUDERP_CERT_JUN6_V2')
+WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_p_ignore_10'), GlobalVariable.EACM_SendReminder_Survey)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_Apply'))
 

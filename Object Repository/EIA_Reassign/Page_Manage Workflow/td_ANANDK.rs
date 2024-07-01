@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ANANDK</name>
+   <tag></tag>
+   <elementGuidId>b1dbc3c7-f577-4180-8113-ebcb6b1f5cfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'ANANDK' or . = 'ANANDK')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.a-GV-cell.u-tS.a-GV-rowHeader</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6b3efae9-0d18-4827-b026-c89d07e86295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>1a358223-389e-4cfd-b97f-864f17385625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3c76afbe-0cbf-416c-b447-1d0ac7626d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS a-GV-rowHeader</value>
+      <webElementGuid>e4123de7-4456-4aa7-86e8-25475bfe7386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANANDK</value>
+      <webElementGuid>f020d0dc-fab9-4643-8692-f6ac46bd1fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_35_P35_NEW_APPROVER_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-GV&quot;]/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table&quot;]/tbody[1]/tr[@class=&quot;a-GV-row is-readonly is-hover&quot;]/td[@class=&quot;a-GV-cell u-tS a-GV-rowHeader&quot;]</value>
+      <webElementGuid>0221c375-00f3-4bc4-ac99-e5c4753108d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ANANDK' or . = 'ANANDK')]</value>
+      <webElementGuid>4fe031db-af90-4af9-b95b-a5316633194e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::td[1]</value>
+      <webElementGuid>79ee8215-4ad2-4d34-b9ac-1c67a9fc8b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sorted Descending'])[2]/following::td[1]</value>
+      <webElementGuid>ade32920-0b63-4d32-964c-66f1f4af43af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td</value>
+      <webElementGuid>8d8ad04f-e49f-4060-a503-f27f13adcd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_35_P35_NEW_APPROVER_dlg']/div[3]/div[2]/div[4]/table/tbody/tr/td</value>
+      <webElementGuid>ee62f3a9-b3b0-4ae7-9645-f50d9d94171d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

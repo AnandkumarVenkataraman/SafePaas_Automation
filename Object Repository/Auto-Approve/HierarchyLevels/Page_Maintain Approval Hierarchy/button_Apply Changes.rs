@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply Changes</name>
+   <tag></tag>
+   <elementGuidId>a0072fe4-8a4e-4336-acb5-021ee7f68307</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @id = 'B161102645408681364' and (text() = 'Apply Changes' or . = 'Apply Changes')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#B161102645408681364</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ff7e1840-19c2-40d4-9057-6596350dd871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>apex.submit({request:'SAVE',validate:true});</value>
+      <webElementGuid>b2aefdd9-e70f-489f-9749-2154454eca17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Button t-Button--hot </value>
+      <webElementGuid>718669e0-f750-4ca4-b37a-fc8d45ab31a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1766a157-0931-42bb-a4b4-4424dd72bd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>B161102645408681364</value>
+      <webElementGuid>abc74b28-cf1a-491a-9771-5af275e66ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply Changes</value>
+      <webElementGuid>06cff9d5-40b8-4f42-876e-6b4650ee0648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;B161102645408681364&quot;)</value>
+      <webElementGuid>f0377aba-7d61-4e21-9a7c-e07b62a5c944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Auto-Approve/Page_Maintain Approval Hierarchy/iframe</value>
+      <webElementGuid>7aa11baf-d202-4a04-b144-22ac0120be77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/iframe</value>
+      <webElementGuid>dc05566e-3374-413c-9872-304b1ecdfe72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'B161102645408681364' and (text() = 'Apply Changes' or . = 'Apply Changes')]</value>
+      <webElementGuid>638b13b3-a19b-4f9f-83f1-f198d2e4c16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='B161102645408681364']</value>
+      <webElementGuid>abf36131-dd89-4e97-839d-d6295902af5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::button[1]</value>
+      <webElementGuid>166396dc-e9cc-4ac7-8f8e-34eb0501229c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
+      <webElementGuid>d6aaf886-6fd3-40f1-8c1d-fffff8171ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'B161102645408681364', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>c0347ff8-3322-428e-bd90-3bb180582761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>d4062a6d-ea66-4dde-9600-dab3977ced4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R161102806396681364']/div/div[3]/div/button[3]</value>
+      <webElementGuid>7855c9c5-7a29-477c-8bb7-644c5a420554</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

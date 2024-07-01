@@ -66,7 +66,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Certifying S
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'), 
-    'KTLN_EACM_Survey_June26_V1')
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Apply'))
 
@@ -209,7 +209,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurve
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    'KTLN_EACM_Survey_June26_V1')
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -252,7 +252,7 @@ WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Log
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Login/input_P101_USERNAME (1)'), 'DPATEL')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Login/input_P101_PASSWORD (1)'), '0zGlmfjtZXdd0J79v48Xbw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Login/input_P101_PASSWORD (1)'), 'Ju8vHiRYWYTapQtHptL/Yg==')
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Login/button_Login (1)'))
 
@@ -306,7 +306,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurve
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    'KTLN_EACM_Survey_June26_V1')
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -407,7 +407,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_CertifySur
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), 'KTLN_EACM_Survey_June26_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/button_Apply'))
 

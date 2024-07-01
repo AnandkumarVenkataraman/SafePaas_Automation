@@ -67,7 +67,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Cancellation
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CancellationVerify/Page_Manage User Access/input_p_ignore_10'), 
-    'KTLN_EACM_Survey_Feb18_V2')
+    GlobalVariable.EACM_Schedule_SurveyName)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CancellationVerify/Page_Manage User Access/button_Apply'))
 

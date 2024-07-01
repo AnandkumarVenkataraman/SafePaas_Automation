@@ -99,7 +99,11 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/span_1-Manager'), 
     '1-Manager')
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
+
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
@@ -137,6 +141,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/P
     '2-Primary Owner')
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 

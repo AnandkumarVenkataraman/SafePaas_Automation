@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'B202484541179679812' and (text() = 'Submit' or . = 'Submit')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access Request Approval'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3b5c663d-6381-4b1b-a33b-71b517b61a24</webElementGuid>
+      <webElementGuid>0c4397cf-22a1-40df-8c2c-dc8f68f3af70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'SUBMIT'});</value>
-      <webElementGuid>9248a637-7a43-442a-94ac-31db07e77447</webElementGuid>
+      <webElementGuid>a54a6142-48d6-438c-b230-867ac1265cc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>71f4392b-f3ac-45e9-8498-05a76e5d6a37</webElementGuid>
+      <webElementGuid>20eae557-9864-4af9-97b5-fe6f21843f26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>572f5591-6641-4853-ad0e-207d38e74349</webElementGuid>
+      <webElementGuid>e0515a89-4660-42f2-96d9-d2d0df2cb905</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B202484541179679812</value>
-      <webElementGuid>fdab0f46-a6b1-482d-9dab-52f3b481f05f</webElementGuid>
+      <webElementGuid>1322f40f-7b98-45d4-a83b-dc1e6454725f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>363664a1-aa7c-4778-a061-c31d58fcd974</webElementGuid>
+      <webElementGuid>796583b4-32d4-4183-8d6c-10d7f31dc6ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B202484541179679812&quot;)</value>
-      <webElementGuid>cbae1a68-3828-457a-a785-51d88ea33660</webElementGuid>
+      <webElementGuid>384d77e1-7258-4580-9ddf-3e2812ef1bdc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B202484541179679812' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>e8428d6f-38c0-4da2-8aaa-2cad41e3800d</webElementGuid>
+      <webElementGuid>76163a53-580a-4ec2-9d3f-f9e32c1c9e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B202484541179679812']</value>
-      <webElementGuid>6bada67d-4a36-48ae-a49c-aebb270c562e</webElementGuid>
+      <webElementGuid>ed0d524c-303a-4fce-9615-3b4c58de89c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access Request Approval'])[1]/following::button[1]</value>
-      <webElementGuid>79877a23-1480-4f70-b539-eaa50e19faea</webElementGuid>
+      <webElementGuid>793e4605-6e98-4e93-b9ad-0fd7197c95ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::button[1]</value>
-      <webElementGuid>9460ea9e-e4a0-4cc4-9b6b-85b2587b069b</webElementGuid>
+      <webElementGuid>c6761fb5-d791-4dbd-bbf9-6aa788f8ac9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Level'])[1]/preceding::button[1]</value>
-      <webElementGuid>b4fb1a4f-2c74-4c1a-ac40-dbeff38d3895</webElementGuid>
+      <webElementGuid>3293e134-f3c9-4502-955f-3edb650b61c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>c1eb9b5c-530c-4cf1-acf1-c42dfedfcc62</webElementGuid>
+      <webElementGuid>d5e41d29-d3fa-40ba-92dc-d0c209ed0a86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R202414584864931034']/div/div[2]/button</value>
-      <webElementGuid>3f438d55-f9f0-4d81-a2fc-41f58e56ad74</webElementGuid>
+      <webElementGuid>95d140d9-a21b-4511-80b5-0726f05a25db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

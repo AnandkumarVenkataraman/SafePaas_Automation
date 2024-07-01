@@ -896,11 +896,5 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageC
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/button_concat(Role Group  , , RoleGroup_Oth_201781'))
 
-WebUI.callTestCase(findTestCase('EACM/3_InitiateSurvey_End date action as Verified'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(10)
-
-WebUI.callTestCase(findTestCase('EACM/4_CertifyingSurvey_End date action as Verified'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.closeBrowser()
 

@@ -71,7 +71,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_ManageWork
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/input_p_ignore_10'), 'KTLN_EACM_Survey_June03_V2')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/button_Apply'))
 
@@ -90,7 +90,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_ManageWorkfl
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/textarea_P35_ACTION_COMMENTS'), 
-    'Cancel for KTLN_EACM_Survey_June03_V2')
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/button_Submit'))
 

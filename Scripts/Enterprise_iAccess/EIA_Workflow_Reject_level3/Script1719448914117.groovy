@@ -101,6 +101,8 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review A
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
+WebUI.delay(500)
+
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_User Access Request Review Success_t_e28262'))

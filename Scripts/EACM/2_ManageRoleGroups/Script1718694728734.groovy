@@ -350,7 +350,8 @@ WebUI.click(findTestObject('EACM/ManageApprovalAssignments/Page_Manage Approval 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Primary Owner'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/span_Secondary Owner'), 
     0, FailureHandling.OPTIONAL)

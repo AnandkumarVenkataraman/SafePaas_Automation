@@ -76,7 +76,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/EACM_WorkflowRea
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/input_p_ignore_10 (1)'), 
-    'KTLN_EACM_Survey_June06_V5')
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/button_Apply (1)'))
 
@@ -259,7 +259,7 @@ WebUI.verifyElementText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access
     '')
 
 WebUI.setText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 -U120'), 
-    'Test justification_KTLN_TestSurvey_Apr16_V3')
+    'Test Justification')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
 
@@ -358,7 +358,7 @@ WebUI.verifyElementText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access
     '')
 
 WebUI.setText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 -U120'), 
-    'Justification for KTLN_TestSurvey_Apr16_V3')
+    'Testt Justification')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
 
@@ -472,7 +472,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report
     'DPATEL')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_PASSWORD (1) (2)'), 
-    '0zGlmfjtZXdd0J79v48Xbw==')
+    'Ju8vHiRYWYTapQtHptL/Yg==')
 
 WebUI.click(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/button_Login (1) (2)'))
 
@@ -561,7 +561,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/EACM_ManageUser 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Manage User Access/input_p_ignore_10'), 
-    'KTLN_EACM_Survey_June06_V5')
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Manage User Access/button_Apply'))
 
@@ -603,7 +603,7 @@ WebUI.delay(10)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_User Access Certification Details/select_Select any oneEACM_Feb19_V101EACM_Fe_f24e60'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_User Access Certification Details/select_Select any oneEACM_Feb19_V101EACM_Fe_f24e60'), 
-    'KTLN_EACM_Survey_June06_V5', true, FailureHandling.OPTIONAL)
+    GlobalVariable.EACM_SurveyName_Verified, true, FailureHandling.OPTIONAL)
 
 WebUI.delay(10)
 

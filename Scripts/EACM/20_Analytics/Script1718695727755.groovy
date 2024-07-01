@@ -65,7 +65,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analyt
 WebUI.verifyElementText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/input_p_ignore_10'), 'KTLN_EACM_Survey_June04_V3')
+WebUI.setText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/button_Apply'))
 
@@ -109,7 +109,7 @@ WebUI.delay(15)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Summary/select_Select any oneGRM_Feb28_V1GRM_Feb28__e3250f'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Summary/select_Select any oneGRM_Feb28_V1GRM_Feb28__e3250f'), 
-    'KTLN_EACM_Survey_June04_V3', true, FailureHandling.OPTIONAL)
+    GlobalVariable.EACM_SurveyName_Verified, true, FailureHandling.OPTIONAL)
 
 WebUI.delay(15)
 
@@ -147,7 +147,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba4/EACM_Analytics/P
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Cumulative Access Certification/input_p_ignore_10'), 
-    'KTLN_EACM_Survey_June04_V3')
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Cumulative Access Certification/button_Apply'))
 

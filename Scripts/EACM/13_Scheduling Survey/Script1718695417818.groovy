@@ -58,12 +58,12 @@ WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Manage Certifi
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/input_P10_NAME'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/input_P10_NAME'), 'KTLN_EACM_Survey_June05_V6')
+WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/input_P10_NAME'), GlobalVariable.EACM_Schedule_SurveyName)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'KTLN_EACM_Survey_June05_V6')
+WebUI.setText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/textarea_P10_DESCRIPTION'), GlobalVariable.EACM_Schedule_SurveyName)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/label_Schedule'))
 
@@ -136,7 +136,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Scheduling S
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Manage User Access/input_p_ignore_10'), 
-    'KTLN_EACM_Survey_June03_V2')
+    GlobalVariable.EACM_Schedule_SurveyName)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Scheduling Survey/Page_Manage User Access/button_Apply'))
 

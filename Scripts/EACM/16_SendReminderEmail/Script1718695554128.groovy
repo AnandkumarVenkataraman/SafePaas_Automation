@@ -58,12 +58,12 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certi
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), 'CLOUDERP_CERT_JUN6_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), GlobalVariable.EACM_SendReminder_Survey)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), 'CLOUDERP_CERT_JUN6_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/textarea_P10_DESCRIPTION'), GlobalVariable.EACM_SendReminder_Survey)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/button_Popup Calendar End Date'))
 
@@ -150,7 +150,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_SendReminder
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage User Access/input_p_ignore_10'), 
-    'CLOUDERP_CERT_JUN6_V1')
+    GlobalVariable.EACM_SendReminder_Survey)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage User Access/button_Apply'))
 
@@ -230,7 +230,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_SendReminder
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/input_p_ignore_10 (1)'), 
-    'CLOUDERP_CERT_JUN6_V1')
+    GlobalVariable.EACM_SendReminder_Survey)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/button_Apply (1)'))
 
