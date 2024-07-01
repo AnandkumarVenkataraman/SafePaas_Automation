@@ -19,6 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.callTestCase(findTestCase('EACM/3_InitiateSurvey_End date action as Verified'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(10)
+
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.maximizeWindow()

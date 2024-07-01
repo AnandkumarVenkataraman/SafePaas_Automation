@@ -24,10 +24,10 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Login/input_Spring 2024_P101_COMPANY (1)'), 
-    'kat')
+    'KAT')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (1)'), 
-    'katalon_admin')
+    'KATALON_ADMIN')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Login/input_New_P101_PASSWORD (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
