@@ -10,15 +10,15 @@
          <value>a.a-IRR-col-value</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[(text() = 'KTLN_CloudERP' or . = 'KTLN_CloudERP')]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'KTLN_CloudERP' or . = 'KTLN_CloudERP')]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'KTLN_CloudERP')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>66c2877f-0056-4cc5-8802-5f06003fef3c</webElementGuid>
+      <webElementGuid>2810c0a0-fb35-4744-8c37-b49595875792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>d3f0a0f0-98ec-4536-9610-1a4dc927b649</webElementGuid>
+      <webElementGuid>2b7d5529-5904-4617-875d-f9bcb9bf7213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>69ded0a1-b937-4874-9603-de70f337e0fd</webElementGuid>
+      <webElementGuid>bd5cfda3-670a-45d3-8954-ed9261911205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>KTLN_CloudERP</value>
-      <webElementGuid>d94f724d-e8f9-44e1-85ac-c5b5691326fa</webElementGuid>
+      <webElementGuid>33f75657-4925-484c-9b5b-782f83f23e9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>KTLN_CloudERP</value>
-      <webElementGuid>5a9a065f-a67e-418b-9f80-82eadb712236</webElementGuid>
+      <webElementGuid>c59b3a21-b6d7-4824-a644-0756927fdca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R97799695751099620_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>61f01c7a-a737-48c1-8783-675d98820f99</webElementGuid>
+      <webElementGuid>44f4153c-42f6-479d-b522-2db232822f5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'KTLN_CloudERP' or . = 'KTLN_CloudERP')]</value>
-      <webElementGuid>66060b62-4551-4bc6-8232-f5a1cac5f84b</webElementGuid>
+      <webElementGuid>62410439-9d81-4832-b518-720c860fa534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'KTLN_CloudERP')]</value>
-      <webElementGuid>59407802-8462-442f-a785-c8a250b8b5d2</webElementGuid>
+      <webElementGuid>415dd501-2ffd-4a57-b5f2-69a5bc0bb324</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::a[1]</value>
-      <webElementGuid>c10ca5db-19f6-486a-a19d-cae7aa8214d6</webElementGuid>
+      <webElementGuid>4c47fa8d-c7dc-45b3-b4e1-46b71472cdbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::a[1]</value>
-      <webElementGuid>9344cb6a-0531-44e1-a0df-79e48d1b349f</webElementGuid>
+      <webElementGuid>2eb38e86-dbfb-4e39-89b2-30838e23e136</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[130]</value>
-      <webElementGuid>3dbafcc6-6601-449b-a156-94cff310cdb0</webElementGuid>
+      <webElementGuid>c3a61b7c-feec-4f97-bd7e-f1a4a47d6f9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html/div/a</value>
-      <webElementGuid>33b4b6f3-dba8-4921-b520-61303ac2d822</webElementGuid>
+      <webElementGuid>4fc1b23e-4584-495a-bfce-be6f5de53d9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +122,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R97799695751099620_col_values_drop']/a</value>
-      <webElementGuid>2b01a8cd-cf50-4150-a2e6-1921a8a0fec1</webElementGuid>
+      <webElementGuid>80ec265e-4c3d-47e3-aaae-ed4822df35d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

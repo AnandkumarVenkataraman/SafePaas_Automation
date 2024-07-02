@@ -114,7 +114,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/EACM_WorkflowR
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/select_- Please select any -ANANDK1MARIAB1'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/select_- Please select any -ANANDK1MARIAB1'), 
-    'KTLN_EACM_USER1', true)
+    'KATALON_ADMIN', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/buttonP35_NEW_APPROVER_lov_btn (1)'))
 
@@ -147,7 +147,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report
     'KAT')
 
 WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_USERNAME (1) (2)'), 
-    'KTLN_EACM_USER1')
+    'KATALON_ADMIN')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_PASSWORD (1) (2)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
@@ -251,6 +251,8 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_CertifySur
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
+
+WebUI.delay(10)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'), 
     FailureHandling.OPTIONAL)
@@ -412,7 +414,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report
     'KAT')
 
 WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_USERNAME (1) (2)'), 
-    'KTLN_EACM_USER1')
+    'KATALON_ADMIN')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_PASSWORD (1) (2)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
@@ -445,6 +447,8 @@ WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certificati
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Confirm Changes (1)'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Confirm Changes (1)'))
+
+WebUI.delay(10)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'), 
     FailureHandling.OPTIONAL)

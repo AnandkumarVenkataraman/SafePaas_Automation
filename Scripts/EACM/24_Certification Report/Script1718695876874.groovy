@@ -145,7 +145,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/
 
 WebUI.click(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle'))
 
-WebUI.delay(5)
+WebUI.delay(20)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/button_Actions'))
 
@@ -178,7 +178,7 @@ WebUI.verifyElementClickable(findTestObject('deba3/Dashboards/eacm dashboard/Pag
 
 WebUI.click(findTestObject('deba3/Dashboards/eacm dashboard/Page_Home/label_Toggle1'))
 
-WebUI.delay(5)
+WebUI.delay(20)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/button_Actions_1'))
 

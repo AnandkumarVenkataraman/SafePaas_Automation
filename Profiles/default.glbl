@@ -75,8 +75,8 @@
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July1_V6</description>
-      <initValue>'KTLN_EACM_Survey_July1_V6'</initValue>
+      <description>KTLN_EACM_Survey_July1_V7</description>
+      <initValue>'KTLN_EACM_Survey_July1_V7'</initValue>
       <name>EACM_SurveyName_Verified</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -103,5 +103,10 @@
       <description>KTLN_EACM_Survey_July1_V5</description>
       <initValue>'KTLN_EACM_Survey_July1_V5'</initValue>
       <name>EACM_Delegation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'KTLN_EACM_Survey_July1_V6'</initValue>
+      <name>SurveyName_ManageWorkflow</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P35_ORIG_APPROVER']</value>
+         <value>//button[@type = 'button' and @title = 'Close']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>1e87ea48-aead-45a1-9aca-814d776dd183</webElementGuid>
+      <webElementGuid>97a122b5-61a8-4084-8071-d3c92799ce29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P35_ORIG_APPROVER</value>
-      <webElementGuid>122c8fba-2cbd-49d6-ad66-b1581bd98147</webElementGuid>
+      <webElementGuid>875c0c31-aae5-48db-9561-15bc732a53c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P35_ORIG_APPROVER</value>
-      <webElementGuid>0e79dbe5-d8a3-4458-9202-01e88af4c98b</webElementGuid>
+      <webElementGuid>f3f1caf9-a9f6-4597-97ad-25de7683b368</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>31a5f0b8-356b-4a05-8c29-4ad847326813</webElementGuid>
+      <webElementGuid>4dd31c53-b837-4e81-8ff3-8c97c6b691dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8e824137-5a41-4742-8079-f9d86baf50d1</webElementGuid>
+      <webElementGuid>2ddaef74-33f8-4ffc-8f28-f194a095cb92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>3dcb21c4-99d2-4ed9-b0c7-6c26d4a75d83</webElementGuid>
+      <webElementGuid>d6f2d404-1dbe-4961-becb-b77ab9996b3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
 ANANDK1
 MARIAB1
 </value>
-      <webElementGuid>611c395f-0f13-4c98-8a92-9546e2baac76</webElementGuid>
+      <webElementGuid>18882ed8-ccdf-414b-847d-dcd75e943720</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@ MARIAB1
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P35_ORIG_APPROVER&quot;)</value>
-      <webElementGuid>25d496c0-6b9d-48c8-a167-2aac579fb42f</webElementGuid>
+      <webElementGuid>6a3bcb0e-a6ce-46f4-b156-d3b0cb1eae58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -89,7 +89,7 @@ MARIAB1
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/iframe_1</value>
-      <webElementGuid>230e9e0d-8c37-430a-8c54-afe402c29b68</webElementGuid>
+      <webElementGuid>4b1349b0-dc8e-4e88-aac3-4a9ef2c6fff7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -97,7 +97,7 @@ MARIAB1
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P35_ORIG_APPROVER']</value>
-      <webElementGuid>e21cfcf0-ab18-4a08-9367-8dd065424832</webElementGuid>
+      <webElementGuid>4bcde928-1ec0-43da-ac61-f822a2a5b7a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@ MARIAB1
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P35_ORIG_APPROVER_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>99398dff-529b-4b6e-b881-1df616c74c3d</webElementGuid>
+      <webElementGuid>dbd5a545-a431-4b42-bd26-07a049ce8312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@ MARIAB1
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/select</value>
-      <webElementGuid>49bb4593-6d32-4005-bc45-fd8669ce62d3</webElementGuid>
+      <webElementGuid>316f06a6-b587-4da2-ba74-a813b5f609ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@ MARIAB1
 ANANDK1
 MARIAB1
 ')]</value>
-      <webElementGuid>cc609e8a-2ebb-4922-aaf6-ab1508669939</webElementGuid>
+      <webElementGuid>30731046-3ed2-440e-9c79-47f4d92601cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
