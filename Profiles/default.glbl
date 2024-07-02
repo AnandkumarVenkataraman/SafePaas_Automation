@@ -70,8 +70,8 @@
       <name>AddRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLNAutomation_ImportFile_June27_V1</description>
-      <initValue>'KTLNAutomation_ImportFile_June27_V1'</initValue>
+      <description>KTLNAutomation_ImportFile_July2_V1</description>
+      <initValue>'KTLNAutomation_ImportFile_July2_V1'</initValue>
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

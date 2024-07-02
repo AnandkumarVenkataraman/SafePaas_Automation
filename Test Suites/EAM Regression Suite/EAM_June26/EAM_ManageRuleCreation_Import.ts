@@ -17,11 +17,5 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/EAM/2_RuleCreation_Import</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7df8a602-dc9b-4a09-bf2a-d3693b9a66cd</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
