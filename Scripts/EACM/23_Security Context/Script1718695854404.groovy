@@ -102,7 +102,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/Security Context/
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/input_Expression_p_ignore_10 (1)'), 
-    'ORA_FND_DIAG_VIEWER_JOB')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/button_Apply (1)'))
 
@@ -211,6 +211,10 @@ WebUI.delay(5)
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7'))
 
 WebUI.click(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7'))
+
+WebUI.verifyElementClickable(findTestObject('EACM/Unassigned Access Report/Page_Home/span_Analytics'))
+
+WebUI.click(findTestObject('EACM/Unassigned Access Report/Page_Home/span_Analytics'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Home/a_ScopedDescoped Attributes Report'))
 
@@ -333,7 +337,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/Security Context/
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/input_Expression_p_ignore_10'), 
-    'ORA_FND_DIAG_VIEWER_JOB')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/button_Apply'))
 
@@ -534,9 +538,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Con
 
 WebUI.click(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/button_Submit'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7'))
+WebUI.verifyElementClickable(findTestObject('EACM/Unassigned Access Report/Page_Home/span_Analytics'))
 
-WebUI.click(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7'))
+WebUI.click(findTestObject('EACM/Unassigned Access Report/Page_Home/span_Analytics'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_ScopedDescoped Attributes/a_Assignment Report'))
 
@@ -641,7 +645,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/Unassigned Access
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Unassigned Access/input_Expression_p_ignore_10'), 
-    'ORA_FND_DIAG_VIEWER_JOB')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Unassigned Access/button_Apply'))
 
@@ -774,7 +778,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_ManageCrossD
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/input_Expression_p_ignore_10'), 
-    'ORA_FND_DIAG_VIEWER_JOB')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/button_Apply'))
 

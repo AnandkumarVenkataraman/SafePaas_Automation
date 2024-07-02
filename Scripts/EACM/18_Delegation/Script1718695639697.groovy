@@ -35,9 +35,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM_Delegation/P
 
 WebUI.click(findTestObject('Object Repository/EACM_Delegation/Page_Home/button_katalon_admin'))
 
+WebUI.delay(8)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM_Delegation/Page_Home/a_My Profile'))
 
 WebUI.click(findTestObject('Object Repository/EACM_Delegation/Page_Home/a_My Profile'))
+
+WebUI.delay(8)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM_Delegation/Page_User Preferences/h2_Delegation Setting'), 0)
 
@@ -101,10 +105,14 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/a_Manage Certification'))
 
+WebUI.delay(10)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
     'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+
+WebUI.delay(20)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/button_Create'))
 
