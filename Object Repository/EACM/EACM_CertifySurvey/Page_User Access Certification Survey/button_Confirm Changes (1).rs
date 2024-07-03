@@ -11,10 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='B328275908856222745']</value>
+         <value>//button[@type = 'button' and @id = 'B328275908856222745' and (text() = 'Confirm Changes' or . = 'Confirm Changes')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B328275908856222745' and (text() = 'Confirm Changes' or . = 'Confirm Changes')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>384a0c00-ef0c-4230-88c2-e27faa672046</webElementGuid>
+      <webElementGuid>64ffb064-be62-4ec4-b976-61025d40752a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'CONFIRM',validate:true});</value>
-      <webElementGuid>c50fa7ec-6bd9-4d86-b99a-caffb3e46911</webElementGuid>
+      <webElementGuid>8bdc3924-f54c-46f2-b4be-86e3b216bd2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button reportBtn</value>
-      <webElementGuid>24968fdf-0c2e-44e8-8014-69f0897569cc</webElementGuid>
+      <webElementGuid>c56cc8ed-01e3-43ed-80ee-76a137e6de68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a13955d2-88dc-41b8-a8ee-6f31b66637cf</webElementGuid>
+      <webElementGuid>6a0e9dbf-7e66-4f8c-b452-f623b8b055d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B328275908856222745</value>
-      <webElementGuid>8829c771-446a-4564-9cec-ebe244ee1e17</webElementGuid>
+      <webElementGuid>269e4a2a-1a23-429d-854a-a4eb8377da24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm Changes</value>
-      <webElementGuid>11b7c8cb-4e74-4365-88bd-1891d4672ede</webElementGuid>
+      <webElementGuid>5d8c9efe-4ea2-4ea8-a0e8-4524d262e428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B328275908856222745&quot;)</value>
-      <webElementGuid>e428a5b8-39bd-4c2e-96b6-95f31a21eb29</webElementGuid>
+      <webElementGuid>c9a04265-a429-4dfe-8965-82a08610172d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B328275908856222745']</value>
-      <webElementGuid>d835896d-8eae-4047-9c9f-31f3bee681a9</webElementGuid>
+      <webElementGuid>c7aacc6b-a505-426c-a642-bc39a96498d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mainContainer']/div/div[2]/button[4]</value>
-      <webElementGuid>ed4184f4-8702-4976-80f2-7b1270560bfe</webElementGuid>
+      <webElementGuid>fc71cef0-20e8-4730-beed-697f1786f44e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[4]</value>
-      <webElementGuid>636ad614-645e-4da8-a5ec-fcabf8f4e423</webElementGuid>
+      <webElementGuid>1b628f02-e749-47be-981d-5ea8a1dd73bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B328275908856222745' and (text() = 'Confirm Changes' or . = 'Confirm Changes')]</value>
-      <webElementGuid>7ae537b1-d733-433c-bdae-0ba07d1f75c8</webElementGuid>
+      <webElementGuid>31ad9753-e42a-4f5f-8c19-1c9865bb3287</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
