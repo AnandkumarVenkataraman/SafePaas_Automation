@@ -214,13 +214,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS_IncidentRe
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Reassign requestor/Page_Open Incidents Change Level/input_Ticket Number_P93_TKT_NUMBER'), 
-    'Test ticket # June11_V1')
+    GlobalVariable.ReassignRequestor_Ticketno)
 
 WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Reassign requestor/Page_Open Incidents Change Level/textarea_Justification_P93_JUSTIFICATION'), 
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Reassign requestor/Page_Open Incidents Change Level/textarea_Justification_P93_JUSTIFICATION'), 
-    'Test Justification # June11_V2')
+    GlobalVariable.ReassignRequestor_Justification)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Reassign requestor/Page_Open Incidents Change Level/button_Submit'))
 

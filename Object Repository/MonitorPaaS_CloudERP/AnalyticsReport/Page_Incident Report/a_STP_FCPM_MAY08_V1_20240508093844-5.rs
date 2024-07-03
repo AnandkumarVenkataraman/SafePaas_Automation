@@ -6,11 +6,11 @@
    <elementGuidId>29d75357-c76f-4451-bd9a-a73305b9c851</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/div/a[11]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='R176258973591708826_col_values_drop']/a[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>902ab9cd-a191-4c6e-a931-09c1d8511424</webElementGuid>
+      <webElementGuid>7624cd78-942a-45e1-9eee-998d6601a258</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>92b8ad83-0826-4cc1-aa8b-cc25b24655bb</webElementGuid>
+      <webElementGuid>b300b0ba-a247-44c7-aa3a-e3da9dadfefd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>5fbb98a1-44f1-42ff-ab95-9f83a9a47588</webElementGuid>
+      <webElementGuid>95ad5333-ffe1-4d00-8508-87e6a2d4d119</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>STP_FCPM_MAY08_V1_20240508093844-2</value>
-      <webElementGuid>a8ad7f53-38e1-49ca-940d-d02b9ffae8f6</webElementGuid>
+      <webElementGuid>1042ad62-37e9-46f5-913b-9e9804e7a962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>STP_FCPM_MAY08_V1_20240508093844-2</value>
-      <webElementGuid>5bb55c6d-6bbf-433c-beae-70a02a2ae538</webElementGuid>
+      <webElementGuid>278dbdac-83cf-45c1-90b5-0b5908d071db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R176258973591708826_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>9436f9b9-d77f-46a5-8537-03181dc6380b</webElementGuid>
+      <webElementGuid>7640ccc9-db2b-42c2-9f3c-24f28d6edb75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R176258973591708826_col_values_drop']/a[8]</value>
-      <webElementGuid>7509d04e-d159-42fd-8e24-54cdb5597493</webElementGuid>
+      <webElementGuid>348fe033-3cc4-457d-8513-a0617c95f17f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'STP_FCPM_MAY08_V1_20240508093844-2')]</value>
-      <webElementGuid>73da3f7b-5cee-46ac-94d4-85f045b712fd</webElementGuid>
+      <webElementGuid>bdf769f8-9872-4753-9272-93bcbcfd88af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[121]</value>
-      <webElementGuid>bf8b158c-1f12-4b48-a4b9-40ef6e813f9f</webElementGuid>
+      <webElementGuid>dedd0776-2a34-493f-8a80-75ef2fee4c05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[8]</value>
-      <webElementGuid>97cdfc9b-1347-4fc3-abbc-e07dd228d227</webElementGuid>
+      <webElementGuid>a1d997e0-74fa-481e-8e0d-0a24f04a0091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'STP_FCPM_MAY08_V1_20240508093844-2' or . = 'STP_FCPM_MAY08_V1_20240508093844-2')]</value>
-      <webElementGuid>92f4ff18-56be-4be5-bd50-cd90fc722c15</webElementGuid>
+      <webElementGuid>125f317c-8dd2-48bf-9852-b8e47a903518</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

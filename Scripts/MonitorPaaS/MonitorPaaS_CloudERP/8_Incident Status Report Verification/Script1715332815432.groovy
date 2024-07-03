@@ -66,8 +66,8 @@ WebUI.delay(3)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'), 
-    'STP_FCPM_JUNE11_V1_20240611041056', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Incident Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'), 
+    '1', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 
@@ -543,8 +543,8 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'), 
-    'STP_FCPM_JUNE11_V1_20240611041056', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/select_- Select any one -STP_FCPM_MAY08_V1__abd34a'), 
+    '1', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/AnalyticsReport/Page_Change Tracker Report/button_Run'))
 

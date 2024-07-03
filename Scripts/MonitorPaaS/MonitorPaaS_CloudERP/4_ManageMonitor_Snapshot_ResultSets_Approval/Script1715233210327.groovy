@@ -65,8 +65,8 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonit
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonitor_Snapshot/Page_Snapshot Report/select_Select any One(CT)STP_FCPM_APR22_R1__b628ab'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonitor_Snapshot/Page_Snapshot Report/select_Select any One(CT)STP_FCPM_APR22_R1__b628ab'), 
-    '313150', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonitor_Snapshot/Page_Snapshot Report/select_Select any One(CT)STP_FCPM_APR22_R1__b628ab'), 
+    '1', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
@@ -80,8 +80,8 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonit
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Rough/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/Rough/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'), 
-    'STP_FCPM_JUNE11_V1_361711_20240611041056', true, FailureHandling.OPTIONAL)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/MonitorPaaS/Rough/Page_ResultSets/select_Select any OneKTLN_ARAPRLMT_APR19_V1_ab8773'), 
+    '1')
 
 WebUI.delay(5)
 
@@ -291,7 +291,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS_IncidentRe
     '')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Reassign tkts/textarea_Comments_P92_COMMENTS'), 
-    'Test reassignment- June11_V1')
+    GlobalVariable.ReassignRequestor_Comment)
 
 WebUI.takeFullPageScreenshot()
 
