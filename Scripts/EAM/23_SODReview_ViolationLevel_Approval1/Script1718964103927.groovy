@@ -114,7 +114,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/SODReviewStatus_P
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD4A915F7DABADC01F9AC097A019DBC5E8')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD5E7DAA7ED9E9F31361475D0C663965F7')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/h2_Remediate Violation Survey -  KTLN_SODRe_bb7226 (1) (1) (1) (1) (1) (1) (1)'))
 

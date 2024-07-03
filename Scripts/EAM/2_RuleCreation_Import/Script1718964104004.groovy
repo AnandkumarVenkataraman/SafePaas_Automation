@@ -1,8 +1,13 @@
-import com.kms.katalon.core.configuration.RunConfiguration
-
-import com.kms.katalon.core.webui.driver.DriverFactory
-
-import com.kms.katalon.selenium.driver.CRemoteWebDriver
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.remote.LocalFileDetector as LocalFileDetector
+import org.openqa.selenium.support.events.EventFiringWebDriver as EventFiringWebDriver
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.selenium.driver.CRemoteWebDriver as CRemoteWebDriver
+import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
@@ -11,19 +16,14 @@ EventFiringWebDriver driver = DriverFactory.getWebDriver()
 WebDriver wrappedDriver = driver.getWrappedDriver()
 
 if (wrappedDriver.class == CRemoteWebDriver) {
-
-wrappedDriver.setFileDetector(new LocalFileDetector())
-
+    wrappedDriver.setFileDetector(new LocalFileDetector())
 }
 
 String dirName = RunConfiguration.getProjectDir()
 
 println('Project Directory: ' + dirName)
 
-String filePath = new File(RunConfiguration.getProjectDir() + '/' + 'FileData/EAM_Rules_Template.CSV').getCanonicalPath()
-
-
-WebUI.openBrowser('')
+String filePath = new File(RunConfiguration.getProjectDir() + '/' + 'EAM_Rules_Template.CSV').getCanonicalPath()
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
@@ -561,7 +561,8 @@ WebUI.comment('Provide the load name')
 WebUI.verifyElementPresent(findTestObject('deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), 0, 
     FailureHandling.OPTIONAL)
 
-WebUI.uploadFile(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), uploadfile)
+WebUI.uploadFile(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/input_P68_FILE_CONTENT - 144'), 
+    filePath)
 
 WebUI.comment('Choose the .csv file')
 
