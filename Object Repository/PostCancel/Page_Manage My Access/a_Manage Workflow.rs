@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Workflow</name>
+   <tag></tag>
+   <elementGuidId>da45ae77-0998-4272-8860-a81e6f6ac474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Manage Workflow' or . = 'Manage Workflow')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ee0059f-aadd-41be-870b-602e161d00c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>15bc7b82-4a3e-4a00-baae-2e912c795f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>405e7f2b-0f1b-4d9b-b871-a2e906a716f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label</value>
+      <webElementGuid>b5c6615e-d791-4dbb-966b-ce729b5b50a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1001:37:11141462427866:::37::&amp;cs=3OH9sz-2ruHlSkSkRWpEHa6oaViYwABI8LqiyRBRLVc8s87X6iMHpH4ZDm6P8TvHRJQp8TfQ1nXrqo9bUDpQswQ</value>
+      <webElementGuid>5f7e59b7-9956-43cf-9b32-4b5aabdc9435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>7994e700-6dfc-4171-beb1-2f3041823190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b573db22-4ffd-4983-a183-54cad7784e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Workflow</value>
+      <webElementGuid>4e0fd27a-4e33-4ee7-a021-1c64979d6de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_197&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>5dd1c6c6-f6d4-4b64-bbba-2b9ef7cbf6e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Manage Workflow' or . = 'Manage Workflow')]</value>
+      <webElementGuid>6887a895-3feb-41fc-96f2-2e19e3823dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Manage Workflow')])[3]</value>
+      <webElementGuid>b530cc41-5f9d-4f92-9bf0-d6cf5ab107a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduler'])[1]/following::a[1]</value>
+      <webElementGuid>9d934833-49d9-4da3-9626-b3ac0449394a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/following::a[2]</value>
+      <webElementGuid>f16a7d84-a055-46a7-87d2-b47a9624a7d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled Downloads'])[1]/preceding::a[1]</value>
+      <webElementGuid>eae32bce-174e-43dc-9b8b-5b91eeaf220f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Report'])[1]/preceding::a[2]</value>
+      <webElementGuid>6499f2d5-a68b-40e0-bb47-cb4d8d7e4b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Workflow']/parent::*</value>
+      <webElementGuid>63fa032c-4a24-4858-b844-7518b988f752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1001:37:11141462427866:::37::&amp;cs=3OH9sz-2ruHlSkSkRWpEHa6oaViYwABI8LqiyRBRLVc8s87X6iMHpH4ZDm6P8TvHRJQp8TfQ1nXrqo9bUDpQswQ')]</value>
+      <webElementGuid>886668e5-5994-490f-b9a5-841e244170c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[4]/ul/li[3]/ul/li[2]/div[2]/a</value>
+      <webElementGuid>87ed1e0a-ed16-4283-81a4-24100d542419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_197']/div[2]/a</value>
+      <webElementGuid>361c88ce-b05f-4047-be5f-c92baacde9f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

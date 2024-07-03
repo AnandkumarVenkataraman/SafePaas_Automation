@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_User Name_P114_USER_LIST_lov_btn</name>
+   <name>button_Go</name>
    <tag></tag>
-   <elementGuidId>cd258868-9145-45fc-889e-d45482773ef9</elementGuidId>
+   <elementGuidId>2dca7f73-6a29-43b0-a2e4-a05bd17555ba</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P114_USER_LIST_lov_btn</value>
+         <value>#B162774244382928185</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='P114_USER_LIST_lov_btn']</value>
+         <value>//button[@type = 'button' and @id = 'B162774244382928185' and (text() = 'Go' or . = 'Go')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f5b3303-b074-42b5-a3cc-6b1e33554a06</webElementGuid>
+      <webElementGuid>fe889174-bb95-47a7-b68b-b5b0b66cd2b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>bfafbf75-d7e2-4255-9435-96a447303571</webElementGuid>
+      <value>apex.submit({request:'SET_USER',validate:true});</value>
+      <webElementGuid>7ef125bf-6b86-4de2-8eab-1a292b269472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Button </value>
+      <webElementGuid>385abf28-70a4-4359-8252-64db53b3c54c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,102 +46,86 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9f855a7d-fa6a-4592-ad1b-735849094b31</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>a-Button a-Button--popupLOV</value>
-      <webElementGuid>1b1a2e2a-3b73-489d-85f4-8f15956baf7a</webElementGuid>
+      <webElementGuid>47ebd689-4f5d-4714-91fa-61cb58dafd9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P114_USER_LIST_lov_btn</value>
-      <webElementGuid>998e17c3-f22a-4aa8-8950-6463b0c19cf0</webElementGuid>
+      <value>B162774244382928185</value>
+      <webElementGuid>2a7082e4-d408-45c7-ac47-afc6ee717c33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>text</name>
       <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>7e46fbe5-3079-488b-b5f5-1543da559199</webElementGuid>
+      <value>Go</value>
+      <webElementGuid>dfb85b2d-ed29-47a7-9141-0d86bfd05faf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P114_USER_LIST_lov_btn&quot;)</value>
-      <webElementGuid>2691c3c7-5bcf-4908-95ae-b6421730c7bf</webElementGuid>
+      <value>id(&quot;B162774244382928185&quot;)</value>
+      <webElementGuid>50e84c33-5574-4f47-be50-b6c92486b817</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'P114_USER_LIST_lov_btn']</value>
-      <webElementGuid>7a35bc71-79fc-4631-824d-5ed99b34a3d3</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'B162774244382928185' and (text() = 'Go' or . = 'Go')]</value>
+      <webElementGuid>8010a2ec-dd1b-4fb3-b7c5-6719fedfc915</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='P114_USER_LIST_lov_btn']</value>
-      <webElementGuid>92a2bd2a-4d5c-4ff3-8e1a-b133160a44c5</webElementGuid>
+      <value>//button[@id='B162774244382928185']</value>
+      <webElementGuid>cef53c62-9a53-450c-989b-81a16fc5bcc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::button[1]</value>
-      <webElementGuid>120841ea-8a70-4fec-997a-337eb4789f87</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::button[2]</value>
+      <webElementGuid>470f815d-678e-47ba-b354-d08c68426fbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User'])[1]/following::button[1]</value>
-      <webElementGuid>a8e12505-fbac-4118-aba4-c0511e07667d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User'])[1]/following::button[2]</value>
+      <webElementGuid>7b1f358e-6c99-453d-80be-eccd9202932f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::button[1]</value>
-      <webElementGuid>1c119af8-b477-4aae-b70f-f82f5083b74b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::button[2]</value>
-      <webElementGuid>bcbc88cc-1922-45ef-8491-92ee52a8f699</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::button[1]</value>
+      <webElementGuid>52b0e5dd-83cf-4801-93ed-0009758802f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/button</value>
-      <webElementGuid>d822f1ef-e0df-408b-8b54-9a9a025a7168</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>e3473545-73c4-42bd-ae18-09d689586b2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P114_USER_LIST_CONTAINER']/div[2]/div/div/button</value>
-      <webElementGuid>09c4843d-ec2d-445c-99a0-33a552f5b72a</webElementGuid>
+      <value>//div[@id='R162772878753928172']/div[2]/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>0634eb07-5e2b-4ed4-9929-65e22ac92608</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_User Name_P114_USER_LIST_lov_btn</name>
+   <name>button_Refresh</name>
    <tag></tag>
-   <elementGuidId>cd258868-9145-45fc-889e-d45482773ef9</elementGuidId>
+   <elementGuidId>ea9d6fcd-2379-40ff-afc3-897c5b7a0564</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P114_USER_LIST_lov_btn</value>
+         <value>#B162772706518928170</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='P114_USER_LIST_lov_btn']</value>
+         <value>//button[@type = 'button' and @id = 'B162772706518928170' and (text() = 'Refresh' or . = 'Refresh')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f5b3303-b074-42b5-a3cc-6b1e33554a06</webElementGuid>
+      <webElementGuid>10a0e1d5-0eed-46aa-95db-6bc67a8405b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>bfafbf75-d7e2-4255-9435-96a447303571</webElementGuid>
+      <value>apex.submit({request:'REFRESH',validate:true});</value>
+      <webElementGuid>bdf14e1c-b036-4a22-b370-cb190f49b6fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Button </value>
+      <webElementGuid>5c162370-c13a-4953-94ff-cbdeafa3e56b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,102 +46,86 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9f855a7d-fa6a-4592-ad1b-735849094b31</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>a-Button a-Button--popupLOV</value>
-      <webElementGuid>1b1a2e2a-3b73-489d-85f4-8f15956baf7a</webElementGuid>
+      <webElementGuid>ff6f475d-d7a7-4850-98ca-b4ff824a41c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P114_USER_LIST_lov_btn</value>
-      <webElementGuid>998e17c3-f22a-4aa8-8950-6463b0c19cf0</webElementGuid>
+      <value>B162772706518928170</value>
+      <webElementGuid>0b74cac1-6da6-4e05-b361-6734382bb41b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>text</name>
       <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>7e46fbe5-3079-488b-b5f5-1543da559199</webElementGuid>
+      <value>Refresh</value>
+      <webElementGuid>a061155d-81c4-4792-9c21-ef5d7a6814ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P114_USER_LIST_lov_btn&quot;)</value>
-      <webElementGuid>2691c3c7-5bcf-4908-95ae-b6421730c7bf</webElementGuid>
+      <value>id(&quot;B162772706518928170&quot;)</value>
+      <webElementGuid>6955fb79-4adb-4833-9029-9f744ceda6b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'P114_USER_LIST_lov_btn']</value>
-      <webElementGuid>7a35bc71-79fc-4631-824d-5ed99b34a3d3</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'B162772706518928170' and (text() = 'Refresh' or . = 'Refresh')]</value>
+      <webElementGuid>084c59ab-c9d0-4897-9d12-3ce9b8160243</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='P114_USER_LIST_lov_btn']</value>
-      <webElementGuid>92a2bd2a-4d5c-4ff3-8e1a-b133160a44c5</webElementGuid>
+      <value>//button[@id='B162772706518928170']</value>
+      <webElementGuid>e83f6fb2-a5cd-4a4a-91f8-0baf02589f7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::button[1]</value>
-      <webElementGuid>120841ea-8a70-4fec-997a-337eb4789f87</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 4 of 4 - Violations Review'])[1]/following::button[1]</value>
+      <webElementGuid>bb1c7abb-054e-48f6-b1e0-e109bfd4188b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User'])[1]/following::button[1]</value>
-      <webElementGuid>a8e12505-fbac-4118-aba4-c0511e07667d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_CloudERP'])[1]/following::button[1]</value>
+      <webElementGuid>c984b782-d275-4f61-8150-0769cd32d045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::button[1]</value>
-      <webElementGuid>1c119af8-b477-4aae-b70f-f82f5083b74b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::button[2]</value>
-      <webElementGuid>bcbc88cc-1922-45ef-8491-92ee52a8f699</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::button[2]</value>
+      <webElementGuid>e235d852-f65f-480d-b423-d07299951078</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/button</value>
-      <webElementGuid>d822f1ef-e0df-408b-8b54-9a9a025a7168</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>63da25fa-8fb6-4f1e-80d0-32fe38c131b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P114_USER_LIST_CONTAINER']/div[2]/div/div/button</value>
-      <webElementGuid>09c4843d-ec2d-445c-99a0-33a552f5b72a</webElementGuid>
+      <value>//div[@id='R162772252661928166']/div/div[2]/button</value>
+      <webElementGuid>ff248dcf-6576-4e89-8326-7b43c2570bc5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

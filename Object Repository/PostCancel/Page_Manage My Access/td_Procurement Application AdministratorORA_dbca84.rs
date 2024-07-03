@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Procurement Application AdministratorORA_dbca84</name>
+   <tag></tag>
+   <elementGuidId>92692c41-6afa-4a62-902c-81fd5d2061c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]' or . = 'Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8deeef09-66d4-44dc-9e20-2bcf4f16e9d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>74fea6ca-98be-4246-9968-053b4670649f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C162973837059875371</value>
+      <webElementGuid>22ecf99d-2188-402b-a306-75e1ff5a0ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]</value>
+      <webElementGuid>8d0af50a-4b4f-4825-89c3-9676a9c9e5a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;162973667990875370_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>d2889d59-2e55-48cb-9220-652c4406059e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]' or . = 'Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]')]</value>
+      <webElementGuid>4a2e0ec8-a1af-40b3-b718-e5f4fef27125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request status'])[1]/following::td[1]</value>
+      <webElementGuid>0aaa6925-a869-44d1-a1b6-d3d46b8c08b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[1]/following::td[1]</value>
+      <webElementGuid>13ef8079-7f74-4aad-bf58-f2f083c3c090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/preceding::td[1]</value>
+      <webElementGuid>589fef6f-9ad9-4624-8397-044b1fa0d7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Administrator[ORA_PJF_PROJECT_ADMINISTRATOR_JOB]'])[1]/preceding::td[5]</value>
+      <webElementGuid>c8486230-84bd-45a2-810e-8db26d0ba813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]']/parent::*</value>
+      <webElementGuid>9de00565-8ffe-4093-85a6-f3170dee90b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>22e6a8a5-b37a-42b6-8f93-25f039908ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='162973667990875370_orig']/tbody/tr[2]/td</value>
+      <webElementGuid>504f3b25-01d4-4226-8a4f-3bf7967c7ebe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

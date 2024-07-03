@@ -109,4 +109,29 @@
       <initValue>'KTLN_EACM_Survey_July1_V6'</initValue>
       <name>SurveyName_ManageWorkflow</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_ARLimit_JULY3_V1</description>
+      <initValue>'KTLN_ARLimit_JULY3_V1'</initValue>
+      <name>MTP_EBS_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>STP_FCPM_JULY3_V1</description>
+      <initValue>'STP_FCPM_JULY3_V1'</initValue>
+      <name>MTP_CloudERP_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test reassignment-JULY3_V1</description>
+      <initValue>'Test reassignment-JULY3_V1'</initValue>
+      <name>ReassignRequestor_Comment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test ticket # JULY3_V1</description>
+      <initValue>'Test ticket # JULY3_V1'</initValue>
+      <name>ReassignRequestor_Ticketno</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test Justification # JULY3_V2</description>
+      <initValue>'Test Justification # JULY3_V2'</initValue>
+      <name>ReassignRequestor_Justification</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
