@@ -19,11 +19,8 @@ if (wrappedDriver.class == CRemoteWebDriver) {
     wrappedDriver.setFileDetector(new LocalFileDetector())
 }
 
-String dirName = RunConfiguration.getProjectDir()
 
-println('Project Directory: ' + dirName)
-
-String filePath = new File(RunConfiguration.getProjectDir() + '/' + 'EAM_Rules_Template.CSV').getCanonicalPath()
+String filePath = new File(RunConfiguration.getProjectDir() + '/' + 'EAM_Rules_Template.csv').getCanonicalPath()
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
