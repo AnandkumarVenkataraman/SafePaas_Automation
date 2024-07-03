@@ -40,13 +40,13 @@
       <name>SOD_Testnew</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_SODReview_June26_V1</description>
-      <initValue>'KTLN_SODReview_June26_V1'</initValue>
+      <description>KTLN_SODReview_July3_V1</description>
+      <initValue>'KTLN_SODReview_July3_V1'</initValue>
       <name>SODSurveyName_ViolationLevel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_June26_V1</description>
-      <initValue>'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_June26_V1'</initValue>
+      <description>KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_July3_V1</description>
+      <initValue>'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_July3_V1'</initValue>
       <name>Justification_ViolationLevel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -70,13 +70,13 @@
       <name>AddRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLNAutomation_ImportFile_July2_V1</description>
-      <initValue>'KTLNAutomation_ImportFile_July2_V1'</initValue>
+      <description>KTLNAutomation_ImportFile_July2_V2</description>
+      <initValue>'KTLNAutomation_ImportFile_July2_V2'</initValue>
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July1_V7</description>
-      <initValue>'KTLN_EACM_Survey_July1_V7'</initValue>
+      <description>KTLN_EACM_Survey_July3_V1</description>
+      <initValue>'KTLN_EACM_Survey_July3_V1'</initValue>
       <name>EACM_SurveyName_Verified</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
