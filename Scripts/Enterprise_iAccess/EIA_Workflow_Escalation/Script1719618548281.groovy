@@ -124,7 +124,5 @@ WebUI.click(findTestObject('Object Repository/EIA_Reassign/Page_Manage Workflow/
 
 WebUI.verifyElementClickable(findTestObject('Escalation/Page_Manage Workflow/h2_Escalation sent successfully'))
 
-WebUI.click(findTestObject('Escalation/Page_Manage Workflow/h2_Escalation sent successfully'))
-
 WebUI.closeBrowser()
 
