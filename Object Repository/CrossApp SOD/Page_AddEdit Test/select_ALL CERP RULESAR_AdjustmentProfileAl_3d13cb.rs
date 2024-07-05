@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ALL CERP RULESAR_AdjustmentProfileAl_3d13cb</name>
+   <tag></tag>
+   <elementGuidId>7e4ede06-7952-4d46-b767-2971abebf50b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@title = 'Move from' and @id = 'P35_RULE_TAGS_LEFT' and (text() = '
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+DEV22
+EBizRule
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+' or . = '
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+DEV22
+EBizRule
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_RULE_TAGS_LEFT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4ad6d724-04a4-4d72-a249-8243eacf99db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Move from</value>
+      <webElementGuid>1597e869-b8c6-472e-9d4d-538b7247b54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>76b030a0-d434-427c-a96b-133eea0341fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_RULE_TAGS_LEFT</value>
+      <webElementGuid>7da2362c-a02e-47af-91e2-8f82ce9b203d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>ab55525b-ee23-4cf2-b425-9b68c9c1158d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shuttle_left apex-item-select</value>
+      <webElementGuid>205a2427-f70f-493f-9a04-908c5a3de1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+DEV22
+EBizRule
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+</value>
+      <webElementGuid>95b85c97-54d6-4c61-b13f-1a299762f871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_RULE_TAGS_LEFT&quot;)</value>
+      <webElementGuid>939ceb63-e5da-4618-ae77-cb9bbbfa64c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Move from' and @id = 'P35_RULE_TAGS_LEFT' and (text() = '
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+DEV22
+EBizRule
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+' or . = '
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+DEV22
+EBizRule
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+')]</value>
+      <webElementGuid>03ea940d-770d-48a6-a83f-babc3682f5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_RULE_TAGS_LEFT']</value>
+      <webElementGuid>1d32d9fb-338c-4ad7-9f74-5943417bec9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::select[1]</value>
+      <webElementGuid>2f175445-1471-45db-beaf-18e71d6a4d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[4]/preceding::select[2]</value>
+      <webElementGuid>c6387059-1bb0-40cf-bf39-7e57c9a0f634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/select</value>
+      <webElementGuid>ffd7d448-bf4c-4683-affe-a06a1d21ff84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_RULE_TAGS']/table/tbody/tr/td/select</value>
+      <webElementGuid>56302446-eb17-408d-87a5-d363bbe35977</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

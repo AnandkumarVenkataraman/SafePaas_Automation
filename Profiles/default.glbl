@@ -100,8 +100,8 @@
       <name>EACM_SendReminder_Survey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July1_V5</description>
-      <initValue>'KTLN_EACM_Survey_July1_V5'</initValue>
+      <description>KTLN_EACM_Survey_July7_V1</description>
+      <initValue>'KTLN_EACM_Survey_July7_V1'</initValue>
       <name>EACM_Delegation</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -133,5 +133,15 @@
       <description>Test Justification # JULY3_V2</description>
       <initValue>'Test Justification # JULY3_V2'</initValue>
       <name>ReassignRequestor_Justification</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CloudERP_SS_July7_V1</description>
+      <initValue>'CloudERP_SS_July7_V1'</initValue>
+      <name>DTP_CloudERP_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>JDBC_Extract_July7_V1</description>
+      <initValue>'JDBC_Extract_July7_V1'</initValue>
+      <name>DTP_JDBC_SSName</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

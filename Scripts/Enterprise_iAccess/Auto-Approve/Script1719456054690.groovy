@@ -45,6 +45,8 @@ WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
     'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
 
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))

@@ -7,13 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id = 'P54_AAPROVAL_TYPE' and @name = 'P54_AAPROVAL_TYPE' and (text() = 'Select any one
-All
-Violation Only
-' or . = 'Select any one
-All
-Violation Only
-')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Type'])[1]/following::select[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -28,7 +22,7 @@ Violation Only
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>1957580c-eaeb-4228-98f1-4f9b11c84d02</webElementGuid>
+      <webElementGuid>d990b350-fd48-46a2-b4fe-5373db1fc4d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +30,7 @@ Violation Only
       <name>id</name>
       <type>Main</type>
       <value>P54_AAPROVAL_TYPE</value>
-      <webElementGuid>01518516-5e3a-4b50-9dbe-25f0539f41bf</webElementGuid>
+      <webElementGuid>3872e04f-0cff-45cf-9d4e-3def0d8a610c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +38,7 @@ Violation Only
       <name>name</name>
       <type>Main</type>
       <value>P54_AAPROVAL_TYPE</value>
-      <webElementGuid>446ab526-12cc-4f57-a778-1b71484e26dc</webElementGuid>
+      <webElementGuid>ce5d578d-e214-4276-afb6-02c3c99223ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +46,7 @@ Violation Only
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>c844e9c7-0dc2-4cfe-9bc9-532f5f50e3ba</webElementGuid>
+      <webElementGuid>e4f60478-66a2-4458-b761-d07b62ed076f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +54,7 @@ Violation Only
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ca4e324d-100a-4ddc-93c8-d499f8cd86e0</webElementGuid>
+      <webElementGuid>91b324a5-513c-4ebc-9fa7-79a1d13e5d96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +62,7 @@ Violation Only
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>e4947227-7da8-4720-a983-a39a872227c6</webElementGuid>
+      <webElementGuid>04e91db0-664d-473d-9229-b779599d64c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +73,7 @@ Violation Only
 All
 Violation Only
 </value>
-      <webElementGuid>4c9b5d12-bf53-4750-ae22-7dd35bd5711a</webElementGuid>
+      <webElementGuid>236a5dbf-3323-4f07-bb21-836f4161bc39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +81,7 @@ Violation Only
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P54_AAPROVAL_TYPE&quot;)</value>
-      <webElementGuid>e1423d45-32e9-4b5b-944f-748ccd12813c</webElementGuid>
+      <webElementGuid>2dc380fb-a358-4cd5-878c-48bff68c7751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +89,7 @@ Violation Only
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/iframe_1</value>
-      <webElementGuid>93287885-e8b9-4bb3-89ac-a5c6f1ceb12a</webElementGuid>
+      <webElementGuid>7e23f29e-84a0-4682-b9a8-aa2e82337fcc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +103,7 @@ Violation Only
 All
 Violation Only
 ')]</value>
-      <webElementGuid>3ef9e31d-874f-41b8-94ed-73a60fa23294</webElementGuid>
+      <webElementGuid>f38ac5ac-a1a3-47d1-93c4-a0bacccedc43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +111,7 @@ Violation Only
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P54_AAPROVAL_TYPE']</value>
-      <webElementGuid>5f291f1a-a155-4a32-bade-fb354a5d03f1</webElementGuid>
+      <webElementGuid>b5c76262-591d-45a2-bca2-0a4c7e68134e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +119,7 @@ Violation Only
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Type'])[1]/following::select[1]</value>
-      <webElementGuid>e0f9e08f-24bc-44b5-a690-b5fcd9c8f45b</webElementGuid>
+      <webElementGuid>2f8fb518-93a8-4239-839c-b9fa1c4c1402</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +127,7 @@ Violation Only
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::select[2]</value>
-      <webElementGuid>542b13b9-b8d8-436e-8e9f-6a60f2cefd5c</webElementGuid>
+      <webElementGuid>93398f42-5141-4b08-91dd-32183e31f062</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +135,7 @@ Violation Only
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Role'])[1]/preceding::select[1]</value>
-      <webElementGuid>7a50c57b-dfa4-4936-b834-27dd86bcfa4e</webElementGuid>
+      <webElementGuid>569e8438-8669-4285-aced-c5e016b38d40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +143,7 @@ Violation Only
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::select[2]</value>
-      <webElementGuid>4ccc4f78-9f8a-499d-966b-8cbbf2925098</webElementGuid>
+      <webElementGuid>02b3c225-26c1-4728-b100-3285a966c326</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +151,7 @@ Violation Only
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div/select</value>
-      <webElementGuid>1ce5eaca-e3ca-45d1-88c4-6f054715e097</webElementGuid>
+      <webElementGuid>71566925-72aa-4acd-8276-0428efc59982</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +159,6 @@ Violation Only
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P54_AAPROVAL_TYPE_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>2ea07bcc-59f7-441f-ac3c-f5071f5c0c24</webElementGuid>
+      <webElementGuid>0617e272-c316-4c52-89f0-7442f93cb23b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

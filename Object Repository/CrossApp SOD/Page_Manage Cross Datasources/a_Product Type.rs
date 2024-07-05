@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Product Type</name>
+   <tag></tag>
+   <elementGuidId>ba169991-89da-40e9-a0b2-25ee4f533117</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Product Type' or . = 'Product Type')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C152663895616761050 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2a9d8e9d-9071-4676-8be8-a50c5d15f83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>9e9c6616-ed37-40ef-b6d3-4b732d65ec5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>152663895616761050</value>
+      <webElementGuid>6a471fc5-c55c-4e17-9ec2-c4d53c95ae0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>d37a2d53-f143-40b6-8af8-13b4d70b4f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Type</value>
+      <webElementGuid>432fd3cf-97a5-4a29-9c48-81dd5c65df8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;168493145865531637&quot;)/tr[1]/th[@id=&quot;C152663895616761050&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>cc770a00-fa60-4d0c-bca3-86556c9d5cf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Product Type' or . = 'Product Type')]</value>
+      <webElementGuid>e4ce3522-8bf3-42d0-bdc8-2b158ceca288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Product Type')]</value>
+      <webElementGuid>9324fd36-daa8-4ee3-b326-c975d707a4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Name'])[1]/following::a[1]</value>
+      <webElementGuid>660972d5-7bbf-4615-ab6d-ddafb6b27e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Object'])[1]/following::a[2]</value>
+      <webElementGuid>6638bddb-377d-427f-9363-5ded5a21442f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SailPoint_ENV2'])[1]/preceding::a[8]</value>
+      <webElementGuid>66c50a19-26f9-4141-b6a5-7a5e9fb999bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_CloudERP'])[1]/preceding::a[8]</value>
+      <webElementGuid>30eccb5e-edc5-4d06-b829-9fbeefb180d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product Type']/parent::*</value>
+      <webElementGuid>d73e5bf3-ceda-456e-8dcf-e867b888c96f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/a</value>
+      <webElementGuid>9c598b68-5f4d-479b-a5f3-73c0b24e76ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C152663895616761050']/a</value>
+      <webElementGuid>e1ffc69d-727e-4cb5-98b4-97beaec10037</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -19,7 +19,77 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Login/input_Spring 2024_P101_COMPANY'), 
+    'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
+    'KATALON_ADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Login/input_New_P101_PASSWORD'), 
+    'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Login/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Home/span_Help_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7'))
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Home/span_Manage My Access_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Home/a_Maintain Approval Hierarchy'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
+    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'), 
+    'ALL', true)
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/button_Apply Changes'))
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/Page_Maintain Approval Hierarchy/img_KATALON_ADMIN_apex-edit-pencil_level2'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'), 
+    'ALL', true)
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/button_Apply Changes'))
+
+WebUI.click(findTestObject('Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/Page_Maintain Approval Hierarchy/img_KATALON_ADMIN_apex-edit-pencil_level3'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'), 
+    'VO', true)
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/button_Apply Changes'))
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/Page_Maintain Approval Hierarchy/img_KATALON_ADMIN_apex-edit-pencil_level2'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'), 
+    'VO', true)
+
+WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/button_Apply Changes'))
+
+WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_katalon_admin'))
+
+WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_Logout'))
 
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_Spring 2024_P101_COMPANY'), 'KAT')
 
@@ -70,7 +140,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review V
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/button_Access Request Submitted. Please che_0dc3e5'))
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/button_mohit.kumar'))
+WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Manage My Access/button_akash.kumar gandhi'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/a_Logout'))
 

@@ -88,7 +88,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/DataProbe_CloudERP/Man
     '')
 
 WebUI.setText(findTestObject('Object Repository/DataProbe_CloudERP/ManageSnapshot/Page_Manage Snapshot/input_Expression_p_ignore_10'), 
-    'CloudERP_SS_June19_V1')
+    GlobalVariable.DTP_CloudERP_SSName)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/DataProbe_CloudERP/ManageSnapshot/Page_Manage Snapshot/button_Apply'))
 

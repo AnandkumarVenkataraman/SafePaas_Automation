@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Product Type_apex-edit-page</name>
+   <tag></tag>
+   <elementGuidId>691420ea-364a-4447-8254-f0c6f635079e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/i/app_ui/img/icons/apex-edit-page.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.apex-edit-page</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cae4a89b-9d71-4d92-8400-9b1fb6f42f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/i/app_ui/img/icons/apex-edit-page.png</value>
+      <webElementGuid>84cd7294-7ea5-4a24-b556-9b55b230ce7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-edit-page</value>
+      <webElementGuid>b5729d07-8c2f-4029-a605-f82734dd4393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;168493145865531637_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/img[@class=&quot;apex-edit-page&quot;]</value>
+      <webElementGuid>4e2c88fd-21a1-4711-aa17-051615741afb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/i/app_ui/img/icons/apex-edit-page.png']</value>
+      <webElementGuid>653f9d66-acbb-43d6-a7ee-b2c802d7c35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>9c54a263-ff3c-45d7-a540-af51b47896e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='168493145865531637_orig']/tbody/tr[2]/td/a/img</value>
+      <webElementGuid>5db6c64f-0abf-4820-ba4b-bb9900f2d6a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
