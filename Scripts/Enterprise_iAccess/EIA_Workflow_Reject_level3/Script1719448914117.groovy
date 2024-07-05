@@ -99,9 +99,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/P
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
-WebUI.delay(500)
+WebUI.delay(30)
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
@@ -140,7 +142,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/P
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
+
+WebUI.delay(30)
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
@@ -181,7 +187,11 @@ WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/labe
 
 WebUI.setText(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/textarea_Review Comments_P23_COMMENTS'), 'Rejected level 3')
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
+
+WebUI.delay(30)
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 
