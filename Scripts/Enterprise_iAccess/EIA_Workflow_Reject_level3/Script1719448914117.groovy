@@ -120,6 +120,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Pa
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/button_Login'))
 
+WebUI.delay(30)
+
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/input_My Inbox_R163105974055422926_search_field'), 
     'Access Request WF Notification')
 
