@@ -6,12 +6,40 @@
    <elementGuidId>926301fe-7267-405a-addf-43ac4cb33620</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;P114_USER_LIST&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#P0_ENVIRONMENT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
+EBizApp_JDBC_Env
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+McD_GRM_ENV
+NOVA_DEV1_ENV
+SailPoint_Env
+SailPoint_ENV2
+TririgaDB_Env
+Tririga_Env
+WorkDay_Env
+' or . = 'Select any one
+EBizApp_JDBC_Env
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+McD_GRM_ENV
+NOVA_DEV1_ENV
+SailPoint_Env
+SailPoint_ENV2
+TririgaDB_Env
+Tririga_Env
+WorkDay_Env
+')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>569e9ad1-8247-4a54-aba7-185486765bfd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[(text() = 'Manage My Access' or . = 'Manage My Access')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

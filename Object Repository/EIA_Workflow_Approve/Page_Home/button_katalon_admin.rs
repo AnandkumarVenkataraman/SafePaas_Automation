@@ -6,16 +6,12 @@
    <elementGuidId>6ea65840-a704-48d0-92bf-4ba540b5229a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'L14205299837764170' and (text() = '
-      katalon_admin
-  ' or . = '
-      katalon_admin
-  ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#L14205299837764170</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

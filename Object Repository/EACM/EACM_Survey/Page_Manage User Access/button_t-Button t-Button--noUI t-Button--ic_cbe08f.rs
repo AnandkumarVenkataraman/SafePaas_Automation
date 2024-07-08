@@ -6,16 +6,16 @@
    <elementGuidId>c0c0dc89-abb3-4b0c-9baf-7b91342eb6e0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'button' and @title = 'Close']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @title = 'Close']</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

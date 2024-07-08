@@ -6,12 +6,12 @@
    <elementGuidId>a8295df6-1f1b-4a5a-b399-5475d17a3515</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//iframe[@src = 'f?p=1001:35:3515979970620::::P35_MODULE,P35_INSTANCE_NAME,P35_PRCS_ID,P35_LEVEL,P35_STATUS,P35_MODULE_FEATURE,P35_GROUP_ID:EIA,Access%20to%20Project%20Manager%5BORA_PJF_PROJECT_MANAGER_JOB%5D%20for%20Jeffrey%20Sharpe,11490978,1,Open,,5409&amp;cs=1023139991D6811C9B9DF69EA97013ACF&amp;p_dialog_cs=2_D-b15qfZfddsvpeSy5zgWEntvKzpDZrdmXYrySyqQkwdT-d8MYIHen-5tGBEgeblBTiGsXxn9yJHvA13EE0g']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>iframe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

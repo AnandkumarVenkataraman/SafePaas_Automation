@@ -6,12 +6,12 @@
    <elementGuidId>d16792b3-57e9-427a-be66-03360b99e13d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id = 'menu_L14205299837764170_1i' and (text() = 'Logout' or . = 'Logout')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#menu_L14205299837764170_1i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Logout')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

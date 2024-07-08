@@ -6,15 +6,19 @@
    <elementGuidId>a057cfd8-f62d-4f2a-8d53-0773ca67fc1b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C158654164639639419']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C158654164639639419 > a.a-IRR-headerLink</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Download' or . = 'Download')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C158654164639639419']/a</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

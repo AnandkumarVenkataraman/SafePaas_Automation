@@ -144,4 +144,9 @@
       <initValue>'JDBC_Extract_July7_V1'</initValue>
       <name>DTP_JDBC_SSName</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SODTest_CrossApp_Jul8_v1</description>
+      <initValue>'SODTest_CrossApp_Jul8_v1'</initValue>
+      <name>SOD_CrossApp</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

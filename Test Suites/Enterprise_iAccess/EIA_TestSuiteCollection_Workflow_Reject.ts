@@ -34,7 +34,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>false</runEnabled>
+         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Enterprise_iAccess/EIA_Workflow_Reject_level3</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>

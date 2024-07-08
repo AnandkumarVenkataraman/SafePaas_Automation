@@ -98,10 +98,10 @@ WebUI.click(findTestObject('Object Repository/CrossApp SOD/Page_Manage Rules/a_M
 WebUI.click(findTestObject('Object Repository/CrossApp SOD/Page_Manage SOD Test/button_Create'))
 
 WebUI.setText(findTestObject('Object Repository/CrossApp SOD/Page_AddEdit Test/input_(Value Required)_P35_REQUEST_NAME'), 
-    'SODTest_CrossApp_Jul3_v1')
+    GlobalVariable.SOD_CrossApp)
 
 WebUI.setText(findTestObject('Object Repository/CrossApp SOD/Page_AddEdit Test/textarea_Description_P35_REQUEST_DESCRIPTION'), 
-    'SODTest_CrossApp_Jul3_v1')
+    GlobalVariable.SOD_CrossApp)
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/CrossApp SOD/Page_AddEdit Test/select_Select any OneSOD PreventiveSOD Dete_369111'), 
     'SOD Detective', true)

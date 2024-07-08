@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[(text() = 'In Approval Progress' or . = 'In Approval Progress')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

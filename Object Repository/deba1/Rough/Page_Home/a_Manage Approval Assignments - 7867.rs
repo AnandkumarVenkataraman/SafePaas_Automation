@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[contains(@class,'is-current')]//following::a[contains(text(),'Manage Approval Assignments')]</value>
+         <value>//li[@id='t_TreeNav_15']/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

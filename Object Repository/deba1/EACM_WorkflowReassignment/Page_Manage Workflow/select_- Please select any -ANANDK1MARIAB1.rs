@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @title = 'Close']</value>
+         <value>//select[@id='P35_ORIG_APPROVER']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

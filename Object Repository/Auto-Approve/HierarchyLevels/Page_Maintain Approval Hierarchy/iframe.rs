@@ -6,12 +6,12 @@
    <elementGuidId>9348960a-aab2-4ecb-9473-157e460bc232</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//iframe[@src = 'f?p=1200:54:428747203410:::RP,54:P54_USP_ID:301&amp;p_dialog_cs=1folDw_b6fn7a0naGqfpPC5h7SQZUVbALYBQCJEjpf57Whr1RFfn3ge-Ke-eOAQooZrahFa4ZHLknflENvXbVw' and @title = 'Add/Edit Approval Hierarchy']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>iframe[title=&quot;Add/Edit Approval Hierarchy&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
