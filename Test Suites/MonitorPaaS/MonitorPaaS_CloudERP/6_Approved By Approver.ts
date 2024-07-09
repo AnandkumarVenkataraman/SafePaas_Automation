@@ -15,7 +15,7 @@
       <guid>5934dd3a-c6c3-4cd2-9683-1eeb4a5f743a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MonitorPaaS/MonitorPaaS_CloudERP/6_MonitorPaaS_Approved by Approver</testCaseId>
+      <testCaseId>Test Cases/MonitorPaaS/MonitorPaaS_CloudERP/5_MonitorPaaS_Approved by Approver</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

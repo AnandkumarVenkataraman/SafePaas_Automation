@@ -15,7 +15,7 @@
       <guid>ac4b1bdb-c270-4cd1-ad05-4547c18eecb1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MonitorPaaS/MonitorPaaS_CloudERP/8_Incident Status Report Verification</testCaseId>
+      <testCaseId>Test Cases/MonitorPaaS/MonitorPaaS_CloudERP/7_Incident Status Report Verification</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -110,28 +110,28 @@
       <name>SurveyName_ManageWorkflow</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_ARLimit_JULY8_V1</description>
-      <initValue>'KTLN_ARLimit_JULY8_V1'</initValue>
+      <description>KTLN_ARLimit_JULY9_V1</description>
+      <initValue>'KTLN_ARLimit_JULY9_V1'</initValue>
       <name>MTP_EBS_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>STP_FCPM_JULY8_V1</description>
-      <initValue>'STP_FCPM_JULY8_V1'</initValue>
+      <description>STP_FCPM_JULY9_V1</description>
+      <initValue>'STP_FCPM_JULY9_V1'</initValue>
       <name>MTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test reassignment-JULY8_V1</description>
-      <initValue>'Test reassignment-JULY8_V1'</initValue>
+      <description>Test reassignment-JULY9_V1</description>
+      <initValue>'Test reassignment-JULY9_V1'</initValue>
       <name>ReassignRequestor_Comment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test ticket # JULY8_V1</description>
-      <initValue>'Test ticket # JULY8_V1'</initValue>
+      <description>Test ticket # JULY9_V1</description>
+      <initValue>'Test ticket # JULY9_V1'</initValue>
       <name>ReassignRequestor_Ticketno</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test Justification # JULY8_V2</description>
-      <initValue>'Test Justification # JULY8_V2'</initValue>
+      <description>Test Justification # JULY9_V2</description>
+      <initValue>'Test Justification # JULY9_V2'</initValue>
       <name>ReassignRequestor_Justification</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
