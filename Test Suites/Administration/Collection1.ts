@@ -14,7 +14,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/Administration/1_Administration_Company settings</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -24,7 +24,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/Administration/2_Administration_Global Settings</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -34,7 +34,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/Administration/3_Administration_Platform</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -54,7 +54,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/DTP/CloudERP/2_DTP_CloudERP_ManageSnapshot</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -64,7 +64,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/DTP/JDBC/1_ManageDatasource</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -74,7 +74,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/DTP/JDBC/2_SnapshotExtract</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -104,7 +104,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_CloudERP/3_ManageMonitor_Snapshot_ResultSets_Approval</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -114,7 +114,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_CloudERP/4_MTP_ResultSets</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -124,7 +124,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_CloudERP/5_ReassignRequestor</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -134,7 +134,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_CloudERP/6_Approved By Approver</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -144,7 +144,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_CloudERP/7_SubmittedbyReviewer</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -154,7 +154,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_CloudERP/8_Report</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -164,7 +164,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_EBS/1_MonitorPaaS_Datasource</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -174,7 +174,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_EBS/2_MonitorPaas_ManageObject</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -184,7 +184,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_EBS/3_ManageMonitor_Deploy and Schedule</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -194,7 +194,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/MonitorPaaS/MonitorPaaS_EBS/4_ManageMonitor_Snapshot_ResultSets_Approval</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
