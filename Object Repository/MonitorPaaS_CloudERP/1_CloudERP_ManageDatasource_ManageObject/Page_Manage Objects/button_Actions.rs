@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id = 'R122864292076293001_actions_button' and @type = 'button' and (text() = 'Actions' or . = 'Actions')]</value>
+         <value>//div[3]/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

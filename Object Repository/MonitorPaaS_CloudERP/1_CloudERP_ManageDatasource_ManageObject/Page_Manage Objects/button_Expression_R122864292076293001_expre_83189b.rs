@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='R122864292076293001_expression_icon_link']</value>
+         <value>//div[2]/span/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

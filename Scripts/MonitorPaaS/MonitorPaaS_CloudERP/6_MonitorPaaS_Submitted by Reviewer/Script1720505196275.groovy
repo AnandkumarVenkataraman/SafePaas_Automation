@@ -33,7 +33,7 @@ WebUI.comment('Enter KAT company')
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Submitted by Reviewer/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (1) (1) (1)'), 
     'DPATEL')
 
-WebUI.comment('Enter the Username as ANANDK1')
+WebUI.comment('Enter the Username ')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Submitted by Reviewer/Page_Login/input_New_P101_PASSWORD (1) (1) (1)'), 
     'Ju8vHiRYWYTapQtHptL/Yg==')

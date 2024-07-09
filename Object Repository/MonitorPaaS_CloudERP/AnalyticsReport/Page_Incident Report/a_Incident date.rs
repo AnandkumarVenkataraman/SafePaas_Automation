@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Incident date')])[2]</value>
+         <value>//th[@id='C176259641497708833']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

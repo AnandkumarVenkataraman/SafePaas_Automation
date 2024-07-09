@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Action Comments')])[2]</value>
+         <value>//div[6]/div/table/tbody/tr/th[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='R122864292076293001_column_name']</value>
+         <value>//div[2]/select</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

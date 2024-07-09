@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Incident')])[6]</value>
+         <value>//div[6]/div/table/tbody/tr/th[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

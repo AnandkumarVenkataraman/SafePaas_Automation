@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'STP-Funds Capture Payment Method')])[2]</value>
+         <value>(//a[contains(@href, '#')])[90]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
