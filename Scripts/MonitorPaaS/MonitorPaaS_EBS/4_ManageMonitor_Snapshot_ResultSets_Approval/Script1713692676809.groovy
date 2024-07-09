@@ -57,10 +57,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_Incid
 
 WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Monitor Details/span_Snapshots (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Snapshot Report/label_Occurrence'))
-
-WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Snapshot Report/label_Occurrence'))
-
 WebUI.delay(3)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/snapshot/Page_Snapshot Report/select_Select any One(SS)KTLN_ARLIMIT_APR19_526a61 (1)'))
