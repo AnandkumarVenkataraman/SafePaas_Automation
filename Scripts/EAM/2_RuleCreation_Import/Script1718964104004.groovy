@@ -8,6 +8,18 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.selenium.driver.CRemoteWebDriver as CRemoteWebDriver
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 
 WebUI.openBrowser('')
 
@@ -19,8 +31,7 @@ if (wrappedDriver.class == CRemoteWebDriver) {
     wrappedDriver.setFileDetector(new LocalFileDetector())
 }
 
-
-String filePath = new File(RunConfiguration.getProjectDir() + '/' + 'EAM_Rules_Template.csv').getCanonicalPath()
+String filePath = new File((RunConfiguration.getProjectDir() + '/') + 'EAM_Rules_Template.csv').getCanonicalPath()
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
@@ -593,6 +604,8 @@ WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upl
 WebUI.comment('Go to Upload section')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/button_Import Rules'))
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.click(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Upload File/button_Import Rules'))
 
