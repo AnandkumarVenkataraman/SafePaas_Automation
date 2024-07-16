@@ -121,6 +121,8 @@ WebUI.click(findTestObject('Object Repository/deba3/AggregateLevel_SODReview/Pag
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageSOdreview/Page_SOD Review Configuration/button_Update'))
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.click(findTestObject('Object Repository/deba3/ManageSOdreview/Page_SOD Review Configuration/button_Update'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageSOdreview/Page_SOD Review Configuration/button_t-Button t-Button--noUI t-Button--ic_cbe08f'))
