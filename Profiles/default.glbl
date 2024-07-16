@@ -5,13 +5,13 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description>KTLN_SODTest_July15_V1</description>
-      <initValue>'KTLN_SODTest_July15_V1'</initValue>
+      <description>KTLN_SODTest_July15_V2</description>
+      <initValue>'KTLN_SODTest_July15_V2'</initValue>
       <name>SOD_Test</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>JustificationRole_July15_V1</description>
-      <initValue>'JustificationRole_July15_V1'</initValue>
+      <description>JustificationRole_July15_V2</description>
+      <initValue>'JustificationRole_July15_V2'</initValue>
       <name>Justification_Role_Local</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -75,38 +75,38 @@
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July3_V1</description>
-      <initValue>'KTLN_EACM_Survey_July3_V1'</initValue>
+      <description>KTLN_EACM_Survey_July16_V1</description>
+      <initValue>'KTLN_EACM_Survey_July16_V1'</initValue>
       <name>EACM_SurveyName_Verified</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July1_V2</description>
-      <initValue>'KTLN_EACM_Survey_July1_V2'</initValue>
+      <description>KTLN_EACM_Survey_July16_V2</description>
+      <initValue>'KTLN_EACM_Survey_July16_V2'</initValue>
       <name>EACM_SurveyName_TerminateAccess</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July1_V3</description>
-      <initValue>'KTLN_EACM_Survey_July1_V3'</initValue>
+      <description>KTLN_EACM_Survey_July16_V3</description>
+      <initValue>'KTLN_EACM_Survey_July16_V3'</initValue>
       <name>EACM_SurveyName_AutomaticPOST</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July1_V4</description>
-      <initValue>'KTLN_EACM_Survey_July1_V4'</initValue>
+      <description>KTLN_EACM_Survey_July16_V4</description>
+      <initValue>'KTLN_EACM_Survey_July16_V4'</initValue>
       <name>EACM_Schedule_SurveyName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>CLOUDERP_CERT_July1_V1</description>
-      <initValue>'CLOUDERP_CERT_July1_V1'</initValue>
+      <description>CLOUDERP_CERT_July16_V5</description>
+      <initValue>'CLOUDERP_CERT_July16_V5'</initValue>
       <name>EACM_SendReminder_Survey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July7_V1</description>
-      <initValue>'KTLN_EACM_Survey_July7_V1'</initValue>
+      <description>KTLN_EACM_Survey_July16_V6</description>
+      <initValue>'KTLN_EACM_Survey_July16_V6'</initValue>
       <name>EACM_Delegation</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'KTLN_EACM_Survey_July1_V6'</initValue>
+      <initValue>'KTLN_EACM_Survey_July16_V7'</initValue>
       <name>EACM_SurveyName_ManageWorkflow</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
