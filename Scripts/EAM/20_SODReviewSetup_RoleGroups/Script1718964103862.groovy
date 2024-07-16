@@ -223,9 +223,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(2)
 
-WebUI.scrollToPosition(0, 0)
-
 WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/a_Manage Approval Assignments - 7867'))
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.click(findTestObject('deba1/Rough/Page_Home/a_Manage Approval Assignments - 7867'))
 
