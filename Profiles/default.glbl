@@ -75,8 +75,8 @@
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July17_V1</description>
-      <initValue>'KTLN_EACM_Survey_July17_V1'</initValue>
+      <description>KTLN_EACM_Survey_July18_V2</description>
+      <initValue>'KTLN_EACM_Survey_July18_V2'</initValue>
       <name>EACM_SurveyName_Verified</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -100,8 +100,8 @@
       <name>EACM_SendReminder_Survey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July17_V6</description>
-      <initValue>'KTLN_EACM_Survey_July17_V6'</initValue>
+      <description>KTLN_EACM_Survey_July18_V1</description>
+      <initValue>'KTLN_EACM_Survey_July18_V1'</initValue>
       <name>EACM_Delegation</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -148,5 +148,10 @@
       <description>SODTest_CrossApp_Jul8_v1</description>
       <initValue>'SODTest_CrossApp_Jul8_v1'</initValue>
       <name>SOD_CrossApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_July18_V3</description>
+      <initValue>'KTLN_EACM_Survey_July18_V3'</initValue>
+      <name>EACM_InitiateSurvey_Reassignment</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

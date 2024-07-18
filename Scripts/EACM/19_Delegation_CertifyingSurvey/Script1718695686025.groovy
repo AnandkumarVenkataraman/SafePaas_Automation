@@ -66,7 +66,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Certifying S
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'), 
-    GlobalVariable.EACM_Delegation)
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Apply'))
 

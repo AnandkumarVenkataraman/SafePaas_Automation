@@ -104,8 +104,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/a_Test123 (1)'))
 
-WebUI.mouseOver(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/td_MCD Employee Crew CA ABSTRACTMCD_Employe_24a2f8 (1)'))
-
 WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
@@ -185,6 +183,8 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/h2_Changes saved (1)'), 
     FailureHandling.OPTIONAL)
 
+WebUI.delay(15)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'))
@@ -201,6 +201,8 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_CertifySur
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
+
+WebUI.delay(10)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'), 
     FailureHandling.OPTIONAL)

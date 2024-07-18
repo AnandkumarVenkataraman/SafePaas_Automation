@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.callTestCase(findTestCase('EACM/3_InitiateSurvey_End date action as Verified'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('EACM/Initiate Survey for Reassignment'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
@@ -80,7 +80,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/EACM_WorkflowRea
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/input_p_ignore_10 (1)'), 
-    GlobalVariable.EACM_SurveyName_Verified)
+    GlobalVariable.EACM_InitiateSurvey_Reassignment)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/button_Apply (1)'))
 
@@ -569,7 +569,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/EACM_ManageUser 
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Manage User Access/input_p_ignore_10'), 
-    GlobalVariable.EACM_SurveyName_Verified)
+    GlobalVariable.EACM_InitiateSurvey_Reassignment)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Manage User Access/button_Apply'))
 
@@ -611,7 +611,7 @@ WebUI.delay(10)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_User Access Certification Details/select_Select any oneEACM_Feb19_V101EACM_Fe_f24e60'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_User Access Certification Details/select_Select any oneEACM_Feb19_V101EACM_Fe_f24e60'), 
-    GlobalVariable.EACM_SurveyName_Verified, true, FailureHandling.OPTIONAL)
+    GlobalVariable.EACM_InitiateSurvey_Reassignment, true, FailureHandling.OPTIONAL)
 
 WebUI.delay(10)
 
