@@ -80,13 +80,13 @@
       <name>EACM_SurveyName_Verified</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July17_V2</description>
-      <initValue>'KTLN_EACM_Survey_July17_V2'</initValue>
+      <description>KTLN_EACM_Survey_July18_V3</description>
+      <initValue>'KTLN_EACM_Survey_July18_V3'</initValue>
       <name>EACM_SurveyName_TerminateAccess</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_July17_V3</description>
-      <initValue>'KTLN_EACM_Survey_July17_V3'</initValue>
+      <description>KTLN_EACM_Survey_July18_V4</description>
+      <initValue>'KTLN_EACM_Survey_July18_V4'</initValue>
       <name>EACM_SurveyName_AutomaticPOST</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
