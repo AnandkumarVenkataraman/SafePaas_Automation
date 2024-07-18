@@ -15,8 +15,8 @@
       <name>Justification_Role_Local</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>JustificationPrivilege_July15_V1</description>
-      <initValue>'JustificationPrivilege_July15_V1'</initValue>
+      <description>JustificationPrivilege_July18_V1</description>
+      <initValue>'JustificationPrivilege_July18_V1'</initValue>
       <name>Justification_Privilege_Global</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
