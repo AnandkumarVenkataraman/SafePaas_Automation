@@ -92,7 +92,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionR
 WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'Asset Txns vs. IT User & Role Maintenance Rule')
+WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'Maintain Supplier Bank Accounts and Create Payables Invoices')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
@@ -114,7 +114,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba10/ExceptionRole
 WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'ed239855')
+WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_p_ignore_10'), 'svcerpintgusr')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
@@ -184,11 +184,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionR
 
 WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'), 
-    0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'))
-
 WebUI.delay(3)
 
 WebUI.takeFullPageScreenshot()
@@ -207,7 +202,7 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/
     'KAT')
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (1)'), 
-    'KATALON_ADMIN')
+    'KTLN_EAM_USER1')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_New_P101_PASSWORD (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
@@ -250,7 +245,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba10/ExceptionRole
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), 'Asset Txns vs. IT User & Role Maintenance Rule')
+WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), 'Maintain Supplier Bank Accounts and Create Payables Invoices')
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/button_Apply (1) - U301'))
 
