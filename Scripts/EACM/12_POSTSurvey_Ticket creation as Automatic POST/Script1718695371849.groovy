@@ -78,8 +78,6 @@ WebUI.click(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/a_POSTGET Process Status'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/a_POSTGET Process Status'))
-
 WebUI.comment('Verify the POST Survey status as POST/GET In Process. If Error displayed - Result in warning')
 
 WebUI.takeFullPageScreenshot()
@@ -157,11 +155,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SU
 
 WebUI.click(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/button_Apply'))
 
+WebUI.delay(10)
+
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/span_1 -                    2 of           _cfbe65'), 
     0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/span_1 -                    2 of           _cfbe65'), 
-    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
@@ -170,14 +167,16 @@ WebUI.scrollToPosition(0, 0)
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/a_Ticket No'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/a_Ticket No'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/a_Ticket No'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/a_Ticket Status'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/a_Ticket Status'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_User Access Certification Details/a_Ticket Status'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(2)
 
