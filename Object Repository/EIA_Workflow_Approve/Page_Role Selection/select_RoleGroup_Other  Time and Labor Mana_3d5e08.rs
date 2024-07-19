@@ -13,8 +13,12 @@
          <key>CSS</key>
          <value>#P5_ENTRY_REQUEST_LEFT</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;P5_ENTRY_REQUEST_LEFT&quot;]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b2a464cf-c335-417a-8c0c-a6dfaf12d819</webElementGuid>
+      <webElementGuid>1917796f-a128-4476-964d-b6ae42dff398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
       <value>Move from</value>
-      <webElementGuid>baa8d7e1-93f5-466e-b8f8-3f1e8cdabe7a</webElementGuid>
+      <webElementGuid>b546f740-5fdb-4f0b-a0e2-0382118514e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +42,15 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>e577efa3-a8a3-4fef-b72c-e874439b7865</webElementGuid>
+      <webElementGuid>d1bf8ed6-838f-480b-ad61-d32a1768a30b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>P5_ENTRY_REQUEST_LEFT</value>
-      <webElementGuid>3773a529-db4a-4bdf-8ae8-808c04a640c1</webElementGuid>
+      <webElementGuid>3924a232-9ca4-449c-a15f-519ef7ebae58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>size</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>5ff921b5-740e-4751-be5e-31db67105114</webElementGuid>
+      <webElementGuid>a372e17f-1209-4446-a9e4-6eab8a211600</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,10 +66,10 @@
       <name>class</name>
       <type>Main</type>
       <value>shuttle_left apex-item-select</value>
-      <webElementGuid>05478983-dd64-4778-8f2e-99b4a610d2f8</webElementGuid>
+      <webElementGuid>6b6a5884-85e1-436f-b1ce-4aca1792c8dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -381,15 +385,15 @@ RoleGroup_AM | Application Implementation Administrator[ORA_ASM_APPLICATION_IMPL
 RoleGroup_AM | Accounts Receivable Manager[ORA_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB]
 RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB]
 </value>
-      <webElementGuid>da13f389-e779-45b0-b401-3a3efb0369e4</webElementGuid>
+      <webElementGuid>e7422f29-cf5a-42e9-83ab-e8d6441c5cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P5_ENTRY_REQUEST_LEFT&quot;)</value>
-      <webElementGuid>9e0f05e3-1b29-4426-a6d6-4724568109f2</webElementGuid>
+      <value>//*[@id=&quot;P5_ENTRY_REQUEST_LEFT&quot;]</value>
+      <webElementGuid>0a607fc8-b03f-4a42-89ba-94a543fbe0fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -1019,15 +1023,15 @@ RoleGroup_AM | Application Implementation Administrator[ORA_ASM_APPLICATION_IMPL
 RoleGroup_AM | Accounts Receivable Manager[ORA_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB]
 RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB]
 ')]</value>
-      <webElementGuid>26153d24-b618-4f3c-a608-f2c0618b5ac7</webElementGuid>
+      <webElementGuid>00542e75-5a53-4703-a6af-f42a0723f336</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P5_ENTRY_REQUEST_LEFT']</value>
-      <webElementGuid>9132123e-54dd-4602-8dee-4402759a6530</webElementGuid>
+      <value>//*[@id=&quot;P5_ENTRY_REQUEST_LEFT&quot;]</value>
+      <webElementGuid>04760603-baa5-4175-9630-f5c6c6ba4b47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1035,7 +1039,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Group | Role'])[1]/following::select[1]</value>
-      <webElementGuid>3997a2b2-608a-4ea6-b66d-395cf684c656</webElementGuid>
+      <webElementGuid>671e363a-328f-4e2f-b4d3-4ca69380cceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1043,7 +1047,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::select[1]</value>
-      <webElementGuid>0f308614-5e9f-4147-96e7-df84e80192b8</webElementGuid>
+      <webElementGuid>904509e0-5495-48f6-8de3-e99c254db734</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1051,7 +1055,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[2]</value>
-      <webElementGuid>415f1f4b-f2ad-4c6e-9941-ac00f51ce470</webElementGuid>
+      <webElementGuid>66433ad6-42b2-4933-8a0c-583a514d3a58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1059,7 +1063,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[2]</value>
-      <webElementGuid>96338bb7-61c3-4a4f-baf3-4d23c10ab7af</webElementGuid>
+      <webElementGuid>fadf5613-a5d5-4a33-b062-f8ac76f19285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1067,7 +1071,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>d305ddc1-bafd-4526-a66c-f62cda7207bd</webElementGuid>
+      <webElementGuid>a07e3ae0-9082-442a-a3f6-3023d27b7429</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1075,6 +1079,6 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P5_ENTRY_REQUEST']/table/tbody/tr/td/select</value>
-      <webElementGuid>034a4773-674a-48b0-88c5-5bb67b4a5544</webElementGuid>
+      <webElementGuid>ac274217-d23d-4f7e-bef9-92370d68a695</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
