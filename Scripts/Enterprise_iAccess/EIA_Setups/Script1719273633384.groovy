@@ -335,9 +335,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_Setup/Pag
 
 WebUI.click(findTestObject('Object Repository/EIA/EIA_Setup/Page_Maintain Approval Hierarchy/button_Cancel'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil'))
+WebUI.scrollToPosition(0, 0)
 
-WebUI.click(findTestObject('Object Repository/EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil'))
+WebUI.verifyElementClickable(findTestObject('EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil (2)'))
+
+WebUI.click(findTestObject('EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil (2)'))
 
 WebUI.takeFullPageScreenshot()
 
@@ -347,9 +349,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_Setup/Pag
 
 WebUI.click(findTestObject('Object Repository/EIA/EIA_Setup/Page_Maintain Approval Hierarchy/button_Cancel (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil'))
+WebUI.scrollToPosition(0, 0)
 
-WebUI.click(findTestObject('Object Repository/EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil'))
+WebUI.verifyElementClickable(findTestObject('EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil (3)'))
+
+WebUI.click(findTestObject('EIA/EIA_Setup/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil (3)'))
 
 WebUI.takeFullPageScreenshot()
 
