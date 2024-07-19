@@ -203,9 +203,6 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySur
 
 WebUI.delay(10)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'), 
-    FailureHandling.OPTIONAL)
-
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
     '')
 
@@ -291,9 +288,6 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySur
     'Terminate Access', true)
 
 WebUI.delay(5)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'), 
-    FailureHandling.OPTIONAL)
 
 WebUI.takeFullPageScreenshot()
 

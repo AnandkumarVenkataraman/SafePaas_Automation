@@ -97,8 +97,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/button_Request New Access'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/select_RoleGroup_Other  Time and Labor Mana_3d5e08'), 
-    'RoleGroup_Other|Time and Labor Manager_ViewAll[TIME_AND_LABOR_MANAGER_VIEWALL_DATA]', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/select_RoleGroup_Other  Time and Labor Mana_3d5e08'), 
+    '0', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/button_Role Group  Role_P5_ENTRY_REQUEST_MOVE'))
 
@@ -216,9 +216,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/span_3-Secondary Owner'), 
     '3-Secondary Owner')
 
-WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Review Access Request/label_Reject'))
-
-WebUI.scrollToPosition(0, 0)
+WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/label_Approve'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/button_Submit'))
 

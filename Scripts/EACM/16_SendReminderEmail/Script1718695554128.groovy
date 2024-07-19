@@ -160,7 +160,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Enterprise iAcces
 
 WebUI.click(findTestObject('Object Repository/Enterprise iAccess/NewAccessRequest/Page_Manage My Access/button_Go'))
 
-WebUI.delay(300)
+WebUI.delay(180)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Enterprise iAccess/NewAccessRequest/Page_Manage My Access/button_Go'))
+
+WebUI.click(findTestObject('Object Repository/Enterprise iAccess/NewAccessRequest/Page_Manage My Access/button_Go'))
+
+WebUI.delay(120)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage User Access/a_EACM_Feb19_v102'))
 
@@ -267,7 +273,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_SendRemind
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'), 
-    'DPATEL', true, FailureHandling.OPTIONAL)
+    'KATALON_ADMIN', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/button_Submit'))
 

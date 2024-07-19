@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Actions'))
 
@@ -66,7 +66,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Certifying S
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'), 
-    GlobalVariable.EACM_SurveyName_TerminateAccess)
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Apply'))
 
@@ -207,7 +207,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurve
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    GlobalVariable.EACM_SurveyName_TerminateAccess)
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -300,7 +300,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurve
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    GlobalVariable.EACM_SurveyName_TerminateAccess)
+    GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -401,7 +401,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_CertifySur
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_TerminateAccess)
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/button_Apply'))
 

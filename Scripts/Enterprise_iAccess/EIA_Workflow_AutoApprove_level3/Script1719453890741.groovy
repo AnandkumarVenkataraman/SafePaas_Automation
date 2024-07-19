@@ -113,8 +113,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/button_Request New Access'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/select_RoleGroup_Other  Time and Labor Mana_3d5e08'), 
-    '0', FailureHandling.STOP_ON_FAILURE)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/select_RoleGroup_Other  Time and Labor Mana_3d5e08'), 
+    'RoleGroup_Other|Time and Labor Manager_ViewAll[TIME_AND_LABOR_MANAGER_VIEWALL_DATA]', true)
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/button_Role Group  Role_P5_ENTRY_REQUEST_MOVE'))
 

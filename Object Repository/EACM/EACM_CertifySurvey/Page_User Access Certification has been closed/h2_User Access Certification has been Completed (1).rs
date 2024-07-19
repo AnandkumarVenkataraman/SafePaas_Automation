@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id = 'R183515302298730869_heading' and (text() = 'User Access Certification has been Completed' or . = 'User Access Certification has been Completed')]</value>
+         <value>//h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

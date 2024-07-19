@@ -102,7 +102,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/Page_Manage Wor
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'), 
-    'KTLN_EACM_USER1', true, FailureHandling.OPTIONAL)
+    'KATALON_ADMIN', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_P35_MANAGER_NAME'), '')
 

@@ -11,35 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id = 'P1_ENVIRONMENT' and @name = 'P1_ENVIRONMENT' and (text() = 'Select any one
-EBizApp_JDBC_Env
-KTLNCloud_MonitorPaaS
-KTLNEBS_MonitorPaaS
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-KTLN_DEV22
-McD_GRM_ENV
-NOVA_DEV1_ENV
-SailPoint_Env
-SailPoint_ENV2
-TririgaDB_Env
-Tririga_Env
-WorkDay_Env
-' or . = 'Select any one
-EBizApp_JDBC_Env
-KTLNCloud_MonitorPaaS
-KTLNEBS_MonitorPaaS
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-KTLN_DEV22
-McD_GRM_ENV
-NOVA_DEV1_ENV
-SailPoint_Env
-SailPoint_ENV2
-TririgaDB_Env
-Tririga_Env
-WorkDay_Env
-')]</value>
+         <value>//select[@id='P1_ENVIRONMENT']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
