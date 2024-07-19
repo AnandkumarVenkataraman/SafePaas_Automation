@@ -49,8 +49,8 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/select_Select any oneCERP_1CloudERPEBizApp__a9def6'),
+	'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Actions'))
 
@@ -62,11 +62,11 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_M
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/select_NameDescriptionEnd Date ActionStatus_dc9709'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'), 
-    '')
+WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'),
+	'')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'), 
-    GlobalVariable.EACM_SurveyName_Verified)
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/input_p_ignore_10'),
+	GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Apply'))
 
@@ -76,8 +76,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/a_Test123'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_User Access Validation/h2_Open'), 
-    0)
+WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_User Access Validation/h2_Open'),
+	0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_User Access Validation/h2_Open'))
 
@@ -85,8 +85,8 @@ WebUI.delay(2)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_User Access Validation/span_a-Icon icon-up-chevron'), 
-    0)
+WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_User Access Validation/span_a-Icon icon-up-chevron'),
+	0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_User Access Validation/span_a-Icon icon-up-chevron'))
 
@@ -118,8 +118,8 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User 
 
 WebUI.delay(30)
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'), 
-    10)
+WebUI.waitForElementPresent(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'),
+	10)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'))
 
@@ -135,8 +135,8 @@ WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certificati
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'), 
-    'Not Verified', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'),
+	'Not Verified', true)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/td_Verified - 103 (1)'))
 
@@ -144,8 +144,8 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User 
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'), 
-    'Not Verified', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'),
+	'Not Verified', true)
 
 WebUI.verifyElementClickable(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/td_Verified - 103 (1)'))
 
@@ -153,8 +153,8 @@ WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certificati
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'), 
-    'Not Verified', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'),
+	'Not Verified', true)
 
 WebUI.verifyElementClickable(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/td_Verified - 103 (1)'))
 
@@ -162,8 +162,8 @@ WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certificati
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'), 
-    'Not Verified', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'),
+	'Not Verified', true)
 
 WebUI.verifyElementClickable(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/td_Verified - 103 (1)'))
 
@@ -171,8 +171,8 @@ WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certificati
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'), 
-    'Not Verified', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'),
+	'Not Verified', true)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -180,8 +180,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/h2_Changes saved (1)'), 
-    FailureHandling.OPTIONAL)
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/h2_Changes saved (1)'),
+	FailureHandling.OPTIONAL)
 
 WebUI.delay(15)
 
@@ -195,19 +195,19 @@ WebUI.doubleClick(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'), 
-    'Terminate Access', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'),
+	'Terminate Access', true)
 
 WebUI.delay(10)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'), 
-    FailureHandling.OPTIONAL)
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'),
+	FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    '')
+WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'),
+	'')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    GlobalVariable.EACM_SurveyName_Verified)
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'),
+	GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -221,8 +221,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/span_Certified By (1)'), 
-    0)
+WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/span_Certified By (1)'),
+	0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/span_Certified By (1)'))
 
@@ -284,23 +284,23 @@ WebUI.click(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certificati
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'), 
-    'Terminate Access', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/select_Not VerifiedVerifiedTerminate Access (1)'),
+	'Terminate Access', true)
 
 WebUI.delay(5)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'), 
-    FailureHandling.OPTIONAL)
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/div_Please enter a mass or individual justi_5e2bf1 (1)'),
+	FailureHandling.OPTIONAL)
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    '')
+WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'),
+	'')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'), 
-    GlobalVariable.EACM_SurveyName_Verified)
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 (1)'),
+	GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.scrollToPosition(0, 0)
 
@@ -318,8 +318,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Confirm Changes (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'), 
-    FailureHandling.OPTIONAL)
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'),
+	FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
@@ -361,8 +361,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Confirm Changes (1)'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'), 
-    FailureHandling.OPTIONAL)
+WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'),
+	FailureHandling.OPTIONAL)
 
 WebUI.delay(3)
 
@@ -396,8 +396,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/select_is nullis not nulllikenot likeinnot _365127'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/select_is nullis not nulllikenot likeinnot _365127'), 
-    'contains', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/select_is nullis not nulllikenot likeinnot _365127'),
+	'contains', true)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/input_p_ignore_10'), '')
 
