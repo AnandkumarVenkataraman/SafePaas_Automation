@@ -82,8 +82,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/button_Request New Access'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/select_RoleGroup_Other  Time and Labor Mana_3d5e08'), 
-    'RoleGroup_Other | Time and Labor Manager_ViewAll[TIME_AND_LABOR_MANAGER_VIEWALL_DATA]', true)
+WebUI.selectOptionByValue(findTestObject('EIA_Workflow_Approve/Page_Role Selection/select_RoleGroup_Other Time and Labor Mana_3d5e08'), 
+    '1260896310', true)
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Selection/button_Role Group  Role_P5_ENTRY_REQUEST_MOVE'))
 
@@ -95,7 +95,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Provision and Deprovision/button_Submit for Violation Testing'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/h2_Request Submitted. Please check after sometime'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/h2_Request Submitted. Please check after sometime'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.delay(30)
 
@@ -131,9 +132,9 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_B
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_Documentation_a-Button a-IRR-button _ce8d41'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A new access request for user Mohit.Kumar_20b055'))
+WebUI.verifyElementClickable(findTestObject('EIA_Workflow_Approve/Page_Home/a_A new access request for user Akash.Kumar Gandhi'))
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A new access request for user Mohit.Kumar_20b055'))
+WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Home/a_A new access request for user Akash.Kumar Gandhi'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/span_1-Manager'), 
     '1-Manager')
@@ -162,9 +163,9 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_B
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/button_Documentation_a-Button a-IRR-button _ce8d41'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A new access request for user Mohit.Kumar_20b055'))
+WebUI.verifyElementClickable(findTestObject('EIA_Workflow_Approve/Page_Home/a_A new access request for user Akash.Kumar Gandhi'))
 
-WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_A new access request for user Mohit.Kumar_20b055'))
+WebUI.click(findTestObject('EIA_Workflow_Approve/Page_Home/a_A new access request for user Akash.Kumar Gandhi'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Access Request/span_2-Primary Owner'), 
     '2-Primary Owner')

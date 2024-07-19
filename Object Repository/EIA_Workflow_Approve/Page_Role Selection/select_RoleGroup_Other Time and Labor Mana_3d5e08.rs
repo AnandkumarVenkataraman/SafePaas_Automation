@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_RoleGroup Role</name>
+   <name>select_RoleGroup_Other Time and Labor Mana_3d5e08</name>
    <tag></tag>
    <elementGuidId>3d76bff7-7471-43ba-963b-150cb4bf9f0d</elementGuidId>
    <selectorCollection>
@@ -13,6 +13,632 @@
          <key>CSS</key>
          <value>#P5_ENTRY_REQUEST_LEFT</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Move from' and @id = 'P5_ENTRY_REQUEST_LEFT' and (text() = '
+RoleGroup_Other | Time and Labor Manager_ViewAll[TIME_AND_LABOR_MANAGER_VIEWALL_DATA]
+RoleGroup_Other | Time and Labor Administrator_ViewAll[TIME_AND_LABOR_ADMINISTRATOR_VIEWALL_DATA]
+RoleGroup_Other | Supplier Manager[ORA_POZ_SUPPLIER_MANAGER_ABSTRACT]
+RoleGroup_Other | Sample Procurement requester Test[Sample_Procurement_requester_Test]
+RoleGroup_Other | Project Manager[ORA_PJF_PROJECT_MANAGER_JOB]
+RoleGroup_Other | Project Integration Specialist[ORA_PJF_PROJECT_INTEGRATION_SPECIALIST_JOB]
+RoleGroup_Other | Project Creator[ORA_PJF_PROJECT_CREATOR_ABSTRACT]
+RoleGroup_Other | Project Administrator[ORA_PJF_PROJECT_ADMINISTRATOR_JOB]
+RoleGroup_Other | Project Accountant[ORA_PJF_PROJECT_ACCOUNTANT_JOB]
+RoleGroup_Other | Procurement Manager[ORA_PO_PROCUREMENT_MANAGER_JOB]
+RoleGroup_Other | Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]
+RoleGroup_Other | Payroll Manager_ViewAll[PAYROLL_MANAGER_VIEWALL_DATA]
+RoleGroup_Other | Payroll Manager[ORA_PAY_PAYROLL_MANAGER_JOB]
+RoleGroup_Other | Payroll Interface Coordinator[ORA_HRY_PAYROLL_COORDINATOR_JOB]
+RoleGroup_Other | Payroll Administrator[ORA_PAY_PAYROLL_ADMINISTRATOR_JOB]
+RoleGroup_Other | Manage Suppliers
+RoleGroup_Other | Manage Supplier Qualifications
+RoleGroup_Other | Manage Sourcing Programs
+RoleGroup_Other | Manage Requisitions
+RoleGroup_Other | Manage Purchase Agreements
+RoleGroup_Other | Manage Negotiations
+RoleGroup_Other | Manage Catalog Content
+RoleGroup_Other | MCD User Management[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM1]
+RoleGroup_Other | MCD User Account Management[MCD_FND_IT_SECURITY_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Tax Manager[MCD_ZX_TAX_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Tax Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM7]
+RoleGroup_Other | MCD Tax Accountant-TAXMGR- Custom[MCD_ZX_TAX_ACCOUNTANT_JOB_ARMGR_CUSTOM]
+RoleGroup_Other | MCD Supplier Self Service Administrator[MCD_POS_SUPPLIER_SELF_SERVICE_ADMINISTRATOR_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Supplier Inquiry[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM2]
+RoleGroup_Other | MCD Supplier Conversion User[MCD_SUPPLIER_INTERFACE_ROLE1_CUSTOM]
+RoleGroup_Other | MCD Supplier Business Analyst[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM2]
+RoleGroup_Other | MCD Supplier Administrator[MCD_POZ_SUPPLIER_ADMINISTRATOR_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Receiving Agent[MCD_RCV_RECEIVING_AGENT_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Manager[MCD_PJF_PROJECT_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Inquire[MCD_PROJECT_INQUIRE_CUSTOM]
+RoleGroup_Other | MCD Project Data Specialist[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM4]
+RoleGroup_Other | MCD Project Billing Specialist[MCD_PJF_PROJECT_BILLING_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Administrator[MCD_PJF_PROJECT_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Accountant[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM]
+RoleGroup_Other | MCD Product Data Steward[MCD_EGI_PRODUCT_DATA_STEWARD_JOB_CUSTOM]
+RoleGroup_Other | MCD Procurement Requester-MCDEMPLOYEE-Duty Abstract Custom[MCD_POR_PROCUREMENT_REQUESTER_MCDEMPLOYEE_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Procurement Inquire[MCD_PO_BUYER_JOB_CUSTOM2]
+RoleGroup_Other | MCD Procurement Catalog Administrator[MCD_POR_PROCUREMENT_CATALOG_ADMINISTRATOR_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Procurement Business Analyst[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM]
+RoleGroup_Other | MCD Procurement Application Administrator-APPLIMPCONS-Job Custom[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM1]
+RoleGroup_Other | MCD Proc Interface User[MCD_PROC_INTRERFACE_USER_CUSTOM]
+RoleGroup_Other | MCD Proc Conversion User[MCD_PROC_INTRERFACE_USER_CUSTOM1]
+RoleGroup_Other | MCD Person Deletion Full Access[MCD_PERSON_DELETION_VIEWALL_DATA]
+RoleGroup_Other | MCD Payslip_Country[MCD_PAYSLIP_COUNTRY_DATA]
+RoleGroup_Other | MCD Payslip Full Access[MCD_PAYSLIP_VIEWALL_DATA]
+RoleGroup_Other | MCD Payroll Flow Full Access[MCD_PAYROLL_FLOW_VIEW_ALL_DATA]
+RoleGroup_Other | MCD Payroll Administrator-PYRLMGR-Job Custom[MCD_PAY_PAYROLL_ADMINISTRATOR_JOB_CUSTOM1]
+RoleGroup_Other | MCD Payroll Administrator-PYRLMGR-Job Custom Custom[MCD_PAY_PAYROLL_ADMINISTRATOR_JOB_CUSTOM1_CUSTOM1]
+RoleGroup_Other | MCD Payroll Administrator-HRPYPYRLMGR-Job Custom Custom[MCD_PAY_PAYROLL_ADMINISTRATOR_JOB_CUSTOM1_CUSTOM]
+RoleGroup_Other | MCD Payroll Administrator View All[MCD_PAYROLL_ADMINISTRATOR_VIEW_ALL_DATA]
+RoleGroup_Other | MCD PAYROLL FLOW[MCD_PAYROLL_FLOW_JOB_CUSTOM]
+RoleGroup_Other | MCD ONA Manager[MCD_ONA_MANAGER]
+RoleGroup_Other | MCD NZ GL Intercompany Approval Role[MCD_NZ_GL_INTERCOMPANY_APPROVAL_RULE_CUSTOM]
+RoleGroup_Other | MCD NZ ERP Cloud Bank Account Security Role[MCD_NZ_CM_BANK_ACCOUNT_SECURITY_ROLE]
+RoleGroup_Other | MCD Manage Locations[MCD_MANAGE_LOCATIONS_CUSTOM]
+RoleGroup_Other | MCD MSS Absence Access US[MCD_MSS_Absence_Access_US]
+RoleGroup_Other | MCD Line Manager MCOPCO USA[MCD_Line_Manager_MCOPCO_USA]
+RoleGroup_Other | MCD Line Manager MCOPCO CANADA[MCD_Line_Manager_MCOPCO_CANADA_CUSTOM]
+RoleGroup_Other | MCD Line Manager FIELD CORP USA[MCD_Line_Manager_FIELD_CORP_USA_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Line Manager FIELD CORP CANADA[MCD_Line_Manager_FIELD_CORP_CANADA_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Inactivate Supplier Test[MCD_Inactivate_Supplier_Test]
+RoleGroup_Other | MCD IT Time and Labor Manager Full Access[MCD_IT_TIME_AND_LABOR_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Time and Labor Administrator Full Access[MCD_IT_TIME_AND_LABOR_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Support Project Inquiry[MCD_IT_SUPPORT_PROJECT_INQUIRY]
+RoleGroup_Other | MCD IT Support Procurement Inquiry[MCD_IT_SUPPORT_PROCUREMENT_INQUIRY]
+RoleGroup_Other | MCD IT Support GL Inquiry[MCD_GL_GENERAL_ACCOUNTING_MANAGER_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Support FA Inquiry[MCD_IT_SUPPORT_FA_INQUIRY]
+RoleGroup_Other | MCD IT Support Collections Inquiry[MCD_IEX_COLLECTIONS_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Support CM Inquiry[MCD_CE_CASH_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Support Audit Report[MCD_IT_SUPPORT_AUDIT_JOB_ROLE]
+RoleGroup_Other | MCD IT Support AR Inquiry[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Support AP Inquiry[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Service Access Manager Role Data[MCD_IT_SERVICE_ACCESS_MANAGER_ROLE_DATA_DATA]
+RoleGroup_Other | MCD IT Security Manager[MCD_FND_IT_SECURITY_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT SVCPBCS[MCD_IT_SVCPBCS_ROLE]
+RoleGroup_Other | MCD IT SVCFCC[MCD_IT_SVCFCC_ROLE]
+RoleGroup_Other | MCD IT SVCCDM[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM2_SVCCDM]
+RoleGroup_Other | MCD IT Payroll Tax Full Access[MCD_IT_PAYROLL_TAX_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Payroll Manager Full Access[MCD_IT_PAYROLL_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Payroll Interface Coordinator Custom[MCD_HRY_PAYROLL_COORDINATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD IT Payroll Administrator Full Access[MCD_IT_PAYROLL_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Human Capital Management Integration Specialist[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT HR Specialists Processor Full Access[MCD_IT_HR_SPECIALISTS_PROCESSOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT HR Specialists Process Support Full Access[MCD_IT_HR_SPECIALISTS_PROCESS_SUPPORT_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT HR Specialist Full Access[MCD_IT_HR_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT HDL Uploads[MCD_IT_HDL_Uploads]
+RoleGroup_Other | MCD IT HCM Integration Specialist Full Access[MCD_IT_HCM_INTEGRATION_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Compensation Manager Full Access[MCD_IT_COMPENSATION_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Compensation Analyst Full Access[MCD_IT_COMPENSATION_ANALYST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Compensation Administrator Full access[MCD_IT_COMPENSATION_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Cashier[MCD_HES_CASHIER_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Call Center Full Access[MCD_IT_CALL_CENTER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Benefits Manager Full Access[MCD_IT_BENEFITS_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Benefits Administrator Full Access[MCD_IT_BENEFITS_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Auditor[MCD_ASE_IT_AUDITOR_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Audit Policy Access[MCD_IT_Audit_Policy_Access]
+RoleGroup_Other | MCD IT Application Implementation Consultant[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Application Flexfields[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB_CUSTOM3]
+RoleGroup_Other | MCD IT Application Diagnostics Administrator[MCD_FND_DIAG_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD IT Application Developer[MCD_FND_APPLICATION_DEVELOPER_JOB_CUSTOM]
+RoleGroup_Other | MCD IT Application Administrator[MCD_FND_APPLICATION_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD Human Resource Specialist[MCD_PER_HUMAN_RESOURCE_SPECIALIST_JOB_CUSTOM1]
+RoleGroup_Other | MCD Human Resource Analyst Full Access[MCD_HUMAN_RESOURCE_ANALYST_VIEWALL_DATA]
+RoleGroup_Other | MCD Human Resource Analyst Custom[MCD_PER_HUMAN_RESOURCE_ANALYST_JOB_CUSTOM]
+RoleGroup_Other | MCD Human Resource Analyst Custom Custom[MCD_PER_HUMAN_RESOURCE_ANALYST_JOB_CUSTOM_CUSTOM]
+RoleGroup_Other | MCD Human Capital Management Integration Specialist Custom[HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD HRPY US Payroll Shell Role[MCD_HRPY_US_Payroll_Shell_Role]
+RoleGroup_Other | MCD HRPY Time and Labor Manager Full Access[MCD_HRPY_TIME_AND_LABOR_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Time and Labor Administrator Full Access[MCD_HRPY_TIME_AND_LABOR_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Term Code Access[MCD_HRPY_Term_Code_Access_Role]
+RoleGroup_Other | MCD HRPY Reports and Analytics Country[MCD_Reports_Analytics_Country_CUSTOM]
+RoleGroup_Other | MCD HRPY Read Only_Country[MCD_VIEW_ONLY_COUNTRY_DATA]
+RoleGroup_Other | MCD HRPY Payroll Manager Full Access[MCD_HRPY_PAYROLL_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Payroll Administrator Full Access[MCD_HRPY_PAYROLL_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Manage Legal Entity[MCD_HRPY_Manage_Legal_Entity]
+RoleGroup_Other | MCD HRPY MSS Transaction Manager View Full Access[MCD_HRPY_MSS_TRANSACTION_MANAGER_VIEW_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Human Resource Analyst[MCD_PER_HUMAN_RESOURCE_ANALYST_JOB_CUSTOM1]
+RoleGroup_Other | MCD HRPY Human Resource Analyst Full Access[MCD_HRPY_HUMAN_RESOURCE_ANALYST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Human Capital Management Integration Specialist[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM2]
+RoleGroup_Other | MCD HRPY HR Specialists Processor Full Access[MCD_HRPY_HR_SPECIALISTS_PROCESSOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY HR Specialists Processor AOR Country[MCD_HRPY_HR_SPECIALISTS_PROCESSOR_AOR_COUNTRY_DATA]
+RoleGroup_Other | MCD HRPY HR Specialists Process Support Full Access[MCD_HRPY_HR_SPECIALISTS_PROCESS_SUPPORT_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY HR Specialist Full Access[MCD_HRPY_HR_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY HR AOR Full Access[MCD_HR_AOR_VIEW_ALL_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY HR AOR Department with Public Security Profile[MCD_HR_AOR_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY HCM Integration Specialist Full Access[MCD_HRPY_HCM_INTEGRATION_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Global Read Only[MCD_VIEW_ONLY_DATA]
+RoleGroup_Other | MCD HRPY GLOBAL TRANSFER CA ROLE[MCD_GLOBAL_TRANSFER_CA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY Flow Owner[MCD_HRPY_FLOW_OWNER]
+RoleGroup_Other | MCD HRPY Compensation Manager Full Access[MCD_HRPY_COMPENSATION_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Compensation Analyst Full Access[MCD_HRPY_COMPENSATION_ANALYST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Compensation Administrator Full access[MCD_HRPY_COMPENSATION_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Cashier[MCD_HES_CASHIER_JOB_CUSTOM3]
+RoleGroup_Other | MCD HRPY Call Center Full Access[MCD_CALL_CENTER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Benefits Administrator Full Access[MCD_HRPY_BENEFITS_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Benefits Administrator AOR Data Role[MCD_HRPY_BENEFITS_ADMINISTRATOR_AOR_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY Application Flexfields[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB_CUSTOM3_CUSTOM]
+RoleGroup_Other | MCD HRPY Adjust Multiple Tax Balance[MCD_HRPY_ADJ_MULTIPLE_TAX_BAL_JOB]
+RoleGroup_Other | MCD HRPY AOR Legal Employer[MCD_AOR_LEGAL_EMPLOYER_DATA]
+RoleGroup_Other | MCD HRPY AOR Job Family[MCD_AOR_JOB_FAMILY_DATA]
+RoleGroup_Other | MCD HRPY AOR Department[MCD_AOR_DEPARTMENT_DATA]
+RoleGroup_Other | MCD HRPY AOR Business Unit[MCD_AOR_BUSINESS_UNIT_DATA]
+RoleGroup_Other | MCD HDL Uploads[MCD_HDL_Uploads_Job]
+RoleGroup_Other | MCD HCM Integration SpecialistDATADONOTUSE[MCD_HCM_INTEGRATION_SPECIALIST_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HCM Integration Specialist Custom Data View All[MCD_HCM_INTEGRATION_SPECIALIST_CUSTOM_DATA_VIEW_ALL_DATA]
+RoleGroup_Other | MCD HCM INTEGRATIONSPECIALISTDONOTUSE[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD GL Report Custom[MCD_GL_REPORTS_AOR_CUSTOM]
+RoleGroup_Other | MCD GL Interface User[MCD_GL_INTERFACE_USER_CUSTOM]
+RoleGroup_Other | MCD GL Financial Analyst[MCD_GL_FINANCIAL_ANALYST_JOB_CUSTOM]
+RoleGroup_Other | MCD GL Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM10]
+RoleGroup_Other | MCD GL Conversion User[MCD_GL_INTERFACE_USER_CONV_CUSTOM]
+RoleGroup_Other | MCD GL Close Coordinator[MCD_GL_CLOSE_COORDINATOR_CUSTOM]
+RoleGroup_Other | MCD GL Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]
+RoleGroup_Other | MCD GL Audit Role[MCD_AUDIT_ROLE_CUSTOM]
+RoleGroup_Other | MCD GL Allocation Access[MCD_GL_ALLOCATION_JOB_CUSTOM]
+RoleGroup_Other | MCD GL Accountant[MCD_GL_GENERAL_ACCOUNTANT_JOB_CUSTOM]
+RoleGroup_Other | MCD FSM Migration[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM]
+RoleGroup_Other | MCD FIN PROC PROJ BPM Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_BPM_JOB_CUSTOM]
+RoleGroup_Other | MCD FA Inquiry[MCD_FA_ASSET_ACCOUNTANT_JOB_CUSTOM1]
+RoleGroup_Other | MCD FA Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM5]
+RoleGroup_Other | MCD FA Accounting Manager[MCD_FA_ASSET_ACCOUNTING_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Enterprise Contract Administrator[MCD_OKC_ENTERPRISE_CONTRACT_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD Employee[MCD_PER_EMPLOYEE_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Employee OTE USA ABSTRACT[MCD_EMPLOYEE_OTE_USA_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Employee Crew US ABSTRACT[MCD_Employee_Crew_US_CUSTOM]
+RoleGroup_Other | MCD Employee All USA[MCD_EMPLOYEE_ALL_CUSTOM]
+RoleGroup_Other | MCD Employee All Canada[MCD_EMPLOYEE_ALL_CANADA_CUSTOM]
+RoleGroup_Other | MCD ESS OUTPUT ALL[MCD_ESS_OUTPUT_ALL_CUSTOM]
+RoleGroup_Other | MCD ESS Monitor[MCD_ESS_MONITOR_CUSTOM]
+RoleGroup_Other | MCD ESS MONITOR PROCESS[MCDESSMONITORPROCESS]
+RoleGroup_Other | MCD ESS Administrator[MCD_ESS_Administrator]
+RoleGroup_Other | MCD ESS Absence access US[MCD_ESS_Absence_access_US]
+RoleGroup_Other | MCD Contingent Worker[MCD_PER_CONTINGENT_WORKER_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Collections Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM6]
+RoleGroup_Other | MCD Chart of Accounts Maintenance[MCD_BUSINESS_ANALYST_COA_MAINTENANCE_CUSTOM]
+RoleGroup_Other | MCD Cash Manager[MCD_CE_CASH_MANAGER_JOB_CUSTOM2]
+RoleGroup_Other | MCD Call Center View All[MCD_CALL_CENTER_VIEW_ALL_DATA]
+RoleGroup_Other | MCD CM Interface User[MCD_CM_INTERFACE_USER_CUSTOM]
+RoleGroup_Other | MCD CM Conversion User[MCD_CM_INTERFACE_USER_CUSTOM1]
+RoleGroup_Other | MCD CDM Interface User[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM3]
+RoleGroup_Other | MCD CDM Business Analyst[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM_CUSTOM]
+RoleGroup_Other | MCD Buyer[MCD_PO_BUYER_JOB_CUSTOM]
+RoleGroup_Other | MCD BI Inquiry Role[MCD_BI_Inquiry_Role]
+RoleGroup_Other | MCD BI Admin Role[MCD_BI_ADMIN_ROLE_CUSTOM]
+RoleGroup_Other | MCD Application Diagnostics[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM8]
+RoleGroup_Other | MCD Application Developer-FSMMGR[MCD_FND_APPLICATION_DEVELOPER_FSMMGR_JOB]
+RoleGroup_Other | MCD Access Administrator Full Access[MCD_ACCESS_ADMINISTRATOR_VIEW_ALL_DATA]
+RoleGroup_Other | MCD AU GL Intercompany Approval Role[MCD_AU_GL_INTERCOMPANY_APPROVAL_RULE_CUSTOM]
+RoleGroup_Other | MCD AU ERP Cloud Payroll Bank Account Security Role[MCD_AU_CM_PAYROLL_BANK_ACCOUNT_SECURITY_ROLE]
+RoleGroup_Other | MCD AU ERP Cloud Bank Account Security Role[MCD_AU_CM_BANK_ACCOUNT_SECURITY_ROLE]
+RoleGroup_Other | MCD AR Specialist Role[MCD_AR_ACCOUNTS_RECEIVABLE_SPECIALIST_SOD_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Manager Role[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Customer Maintenance[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM5]
+RoleGroup_Other | MCD AR Conversion User[MCD_AR_CONVERSION_USER_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Collections Interface User[MCD_IEX_COLLECTIONS_INTERFACE_USER_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Collections Conversion User[MCD_IEX_COLLECTIONS_INTERFACE_USER_JOB_CUSTOM1]
+RoleGroup_Other | MCD AR Collection Manager[MCD_IEX_COLLECTIONS_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Collection Agent[MCD_IEX_COLLECTIONS_AGENT_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Cash Receipt[MCD_AR_CASH_RECEIPT_JOB_ROLE]
+RoleGroup_Other | MCD AR Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM2]
+RoleGroup_Other | MCD AP Specialist[MCD_AP_ACCOUNTS_PAYABLE_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Manager[MCD_AP_ACCOUNTS_PAYABLE_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Invoice Supervisor[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Invoice Force Approve[MCD_AP_INVOICE_FORCE_APPROVE_JOB_ROLE]
+RoleGroup_Other | MCD AP Invoice Approval Coder[MCD_AP_ACCOUNTS_PAYABLE_SPECIALIST_JOB_CUSTOM1]
+RoleGroup_Other | MCD AP Financial Analyst[MCD_AP_FINANCIAL_ANALYST_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Close Coordinator[MCD_AP_ACCOUNTS_PAYABLE_CLOSE_COORDINATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM4]
+RoleGroup_Other | MCD ANZ Human Resource Analyst Data Role[MCD_ANZ_HUMAN_RESOURCE_ANALYST_DATA_ROLE_DATA]
+RoleGroup_Other | Inventory Manager[ORA_INV_INVENTORY_MANAGER_JOB]
+RoleGroup_Other | Integration Specialist[ORA_FND_INTEGRATION_SPECIALIST_JOB]
+RoleGroup_Other | Human Resource Specialist[ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB]
+RoleGroup_Other | Human Resource Manager[ORA_PER_HUMAN_RESOURCE_MANAGER_JOB]
+RoleGroup_Other | Human Resource Analyst[ORA_PER_HUMAN_RESOURCE_ANALYST_JOB]
+RoleGroup_Other | Human Capital Management Integration Specialist[ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB]
+RoleGroup_Other | Human Capital Management Application Administrator[ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB]
+RoleGroup_Other | HR Specialist_ViewAll[HR_SPECIALIST_VIEWALL_DATA]
+RoleGroup_Other | HR Analyst Full Access[HR_ANALYST_VIEWALL_DATA]
+RoleGroup_Other | Grants Administrator[ORA_PJF_GRANTS_ADMINISTRATOR_JOB]
+RoleGroup_Other | General Accountant[ORA_GL_GENERAL_ACCOUNTANT_JOB]
+RoleGroup_Other | Financial Application Administrator[ORA_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB]
+RoleGroup_Other | Employee[ORA_PER_EMPLOYEE_ABSTRACT]
+RoleGroup_Other | Cost Accountant[ORA_CST_COST_ACCOUNTANT_JOB]
+RoleGroup_Other | Compensation Specialist Full Access[COMPENSATION_SPECIALIST_VIEW_ALL_DATA]
+RoleGroup_Other | Compensation Manager Full Access[COMPENSATION_MANAGER_VIEW_ALL_DATA]
+RoleGroup_Other | Compensation Administrator View All[COMPENSATION_ADMINISTRATOR_VIEW_ALL_DATA]
+RoleGroup_Other | Cash Manager[ORA_CE_CASH_MANAGER_JOB]
+RoleGroup_Other | Buyer[ORA_PO_BUYER_JOB]
+RoleGroup_Other | Benefits Specialist[ORA_BEN_BENEFITS_SPECIALIST_JOB]
+RoleGroup_Other | Benefits Manager_Country[BENEFITS_MANAGER_COUNTRY_DATA]
+RoleGroup_Other | Benefits Manager Full Access[BENEFITS_MANAGER_VIEWALL_DATA]
+RoleGroup_Other | Benefits Administrator AOR Data Role[BENEFITS_ADMINISTRATOR_AOR_DATA_ROLE_DATA]
+RoleGroup_Other | Asset Administrator[ORA_CSE_ASSET_ADMINISTRATOR_JOB]
+RoleGroup_Other | Asset Accounting Manager[ORA_FA_ASSET_ACCOUNTING_MANAGER_JOB]
+RoleGroup_Other | Asset Accountant[ORA_FA_ASSET_ACCOUNTANT_JOB]
+RoleGroup_Other | Application Implementation Manager[ORA_ASM_APPLICATION_IMPLEMENTATION_MANAGER_JOB]
+RoleGroup_Other | Application Implementation Consultant[ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB]
+RoleGroup_Other | Application Diagnostics Viewer[ORA_FND_DIAG_VIEWER_JOB]
+RoleGroup_Other | Application Diagnostics Regular User[ORA_FND_DIAG_REGULAR_USER_JOB]
+RoleGroup_Other | Application Diagnostics Advanced User[ORA_FND_DIAG_ADVANCED_USER_JOB]
+RoleGroup_Other | Application Diagnostics Administrator[ORA_FND_DIAG_ADMINISTRATOR_JOB]
+RoleGroup_Other | Application Developer[ORA_FND_APPLICATION_DEVELOPER_JOB]
+RoleGroup_Other | Application Administrator[ORA_FND_APPLICATION_ADMINISTRATOR_JOB]
+RoleGroup_Other | Analyze Spend
+RoleGroup_Other | Advanced Procurement Requester[ORA_POR_ADVANCED_PROCUREMENT_REQUESTER_ABSTRACT]
+RoleGroup_Other | Accounts Receivable Specialist[ORA_AR_ACCOUNTS_RECEIVABLE_SPECIALIST_JOB]
+RoleGroup_Other | Accounts Payable Supervisor[ORA_AP_ACCOUNTS_PAYABLE_SUPERVISOR_JOB]
+RoleGroup_Other | Accounts Payable Specialist[ORA_AP_ACCOUNTS_PAYABLE_SPECIALIST_JOB]
+RoleGroup_Other | Accounts Payable Manager[ORA_AP_ACCOUNTS_PAYABLE_MANAGER_JOB]
+RoleGroup_Other | Accounts Payable Invoice Supervisor[ORA_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB]
+RoleGroup_Other | AR Adjustment Profile
+RoleGroup_HCM | MCD Project Close Coordinator[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM2]
+RoleGroup_GL | MCD Project Close Coordinator[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM2]
+RoleGroup_AR | MCD Customer Relationship Management Application Administrator-APPLIMPLCONS-Job Role Custom[MCD_ZCA_CUSTOMER_RELATIONSHIP_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_AP | MCD Project Inquire[MCD_PROJECT_INQUIRE_CUSTOM]
+RoleGroup_AM | Supplier Accounts Receivable Specialist[ORA_POS_SUPPLIER_ACCOUNTS_RECEIVABLE_SPECIALIST_JOB]
+RoleGroup_AM | Sales Administrator[ORA_ZBS_SALES_ADMINISTRATOR_JOB]
+RoleGroup_AM | Project Executive[ORA_PJF_PROJECT_EXECUTIVE_JOB]
+RoleGroup_AM | Project Billing Specialist[ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB]
+RoleGroup_AM | Manage Purchase Orders
+RoleGroup_AM | Manage Approved Supplier List Entries
+RoleGroup_AM | MCD Tax Analyst[MCD_ZX_TAX_ANALYST_JOB_CUSTOM]
+RoleGroup_AM | MCD Supplier Self-Service Accounts Receivable Specialist[MCD_POS_SUPPLIER_ACCOUNTS_RECEIVABLE_SPECIALIST_JOB_CUSTOM]
+RoleGroup_AM | MCD Project Business Analyst[MCD_PJF_PROJECTS_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]
+RoleGroup_AM | MCD Product Data Business Analyst[MCD_EGI_PRODUCT_DATA_STEWARD_JOB_CUSTOM_CUSTOM]
+RoleGroup_AM | MCD Procurement Requester[MCD_POR_PROCUREMENT_REQUESTER_ABSTRACT_CUSTOM]
+RoleGroup_AM | MCD Proc Agent[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM3]
+RoleGroup_AM | MCD IT MSS Transaction Manager View Full Access[MCD_IT_MSS_TRANSACTION_MANAGER_VIEW_FULL_ACCESS_DATA]
+RoleGroup_AM | MCD IT HSDL Upload Payroll Support[MCD_IT_HSDL_Upload_Payroll_Support_Job_CUSTOM]
+RoleGroup_AM | MCD IT HCM Security Manager[MCD_IT_HCM_Security_Manager]
+RoleGroup_AM | MCD HRPY Reports and Analytics[MCD_Reports_Analytics]
+RoleGroup_AM | MCD HRPY Reports and Analytics Icon[MCD_Reports_and_Analytics_Icon]
+RoleGroup_AM | MCD HRPY Payroll Tax Full Access[MCD_HRPY_PAYROLL_TAX_FULL_ACCESS_DATA]
+RoleGroup_AM | MCD HRPY MSS Transaction Manager View[MCD_MSS_TRANSACTION_MANAGER_VIEW_CUSTOM]
+RoleGroup_AM | MCD HRPY Benefits Manager Full Access[MCD_HRPY_BENEFITS_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_AM | MCD HRPY AOR Location[MCD_AOR_LOCATION_DATA]
+RoleGroup_AM | MCD HRPY AOR Country[MCD_AOR_COUNTRY_DATA]
+RoleGroup_AM | MCD General Accountant-GenAcctMgr-Custom Job Role[MCD_GL_GENERAL_ACCOUNTANT_JOB_CUSTOM3]
+RoleGroup_AM | MCD GL Reports Business Unit and Job Custom[MCD_GL_Reports_BusinessUnit_and_Job_Custom]
+RoleGroup_AM | MCD GL FSR Maintenance[MCD_FSR_MAINTENANCE_CUSTOM]
+RoleGroup_AM | MCD GL Accounting Manager[MCD_GL_GENERAL_ACCOUNTING_MANAGER_JOB_CUSTOM1]
+RoleGroup_AM | MCD GL Accounting Manager with Correct Import Data[MCD_GL_GENERAL_ACCOUNTING_MANAGER_WITH_CORRECT_IMPORT_DATA_JOB_ROLE]
+RoleGroup_AM | MCD FA Close Coordinator[MCD_FA_CLOSE_COORDINATOR_CUSTOM]
+RoleGroup_AM | MCD FA Accountant[MCD_FA_ASSET_ACCOUNTANT_JOB_CUSTOM]
+RoleGroup_AM | MCD Collections Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM11]
+RoleGroup_AM | MCD CM Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM3]
+RoleGroup_AM | MCD CDM Customer Data Steward[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM]
+RoleGroup_AM | MCD CDM Conversion User[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM4]
+RoleGroup_AM | MCD Autocomplete Rule Bypass[MCD_AUTOCOMPL_BYPASS]
+RoleGroup_AM | MCD Application Administrator-FSMMGR[MCD_FND_APPLICATION_ADMINISTRATOR_FSMMGR_JOB]
+RoleGroup_AM | MCD AR Financial Analyst[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM2]
+RoleGroup_AM | MCD AR Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM9]
+RoleGroup_AM | MCD AR Close Coordinator[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM3]
+RoleGroup_AM | MCD AR Bulk Transaction[MCD_AR_INTERFACE_USER_BULK_TRANSACTION_CUSTOM]
+RoleGroup_AM | MCD AP Payment Supervisor[MCD_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB_CUSTOM]
+RoleGroup_AM | MCD AP Interface User[MCD_AP_ACCOUNTS_PAYABLE_USER_CUSTOM]
+RoleGroup_AM | MCD AP Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM4_CUSTOM]
+RoleGroup_AM | IT Security Manager[ORA_FND_IT_SECURITY_MANAGER_JOB]
+RoleGroup_AM | General Accounting Manager[ORA_GL_GENERAL_ACCOUNTING_MANAGER_JOB]
+RoleGroup_AM | DPSP Administrator[DPSP_CUSTOM]
+RoleGroup_AM | Collections Manager[ORA_IEX_COLLECTIONS_MANAGER_JOB]
+RoleGroup_AM | Benefits Administrator_ViewAll[BENEFITS_ADMINISTRATOR_VIEWALL_DATA]
+RoleGroup_AM | Application Implementation Administrator[ORA_ASM_APPLICATION_IMPLEMENTATION_ADMIN_ABSTRACT]
+RoleGroup_AM | Accounts Receivable Manager[ORA_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB]
+RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB]
+' or . = '
+RoleGroup_Other | Time and Labor Manager_ViewAll[TIME_AND_LABOR_MANAGER_VIEWALL_DATA]
+RoleGroup_Other | Time and Labor Administrator_ViewAll[TIME_AND_LABOR_ADMINISTRATOR_VIEWALL_DATA]
+RoleGroup_Other | Supplier Manager[ORA_POZ_SUPPLIER_MANAGER_ABSTRACT]
+RoleGroup_Other | Sample Procurement requester Test[Sample_Procurement_requester_Test]
+RoleGroup_Other | Project Manager[ORA_PJF_PROJECT_MANAGER_JOB]
+RoleGroup_Other | Project Integration Specialist[ORA_PJF_PROJECT_INTEGRATION_SPECIALIST_JOB]
+RoleGroup_Other | Project Creator[ORA_PJF_PROJECT_CREATOR_ABSTRACT]
+RoleGroup_Other | Project Administrator[ORA_PJF_PROJECT_ADMINISTRATOR_JOB]
+RoleGroup_Other | Project Accountant[ORA_PJF_PROJECT_ACCOUNTANT_JOB]
+RoleGroup_Other | Procurement Manager[ORA_PO_PROCUREMENT_MANAGER_JOB]
+RoleGroup_Other | Procurement Application Administrator[ORA_PO_PROCUREMENT_APPLICATION_ADMIN_JOB]
+RoleGroup_Other | Payroll Manager_ViewAll[PAYROLL_MANAGER_VIEWALL_DATA]
+RoleGroup_Other | Payroll Manager[ORA_PAY_PAYROLL_MANAGER_JOB]
+RoleGroup_Other | Payroll Interface Coordinator[ORA_HRY_PAYROLL_COORDINATOR_JOB]
+RoleGroup_Other | Payroll Administrator[ORA_PAY_PAYROLL_ADMINISTRATOR_JOB]
+RoleGroup_Other | Manage Suppliers
+RoleGroup_Other | Manage Supplier Qualifications
+RoleGroup_Other | Manage Sourcing Programs
+RoleGroup_Other | Manage Requisitions
+RoleGroup_Other | Manage Purchase Agreements
+RoleGroup_Other | Manage Negotiations
+RoleGroup_Other | Manage Catalog Content
+RoleGroup_Other | MCD User Management[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM1]
+RoleGroup_Other | MCD User Account Management[MCD_FND_IT_SECURITY_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Tax Manager[MCD_ZX_TAX_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Tax Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM7]
+RoleGroup_Other | MCD Tax Accountant-TAXMGR- Custom[MCD_ZX_TAX_ACCOUNTANT_JOB_ARMGR_CUSTOM]
+RoleGroup_Other | MCD Supplier Self Service Administrator[MCD_POS_SUPPLIER_SELF_SERVICE_ADMINISTRATOR_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Supplier Inquiry[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM2]
+RoleGroup_Other | MCD Supplier Conversion User[MCD_SUPPLIER_INTERFACE_ROLE1_CUSTOM]
+RoleGroup_Other | MCD Supplier Business Analyst[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM2]
+RoleGroup_Other | MCD Supplier Administrator[MCD_POZ_SUPPLIER_ADMINISTRATOR_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Receiving Agent[MCD_RCV_RECEIVING_AGENT_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Manager[MCD_PJF_PROJECT_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Inquire[MCD_PROJECT_INQUIRE_CUSTOM]
+RoleGroup_Other | MCD Project Data Specialist[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM4]
+RoleGroup_Other | MCD Project Billing Specialist[MCD_PJF_PROJECT_BILLING_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Administrator[MCD_PJF_PROJECT_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD Project Accountant[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM]
+RoleGroup_Other | MCD Product Data Steward[MCD_EGI_PRODUCT_DATA_STEWARD_JOB_CUSTOM]
+RoleGroup_Other | MCD Procurement Requester-MCDEMPLOYEE-Duty Abstract Custom[MCD_POR_PROCUREMENT_REQUESTER_MCDEMPLOYEE_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Procurement Inquire[MCD_PO_BUYER_JOB_CUSTOM2]
+RoleGroup_Other | MCD Procurement Catalog Administrator[MCD_POR_PROCUREMENT_CATALOG_ADMINISTRATOR_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Procurement Business Analyst[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM]
+RoleGroup_Other | MCD Procurement Application Administrator-APPLIMPCONS-Job Custom[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM1]
+RoleGroup_Other | MCD Proc Interface User[MCD_PROC_INTRERFACE_USER_CUSTOM]
+RoleGroup_Other | MCD Proc Conversion User[MCD_PROC_INTRERFACE_USER_CUSTOM1]
+RoleGroup_Other | MCD Person Deletion Full Access[MCD_PERSON_DELETION_VIEWALL_DATA]
+RoleGroup_Other | MCD Payslip_Country[MCD_PAYSLIP_COUNTRY_DATA]
+RoleGroup_Other | MCD Payslip Full Access[MCD_PAYSLIP_VIEWALL_DATA]
+RoleGroup_Other | MCD Payroll Flow Full Access[MCD_PAYROLL_FLOW_VIEW_ALL_DATA]
+RoleGroup_Other | MCD Payroll Administrator-PYRLMGR-Job Custom[MCD_PAY_PAYROLL_ADMINISTRATOR_JOB_CUSTOM1]
+RoleGroup_Other | MCD Payroll Administrator-PYRLMGR-Job Custom Custom[MCD_PAY_PAYROLL_ADMINISTRATOR_JOB_CUSTOM1_CUSTOM1]
+RoleGroup_Other | MCD Payroll Administrator-HRPYPYRLMGR-Job Custom Custom[MCD_PAY_PAYROLL_ADMINISTRATOR_JOB_CUSTOM1_CUSTOM]
+RoleGroup_Other | MCD Payroll Administrator View All[MCD_PAYROLL_ADMINISTRATOR_VIEW_ALL_DATA]
+RoleGroup_Other | MCD PAYROLL FLOW[MCD_PAYROLL_FLOW_JOB_CUSTOM]
+RoleGroup_Other | MCD ONA Manager[MCD_ONA_MANAGER]
+RoleGroup_Other | MCD NZ GL Intercompany Approval Role[MCD_NZ_GL_INTERCOMPANY_APPROVAL_RULE_CUSTOM]
+RoleGroup_Other | MCD NZ ERP Cloud Bank Account Security Role[MCD_NZ_CM_BANK_ACCOUNT_SECURITY_ROLE]
+RoleGroup_Other | MCD Manage Locations[MCD_MANAGE_LOCATIONS_CUSTOM]
+RoleGroup_Other | MCD MSS Absence Access US[MCD_MSS_Absence_Access_US]
+RoleGroup_Other | MCD Line Manager MCOPCO USA[MCD_Line_Manager_MCOPCO_USA]
+RoleGroup_Other | MCD Line Manager MCOPCO CANADA[MCD_Line_Manager_MCOPCO_CANADA_CUSTOM]
+RoleGroup_Other | MCD Line Manager FIELD CORP USA[MCD_Line_Manager_FIELD_CORP_USA_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Line Manager FIELD CORP CANADA[MCD_Line_Manager_FIELD_CORP_CANADA_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Inactivate Supplier Test[MCD_Inactivate_Supplier_Test]
+RoleGroup_Other | MCD IT Time and Labor Manager Full Access[MCD_IT_TIME_AND_LABOR_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Time and Labor Administrator Full Access[MCD_IT_TIME_AND_LABOR_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Support Project Inquiry[MCD_IT_SUPPORT_PROJECT_INQUIRY]
+RoleGroup_Other | MCD IT Support Procurement Inquiry[MCD_IT_SUPPORT_PROCUREMENT_INQUIRY]
+RoleGroup_Other | MCD IT Support GL Inquiry[MCD_GL_GENERAL_ACCOUNTING_MANAGER_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Support FA Inquiry[MCD_IT_SUPPORT_FA_INQUIRY]
+RoleGroup_Other | MCD IT Support Collections Inquiry[MCD_IEX_COLLECTIONS_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Support CM Inquiry[MCD_CE_CASH_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Support Audit Report[MCD_IT_SUPPORT_AUDIT_JOB_ROLE]
+RoleGroup_Other | MCD IT Support AR Inquiry[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Support AP Inquiry[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT Service Access Manager Role Data[MCD_IT_SERVICE_ACCESS_MANAGER_ROLE_DATA_DATA]
+RoleGroup_Other | MCD IT Security Manager[MCD_FND_IT_SECURITY_MANAGER_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT SVCPBCS[MCD_IT_SVCPBCS_ROLE]
+RoleGroup_Other | MCD IT SVCFCC[MCD_IT_SVCFCC_ROLE]
+RoleGroup_Other | MCD IT SVCCDM[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM2_SVCCDM]
+RoleGroup_Other | MCD IT Payroll Tax Full Access[MCD_IT_PAYROLL_TAX_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Payroll Manager Full Access[MCD_IT_PAYROLL_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Payroll Interface Coordinator Custom[MCD_HRY_PAYROLL_COORDINATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD IT Payroll Administrator Full Access[MCD_IT_PAYROLL_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Human Capital Management Integration Specialist[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM1]
+RoleGroup_Other | MCD IT HR Specialists Processor Full Access[MCD_IT_HR_SPECIALISTS_PROCESSOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT HR Specialists Process Support Full Access[MCD_IT_HR_SPECIALISTS_PROCESS_SUPPORT_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT HR Specialist Full Access[MCD_IT_HR_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT HDL Uploads[MCD_IT_HDL_Uploads]
+RoleGroup_Other | MCD IT HCM Integration Specialist Full Access[MCD_IT_HCM_INTEGRATION_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Compensation Manager Full Access[MCD_IT_COMPENSATION_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Compensation Analyst Full Access[MCD_IT_COMPENSATION_ANALYST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Compensation Administrator Full access[MCD_IT_COMPENSATION_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Cashier[MCD_HES_CASHIER_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Call Center Full Access[MCD_IT_CALL_CENTER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Benefits Manager Full Access[MCD_IT_BENEFITS_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Benefits Administrator Full Access[MCD_IT_BENEFITS_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD IT Auditor[MCD_ASE_IT_AUDITOR_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Audit Policy Access[MCD_IT_Audit_Policy_Access]
+RoleGroup_Other | MCD IT Application Implementation Consultant[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM2]
+RoleGroup_Other | MCD IT Application Flexfields[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB_CUSTOM3]
+RoleGroup_Other | MCD IT Application Diagnostics Administrator[MCD_FND_DIAG_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD IT Application Developer[MCD_FND_APPLICATION_DEVELOPER_JOB_CUSTOM]
+RoleGroup_Other | MCD IT Application Administrator[MCD_FND_APPLICATION_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD Human Resource Specialist[MCD_PER_HUMAN_RESOURCE_SPECIALIST_JOB_CUSTOM1]
+RoleGroup_Other | MCD Human Resource Analyst Full Access[MCD_HUMAN_RESOURCE_ANALYST_VIEWALL_DATA]
+RoleGroup_Other | MCD Human Resource Analyst Custom[MCD_PER_HUMAN_RESOURCE_ANALYST_JOB_CUSTOM]
+RoleGroup_Other | MCD Human Resource Analyst Custom Custom[MCD_PER_HUMAN_RESOURCE_ANALYST_JOB_CUSTOM_CUSTOM]
+RoleGroup_Other | MCD Human Capital Management Integration Specialist Custom[HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD HRPY US Payroll Shell Role[MCD_HRPY_US_Payroll_Shell_Role]
+RoleGroup_Other | MCD HRPY Time and Labor Manager Full Access[MCD_HRPY_TIME_AND_LABOR_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Time and Labor Administrator Full Access[MCD_HRPY_TIME_AND_LABOR_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Term Code Access[MCD_HRPY_Term_Code_Access_Role]
+RoleGroup_Other | MCD HRPY Reports and Analytics Country[MCD_Reports_Analytics_Country_CUSTOM]
+RoleGroup_Other | MCD HRPY Read Only_Country[MCD_VIEW_ONLY_COUNTRY_DATA]
+RoleGroup_Other | MCD HRPY Payroll Manager Full Access[MCD_HRPY_PAYROLL_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Payroll Administrator Full Access[MCD_HRPY_PAYROLL_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Manage Legal Entity[MCD_HRPY_Manage_Legal_Entity]
+RoleGroup_Other | MCD HRPY MSS Transaction Manager View Full Access[MCD_HRPY_MSS_TRANSACTION_MANAGER_VIEW_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Human Resource Analyst[MCD_PER_HUMAN_RESOURCE_ANALYST_JOB_CUSTOM1]
+RoleGroup_Other | MCD HRPY Human Resource Analyst Full Access[MCD_HRPY_HUMAN_RESOURCE_ANALYST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Human Capital Management Integration Specialist[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM2]
+RoleGroup_Other | MCD HRPY HR Specialists Processor Full Access[MCD_HRPY_HR_SPECIALISTS_PROCESSOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY HR Specialists Processor AOR Country[MCD_HRPY_HR_SPECIALISTS_PROCESSOR_AOR_COUNTRY_DATA]
+RoleGroup_Other | MCD HRPY HR Specialists Process Support Full Access[MCD_HRPY_HR_SPECIALISTS_PROCESS_SUPPORT_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY HR Specialist Full Access[MCD_HRPY_HR_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY HR AOR Full Access[MCD_HR_AOR_VIEW_ALL_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY HR AOR Department with Public Security Profile[MCD_HR_AOR_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY HCM Integration Specialist Full Access[MCD_HRPY_HCM_INTEGRATION_SPECIALIST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Global Read Only[MCD_VIEW_ONLY_DATA]
+RoleGroup_Other | MCD HRPY GLOBAL TRANSFER CA ROLE[MCD_GLOBAL_TRANSFER_CA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY Flow Owner[MCD_HRPY_FLOW_OWNER]
+RoleGroup_Other | MCD HRPY Compensation Manager Full Access[MCD_HRPY_COMPENSATION_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Compensation Analyst Full Access[MCD_HRPY_COMPENSATION_ANALYST_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Compensation Administrator Full access[MCD_HRPY_COMPENSATION_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Cashier[MCD_HES_CASHIER_JOB_CUSTOM3]
+RoleGroup_Other | MCD HRPY Call Center Full Access[MCD_CALL_CENTER_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Benefits Administrator Full Access[MCD_HRPY_BENEFITS_ADMINISTRATOR_FULL_ACCESS_DATA]
+RoleGroup_Other | MCD HRPY Benefits Administrator AOR Data Role[MCD_HRPY_BENEFITS_ADMINISTRATOR_AOR_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HRPY Application Flexfields[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB_CUSTOM3_CUSTOM]
+RoleGroup_Other | MCD HRPY Adjust Multiple Tax Balance[MCD_HRPY_ADJ_MULTIPLE_TAX_BAL_JOB]
+RoleGroup_Other | MCD HRPY AOR Legal Employer[MCD_AOR_LEGAL_EMPLOYER_DATA]
+RoleGroup_Other | MCD HRPY AOR Job Family[MCD_AOR_JOB_FAMILY_DATA]
+RoleGroup_Other | MCD HRPY AOR Department[MCD_AOR_DEPARTMENT_DATA]
+RoleGroup_Other | MCD HRPY AOR Business Unit[MCD_AOR_BUSINESS_UNIT_DATA]
+RoleGroup_Other | MCD HDL Uploads[MCD_HDL_Uploads_Job]
+RoleGroup_Other | MCD HCM Integration SpecialistDATADONOTUSE[MCD_HCM_INTEGRATION_SPECIALIST_DATA_ROLE_DATA]
+RoleGroup_Other | MCD HCM Integration Specialist Custom Data View All[MCD_HCM_INTEGRATION_SPECIALIST_CUSTOM_DATA_VIEW_ALL_DATA]
+RoleGroup_Other | MCD HCM INTEGRATIONSPECIALISTDONOTUSE[MCD_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD GL Report Custom[MCD_GL_REPORTS_AOR_CUSTOM]
+RoleGroup_Other | MCD GL Interface User[MCD_GL_INTERFACE_USER_CUSTOM]
+RoleGroup_Other | MCD GL Financial Analyst[MCD_GL_FINANCIAL_ANALYST_JOB_CUSTOM]
+RoleGroup_Other | MCD GL Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM10]
+RoleGroup_Other | MCD GL Conversion User[MCD_GL_INTERFACE_USER_CONV_CUSTOM]
+RoleGroup_Other | MCD GL Close Coordinator[MCD_GL_CLOSE_COORDINATOR_CUSTOM]
+RoleGroup_Other | MCD GL Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]
+RoleGroup_Other | MCD GL Audit Role[MCD_AUDIT_ROLE_CUSTOM]
+RoleGroup_Other | MCD GL Allocation Access[MCD_GL_ALLOCATION_JOB_CUSTOM]
+RoleGroup_Other | MCD GL Accountant[MCD_GL_GENERAL_ACCOUNTANT_JOB_CUSTOM]
+RoleGroup_Other | MCD FSM Migration[MCD_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB_CUSTOM]
+RoleGroup_Other | MCD FIN PROC PROJ BPM Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_BPM_JOB_CUSTOM]
+RoleGroup_Other | MCD FA Inquiry[MCD_FA_ASSET_ACCOUNTANT_JOB_CUSTOM1]
+RoleGroup_Other | MCD FA Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM5]
+RoleGroup_Other | MCD FA Accounting Manager[MCD_FA_ASSET_ACCOUNTING_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD Enterprise Contract Administrator[MCD_OKC_ENTERPRISE_CONTRACT_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD Employee[MCD_PER_EMPLOYEE_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Employee OTE USA ABSTRACT[MCD_EMPLOYEE_OTE_USA_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Employee Crew US ABSTRACT[MCD_Employee_Crew_US_CUSTOM]
+RoleGroup_Other | MCD Employee All USA[MCD_EMPLOYEE_ALL_CUSTOM]
+RoleGroup_Other | MCD Employee All Canada[MCD_EMPLOYEE_ALL_CANADA_CUSTOM]
+RoleGroup_Other | MCD ESS OUTPUT ALL[MCD_ESS_OUTPUT_ALL_CUSTOM]
+RoleGroup_Other | MCD ESS Monitor[MCD_ESS_MONITOR_CUSTOM]
+RoleGroup_Other | MCD ESS MONITOR PROCESS[MCDESSMONITORPROCESS]
+RoleGroup_Other | MCD ESS Administrator[MCD_ESS_Administrator]
+RoleGroup_Other | MCD ESS Absence access US[MCD_ESS_Absence_access_US]
+RoleGroup_Other | MCD Contingent Worker[MCD_PER_CONTINGENT_WORKER_ABSTRACT_CUSTOM]
+RoleGroup_Other | MCD Collections Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM6]
+RoleGroup_Other | MCD Chart of Accounts Maintenance[MCD_BUSINESS_ANALYST_COA_MAINTENANCE_CUSTOM]
+RoleGroup_Other | MCD Cash Manager[MCD_CE_CASH_MANAGER_JOB_CUSTOM2]
+RoleGroup_Other | MCD Call Center View All[MCD_CALL_CENTER_VIEW_ALL_DATA]
+RoleGroup_Other | MCD CM Interface User[MCD_CM_INTERFACE_USER_CUSTOM]
+RoleGroup_Other | MCD CM Conversion User[MCD_CM_INTERFACE_USER_CUSTOM1]
+RoleGroup_Other | MCD CDM Interface User[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM3]
+RoleGroup_Other | MCD CDM Business Analyst[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM_CUSTOM]
+RoleGroup_Other | MCD Buyer[MCD_PO_BUYER_JOB_CUSTOM]
+RoleGroup_Other | MCD BI Inquiry Role[MCD_BI_Inquiry_Role]
+RoleGroup_Other | MCD BI Admin Role[MCD_BI_ADMIN_ROLE_CUSTOM]
+RoleGroup_Other | MCD Application Diagnostics[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM8]
+RoleGroup_Other | MCD Application Developer-FSMMGR[MCD_FND_APPLICATION_DEVELOPER_FSMMGR_JOB]
+RoleGroup_Other | MCD Access Administrator Full Access[MCD_ACCESS_ADMINISTRATOR_VIEW_ALL_DATA]
+RoleGroup_Other | MCD AU GL Intercompany Approval Role[MCD_AU_GL_INTERCOMPANY_APPROVAL_RULE_CUSTOM]
+RoleGroup_Other | MCD AU ERP Cloud Payroll Bank Account Security Role[MCD_AU_CM_PAYROLL_BANK_ACCOUNT_SECURITY_ROLE]
+RoleGroup_Other | MCD AU ERP Cloud Bank Account Security Role[MCD_AU_CM_BANK_ACCOUNT_SECURITY_ROLE]
+RoleGroup_Other | MCD AR Specialist Role[MCD_AR_ACCOUNTS_RECEIVABLE_SPECIALIST_SOD_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Manager Role[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Customer Maintenance[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM5]
+RoleGroup_Other | MCD AR Conversion User[MCD_AR_CONVERSION_USER_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Collections Interface User[MCD_IEX_COLLECTIONS_INTERFACE_USER_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Collections Conversion User[MCD_IEX_COLLECTIONS_INTERFACE_USER_JOB_CUSTOM1]
+RoleGroup_Other | MCD AR Collection Manager[MCD_IEX_COLLECTIONS_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Collection Agent[MCD_IEX_COLLECTIONS_AGENT_JOB_CUSTOM]
+RoleGroup_Other | MCD AR Cash Receipt[MCD_AR_CASH_RECEIPT_JOB_ROLE]
+RoleGroup_Other | MCD AR Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM2]
+RoleGroup_Other | MCD AP Specialist[MCD_AP_ACCOUNTS_PAYABLE_SPECIALIST_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Manager[MCD_AP_ACCOUNTS_PAYABLE_MANAGER_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Invoice Supervisor[MCD_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Invoice Force Approve[MCD_AP_INVOICE_FORCE_APPROVE_JOB_ROLE]
+RoleGroup_Other | MCD AP Invoice Approval Coder[MCD_AP_ACCOUNTS_PAYABLE_SPECIALIST_JOB_CUSTOM1]
+RoleGroup_Other | MCD AP Financial Analyst[MCD_AP_FINANCIAL_ANALYST_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Close Coordinator[MCD_AP_ACCOUNTS_PAYABLE_CLOSE_COORDINATOR_JOB_CUSTOM]
+RoleGroup_Other | MCD AP Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM4]
+RoleGroup_Other | MCD ANZ Human Resource Analyst Data Role[MCD_ANZ_HUMAN_RESOURCE_ANALYST_DATA_ROLE_DATA]
+RoleGroup_Other | Inventory Manager[ORA_INV_INVENTORY_MANAGER_JOB]
+RoleGroup_Other | Integration Specialist[ORA_FND_INTEGRATION_SPECIALIST_JOB]
+RoleGroup_Other | Human Resource Specialist[ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB]
+RoleGroup_Other | Human Resource Manager[ORA_PER_HUMAN_RESOURCE_MANAGER_JOB]
+RoleGroup_Other | Human Resource Analyst[ORA_PER_HUMAN_RESOURCE_ANALYST_JOB]
+RoleGroup_Other | Human Capital Management Integration Specialist[ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB]
+RoleGroup_Other | Human Capital Management Application Administrator[ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB]
+RoleGroup_Other | HR Specialist_ViewAll[HR_SPECIALIST_VIEWALL_DATA]
+RoleGroup_Other | HR Analyst Full Access[HR_ANALYST_VIEWALL_DATA]
+RoleGroup_Other | Grants Administrator[ORA_PJF_GRANTS_ADMINISTRATOR_JOB]
+RoleGroup_Other | General Accountant[ORA_GL_GENERAL_ACCOUNTANT_JOB]
+RoleGroup_Other | Financial Application Administrator[ORA_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB]
+RoleGroup_Other | Employee[ORA_PER_EMPLOYEE_ABSTRACT]
+RoleGroup_Other | Cost Accountant[ORA_CST_COST_ACCOUNTANT_JOB]
+RoleGroup_Other | Compensation Specialist Full Access[COMPENSATION_SPECIALIST_VIEW_ALL_DATA]
+RoleGroup_Other | Compensation Manager Full Access[COMPENSATION_MANAGER_VIEW_ALL_DATA]
+RoleGroup_Other | Compensation Administrator View All[COMPENSATION_ADMINISTRATOR_VIEW_ALL_DATA]
+RoleGroup_Other | Cash Manager[ORA_CE_CASH_MANAGER_JOB]
+RoleGroup_Other | Buyer[ORA_PO_BUYER_JOB]
+RoleGroup_Other | Benefits Specialist[ORA_BEN_BENEFITS_SPECIALIST_JOB]
+RoleGroup_Other | Benefits Manager_Country[BENEFITS_MANAGER_COUNTRY_DATA]
+RoleGroup_Other | Benefits Manager Full Access[BENEFITS_MANAGER_VIEWALL_DATA]
+RoleGroup_Other | Benefits Administrator AOR Data Role[BENEFITS_ADMINISTRATOR_AOR_DATA_ROLE_DATA]
+RoleGroup_Other | Asset Administrator[ORA_CSE_ASSET_ADMINISTRATOR_JOB]
+RoleGroup_Other | Asset Accounting Manager[ORA_FA_ASSET_ACCOUNTING_MANAGER_JOB]
+RoleGroup_Other | Asset Accountant[ORA_FA_ASSET_ACCOUNTANT_JOB]
+RoleGroup_Other | Application Implementation Manager[ORA_ASM_APPLICATION_IMPLEMENTATION_MANAGER_JOB]
+RoleGroup_Other | Application Implementation Consultant[ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB]
+RoleGroup_Other | Application Diagnostics Viewer[ORA_FND_DIAG_VIEWER_JOB]
+RoleGroup_Other | Application Diagnostics Regular User[ORA_FND_DIAG_REGULAR_USER_JOB]
+RoleGroup_Other | Application Diagnostics Advanced User[ORA_FND_DIAG_ADVANCED_USER_JOB]
+RoleGroup_Other | Application Diagnostics Administrator[ORA_FND_DIAG_ADMINISTRATOR_JOB]
+RoleGroup_Other | Application Developer[ORA_FND_APPLICATION_DEVELOPER_JOB]
+RoleGroup_Other | Application Administrator[ORA_FND_APPLICATION_ADMINISTRATOR_JOB]
+RoleGroup_Other | Analyze Spend
+RoleGroup_Other | Advanced Procurement Requester[ORA_POR_ADVANCED_PROCUREMENT_REQUESTER_ABSTRACT]
+RoleGroup_Other | Accounts Receivable Specialist[ORA_AR_ACCOUNTS_RECEIVABLE_SPECIALIST_JOB]
+RoleGroup_Other | Accounts Payable Supervisor[ORA_AP_ACCOUNTS_PAYABLE_SUPERVISOR_JOB]
+RoleGroup_Other | Accounts Payable Specialist[ORA_AP_ACCOUNTS_PAYABLE_SPECIALIST_JOB]
+RoleGroup_Other | Accounts Payable Manager[ORA_AP_ACCOUNTS_PAYABLE_MANAGER_JOB]
+RoleGroup_Other | Accounts Payable Invoice Supervisor[ORA_AP_ACCOUNTS_PAYABLE_INVOICE_SUPERVISOR_JOB]
+RoleGroup_Other | AR Adjustment Profile
+RoleGroup_HCM | MCD Project Close Coordinator[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM2]
+RoleGroup_GL | MCD Project Close Coordinator[MCD_PJF_PROJECT_ACCOUNTANT_JOB_CUSTOM2]
+RoleGroup_AR | MCD Customer Relationship Management Application Administrator-APPLIMPLCONS-Job Role Custom[MCD_ZCA_CUSTOMER_RELATIONSHIP_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB_CUSTOM]
+RoleGroup_AP | MCD Project Inquire[MCD_PROJECT_INQUIRE_CUSTOM]
+RoleGroup_AM | Supplier Accounts Receivable Specialist[ORA_POS_SUPPLIER_ACCOUNTS_RECEIVABLE_SPECIALIST_JOB]
+RoleGroup_AM | Sales Administrator[ORA_ZBS_SALES_ADMINISTRATOR_JOB]
+RoleGroup_AM | Project Executive[ORA_PJF_PROJECT_EXECUTIVE_JOB]
+RoleGroup_AM | Project Billing Specialist[ORA_PJF_PROJECT_BILLING_SPECIALIST_JOB]
+RoleGroup_AM | Manage Purchase Orders
+RoleGroup_AM | Manage Approved Supplier List Entries
+RoleGroup_AM | MCD Tax Analyst[MCD_ZX_TAX_ANALYST_JOB_CUSTOM]
+RoleGroup_AM | MCD Supplier Self-Service Accounts Receivable Specialist[MCD_POS_SUPPLIER_ACCOUNTS_RECEIVABLE_SPECIALIST_JOB_CUSTOM]
+RoleGroup_AM | MCD Project Business Analyst[MCD_PJF_PROJECTS_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]
+RoleGroup_AM | MCD Product Data Business Analyst[MCD_EGI_PRODUCT_DATA_STEWARD_JOB_CUSTOM_CUSTOM]
+RoleGroup_AM | MCD Procurement Requester[MCD_POR_PROCUREMENT_REQUESTER_ABSTRACT_CUSTOM]
+RoleGroup_AM | MCD Proc Agent[MCD_PO_PROCUREMENT_APPLICATION_ADMIN_JOB_CUSTOM3]
+RoleGroup_AM | MCD IT MSS Transaction Manager View Full Access[MCD_IT_MSS_TRANSACTION_MANAGER_VIEW_FULL_ACCESS_DATA]
+RoleGroup_AM | MCD IT HSDL Upload Payroll Support[MCD_IT_HSDL_Upload_Payroll_Support_Job_CUSTOM]
+RoleGroup_AM | MCD IT HCM Security Manager[MCD_IT_HCM_Security_Manager]
+RoleGroup_AM | MCD HRPY Reports and Analytics[MCD_Reports_Analytics]
+RoleGroup_AM | MCD HRPY Reports and Analytics Icon[MCD_Reports_and_Analytics_Icon]
+RoleGroup_AM | MCD HRPY Payroll Tax Full Access[MCD_HRPY_PAYROLL_TAX_FULL_ACCESS_DATA]
+RoleGroup_AM | MCD HRPY MSS Transaction Manager View[MCD_MSS_TRANSACTION_MANAGER_VIEW_CUSTOM]
+RoleGroup_AM | MCD HRPY Benefits Manager Full Access[MCD_HRPY_BENEFITS_MANAGER_FULL_ACCESS_DATA]
+RoleGroup_AM | MCD HRPY AOR Location[MCD_AOR_LOCATION_DATA]
+RoleGroup_AM | MCD HRPY AOR Country[MCD_AOR_COUNTRY_DATA]
+RoleGroup_AM | MCD General Accountant-GenAcctMgr-Custom Job Role[MCD_GL_GENERAL_ACCOUNTANT_JOB_CUSTOM3]
+RoleGroup_AM | MCD GL Reports Business Unit and Job Custom[MCD_GL_Reports_BusinessUnit_and_Job_Custom]
+RoleGroup_AM | MCD GL FSR Maintenance[MCD_FSR_MAINTENANCE_CUSTOM]
+RoleGroup_AM | MCD GL Accounting Manager[MCD_GL_GENERAL_ACCOUNTING_MANAGER_JOB_CUSTOM1]
+RoleGroup_AM | MCD GL Accounting Manager with Correct Import Data[MCD_GL_GENERAL_ACCOUNTING_MANAGER_WITH_CORRECT_IMPORT_DATA_JOB_ROLE]
+RoleGroup_AM | MCD FA Close Coordinator[MCD_FA_CLOSE_COORDINATOR_CUSTOM]
+RoleGroup_AM | MCD FA Accountant[MCD_FA_ASSET_ACCOUNTANT_JOB_CUSTOM]
+RoleGroup_AM | MCD Collections Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM11]
+RoleGroup_AM | MCD CM Business Analyst[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM3]
+RoleGroup_AM | MCD CDM Customer Data Steward[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM]
+RoleGroup_AM | MCD CDM Conversion User[MCD_ZCH_TRADING_COMMUNITY_DATA_STEWARD_JOB_CUSTOM4]
+RoleGroup_AM | MCD Autocomplete Rule Bypass[MCD_AUTOCOMPL_BYPASS]
+RoleGroup_AM | MCD Application Administrator-FSMMGR[MCD_FND_APPLICATION_ADMINISTRATOR_FSMMGR_JOB]
+RoleGroup_AM | MCD AR Financial Analyst[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM2]
+RoleGroup_AM | MCD AR Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM9]
+RoleGroup_AM | MCD AR Close Coordinator[MCD_AR_ACCOUNTS_RECEIVABLE_MANAGER_SOD_JOB_CUSTOM3]
+RoleGroup_AM | MCD AR Bulk Transaction[MCD_AR_INTERFACE_USER_BULK_TRANSACTION_CUSTOM]
+RoleGroup_AM | MCD AP Payment Supervisor[MCD_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB_CUSTOM]
+RoleGroup_AM | MCD AP Interface User[MCD_AP_ACCOUNTS_PAYABLE_USER_CUSTOM]
+RoleGroup_AM | MCD AP Data Specialist[MCD_FUN_FINANCIAL_APPLICATION_ADMINISTRATOR_JOB_CUSTOM4_CUSTOM]
+RoleGroup_AM | IT Security Manager[ORA_FND_IT_SECURITY_MANAGER_JOB]
+RoleGroup_AM | General Accounting Manager[ORA_GL_GENERAL_ACCOUNTING_MANAGER_JOB]
+RoleGroup_AM | DPSP Administrator[DPSP_CUSTOM]
+RoleGroup_AM | Collections Manager[ORA_IEX_COLLECTIONS_MANAGER_JOB]
+RoleGroup_AM | Benefits Administrator_ViewAll[BENEFITS_ADMINISTRATOR_VIEWALL_DATA]
+RoleGroup_AM | Application Implementation Administrator[ORA_ASM_APPLICATION_IMPLEMENTATION_ADMIN_ABSTRACT]
+RoleGroup_AM | Accounts Receivable Manager[ORA_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB]
+RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB]
+')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
@@ -22,7 +648,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>bd1fa556-f77f-4b14-828a-3abc8224fdca</webElementGuid>
+      <webElementGuid>41e7eb41-9182-45e4-a73e-8216cf2eb106</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +656,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Move from</value>
-      <webElementGuid>dc0a834a-3e29-43cb-b857-d0c4be954d0d</webElementGuid>
+      <webElementGuid>cae0b64b-b7ea-4031-b51a-c123af6f320b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +664,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>8630a031-aa90-4cb3-996f-6fc9e131e6c2</webElementGuid>
+      <webElementGuid>476a94f6-bb22-4d7d-ad5d-0692e508bdf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +672,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P5_ENTRY_REQUEST_LEFT</value>
-      <webElementGuid>b34ce410-0763-446e-b305-daeb7a5e74f0</webElementGuid>
+      <webElementGuid>b7967e64-e900-4045-814a-8566b0f8267a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +680,7 @@
       <name>size</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>3ce1f6bc-f076-4cc9-9c41-434a357d76d6</webElementGuid>
+      <webElementGuid>8e859af0-2299-44c6-9525-92450c54352e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +688,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shuttle_left apex-item-select</value>
-      <webElementGuid>f35ec404-30ff-4e44-9bff-b3b7b5b65868</webElementGuid>
+      <webElementGuid>b92c0dfa-6b3e-47ec-b6b7-6394b34bc17c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -381,7 +1007,7 @@ RoleGroup_AM | Application Implementation Administrator[ORA_ASM_APPLICATION_IMPL
 RoleGroup_AM | Accounts Receivable Manager[ORA_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB]
 RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB]
 </value>
-      <webElementGuid>242bf8b6-2f20-41ae-95ba-7de914c13b15</webElementGuid>
+      <webElementGuid>33596fbc-accf-4c1c-8613-a8091e861ac6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -389,7 +1015,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P5_ENTRY_REQUEST_LEFT&quot;)</value>
-      <webElementGuid>3edfceb6-c484-4f8c-8485-63ec33cf6152</webElementGuid>
+      <webElementGuid>b5da3362-b7b3-4141-87f0-6c6dbc614fa8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -1019,7 +1645,7 @@ RoleGroup_AM | Application Implementation Administrator[ORA_ASM_APPLICATION_IMPL
 RoleGroup_AM | Accounts Receivable Manager[ORA_AR_ACCOUNTS_RECEIVABLE_MANAGER_JOB]
 RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYMENT_SUPERVISOR_JOB]
 ')]</value>
-      <webElementGuid>41d2e19c-12f0-47df-88db-5b8cc98d1783</webElementGuid>
+      <webElementGuid>bf075fa6-1995-4b5f-9e6a-c0b40de9139d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1027,7 +1653,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P5_ENTRY_REQUEST_LEFT']</value>
-      <webElementGuid>453f6195-7f36-4a7b-bd85-65f574619332</webElementGuid>
+      <webElementGuid>1c4485e5-a15e-46d9-b713-bb068f117169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1035,7 +1661,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Group | Role'])[1]/following::select[1]</value>
-      <webElementGuid>cdb5e554-1d5a-48e3-bc5d-8684f4a373ad</webElementGuid>
+      <webElementGuid>711bc29d-95e6-48c8-832e-53e0b416abab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1043,7 +1669,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::select[1]</value>
-      <webElementGuid>2aff5d66-bc35-4082-bcfd-31b2282b4bcb</webElementGuid>
+      <webElementGuid>2ac9c457-c641-4ee6-bc89-ca810cc2555c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1051,7 +1677,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[2]</value>
-      <webElementGuid>a7e813a7-6890-4a2c-a96d-1cb8db714131</webElementGuid>
+      <webElementGuid>a25e28a0-95e5-42ed-9914-8cb02018515f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1059,7 +1685,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[2]</value>
-      <webElementGuid>20601334-9fd8-425b-876d-b0cca3cfe3f4</webElementGuid>
+      <webElementGuid>b5b6a0b1-1096-496b-9552-6d02d3f9a0ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1067,7 +1693,7 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>6253142d-bd89-47b0-b7c3-f7862f33d7f6</webElementGuid>
+      <webElementGuid>8afcadd4-0a99-4b96-8b69-f82c634f3297</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1075,6 +1701,6 @@ RoleGroup_AM | Accounts Payable Payment Supervisor[ORA_AP_ACCOUNTS_PAYABLE_PAYME
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P5_ENTRY_REQUEST']/table/tbody/tr/td/select</value>
-      <webElementGuid>a867c6c5-57dc-4d76-a709-1c8f60fbb9e7</webElementGuid>
+      <webElementGuid>b225e9ca-5b10-4697-a2cf-4aac8be235ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
