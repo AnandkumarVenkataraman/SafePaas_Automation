@@ -194,6 +194,8 @@ WebUI.click(findTestObject('Object Repository/EIA/EIA_Setup/Page_Scope Roles/a_N
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('EIA/EIA_Setup/Page_Scope Roles/Role Groups in Scope'))
 
 WebUI.click(findTestObject('EIA/EIA_Setup/Page_Scope Roles/Role Groups in Scope'))
