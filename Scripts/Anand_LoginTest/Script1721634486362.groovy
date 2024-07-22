@@ -31,7 +31,7 @@ String actualTitle
 	
 if(expectedTitle == actualTitle)
 {
-	println("IQA launched successfully July22")
+	println("IQA launched successfully July22_V1")
 }
 else
 {
