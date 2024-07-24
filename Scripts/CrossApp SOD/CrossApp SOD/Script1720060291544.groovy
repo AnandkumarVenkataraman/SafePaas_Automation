@@ -131,7 +131,15 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/CrossApp SOD/Page
 
 WebUI.verifyElementText(findTestObject('Object Repository/CrossApp SOD/Page_Manage SOD Test/td_Running'), 'Running')
 
+WebUI.scrollToPosition(0, 0)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/CrossApp SOD/Page_Manage SOD Test/button_Go'))
+
+WebUI.click(findTestObject('Object Repository/CrossApp SOD/Page_Manage SOD Test/button_Go'))
+
 WebUI.delay(450)
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/CrossApp SOD/Page_Manage SOD Test/button_Go'))
 
