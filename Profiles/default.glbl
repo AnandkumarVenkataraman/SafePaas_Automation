@@ -145,8 +145,8 @@
       <name>DTP_JDBC_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>SODTest_CrossApp_Jul22_v1</description>
-      <initValue>'SODTest_CrossApp_Jul22_v1'</initValue>
+      <description>SODTest_CrossApp_July23_v1</description>
+      <initValue>'SODTest_CrossApp_July23_v1'</initValue>
       <name>SOD_CrossApp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
