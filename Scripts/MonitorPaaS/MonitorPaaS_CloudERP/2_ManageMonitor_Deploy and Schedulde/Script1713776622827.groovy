@@ -272,9 +272,9 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot
 WebUI.delay(5)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/a_Completed'), 
-    FailureHandling.OPTIONAL)
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/a_Completed'), FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/a_Completed'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Log Report/a_Log id'))
 
