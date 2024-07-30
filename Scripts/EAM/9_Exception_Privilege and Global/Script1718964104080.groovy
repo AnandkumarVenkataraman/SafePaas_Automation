@@ -245,7 +245,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba10/ExceptionRole
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), '')
 
-WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), 'Create Requisitions and Create Payables Invoices')
+WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/input_p_ignore_10 (1)'), 'Create Requisitions and Create Payables')
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/button_Apply (1) - U301'))
 
