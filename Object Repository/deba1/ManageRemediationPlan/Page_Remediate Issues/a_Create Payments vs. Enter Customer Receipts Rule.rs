@@ -6,11 +6,15 @@
    <elementGuidId>8f0c20ad-e094-45e1-919d-c16feb4f7521</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/div/a[15]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = 'Create Payments vs. Enter Customer Receipts Rule' or . = 'Create Payments vs. Enter Customer Receipts Rule')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;actionsReport_col_values_drop&quot;]/a[14]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7a7cc9f4-4355-49e6-937f-e3a3d347fd52</webElementGuid>
+      <webElementGuid>10491f82-6f5e-41c2-9b02-e86027363a85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>105e3f75-6b3d-441d-8392-8c935019bb94</webElementGuid>
+      <webElementGuid>6645334e-40bc-4fb2-a64e-002307dc9a64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>4e6b653b-3720-4186-adff-68321ce2b20a</webElementGuid>
+      <webElementGuid>cddb8db0-3a2f-49ed-b18e-0225dbae77de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>Create Payments vs. Enter Customer Receipts Rule</value>
-      <webElementGuid>8989736d-1e06-4ab8-a619-05336e620547</webElementGuid>
+      <webElementGuid>ede305e0-6f2c-4eb9-abc9-ca2653a35fca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create Payments vs. Enter Customer Receipts Rule</value>
-      <webElementGuid>3f939467-8e90-4a0a-9851-e90ef37ee1a3</webElementGuid>
+      <webElementGuid>cb5c154f-9e16-4e73-b001-10427361c782</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;actionsReport_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>3d577e49-cc17-49b5-86df-272abe285a95</webElementGuid>
+      <webElementGuid>20937326-947f-42bb-b25b-39035e5c9c63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='actionsReport_col_values_drop']/a[16]</value>
-      <webElementGuid>3a34ce93-b3c1-49cc-a1c0-80c20ad201fe</webElementGuid>
+      <webElementGuid>373dc279-0660-44fd-b138-37f958b70c4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Create Payments vs. Enter Customer Receipts Rule')]</value>
-      <webElementGuid>9a28fd6f-2e3d-4fc6-b8b9-d917240de8bc</webElementGuid>
+      <webElementGuid>fe1f607a-ca50-4569-8fbb-6d8c94a0b505</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[131]</value>
-      <webElementGuid>c0f15e97-dee0-4873-bc1d-823a0229a3ff</webElementGuid>
+      <webElementGuid>3efac281-c048-4d30-9bfe-a1c8539d9997</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[16]</value>
-      <webElementGuid>0d29303b-76de-43be-9439-293d62469b9a</webElementGuid>
+      <webElementGuid>d58d516e-e631-4daf-945e-ad0beb6d668f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Create Payments vs. Enter Customer Receipts Rule' or . = 'Create Payments vs. Enter Customer Receipts Rule')]</value>
-      <webElementGuid>14a44925-e86e-4987-a43e-f577a5fcb100</webElementGuid>
+      <webElementGuid>f01bb99e-9660-4e7c-a255-a09ca3c80361</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
