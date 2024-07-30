@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/EAM_ManageRuleCreation_AddRule</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/EAM_ManageRuleCreation_AddRule</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/EAM_ManageRuleCreation_Import</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/EAM_ManageRuleCreation_Import</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/SOD Test Creation</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/SOD Test Creation</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

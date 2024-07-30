@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/SOD Test Verification status</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/SOD Test Verification status</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/FilterFalsePositive_User</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/FilterFalsePositive_User</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/FilterFalsePositive_Role</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/FilterFalsePositive_Role</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Exception_Role_Local</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Exception_Role_Local</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -55,7 +55,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Exception_Role_Local_ApprovalProcess</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Exception_Role_Local_ApprovalProcess</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -65,7 +65,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Exceptions_Privilege_Global</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Exceptions_Privilege_Global</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -75,7 +75,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/MassUpdateException_RolesWithConflict</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/MassUpdateException_RolesWithConflict</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -85,7 +85,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/MassUpdateException_UsersWithConflict</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/MassUpdateException_UsersWithConflict</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

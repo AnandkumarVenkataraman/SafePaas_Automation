@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Remediations_AllUsersViolation</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Remediations_AllUsersViolation</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Remediations_AllUsersViolation_ApprovalProcess</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Remediations_AllUsersViolation_ApprovalProcess</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Remediations_AllUsersRoleViolation</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Remediations_AllUsersRoleViolation</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Remediations_AllUsersRoleViolation_Approval</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Remediations_AllUsersRoleViolation_Approval</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -55,7 +55,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Remediations_Selected</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Remediations_Selected</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -65,7 +65,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Remediations_Selected_ApprovalProcess</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Remediations_Selected_ApprovalProcess</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -74,8 +74,8 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/SOD Test Creation</testSuiteEntity>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/SOD Test Creation</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

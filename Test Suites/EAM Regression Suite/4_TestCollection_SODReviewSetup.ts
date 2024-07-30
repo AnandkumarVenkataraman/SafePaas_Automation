@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/SODReviewSetup_ManageRoleGroups</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/SODReviewSetup_ManageRoleGroups</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/SODReviewSetup_ManageApprovalAssignments</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/SODReviewSetup_ManageApprovalAssignments</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July15/Analytics Report</testSuiteEntity>
+         <testSuiteEntity>Test Suites/EAM Regression Suite/EAM_July29/Analytics Report</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
