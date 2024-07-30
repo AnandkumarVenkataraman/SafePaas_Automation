@@ -115,8 +115,8 @@
       <name>MTP_EBS_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>STP_FCPM_JULY24_V2</description>
-      <initValue>'STP_FCPM_JULY24_V2'</initValue>
+      <description>STP_FCPM_JULY29_V1</description>
+      <initValue>'STP_FCPM_JULY29_V1'</initValue>
       <name>MTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
