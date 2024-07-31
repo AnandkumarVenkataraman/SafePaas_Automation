@@ -6,12 +6,15 @@
    <elementGuidId>5e35ca5d-1a2b-4fde-9b83-16f78b6d64d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1000:3:115731149861:::3:P3_NID:76559' and (text() = 'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner' or . = 'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>709c586a-13e9-4381-bdbe-ba77cd2f546f</webElementGuid>
+      <webElementGuid>6bdd3c63-2ad2-45bf-a2d7-ed226cc5c6c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1000:3:115731149861:::3:P3_NID:76559</value>
-      <webElementGuid>9fa89a7e-1bdc-4c98-a243-7ed16aff5a67</webElementGuid>
+      <webElementGuid>907900d1-7b01-4a5f-9e12-f957c975d2fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner</value>
-      <webElementGuid>b7dc8920-edea-4395-bd5f-c1b80708c350</webElementGuid>
+      <webElementGuid>f1c1a847-55d0-4021-aafd-6341a5991ac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>f321f0ea-9629-4226-947f-91abee19d588</webElementGuid>
+      <webElementGuid>c235cfad-6863-41de-b65d-114949e6b9f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a</value>
-      <webElementGuid>cdc43e0a-8c51-4c6b-89a0-ac9a73b0b9a0</webElementGuid>
+      <webElementGuid>d91ae8c4-bd74-409f-9e76-28540c850991</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner')]</value>
-      <webElementGuid>8b1f2f73-d052-4ee7-bd0a-8d7942f9be6a</webElementGuid>
+      <webElementGuid>087fad97-668b-4864-9906-9bf6b1fd176c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1000:3:115731149861:::3:P3_NID:76559')]</value>
-      <webElementGuid>7591d06d-0a96-4520-b499-1bbe0005f448</webElementGuid>
+      <webElementGuid>f45cd7b4-bfe6-437f-92f1-71002b676e79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]/a</value>
-      <webElementGuid>3faca4ed-6a53-4e82-b0e1-272efadd73e0</webElementGuid>
+      <webElementGuid>ca7e08d9-58e8-4b13-9d4e-6d53ce0daf56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1000:3:115731149861:::3:P3_NID:76559' and (text() = 'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner' or . = 'The Create Payments vs. Enter Customer Receipts Rule has been sent for your approval - Owner')]</value>
-      <webElementGuid>0d0f6048-4624-4d9f-a5aa-b8047258ee0d</webElementGuid>
+      <webElementGuid>01c6c174-bc32-4bc6-bc69-86171ada3e70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

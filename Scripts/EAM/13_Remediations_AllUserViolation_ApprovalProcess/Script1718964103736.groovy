@@ -25,7 +25,7 @@ WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_COMPANY (1)'), 'KAT')
 
-WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_USERNAME (1)'), 'KTLN_EAM_USER1')
+WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_USERNAME (1)'), 'KATALON_ADMIN')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/ManageCorrectiveActions/Page_Login/input_P101_PASSWORD (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
@@ -129,7 +129,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba3/AllUsersViolat
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/input_p_ignore_10'), 'Create Purchase Agreements vs. Manage Payables Activities')
+WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/input_p_ignore_10'), 'Create Payments vs. Enter Customer Receipts Rule')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/button_Apply'))
 
