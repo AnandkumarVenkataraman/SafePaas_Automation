@@ -120,8 +120,8 @@
       <name>MTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test reassignment-JULY24_V1</description>
-      <initValue>'Test reassignment-JULY24_V1'</initValue>
+      <description>Test reassignment-JULY30_V1</description>
+      <initValue>'Test reassignment-JULY30_V1'</initValue>
       <name>ReassignRequestor_Comment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
