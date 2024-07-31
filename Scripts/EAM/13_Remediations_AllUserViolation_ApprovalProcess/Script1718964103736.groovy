@@ -70,7 +70,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Create Purchase Agreements vs. Manage Payables Activities')
+    'Create Payments vs. Enter Customer Receipts Rule')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
@@ -208,7 +208,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba3/AllUsersViolatio
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/input_p_ignore_10'), 
-    'Create Purchase Agreements vs. Manage Payables Activities')
+    'Create Payments vs. Enter Customer Receipts Rule')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Apply'))
 
