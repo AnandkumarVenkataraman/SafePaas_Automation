@@ -78,7 +78,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/deba1/All User Roles V
     '')
 
 WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/input_p_ignore_10 (1)'), 
-    'Create Purchase Orders and Maintain AP Configurations')
+    'Create Purchase Agreements vs. Manage Payables Activities')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
