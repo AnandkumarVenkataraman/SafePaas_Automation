@@ -163,7 +163,7 @@ WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
     'MARIAB1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'Ju8vHiRYWYTapQtHptL/Yg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/button_Login'))
 
