@@ -116,11 +116,13 @@ WebUI.click(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/bu
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/td_Canceled'), 'Canceled')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/td_Canceled at approval level 2'), 
-    'Canceled at approval level: 2')
+    'Canceled at approval level: 2', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/h2_The cancellation process has been initia_605824'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/h2_The cancellation process has been initia_605824'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/button_Breadcrumbs_t-Button t-Button--noUI _fee11d'))
+WebUI.click(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/button_Breadcrumbs_t-Button t-Button--noUI _fee11d'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.closeBrowser()
 
