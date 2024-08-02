@@ -287,6 +287,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_Setup/Pag
 WebUI.selectOptionByValue(findTestObject('Object Repository/EIA/EIA_Setup/Page_Manage Approval Assignments/select_equalsnot equalsis emptyis not empty_c59f5b'), 
     'N', true)
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_Setup/Page_Manage Approval Assignments/button_Save'))
 
 WebUI.click(findTestObject('Object Repository/EIA/EIA_Setup/Page_Manage Approval Assignments/button_Save'))
