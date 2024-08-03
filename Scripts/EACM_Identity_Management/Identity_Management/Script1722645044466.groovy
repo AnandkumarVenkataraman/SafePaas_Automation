@@ -176,6 +176,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certify
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_t-Button t-Button--noUI t-Button--ic_cbe08f - Copy (1)'))
 
+WebUI.verifyElementClickable(findTestObject('Identity_Management/Page_User Access Certification Survey/button_Access Group equals Identity_Group1__d77059'))
+
+WebUI.click(findTestObject('Identity_Management/Page_User Access Certification Survey/button_Access Group equals Identity_Group1__d77059'))
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/Identity_Management/Page_User Access Certification Survey/span_Access Group'))
 
 WebUI.click(findTestObject('Object Repository/Identity_Management/Page_User Access Certification Survey/span_Access Group'))
