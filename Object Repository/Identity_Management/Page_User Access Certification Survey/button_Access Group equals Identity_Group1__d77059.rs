@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Access Group equals Identity_Group1__d77059</name>
+   <tag></tag>
+   <elementGuidId>b4e577c2-5b49-4e2a-957d-37a4c19197a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-Button.a-Button.a-Button--noUI.a-IG-button.a-IG-button--remove</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @title = 'Remove Filter']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>829301a8-9602-4835-b2a5-712c36560269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c847246b-ef4e-4f0f-91ec-3dee5420038c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Button a-Button a-Button--noUI a-IG-button a-IG-button--remove</value>
+      <webElementGuid>63582bc2-989b-4e53-b682-3d1528172f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove Filter</value>
+      <webElementGuid>3319068a-0a1e-49c4-9b1a-82895faa70f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Remove Filter</value>
+      <webElementGuid>8c8771b2-a28d-4847-8257-a8ccedd9e61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-setting</name>
+      <type>Main</type>
+      <value>filter</value>
+      <webElementGuid>e0a1d1c6-d5ba-4ef7-9e65-9d6a35cda4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-setting-id</name>
+      <type>Main</type>
+      <value>401695994064784507</value>
+      <webElementGuid>b2456af9-5bd4-4d58-812a-1d270adea64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a_Collapsible1_uacReport_ig_report_settings_content&quot;)/ul[@class=&quot;a-IG-controls&quot;]/li[@class=&quot;a-IG-controls-item a-IG-controls-item--filter&quot;]/span[@class=&quot;a-IG-controls-cell a-IG-controls-cell--remove&quot;]/button[@class=&quot;a-Button a-Button a-Button--noUI a-IG-button a-IG-button--remove&quot;]</value>
+      <webElementGuid>5c21bdba-a63a-4fc2-bb2f-7bef8ba0ec04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Remove Filter']</value>
+      <webElementGuid>5f6e8f47-e16a-476d-84bb-439192fc277f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>3a8f03ff-811d-44f2-a30d-9f03436c1f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Group equals Identity_Group1'])[1]/following::button[1]</value>
+      <webElementGuid>a5088bb6-7306-4274-a4c4-391bb1ab5add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::button[1]</value>
+      <webElementGuid>9e2117fb-65a0-4326-8278-36a1e8800589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Group'])[1]/preceding::button[1]</value>
+      <webElementGuid>9764bdee-5a94-4b39-827a-3723d6fa211b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interactive Grid. Report: Primary Report, View: Grid.'])[1]/preceding::button[1]</value>
+      <webElementGuid>a86d83d4-d78e-40c0-8eeb-ae22fce39cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/button</value>
+      <webElementGuid>56a27309-7e93-4f88-9b86-d6ac16426980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_uacReport_ig_report_settings_content']/ul/li/span[4]/button</value>
+      <webElementGuid>a4e465cb-88e8-413c-87fc-2154d43e7cb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

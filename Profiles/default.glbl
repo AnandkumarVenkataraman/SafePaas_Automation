@@ -154,4 +154,9 @@
       <initValue>'KTLN_EACM_Survey_July19_V2'</initValue>
       <name>EACM_InitiateSurvey_Reassignment</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>TRIRIGA_OS_CERT_V6</description>
+      <initValue>'TRIRIGA_OS_CERT_V6'</initValue>
+      <name>EACM_Identity_Management</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

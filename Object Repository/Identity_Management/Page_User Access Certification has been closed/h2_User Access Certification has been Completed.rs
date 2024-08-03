@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_User Access Certification has been Completed</name>
+   <tag></tag>
+   <elementGuidId>9a95ac7c-ca51-4096-b2a0-ca76b779986e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#R183515302298730869_heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id = 'R183515302298730869_heading' and (text() = 'User Access Certification has been Completed' or . = 'User Access Certification has been Completed')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>425c58a1-9dfe-4638-8a87-9550d9a81bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Region-title</value>
+      <webElementGuid>c442e35d-ec7a-438b-af97-67f115a20335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R183515302298730869_heading</value>
+      <webElementGuid>49dac88f-fd97-40ed-88c3-5246d88aa5cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Access Certification has been Completed</value>
+      <webElementGuid>accd01e4-75fb-424c-a892-dfa8a80d0c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R183515302298730869_heading&quot;)</value>
+      <webElementGuid>b426b27f-ccce-464f-8062-4be66388cc9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'R183515302298730869_heading' and (text() = 'User Access Certification has been Completed' or . = 'User Access Certification has been Completed')]</value>
+      <webElementGuid>8b69846f-7011-46d9-bfe5-b04b58162107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='R183515302298730869_heading']</value>
+      <webElementGuid>8b611d3f-1134-4d18-b457-8968f5c6e47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Certifications'])[1]/following::h2[1]</value>
+      <webElementGuid>40cc60dd-98a0-4fa5-b05f-895bd629b618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_EACM_USER1'])[1]/following::h2[1]</value>
+      <webElementGuid>3d2c4bae-c371-4975-a228-bfbb0671a254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0f3f8cda-7e78-4d4e-93fd-98413ce8c5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='release 1.0'])[1]/preceding::h2[1]</value>
+      <webElementGuid>d10975ce-ab64-42ad-981c-1759687f2810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User Access Certification has been Completed']/parent::*</value>
+      <webElementGuid>acdc88a2-9517-4dbd-901a-48e042aeb2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>9ec880eb-a19f-4f25-a095-0ad91be31808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R183515302298730869']/div/div/h2</value>
+      <webElementGuid>fa35e699-26cd-4e14-88eb-8ce838070a31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

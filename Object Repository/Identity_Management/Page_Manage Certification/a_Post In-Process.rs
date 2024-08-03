@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Post In-Process</name>
+   <tag></tag>
+   <elementGuidId>4022da15-f55c-4dbb-8f53-84ae250a717a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Post In-Process' or . = 'Post In-Process')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1bcd677-5ca5-4fc9-9eb6-9440c844f12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1001:10:11079221413669:::RP,RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:17774,Y</value>
+      <webElementGuid>6d0e0960-4345-4a74-8a03-05bc68f28599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-status</name>
+      <type>Main</type>
+      <value>Post</value>
+      <webElementGuid>244aac83-262a-423a-985f-6534a2120ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Post In-Process</value>
+      <webElementGuid>28f7d3ba-ff7d-41d9-8e19-8687267e4497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;311382674342716621_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>29c31c27-90de-4674-bb30-8a0bef480920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Post In-Process' or . = 'Post In-Process')]</value>
+      <webElementGuid>72fef40f-41ce-4cf5-8e97-29d9ecec0333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Post In-Process')]</value>
+      <webElementGuid>2810a88f-28a0-4bb4-893a-64dbd5a2f27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/following::a[1]</value>
+      <webElementGuid>e6bfa55d-5366-437c-b14c-a4e10cf05fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminate Access'])[1]/following::a[1]</value>
+      <webElementGuid>fc4735f3-2d44-48a2-936b-363f13723af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRIRIGA_OS_CERT_V3'])[1]/preceding::a[1]</value>
+      <webElementGuid>b9d43efc-23f6-4eb7-a95f-9cd1fc980b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRIRIGA_OS_CERT_V3'])[2]/preceding::a[1]</value>
+      <webElementGuid>6f3f7413-0581-4ba5-beb7-7fb78916ae6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Post In-Process']/parent::*</value>
+      <webElementGuid>dd540010-caf5-49a5-8de3-2476336de12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1001:10:11079221413669:::RP,RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:17774,Y')]</value>
+      <webElementGuid>8304f69f-6843-4716-b26c-976e1ee5a737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/a</value>
+      <webElementGuid>242b6e0e-f5ae-406c-b23f-272214b1b2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='311382674342716621_orig']/tbody/tr[2]/td[10]/a</value>
+      <webElementGuid>620ab7aa-0fe2-4b6f-82a6-25ba61fb7f00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
