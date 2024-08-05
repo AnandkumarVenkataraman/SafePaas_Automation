@@ -140,8 +140,8 @@
       <name>DTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>JDBC_Extract_July23_V1</description>
-      <initValue>'JDBC_Extract_July23_V1'</initValue>
+      <description>JDBC_Extract_Aug05_V1</description>
+      <initValue>'JDBC_Extract_Aug05_V1'</initValue>
       <name>DTP_JDBC_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
