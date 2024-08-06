@@ -106,8 +106,6 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(180)
 
-WebUI.scrollToPosition(0, 0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/SOD_Procurement/Page_Home/a_Manage Violation'))
 
 WebUI.click(findTestObject('Object Repository/SOD_Procurement/Page_Home/a_Manage Violation'))
