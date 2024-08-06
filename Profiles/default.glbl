@@ -159,4 +159,9 @@
       <initValue>'TRIRIGA_OS_CERT_V7'</initValue>
       <name>EACM_Identity_Management</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SODTest_Aug6_ARProcAgnt2</description>
+      <initValue>'SODTest_Aug6_ARProcAgnt2'</initValue>
+      <name>SODTest_Procu_Adj</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

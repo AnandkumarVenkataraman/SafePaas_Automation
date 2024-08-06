@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_EditRule Name  AR_AdjustmentProfile_Rule1</name>
+   <tag></tag>
+   <elementGuidId>279bd2c3-0ca1-4c26-a27d-912155496fba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = concat(&quot;EditRule Name = &quot; , &quot;'&quot; , &quot;AR_AdjustmentProfile_Rule1&quot; , &quot;'&quot;) or . = concat(&quot;EditRule Name = &quot; , &quot;'&quot; , &quot;AR_AdjustmentProfile_Rule1&quot; , &quot;'&quot;))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-IRR-controlsLabel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ffc004f8-e593-440a-bf87-46cd88f45844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>1ed63cde-c80b-4e58-bb93-ba12b19013d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-controlsLabel</value>
+      <webElementGuid>5001fa99-7413-4bed-9926-23423472a344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-setting</name>
+      <type>Main</type>
+      <value>filter</value>
+      <webElementGuid>c7befc3a-d680-43c6-9250-c080e27fb387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-filter-id</name>
+      <type>Main</type>
+      <value>402566649113059638</value>
+      <webElementGuid>0f23ed8f-7956-44ef-81b1-03d5aecaec0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EditRule Name = 'AR_AdjustmentProfile_Rule1'</value>
+      <webElementGuid>42aaa09b-d261-4e67-8baf-b80cb283f59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a_Collapsible1_uvrReport_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]/span[@class=&quot;a-IRR-controls-cell a-IRR-controls-cell--label&quot;]/a[@class=&quot;a-IRR-controlsLabel&quot;]</value>
+      <webElementGuid>c4537cb1-4dee-462f-9cfb-735f68ea9579</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = concat(&quot;EditRule Name = &quot; , &quot;'&quot; , &quot;AR_AdjustmentProfile_Rule1&quot; , &quot;'&quot;) or . = concat(&quot;EditRule Name = &quot; , &quot;'&quot; , &quot;AR_AdjustmentProfile_Rule1&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>b491ba65-40ab-48c2-9ae8-b7a75c7d97b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/following::a[1]</value>
+      <webElementGuid>1263a63d-222c-4334-9509-9e1e4bcb6647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Settings'])[1]/following::a[1]</value>
+      <webElementGuid>546ebc7d-e1dd-4120-8816-11bbd54a6a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>d3d3ccb7-f6fa-4c32-ae2c-39457654d827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/a</value>
+      <webElementGuid>9f655a0b-819a-4a0c-a2dc-992d4b4b4490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_uvrReport_control_panel_content']/ul/li/span[3]/a</value>
+      <webElementGuid>268bd651-f45e-42ad-a040-6db009575fc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

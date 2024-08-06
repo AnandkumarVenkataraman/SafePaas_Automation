@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rule Name  ManageRequisitions_Rule1</name>
+   <tag></tag>
+   <elementGuidId>3b87fdb9-c31d-4f64-8c3e-5b20ade2290b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a_Collapsible1_uvrReport_control_panel_content']/ul/li/span[3]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#control_text_402566649113059638</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>526ae4e5-bb01-4384-bfe6-dc8484282498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>control_text_402566649113059638</value>
+      <webElementGuid>02fa27f9-9e0c-4f7b-b3c1-301c4b652b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rule Name = 'ManageRequisitions_Rule1'</value>
+      <webElementGuid>f50cf7bd-e9b2-4a9e-bb42-7cd0b849e93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;control_text_402566649113059638&quot;)</value>
+      <webElementGuid>3b849226-a9d1-4326-9eb2-257075105890</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'control_text_402566649113059638' and (text() = concat(&quot;Rule Name = &quot; , &quot;'&quot; , &quot;ManageRequisitions_Rule1&quot; , &quot;'&quot;) or . = concat(&quot;Rule Name = &quot; , &quot;'&quot; , &quot;ManageRequisitions_Rule1&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>0777f54d-b1dc-4cb9-90ac-812058e497be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='control_text_402566649113059638']</value>
+      <webElementGuid>9a1a8804-d267-4994-9cba-5fb7755893b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[1]</value>
+      <webElementGuid>23aec4c7-dfa6-48bc-bf61-f0864bea43b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/following::span[5]</value>
+      <webElementGuid>f9e802ad-d9c7-49eb-bcfd-54d43f57a5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Name'])[1]/preceding::span[5]</value>
+      <webElementGuid>b1fea95e-4c82-45a5-aa4d-1a1badbde9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ManageRequisitions_Rule1'])[1]/preceding::span[6]</value>
+      <webElementGuid>36cc5fae-42fe-4ac8-a586-b80f0092976d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/a/span[2]</value>
+      <webElementGuid>546dd96a-5bea-4bcd-88a5-a488f908bd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_uvrReport_control_panel_content']/ul/li/span[3]/a/span[2]</value>
+      <webElementGuid>6b4e1fec-2432-4bdc-afeb-2fdcabb097d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
