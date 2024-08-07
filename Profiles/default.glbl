@@ -160,8 +160,8 @@
       <name>EACM_Identity_Management</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>SODTest_Aug6_ARProcAgnt4</description>
-      <initValue>'SODTest_Aug6_ARProcAgnt4'</initValue>
+      <description>SODTest_Aug6_ARProcAgnt5</description>
+      <initValue>'SODTest_Aug6_ARProcAgnt5'</initValue>
       <name>SODTest_Procu_Adj</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
