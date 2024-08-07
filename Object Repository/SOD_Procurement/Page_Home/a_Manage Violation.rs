@@ -6,15 +6,19 @@
    <elementGuidId>848755b3-b701-418f-9a61-7feadda6ed6a</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1180:74:1192634445458:::74::' and (text() = 'Manage Violation' or . = 'Manage Violation')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//a[(text() = 'Manage Violation' or . = 'Manage Violation')]</value>
+         <value>//a[contains(text(),'Manage Violation')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>122446b9-54fb-4af6-a196-1659a79b224f</webElementGuid>
+      <webElementGuid>e2221ada-f340-42dc-82f1-2b31b06aec8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>90446194-5018-49e0-93f6-6404bfb2b3cb</webElementGuid>
+      <webElementGuid>601f419a-93a4-4a94-b9d0-f1c835032a5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>804dae0a-f2e5-4b31-8aed-de9ca87232dc</webElementGuid>
+      <webElementGuid>f1c6568d-68ff-4ddf-b9fb-ce007090a42d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>a81b308b-46c5-47b3-8810-6e5d7fdc4426</webElementGuid>
+      <webElementGuid>e595d4de-6ed7-490d-84fb-f47bfd955aa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:74:1192634445458:::74::</value>
-      <webElementGuid>f0598c7e-db44-408b-826b-5e89ef1dd9b6</webElementGuid>
+      <webElementGuid>6f1d6bb9-8f78-4fa7-a9e1-c07d3d1d4ea7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>33c49a70-ac98-42a4-965f-32f9a1b1375f</webElementGuid>
+      <webElementGuid>f583bdbd-d896-4796-8fa7-78bfc7088723</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6444eab9-d114-48c9-9cb5-fb09a917539b</webElementGuid>
+      <webElementGuid>0a64d8d9-471a-41e0-82a2-b575b7f10d4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Violation</value>
-      <webElementGuid>fdbea0eb-c21d-4066-896f-2e3519b8c3bd</webElementGuid>
+      <webElementGuid>b46fd8d5-61ac-4ad1-8c03-fee6d6e528ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_20&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>dc52e7a3-63bc-4442-983b-3ad45c55143e</webElementGuid>
+      <webElementGuid>70a71796-752b-47ab-a9dd-277d2d7ee1b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Manage Violation' or . = 'Manage Violation')]</value>
-      <webElementGuid>057671c0-b210-43d0-a0dd-f6c94a03cce4</webElementGuid>
+      <webElementGuid>7254eaa7-a3de-4b78-aee1-d5552ddd0306</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Violation')]</value>
-      <webElementGuid>b6fba1e4-56e3-42d2-b5e9-07cc7b7b36ce</webElementGuid>
+      <webElementGuid>6177f63c-4321-44de-80c7-6fb9dd937b96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage SOD Test'])[1]/following::a[1]</value>
-      <webElementGuid>fac02a5e-6437-4e39-8eff-3abc0e32730a</webElementGuid>
+      <webElementGuid>8d825396-0163-4e43-9baf-a6b8eebca196</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detect Violations'])[1]/following::a[2]</value>
-      <webElementGuid>6b00af81-efae-4a84-93a4-48d5a518da88</webElementGuid>
+      <webElementGuid>8758ca6e-b9b5-4914-a2b2-6dc89ca98c5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception'])[1]/preceding::a[1]</value>
-      <webElementGuid>2f7d105c-a8f2-414a-b270-147bb9889540</webElementGuid>
+      <webElementGuid>d297d40f-b821-4dcd-9cf9-3e225eb6c845</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remediate Issues'])[1]/preceding::a[2]</value>
-      <webElementGuid>9136f980-91f9-4ce0-b0c6-2e706ac7939e</webElementGuid>
+      <webElementGuid>7621314f-0e32-44a1-8027-346cd35ddf53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +146,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Violation']/parent::*</value>
-      <webElementGuid>1969f263-a5ea-4894-9210-334171dfaba8</webElementGuid>
+      <webElementGuid>9db2f8e3-157d-4fa2-b73c-404accfa3bc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +154,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:74:1192634445458:::74::')]</value>
-      <webElementGuid>cdc1d5ed-66ee-45c7-97d6-9c9fc41fac7c</webElementGuid>
+      <webElementGuid>75aeafda-187b-4ea6-b799-6dec3aeed90f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +162,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div[2]/a</value>
-      <webElementGuid>d66d815e-af15-4948-9912-1cfa7b5d089f</webElementGuid>
+      <webElementGuid>e32c0a53-ef1a-4129-a4f4-e809a70b1403</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +170,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_20']/div[2]/a</value>
-      <webElementGuid>fa26186c-fc2b-4d86-94a0-b43371f21e74</webElementGuid>
+      <webElementGuid>5048e498-6deb-4d4d-8071-b22bdd221c3a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
