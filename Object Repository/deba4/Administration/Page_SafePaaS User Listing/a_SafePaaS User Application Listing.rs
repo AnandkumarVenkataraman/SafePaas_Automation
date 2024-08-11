@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_232']/div[2]/a</value>
+         <value>//a[contains(text(),'SafePaaS User Application Listing')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e8d0bbfe-1ac5-4e08-943b-27dba30ffe11</webElementGuid>
+      <webElementGuid>86e3bb2e-33c3-4f97-96cc-9fce2190d87e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9146f8a7-6129-4305-8b82-87979cd34cf1</webElementGuid>
+      <webElementGuid>9908dace-1d69-4c32-9734-928f9d045a2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>b9fb3cfc-a743-4820-bc55-f67967ccd357</webElementGuid>
+      <webElementGuid>c9c0f575-244c-41b8-8e26-3d97258422a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>98ecd29f-ba28-40b1-abda-3b13b155052e</webElementGuid>
+      <webElementGuid>f1fdb278-28e5-44f8-a306-7ae0751bfd1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:11:10978364234078:::11::</value>
-      <webElementGuid>79422b4c-a9e7-458b-8c92-5e7c1e48feb4</webElementGuid>
+      <webElementGuid>89abd97d-cda8-440e-8858-ae55308ee9e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>5b9caa11-eaa1-4acf-9889-12c65ccf5c2a</webElementGuid>
+      <webElementGuid>a7c1aeac-eabc-4093-b4e4-31765dfb146f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>637430e5-15fd-465a-85fa-76ffe2e00785</webElementGuid>
+      <webElementGuid>d64f95d3-659f-4aa3-90ab-7c8860dfb15a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SafePaaS User Application Listing</value>
-      <webElementGuid>a8382467-8873-4555-8cdf-dc28c745d0f5</webElementGuid>
+      <webElementGuid>55780a91-d073-46ba-b665-ec3c60a26501</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_232&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>6bc2a899-d5db-4eca-936e-43e7cf7ffcdb</webElementGuid>
+      <webElementGuid>7a76c613-3661-438a-a969-34bbb9536027</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_232']/div[2]/a</value>
-      <webElementGuid>f328a363-9459-4997-b0ab-38b9794cacef</webElementGuid>
+      <webElementGuid>d2870b83-b610-4694-a681-061544a7590b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SafePaaS User Application Listing')]</value>
-      <webElementGuid>01437759-39e7-4f14-a4c7-19e1bea421a9</webElementGuid>
+      <webElementGuid>91474c8b-9025-472d-ac4e-08cfb495b744</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:11:10978364234078:::11::')]</value>
-      <webElementGuid>3ecb9201-6cd7-4b71-8e27-d2afff984f5a</webElementGuid>
+      <webElementGuid>79faf769-a5aa-4114-8109-42db5e18c35a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li/ul/li[6]/div[2]/a</value>
-      <webElementGuid>16e82811-b65c-499b-9409-db62318e89dd</webElementGuid>
+      <webElementGuid>4c0c5d99-5c2e-4df9-9957-275a9fc794fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:11:10978364234078:::11::' and (text() = 'SafePaaS User Application Listing' or . = 'SafePaaS User Application Listing')]</value>
-      <webElementGuid>bad30f19-6408-4f0d-96d9-665cc3194956</webElementGuid>
+      <webElementGuid>69469af5-c558-42b9-a720-03537760d242</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

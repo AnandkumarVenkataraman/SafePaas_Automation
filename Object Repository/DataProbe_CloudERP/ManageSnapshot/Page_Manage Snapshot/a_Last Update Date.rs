@@ -6,12 +6,12 @@
    <elementGuidId>29ea0208-6187-4255-9917-dfd2177b64f9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C100604923998712703']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C100604923998712703 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Last Update Date')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d55024cc-605d-47f4-878c-2008cc31ff31</webElementGuid>
+      <webElementGuid>c6ca2a9e-2084-45e5-8e8d-8619f51c6a97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>7d417f8d-27f9-45b5-9700-671033cd4c52</webElementGuid>
+      <webElementGuid>c60807b5-6ab0-4f5c-aa25-940dd2a74970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>100604923998712703</value>
-      <webElementGuid>90864b2d-1cd2-47c5-b0c9-c4194b663efe</webElementGuid>
+      <webElementGuid>cb0d338a-d602-4648-83a7-71282738b402</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>acc88fbc-4bcf-481f-b7de-4dd2dcb5859c</webElementGuid>
+      <webElementGuid>4f1e4614-faf7-4cd0-9169-8bf8ddd1564f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Last Update Date</value>
-      <webElementGuid>999bad4f-d7ab-4f78-89bb-8dfbc1bb548a</webElementGuid>
+      <webElementGuid>f367efd2-b7ec-41d6-a841-0b1a379862ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;144264340282266620&quot;)/tr[1]/th[@id=&quot;C100604923998712703&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>393709a7-9b39-462c-917a-aadf2851a631</webElementGuid>
+      <webElementGuid>6bce0776-3b95-493e-a541-0f9bd413abca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C100604923998712703']/a</value>
-      <webElementGuid>b0ceab78-b818-4a44-b85a-4c80d3786964</webElementGuid>
+      <webElementGuid>837c0afd-1b5c-4679-ac64-8b6c4b88ad6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Last Update Date')]</value>
-      <webElementGuid>25ec2575-4b01-477c-a21e-2c1d1279a9fe</webElementGuid>
+      <webElementGuid>e6eac2cf-a728-4c84-b715-40c1c39ebe49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[4]/a</value>
-      <webElementGuid>2120bea4-ee06-4ecf-93f0-045472972b53</webElementGuid>
+      <webElementGuid>9636cb20-b5c7-4e73-a45f-e6f2f767afc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Last Update Date' or . = 'Last Update Date')]</value>
-      <webElementGuid>76e4422b-70a3-47bc-a37a-a38241682583</webElementGuid>
+      <webElementGuid>17568057-70a7-4eb8-bef9-2e6994980fe5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

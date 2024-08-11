@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='139654309731596916_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[contains(text(),'EBizApp_JDBC_ObjSet')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ff2242e1-ae3c-47a6-bd28-0a3794cffa30</webElementGuid>
+      <webElementGuid>5d729af8-2092-499a-ab06-b445f142c6cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:18:2587658533008:::18:P18_OBJECT_SET_ID:5359</value>
-      <webElementGuid>fc74099e-a98a-408b-8e10-eb77f0b2123c</webElementGuid>
+      <webElementGuid>f1af9f25-5a5d-4cff-bbc3-5197df719898</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EBizApp_JDBC_ObjSet</value>
-      <webElementGuid>46d0b215-fa56-470b-947d-0865d6450509</webElementGuid>
+      <webElementGuid>49734c03-06cf-4aab-a005-5013dd0b75fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;139654309731596916_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>e5dffdc4-b300-4e1d-9471-8ec009d25ded</webElementGuid>
+      <webElementGuid>abfe2265-7810-45d1-9fc8-85cd488f5542</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='139654309731596916_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>999d9525-64d8-4206-8ff8-db8bab7b9e97</webElementGuid>
+      <webElementGuid>bc456ce4-2d43-41cf-8e95-e01b5b0f9cd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'EBizApp_JDBC_ObjSet')]</value>
-      <webElementGuid>f3abfe7a-2c6d-4ab2-9d3f-66a2f7f1579b</webElementGuid>
+      <webElementGuid>6469aaa8-0226-4597-b42b-b1bf1876a905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:18:2587658533008:::18:P18_OBJECT_SET_ID:5359')]</value>
-      <webElementGuid>afca9dfe-7592-4e3a-926f-d096b4a4e75f</webElementGuid>
+      <webElementGuid>8a487d20-03f6-4704-aa02-61009e474257</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>87c664bc-adc3-4df7-8b68-6270fd0c3c39</webElementGuid>
+      <webElementGuid>3a365da1-9e9b-482c-8c9e-3ca635d73aef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:18:2587658533008:::18:P18_OBJECT_SET_ID:5359' and (text() = 'EBizApp_JDBC_ObjSet' or . = 'EBizApp_JDBC_ObjSet')]</value>
-      <webElementGuid>db9fcf20-bc0b-4801-a6e2-3d3853878f9a</webElementGuid>
+      <webElementGuid>d4335574-226e-4d32-8959-b55fb61345c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

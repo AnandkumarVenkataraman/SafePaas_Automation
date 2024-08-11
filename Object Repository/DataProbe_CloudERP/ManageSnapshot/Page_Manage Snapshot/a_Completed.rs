@@ -6,12 +6,12 @@
    <elementGuidId>ed7fc198-0c0b-4ff1-a48c-8813c4be3daa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mngSnap_col_values_drop']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.a-IRR-col-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mngSnap_col_values_drop']/a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>664cb298-fdfd-4916-a343-35b052131aa4</webElementGuid>
+      <webElementGuid>db29c036-a346-48cd-a9cf-5413cf78b8e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>bb768b0a-820e-4c7c-a578-d403886f1833</webElementGuid>
+      <webElementGuid>f4571abd-f90d-4fae-b979-192205f08d3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>eaf45dd9-56d0-4dd7-9eff-97a5b8400a36</webElementGuid>
+      <webElementGuid>b093f11f-dd59-45a4-8f58-ef876dec1b5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>Completed</value>
-      <webElementGuid>80b5ae36-c181-46d6-99a5-7412747ce1f6</webElementGuid>
+      <webElementGuid>c1186a42-bb25-45b4-a6f4-7eeda8c04bed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Completed</value>
-      <webElementGuid>333dabe4-a8b8-4ae9-bfa2-6cc0166bc3d7</webElementGuid>
+      <webElementGuid>a826ea5d-f367-4944-a209-6a5d9e131609</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mngSnap_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>068609fb-52c0-4486-b804-83ec940f4466</webElementGuid>
+      <webElementGuid>ce6b278d-9403-4722-82ff-4afc41fea74c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngSnap_col_values_drop']/a</value>
-      <webElementGuid>1eb5dfd9-d6bd-4c32-9440-4d9265883503</webElementGuid>
+      <webElementGuid>28fabbe0-9dcb-44a1-bd30-902545b9b79c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Completed')])[13]</value>
-      <webElementGuid>1fdcc25e-bcd9-4076-94d3-ae0f53e304d4</webElementGuid>
+      <webElementGuid>2bff2511-937b-4e99-b5be-0e96ac94bb2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[89]</value>
-      <webElementGuid>56fef0a4-cade-476d-8cd8-0de7ef725837</webElementGuid>
+      <webElementGuid>0910f30f-2a2e-4b5c-8ffe-fe105fbf5396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html/div/a</value>
-      <webElementGuid>4b6c7a69-5885-4150-92e3-ce5134e15ea6</webElementGuid>
+      <webElementGuid>b9faae51-6422-40a1-b34f-c694162930b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Completed' or . = 'Completed')]</value>
-      <webElementGuid>b08dbbb7-3a81-4795-bd4a-421803ecd06f</webElementGuid>
+      <webElementGuid>910dfbbf-eee7-4f02-a456-4b33282752ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

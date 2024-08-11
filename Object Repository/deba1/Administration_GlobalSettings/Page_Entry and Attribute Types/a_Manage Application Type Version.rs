@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[1]/div/div[1]/div[1]/ul/li[4]/a</value>
+         <value>//a[contains(text(),'Manage Application Type Version')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>327556dd-e3a3-4b35-adcc-4ad49a148759</webElementGuid>
+      <webElementGuid>397473ef-4bb4-4500-b421-0dcdecc3a41e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1002:32:1080477465562:::::</value>
-      <webElementGuid>9349c3d4-1bcb-44b0-9fce-dba76c026220</webElementGuid>
+      <webElementGuid>69a4fefb-c6c9-4ce3-aea6-f4381ccd6beb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Breadcrumb-label</value>
-      <webElementGuid>177e08fe-82c5-4be9-a6ba-708724b8aedc</webElementGuid>
+      <webElementGuid>bd8e61e8-c64b-49d4-b026-1c23a3c73c13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Application Type Version</value>
-      <webElementGuid>a46b410e-aef3-4d93-9217-e374f0c60ca0</webElementGuid>
+      <webElementGuid>b56de154-0ff9-40f9-a2ff-24047f215b08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R145058785172067935&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
-      <webElementGuid>06721d23-1ddd-4abf-8e2e-00ab7b493425</webElementGuid>
+      <webElementGuid>4555adf6-b2c9-4637-8c0e-4f29819b404b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R145058785172067935']/div/div/ul/li[4]/a</value>
-      <webElementGuid>be1e0377-b8ff-4a9a-a17e-bc3889654652</webElementGuid>
+      <webElementGuid>5fe0247c-28a3-45b2-881e-3aa2a5a0552f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Application Type Version')]</value>
-      <webElementGuid>e9aa7cdb-855d-4dcd-9bb1-f85b866ab8ba</webElementGuid>
+      <webElementGuid>99e3ba7d-8f48-48f4-8f69-d3e84df34db3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1002:32:1080477465562:::::')]</value>
-      <webElementGuid>17331e1c-a966-4ecf-9acc-fecdf12fea8b</webElementGuid>
+      <webElementGuid>977bc9e4-4531-4ec6-ab81-645a1ba4198c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>0917bb10-3a8f-48cc-959a-d995c76eeee4</webElementGuid>
+      <webElementGuid>d27ee148-ccb9-484b-9afd-1df99cd45de0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1002:32:1080477465562:::::' and (text() = 'Manage Application Type Version' or . = 'Manage Application Type Version')]</value>
-      <webElementGuid>f0f328b9-826e-4f33-8da6-dd3dbea8226c</webElementGuid>
+      <webElementGuid>c84e494f-a6b6-42f4-b3e3-088378b9e59f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

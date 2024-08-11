@@ -153,7 +153,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('deba2/DataProbe_JDBC/Page_Manage Objects/a_Scroll element_Z2'), 0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_EntryHierarchy_JDBC - 21 (1)'))
 
@@ -182,7 +182,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('deba2/DataProbe_JDBC/Page_Manage Objects/a_Scroll element_Z2'), 0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_Grant_JDBC - 23 (1)'))
 
@@ -218,7 +218,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('deba2/DataProbe_JDBC/Page_Manage Objects/a_Scroll element_Z2'), 0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_LocalRoles_JDBC - 24 (1)'))
 
@@ -247,8 +247,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_Menu_JDBC - 25 (1)'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_Menu_JDBC - 25 (1)'))
 
@@ -277,8 +276,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_Request_Group_JDBC - 26 (1)'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_Request_Group_JDBC - 26 (1)'))
 
@@ -314,7 +312,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_Responsibility_JDBC - 27 (1)'))
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_Entry_Responsibility_JDBC - 27 (1)'))
 
@@ -350,8 +348,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_UserEntry_JDBC - 28 (1)'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_UserEntry_JDBC - 28 (1)'))
 
@@ -386,8 +383,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_User_Entry_Attribute_JDBC - 29 (1)'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_User_Entry_Attribute_JDBC - 29 (1)'))
 
@@ -422,8 +418,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_J
 
 WebUI.click(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Add Object Items/a_Manage Objects 289 (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_User_JDBC - 30 (1)'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/DataProbe_JDBC/Page_Manage Objects/a_EBiz_User_JDBC - 30 (1)'))
 

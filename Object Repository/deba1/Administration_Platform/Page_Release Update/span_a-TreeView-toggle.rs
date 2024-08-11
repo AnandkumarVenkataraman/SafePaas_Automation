@@ -6,12 +6,12 @@
    <elementGuidId>31c1acde-c52a-4834-a992-22482819d283</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[4]/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#t_TreeNav_227 > span.a-TreeView-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Administration']//following::span[@class='a-TreeView-toggle'][6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>435e6bf7-c553-423f-9ba7-897c168ed66e</webElementGuid>
+      <webElementGuid>3eb70dd7-ff78-4ae1-bf29-21ecb6899a24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>ce14cdd5-5bfe-4d81-a2a6-beeea5f6d610</webElementGuid>
+      <webElementGuid>e8b2152f-f004-4192-a5cc-2abc485db814</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_227&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>79080248-f2df-47f6-a427-965a7eade92e</webElementGuid>
+      <webElementGuid>ae3e540f-0d47-4868-aadc-98fb0e38d369</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_227']/span</value>
-      <webElementGuid>4164a6bd-69a3-4541-8abd-da991cf70e76</webElementGuid>
+      <webElementGuid>1e190b84-d716-4bf6-be0f-94eba2cb6b3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[4]/span</value>
-      <webElementGuid>1b9c5291-68ee-4e6e-8753-3e746a1a649e</webElementGuid>
+      <webElementGuid>843a37c1-62c0-49b8-a02e-2f007a90a781</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

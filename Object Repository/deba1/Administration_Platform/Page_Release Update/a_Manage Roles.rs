@@ -6,8 +6,12 @@
    <elementGuidId>3b47a640-fea7-4b02-b198-d5de9fefe1eb</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Manage Roles' or . = 'Manage Roles')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[4]/ul/li[1]/div[2]/a</value>
+         <value>(//a[contains(text(),'Manage Roles')])[9]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e1b19eda-f87c-4a39-9563-cae585f6815e</webElementGuid>
+      <webElementGuid>fac6f3e5-2e3e-46ba-bd2a-ae8f09d6f6a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>530f7aef-6a56-4732-927a-29a0595be64f</webElementGuid>
+      <webElementGuid>8d46c700-a3a7-4b50-88ce-5dd894b28927</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>4053c24b-638c-4a5c-8937-defe92812809</webElementGuid>
+      <webElementGuid>92d59dd2-4d56-4291-b08f-2dabd4501e23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>f7c8f7cc-fd6b-4e5d-97b5-440cdeff761f</webElementGuid>
+      <webElementGuid>8e945a7b-30fb-47ae-9449-770b3e87d3d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:36:1442243998207:::36::&amp;cs=3oDiEYSMHCnp5zS78FAlaqT-sUizqXJiWOyYJOq0N2ZQDQfg4C5RlfKlH5_RzBWF9bWeCQoI6IXLJNZkPIJG2RQ</value>
-      <webElementGuid>bb8dd565-9878-44a2-a3dc-4b02236a2dca</webElementGuid>
+      <value>f?p=p=1001:36:2947821009376:::36::&amp;cs=39xRPCkqieYk1BootfOQmv-6SrXuBic9GXfPJwgt5q970raZn3JU1wtkHTXLAWKAupxpKrWSysu9P3Gz0M6LLTA</value>
+      <webElementGuid>712a95ea-32f8-47c6-b8e1-0440a4c895f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>214fad3e-8af9-4f20-82cb-f0244ae757e2</webElementGuid>
+      <webElementGuid>77152615-7440-4e35-a2e4-332db4b512fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>88897459-4372-4ec9-a006-29b22008e134</webElementGuid>
+      <webElementGuid>9a05e36a-312a-473b-88da-26289c3d4011</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Roles</value>
-      <webElementGuid>a72188c7-e345-4af3-9a9a-218bd3ca8e0b</webElementGuid>
+      <webElementGuid>c81669b7-d368-441e-9136-92871e92bbff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,31 +90,31 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_258&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>0b26074f-e565-4ac1-9d62-6f522fdab373</webElementGuid>
+      <webElementGuid>25cec271-9f6a-4346-b6aa-efa9d9554b57</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:text</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_258']/div[2]/a</value>
-      <webElementGuid>1ed8e192-f0a1-43ac-b44a-bf35a15bfda4</webElementGuid>
+      <value>//td[(text() = 'Manage Roles' or . = 'Manage Roles')]</value>
+      <webElementGuid>6a5a67e6-04e6-4dcc-9752-f95caee0d9be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Manage Roles')])[7]</value>
-      <webElementGuid>9f5396e7-0026-43dc-9015-a650893ceb8e</webElementGuid>
+      <value>(//a[contains(text(),'Manage Roles')])[9]</value>
+      <webElementGuid>2838b11f-8a07-4559-819d-7671302dad3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:36:1442243998207:::36::&amp;cs=3oDiEYSMHCnp5zS78FAlaqT-sUizqXJiWOyYJOq0N2ZQDQfg4C5RlfKlH5_RzBWF9bWeCQoI6IXLJNZkPIJG2RQ')]</value>
-      <webElementGuid>643f403c-3de0-4b52-bef4-95d0d41f6af7</webElementGuid>
+      <value>//a[contains(@href, 'f?p=p=1001:36:2947821009376:::36::&amp;cs=39xRPCkqieYk1BootfOQmv-6SrXuBic9GXfPJwgt5q970raZn3JU1wtkHTXLAWKAupxpKrWSysu9P3Gz0M6LLTA')]</value>
+      <webElementGuid>0783bbe9-30b7-4bfd-895e-3e83d77b626e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +122,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[4]/ul/li/div[2]/a</value>
-      <webElementGuid>cb744160-ba7a-4ef1-94e0-a217064d978c</webElementGuid>
+      <webElementGuid>a412f6c1-c9a7-4673-b966-0bf80f176d2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:36:1442243998207:::36::&amp;cs=3oDiEYSMHCnp5zS78FAlaqT-sUizqXJiWOyYJOq0N2ZQDQfg4C5RlfKlH5_RzBWF9bWeCQoI6IXLJNZkPIJG2RQ' and (text() = 'Manage Roles' or . = 'Manage Roles')]</value>
-      <webElementGuid>d2406c08-65a4-431d-a3b5-fb9162fa1f20</webElementGuid>
+      <value>//a[@href = 'f?p=p=1001:36:2947821009376:::36::&amp;cs=39xRPCkqieYk1BootfOQmv-6SrXuBic9GXfPJwgt5q970raZn3JU1wtkHTXLAWKAupxpKrWSysu9P3Gz0M6LLTA' and (text() = 'Manage Roles' or . = 'Manage Roles')]</value>
+      <webElementGuid>e767a7d0-8c1b-4ba6-ac58-9c8e5cb8ff46</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

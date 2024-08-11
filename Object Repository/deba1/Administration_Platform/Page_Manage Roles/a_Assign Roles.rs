@@ -6,8 +6,12 @@
    <elementGuidId>d80a69a5-2f7b-4a31-ba3e-aaa6e8484c9b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1001:38:2947821009376:::38::&amp;cs=3vN3VOHzC1fc5m1bmj9wjZqEQib4co6wWAhpZdMzZuMkKnyuAZp8yMHrNGstx2I6uVxYnQKHAo1BiLggAUUPYSA' and (text() = 'Assign Roles' or . = 'Assign Roles')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[4]/ul/li[2]/div[2]/a</value>
+         <value>(//a[contains(text(),'Assign Roles')])[9]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1e26eab5-ea12-4728-b659-67d09dac0383</webElementGuid>
+      <webElementGuid>6358316c-fdc1-4a8c-bdd8-59f6a205321e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0e90408e-715d-4b2e-88fb-b004e72f0eb1</webElementGuid>
+      <webElementGuid>05028ce3-752e-4591-a357-aa4ccab12dfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>901158e6-4bfa-4a79-ae64-0d9c4c86a0a4</webElementGuid>
+      <webElementGuid>a733cee3-7b44-482f-97f4-df076b900fc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>a55a3e52-9ed5-4eb5-8ab3-a78e818b1633</webElementGuid>
+      <webElementGuid>b1b30253-70ec-4893-8f18-ff7acafb6f78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:38:1442243998207:::38::&amp;cs=3-IhN_UuVmDKXb48ESIiw8HrFG240oo47n-CkYKvEk0uD1ins4MlpYIpVGG1q6kHwJ9TJFH9qgiSJHTBt1mqXcw</value>
-      <webElementGuid>b16649f4-7068-4c65-a352-7a8cc748a149</webElementGuid>
+      <value>f?p=1001:38:2947821009376:::38::&amp;cs=3vN3VOHzC1fc5m1bmj9wjZqEQib4co6wWAhpZdMzZuMkKnyuAZp8yMHrNGstx2I6uVxYnQKHAo1BiLggAUUPYSA</value>
+      <webElementGuid>d8d2b539-74c1-4ead-89bf-907c7fc663ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>c6e0fa03-4573-49b8-b98a-0f4dc53dbc90</webElementGuid>
+      <webElementGuid>6b324c6d-b58b-4e6a-83a8-07fcc7f9c9df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>be719f5b-cd6d-4993-9b06-501bb22e73ad</webElementGuid>
+      <webElementGuid>6fe91e10-8193-482b-b622-163d82447bbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Assign Roles</value>
-      <webElementGuid>4a7b6f00-6d43-4b3c-9f5e-cf5b51ba98bc</webElementGuid>
+      <webElementGuid>313a9a87-3fce-4a1f-bafd-1eaa90ff0f64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,31 +90,31 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_259&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>8238b52a-170e-42c0-a97c-77baea349a30</webElementGuid>
+      <webElementGuid>aeaadf34-10d0-4a79-bf8c-8e9697f60c5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:text</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_259']/div[2]/a</value>
-      <webElementGuid>f125a359-e12a-482b-a996-3c67fbfc800a</webElementGuid>
+      <value>//td[(text() = 'Assign Roles' or . = 'Assign Roles')]</value>
+      <webElementGuid>683f295e-7a1e-48fe-b1df-6374361013e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Assign Roles')])[7]</value>
-      <webElementGuid>2543361b-c0f9-4792-9497-fe25c4c81ded</webElementGuid>
+      <value>(//a[contains(text(),'Assign Roles')])[9]</value>
+      <webElementGuid>3d889bb6-0cdc-4811-af7f-8f5ce85a3166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:38:1442243998207:::38::&amp;cs=3-IhN_UuVmDKXb48ESIiw8HrFG240oo47n-CkYKvEk0uD1ins4MlpYIpVGG1q6kHwJ9TJFH9qgiSJHTBt1mqXcw')]</value>
-      <webElementGuid>c3b67326-aeaa-4496-b9d6-3d6474d0f473</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1001:38:2947821009376:::38::&amp;cs=3vN3VOHzC1fc5m1bmj9wjZqEQib4co6wWAhpZdMzZuMkKnyuAZp8yMHrNGstx2I6uVxYnQKHAo1BiLggAUUPYSA</value>
+      <webElementGuid>dcd29a1b-fcb3-4eb5-b227-59be53249c66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +122,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[4]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>f3723a8b-375c-4e99-8600-55321c598459</webElementGuid>
+      <webElementGuid>86a72563-bb70-4790-ab79-25cb9945a00c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:38:1442243998207:::38::&amp;cs=3-IhN_UuVmDKXb48ESIiw8HrFG240oo47n-CkYKvEk0uD1ins4MlpYIpVGG1q6kHwJ9TJFH9qgiSJHTBt1mqXcw' and (text() = 'Assign Roles' or . = 'Assign Roles')]</value>
-      <webElementGuid>bdfa4763-f15c-4f62-a3cb-f6cd180968e2</webElementGuid>
+      <value>//a[@href = 'f?p=1001:38:2947821009376:::38::&amp;cs=3vN3VOHzC1fc5m1bmj9wjZqEQib4co6wWAhpZdMzZuMkKnyuAZp8yMHrNGstx2I6uVxYnQKHAo1BiLggAUUPYSA' and (text() = 'Assign Roles' or . = 'Assign Roles')]</value>
+      <webElementGuid>669f22f8-93fb-4aa9-87ca-5547d6e2f0cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

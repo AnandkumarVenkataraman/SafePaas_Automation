@@ -6,15 +6,19 @@
    <elementGuidId>ac0bdeb6-ab9f-4d44-9316-f8b4062635f2</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage SafePaaS')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>a.a-TreeView-label.is-focused</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Manage SafePaaS' or . = 'Manage SafePaaS')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dd73d8d8-53d0-489c-aa64-eb85e187dda0</webElementGuid>
+      <webElementGuid>ad040532-6a61-4cf0-8b52-d3bc1692928a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>30fc9dc1-a45e-414c-b77c-ddd181206335</webElementGuid>
+      <webElementGuid>bf6b7149-4e91-4066-9d19-434743b18323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>9e6836c4-6482-4f9e-9c84-9f0224d73592</webElementGuid>
+      <webElementGuid>12e49668-f763-4b7c-b90a-d0d46ec68384</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>651857c5-8792-4333-afd6-9eb579d263fb</webElementGuid>
+      <webElementGuid>c66c2e79-4741-4e22-b917-b9f68b10ca01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>f?p=1002:3:1080477465562:::3::</value>
-      <webElementGuid>8ddcfacf-5aba-4b9b-9655-2287c7d90ff5</webElementGuid>
+      <webElementGuid>34d39c6d-e89f-44da-b2d2-d86651b9dc11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>d7191fb0-6815-4338-b04e-360e226327b2</webElementGuid>
+      <webElementGuid>fbe1c0a4-4ffc-4071-bc43-c398a67622a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ce846355-fa72-46a5-b07c-421ad955548b</webElementGuid>
+      <webElementGuid>547483e2-e46d-4fb4-a861-55d033a5ba1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage SafePaaS</value>
-      <webElementGuid>188e8d21-0139-4bef-8a1f-74b0702f2175</webElementGuid>
+      <webElementGuid>0653947d-4f84-4a63-8749-bc622c70eaf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_8&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>7ab46d67-326b-42ae-8c74-5d2f5301e508</webElementGuid>
+      <webElementGuid>98bae020-1f2a-4b77-937c-604827b23e6b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
-      <webElementGuid>4c6161a2-c0d4-4486-92b3-3d36832a6675</webElementGuid>
+      <webElementGuid>cf5d34c8-1f15-45a2-883b-ff5ab587423a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage SafePaaS')]</value>
-      <webElementGuid>c46145b6-18ce-4607-b653-1bd76ce02cb9</webElementGuid>
+      <webElementGuid>99398ae1-b89c-4c72-b1a5-85b32b1d8b7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1002:3:1080477465562:::3::')]</value>
-      <webElementGuid>9577306a-6f9c-49bb-9143-d203f727a8c0</webElementGuid>
+      <webElementGuid>e040bbaa-f160-4cd5-8e49-4537eb5a194f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div[2]/a</value>
-      <webElementGuid>e74698bb-2e7e-4576-aa66-c4d389eb666d</webElementGuid>
+      <webElementGuid>915bdc3c-6c6a-4e54-a537-be86f0e847ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1002:3:1080477465562:::3::' and (text() = 'Manage SafePaaS' or . = 'Manage SafePaaS')]</value>
-      <webElementGuid>e3b95745-3cb8-4efd-b911-e625cd0b4468</webElementGuid>
+      <webElementGuid>78b98c89-e044-4fd9-8088-fa5d3b10542f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[2]/ul/li[12]/div[2]/a</value>
+         <value>//a[contains(text(),'Logs for Services &amp; Support')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>460125ff-be5a-47f5-8a54-f3bdc0e41712</webElementGuid>
+      <webElementGuid>d7a07dcf-7c25-4fb7-a720-5f64f2d5c14a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>8b9466b1-5e4d-489b-9aa5-d0259fff2e38</webElementGuid>
+      <webElementGuid>c7315f14-45cf-44d4-866f-2471798e4569</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>ad3a2d13-6886-490f-aa6f-f4339012b18b</webElementGuid>
+      <webElementGuid>24c10fe6-4753-4eda-89ca-6e04d15ca684</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>4154e3b6-525e-46b5-9d44-aec023fc3aad</webElementGuid>
+      <webElementGuid>65844972-a6fe-45f7-aa80-6811dc4f73a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1002:56:1080477465562:::56::&amp;cs=36HUTZmrP2-ZnGtcNxyCMKisE7XRsKJuEa7C4-5EM6j8oUbJuTkBUs4qtn5tW14Le0VVRhZGUERyUzn6LMPtrLA</value>
-      <webElementGuid>c7b86b06-563c-433f-8529-2dc0c569e28f</webElementGuid>
+      <webElementGuid>9a8c0334-87e0-4dbf-8514-6887ef00bb09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>0cb975a0-d8c2-4741-8974-bf3fec39672f</webElementGuid>
+      <webElementGuid>1bebc510-92a9-499d-a47e-2f5f9bc4e7d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7208b63c-bb2b-474e-ae42-973a3e459a08</webElementGuid>
+      <webElementGuid>01a17eeb-751f-472b-846d-c565052bb745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logs for Services &amp; Support</value>
-      <webElementGuid>1a25c334-c2a2-441b-8f9a-dc2c3ea89381</webElementGuid>
+      <webElementGuid>34b38b30-5243-4b4a-830e-50645fe0f3d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_250&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>6daf604e-a7bf-4a11-8086-0950ad87e03d</webElementGuid>
+      <webElementGuid>71c9af23-24b9-4fc7-82c4-e8aac08ab3b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_250']/div[2]/a</value>
-      <webElementGuid>b6bed506-8061-441d-b543-020667278ea5</webElementGuid>
+      <webElementGuid>cf443f5e-400f-4c50-8a3f-27a2deae851a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logs for Services &amp; Support')]</value>
-      <webElementGuid>cec7587c-8906-46ab-8afd-02c0468775c8</webElementGuid>
+      <webElementGuid>2dc95be4-000f-4227-89b8-6fd4eec33199</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1002:56:1080477465562:::56::&amp;cs=36HUTZmrP2-ZnGtcNxyCMKisE7XRsKJuEa7C4-5EM6j8oUbJuTkBUs4qtn5tW14Le0VVRhZGUERyUzn6LMPtrLA')]</value>
-      <webElementGuid>c7d772d3-bd10-4a05-aec8-5fe374d5ac19</webElementGuid>
+      <webElementGuid>d53fe426-7543-4007-b40d-d22f05754cc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[12]/div[2]/a</value>
-      <webElementGuid>d440d361-4e81-42c1-9d87-23393e467714</webElementGuid>
+      <webElementGuid>220e16d3-e439-4a65-a0c4-983f6eaee926</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1002:56:1080477465562:::56::&amp;cs=36HUTZmrP2-ZnGtcNxyCMKisE7XRsKJuEa7C4-5EM6j8oUbJuTkBUs4qtn5tW14Le0VVRhZGUERyUzn6LMPtrLA' and (text() = 'Logs for Services &amp; Support' or . = 'Logs for Services &amp; Support')]</value>
-      <webElementGuid>ba0def9d-0e72-4bf4-bd55-f36e697c3967</webElementGuid>
+      <webElementGuid>d365d441-8afb-4216-9b52-e574ef57a1ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

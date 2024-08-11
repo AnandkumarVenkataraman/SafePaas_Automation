@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R137674426230792379_col_values_drop']/a[3]</value>
+         <value>(//a[contains(text(),'EBizApp_JDBC_ObjSet')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>eb610fcc-4bf2-4485-921e-bccb1c3c7ebf</webElementGuid>
+      <webElementGuid>8a2f4d5a-6d30-450e-91e3-84ef747ac45d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>b7ddc762-f9af-4746-b46e-d9bc88862b6f</webElementGuid>
+      <webElementGuid>d4597fc8-f5ff-4144-be94-63f24ee420ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>5c7b5bdb-3a21-4a29-b96e-71ac476a7d6e</webElementGuid>
+      <webElementGuid>c9a01009-47db-497f-8991-adebad85c8d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>EBizApp_JDBC_ObjSet</value>
-      <webElementGuid>58604dd9-d898-4c82-a1a6-dfce2ca0d628</webElementGuid>
+      <webElementGuid>a4bbfdb3-ce08-4c31-a881-9ceb4d3d1fa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EBizApp_JDBC_ObjSet</value>
-      <webElementGuid>a4936b30-bc54-4a76-8932-303ea33f8b98</webElementGuid>
+      <webElementGuid>911615ba-0b61-4086-a411-44bda6f82c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R137674426230792379_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>9e19e418-31a8-4eb8-84cb-8d57d61445bf</webElementGuid>
+      <webElementGuid>eef6963a-ed8e-4c1d-8179-71a36c4f90c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R137674426230792379_col_values_drop']/a[3]</value>
-      <webElementGuid>d7e6a652-b039-4141-9cbd-32bf3f073c25</webElementGuid>
+      <webElementGuid>d8fe0d76-9bf9-4bf4-90da-2964bb607a0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'EBizApp_JDBC_ObjSet')])[2]</value>
-      <webElementGuid>4592ae38-6510-4a60-8457-e80f1de8bce1</webElementGuid>
+      <webElementGuid>5de316e3-b379-46ff-bb98-d70d57e2a022</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[92]</value>
-      <webElementGuid>3b36265b-1c2e-4730-b77c-b3af8c780099</webElementGuid>
+      <webElementGuid>f996e785-9fb9-4cea-a8b7-bd866c089dd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]</value>
-      <webElementGuid>ee06a4fc-ba28-49ad-afbf-a95f67dd3807</webElementGuid>
+      <webElementGuid>7a086c7b-b46a-4628-87be-f2bf8a0f9a93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'EBizApp_JDBC_ObjSet' or . = 'EBizApp_JDBC_ObjSet')]</value>
-      <webElementGuid>ad930c14-ca74-489f-9bf4-8869eb1278d8</webElementGuid>
+      <webElementGuid>42e1da54-fccb-4943-9f72-9c4ff42e0645</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[4]/ul/li[2]/span</value>
+         <value>//span[text()='Administration']//following::span[@class='a-TreeView-toggle'][3]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>326f4fbd-1090-44b3-914a-df23b35a617c</webElementGuid>
+      <webElementGuid>f09426e4-54bf-4b27-b175-84b832567dad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>81c99915-2a27-410a-b6be-1c854490fba8</webElementGuid>
+      <webElementGuid>737750fd-c38f-44be-a84e-260d5ed3199f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_225&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>801f871c-09d6-4254-9361-2aa11040d5bb</webElementGuid>
+      <webElementGuid>ce23fc30-fc97-4080-955f-913fc12a76b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_225']/span</value>
-      <webElementGuid>ff439039-0d66-4a25-88e3-2c6bedae8f4e</webElementGuid>
+      <webElementGuid>73f02be1-39f3-4194-9fbc-76959cbde7f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[2]/span</value>
-      <webElementGuid>183d9fcf-3239-4ba3-8d9a-262494f1249e</webElementGuid>
+      <webElementGuid>4bf67938-8191-4992-adec-fc7ccc848c68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

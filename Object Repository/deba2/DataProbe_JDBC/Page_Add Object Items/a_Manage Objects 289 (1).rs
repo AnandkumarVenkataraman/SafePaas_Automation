@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[1]/div/ul/li[3]/ul/li[2]/ul/li[2]/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Objects')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>890b921f-6e5d-4f38-ad85-0c0f91fdb282</webElementGuid>
+      <webElementGuid>cc6d4cff-c48b-4a76-ba35-dcc4744da91d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:9:7968876210474:::::</value>
-      <webElementGuid>a28a2079-028f-4c3d-9c98-4d9e384ac36b</webElementGuid>
+      <webElementGuid>229a058a-9943-4075-9ffc-623c78723ed5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Breadcrumb-label</value>
-      <webElementGuid>bbc98f3c-ad79-489d-a1a3-f18a1bba77ac</webElementGuid>
+      <webElementGuid>e3fa7887-1484-4861-8bb6-b6cf6b2c5682</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Objects</value>
-      <webElementGuid>e45d6738-677c-423b-b1ed-136124fe8cec</webElementGuid>
+      <webElementGuid>a99cdfed-a35f-457d-b02f-1e71dce800dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R122159485930507513&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
-      <webElementGuid>edb6006d-4b8a-42d0-a815-318141860c2f</webElementGuid>
+      <webElementGuid>d3afa135-2696-468a-b00a-7041f8a6e446</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R122159485930507513']/div/div/ul/li[3]/a</value>
-      <webElementGuid>62ca867f-8584-4da1-9980-387dc23f09e1</webElementGuid>
+      <webElementGuid>97073a62-bcea-4523-bb1b-b3d09505e416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Objects')]</value>
-      <webElementGuid>01fb7301-757e-4f51-bca2-897e5ef8ed0f</webElementGuid>
+      <webElementGuid>68e3c01e-a9d9-44c2-b087-124869e90673</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:9:7968876210474:::::')]</value>
-      <webElementGuid>252d4192-8f45-4c11-a223-54b9a9429e05</webElementGuid>
+      <webElementGuid>f92eeb63-ae65-4fa7-aa64-bdb79e850104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>d6808b44-e8d3-4b37-b633-4f6530ddaaa4</webElementGuid>
+      <webElementGuid>5fcad257-3650-4f4c-a838-2f6dbab6273e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:9:7968876210474:::::' and (text() = 'Manage Objects' or . = 'Manage Objects')]</value>
-      <webElementGuid>2683c1ec-115d-4b09-a7ce-0ee4a84cde07</webElementGuid>
+      <webElementGuid>a9ecece7-6074-4d66-84d1-03fb5c1c0e8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

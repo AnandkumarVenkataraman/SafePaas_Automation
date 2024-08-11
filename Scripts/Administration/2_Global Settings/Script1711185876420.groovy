@@ -277,9 +277,9 @@ WebUI.click(findTestObject('Object Repository/deba1/Administration_GlobalSetting
 
 WebUI.comment('click on Cancel button')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/span_a-TreeView-toggle'))
+WebUI.verifyElementClickable(findTestObject('deba1/Administration_GlobalSettings/Page_Company/span_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/deba1/Administration_GlobalSettings/Page_Company/span_a-TreeView-toggle'))
+WebUI.click(findTestObject('deba1/Administration_GlobalSettings/Page_Company/span_a-TreeView-toggle'))
 
 WebUI.comment('click on Global Settings navigation dropdown menu')
 

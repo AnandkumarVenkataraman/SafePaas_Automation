@@ -6,12 +6,12 @@
    <elementGuidId>254fe8c7-70a3-43e7-9017-f76e52f5f02a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.ui-icon.ui-icon-circle-triangle-w</value>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Prev' or . = 'Prev')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ui-datepicker-div']/div/a/span</value>
+         <key>CSS</key>
+         <value>span.ui-icon.ui-icon-circle-triangle-w</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b56696ca-9645-421d-a7ed-02a34c53f648</webElementGuid>
+      <webElementGuid>5e93f53f-135a-4c9e-98d1-c10fb6ed8890</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-icon ui-icon-circle-triangle-w</value>
-      <webElementGuid>d16940c4-3cff-4809-b70d-ef3ea3dd4bde</webElementGuid>
+      <webElementGuid>30ae6493-be76-47ae-a5c8-447051d7e1df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Prev</value>
-      <webElementGuid>ff43f7f6-74a4-4242-8488-0a6ea8bb0c67</webElementGuid>
+      <webElementGuid>09fd9d24-52e2-4120-8460-8cac100da5fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all&quot;]/a[@class=&quot;ui-datepicker-prev ui-corner-all ui-state-hover ui-datepicker-prev-hover&quot;]/span[@class=&quot;ui-icon ui-icon-circle-triangle-w&quot;]</value>
-      <webElementGuid>bf774fa3-ae71-4479-9618-8dbf22c2bcf9</webElementGuid>
+      <webElementGuid>a131f250-ad34-4a51-9529-46305e125d4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/div/a/span</value>
-      <webElementGuid>fc5f1e24-a7a6-4fe5-af09-0906e55322c8</webElementGuid>
+      <webElementGuid>35a5d00c-e8d5-4699-9249-d1b343055e79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/a/span</value>
-      <webElementGuid>353ec897-1233-4e22-b11f-4a90064f36d5</webElementGuid>
+      <webElementGuid>8ca6dc40-3442-40a6-b7ee-8b891586817f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Prev' or . = 'Prev')]</value>
-      <webElementGuid>d2367676-06aa-473d-a302-75475de4b057</webElementGuid>
+      <webElementGuid>664e74a9-24f3-4a05-8794-1ed3ace09e67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

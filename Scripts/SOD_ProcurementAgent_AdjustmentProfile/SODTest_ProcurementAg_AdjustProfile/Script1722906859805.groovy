@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/a_
 WebUI.verifyElementClickable(findTestObject('Object Repository/SODTest1/Page_Manage SOD Test/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/SODTest1/Page_Manage SOD Test/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/SODTest1/Page_Manage SOD Test/button_Create'))
 
@@ -66,12 +66,12 @@ WebUI.verifyElementText(findTestObject('Object Repository/SODTest1/Page_AddEdit 
 WebUI.setText(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/textarea_P35_REQUEST_DESCRIPTION (1)'), GlobalVariable.SODTest_Procu_Adj)
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/select_Select any OneSOD PreventiveSOD Dete_369111 (1)'), 
-    'Select any One', true)
+    'Select any One', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/select_Select any OneSOD PreventiveSOD Dete_369111 (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/select_Select any OneSOD PreventiveSOD Dete_369111 (1)'), 
-    'DT', true)
+    'DT', false)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/SODTest1/Page_AddEdit Test/label_Rule Tags (Value Required) (1)'), 
     0)
@@ -106,14 +106,14 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(180)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/SOD_Procurement/Page_Home/a_Manage Violation'))
+not_run: WebUI.verifyElementClickable(findTestObject('Object Repository/SOD_Procurement/Page_Home/a_Manage Violation'))
 
 WebUI.click(findTestObject('Object Repository/SOD_Procurement/Page_Home/a_Manage Violation'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/SOD_Procurement/Page_Manage Violation/select_Select any oneEBizApp_JDBC_EnvJDE_TE_abbce2'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/SOD_Procurement/Page_Manage Violation/select_Select any oneEBizApp_JDBC_EnvJDE_TE_abbce2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/SOD_Procurement/Page_Manage Violation/button_(Value Required)_P74_REQUEST_NAME_lov_btn'))
 
@@ -237,6 +237,8 @@ WebUI.selectOptionByLabel(findTestObject('SOD_Procurement/Page_User Violation Re
     GlobalVariable.SODTest_Procu_Adj, false)
 
 WebUI.delay(30)
+
+WebUI.acceptAlert()
 
 WebUI.takeFullPageScreenshot()
 

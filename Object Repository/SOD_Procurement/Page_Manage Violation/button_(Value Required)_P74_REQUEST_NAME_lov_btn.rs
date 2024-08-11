@@ -13,6 +13,10 @@
          <key>CSS</key>
          <value>#P74_REQUEST_NAME_lov_btn</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'P74_REQUEST_NAME_lov_btn']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6a9c2ead-a25c-4d69-9a94-e4a61bd8f087</webElementGuid>
+      <webElementGuid>55227450-2962-4c1f-9277-39bab9842b35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4c2ffc8f-1c9a-46da-9a5a-a1f8a940cb55</webElementGuid>
+      <webElementGuid>25b0031e-909b-474e-95d8-c89cb8c1dcc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>01080fba-a276-49ea-98e5-ed1bb7d36627</webElementGuid>
+      <webElementGuid>319c8074-87be-4aa2-9434-0b72f8e8ca67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-Button--popupLOV</value>
-      <webElementGuid>e65c8c21-eb9e-49d7-9b16-284efd229995</webElementGuid>
+      <webElementGuid>6adc769a-e672-4f1b-b242-0f64283afc1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P74_REQUEST_NAME_lov_btn</value>
-      <webElementGuid>9fc03cdd-c37b-4ffe-8da2-8822a43235fc</webElementGuid>
+      <webElementGuid>aaf00f2d-2569-4933-9669-a3ed847f0044</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>ae2b81b5-50f6-40b1-8e83-4f652f878f7f</webElementGuid>
+      <webElementGuid>df96c2d9-242b-4cc0-9288-8e5205cafbfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P74_REQUEST_NAME_lov_btn&quot;)</value>
-      <webElementGuid>2fcef9b3-5ca6-4b66-8e94-15d041dba833</webElementGuid>
+      <webElementGuid>42ccf213-4805-4581-93cc-3b21a7ecc9c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'P74_REQUEST_NAME_lov_btn']</value>
-      <webElementGuid>f61dc970-9269-42c3-a249-d77d5808852c</webElementGuid>
+      <webElementGuid>fa00f15e-1a0d-4e81-bc02-a99a55141757</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='P74_REQUEST_NAME_lov_btn']</value>
-      <webElementGuid>fa030a9e-3d6e-48e0-9174-07640c27c00e</webElementGuid>
+      <webElementGuid>07df2cea-a239-47f8-87bc-f42824faf568</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/following::button[1]</value>
-      <webElementGuid>3e1e7e23-ba12-4b37-bef3-d3093ac5ef5f</webElementGuid>
+      <webElementGuid>3ad7d4af-8e55-4886-a57f-ce357455ab83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Violation'])[4]/preceding::button[1]</value>
-      <webElementGuid>5948af16-2308-4fda-b815-cc25df3711c6</webElementGuid>
+      <webElementGuid>7103e43d-1ec7-4ecb-b035-4139a1ad6b2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mass Update Exceptions'])[1]/preceding::button[1]</value>
-      <webElementGuid>59e70d17-61e4-4a06-91e0-ff29ec6f6cc6</webElementGuid>
+      <webElementGuid>e488b294-d6e5-48b4-a574-8c09c5d4fc33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button</value>
-      <webElementGuid>e1fdd59b-d9d3-4c36-92a6-1d99824bdacc</webElementGuid>
+      <webElementGuid>966533ca-e54f-4cb1-adf9-4b5810c982a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +130,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P74_REQUEST_NAME_CONTAINER']/div[2]/div/div/button</value>
-      <webElementGuid>d5ffe1f4-c568-4a0f-8abd-065ba2b4a36b</webElementGuid>
+      <webElementGuid>cfba3f09-7e75-4036-a1ad-5bdbee5b8a4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

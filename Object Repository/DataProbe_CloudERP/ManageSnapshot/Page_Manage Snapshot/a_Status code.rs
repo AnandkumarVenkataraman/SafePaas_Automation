@@ -6,12 +6,12 @@
    <elementGuidId>ab329026-104f-427d-b1ac-dd5965e9b30b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C144265417641266631']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C144265417641266631 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Status code')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b80d4b7f-9a56-4328-bedd-1c31d56e651b</webElementGuid>
+      <webElementGuid>62405aca-5ae4-42a0-a2b0-a15ef1620347</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>ec9da0de-a523-4429-8d5b-337685df393c</webElementGuid>
+      <webElementGuid>9841f8f2-144a-4e39-abf7-282262db7bd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>144265417641266631</value>
-      <webElementGuid>1199d774-51cb-4533-a539-e311ce81d209</webElementGuid>
+      <webElementGuid>04f0419a-4fd5-4fd6-8173-a6a299139c9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>c79a7cfc-e4ab-4b3f-be4a-9fd1b6600991</webElementGuid>
+      <webElementGuid>f7ec67ba-12ab-4c3f-827c-72e6444913f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Status code</value>
-      <webElementGuid>9953e3aa-6e63-45e2-8fe2-0cc0ee09eb5a</webElementGuid>
+      <webElementGuid>5a460375-66c7-45fc-aebd-7100d517ac7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;144264340282266620&quot;)/tr[1]/th[@id=&quot;C144265417641266631&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>126ff22d-7bf1-4858-9044-da857ed1ec21</webElementGuid>
+      <webElementGuid>429c80d6-eeb9-478f-be37-f56a441960ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C144265417641266631']/a</value>
-      <webElementGuid>4e3009f1-58d1-4379-981a-b355820ac949</webElementGuid>
+      <webElementGuid>400e2657-6eaa-4640-bce7-09bb42e6b25c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Status code')]</value>
-      <webElementGuid>0222a149-536c-466c-ba01-56e2a17162e8</webElementGuid>
+      <webElementGuid>95d028c6-09f4-4b8b-9d9a-952f2d2a8f1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[5]/a</value>
-      <webElementGuid>ac632b9b-1cf2-42ae-b0fb-4d54f965aeb0</webElementGuid>
+      <webElementGuid>1751a3a6-f06a-4081-b42a-60781494c8f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Status code' or . = 'Status code')]</value>
-      <webElementGuid>86dcaeef-7552-43c1-85a9-cd7c798fb468</webElementGuid>
+      <webElementGuid>07b27825-036a-4c8e-9df7-a5c07b96e7f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
