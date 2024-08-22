@@ -6,12 +6,16 @@
    <elementGuidId>f5f86032-b762-48af-8e1f-3cfad79eb5aa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#C173385036633224630_HDR</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Cloud Path' or . = 'Cloud Path')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='C173385036633224630_HDR']</value>
+         <value>//*[(text() = 'Cloud Path' or . = 'Cloud Path')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C173385036633224630_HDR</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>64565b98-49a6-44fc-a7e1-e8d7557efd69</webElementGuid>
+      <webElementGuid>95d3b05d-45ca-45db-927c-07620866ccc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>c938e58c-4c6b-45bd-9190-c0153c531618</webElementGuid>
+      <webElementGuid>1db6c75c-5c71-4933-b3cc-c26803e12deb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>C173385036633224630_HDR</value>
-      <webElementGuid>81cab45c-6298-4ef0-b8a8-3c173e1d4d2a</webElementGuid>
+      <webElementGuid>c7c0023b-db57-43a5-b595-526b2e286713</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cloud Path</value>
-      <webElementGuid>5ba28d6b-bf25-4bd3-a634-e3b316a1d329</webElementGuid>
+      <webElementGuid>394be960-ccb4-4571-9ac2-03109ba7ec90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C173385036633224630_HDR&quot;)</value>
-      <webElementGuid>55c1861a-7bc9-48a0-b90e-3f7ce8fb93c3</webElementGuid>
+      <webElementGuid>07a6812e-9ea2-4f0e-9a16-42182c6175d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='C173385036633224630_HDR']</value>
-      <webElementGuid>92b686bf-6f52-4b1c-bb41-4153dbe529d9</webElementGuid>
+      <webElementGuid>b4adc108-9101-4e09-a6f5-d0a520cd69f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='oItemsCloudSqlIg_ig_grid_vc_cur']/span</value>
-      <webElementGuid>43f8d460-7d56-4d59-8aa9-151ec296c792</webElementGuid>
+      <webElementGuid>422bcc7f-54c0-4664-b09c-840a9f8eb5d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[7]/span</value>
-      <webElementGuid>2ca3096a-0026-4b2c-83cf-3a51f3ac6994</webElementGuid>
+      <webElementGuid>67099d68-75a2-4cf0-a7ab-6a170f98cb9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'C173385036633224630_HDR' and (text() = 'Cloud Path' or . = 'Cloud Path')]</value>
-      <webElementGuid>36b15256-6086-4979-8e19-399216afb028</webElementGuid>
+      <webElementGuid>0dcbe10f-2f5b-455c-8fed-bbc4fe901686</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

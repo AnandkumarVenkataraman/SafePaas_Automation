@@ -6,12 +6,16 @@
    <elementGuidId>da64b287-b067-4af4-affa-b7a45ae749c0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R301859173834507222_report_view</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Report View' or . = 'Report View')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id = 'R301859173834507222_report_view' and @type = 'button' and (text() = 'Report View' or . = 'Report View')]</value>
+         <value>//*[@type = 'button' and (text() = 'Report View' or . = 'Report View')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R301859173834507222_report_view</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e3e15ffc-345f-4900-a62e-d1a223374c2a</webElementGuid>
+      <webElementGuid>cbc5511d-a74a-4996-870c-be35e8a59d32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>R301859173834507222_report_view</value>
-      <webElementGuid>ae0ace40-9de8-4c7e-bf49-09a8cd8f7177</webElementGuid>
+      <webElementGuid>752b7642-f5a1-42c7-9139-a81786e64843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--reportView</value>
-      <webElementGuid>79043646-7e88-411a-99e8-c81c306f02cb</webElementGuid>
+      <webElementGuid>b526cd90-31cf-41a7-80fc-a2576b3d7363</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60ded469-8ba4-42e1-9e3c-c1496b5aa34b</webElementGuid>
+      <webElementGuid>fb643135-88b5-4a6c-a78c-70f77d4d9521</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>data-report-id</name>
       <type>Main</type>
       <value>301874714231677526</value>
-      <webElementGuid>0512d529-cab8-4360-8f8e-b0eec01502bf</webElementGuid>
+      <webElementGuid>e9d9c04c-4250-4536-9995-3a314504b4a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Report View</value>
-      <webElementGuid>5a3c833d-cb98-43de-aa51-afc62428d8b4</webElementGuid>
+      <webElementGuid>02c53919-e961-4609-8389-69a95537049f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R301859173834507222_report_view&quot;)</value>
-      <webElementGuid>11d36ad6-5081-4fb0-92f0-deacf1883be5</webElementGuid>
+      <webElementGuid>d1b91977-4d5c-4669-af6b-086c9f471fd3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R301859173834507222_report_view']</value>
-      <webElementGuid>7f4cb031-6840-4d4c-8a35-cbc47869b03a</webElementGuid>
+      <webElementGuid>32101d27-19f1-41c7-bed5-cf085cc74172</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R301859173834507222_single_row_view']/div/div/button</value>
-      <webElementGuid>4542119e-5ebd-427f-8336-a6ce46876112</webElementGuid>
+      <webElementGuid>4d5360cb-479b-45a6-a5d6-ed7e1e10ddcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>5e971abc-29b0-4139-be98-d9abc871259c</webElementGuid>
+      <webElementGuid>2a2f8a48-a160-454d-9a3f-2585d3bb3388</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'R301859173834507222_report_view' and @type = 'button' and (text() = 'Report View' or . = 'Report View')]</value>
-      <webElementGuid>930f3a13-5ce7-4a1f-91ff-6746ad971d9a</webElementGuid>
+      <webElementGuid>244bd87f-346c-47d7-977e-15f3f6806ed3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

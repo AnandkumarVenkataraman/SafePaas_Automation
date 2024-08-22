@@ -6,12 +6,16 @@
    <elementGuidId>a2ad4fbe-bed2-4192-b034-2a353128c082</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R171917969038552305_search_button</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Go' or . = 'Go')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id = 'R171917969038552305_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
+         <value>//*[@type = 'button' and (text() = 'Go' or . = 'Go')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R171917969038552305_search_button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>35ab46bc-688f-4b8e-97d6-176c015538ec</webElementGuid>
+      <webElementGuid>c6d0addb-a976-495a-907e-46b20b627328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>R171917969038552305_search_button</value>
-      <webElementGuid>f590b767-0353-49db-96de-9b8a292fd685</webElementGuid>
+      <webElementGuid>6b0492b8-2ede-428b-8cef-0a4595c13589</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--search</value>
-      <webElementGuid>ed90abca-e22e-4701-b50b-adf4e488de16</webElementGuid>
+      <webElementGuid>2dcd1f3d-0249-41e2-9ebc-f84f582498a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d78b2b95-7f8f-43b3-9dd1-28a61d9b5c1d</webElementGuid>
+      <webElementGuid>92517143-cdac-46ec-ae07-5954ef1d1382</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go</value>
-      <webElementGuid>5aeaaa06-1be6-4c31-8cfa-9c31bc8e0e26</webElementGuid>
+      <webElementGuid>5f70d501-afad-481b-aa76-085b05da584b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R171917969038552305_search_button&quot;)</value>
-      <webElementGuid>661492b8-aa62-4d71-bd31-882342310b5b</webElementGuid>
+      <webElementGuid>5cc32873-6ca5-45e9-902f-d839d6c10b09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R171917969038552305_search_button']</value>
-      <webElementGuid>283c9a8d-431e-40f5-bf09-6a5cb2fd5198</webElementGuid>
+      <webElementGuid>f0fc4604-4ac9-4c66-8041-f8a650c8fc18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R171917969038552305_toolbar_controls']/div/div/div[3]/button</value>
-      <webElementGuid>3f2fd29f-1c33-424f-aa55-442ad47aeb4a</webElementGuid>
+      <webElementGuid>79003ba5-48c6-4805-9450-603e12a2ab48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div[3]/button</value>
-      <webElementGuid>08034967-6387-4dc5-8908-8f2a77902c8f</webElementGuid>
+      <webElementGuid>a116659a-9c44-4f3a-8d25-96b5f4c4794c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'R171917969038552305_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
-      <webElementGuid>1905d535-8316-4109-869d-37541e525c6f</webElementGuid>
+      <webElementGuid>5aeb6b8d-0e15-42df-b768-e24c9f9f3ad2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

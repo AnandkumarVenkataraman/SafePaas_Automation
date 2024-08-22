@@ -202,6 +202,8 @@ WebUI.scrollToElement(findTestObject('Object Repository/MonitorPaaS_CloudERP/1_C
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/MonitorPaaS_CloudERP/1_CloudERP_ManageDatasource_ManageObject/Page_Generate SQL/h2_Create and Deploy OTBI'))
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/1_CloudERP_ManageDatasource_ManageObject/Page_Generate SQL/button_Generate OTBI'))
 
 WebUI.click(findTestObject('Object Repository/MonitorPaaS_CloudERP/1_CloudERP_ManageDatasource_ManageObject/Page_Generate SQL/button_Generate OTBI'))
@@ -212,8 +214,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_Cloud
 
 WebUI.click(findTestObject('Object Repository/MonitorPaaS_CloudERP/1_CloudERP_ManageDatasource_ManageObject/Page_Generate SQL/button_SQL generated successfully_t-Button _07d677'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/MonitorPaaS_CloudERP/1_CloudERP_ManageDatasource_ManageObject/Page_Generate SQL/button_Go'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/1_CloudERP_ManageDatasource_ManageObject/Page_Generate SQL/button_Go'))
 

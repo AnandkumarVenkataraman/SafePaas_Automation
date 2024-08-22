@@ -6,12 +6,16 @@
    <elementGuidId>d5a3220f-4bdb-4d5c-8410-f671eedad965</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R171917969038552305_heading</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Create and Deploy OTBI' or . = 'Create and Deploy OTBI')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id = 'R171917969038552305_heading' and (text() = 'Create and Deploy OTBI' or . = 'Create and Deploy OTBI')]</value>
+         <value>//*[(text() = 'Create and Deploy OTBI' or . = 'Create and Deploy OTBI')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R171917969038552305_heading</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>19c1845f-899b-4884-a7d8-13f366b63086</webElementGuid>
+      <webElementGuid>473890be-de19-4e8d-8ee6-389d136d8712</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Region-title</value>
-      <webElementGuid>3142d18c-bd83-4519-b228-1f36555a61de</webElementGuid>
+      <webElementGuid>c58711fb-f81b-4454-a779-ba2baee26e12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>R171917969038552305_heading</value>
-      <webElementGuid>a9795cd5-bc5c-452a-a747-09ed57a8411e</webElementGuid>
+      <webElementGuid>a5ddabbf-862d-4275-9aa3-18c818a7a0e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create and Deploy OTBI</value>
-      <webElementGuid>70be7f41-13c3-4db6-9876-fb93d96f01a1</webElementGuid>
+      <webElementGuid>7285495f-63d3-4e64-b11b-01398d5a0fca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R171917969038552305_heading&quot;)</value>
-      <webElementGuid>3344c341-d351-4e61-b2fb-91ae72bf00b1</webElementGuid>
+      <webElementGuid>b8a706c8-9137-452a-89aa-9ce0e68606c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='R171917969038552305_heading']</value>
-      <webElementGuid>dc68e04b-fa45-4d30-b0c9-ee95ff70162b</webElementGuid>
+      <webElementGuid>9f636885-e96a-4980-9420-b2d4d411394f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R171917969038552305']/div/div/h2</value>
-      <webElementGuid>22f42f7c-aa42-472d-96aa-0bb55f33c401</webElementGuid>
+      <webElementGuid>759d720b-fe4b-4457-8b72-4d686d4921cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/h2</value>
-      <webElementGuid>1e42425a-459f-484b-820b-17ea60745928</webElementGuid>
+      <webElementGuid>21496c9e-7e13-444a-b0b9-bb9920601cac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'R171917969038552305_heading' and (text() = 'Create and Deploy OTBI' or . = 'Create and Deploy OTBI')]</value>
-      <webElementGuid>0746d7a6-9a1c-4cb6-837a-cdcc2cfb7138</webElementGuid>
+      <webElementGuid>4a0a072f-ad1f-4dd1-b3dc-1c245071dfb0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

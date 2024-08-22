@@ -239,12 +239,12 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/select_NameObjects NameDescriptionLast Upda_0c2a2d'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/select_NameObjects NameDescriptionLast Upda_0c2a2d'), 
-    'Name', true, FailureHandling.OPTIONAL)
+    'Name', true, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/select_is nullis not nulllikenot likeinnot _365127'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/select_is nullis not nulllikenot likeinnot _365127'), 
-    'contains', true)
+    'contains', false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/input_Expression_p_ignore_10'), 
     '')

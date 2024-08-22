@@ -10,11 +10,15 @@
          <value>#P20_CREATE</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Deploy' or . = 'Deploy')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'P20_CREATE' and (text() = 'Deploy' or . = 'Deploy')]</value>
+         <value>//button[@type = 'button' and (text() = 'Deploy' or . = 'Deploy')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d560b2e6-37ba-4193-9de0-8eab994803de</webElementGuid>
+      <webElementGuid>95868465-986c-490d-9882-8b131f0bd839</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.navigation.redirect('f?p=1110:12:5596352931597:::RP,12:F_DEPLOY_ID:');</value>
-      <webElementGuid>ab44c84d-09e0-4504-9d24-eb908d9ac5ef</webElementGuid>
+      <webElementGuid>cbacd24f-00ca-460e-a4ae-cdb844e976cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>22b99186-6dda-4357-ad12-f21490b8e2cc</webElementGuid>
+      <webElementGuid>16ed66fd-62da-46a9-ba6f-a2b0f98375c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +50,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4fefd65c-cf25-4786-9994-e4de668a7cde</webElementGuid>
+      <webElementGuid>d9045502-18ad-4a1f-9583-c0345a0eb263</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>P20_CREATE</value>
-      <webElementGuid>5984008a-0b7e-4dcc-8d30-5a9852310822</webElementGuid>
+      <webElementGuid>0fd87384-d48d-404a-a752-2d7ae87c5d04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Deploy</value>
-      <webElementGuid>c0dddd2d-c770-4007-a2fa-8773258a7192</webElementGuid>
+      <webElementGuid>989612a7-66b3-4351-b8a6-5c9f4380b376</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P20_CREATE&quot;)</value>
-      <webElementGuid>408f7288-ae29-4c1c-8696-422c95e5cfbb</webElementGuid>
+      <webElementGuid>074d4bb8-3a29-4325-a7c6-77b1e0ca8324</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='P20_CREATE']</value>
-      <webElementGuid>b4327372-800c-498d-a656-89559cc11cb1</webElementGuid>
+      <webElementGuid>5c5393fd-f3e9-4a25-95cf-c711157b512d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngMonitos']/div/div[2]/button</value>
-      <webElementGuid>e340890d-7d71-468f-95c7-4356adb98b1d</webElementGuid>
+      <webElementGuid>956af064-b37c-42b1-a321-517162d365af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>cb770d23-80e5-485e-9eff-637933d2826d</webElementGuid>
+      <webElementGuid>6457d051-66f6-4877-aa61-1991ddbbebbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'P20_CREATE' and (text() = 'Deploy' or . = 'Deploy')]</value>
-      <webElementGuid>065f418d-758d-43cf-b430-cc46e98bc4b3</webElementGuid>
+      <webElementGuid>8dcdec5c-41fe-4582-ab24-5e7d4e7daa5a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,11 +7,14 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1120:10:13425953805798:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:361691,7289,7289,361691&amp;cs=3KeBYN7HQ5iCXAFLXPL5oP08qX9ZHBBCnkq1-XXQyr4fFr-lwzci7oKTSFmO9zTSAo0_y1kSXjMeWHHS90FbrGQ' and (text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='122864437533293003_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[contains(text(),'AR Approval Limits')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>69ba5269-d7e1-4a2c-add9-3695f346d587</webElementGuid>
+      <webElementGuid>c66c4475-8f40-4e6e-a4db-a7909d6295b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:10:13425953805798:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:361691,7289,7289,361691&amp;cs=3KeBYN7HQ5iCXAFLXPL5oP08qX9ZHBBCnkq1-XXQyr4fFr-lwzci7oKTSFmO9zTSAo0_y1kSXjMeWHHS90FbrGQ</value>
-      <webElementGuid>f04595b5-865f-4999-8983-cf3c5f5f26a9</webElementGuid>
+      <webElementGuid>319175fa-b98c-4451-a4a0-f72876bd9bc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AR Approval Limits</value>
-      <webElementGuid>21456237-2765-4978-9690-53112f67cf0f</webElementGuid>
+      <webElementGuid>af049d17-347a-42ce-95e0-4ee605d59baa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>e5c380f2-35e1-474a-a030-8bbc956d7cdb</webElementGuid>
+      <webElementGuid>a47e9f38-e6b8-45fd-a771-3d410b48dcc2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='122864437533293003_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>410cc942-8960-4fa6-8547-17f6d30dea8e</webElementGuid>
+      <webElementGuid>76c2c953-acb0-4aec-bfad-125a088d695f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'AR Approval Limits')]</value>
-      <webElementGuid>3f6e83f4-c110-46f3-b55b-15e83675988f</webElementGuid>
+      <webElementGuid>127728cb-13f4-4ad8-81e2-bc2b66f5913c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:10:13425953805798:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:361691,7289,7289,361691&amp;cs=3KeBYN7HQ5iCXAFLXPL5oP08qX9ZHBBCnkq1-XXQyr4fFr-lwzci7oKTSFmO9zTSAo0_y1kSXjMeWHHS90FbrGQ')]</value>
-      <webElementGuid>6aad96d1-5c91-4ab6-b7a9-37cc23e1cbf6</webElementGuid>
+      <webElementGuid>913ef03c-3b38-4849-ac1d-9114824ac524</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>d762ce56-1673-444a-8f6c-f5cb53ed34b4</webElementGuid>
+      <webElementGuid>f37caae6-3881-4d45-8025-5a49e9c4cfcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:10:13425953805798:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:361691,7289,7289,361691&amp;cs=3KeBYN7HQ5iCXAFLXPL5oP08qX9ZHBBCnkq1-XXQyr4fFr-lwzci7oKTSFmO9zTSAo0_y1kSXjMeWHHS90FbrGQ' and (text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
-      <webElementGuid>5cee1888-2b17-4011-a694-9c47d3cb97c4</webElementGuid>
+      <webElementGuid>565b8347-2d5a-4acd-ba59-e1765c9e38d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

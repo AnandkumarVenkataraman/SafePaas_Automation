@@ -6,11 +6,15 @@
    <elementGuidId>8389affa-55c1-42b8-9795-1f10a5f007b8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = 'STP-Funds Capture Payment Method' or . = 'STP-Funds Capture Payment Method')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[90]</value>
+         <value>(//a[contains(text(),'STP-Funds Capture Payment Method')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f105e9b5-d1db-4ef9-a20f-029ca0064eeb</webElementGuid>
+      <webElementGuid>caac3590-91e3-4f98-aa8e-084f304c1a8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>730475f5-d5c0-4b7a-8f2f-1a3789e6ea13</webElementGuid>
+      <webElementGuid>c72b8751-ddd5-4ff5-b009-fece0286621c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-col-value</value>
-      <webElementGuid>c858f23b-5152-4b90-b666-58090da3a52c</webElementGuid>
+      <webElementGuid>fac08f95-37eb-469e-bbeb-2f775d50cb75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>STP-Funds Capture Payment Method</value>
-      <webElementGuid>951bfd62-01a8-4a03-a794-9b5b4ad42b4c</webElementGuid>
+      <webElementGuid>56571e26-4173-4116-8f6a-a0e5691caae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>STP-Funds Capture Payment Method</value>
-      <webElementGuid>1dc4f006-11b2-4471-bc61-9ce2a4fa21d0</webElementGuid>
+      <webElementGuid>a7a4e5a6-1f67-4405-9031-0c3bc9d13506</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R122864292076293001_col_values_drop&quot;)/a[@class=&quot;a-IRR-col-value&quot;]</value>
-      <webElementGuid>c6dd78ff-f66f-49b8-890e-09b7541b9cda</webElementGuid>
+      <webElementGuid>0041cb88-c8a7-4f8c-8881-0fcde71b4e19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R122864292076293001_col_values_drop']/a[2]</value>
-      <webElementGuid>224ed5ee-4678-4876-9b69-cf4473575b74</webElementGuid>
+      <webElementGuid>e4f05796-ab37-4b5f-b5df-2d7b2bd16127</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'STP-Funds Capture Payment Method')])[2]</value>
-      <webElementGuid>4f70c481-00ca-4c37-9186-6c8ac35fcaee</webElementGuid>
+      <webElementGuid>9b9395b9-c858-4e9a-b887-b6e46331c4fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[90]</value>
-      <webElementGuid>d63db1f6-8734-42db-bfb6-a744e0e15bdf</webElementGuid>
+      <webElementGuid>b4fef912-022c-4417-bc9c-5573f62d9621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>de4f65a2-f197-48f3-8920-1b6a56d38390</webElementGuid>
+      <webElementGuid>2d723335-b817-4f43-bf04-ba4f8cb0f6eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'STP-Funds Capture Payment Method' or . = 'STP-Funds Capture Payment Method')]</value>
-      <webElementGuid>a1961e19-ecd7-48b2-a245-e7e039e684fc</webElementGuid>
+      <webElementGuid>c587ed36-fdba-48f7-89a3-0a8cb3ad136c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

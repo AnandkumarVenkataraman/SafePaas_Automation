@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[2]/div[2]/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[1]/div/div[3]/table/tbody/tr[12]/td[2]/a/img</value>
+         <value>//img[@src = '/i/app_ui/img/icons/apex-edit-view.png']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>9c7fc7bf-da1b-49d2-b53a-c7f7d5aaf0ca</webElementGuid>
+      <webElementGuid>6a3f6ce1-748e-4a2a-b396-49831d3ac78a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/i/app_ui/img/icons/apex-edit-view.png</value>
-      <webElementGuid>18176e8c-9706-4910-ae8e-f688dab765ed</webElementGuid>
+      <webElementGuid>4631b7ba-c993-4aea-bf4e-df3631399bcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-edit-view</value>
-      <webElementGuid>170af0b6-4740-41f0-9a63-9d8ebd584abc</webElementGuid>
+      <webElementGuid>f68af662-a49d-43af-9dbb-b0be66717a6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;489704368707432492_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/img[@class=&quot;apex-edit-view&quot;]</value>
-      <webElementGuid>48525ba1-4041-4bad-a2cd-e8d49a9981ab</webElementGuid>
+      <webElementGuid>23b27b44-5438-4f50-ad37-380f407f4ed3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='489704368707432492_orig']/tbody/tr[2]/td[2]/a/img</value>
-      <webElementGuid>5087d0bf-bc33-4025-bdcc-e3e3408f2fe5</webElementGuid>
+      <webElementGuid>45e9f1a9-fe3f-42ee-994a-ed73a24b211e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/img</value>
-      <webElementGuid>ea699b65-0313-4d8a-8058-366022975d1b</webElementGuid>
+      <webElementGuid>9e43492f-3a4c-4289-bfd3-d7fd46b100c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/i/app_ui/img/icons/apex-edit-view.png']</value>
-      <webElementGuid>425e6bda-550a-4a58-84a6-77053bfa282e</webElementGuid>
+      <webElementGuid>ffef9533-9634-4ef8-b143-043a7d6b23d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

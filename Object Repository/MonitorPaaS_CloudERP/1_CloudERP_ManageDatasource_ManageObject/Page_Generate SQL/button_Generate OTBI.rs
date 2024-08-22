@@ -6,12 +6,16 @@
    <elementGuidId>734f4b6f-3a9e-4aa7-b962-8baf1df2a473</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#B171918725397552313</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Generate OTBI' or . = 'Generate OTBI')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'B171918725397552313' and (text() = 'Generate OTBI' or . = 'Generate OTBI')]</value>
+         <value>//*[@type = 'button' and (text() = 'Generate OTBI' or . = 'Generate OTBI')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#B171918725397552313</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a6c3e2ba-c567-422a-acc2-53bd3ff84945</webElementGuid>
+      <webElementGuid>987d2248-de14-4778-a255-e509eadc144a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'CREATE_OTBI'});</value>
-      <webElementGuid>7153a55b-b375-4e47-a194-971bb964b340</webElementGuid>
+      <webElementGuid>d57935f2-4fff-4326-bb8b-30e18a3081a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--hot </value>
-      <webElementGuid>0273793b-970e-4f6e-9d1f-68677555e0aa</webElementGuid>
+      <webElementGuid>5ced4a18-fd92-4bc5-8f2c-74d5e4169bf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +50,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c454b19b-f428-4aee-9307-b999c876b13a</webElementGuid>
+      <webElementGuid>3c99d157-d674-4209-90e3-ba588a72384a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>B171918725397552313</value>
-      <webElementGuid>6aebbcd2-c95a-4f06-bba7-d89a66a0e9cd</webElementGuid>
+      <webElementGuid>0e2086c3-7c94-45f5-b1a6-96503f0524d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Generate OTBI</value>
-      <webElementGuid>d48ae4e4-cbef-483b-b526-17b4fa0b9705</webElementGuid>
+      <webElementGuid>b9f7971d-6af9-424f-9360-e9e6ca519db4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B171918725397552313&quot;)</value>
-      <webElementGuid>c263491a-3987-41d8-9435-566a57220e57</webElementGuid>
+      <webElementGuid>281d9596-54cc-4093-8e10-9b56e902298c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B171918725397552313']</value>
-      <webElementGuid>0c260803-38e2-49b5-88c4-381d7ad30067</webElementGuid>
+      <webElementGuid>46de945c-726d-40ad-9899-1fd23b117fcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R171917969038552305']/div/div[2]/button[2]</value>
-      <webElementGuid>50729681-b319-4d09-a2a9-77a6e6bbc339</webElementGuid>
+      <webElementGuid>59b48057-e80a-47dc-b3d7-b4f1667cafd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/button[2]</value>
-      <webElementGuid>7a48e785-090d-451a-b3d8-7b91dad06cd9</webElementGuid>
+      <webElementGuid>ee17e9b4-8c7e-4700-9d9b-38619e58b765</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B171918725397552313' and (text() = 'Generate OTBI' or . = 'Generate OTBI')]</value>
-      <webElementGuid>3b1e22d2-3a76-416c-a344-4c4bec56be59</webElementGuid>
+      <webElementGuid>30bf4223-fcfd-4f6e-94c5-d76f02f836f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -89,7 +89,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:APPROVER,100912,315006,41015,323713')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:APPROVER,100912,315959,41312,324025')
 
 WebUI.delay(5)
 
@@ -273,6 +273,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/MonitorPaaS_IncidentRe
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Reassign tkts/textarea_Comments_RequestorSearch_UV23'), 
     'MARIAB')
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_IncidentReport/IncidentReport_Approver/Page_Reassign tkts/button_Search_UV25'))
 

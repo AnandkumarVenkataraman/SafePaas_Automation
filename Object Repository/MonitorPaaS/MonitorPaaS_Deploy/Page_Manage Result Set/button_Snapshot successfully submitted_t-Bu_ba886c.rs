@@ -6,12 +6,16 @@
    <elementGuidId>0025fec0-63cd-4358-95b3-627e4f44d9a0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @title = 'Close']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <value>//*[@type = 'button' and @title = 'Close']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e4d9702b-c3ad-4f90-b0e4-d551ae3f918c</webElementGuid>
+      <webElementGuid>17bd2442-ffea-47ca-b941-3bae2db4be40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--noUI t-Button--icon t-Button--closeAlert</value>
-      <webElementGuid>17db697c-3c92-4d3d-809f-9ed408c54d5d</webElementGuid>
+      <webElementGuid>8ac85239-f568-4565-9415-ea7f20467360</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aedfa2cb-9ddf-45ca-891c-191d97ccfeee</webElementGuid>
+      <webElementGuid>bb2b92da-64bc-4fc8-9775-47e6a22cc222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>180539fd-574f-405a-8eaa-069118d6834e</webElementGuid>
+      <webElementGuid>6ff15e75-62be-4cb3-a45c-fb704e398776</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-buttons&quot;]/button[@class=&quot;t-Button t-Button--noUI t-Button--icon t-Button--closeAlert&quot;]</value>
-      <webElementGuid>c7147ca5-edfc-49ba-8251-6d9bb5a73f0f</webElementGuid>
+      <webElementGuid>f3fa61d7-a921-47e6-b1e9-98a0d1c54bd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>402d8236-7fac-4d15-9074-ffae888dea54</webElementGuid>
+      <webElementGuid>633285cd-7a04-4beb-bc4f-1836f888d0bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[3]/button</value>
-      <webElementGuid>3086590f-a87a-4086-bfe8-79f1507061a1</webElementGuid>
+      <webElementGuid>25321a08-7677-408a-bc4e-9ea72e7674ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>3f9960a9-f3c3-487a-b551-114534b65446</webElementGuid>
+      <webElementGuid>a0bf254a-773a-4471-b559-41d146e8f66d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @title = 'Close']</value>
-      <webElementGuid>73e6ab58-2ef5-4eff-9fbb-409a3f7a7602</webElementGuid>
+      <webElementGuid>9c55e684-8163-429f-845c-860f4ce2d987</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

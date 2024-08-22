@@ -6,12 +6,16 @@
    <elementGuidId>d711a167-75d4-4a37-a5e9-38e93493f828</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R137674426230792379_column_name</value>
+         <key>BASIC</key>
+         <value>//*[@title = 'Column' and @name = 'p_ignore_10' and (text() = 'Object SetDescriptionStart DateEnd DateApplication TypeCreation DateCreated ByLast Update DateLast Updated ByConfig File' or . = 'Object SetDescriptionStart DateEnd DateApplication TypeCreation DateCreated ByLast Update DateLast Updated ByConfig File')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='R137674426230792379_column_name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R137674426230792379_column_name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5c12feb7-a7ff-40e7-9295-6087fafd5730</webElementGuid>
+      <webElementGuid>14b60562-10e9-4834-b20a-2141092221f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>R137674426230792379_column_name</value>
-      <webElementGuid>f31d0120-afbc-464d-bced-7abf52e1d0b5</webElementGuid>
+      <webElementGuid>eae7d950-0f10-4bc7-8a18-e85fb6665146</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Column</value>
-      <webElementGuid>d4369aee-4dc9-48ed-b225-88820b8a0ab0</webElementGuid>
+      <webElementGuid>72a775a0-8284-4263-aaba-c5518f2895f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>p_ignore_10</value>
-      <webElementGuid>cf894cff-81c8-4fb7-8748-308922100dc2</webElementGuid>
+      <webElementGuid>55ec64ab-13ca-48de-a437-312ac76fafd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>f19829b7-298e-4770-ade4-897317b8975b</webElementGuid>
+      <webElementGuid>f3f1f4f0-57f9-4e52-a26f-02e81068b90b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-item-select</value>
-      <webElementGuid>257ce921-8392-43a2-af7c-35f026d79898</webElementGuid>
+      <webElementGuid>b2d0fef1-3ec6-45a1-b48d-a28279fd49a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Object SetDescriptionStart DateEnd DateApplication TypeCreation DateCreated ByLast Update DateLast Updated ByConfig File</value>
-      <webElementGuid>3205e549-7d1d-4ba1-8240-59c612394055</webElementGuid>
+      <webElementGuid>bee3031d-e316-47c9-bb24-85a7aab8941d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R137674426230792379_column_name&quot;)</value>
-      <webElementGuid>1b38dd41-8355-42b7-9065-8500a3481a19</webElementGuid>
+      <webElementGuid>f1fdde06-7228-4426-93b7-0a0ff411ba98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='R137674426230792379_column_name']</value>
-      <webElementGuid>df7960be-9e02-4abf-9099-4b9ba8fc61cf</webElementGuid>
+      <webElementGuid>47ee3102-7968-4dbe-b485-6601442f3e18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R137674426230792379_column_filter']/div/div/div/div[2]/select</value>
-      <webElementGuid>b5b69321-5cb3-4307-918b-6fbb95ed5c1b</webElementGuid>
+      <webElementGuid>b8196c03-7733-4e0a-87a4-a0ef3b485ac9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>e7e00432-f5cf-479c-92de-2f5cf7b263f7</webElementGuid>
+      <webElementGuid>50692358-ff0e-4f8c-8251-067853def59d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'R137674426230792379_column_name' and @title = 'Column' and @name = 'p_ignore_10' and (text() = 'Object SetDescriptionStart DateEnd DateApplication TypeCreation DateCreated ByLast Update DateLast Updated ByConfig File' or . = 'Object SetDescriptionStart DateEnd DateApplication TypeCreation DateCreated ByLast Update DateLast Updated ByConfig File')]</value>
-      <webElementGuid>054329f3-da3a-4976-86de-a8fb38a6f39d</webElementGuid>
+      <webElementGuid>d5c62556-dcd8-4a51-b981-8c8e04e9c748</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

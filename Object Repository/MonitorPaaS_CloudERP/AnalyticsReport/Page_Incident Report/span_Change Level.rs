@@ -6,8 +6,12 @@
    <elementGuidId>c5e8b133-a637-439a-9011-0041bef368a8</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Change Level' or . = 'Change Level')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//li[@id='R176258973591708826_tab']/a/span</value>
+         <value>//span[(text() = 'Change Level' or . = 'Change Level')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fdf4df37-9dde-4985-8203-b1d92cb6e5aa</webElementGuid>
+      <webElementGuid>fd525b6e-38ce-4c83-9b0d-a3e92bcccb6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Change Level</value>
-      <webElementGuid>e051cdaa-e99b-4224-a024-adf72dcf1602</webElementGuid>
+      <webElementGuid>988078aa-eeb4-451e-86c6-07bbe6778226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R176258973591708826_tab&quot;)/a[1]/span[1]</value>
-      <webElementGuid>db31f917-4e64-4ad2-84b9-defde8db7a3a</webElementGuid>
+      <webElementGuid>55b8faac-a214-4083-a109-196f6b44a45c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='R176258973591708826_tab']/a/span</value>
-      <webElementGuid>006c0021-3100-4c0e-a44c-43e2f0aa8547</webElementGuid>
+      <webElementGuid>964af87b-aff9-4676-a2e4-e2d7c2330a21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/span</value>
-      <webElementGuid>5c4081a7-930b-4015-9cef-4643825b33eb</webElementGuid>
+      <webElementGuid>44c439e0-2023-46d5-8d1f-fc6cd0657382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +66,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Change Level' or . = 'Change Level')]</value>
-      <webElementGuid>c9b94f2e-a8a3-49ce-90d2-dceefec5b51a</webElementGuid>
+      <webElementGuid>af0eb3ec-ae68-492d-942f-f3f1fa1dff00</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

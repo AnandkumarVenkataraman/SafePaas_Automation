@@ -6,12 +6,16 @@
    <elementGuidId>94909fe4-a4d7-46ab-8222-dc7543f7f2b5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#C173384361451224623_HDR</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Key' or . = 'Key')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='C173384361451224623_HDR']</value>
+         <value>//*[(text() = 'Key' or . = 'Key')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C173384361451224623_HDR</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e8c99aff-ca8f-45cf-8a81-de671e7c3d5c</webElementGuid>
+      <webElementGuid>704a8f14-d6cb-49b5-bc4b-454d84ad9e1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>5089e9bc-016c-4589-ba67-8562aa0a2775</webElementGuid>
+      <webElementGuid>4fc13ef4-96ab-42e0-b28c-f9d199a0176a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>C173384361451224623_HDR</value>
-      <webElementGuid>6f89471a-b41a-4ec8-81d3-98a0855c91c3</webElementGuid>
+      <webElementGuid>a4d60320-cd7e-4b09-8177-4b2795785fcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Key</value>
-      <webElementGuid>16f90d3a-3d2b-47ea-a354-2901769008d4</webElementGuid>
+      <webElementGuid>1d755a1b-8fe2-4733-8bc1-ad50b7a78079</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C173384361451224623_HDR&quot;)</value>
-      <webElementGuid>9ec6b18d-5bba-4559-b49e-e5285e9d684d</webElementGuid>
+      <webElementGuid>d02ed5c7-d3e8-46aa-bc67-e8b6c911e931</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='C173384361451224623_HDR']</value>
-      <webElementGuid>85eb7695-77fa-4f17-bfdb-cd734d3a79e1</webElementGuid>
+      <webElementGuid>28043369-42b4-40d9-af6a-45b128679a16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='oItemsCloudSqlIg_ig_grid_vc_cur']/span</value>
-      <webElementGuid>95cbf291-6139-4207-8d94-5e92f9c9ab22</webElementGuid>
+      <webElementGuid>38898942-aec1-4014-91ef-5913129b79ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[9]/span</value>
-      <webElementGuid>a1d68714-641b-4968-8a23-5c0a5eb990be</webElementGuid>
+      <webElementGuid>06cb4071-bc53-4608-9bd9-6ae724b991c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'C173384361451224623_HDR' and (text() = 'Key' or . = 'Key')]</value>
-      <webElementGuid>8431dff3-2264-4171-8490-11e04c3464b5</webElementGuid>
+      <webElementGuid>b560be5c-d23d-4051-8ad3-60da12c2dba6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

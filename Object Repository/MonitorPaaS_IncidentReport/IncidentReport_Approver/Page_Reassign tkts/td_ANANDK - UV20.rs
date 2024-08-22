@@ -6,15 +6,19 @@
    <elementGuidId>71efee6a-e8a2-4869-854b-2ccd83477a61</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'agv_1_cur' and (text() = 'MARIAB' or . = 'MARIAB')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>/html/body/div[4]/div[2]/div[3]/div[2]/div[4]/table/tbody/tr[1]/td[1]/span</value>
+         <value>//td[@id = 'agv_1_cur' and (text() = 'MARIAB' or . = 'MARIAB')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#agv_1_cur</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>4d653720-a6d4-4816-99ff-164e317046d5</webElementGuid>
+      <webElementGuid>89d98a4c-b3fc-4676-9724-431e6c4e80a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>57a9e58d-4b21-4de6-ab7b-3ddfd5f63595</webElementGuid>
+      <webElementGuid>fa5e69b2-720d-443a-9757-a9d72e83e9e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7b808b37-ac91-4cbe-9d83-65f982e993a8</webElementGuid>
+      <webElementGuid>a97284f7-0852-4ca7-98cc-3c991acd9eb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tS a-GV-rowHeader is-focused</value>
-      <webElementGuid>78d0e857-570b-40e7-848c-46a181995d8c</webElementGuid>
+      <webElementGuid>5830cd76-43e6-42a6-a3de-64e49da9b24d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>agv_1_ctx agv_1_cur</value>
-      <webElementGuid>22bd352f-bfd9-4e73-be9b-f405ddd20305</webElementGuid>
+      <webElementGuid>c96d5a56-2465-4555-8cd6-b5b44fb26b2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +66,15 @@
       <name>id</name>
       <type>Main</type>
       <value>agv_1_cur</value>
-      <webElementGuid>144d657d-7b29-4cd6-af8c-ced681411dfd</webElementGuid>
+      <webElementGuid>cd484431-bc6e-4937-b1c4-ba0d02700aa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>ANANDK</value>
-      <webElementGuid>6a8b21e1-a4f7-4cff-bda2-41e54698e59a</webElementGuid>
+      <value>MARIAB</value>
+      <webElementGuid>47aeb8b8-7bfd-45cc-92a0-f48dba37f4bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;agv_1_cur&quot;)</value>
-      <webElementGuid>cbfb3103-158d-4572-a55b-fd2252eaa221</webElementGuid>
+      <webElementGuid>445326c2-a2f7-486b-8568-a1420732b3b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='agv_1_cur']</value>
-      <webElementGuid>ed48defa-35e9-4fec-a156-59f312cb1563</webElementGuid>
+      <webElementGuid>463d42cf-4134-4f4e-a726-4c935a663edd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PopupLov_92_P92_REQUESTOR_dlg']/div[3]/div[2]/div[4]/table/tbody/tr/td</value>
-      <webElementGuid>1a89edda-7aad-4e43-891f-0777a58101b4</webElementGuid>
+      <webElementGuid>b724edbb-4a8b-4d73-9c74-d3d44661906c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/table/tbody/tr/td</value>
-      <webElementGuid>71d648a1-51c8-454d-a080-6511c34c4995</webElementGuid>
+      <webElementGuid>4c4bd0fe-d06e-4334-876f-215cd037e359</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[@id = 'agv_1_cur' and (text() = 'ANANDK' or . = 'ANANDK')]</value>
-      <webElementGuid>e640cb04-0049-48cd-88f8-09196f20f715</webElementGuid>
+      <webElementGuid>b362fd26-88c2-4528-b7ab-17369dff670b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

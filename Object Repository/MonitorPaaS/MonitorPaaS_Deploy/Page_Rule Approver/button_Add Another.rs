@@ -10,8 +10,12 @@
          <value>#B28091219243483670</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Add Another' or . = 'Add Another')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'B28091219243483670' and (text() = 'Add Another' or . = 'Add Another')]</value>
+         <value>//button[@type = 'button' and (text() = 'Add Another' or . = 'Add Another')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c4413c43-70bb-4f72-974d-63505846807d</webElementGuid>
+      <webElementGuid>f355ead7-0285-4071-b553-38b9f278187e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'INSERT',validate:true});</value>
-      <webElementGuid>d2489216-3da7-4e1e-a282-40f5b282692e</webElementGuid>
+      <webElementGuid>dc9ddef4-88cc-4e15-bef9-de5e34205e43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>33ae14b3-fdac-4521-a7fd-bee4300908ee</webElementGuid>
+      <webElementGuid>cb1b81aa-36d7-454d-8105-953915e9a8ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +50,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b486c9b3-1808-450c-8b99-8a0c36e39205</webElementGuid>
+      <webElementGuid>2bf32a76-0ffb-40e0-ac20-e9a6108feadb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>B28091219243483670</value>
-      <webElementGuid>9cb4bc88-3422-42b3-a78d-643d82bba9ec</webElementGuid>
+      <webElementGuid>50582836-865c-4312-a05b-a809ce696b12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Another</value>
-      <webElementGuid>f7cb3afc-3566-4a2c-aa1d-a309dfa7aa93</webElementGuid>
+      <webElementGuid>cb5d0e7b-1218-4884-88cc-02fa229c7c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B28091219243483670&quot;)</value>
-      <webElementGuid>a2be1cbf-b666-4e64-a4c6-d807db0cf0c8</webElementGuid>
+      <webElementGuid>cad6e551-4aa8-4753-b981-53f94b960d2a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B28091219243483670']</value>
-      <webElementGuid>bebd9597-0c0d-46b4-b5c8-96bc7f029315</webElementGuid>
+      <webElementGuid>0a1f243f-6d3c-488b-a0d9-c7dfd65381ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R28066703361006392']/div/div[2]/button[2]</value>
-      <webElementGuid>6d6d4f2b-beba-4fa6-a1c4-6e2d16f58aff</webElementGuid>
+      <webElementGuid>8bbcce39-fc6a-4bda-b698-2d2682f651ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>9047665c-9aef-4a31-80bb-3d0fb9b6c4fc</webElementGuid>
+      <webElementGuid>3a98a729-d8c0-41fd-8d17-3a24514dbe36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B28091219243483670' and (text() = 'Add Another' or . = 'Add Another')]</value>
-      <webElementGuid>df6fc0d7-ef5a-47d8-b9e4-e467d744cda1</webElementGuid>
+      <webElementGuid>95d3e527-b792-4c46-bb9a-d9c1986b4f81</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

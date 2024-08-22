@@ -6,11 +6,11 @@
    <elementGuidId>8a3efba8-0a15-456a-b3c1-0de5d04bb612</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'AR Approval Limits')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>98c55667-956c-40d2-bd2c-3e0792cac5e0</webElementGuid>
+      <webElementGuid>ce06a127-1c7d-4df4-bab6-d0bd2bca237a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1110:21:5596352931597:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320477,320477,AR%20Approval%20Limits</value>
-      <webElementGuid>37c244c2-05b1-4c12-9d98-18008771f95d</webElementGuid>
+      <webElementGuid>ccd31b4b-0ceb-4cad-9fd6-3853d11f07ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AR Approval Limits</value>
-      <webElementGuid>7a50016c-6a94-4846-8f23-021899660edc</webElementGuid>
+      <webElementGuid>fa4a82bb-9361-4ef3-9fd8-b5e47e508e9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;136025645279714537_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>10d0e86a-35c1-4c2a-bb81-c0815caafe3e</webElementGuid>
+      <webElementGuid>28a21b5f-23a2-46e6-97d7-2c3ffdc6559a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='136025645279714537_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>f8134440-09bf-4325-9e12-a01e98373db8</webElementGuid>
+      <webElementGuid>9d3e9978-aedc-47f2-97d7-689a5d33d08d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'AR Approval Limits')]</value>
-      <webElementGuid>84b8916d-2fff-4e93-9888-67909dd56639</webElementGuid>
+      <webElementGuid>bcf5c237-33af-41ba-a0f5-db0c8b663186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1110:21:5596352931597:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320477,320477,AR%20Approval%20Limits')]</value>
-      <webElementGuid>95bce58e-706c-4c5c-a26f-17e46722da4e</webElementGuid>
+      <webElementGuid>ea5a85ce-3eb5-421b-b292-5d67a0d90ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>83b00d0b-9256-424b-a284-c5e5f8aa06b7</webElementGuid>
+      <webElementGuid>4b3ba94c-9224-4aa4-9456-7ea20de6e4d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1110:21:5596352931597:::RP:P21_MONITOR_ID,P21_MONITOR_REV_ID,P0_MONITOR:320477,320477,AR%20Approval%20Limits' and (text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
-      <webElementGuid>5bd5ad75-64c0-4ebe-b91d-790e5398bc36</webElementGuid>
+      <webElementGuid>efa457e8-5610-412d-a5e0-5758d4cb9b9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,16 @@
    <elementGuidId>ae40d2b5-6d7f-4cfe-9fa2-d64a5a46b097</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#CLOUD_TAB_ID_HDR</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Table Name' or . = 'Table Name')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='CLOUD_TAB_ID_HDR']</value>
+         <value>//*[(text() = 'Table Name' or . = 'Table Name')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CLOUD_TAB_ID_HDR</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f529c48e-d28b-4221-8fd4-943033deb59f</webElementGuid>
+      <webElementGuid>d8edaea6-7d7b-424b-b2b1-d4cf0c09bf8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>ba72411d-0e1c-4812-a5d3-b7ed6a16531e</webElementGuid>
+      <webElementGuid>af9beca7-b111-4f00-b4f7-18c7c9c639ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>CLOUD_TAB_ID_HDR</value>
-      <webElementGuid>6bf054b7-acb8-443c-9414-9b17ce6845de</webElementGuid>
+      <webElementGuid>04b83df6-a713-434c-9609-8777deb4136e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Table Name</value>
-      <webElementGuid>e72d1e13-01d4-4856-94b6-b47a0e8c76d1</webElementGuid>
+      <webElementGuid>fadccf73-0de1-4f58-9e8d-3dd0364f6ca8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;CLOUD_TAB_ID_HDR&quot;)</value>
-      <webElementGuid>ebc0a683-508d-40bb-951e-c0496db2c1cc</webElementGuid>
+      <webElementGuid>441ae23b-a096-429f-8e00-61278308f2f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='CLOUD_TAB_ID_HDR']</value>
-      <webElementGuid>a3069f73-96ee-4a4e-a3e9-4b6f15e41dfd</webElementGuid>
+      <webElementGuid>012a4382-ace3-4964-a5da-80077a408cd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='oItemsCloudSqlIg_ig_grid_vc_cur']/span</value>
-      <webElementGuid>661172fe-f3d7-4721-9bf4-054c395a1be3</webElementGuid>
+      <webElementGuid>4bce4018-3257-4c8e-bf67-8241968e7a0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[4]/span</value>
-      <webElementGuid>c1fa259a-d1f2-4fe9-bf2d-068553674b27</webElementGuid>
+      <webElementGuid>ff4510dc-32a0-4121-874c-987baa1a166d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'CLOUD_TAB_ID_HDR' and (text() = 'Table Name' or . = 'Table Name')]</value>
-      <webElementGuid>99255a5b-403c-431b-9e19-f839537d198d</webElementGuid>
+      <webElementGuid>8d6e9617-02fc-4ff4-a09c-cb8129207e30</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

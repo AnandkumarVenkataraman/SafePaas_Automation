@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[4]/div[2]/div[1]/input</value>
+         <value>//textarea[@name = 'P92_COMMENTS' and @id = 'P92_COMMENTS']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>e1544c73-d385-44ec-8e29-63a67303b28c</webElementGuid>
+      <webElementGuid>d7b018f7-62b7-40cc-ae65-b4936791f502</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P92_COMMENTS</value>
-      <webElementGuid>e0379f83-7a97-40ce-83c7-e69eef7f8a00</webElementGuid>
+      <webElementGuid>59902571-14dd-4b45-b19c-9ec03f484afd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>e8944dc8-af10-42d7-90f6-f43c80a79dc1</webElementGuid>
+      <webElementGuid>c1e02d26-7f22-49aa-8686-55a01a44f207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>cols</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>0cf3fad9-cb09-4dfc-b7fb-0c5c77c1cedd</webElementGuid>
+      <webElementGuid>6831e6f9-a8a9-49d3-b9fb-0612fd4e5233</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P92_COMMENTS</value>
-      <webElementGuid>7ca11477-657d-422a-8bce-2719b1bc4005</webElementGuid>
+      <webElementGuid>e73a315f-4215-48b4-a0f2-4859e384fee8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textarea apex-item-textarea</value>
-      <webElementGuid>59f858a7-56b4-42d2-a33c-effc7d713bde</webElementGuid>
+      <webElementGuid>de767b9c-0341-4c67-95bc-a7af28a3cf3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-resizable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b0375d54-2efc-4781-a280-6decf78e8a1f</webElementGuid>
+      <webElementGuid>25d1d8d9-60ca-4fce-8d3b-bef43eb97aa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P92_COMMENTS&quot;)</value>
-      <webElementGuid>07417848-c6fb-4522-bde5-0477a60234f5</webElementGuid>
+      <webElementGuid>ee585495-4a4e-47fd-b288-5a86e241e85b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='P92_COMMENTS']</value>
-      <webElementGuid>599bbd3a-dc8d-4e3a-8d50-499a0cf0fb0c</webElementGuid>
+      <webElementGuid>7d8dc4cd-d807-4455-a016-bba11e575c5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P92_COMMENTS_CONTAINER']/div[2]/div/div/textarea</value>
-      <webElementGuid>db8bbf8d-1368-4a96-8114-26dc729d7312</webElementGuid>
+      <webElementGuid>d889e4d5-4f76-4bb1-8d0b-416d0d8089af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>dac8ea3f-ba3a-4b82-992d-3b8143ef9142</webElementGuid>
+      <webElementGuid>e945eb80-dc16-47de-a3fd-34d0d61a3203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'P92_COMMENTS' and @id = 'P92_COMMENTS']</value>
-      <webElementGuid>8a2df9e5-e892-4c58-aeeb-09988579272b</webElementGuid>
+      <webElementGuid>7e2f0eb7-a824-4728-89a4-45f0536d497c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

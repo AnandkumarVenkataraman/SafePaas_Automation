@@ -6,12 +6,16 @@
    <elementGuidId>8e07b5fe-9e99-48f4-a362-9e852301e965</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.apex-edit-pencil</value>
+         <key>BASIC</key>
+         <value>//*[@src = '/i/app_ui/img/icons/apex-edit-pencil.png']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='301859509226507222_orig']/tbody/tr[2]/td/a/img</value>
+         <value>//table[@src = '/i/app_ui/img/icons/apex-edit-pencil.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.apex-edit-pencil</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a778fd42-6ef9-4580-8497-4dcd45f3985e</webElementGuid>
+      <webElementGuid>39c04f33-0c9a-4e4d-aa8b-7bb935ee2c9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/i/app_ui/img/icons/apex-edit-pencil.png</value>
-      <webElementGuid>e6227fcc-3b66-4fdf-9bcf-c663b42d0487</webElementGuid>
+      <webElementGuid>408f43e7-253d-4f56-80d6-ae3809679724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-edit-pencil</value>
-      <webElementGuid>9ca33f4e-c3e7-4234-a27d-2eb85cc444bc</webElementGuid>
+      <webElementGuid>0d0d1a2b-7527-4793-83f0-bf3e14464e63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;301859509226507222_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;a-IRR-linkCol u-tC&quot;]/a[@class=&quot;a-IRR-detail-row&quot;]/img[@class=&quot;apex-edit-pencil&quot;]</value>
-      <webElementGuid>7ca04842-b96c-4b31-8614-b5c54a4b73dd</webElementGuid>
+      <webElementGuid>da170865-d854-4063-9650-b349c2825dd3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='301859509226507222_orig']/tbody/tr[2]/td/a/img</value>
-      <webElementGuid>b18d91d4-b9f5-40d3-9da4-e450d7680ad7</webElementGuid>
+      <webElementGuid>e13a7b94-f3fd-4adb-938b-1f8ab43733ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/img</value>
-      <webElementGuid>199b91d6-c5ef-4fa4-852f-881fec4ead6b</webElementGuid>
+      <webElementGuid>2f367617-d345-482a-91e7-f73ee6275f80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/i/app_ui/img/icons/apex-edit-pencil.png']</value>
-      <webElementGuid>a178b7d4-42f5-4a7f-b528-3af3f3dfa698</webElementGuid>
+      <webElementGuid>a108a3e1-fd01-4994-95cb-6e860153fa59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

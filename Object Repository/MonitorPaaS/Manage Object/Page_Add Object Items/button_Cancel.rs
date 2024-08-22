@@ -10,8 +10,12 @@
          <value>#B133753403966118525</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//button[@id='B133753403966118525']</value>
+         <value>//*[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9b9a06ce-9f9e-42dc-a6a6-3b788ccb9c0c</webElementGuid>
+      <webElementGuid>3b3785e2-ca92-4271-8c0c-e8cd54734560</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button js-ignoreChange</value>
-      <webElementGuid>1ca4dcb8-bf37-409f-af1b-fa8704c806ef</webElementGuid>
+      <webElementGuid>800a4ed5-aa9a-4c93-be6a-5a269fe29578</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +42,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>810bba0e-ca38-4599-98d7-848b87abe2cd</webElementGuid>
+      <webElementGuid>b30fa12f-d14a-42c8-90fe-63db38bb20b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>B133753403966118525</value>
-      <webElementGuid>1acaaf50-7f92-4e45-8539-16368ad71eee</webElementGuid>
+      <webElementGuid>6c9e21c9-de4e-4d5a-b40c-b75fb898007a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancel</value>
-      <webElementGuid>035ebeb5-e810-4d09-a1f8-116de822fe8c</webElementGuid>
+      <webElementGuid>8afa327c-6532-471c-afd2-f21fdb38e662</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B133753403966118525&quot;)</value>
-      <webElementGuid>7fbb3664-5494-4963-9ce1-9e0cf3091679</webElementGuid>
+      <webElementGuid>57606890-a19a-4ff7-ae7e-49c2cd805dd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B133753403966118525']</value>
-      <webElementGuid>3a178d0d-005a-49d0-909f-7f5651b46471</webElementGuid>
+      <webElementGuid>db6af10f-eec9-4b05-891d-2e1558232db1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R138344722261060407']/div/div[2]/button</value>
-      <webElementGuid>37de1127-cc70-4cc8-88e2-7d9a449af655</webElementGuid>
+      <webElementGuid>5dba52af-2f0d-448c-9aa9-80614a62dc86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>81d5862f-31f4-41a9-88df-18ce55139385</webElementGuid>
+      <webElementGuid>d47143c4-0383-4fa0-afd7-598c4b7b8390</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B133753403966118525' and (text() = 'Cancel' or . = 'Cancel')]</value>
-      <webElementGuid>6dbe7063-5648-415a-8e8b-dfaec0709a34</webElementGuid>
+      <webElementGuid>39cef342-3f14-4b0c-8ec8-fa99f5540de1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
