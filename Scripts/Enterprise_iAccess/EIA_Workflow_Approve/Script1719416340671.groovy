@@ -205,7 +205,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/spa
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_Request Status'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/td_TIME_AND_LABOR_MANAGER_VIEWALL_DATA'))
 

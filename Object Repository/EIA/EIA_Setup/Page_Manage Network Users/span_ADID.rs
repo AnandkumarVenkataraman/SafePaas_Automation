@@ -10,8 +10,12 @@
          <value>#EMPLOYEE_ID_HDR</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'ADID' or . = 'ADID')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//span[@id='EMPLOYEE_ID_HDR']</value>
+         <value>//span[@id = 'EMPLOYEE_ID_HDR' and (text() = 'ADID' or . = 'ADID')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b2ba2791-3de6-4bfd-b9c9-38c96d6e7e40</webElementGuid>
+      <webElementGuid>b2853c94-cc41-4512-9a46-8c2c375afd0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>f45f0dd9-db82-4d83-ada5-ddf3bcd9b1d0</webElementGuid>
+      <webElementGuid>4fdb4c92-b6e3-4984-9b7e-bcc22b5e9677</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>EMPLOYEE_ID_HDR</value>
-      <webElementGuid>fdfc3d23-fdc6-4237-9e34-36deae471151</webElementGuid>
+      <webElementGuid>aff617ba-15b2-4ba7-b38b-312710e57457</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ADID</value>
-      <webElementGuid>5040e521-0f2a-43cf-bc19-d70b5b94b3e1</webElementGuid>
+      <webElementGuid>f94690f9-86c4-4169-bc08-69c76a84ad4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;EMPLOYEE_ID_HDR&quot;)</value>
-      <webElementGuid>b73dbbfc-c4b2-4ae9-955d-d9712378e6f2</webElementGuid>
+      <webElementGuid>0116e290-e336-476c-8588-d57959312979</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='EMPLOYEE_ID_HDR']</value>
-      <webElementGuid>2099a9a9-912e-45d0-838d-19f031f5e8ed</webElementGuid>
+      <webElementGuid>acaa5656-4ebe-4ce7-bc3f-db2466020da4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='usersIg_ig_grid_vc_cur']/span</value>
-      <webElementGuid>86c5c0da-b2e4-4852-8f88-c32874392551</webElementGuid>
+      <webElementGuid>c3736929-7509-478b-ae9e-79ebffcb92c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[7]/span</value>
-      <webElementGuid>92c3a2e0-d7ea-4f0a-b17d-5cd4b921457f</webElementGuid>
+      <webElementGuid>12fd09aa-d827-4f0e-b290-4738a754d8ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'EMPLOYEE_ID_HDR' and (text() = 'ADID' or . = 'ADID')]</value>
-      <webElementGuid>f8c955a2-8cb4-4699-a768-c51e669257e3</webElementGuid>
+      <webElementGuid>2dbd6d67-3923-429b-8268-f8e4f7525845</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

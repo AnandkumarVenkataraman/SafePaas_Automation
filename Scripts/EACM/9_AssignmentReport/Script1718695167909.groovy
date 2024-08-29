@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_AssignmentReport/Page_Ho
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_AssignmentReport/Page_Assignment Report/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_AssignmentReport/Page_Assignment Report/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.takeFullPageScreenshot()
 

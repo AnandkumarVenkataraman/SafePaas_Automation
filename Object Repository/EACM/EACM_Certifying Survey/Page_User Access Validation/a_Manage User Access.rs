@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R564024223148478705']/div/div/ul/li[4]/a</value>
+         <value>(//a[contains(text(),'Manage User Access')])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>42eefdb2-05ad-4de0-a750-0dfc72d08276</webElementGuid>
+      <webElementGuid>66ae9f87-a9f0-4565-b4a8-311132769bb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1400:11:2317465564636:::::</value>
-      <webElementGuid>c56b7e8c-38da-4060-9d85-c3f993c6e261</webElementGuid>
+      <webElementGuid>727cd683-b73b-4bd0-8461-1c03089402b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Breadcrumb-label</value>
-      <webElementGuid>7b115ada-af78-410c-90c8-3970d496e931</webElementGuid>
+      <webElementGuid>be664555-8038-4f96-b755-8431d791af4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage User Access</value>
-      <webElementGuid>c4acce6e-c5c6-4943-aa81-a3e1bb6b869f</webElementGuid>
+      <webElementGuid>d844883a-6149-449d-b32e-95daf4e22fe3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R564024223148478705&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
-      <webElementGuid>5565f12f-598c-4365-844f-7ec00d38d244</webElementGuid>
+      <webElementGuid>76459725-65fb-40b2-bcc1-37ce3193694f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R564024223148478705']/div/div/ul/li[4]/a</value>
-      <webElementGuid>30c2c25b-5159-42e1-aa61-6c7dd477fc64</webElementGuid>
+      <webElementGuid>b8c19034-fcae-4308-b5d3-14e0c969a3db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Manage User Access')])[2]</value>
-      <webElementGuid>371cb9a0-e6ed-4235-981e-50d3d5d79c31</webElementGuid>
+      <webElementGuid>417cba49-92fc-4b89-8bf7-0f20a3996d77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1400:11:2317465564636:::::')]</value>
-      <webElementGuid>1ced6fc8-8ad8-4c98-9974-f0f6b9abefbf</webElementGuid>
+      <webElementGuid>236a8297-4859-4a3b-a41a-dd2abe129c45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>3dd4f475-424e-4dd7-9028-4adf0952334d</webElementGuid>
+      <webElementGuid>ceb25629-5fbb-4fd1-bd11-381affd7e968</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1400:11:2317465564636:::::' and (text() = 'Manage User Access' or . = 'Manage User Access')]</value>
-      <webElementGuid>dceb0689-b3f6-42b7-80dd-7cdf5a84d105</webElementGuid>
+      <webElementGuid>c8c3d805-ca04-41e2-a59c-d95d3ec330c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

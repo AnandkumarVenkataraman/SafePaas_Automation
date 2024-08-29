@@ -6,12 +6,16 @@
    <elementGuidId>556fbeac-cc0a-46ca-b2b4-6ada5ab67062</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;usersIg_ig_FD_VALUE-menu_0_c0i&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#usersIg_ig_FD_VALUE-menu_0_c1i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Yes' or . = 'Yes')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@type = 'button' and (text() = 'Yes' or . = 'Yes')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e288ae45-5c69-4aa0-bcad-c7e23d2ef069</webElementGuid>
+      <webElementGuid>baa769bc-7dcb-4a1a-951a-7b0f2626f356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +34,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>64d7aa7e-2293-42aa-9f9d-dede1aab5ea7</webElementGuid>
+      <webElementGuid>2db7ea4c-16f2-4723-ab25-0e2a91fbe70a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>usersIg_ig_FD_VALUE-menu_0_c1i</value>
-      <webElementGuid>af8a2c1f-6c3b-49d1-b468-3a0ddedbbb68</webElementGuid>
+      <webElementGuid>2fc2289b-e2cc-4b22-b011-5ff986ca473c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitemradio</value>
-      <webElementGuid>1850453b-800a-4d1a-9be0-43d35dcaf6b8</webElementGuid>
+      <webElementGuid>b06089e2-1e2c-4423-a678-2ca72dd0f464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>16e43730-1710-4d9a-b89f-d3da136f1715</webElementGuid>
+      <webElementGuid>5bf1c62d-4995-4a51-bef5-78e333a75009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Yes</value>
-      <webElementGuid>fce2bd57-5c7b-4a21-b4f4-cba22d8c6fef</webElementGuid>
+      <webElementGuid>702182e8-2b41-4620-9992-49454d56659d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;usersIg_ig_FD_VALUE-menu_0_c1i&quot;)</value>
-      <webElementGuid>1eeb2124-b3dc-4d8a-a5f4-95a71bd0df69</webElementGuid>
+      <webElementGuid>02b85a3f-6cad-41f8-bc93-3c6717499fed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='usersIg_ig_FD_VALUE-menu_0_c1i']</value>
-      <webElementGuid>27a358a3-022e-416f-a77f-0b0f07aacbc1</webElementGuid>
+      <webElementGuid>36c02e54-f086-4486-868d-3ebc6783f393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='usersIg_ig_FD_VALUE-menu_0_c1']/div/span/button</value>
-      <webElementGuid>0cc41130-f0b6-4948-bae1-f4922d71df3d</webElementGuid>
+      <webElementGuid>4f48e0c7-b2a5-4209-9d7c-5f2bb7d01547</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[19]/div/ul/li[2]/div/span/button</value>
-      <webElementGuid>43a0e2cc-6ef1-4b09-9b01-bf7cd6902304</webElementGuid>
+      <webElementGuid>783a60ed-96e6-497d-9743-37b864615500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'usersIg_ig_FD_VALUE-menu_0_c1i' and (text() = 'Yes' or . = 'Yes')]</value>
-      <webElementGuid>c1e0a88c-74e7-460a-b9a4-1f6b9ad14767</webElementGuid>
+      <webElementGuid>64be2be0-69e6-40bd-b52d-3a6fc59fa27c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

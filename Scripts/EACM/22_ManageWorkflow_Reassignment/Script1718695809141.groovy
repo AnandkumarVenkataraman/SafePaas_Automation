@@ -56,7 +56,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_WorkflowR
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_8d6cb3 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_8d6cb3 (1)'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/button_Actions (1)'))
 
@@ -114,7 +114,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/EACM_WorkflowR
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/select_- Please select any -ANANDK1MARIAB1'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/select_- Please select any -ANANDK1MARIAB1'), 
-    'MARIAB', true)
+    'DPATEL', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_WorkflowReassignment/Page_Manage Workflow/buttonP35_NEW_APPROVER_lov_btn (1)'))
 
@@ -353,7 +353,7 @@ WebUI.verifyElementText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access
     '')
 
 WebUI.setText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 -U120'), 
-    'Testt Justification')
+    'Test Justification')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Save Changes (1)'))
 
@@ -473,54 +473,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba1/EACM_ManageUser a
 
 WebUI.click(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/button_Login (1) (2)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/a_TestSurvey_7008'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/a_TestSurvey_7008'))
-
-WebUI.delay(15)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Confirm Changes (1)'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification Survey/button_Confirm Changes (1)'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/h2_User Access Certification has been Completed (1)'), 
-    FailureHandling.OPTIONAL)
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/a_My Certifications (1)'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/a_My Certifications (1)'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/button_OK (1)'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_User Access Certification has been closed/button_OK (1)'))
-
-WebUI.delay(3)
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/buttonANANDK1_336'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/buttonANANDK1_336'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/a_Logout - 338'))
-
-WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/a_Logout - 338'))
-
-WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_COMPANY (1) (2)'), 
-    'KAT')
-
-WebUI.setText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_USERNAME (1) (2)'), 
-    'KATALON_ADMIN')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/input_P101_PASSWORD (1) (2)'), 
-    'Ioqy8emDrxi5mkiNQATzxQ==')
-
-WebUI.click(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Login/button_Login (1) (2)'))
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1)'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/span_a-TreeView-toggle (1)'))
@@ -540,7 +492,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_CertifySurvey/Page_Home/
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_aebd9b'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_aebd9b'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
@@ -593,14 +545,14 @@ WebUI.delay(30)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_User Access Certification Details/select_Select any oneEACM_Feb19_V101EACM_Fe_f24e60'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/EACM_ManageUser and Report/Page_User Access Certification Details/select_Select any oneEACM_Feb19_V101EACM_Fe_f24e60'), 
-    GlobalVariable.EACM_InitiateSurvey_Reassignment, true, FailureHandling.OPTIONAL)
+    GlobalVariable.EACM_InitiateSurvey_Reassignment, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 

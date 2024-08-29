@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='160504461553363437_orig']/tbody/tr[2]/td/a</value>
+         <value>//a[contains(text(),'RoleGroup_AM')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>40f975fe-748c-4f49-a638-2fc449413905</webElementGuid>
+      <webElementGuid>ad622775-99fa-43ca-8219-f1c7a5812b9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1200:50:1974347936367:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:2867,RoleGroup_AM</value>
-      <webElementGuid>4bf26d00-6519-430b-9888-156fed6aa9ef</webElementGuid>
+      <webElementGuid>379c5318-eb66-4baa-aee9-1fda0384635f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>RoleGroup_AM</value>
-      <webElementGuid>af62ba0b-5c5e-49fb-a08e-9b9018b326bf</webElementGuid>
+      <webElementGuid>75c86dc8-303d-4953-a7a2-a610a6f7cd2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;160504461553363437_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]</value>
-      <webElementGuid>5bf28b14-895a-4e18-aafb-fbb6414f9edf</webElementGuid>
+      <webElementGuid>cc1a99d0-d47e-45e8-a527-b148610ad48f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='160504461553363437_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>1222cf36-93d5-40fd-90aa-78a8ae375eae</webElementGuid>
+      <webElementGuid>3fd8256d-ba60-48bb-a413-a320d30b2ff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'RoleGroup_AM')]</value>
-      <webElementGuid>fb5252f5-3257-4632-8284-efc67fee2e3d</webElementGuid>
+      <webElementGuid>d53c73d1-8f41-482a-b084-8cee87915ba5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1200:50:1974347936367:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:2867,RoleGroup_AM')]</value>
-      <webElementGuid>690ba4ff-c9fc-4763-a5e3-d99b3ca69fa7</webElementGuid>
+      <webElementGuid>3f0b483a-262e-4fcf-9d89-36806094e134</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>0a9c4232-f1a4-49ea-80ce-44dcd4bc01ad</webElementGuid>
+      <webElementGuid>5611a6bd-5ae1-4fe9-a239-dba608e19ce1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1200:50:1974347936367:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:2867,RoleGroup_AM' and (text() = 'RoleGroup_AM' or . = 'RoleGroup_AM')]</value>
-      <webElementGuid>1866ebfd-e9a2-448c-8008-68794fe9feb4</webElementGuid>
+      <webElementGuid>e9ed6b89-9ed6-4279-8bc5-222e98135564</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

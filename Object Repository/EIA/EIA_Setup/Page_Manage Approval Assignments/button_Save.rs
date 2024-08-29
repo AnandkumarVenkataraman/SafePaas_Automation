@@ -10,8 +10,12 @@
          <value>button.ui-button--hot.ui-button.ui-corner-all.ui-widget</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @class = 'ui-button--hot ui-button ui-corner-all ui-widget' and (text() = 'Save' or . = 'Save')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[125]</value>
+         <value>//*[@type = 'button' and @class = 'ui-button--hot ui-button ui-corner-all ui-widget' and (text() = 'Save' or . = 'Save')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e2032359-d756-4467-b116-0198d2d0db5e</webElementGuid>
+      <webElementGuid>f888dd25-94e0-4713-ba19-40ee6c17fca6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +34,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fad8e245-3b89-4745-97e1-d6b5e917863f</webElementGuid>
+      <webElementGuid>b2b8dca2-9eda-44f8-b87d-3d9f6b0fcc40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>ui-button--hot ui-button ui-corner-all ui-widget</value>
-      <webElementGuid>25e064e8-edce-454d-9f1a-47a1bdd9353d</webElementGuid>
+      <webElementGuid>75ec9397-138f-480e-990c-0d99b15048cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>3ea1fbd8-9a4e-4ede-99e2-00d8561a3bb1</webElementGuid>
+      <webElementGuid>7fd452f1-d27c-4f08-80b1-01f4f537de5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable ui-resizable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;ui-button--hot ui-button ui-corner-all ui-widget&quot;]</value>
-      <webElementGuid>43f4bf2f-d474-467f-ab66-9cbf7eee684e</webElementGuid>
+      <webElementGuid>b93b0f64-1510-4109-bf2b-78e7aea3abcb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[125]</value>
-      <webElementGuid>c341c6bf-1e6c-46ef-a5e3-89a8d6b8a457</webElementGuid>
+      <webElementGuid>942cdb95-071d-4801-a8cb-006651fa9e8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[28]/div[3]/div/button[3]</value>
-      <webElementGuid>46b1ed4c-687e-42b8-bc5d-4840c32d5d99</webElementGuid>
+      <webElementGuid>c91b9776-1c02-45ee-8625-2e15a4dedf78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button[3]</value>
-      <webElementGuid>8536a789-f31a-4a45-be47-fecb1b5bccf5</webElementGuid>
+      <webElementGuid>7deca8e8-4aa2-4452-8064-5e44b89879ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>0d1fac44-8804-4740-8038-fa62b97b5966</webElementGuid>
+      <webElementGuid>c66b1711-0628-4f85-a36c-5e2ac1ae7555</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -47,7 +47,7 @@ WebUI.click(findTestObject('Object Repository/EACM/Unassigned Access Report/Page
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Manage Access Groups/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Manage Access Groups/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2 (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Manage Access Groups/button_Map Roles (1)'))
 
@@ -223,7 +223,7 @@ WebUI.click(findTestObject('Object Repository/EACM/Unassigned Access Report/Page
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_ScopedDescoped Attributes/select_- Select a Value - EBizApp_JDBC_EnvK_76acc0'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_ScopedDescoped Attributes/select_- Select a Value - EBizApp_JDBC_EnvK_76acc0'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_ScopedDescoped Attributes/button_Actions'))
 
@@ -298,7 +298,7 @@ WebUI.click(findTestObject('Object Repository/EACM/Security Context/Analytics/Pa
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/button_Actions'))
 
@@ -360,7 +360,7 @@ WebUI.click(findTestObject('Object Repository/EACM/Security Context/Analytics/Pa
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Manage Access Groups/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Manage Access Groups/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2 (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Manage Access Groups/button_Map Roles (1)'))
 
@@ -516,7 +516,7 @@ WebUI.scrollToPosition(0, 0)
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/select_- Please select any one -RoleGroup_A_0709b4_1'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/select_- Please select any one -RoleGroup_A_0709b4_1'), 
-    'RoleGroup_HCM', true)
+    'RoleGroup_HCM', false)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/input_Role Group_f01'), 
     0)
@@ -549,7 +549,7 @@ WebUI.click(findTestObject('Object Repository/EACM/Security Context/Analytics/Pa
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/button_Actions'))
 
@@ -658,7 +658,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned A
 WebUI.click(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Home/a_Scope Access'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Scope Access/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true)
+    'KTLN_CloudERP', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Scope Access/a_RoleGroup_Other'))
 

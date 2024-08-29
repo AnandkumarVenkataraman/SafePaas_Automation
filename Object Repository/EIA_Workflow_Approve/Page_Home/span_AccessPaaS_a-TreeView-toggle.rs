@@ -6,12 +6,12 @@
    <elementGuidId>3bf93a96-53e9-43e5-ae60-8e59b0b32d04</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li/ul/li/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#t_TreeNav_1 > span.a-TreeView-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Enterprise iAccess']//preceding::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5db0bd45-a18f-461c-a677-7d3cbafe8dc3</webElementGuid>
+      <webElementGuid>ae6b0933-ae55-4fe8-8956-400de2283748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>e5046c3e-4c1c-4753-8184-7e15c6f147cc</webElementGuid>
+      <webElementGuid>10040823-7599-48df-a88d-9b5f826fed01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_1&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>7ede37a6-df9b-4980-86d0-ce154fe4b799</webElementGuid>
+      <webElementGuid>90b693dd-801c-4fe3-bf5a-f95f58f9fef9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li/span</value>
-      <webElementGuid>2a1b4e44-b8f2-4fa3-b760-cb20e2ae579d</webElementGuid>
+      <webElementGuid>168308b5-34ca-4389-8a26-203bcf0650de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_1']/span</value>
-      <webElementGuid>a4f17903-550a-44e1-8e4b-8d398cafb81c</webElementGuid>
+      <webElementGuid>943f4da4-7c22-4e6a-aaac-54bd3848cf58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

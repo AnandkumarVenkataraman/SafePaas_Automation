@@ -10,6 +10,10 @@
          <value>//img[@src = '/i/app_ui/img/icons/apex-edit-pencil.png'][1]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/i/app_ui/img/icons/apex-edit-pencil.png']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>img.apex-edit-pencil</value>
       </entry>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>95c610a9-33f0-473d-aff9-fab19710b663</webElementGuid>
+      <webElementGuid>1e474fdf-2170-4a74-b426-aa36a0382fb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/i/app_ui/img/icons/apex-edit-pencil.png</value>
-      <webElementGuid>9bc841a0-345a-470f-96a2-2e33b1b08daf</webElementGuid>
+      <webElementGuid>cefaaf30-37ca-4777-94c7-e32a6f784a35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-edit-pencil</value>
-      <webElementGuid>b4a1432a-cc3f-4cf9-8550-0fda46fa9d25</webElementGuid>
+      <webElementGuid>c43dd445-99cd-4926-a7c2-9d7fbe7f63f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;report_R158203823986183430&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[1]/td[@class=&quot;t-Report-cell&quot;]/a[1]/img[@class=&quot;apex-edit-pencil&quot;]</value>
-      <webElementGuid>52b50550-bb69-4600-89ad-8d69ffc88aad</webElementGuid>
+      <webElementGuid>5be060fe-3c3a-4163-a5bf-97b21a499480</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/i/app_ui/img/icons/apex-edit-pencil.png']</value>
-      <webElementGuid>1a5221e7-cf5d-42a3-ad37-9bb1e08c002d</webElementGuid>
+      <webElementGuid>2a7be629-342e-41ff-ab1e-d6559dd6978e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/img</value>
-      <webElementGuid>b88b664c-6e8d-4e47-ae8c-2e66a4e7cfaf</webElementGuid>
+      <webElementGuid>4e9816e4-4bd8-47be-adbf-d2b92191d0c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +74,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='report_R158203823986183430']/div/div/table/tbody/tr/td/a/img</value>
-      <webElementGuid>ea7d61f3-c541-4088-b270-a55594bd5ede</webElementGuid>
+      <webElementGuid>0e5e9c41-37c2-49b8-8ddc-ae9db98468ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/div/ul/li[2]/div/span[1]/a</value>
+         <value>//a[contains(text(),'Logout')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>07916469-7aaa-4aae-9af2-983b130d33d2</webElementGuid>
+      <webElementGuid>6b91e714-14e5-462d-a477-2ce421c528af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1000:2:7539167151439:::::</value>
-      <webElementGuid>4603f874-9adf-4ae4-8246-8eef77ac6eaa</webElementGuid>
+      <webElementGuid>0d1ec346-8391-4949-88d2-d2ef16f5147a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>menu_L14205299837764170_1i</value>
-      <webElementGuid>aca5d84b-0dd1-4a8c-ad2b-e676e6c7ebbf</webElementGuid>
+      <webElementGuid>0812a554-3ff2-47da-b75b-9c2f225459db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>b731d486-4cbb-41fe-b8cf-15035b48e3a0</webElementGuid>
+      <webElementGuid>4a1e13a0-6c0d-4e4c-9e36-418cbfb472a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>ef91d216-48b4-4829-b271-37f2aa38ce35</webElementGuid>
+      <webElementGuid>348ec399-a999-4aa1-82ed-c5f97da54780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>c20d220a-62c1-4207-a85e-70d04cccf8a8</webElementGuid>
+      <webElementGuid>4691855d-4769-4ee3-99ff-bf5dcb7e028f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu_L14205299837764170_1i&quot;)</value>
-      <webElementGuid>5c962bd2-9b85-46ae-a922-e2dadd98464e</webElementGuid>
+      <webElementGuid>c003fbca-66d6-49d7-ae55-23f1f522631d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='menu_L14205299837764170_1i']</value>
-      <webElementGuid>a2987940-ad8b-4179-a6ad-13ccaa3cad23</webElementGuid>
+      <webElementGuid>0c511ea5-9278-499d-a170-22e013c0d9f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='menu_L14205299837764170_1']/div/span/a</value>
-      <webElementGuid>62e51b29-ffef-4f4e-9466-0bf54ad1c916</webElementGuid>
+      <webElementGuid>668bcd49-81b0-42c0-88b3-68b66e29fd77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>bb5e342a-008d-405f-bf88-5ec31785c8df</webElementGuid>
+      <webElementGuid>719dd5dc-be78-4828-8c0a-c60809dde390</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1000:2:7539167151439:::::')]</value>
-      <webElementGuid>65af6a3b-a31e-4bc9-81a6-f9635a6ff4e2</webElementGuid>
+      <webElementGuid>e914502a-2c4a-472f-b15e-d6fa48edd57f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/span/a</value>
-      <webElementGuid>19b16e11-1f53-4fec-8b88-84aa52cb28a6</webElementGuid>
+      <webElementGuid>8992af19-e935-4fc4-bd26-ae15e304fb82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1000:2:7539167151439:::::' and @id = 'menu_L14205299837764170_1i' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>89f9845c-2d79-40ad-904e-bb4aa606b3ec</webElementGuid>
+      <webElementGuid>daf2771a-81fd-4171-b0b6-eb7e3d512c48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

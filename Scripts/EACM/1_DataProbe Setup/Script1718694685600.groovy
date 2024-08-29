@@ -154,6 +154,8 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(3)
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Data Source/button_Cancel'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Data Source/button_Cancel'))
@@ -165,12 +167,12 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Man
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Data Source/select_- Select an Environment -CERP_1Cloud_6a439d'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Data Source/select_- Select an Environment -CERP_1Cloud_6a439d'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Objects/select_- All -MonitorPaaSEntreprise Access _26767a'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Objects/select_- All -MonitorPaaSEntreprise Access _26767a'), 
-    'EAC', true)
+    'EAC', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_DataProbe_Setup/Page_Manage Objects/a_SC_GET_API_KTLN'))
 

@@ -51,7 +51,7 @@ WebUI.click(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignmen
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Reassign Roles_Different RoleGroups/Page_Manage Role Groups/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/Reassign Roles_Different RoleGroups/Page_Manage Role Groups/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 
@@ -68,7 +68,7 @@ WebUI.delay(5)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Reassign Roles_Different RoleGroups/Page_Manage Role Groups/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/Reassign Roles_Different RoleGroups/Page_Manage Role Groups/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_RoleGroup_HCM Market/Page_Scope Roles/button_Actions'))
 
@@ -139,7 +139,7 @@ WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Pa
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- Please select any -ERP ITHCM MarketOut of boxOut of ScopeSurvey ExceptionsTest_RoleGroup2'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- Please select any -ERP ITHCM MarketOut of boxOut of ScopeSurvey ExceptionsTest_RoleGroup2'), 
-    'ERP IT', true, FailureHandling.OPTIONAL)
+    'ERP IT', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Submit'))
 
@@ -202,7 +202,7 @@ WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Pa
 WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U101'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U101'), 
-    'HCM Market', true, FailureHandling.OPTIONAL)
+    'HCM Market', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Submit'))
 
@@ -253,7 +253,7 @@ WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Pa
 WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U102'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U102'), 
-    'Out of box', true, FailureHandling.OPTIONAL)
+    'Out of box', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Submit'))
 
@@ -292,7 +292,7 @@ WebUI.click(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Pa
 WebUI.verifyElementClickable(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U103'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/Re-assignment Scope Roles/Page_Scope Roles/select_- MCD Role Group - U103'), 
-    'Out of Scope', true, FailureHandling.OPTIONAL)
+    'Out of Scope', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/Re-assignment Scope Roles/Page_Scope Roles/button_Submit'))
 
@@ -407,7 +407,7 @@ WebUI.click(findTestObject('deba4/EACM_ManageApprovalAssignments/Page_Home/a_Man
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignments/Page_Manage Approval Assignments/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignments/Page_Manage Approval Assignments/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', true, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_ManageApprovalAssignments/Page_Manage Approval Assignments/span_Role Groups in Scope with Entire History'))
 

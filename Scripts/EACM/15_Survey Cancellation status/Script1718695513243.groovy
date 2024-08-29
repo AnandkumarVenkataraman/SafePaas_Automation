@@ -51,7 +51,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_CancellationVerify/Page_
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CancellationVerify/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_CancellationVerify/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_CancellationVerify/Page_Manage User Access/button_Actions'))
 

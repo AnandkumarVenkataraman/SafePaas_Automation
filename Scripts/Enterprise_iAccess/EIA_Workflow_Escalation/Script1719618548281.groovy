@@ -42,7 +42,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Reassign/Page
 WebUI.click(findTestObject('Object Repository/EIA_Reassign/Page_Home/a_Manage My Access'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/button_User Name_P114_USER_LIST_lov_btn'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/button_User Name_P114_USER_LIST_lov_btn'))
 
@@ -86,10 +88,10 @@ WebUI.click(findTestObject('Object Repository/EIA_Reassign/Page_Home/span_Global
 WebUI.click(findTestObject('Object Repository/EIA_Reassign/Page_Home/a_Manage Workflow'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Reassign/Page_Manage Workflow/select_- Please select one -Enterprise Acce_bd443d'), 
-    'Enterprise iAccess', true)
+    'Enterprise iAccess', false)
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Reassign/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_16884e'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Reassign/Page_Manage Workflow/i_NA_fa fa-wrench'))
 
@@ -100,7 +102,7 @@ WebUI.delay(5)
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Reassign/Page_Manage Workflow/select_- Please select any -CancelReassignEscalationReminder'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/EIA_Reassign/Page_Manage Workflow/select_- Please select any -CancelReassignEscalationReminder'), 
-    'ESCALATION', true)
+    'ESCALATION', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Reassign/Page_Manage Workflow/select_- Please select any -MC28967KATALON__7019c2'))
 

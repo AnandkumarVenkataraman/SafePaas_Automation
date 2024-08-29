@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[5]</value>
+         <value>//a[contains(text(),'Approval type')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6ad35d3d-6f23-458d-aafd-3f741c7cf7ad</webElementGuid>
+      <webElementGuid>755d3a74-277d-4d30-896d-3c2cbfe1850e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>18d2a0f3-e76b-4dea-a39e-6f922750c624</webElementGuid>
+      <webElementGuid>8a2cbb20-d066-494f-9102-91fe42a0f419</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R158203823986183430_11</value>
-      <webElementGuid>376f30bb-8d28-44df-ad9a-1fe2a25fa569</webElementGuid>
+      <webElementGuid>3eab3f17-1364-4841-a9c1-d4a54363b106</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Sort by this column</value>
-      <webElementGuid>6df96c6c-1d54-4833-b213-a80ce738c8b3</webElementGuid>
+      <webElementGuid>f013cba9-0722-4f26-bc10-3aae4c752ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.widget.report.sort(this,'','fsp_sort_11')</value>
-      <webElementGuid>96238377-c532-4751-af45-90229f6b8d23</webElementGuid>
+      <webElementGuid>bb237db7-54a0-40f6-83d4-fd6cce7ef83f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Approval type</value>
-      <webElementGuid>e3289850-2a72-4258-a70d-9836621943dc</webElementGuid>
+      <webElementGuid>41ec7b41-2287-4b68-a0ef-6a6224f6954e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R158203823986183430_11&quot;)</value>
-      <webElementGuid>33ea5c8e-a7b9-4560-8933-bf959c270c72</webElementGuid>
+      <webElementGuid>ed09cd98-7ea8-4ed9-b458-aec26cafc51a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='R158203823986183430_11']</value>
-      <webElementGuid>209fea4a-f56a-4e2a-9e8e-c5051a5178a5</webElementGuid>
+      <webElementGuid>1c841768-79d1-44e9-ae9c-8a45ffbdfe8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='APPROVAL_TYPE']/div/span/a</value>
-      <webElementGuid>31a982a7-726e-4cb3-8150-d9ef9011afdf</webElementGuid>
+      <webElementGuid>8d1aaf47-8f39-4ddd-b2eb-1e96f38ac209</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Approval type')]</value>
-      <webElementGuid>4efaae1a-702f-4c05-9338-674c334da102</webElementGuid>
+      <webElementGuid>ef7b1249-cbe6-4ace-ab16-7ce4d5573063</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[5]</value>
-      <webElementGuid>4966034d-af54-4bb4-9bec-e40eca6cd8c6</webElementGuid>
+      <webElementGuid>108520df-d9d3-4021-ae44-11e2d99ddb78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[5]/div/span/a</value>
-      <webElementGuid>2d28b363-1772-42c8-8a9c-947b4a6c0355</webElementGuid>
+      <webElementGuid>d012c7b8-b25a-4749-9ba0-e1f27d66c4b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'R158203823986183430_11' and @title = 'Sort by this column' and (text() = 'Approval type' or . = 'Approval type')]</value>
-      <webElementGuid>9b727d2a-56eb-4ae6-b713-82d0d2605ba2</webElementGuid>
+      <webElementGuid>837ce101-92a2-4d85-ae80-b96081d7675e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,16 +6,16 @@
    <elementGuidId>f073f3d6-61b4-4b5b-a2b8-2a18b59415d5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '#' and (text() = 'Ticket No' or . = 'Ticket No')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#C167322488443859810 > a.a-IRR-headerLink</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = '#' and (text() = 'Ticket No' or . = 'Ticket No')]</value>
+         <value>//a[contains(text(),'Ticket No')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = 'Ticket No' or . = 'Ticket No')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>16d789ec-9212-484a-aba9-fe187825627e</webElementGuid>
+      <webElementGuid>36db6d7b-62b2-4047-9297-929d1f672679</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>e3004499-ece8-49f8-ae38-4ae06682a097</webElementGuid>
+      <webElementGuid>855894d5-b9cc-4226-9bff-a4920d4a9914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>62fd76ae-3553-443c-abc1-a31a9f81afa7</webElementGuid>
+      <webElementGuid>3c2bc9cd-8932-4879-a89a-09f8797b621e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>167322488443859810</value>
-      <webElementGuid>f079a5d9-321e-42cf-b59c-8da7c46bdbcd</webElementGuid>
+      <webElementGuid>28f42e71-2e0a-4f76-b2f8-066fc0b74834</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>a2d4b7d1-3e9d-49e7-80b7-9a568d810037</webElementGuid>
+      <webElementGuid>fd87b3b6-d95c-4048-82df-9842041c7880</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ticket No</value>
-      <webElementGuid>fa227149-a1bf-4232-8c9f-ab4122c62195</webElementGuid>
+      <webElementGuid>9579b7b0-14c4-490e-ab54-9ff13051b3e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C167322488443859810&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>76a77735-958b-4426-aaf7-4dc349707170</webElementGuid>
+      <webElementGuid>bf8cee00-5213-4786-8770-9a23359dff9a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C167322488443859810']/a</value>
-      <webElementGuid>9f3ceec5-d108-4412-b8fe-df319488f39e</webElementGuid>
+      <webElementGuid>bc5a5785-fb5c-4224-a791-56f23b11b5c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Ticket No')]</value>
-      <webElementGuid>4fd4aa87-b57b-40c3-b979-7b6145be75ee</webElementGuid>
+      <webElementGuid>df6d4b84-f6ec-4c3f-86b4-9281d8a627fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[16]</value>
-      <webElementGuid>a6e6f732-01d2-4b77-b091-d932c742e700</webElementGuid>
+      <webElementGuid>313b7b55-db1d-41e0-9294-bb9086e10f1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[14]/a</value>
-      <webElementGuid>0643329f-8dd4-43db-8135-5aabc2e7c1ec</webElementGuid>
+      <webElementGuid>faebd547-9475-400b-a66f-b848026fb5e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'Ticket No' or . = 'Ticket No')]</value>
-      <webElementGuid>0c1fe9a7-50a0-404e-b912-2aff577d28be</webElementGuid>
+      <webElementGuid>55bbfbdd-dde3-49c4-b92f-4c4e2b7974d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

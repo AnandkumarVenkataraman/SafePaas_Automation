@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[9]</value>
+         <value>//a[contains(text(),'Last updated by')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c78d7f60-61e8-4ff1-af1a-0e4b3e3b238a</webElementGuid>
+      <webElementGuid>b409334f-527e-40ab-8d59-0fb352920a3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>610d6492-caa0-47ac-bf31-1f185dadce04</webElementGuid>
+      <webElementGuid>31e5bfd0-2104-4613-af74-a67ea4cd4301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R158203823986183430_9</value>
-      <webElementGuid>1d5be946-82a9-44cd-adaf-541109b87e74</webElementGuid>
+      <webElementGuid>1d9c394a-3e54-4d1b-ba94-4af2a0f9c78c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Sort by this column</value>
-      <webElementGuid>b639ef93-2440-486f-b2e2-2ba95dc5fe89</webElementGuid>
+      <webElementGuid>275b9567-fe4d-4b7e-a52c-4df08e066501</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.widget.report.sort(this,'','fsp_sort_9')</value>
-      <webElementGuid>b5e8b951-7221-48c7-9b70-c2388f134606</webElementGuid>
+      <webElementGuid>c7be38e9-cd47-4baa-a2f8-2ac72e6d9a48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Last updated by</value>
-      <webElementGuid>0c91725f-d927-4826-8c62-d5853be97a25</webElementGuid>
+      <webElementGuid>e7baaf95-84aa-40fb-8958-ea8ad1374571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R158203823986183430_9&quot;)</value>
-      <webElementGuid>c6fec29d-a488-43c8-9059-89a80f469477</webElementGuid>
+      <webElementGuid>3a3d725f-52d1-4d91-a086-38d845db1d3e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='R158203823986183430_9']</value>
-      <webElementGuid>6a033e33-81c7-40c4-92a8-9fcdaaf09379</webElementGuid>
+      <webElementGuid>eb417a96-21c7-4592-9c6e-b0cb49750526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='LAST_UPDATED_BY']/div/span/a</value>
-      <webElementGuid>380fd7ff-0da3-42b0-b087-9eefda4aed63</webElementGuid>
+      <webElementGuid>e1b51093-b79e-443c-915f-679e65456780</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Last updated by')]</value>
-      <webElementGuid>930e8b68-c519-4d69-9756-1b439b82ac9f</webElementGuid>
+      <webElementGuid>b9cca202-6495-4e56-a830-79ada1ef5b75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[9]</value>
-      <webElementGuid>59d5930d-ebdc-4a63-991f-e66e5b6986db</webElementGuid>
+      <webElementGuid>f394a7c2-c2ea-4488-b42d-3d0a63de4538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[9]/div/span/a</value>
-      <webElementGuid>39806319-a34c-4f7b-bbf7-fcde335fbfb3</webElementGuid>
+      <webElementGuid>80301011-554b-4d90-84a9-eca0316a3d71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'R158203823986183430_9' and @title = 'Sort by this column' and (text() = 'Last updated by' or . = 'Last updated by')]</value>
-      <webElementGuid>a904ca15-c817-4b18-add1-405f9a6b5f66</webElementGuid>
+      <webElementGuid>e85f054f-14c7-411c-af91-270f2dcc9e37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

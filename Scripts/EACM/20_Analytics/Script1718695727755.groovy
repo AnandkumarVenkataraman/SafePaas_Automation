@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Home/a_M
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/button_Actions'))
 
@@ -102,14 +102,14 @@ WebUI.delay(15)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(15)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Summary/select_Select any oneGRM_Feb28_V1GRM_Feb28__e3250f'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_User Access Certification Summary/select_Select any oneGRM_Feb28_V1GRM_Feb28__e3250f'), 
-    'KTLN_EACM_Survey_Feb9_V3', true, FailureHandling.OPTIONAL)
+    'KTLN_EACM_Survey_Feb9_V3', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(15)
 
@@ -126,7 +126,7 @@ WebUI.delay(15)
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EACM_Analytics/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(15)
 

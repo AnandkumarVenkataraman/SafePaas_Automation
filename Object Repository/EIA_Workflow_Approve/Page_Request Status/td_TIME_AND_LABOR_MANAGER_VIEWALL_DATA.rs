@@ -6,12 +6,15 @@
    <elementGuidId>092938df-1f1c-4e98-907b-a720204d4fec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = 'TIME_AND_LABOR_MANAGER_VIEWALL_DATA' or . = 'TIME_AND_LABOR_MANAGER_VIEWALL_DATA')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'TIME_AND_LABOR_MANAGER_VIEWALL_DATA' or . = 'TIME_AND_LABOR_MANAGER_VIEWALL_DATA')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[9]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>eb4b440d-6a10-472c-8c12-3936e6f0d29b</webElementGuid>
+      <webElementGuid>59c082a2-e7a0-4f3a-8143-c42f5006176b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value> u-tC</value>
-      <webElementGuid>1325c36b-2083-4207-9152-8ad92d5436d1</webElementGuid>
+      <webElementGuid>7e5b42fb-05e0-46f7-8a2d-6b0ec0ee39a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>headers</name>
       <type>Main</type>
       <value>C162630234098491050</value>
-      <webElementGuid>ee603d3d-ac4b-455c-8088-bc19462e93e1</webElementGuid>
+      <webElementGuid>104e1e8b-6804-43cb-9f19-076c42d32d11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>TIME_AND_LABOR_MANAGER_VIEWALL_DATA</value>
-      <webElementGuid>0315a48c-9954-428e-aa60-7bc8557a7667</webElementGuid>
+      <webElementGuid>74f469b4-f887-4f1e-88ce-b407528b2ee9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;162629096711491038_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]</value>
-      <webElementGuid>fbee13af-a16f-4972-876a-aacb467afcfd</webElementGuid>
+      <webElementGuid>0e5a7377-2132-48ab-b87f-85e1861c3e27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'TIME_AND_LABOR_MANAGER_VIEWALL_DATA' or . = 'TIME_AND_LABOR_MANAGER_VIEWALL_DATA')]</value>
-      <webElementGuid>9666acc8-f9fe-4485-a9ee-f8e24b667d84</webElementGuid>
+      <webElementGuid>82c1953f-26f4-4ad8-a8a3-56d9c31db6d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MOHIT.KUMAR'])[1]/following::td[1]</value>
-      <webElementGuid>9a91ff41-e89a-4bd1-8976-49f38427d5f3</webElementGuid>
+      <webElementGuid>680c8241-8e9e-42ca-a28d-5fdce572f220</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Approved'])[1]/following::td[3]</value>
-      <webElementGuid>2de5636d-4afc-4a9f-87db-4f401a832236</webElementGuid>
+      <webElementGuid>27eee894-849b-4de3-8350-acccd4f47b07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Time and Labor Manager_ViewAll[TIME_AND_LABOR_MANAGER_VIEWALL_DATA]'])[1]/preceding::td[1]</value>
-      <webElementGuid>014a87d8-0e80-44bd-beb0-7cd0955647a2</webElementGuid>
+      <webElementGuid>b764a137-592b-45d7-b6ed-1cde07e3927a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary'])[1]/preceding::td[3]</value>
-      <webElementGuid>cd922592-19da-423a-9a1e-b162905a7012</webElementGuid>
+      <webElementGuid>e305e113-e70e-4124-a17a-8c0ab2bb06f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='TIME_AND_LABOR_MANAGER_VIEWALL_DATA']/parent::*</value>
-      <webElementGuid>d4968a14-11b2-4774-acc6-482757caf42d</webElementGuid>
+      <webElementGuid>f5751962-2a9b-4722-9cdd-3807d1789085</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[9]</value>
-      <webElementGuid>3fac592d-9b8d-419c-af5f-6cff7ba66090</webElementGuid>
+      <webElementGuid>6e399a02-5d55-4136-bf2a-06a1fd31c73a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +121,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='162629096711491038_orig']/tbody/tr[2]/td[9]</value>
-      <webElementGuid>be005f20-e0e0-4a13-9af1-e99783e30e21</webElementGuid>
+      <webElementGuid>7f26adbd-c058-4f04-9570-957386a18144</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

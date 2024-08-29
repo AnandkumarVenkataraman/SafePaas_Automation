@@ -6,15 +6,15 @@
    <elementGuidId>131abef1-b234-49d5-81b5-2de2ba112c9e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'Verified' or . = 'Verified')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='P10_END_DATE_ACTION']/div/div/div[2]/label</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
+         <value>//label[(text() = 'Terminate Access' or . = 'Terminate Access')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>81d40800-c184-4328-ba98-df409d051e4b</webElementGuid>
+      <webElementGuid>ca86e2d8-1437-4423-9a1e-9b638bbdeff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>a81be684-e834-48c4-ba6a-ab94178ba4d2</webElementGuid>
+      <webElementGuid>02304347-62cf-4f15-ae9e-b768a2d6a6d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P10_END_DATE_ACTION_1</value>
-      <webElementGuid>54f6b2db-617e-4a64-af22-139b3110975c</webElementGuid>
+      <webElementGuid>c875d5f4-6f16-4485-a004-a2b9f9f42fb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Verified</value>
-      <webElementGuid>820cc6fc-c2c0-4a34-bc35-be9e19498312</webElementGuid>
+      <webElementGuid>2178c375-65a9-4f8f-829d-1d3251011c4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P10_END_DATE_ACTION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>f52b2440-dfc9-4072-95ae-ac3fa21eec52</webElementGuid>
+      <webElementGuid>513b7d2b-6b10-47f1-bd1e-81b3969fa690</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P10_END_DATE_ACTION']/div/div/div[2]/label</value>
-      <webElementGuid>ab4a58e6-a058-4508-be47-89740ab57164</webElementGuid>
+      <webElementGuid>be4da54b-8233-445d-a3c3-f6de65d91af2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>745c7888-5082-4568-9aed-a2797076d918</webElementGuid>
+      <webElementGuid>69547f08-34e0-4bad-8058-ba8706a12f55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Verified' or . = 'Verified')]</value>
-      <webElementGuid>80a909b5-98d6-4752-9f2a-f9bafaccb96b</webElementGuid>
+      <webElementGuid>d4f2125d-4870-42c8-93e9-2ae73e8c6d23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

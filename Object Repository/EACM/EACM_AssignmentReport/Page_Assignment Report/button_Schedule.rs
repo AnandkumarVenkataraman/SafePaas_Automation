@@ -6,15 +6,19 @@
    <elementGuidId>45b0e429-15f1-4e10-9d22-b21d7e271890</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='scheduledDownloadBtn']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#scheduledDownloadBtn</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@type = 'button' and (text() = 'Schedule' or . = 'Schedule')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'scheduledDownloadBtn' and (text() = 'Schedule' or . = 'Schedule')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a72edc09-c68a-4ae9-ad3e-7c503325c93b</webElementGuid>
+      <webElementGuid>6ffe6cef-9df5-4576-9fd3-ea38fe4a2f1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>void(0);</value>
-      <webElementGuid>48ea9cfb-3168-4352-a9be-3d481de8d9ba</webElementGuid>
+      <webElementGuid>71e21356-f023-40b8-aa84-4e6396e96e4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>8af23774-002b-4e05-bf25-f5b938d79bf2</webElementGuid>
+      <webElementGuid>028f91e4-d565-4cfd-965a-b5b36a2d499d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bcf54f18-9e3a-407c-b573-fc016a1e363e</webElementGuid>
+      <webElementGuid>1da6fbed-16ca-4e96-9cb2-8c53130b5d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>scheduledDownloadBtn</value>
-      <webElementGuid>252e1c8d-2520-4771-afc7-8624d829ecd4</webElementGuid>
+      <webElementGuid>15bf2d70-b9fa-49f5-851a-55b636464522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Schedule</value>
-      <webElementGuid>a5b1d434-5a4d-45c6-95a1-00660f4d7f63</webElementGuid>
+      <webElementGuid>7a63cd51-a209-44af-a6db-0d4123e3c10c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scheduledDownloadBtn&quot;)</value>
-      <webElementGuid>cb8da93f-23b5-4ed1-b8f2-0a5f809d0996</webElementGuid>
+      <webElementGuid>bbea0c83-9b11-4baa-838d-31ff66fbf5a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='scheduledDownloadBtn']</value>
-      <webElementGuid>89337f60-ac3b-429a-a3a5-59e9ee8ffd49</webElementGuid>
+      <webElementGuid>814f41f3-8419-42b2-aaaf-76c723b30530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R334944232597190400_toolbar']/div[2]/button</value>
-      <webElementGuid>3c36a17e-a344-44fb-a009-9999e6309ca5</webElementGuid>
+      <webElementGuid>ddd99052-31fc-4145-93fe-43599702e7c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>5ec6cb2c-923c-4047-afa2-62a679ec5823</webElementGuid>
+      <webElementGuid>1d1edbbf-b26b-482e-9654-e9a9b5b38cd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'scheduledDownloadBtn' and (text() = 'Schedule' or . = 'Schedule')]</value>
-      <webElementGuid>35a3f020-f5ea-4835-b844-dab6068d7010</webElementGuid>
+      <webElementGuid>e96f205f-3b9d-4b5d-b56b-1901a3b41b1d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

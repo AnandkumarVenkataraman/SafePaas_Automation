@@ -10,8 +10,12 @@
          <value>#IDENTITY_ID_HDR</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Identity Id' or . = 'Identity Id')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//span[@id='IDENTITY_ID_HDR']</value>
+         <value>//span[@id = 'IDENTITY_ID_HDR' and (text() = 'Identity Id' or . = 'Identity Id')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>68887119-82cc-416c-b47c-4bc5d6b7b242</webElementGuid>
+      <webElementGuid>9524ce6a-5148-4382-bc0d-da5d88c81f17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>42f1849f-fc8b-4c7f-9257-02ad3bdf3771</webElementGuid>
+      <webElementGuid>72c4acfd-0bd3-4cd6-92cc-eb2ef592071b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>IDENTITY_ID_HDR</value>
-      <webElementGuid>5aa85865-0863-456a-9e5e-b5829d4f261f</webElementGuid>
+      <webElementGuid>c9e6c090-b02d-4774-8fb5-79ef07e9b097</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Identity Id</value>
-      <webElementGuid>e35fc63f-fd24-425c-93c1-96c156e46f77</webElementGuid>
+      <webElementGuid>ebe3b8be-c328-4d5c-bb5f-916b089a4015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;IDENTITY_ID_HDR&quot;)</value>
-      <webElementGuid>b7d220a8-f40c-4f84-8e31-790e815a0c37</webElementGuid>
+      <webElementGuid>3f9733c6-fdad-4d17-bdde-82011e6ca19e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='IDENTITY_ID_HDR']</value>
-      <webElementGuid>46adb764-d209-4471-b0cd-13e56d3e10ff</webElementGuid>
+      <webElementGuid>7d29db34-9018-41d3-86da-0ce256d4af60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='usersIg_ig_grid_vc_cur']/span</value>
-      <webElementGuid>70c78fc4-0933-4592-aa74-0925a19b892c</webElementGuid>
+      <webElementGuid>1fa1228e-72ad-4281-a5ad-b26ae6dc5176</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[4]/span</value>
-      <webElementGuid>505e19fa-2274-4f62-9c6c-b78620f9ffe1</webElementGuid>
+      <webElementGuid>7ac5f12a-7913-4702-b40e-75f25ef42777</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'IDENTITY_ID_HDR' and (text() = 'Identity Id' or . = 'Identity Id')]</value>
-      <webElementGuid>068b7f35-5b3a-4ee1-a641-098b9e9eba54</webElementGuid>
+      <webElementGuid>bf50c37e-60a6-4471-9eeb-aa7ad5b018b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

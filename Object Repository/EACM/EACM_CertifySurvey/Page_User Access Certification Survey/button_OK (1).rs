@@ -11,10 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[21]</value>
+         <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>94d5e054-bfe8-4480-93b2-1fe6a60f6bc5</webElementGuid>
+      <webElementGuid>4d58bf87-4435-410c-9c29-0a60464c1ec8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9efd8efc-5bf5-4b78-96c8-da5b61a77590</webElementGuid>
+      <webElementGuid>8e2f3efe-10d3-4b96-9e75-16994b757603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot</value>
-      <webElementGuid>19f8ffee-4106-479b-adf5-876245c1ec1e</webElementGuid>
+      <webElementGuid>1058c870-3d5e-4536-a4ac-d9e40f8fb7e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>f7f5d963-7413-4a77-8881-f1fd32c1f941</webElementGuid>
+      <webElementGuid>5e0e1fef-70de-4507-ae4d-36763ba1d730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-dialog--notification ui-dialog--modern ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot&quot;]</value>
-      <webElementGuid>222e6c2e-da2a-4f4f-af47-debed2ab1c89</webElementGuid>
+      <webElementGuid>3441d2d8-4d09-4e07-80c2-c36abc7e3274</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[21]</value>
-      <webElementGuid>111e4357-d845-447b-a360-d45d2bef121d</webElementGuid>
+      <webElementGuid>28a3d20f-17d8-4653-ac9f-21b0af14535f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[13]/div[3]/div/button[2]</value>
-      <webElementGuid>c5ae140d-a0c4-48d5-b611-9f77560eb3e6</webElementGuid>
+      <webElementGuid>29b9726f-04b3-4dc5-b71e-860e0289a8a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button[2]</value>
-      <webElementGuid>bc7193e7-7e19-4fb2-864c-972511256d01</webElementGuid>
+      <webElementGuid>474736de-116f-4bf1-95c1-82c937edbed3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>47ffe3f3-a670-4f9a-a45c-e71a0900e402</webElementGuid>
+      <webElementGuid>e276c3a8-e6fa-4ae5-868d-72d54bac5de0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

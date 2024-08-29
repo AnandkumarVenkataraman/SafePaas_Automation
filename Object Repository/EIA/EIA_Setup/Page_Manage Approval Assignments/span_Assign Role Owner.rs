@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[2]/a/span</value>
+         <value>//span[(text() = 'Assign Role Owner' or . = 'Assign Role Owner')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0fbb2a9f-5ac8-40ff-b08c-2e9a6bd85a9b</webElementGuid>
+      <webElementGuid>dedadd71-f043-4d7f-b1b7-cf673785c3cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Assign Role Owner</value>
-      <webElementGuid>bfb1b7b5-d231-464b-8727-2986abaedc53</webElementGuid>
+      <webElementGuid>2f26a4f9-bd9b-47f2-bf73-68cfea081cf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;SR_R159929818361063201_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
-      <webElementGuid>5bdefe60-0479-4747-b81d-528a00d6a2cf</webElementGuid>
+      <webElementGuid>d5fbad31-5c77-4065-a868-989331f36f00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='SR_R159929818361063201_tab']/a/span</value>
-      <webElementGuid>55eebb96-d86b-4f5f-afef-f57c5ab4dcd4</webElementGuid>
+      <webElementGuid>f074437e-528c-46f3-b3b9-ca31618fbd69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/span</value>
-      <webElementGuid>9b9fbac8-022f-4c29-ab09-357e52401a96</webElementGuid>
+      <webElementGuid>047fe3b7-2501-407f-8cae-0ac0b67ae77c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Assign Role Owner' or . = 'Assign Role Owner')]</value>
-      <webElementGuid>40151576-66bb-4684-9a94-2462de028095</webElementGuid>
+      <webElementGuid>a09d07fc-1ce9-4838-bb7b-3b91b5d24222</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

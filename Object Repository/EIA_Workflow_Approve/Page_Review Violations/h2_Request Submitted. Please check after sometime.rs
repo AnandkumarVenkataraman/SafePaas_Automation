@@ -6,12 +6,16 @@
    <elementGuidId>9db30742-03f8-4993-a03f-ba74a35650b8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h2[(text() = 'Request Submitted. Please check after sometime' or . = 'Request Submitted. Please check after sometime')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h2.t-Alert-title</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 't-Alert-title' and (text() = 'Request Submitted. Please check after sometime' or . = 'Request Submitted. Please check after sometime')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 't-Alert-title' and (text() = 'Request Submitted. Please check after sometime' or . = 'Request Submitted. Please check after sometime')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>82d668f4-2d3f-45d1-bfdf-1a76d491c672</webElementGuid>
+      <webElementGuid>163cc7ed-2fbc-4b33-8b6a-47e46c944161</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>t-Alert-title</value>
-      <webElementGuid>bf6142d1-ba53-434e-bbac-86c9b71ab89d</webElementGuid>
+      <webElementGuid>f38a6ff9-9e2d-4300-bda8-2aeaf889e5f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Request Submitted. Please check after sometime</value>
-      <webElementGuid>243afb0f-960d-49be-8382-5a717d4caa46</webElementGuid>
+      <webElementGuid>ecb42b49-4098-421f-a45e-c9fd0906c401</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
-      <webElementGuid>dfb7e103-e7f5-4eae-9085-37bb572a72f8</webElementGuid>
+      <webElementGuid>57b42951-0945-4105-987c-d58546f8e23d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Request Submitted. Please check after sometime' or . = 'Request Submitted. Please check after sometime')]</value>
-      <webElementGuid>93742e60-dcfc-4a12-a406-0d84e669033d</webElementGuid>
+      <webElementGuid>31a1ceb9-6231-4c68-b9b1-bf58e163164f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::h2[1]</value>
-      <webElementGuid>f6b2e8d3-c441-4d4b-a58c-0ef769a46b88</webElementGuid>
+      <webElementGuid>46613ebb-4cf6-4d9f-8336-c21fbec38060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Access Request'])[1]/following::h2[1]</value>
-      <webElementGuid>522e5e5e-fc2a-41f1-ac5a-3658efce0b62</webElementGuid>
+      <webElementGuid>fff61ae6-09b3-4abd-a99f-b660e7cd9459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/preceding::h2[1]</value>
-      <webElementGuid>e91f3142-12d4-4673-b075-3fefdf4cffe2</webElementGuid>
+      <webElementGuid>3b3c02f2-4178-42d8-aeca-fe0bec4e1f88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_CloudERP'])[1]/preceding::h2[1]</value>
-      <webElementGuid>fb2ccf10-b246-420f-a265-5d279d7a5844</webElementGuid>
+      <webElementGuid>24b7c3ba-8e80-4e48-9348-5b70695b7159</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Request Submitted. Please check after sometime']/parent::*</value>
-      <webElementGuid>899d1474-3a3e-4731-b430-1692a3b5d76c</webElementGuid>
+      <webElementGuid>a6ede24d-df46-4655-893e-3870f0009f0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>6b7ea336-4b1e-46b9-aa79-588932b88b22</webElementGuid>
+      <webElementGuid>bc92c18e-add1-4855-8c29-a3b36c67a83c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
-      <webElementGuid>0955bbce-763d-4da4-85ec-7296e3a06cf5</webElementGuid>
+      <webElementGuid>c87c0372-3ade-4963-b546-545c75452932</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

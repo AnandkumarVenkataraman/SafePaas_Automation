@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(@href, '#')])[6]</value>
+         <value>//a[contains(text(),'Active')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f0e964a5-2e90-4409-8fe0-04237dac4d04</webElementGuid>
+      <webElementGuid>e75f64da-f81f-4d47-ba57-8c481b343464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>d696c7e7-7db9-4dc4-b789-82e72377f2e2</webElementGuid>
+      <webElementGuid>88763528-c807-42ad-8a3c-c22ab1fec557</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R158203823986183430_5</value>
-      <webElementGuid>2ca22bb8-a6c7-41f1-b009-df5e1b7d58c5</webElementGuid>
+      <webElementGuid>504cfa44-067d-4a0d-b9c2-2878104e380f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Sort by this column</value>
-      <webElementGuid>2db08e9e-8e39-49fa-81f5-384e649e778a</webElementGuid>
+      <webElementGuid>7b19fe7a-aff7-4be8-8b8a-2eace7f8a1d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.widget.report.sort(this,'','fsp_sort_5')</value>
-      <webElementGuid>f05449b9-6089-4076-adb5-1c7ca06db604</webElementGuid>
+      <webElementGuid>1a1b460b-df9b-419b-a8b8-586deeb44bed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Active</value>
-      <webElementGuid>0423b023-80cc-4881-a071-c96975644bc1</webElementGuid>
+      <webElementGuid>c0825688-2cca-4ef2-a2ab-e85c83dcc99a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R158203823986183430_5&quot;)</value>
-      <webElementGuid>98536ec7-1eff-46df-a5ec-4b4b71841627</webElementGuid>
+      <webElementGuid>e8a691e7-7418-4e8a-8bc4-c34fa81a02e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='R158203823986183430_5']</value>
-      <webElementGuid>ecb1e383-f8de-47e5-ac60-e7aebedb1340</webElementGuid>
+      <webElementGuid>2bd48c79-f5fc-47a0-9fd0-1f202977747a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='ACTIVE']/div/span/a</value>
-      <webElementGuid>f5bca92a-27b4-45ea-85d1-02589673a2e0</webElementGuid>
+      <webElementGuid>c47d6376-e8a0-4b9d-9f3a-eedfdd6ab7f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Active')]</value>
-      <webElementGuid>ba975b5c-3a72-443b-a6e7-411f84409b3a</webElementGuid>
+      <webElementGuid>f23dad80-0392-4255-8f9e-640c358d5d3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[6]</value>
-      <webElementGuid>7afb9d67-5e42-4319-a6b7-72e0273bb5e4</webElementGuid>
+      <webElementGuid>89e608d5-3476-4bd3-9fd7-41654503ad4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[6]/div/span/a</value>
-      <webElementGuid>2cc1fb4a-c95c-44b1-a4d7-95a607d74768</webElementGuid>
+      <webElementGuid>3bb2dd6f-316d-4816-859e-08278e945d8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'R158203823986183430_5' and @title = 'Sort by this column' and (text() = 'Active' or . = 'Active')]</value>
-      <webElementGuid>a156d897-6662-454f-b9ea-241fb601e2f8</webElementGuid>
+      <webElementGuid>cd989844-f74d-4c86-bcc4-b2e79fa0040d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

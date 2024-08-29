@@ -42,7 +42,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Cancel_WF/Pag
 WebUI.click(findTestObject('Object Repository/EIA_Cancel_WF/Page_Home/a_Manage My Access'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(30)
 
@@ -103,7 +103,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Cancel/Page_Mana
     'Enterprise iAccess', true)
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_16884e'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Cancel/Page_Manage Workflow/i_NA_fa fa-wrench'))
 

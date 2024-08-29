@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneAllViolation Only (3)</name>
+   <tag></tag>
+   <elementGuidId>bc9ec3f9-24ea-4ba0-ab7a-5ac6fef92c50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/img//following::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P54_AAPROVAL_TYPE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>aeabc4a3-b808-4455-9fc9-42eb9a77e458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P54_AAPROVAL_TYPE</value>
+      <webElementGuid>e8ac74af-ee13-4e6c-a4be-cad426be87b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P54_AAPROVAL_TYPE</value>
+      <webElementGuid>be02676d-ee98-4dd2-b9d7-0d8fad2df2ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>568fb932-7e5f-4243-ab0f-8c13343b07cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d801a246-e6ed-40d2-a2a6-d948a3b36aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>df13a0c2-1cd5-4160-8ced-c3ab52c03f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+All
+Violation Only
+</value>
+      <webElementGuid>8e9f1172-150e-43f9-aafb-c21126f27210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P54_AAPROVAL_TYPE&quot;)</value>
+      <webElementGuid>e1355093-f55d-4aed-a010-5c64138ac962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/iframe_1</value>
+      <webElementGuid>9cb84309-58f0-4389-9d05-c8194fbaf1b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P54_AAPROVAL_TYPE' and @name = 'P54_AAPROVAL_TYPE' and (text() = 'Select any one
+All
+Violation Only
+' or . = 'Select any one
+All
+Violation Only
+')]</value>
+      <webElementGuid>cdbe0d91-3bd2-4547-9dce-b860b5459eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P54_AAPROVAL_TYPE']</value>
+      <webElementGuid>8e02babb-60f2-4f8d-bdef-d094b54fcfb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Type'])[1]/following::select[1]</value>
+      <webElementGuid>34002dce-6c16-4847-87ca-dcdc95d801f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::select[2]</value>
+      <webElementGuid>59559973-abd2-4d78-b72e-dd420954891d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Role'])[1]/preceding::select[1]</value>
+      <webElementGuid>5667abea-d7e2-4910-88d8-4c649ac6fb79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::select[2]</value>
+      <webElementGuid>cb476e78-739e-41a4-b309-beeed9849f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>606a8539-b7a7-400f-9f87-feee07437302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P54_AAPROVAL_TYPE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>edf5c075-3ff9-4d48-91d3-89caa199e7f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

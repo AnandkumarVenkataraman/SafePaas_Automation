@@ -10,8 +10,12 @@
          <value>#LAST_NAME_HDR</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Last Name' or . = 'Last Name')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//span[@id='LAST_NAME_HDR']</value>
+         <value>//span[@id = 'LAST_NAME_HDR' and (text() = 'Last Name' or . = 'Last Name')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>73f4a261-4c84-4f4b-a171-6f3dc986306d</webElementGuid>
+      <webElementGuid>2d7b4a11-06d2-4597-a5a6-ca97d8a57ad1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>daf09aae-22a0-4d0e-8495-0efccd09145b</webElementGuid>
+      <webElementGuid>a4180d82-ea42-4ebf-a255-53c3eb125f66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>LAST_NAME_HDR</value>
-      <webElementGuid>c6b2b68a-bb7c-4f99-9e1d-22740d8daea6</webElementGuid>
+      <webElementGuid>b257052d-2c24-47c1-9e55-23db58c9be97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Last Name</value>
-      <webElementGuid>de1602d0-0b54-49ef-908a-4ed6836a6079</webElementGuid>
+      <webElementGuid>42d235ad-fa5c-4855-b0ba-d0a006d78220</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;LAST_NAME_HDR&quot;)</value>
-      <webElementGuid>2f869b08-8c16-4e39-9a79-4535bf98f172</webElementGuid>
+      <webElementGuid>fecd8057-3fc9-4b5b-a6d9-50f5db48a325</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='LAST_NAME_HDR']</value>
-      <webElementGuid>7086d051-f31b-489f-9d95-135879096414</webElementGuid>
+      <webElementGuid>5eff36d1-b8a9-4809-bc3d-1ee724ce3daf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='usersIg_ig_grid_vc_cur']/span</value>
-      <webElementGuid>96dd25d4-f183-4579-9521-5c0e13474d34</webElementGuid>
+      <webElementGuid>4130fca8-0698-44f3-9409-0fab8984aad8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[6]/span</value>
-      <webElementGuid>2416746d-2018-4200-9b12-28cc5427f413</webElementGuid>
+      <webElementGuid>afab31a3-85bd-4ef7-b333-8304df267de0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'LAST_NAME_HDR' and (text() = 'Last Name' or . = 'Last Name')]</value>
-      <webElementGuid>d686e001-9453-4179-bf77-0747a62153b6</webElementGuid>
+      <webElementGuid>63c0a41c-9e5d-4962-a4ae-e8eb0d527aba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

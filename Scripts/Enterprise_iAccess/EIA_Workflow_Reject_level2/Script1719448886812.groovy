@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/spa
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_Manage My Access'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/button_Request New Access'))
 

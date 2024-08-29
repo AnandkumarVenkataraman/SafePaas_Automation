@@ -197,7 +197,7 @@ WebUI.delay(15)
 WebUI.verifyElementClickable(findTestObject('EACM/POST EACM SURVEY/Page_User Access Certification Details/select_Select any oneKTLN_EACM_Survey_Feb12_597753 - 0003'))
 
 WebUI.selectOptionByLabel(findTestObject('EACM/POST EACM SURVEY/Page_User Access Certification Details/select_Select any oneKTLN_EACM_Survey_Feb12_597753 - 0003'), 
-    'KTLN_EACM_Survey_June26_V1', true, FailureHandling.OPTIONAL)
+    GlobalVariable.EACM_SurveyName_Verified, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(15)
 

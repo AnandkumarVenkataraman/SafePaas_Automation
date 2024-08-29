@@ -6,15 +6,19 @@
    <elementGuidId>d6134c43-cc0f-4bbc-b0c1-df7c94555d87</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h2.t-Alert-title</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Your request has been submitted in queue. Download the file from Platform -> Scheduled Downloads.' or . = 'Your request has been submitted in queue. Download the file from Platform -> Scheduled Downloads.')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>7cd72e91-2a03-4375-84ca-dfcce902a18f</webElementGuid>
+      <webElementGuid>6e0bc4eb-59b8-4499-a9b8-71e6a3c3e36e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Alert-title</value>
-      <webElementGuid>274f8cfa-1158-4418-afff-94458093f595</webElementGuid>
+      <webElementGuid>5f7f8e51-b6cf-4dbc-868f-d800a49ae347</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Your request has been submitted in queue. Download the file from Platform -> Scheduled Downloads.</value>
-      <webElementGuid>3c8b240f-1923-4e72-8b54-7ab63871f499</webElementGuid>
+      <webElementGuid>47d970c0-362c-4a16-bd7f-1837d890cea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
-      <webElementGuid>d03353f8-6150-45da-929c-564cfbc29737</webElementGuid>
+      <webElementGuid>552ccb21-19ee-4a54-9f02-917de289a1f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
-      <webElementGuid>fc5dea29-237a-44f4-a1c3-4d91227cfede</webElementGuid>
+      <webElementGuid>f8b47330-65dd-4623-bb42-85c90ffb4407</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>7833e9a8-eac0-4c9d-8580-809d474d6953</webElementGuid>
+      <webElementGuid>abe61dc0-3a92-4c2d-ac77-c751fde99fcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Your request has been submitted in queue. Download the file from Platform -> Scheduled Downloads.' or . = 'Your request has been submitted in queue. Download the file from Platform -> Scheduled Downloads.')]</value>
-      <webElementGuid>ba445747-99bd-4a99-932b-8f95e4937b0e</webElementGuid>
+      <webElementGuid>77ac9a95-090e-4659-949e-27aa65bbd2b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

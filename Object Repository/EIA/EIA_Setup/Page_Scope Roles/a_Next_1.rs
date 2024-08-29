@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='report_R160505385830363446']/div/table[2]/tbody/tr/td/table/tbody/tr/td[4]/a</value>
+         <value>//a[contains(text(),'Next')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9ccf68b7-98dc-44de-b627-58125a623942</webElementGuid>
+      <webElementGuid>fb9a6e5b-4fab-4837-8817-fd456c3ab006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:apex.widget.report.paginate('160505385830363446', 'UkVHSU9OIFRZUEV-fjE2MDUwNTM4NTgzMDM2MzQ0Ng/oTZuLGVwvfCMUJlylKjUHofLNxXixbJDA_CXONjN67mpYko3Ar-8OWdz96veh2iWIeReu96AtexmBJB3uI05Dg', {min:31,max:15,fetched:15});</value>
-      <webElementGuid>3f460466-bd0e-42d0-85e0-6bf9916669e6</webElementGuid>
+      <webElementGuid>79e2caf2-1787-4b27-b46d-d43eac8c89f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--small t-Button--noUI t-Report-paginationLink t-Report-paginationLink--next</value>
-      <webElementGuid>9a21932e-5b2f-406c-82d3-772ee2b27592</webElementGuid>
+      <webElementGuid>555caa98-808c-4000-b612-06b04eaab6ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
   Next
 </value>
-      <webElementGuid>8102c31a-55bc-4a19-ba3e-91dd1be23410</webElementGuid>
+      <webElementGuid>a3c019d7-9cff-4430-8a48-c24f67a15962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;report_R160505385830363446&quot;)/div[@class=&quot;t-Report-wrap&quot;]/table[@class=&quot;t-Report-pagination t-Report-pagination--bottom&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;pagination&quot;]/a[@class=&quot;t-Button t-Button--small t-Button--noUI t-Report-paginationLink t-Report-paginationLink--next&quot;]</value>
-      <webElementGuid>b0c6eaea-878b-41a2-ab7a-fecf0a0f9d22</webElementGuid>
+      <webElementGuid>5df50c89-b70e-49db-874c-8eef2c9eb51d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='report_R160505385830363446']/div/table[2]/tbody/tr/td/table/tbody/tr/td[4]/a</value>
-      <webElementGuid>3c766aae-0d0d-4ce4-93a4-82ab3c375a1f</webElementGuid>
+      <webElementGuid>a406ed61-7355-4161-96de-bf376510cc12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Next')]</value>
-      <webElementGuid>fccf4f69-4aef-4e9c-841e-3ab8dd3a573c</webElementGuid>
+      <webElementGuid>b7be57f7-f0dc-4c66-bb82-2b447c91a51a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, &quot;javascript:apex.widget.report.paginate('160505385830363446', 'UkVHSU9OIFRZUEV-fjE2MDUwNTM4NTgzMDM2MzQ0Ng/oTZuLGVwvfCMUJlylKjUHofLNxXixbJDA_CXONjN67mpYko3Ar-8OWdz96veh2iWIeReu96AtexmBJB3uI05Dg', {min:31,max:15,fetched:15});&quot;)]</value>
-      <webElementGuid>b284b6b1-5700-433c-b883-d4a4592d633c</webElementGuid>
+      <webElementGuid>bb022531-d174-4df0-b234-ecebb2a020bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/a</value>
-      <webElementGuid>3dd0ecd2-447e-4b8c-88cc-40e28666f41b</webElementGuid>
+      <webElementGuid>da4393e8-8f41-472e-aa8b-7a410203c938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,6 +100,6 @@
 ' or . = '
   Next
 ')]</value>
-      <webElementGuid>235ca5cf-04e9-4ea5-8428-f7884ad66a0b</webElementGuid>
+      <webElementGuid>394ca2fd-78f9-42b0-ade8-b94079f310ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

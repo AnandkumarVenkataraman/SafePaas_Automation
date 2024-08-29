@@ -50,11 +50,18 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/a_Manag
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/button_Create'))
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/button_Create'))
+
+WebUI.verifyElementText(findTestObject('NewEACM/Page_Initiate User Access/label_Risk level'), 'Risk level', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementClickable(findTestObject('NewEACM/Page_Initiate User Access/select_Select any oneHIGHMEDIUMLOW'))
+
+WebUI.selectOptionByLabel(findTestObject('NewEACM/Page_Initiate User Access/select_Select any oneHIGHMEDIUMLOW'), 'HIGH', 
+    false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/input_P10_NAME'), '')
 
@@ -86,8 +93,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_Survey/Page_In
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/label_Ticket Creation'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/span_a-Icon icon-up-chevron'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/Page_Initiate User Access/span_a-Icon icon-up-chevron'))
 
@@ -132,7 +138,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_H
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage User Access/select_Select any oneEBizApp_JDBC_EnvKTLN_C_10fa97'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)
 
@@ -160,13 +166,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Enterprise iAcces
 
 WebUI.click(findTestObject('Object Repository/Enterprise iAccess/NewAccessRequest/Page_Manage My Access/button_Go'))
 
-WebUI.delay(180)
+WebUI.delay(5)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Enterprise iAccess/NewAccessRequest/Page_Manage My Access/button_Go'))
 
 WebUI.click(findTestObject('Object Repository/Enterprise iAccess/NewAccessRequest/Page_Manage My Access/button_Go'))
 
-WebUI.delay(120)
+WebUI.delay(5)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage User Access/a_EACM_Feb19_v102'))
 
@@ -212,12 +218,12 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_U
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select one -Enterprise Acce_e8a0fd (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select one -Enterprise Acce_e8a0fd (1)'), 
-    'Enterprise Access Certification', true, FailureHandling.OPTIONAL)
+    'Enterprise Access Certification', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/button_Actions (1)'))
 
@@ -230,7 +236,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_M
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_Select DetailsActionsWorkflow NamePr_1ec721 (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_Select DetailsActionsWorkflow NamePr_1ec721 (1)'), 
-    'INSTANCE_NAME', true)
+    'INSTANCE_NAME', false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/input_p_ignore_10 (1)'), 
     '')
@@ -246,7 +252,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendRem
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/span_fa fa-search (1)'))
 
-WebUI.delay(180)
+WebUI.delay(10)
 
 WebUI.takeFullPageScreenshot()
 
@@ -273,7 +279,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_SendRemind
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'), 
-    'KATALON_ADMIN', true, FailureHandling.OPTIONAL)
+    'KATALON_ADMIN', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_SendReminderEmail/Page_Manage Workflow/button_Submit'))
 

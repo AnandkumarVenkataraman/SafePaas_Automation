@@ -10,8 +10,12 @@
          <value>#usersIg_ig_toolbar_2 > div.a-Menu-inner > span.a-Menu-labelContainer</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Filter' or . = 'Filter')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//li[@id='usersIg_ig_toolbar_2']/div/span</value>
+         <value>//span[(text() = 'Filter' or . = 'Filter')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>524bed4e-5569-4747-ac7d-9ccbbdd08d49</webElementGuid>
+      <webElementGuid>c59c7dc7-bff3-42c2-aa90-7467d79646ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-labelContainer</value>
-      <webElementGuid>32a19d9c-c059-4d1f-a126-bd2a5f854d74</webElementGuid>
+      <webElementGuid>8c98ed2c-51e1-4e77-8614-8df4a1cb31a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>a8fe44d2-3911-43c7-9c72-54b78214abd8</webElementGuid>
+      <webElementGuid>bf8523bf-3db3-4f75-b36c-41826f732b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;usersIg_ig_toolbar_2&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]</value>
-      <webElementGuid>4d6b4c30-7d55-40d5-bced-293e64221544</webElementGuid>
+      <webElementGuid>531bbdbd-c69b-4b04-92b8-5c6a573024d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='usersIg_ig_toolbar_2']/div/span</value>
-      <webElementGuid>de2d4150-6505-44a6-8397-94e7087a0666</webElementGuid>
+      <webElementGuid>0d8d6375-3df8-404e-92ef-646642e83017</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/ul/li[3]/div/span</value>
-      <webElementGuid>3257f512-4b27-4f58-988f-3b256a6df22b</webElementGuid>
+      <webElementGuid>e1f4e63d-267e-443f-88b0-a9b368296b25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>c9b8dd80-ca73-4b87-866b-306634e704e9</webElementGuid>
+      <webElementGuid>62519ea3-bb6c-40fa-a858-88dda8774e2f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

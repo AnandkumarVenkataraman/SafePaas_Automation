@@ -10,8 +10,12 @@
          <value>#C161485104945940442_HDR</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Primary Owner' or . = 'Primary Owner')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//span[@id='C161485104945940442_HDR']</value>
+         <value>//*[(text() = 'Primary Owner' or . = 'Primary Owner')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>57cbe5a5-daf6-4ce7-ae6b-5f4e5afeb566</webElementGuid>
+      <webElementGuid>efefcd97-5842-461d-b880-e9f2cedec42b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>f2c72297-f9af-482f-9e8a-e96233955777</webElementGuid>
+      <webElementGuid>4332dba7-7879-45e9-8a6a-118f19a56882</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>C161485104945940442_HDR</value>
-      <webElementGuid>a693ffdf-5c58-4718-91c1-8a9de58af133</webElementGuid>
+      <webElementGuid>703972c0-e605-40fc-b432-7980bd8d47fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Primary Owner</value>
-      <webElementGuid>72698ed1-518b-4275-9fdf-303ccb517b3c</webElementGuid>
+      <webElementGuid>e00c25a6-8f2a-4f9a-b853-de2b80b3b256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C161485104945940442_HDR&quot;)</value>
-      <webElementGuid>5fd912ab-9741-4ca0-a065-960249ae8f6b</webElementGuid>
+      <webElementGuid>0632fadc-3628-45bc-8628-676760bfe482</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='C161485104945940442_HDR']</value>
-      <webElementGuid>1965325f-0213-4935-9a6a-b3500953e4c5</webElementGuid>
+      <webElementGuid>46ef93e8-9916-4245-942f-048988941557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='R161484516470940436_ig_grid_vc_cur']/span</value>
-      <webElementGuid>93c6723c-5fb2-4a40-b3cc-c39df5c6091c</webElementGuid>
+      <webElementGuid>9fcdef56-df72-4df0-a50c-b1a871663a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[4]/span</value>
-      <webElementGuid>8ca38354-4bf2-4d28-a413-7395be62e1b2</webElementGuid>
+      <webElementGuid>76c0d3e6-73d7-4eec-8b66-4a0ee357d415</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'C161485104945940442_HDR' and (text() = 'Primary Owner' or . = 'Primary Owner')]</value>
-      <webElementGuid>abd39d53-12ae-4e29-8a83-c3c79db4116b</webElementGuid>
+      <webElementGuid>f0e90f58-9c63-474a-a2bc-25f613ad3c0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

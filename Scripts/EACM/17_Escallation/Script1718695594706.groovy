@@ -46,12 +46,12 @@ WebUI.click(findTestObject('Object Repository/EACM/Page_Home/a_Manage Workflow')
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select one -Enterprise Acce_e8a0fd'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select one -Enterprise Acce_e8a0fd'), 
-    'Enterprise Access Certification', true, FailureHandling.OPTIONAL)
+    'Enterprise Access Certification', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_Actions'))
 
@@ -64,7 +64,7 @@ WebUI.click(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_F
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_Select DetailsActionsWorkflow NamePr_1ec721'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_Select DetailsActionsWorkflow NamePr_1ec721'), 
-    'INSTANCE_NAME', true)
+    'INSTANCE_NAME', false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_p_ignore_10'), '')
 
@@ -97,20 +97,20 @@ WebUI.click(findTestObject('Object Repository/EACM/Page_Manage Workflow/i_fa fa-
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select any -ReassignEscalationReminder'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select any -ReassignEscalationReminder'), 
-    'ESCALATION', true)
+    'ESCALATION', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Page_Manage Workflow/select_- Please select any -KATALON_ADMINKT_eeb9ba'), 
-    'KATALON_ADMIN', true, FailureHandling.OPTIONAL)
+    'KATALON_ADMIN', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_P35_MANAGER_NAME'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_P35_MANAGER_NAME'), 'D PATEL')
+WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_P35_MANAGER_NAME'), 'DPATEL')
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_P35_MANAGER_EMAIL'), '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_P35_MANAGER_EMAIL'), 'debabrata.patel@safepaas.com')
+WebUI.setText(findTestObject('Object Repository/EACM/Page_Manage Workflow/input_P35_MANAGER_EMAIL'), 'mariaisabel.brum@safepaas.com')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Page_Manage Workflow/button_Submit'))
 

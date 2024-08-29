@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_0']/span</value>
+         <value>//span[text()='AccessPaaS']//preceding::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2c5d1d60-7faf-47d6-aef3-343a2cdc3031</webElementGuid>
+      <webElementGuid>4708b968-28e7-4668-a10b-1e5c2a2df4b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>bfd50415-7585-41dd-abab-95fd112183b2</webElementGuid>
+      <webElementGuid>4d7a3cd5-e723-492d-801a-087c194058ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_0&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>dbb530c2-7993-4302-bb34-3f13c50dc556</webElementGuid>
+      <webElementGuid>f7dd8e8f-172b-4b58-9b08-9db50ff2060f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_0']/span</value>
-      <webElementGuid>6671c71e-813e-4ffe-9adb-dd13a053a190</webElementGuid>
+      <webElementGuid>f921bbf2-277e-487a-b2a9-b84091859680</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/span</value>
-      <webElementGuid>366f3fd4-1273-4d39-90e4-a011e78f055c</webElementGuid>
+      <webElementGuid>c8e4ce01-d06a-4bb0-8131-c476da9e062a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

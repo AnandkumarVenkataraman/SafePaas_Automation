@@ -84,7 +84,7 @@ WebUI.click(findTestObject('Object Repository/EIA/EIA_Setup/Page_Company/a_Manag
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA/EIA_Setup/Page_Manage Network Users/select_Select any oneEBizApp_JDBC_EnvKTLNCl_836918'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA/EIA_Setup/Page_Manage Network Users/select_Select any oneEBizApp_JDBC_EnvKTLNCl_836918'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.OPTIONAL)
 
 WebUI.scrollToPosition(0, 0)
 

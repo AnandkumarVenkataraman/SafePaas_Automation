@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>//td/span</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'KTLN_EAM_USER1' or . = 'KTLN_EAM_USER1')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8b0f269d-3438-4263-b4d7-40e40f85fc38</webElementGuid>
+      <webElementGuid>17bc1b90-05f9-416e-b2d0-7d7248e12fa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>popup-lov-highlight</value>
-      <webElementGuid>d1695123-457e-43a4-ad7a-dddcdf15dc7b</webElementGuid>
+      <webElementGuid>fb61f5f5-2b0a-45c0-809b-85f751ae3fa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>MARIAB</value>
-      <webElementGuid>64a4294a-4c0c-4812-93e7-3a760eb8c037</webElementGuid>
+      <value>KTLN_EAM_USER1</value>
+      <webElementGuid>7a1a5e79-a98b-4f71-be52-7f9b267c5f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;agv_1_cur&quot;)/span[@class=&quot;popup-lov-highlight&quot;]</value>
-      <webElementGuid>4b639d6c-b130-49ac-9bf1-e56e29a97fa6</webElementGuid>
+      <webElementGuid>eecaa2a9-b308-4df3-a89a-5c895c845a6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='agv_1_cur']/span</value>
-      <webElementGuid>3197fb33-44e7-48aa-bc04-c0aee5b91db5</webElementGuid>
+      <webElementGuid>1ea47e8f-679c-4537-9034-8dacd606cdf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,14 +66,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/span</value>
-      <webElementGuid>4008f1b9-2e89-4e4c-a27c-7bcc6b427c04</webElementGuid>
+      <webElementGuid>11174a0b-5707-4891-a545-512f69907118</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'MARIAB' or . = 'MARIAB')]</value>
-      <webElementGuid>76850b97-5fa9-45a7-9647-d6d56762a059</webElementGuid>
+      <value>//span[(text() = 'KTLN_EAM_USER1' or . = 'KTLN_EAM_USER1')]</value>
+      <webElementGuid>c3dc4191-1821-4510-8ce4-38efce730d46</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

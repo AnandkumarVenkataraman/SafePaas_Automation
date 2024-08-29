@@ -57,7 +57,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_ManageWork
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/select_- Please select one -EBizApp_JDBC_En_bcca2a'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/button_Actions'))
 

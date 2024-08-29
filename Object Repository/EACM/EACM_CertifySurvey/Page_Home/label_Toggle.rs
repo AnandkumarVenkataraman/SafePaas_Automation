@@ -11,10 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='a_Collapsible1_R97799695751099620_control_panel_content']/ul/li/span/label</value>
+         <value>//label[(text() = 'Toggle' or . = 'Toggle')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Toggle' or . = 'Toggle')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>9228ba8f-776b-4975-9395-9263953bedf6</webElementGuid>
+      <webElementGuid>8c412668-4740-4584-8980-ee0ea7827e8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>for</name>
       <type>Main</type>
       <value>control_294694503095552903</value>
-      <webElementGuid>d64e3377-6952-4353-bc4e-7058fbff4320</webElementGuid>
+      <webElementGuid>3c13a7ce-0bf2-4445-9e36-025462de5d78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-controlsCheckboxLabel</value>
-      <webElementGuid>2837fcba-1c4b-4c15-853e-ea9d87f31188</webElementGuid>
+      <webElementGuid>c6f3f368-fa8d-4887-9378-24cf914ae3ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Toggle</value>
-      <webElementGuid>28ffd4b1-3cf2-4609-9d05-ebb2cb2705c2</webElementGuid>
+      <webElementGuid>d018be42-61d6-476e-8d14-39a43a1008bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;a_Collapsible1_R97799695751099620_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]/span[@class=&quot;a-IRR-controls-cell&quot;]/label[@class=&quot;a-IRR-controlsCheckboxLabel&quot;]</value>
-      <webElementGuid>c807baff-9f73-4273-9cdb-f02229791179</webElementGuid>
+      <webElementGuid>5cf5a067-d9dc-4fc5-b6d3-3f1bb81792dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='a_Collapsible1_R97799695751099620_control_panel_content']/ul/li/span/label</value>
-      <webElementGuid>1016aa8c-4660-4257-899b-09efebe80d22</webElementGuid>
+      <webElementGuid>5baa05dd-ef8b-42a2-836a-277400ebd738</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/label</value>
-      <webElementGuid>3653701b-ed8a-495b-920a-bf2a86d23186</webElementGuid>
+      <webElementGuid>b78f04a5-9a9c-415e-9802-1ea41372a9d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Toggle' or . = 'Toggle')]</value>
-      <webElementGuid>62655bd8-f4bf-4204-9880-b0fcba21f70b</webElementGuid>
+      <webElementGuid>813fea28-f2c1-49d1-a38f-fd750a53a890</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

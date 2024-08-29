@@ -43,15 +43,15 @@ WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_
 WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Home/a_Maintain Approval Hierarchy'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/img_Create_apex-edit-pencil'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))
+WebUI.verifyElementClickable(findTestObject('Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'), 
+WebUI.selectOptionByValue(findTestObject('Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'), 
     'ALL', true)
 
 WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/button_Apply Changes'))
@@ -60,9 +60,9 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/Page_Maintain Approval Hierarchy/img_KATALON_ADMIN_apex-edit-pencil_level2'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (2)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (1)'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/select_Select any oneAllViolation Only (2)'), 
     'VO', true)
 
 WebUI.click(findTestObject('Object Repository/Auto-Approve/HierarchyLevels/Page_Maintain Approval Hierarchy/button_Apply Changes'))
@@ -87,7 +87,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/spa
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_Manage My Access'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Manage My Access/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
@@ -198,7 +198,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/a_L
 WebUI.setText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
     'MARIAB1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'Ju8vHiRYWYTapQtHptL/Yg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/input_New_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Login/button_Login'))
 
@@ -250,7 +250,7 @@ WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Home/spa
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/a_Manage My Access'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Request Status/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 

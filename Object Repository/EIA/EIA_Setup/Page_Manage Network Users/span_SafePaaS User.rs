@@ -10,8 +10,12 @@
          <value>#C314430624909249271_HDR</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'SafePaaS User' or . = 'SafePaaS User')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//span[@id='C314430624909249271_HDR']</value>
+         <value>//span[@id = 'C314430624909249271_HDR' and (text() = 'SafePaaS User' or . = 'SafePaaS User')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>75f13a2c-23f4-4806-a4cc-67aecc17eb09</webElementGuid>
+      <webElementGuid>c0af1cfc-0c22-4301-ba5b-cdbea4f55fca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-headerLabel</value>
-      <webElementGuid>02cf463a-98c7-46d8-a8bb-5e7a3a437fff</webElementGuid>
+      <webElementGuid>47558855-1850-48c3-be47-8545f9c85535</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>C314430624909249271_HDR</value>
-      <webElementGuid>02b51e10-3804-4a04-9fa7-a304c3713e64</webElementGuid>
+      <webElementGuid>f89d65e1-bc9f-4104-9cbf-29346e1bb91d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SafePaaS User</value>
-      <webElementGuid>67d96a50-701c-46b5-91e2-3a3485b0a956</webElementGuid>
+      <webElementGuid>6cb117ec-9ba7-4038-bdcf-3d9af64996c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;C314430624909249271_HDR&quot;)</value>
-      <webElementGuid>f2a6bef8-b4bd-493b-b273-4e8a604ed84e</webElementGuid>
+      <webElementGuid>c419fe65-45dd-4a37-b8c8-ecc0ca275e3e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='C314430624909249271_HDR']</value>
-      <webElementGuid>be933f7e-8643-4bf3-8301-f54e89623185</webElementGuid>
+      <webElementGuid>1878207f-1c15-4790-a907-56176f613916</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='usersIg_ig_grid_vc_cur']/span</value>
-      <webElementGuid>0098e47e-d99c-442c-bd0f-028d8e907874</webElementGuid>
+      <webElementGuid>89c5816a-45d9-4c9a-b155-ac64db3bb970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[3]/span</value>
-      <webElementGuid>81659fa0-de34-4a4a-97f9-09617f2e1008</webElementGuid>
+      <webElementGuid>f95593e6-c23f-4852-9619-693ec4fb74fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'C314430624909249271_HDR' and (text() = 'SafePaaS User' or . = 'SafePaaS User')]</value>
-      <webElementGuid>b83043d9-fc07-44ce-9c8b-2537e84114c6</webElementGuid>
+      <webElementGuid>68ed8371-e432-4ba7-be70-313cdc4ebb00</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

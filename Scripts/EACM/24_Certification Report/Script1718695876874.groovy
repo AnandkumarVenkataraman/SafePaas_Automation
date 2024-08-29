@@ -135,7 +135,7 @@ WebUI.click(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Pa
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/select_Select any oneEBizApp_JDBC_EnvKTLNCl_cd37e2'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/Dashboards/eacm dashboard/Page_Home/span_My Dashboard'))
 

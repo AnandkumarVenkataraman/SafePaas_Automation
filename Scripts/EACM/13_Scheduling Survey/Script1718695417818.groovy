@@ -50,11 +50,18 @@ WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Home/a_Manage 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__1f716d'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACMSurveydate/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__1f716d'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Page_Manage Certification/button_Create'))
 
 WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Manage Certification/button_Create'))
+
+WebUI.verifyElementText(findTestObject('NewEACM/Page_Initiate User Access/label_Risk level'), 'Risk level', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementClickable(findTestObject('NewEACM/Page_Initiate User Access/select_Select any oneHIGHMEDIUMLOW'))
+
+WebUI.selectOptionByLabel(findTestObject('NewEACM/Page_Initiate User Access/select_Select any oneHIGHMEDIUMLOW'), 'HIGH', 
+    false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/input_P10_NAME'), '')
 
@@ -102,8 +109,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACMSurveydate/Pa
 
 WebUI.click(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/label_Verified'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/label_Ticket Creation'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/EACMSurveydate/Page_Initiate User Access/label_Ticket Creation'))
 

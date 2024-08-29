@@ -6,12 +6,12 @@
    <elementGuidId>bda22dac-567c-4c1f-9f19-a3e056918e24</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#C150175183288810103 > a.a-IRR-headerLink</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Comments')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//th[@id='C150175183288810103']/a</value>
+         <key>CSS</key>
+         <value>#C150175183288810103 > a.a-IRR-headerLink</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2373b7a2-d74a-4b8c-aba7-c4c58f3aa1eb</webElementGuid>
+      <webElementGuid>5e2d31d3-55aa-4acc-97c0-e2bf5a168e2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>451d0d09-79f2-4027-be48-3e57fba6afa5</webElementGuid>
+      <webElementGuid>af390b66-f9cc-49fc-8643-1897a9cf37d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>150175183288810103</value>
-      <webElementGuid>e1b2b9d5-077a-424f-8d50-8a90782c78fe</webElementGuid>
+      <webElementGuid>563aceda-4577-4493-ac33-5c34ada4d66f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>fa73fc1c-ac58-4812-aa16-d8b9036d70f4</webElementGuid>
+      <webElementGuid>9bc0506f-af93-4262-a04f-95f2822207d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Comments</value>
-      <webElementGuid>d6e52475-55fd-4a52-884f-c8cb34fa29aa</webElementGuid>
+      <webElementGuid>87f8c22f-7de5-47c5-8cba-629c98f0e173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;163420201166329744&quot;)/tr[1]/th[@id=&quot;C150175183288810103&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>d26cb04e-7b42-4eae-b78d-7ac96610b8de</webElementGuid>
+      <webElementGuid>2b7139d5-8881-455c-ac49-e9a5e8c7a611</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C150175183288810103']/a</value>
-      <webElementGuid>5660ebf4-37bb-48c3-ae8a-10fff9b77296</webElementGuid>
+      <webElementGuid>b0fde595-6284-48a5-be1c-354bc7de08cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Comments')]</value>
-      <webElementGuid>f0caab8c-53b6-473d-99ad-0191d426aa51</webElementGuid>
+      <webElementGuid>c6c9ae82-c1f2-4dd6-a3e8-37b9ad4a0b6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[9]/a</value>
-      <webElementGuid>05896c83-d554-486c-b65f-593386aed2b7</webElementGuid>
+      <webElementGuid>6b155511-9742-4864-b9b9-d051538e8614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Comments' or . = 'Comments')]</value>
-      <webElementGuid>23f28e23-cb42-4205-b3b6-bee29c94c26e</webElementGuid>
+      <webElementGuid>f21c9f3d-b346-4725-b85a-703037ed3ccb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
