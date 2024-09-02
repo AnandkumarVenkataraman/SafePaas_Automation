@@ -135,13 +135,13 @@
       <name>ReassignRequestor_Justification</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>CloudERP_SS_Aug12_V1</description>
-      <initValue>'CloudERP_SS_Aug12_V1'</initValue>
+      <description>CloudERP_SS_Sep02_V1</description>
+      <initValue>'CloudERP_SS_Sep02_V1'</initValue>
       <name>DTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>JDBC_Extract_Aug12_V1</description>
-      <initValue>'JDBC_Extract_Aug12_V1'</initValue>
+      <description>JDBC_Extract_Sep02_V1</description>
+      <initValue>'JDBC_Extract_Sep02_V1'</initValue>
       <name>DTP_JDBC_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
