@@ -49,9 +49,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersVio
 
 WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/span_a-TreeView-toggle_1_2 (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/a_Manage Remediation Plan (1)'), 
-    0, FailureHandling.OPTIONAL)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/a_Manage Remediation Plan (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Home/a_Manage Remediation Plan (1)'))
@@ -158,7 +155,7 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_R
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Remediate Issues/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Remediate Issues/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1) - 9abc'))
 

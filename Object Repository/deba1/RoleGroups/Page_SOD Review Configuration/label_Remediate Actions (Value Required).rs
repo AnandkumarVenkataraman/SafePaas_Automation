@@ -6,15 +6,19 @@
    <elementGuidId>42c33a9e-54c2-4b1b-98f1-bc6bbc9b82eb</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'P130_REMEDIATE_ACTION_LABEL' and (text() = 'Remediate Actions (Value Required)' or . = 'Remediate Actions (Value Required)')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#P130_REMEDIATE_ACTION_LABEL</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='P130_REMEDIATE_ACTION_LABEL']</value>
+         <value>//*[@id='P130_REMEDIATE_ACTION_1']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>7569fa88-5d40-4aee-b7c3-9e55545564f1</webElementGuid>
+      <webElementGuid>89eef9ea-0252-4a0c-96a4-3c21fe8b91fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P130_REMEDIATE_ACTION</value>
-      <webElementGuid>8eb5209c-f8ce-4674-9928-bf1752cc791c</webElementGuid>
+      <webElementGuid>b3787792-3b61-47c3-b734-47d85b226b99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P130_REMEDIATE_ACTION_LABEL</value>
-      <webElementGuid>1a49ab25-e566-4f8c-8f12-c1437e48083a</webElementGuid>
+      <webElementGuid>91b6c4ca-fb8f-4359-8673-c6e83b107964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Form-label</value>
-      <webElementGuid>98c887e4-d6dc-471c-9777-d52a24afb26e</webElementGuid>
+      <webElementGuid>a530fb3a-2f1f-4ebb-a0a7-9ec57a0fc739</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Remediate Actions (Value Required)</value>
-      <webElementGuid>19aad476-653b-446f-b2fe-e4e2c38011df</webElementGuid>
+      <webElementGuid>31b7d353-b3e5-4f7e-b366-a6869fa8e43c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P130_REMEDIATE_ACTION_LABEL&quot;)</value>
-      <webElementGuid>71f178c2-f4ca-445e-8569-e2931254d16f</webElementGuid>
+      <webElementGuid>d34ef942-8e75-48ab-b1a8-8417a7939f41</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='P130_REMEDIATE_ACTION_LABEL']</value>
-      <webElementGuid>997c7603-bcd6-41cf-943e-cc3e48e2a0f0</webElementGuid>
+      <webElementGuid>1f76f05e-2b26-4a4b-9c6b-ca88e19f99e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P130_REMEDIATE_ACTION_CONTAINER']/div/label</value>
-      <webElementGuid>bb57cced-9200-43b4-87e2-bdd50666a723</webElementGuid>
+      <webElementGuid>1a63c8d2-4d62-491b-bc8d-55c98a9c20d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/label</value>
-      <webElementGuid>ce0e3f9f-9d3d-423f-bde6-2686cbc4d419</webElementGuid>
+      <webElementGuid>312480c2-3107-4d43-887c-91024bbe17c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[@id = 'P130_REMEDIATE_ACTION_LABEL' and (text() = 'Remediate Actions (Value Required)' or . = 'Remediate Actions (Value Required)')]</value>
-      <webElementGuid>99845fdf-ed79-4729-8495-57f556c5c1bb</webElementGuid>
+      <webElementGuid>e566aac4-a67e-464b-af2c-8b3a9f98bece</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

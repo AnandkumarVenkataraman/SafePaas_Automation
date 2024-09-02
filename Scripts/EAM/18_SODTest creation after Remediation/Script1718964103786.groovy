@@ -27,11 +27,9 @@ WebUI.setText(findTestObject('Object Repository/deba1/SODTest/Page_Login/input_P
 
 WebUI.setText(findTestObject('Object Repository/deba1/SODTest/Page_Login/input_P101_USERNAME'), 'KTLN_EAM_USER1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/deba1/SODTest/Page_Login/input_P101_PASSWORD'), '1NH9WJz7EqazrwnBTn527Q==')
+WebUI.setEncryptedText(findTestObject('Object Repository/deba1/SODTest/Page_Login/input_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
 WebUI.click(findTestObject('Object Repository/deba1/SODTest/Page_Login/button_Login'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/SODTest/Page_Home/div_AccessPaaS'), 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/SODTest/Page_Home/span_a-TreeView-toggle'))
 
@@ -41,15 +39,9 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/SODTest/Pag
 
 WebUI.click(findTestObject('Object Repository/deba1/SODTest/Page_Home/span_a-TreeView-toggle_1'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/SODTest/Page_Home/span_a-TreeView-toggle_1_2'))
-
-WebUI.click(findTestObject('Object Repository/deba1/SODTest/Page_Home/span_a-TreeView-toggle_1_2'))
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/SODTest/Page_Home/span_a-TreeView-toggle_1_2_3'))
 
 WebUI.click(findTestObject('Object Repository/deba1/SODTest/Page_Home/span_a-TreeView-toggle_1_2_3'))
-
-WebUI.verifyElementPresent(findTestObject('deba1/SODTest/Page_Home/ManageSODTest_new'), 0)
 
 WebUI.verifyElementClickable(findTestObject('deba1/SODTest/Page_Home/ManageSODTest_new'))
 
@@ -58,7 +50,7 @@ WebUI.click(findTestObject('deba1/SODTest/Page_Home/ManageSODTest_new'))
 WebUI.verifyElementClickable(findTestObject('deba1/SODTest/Page_Manage SOD Test/oneCERP_1CloudERP_Environment'))
 
 WebUI.selectOptionByLabel(findTestObject('deba1/SODTest/Page_Manage SOD Test/oneCERP_1CloudERP_Environment'), 'KTLN_CloudERP', 
-    true, FailureHandling.OPTIONAL)
+    false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage SOD Test/button_Create'))
 

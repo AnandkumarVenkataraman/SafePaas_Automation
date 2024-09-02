@@ -68,7 +68,7 @@ WebUI.comment('Click on Manage Rules')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/SODTest/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Select the environment as "KTLN_CloudERP"')
 
@@ -317,7 +317,7 @@ WebUI.click(findTestObject('SODTest1/Page_AddEdit Test/button_Create 456'))
 
 WebUI.comment('Click on Create button')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage SOD Test/h2_Action Processed'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Manage SOD Test/h2_Action Processed'), 0, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Verify the success message')
 

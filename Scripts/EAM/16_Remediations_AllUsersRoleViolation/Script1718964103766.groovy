@@ -53,7 +53,7 @@ WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Pag
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any OneKTLN_APRIL18_V3KTLN_MA_f74cb9 (1)'))
 

@@ -134,7 +134,7 @@ WebUI.click(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Home
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Manage Review Actions/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
@@ -145,7 +145,7 @@ WebUI.click(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_M
 WebUI.verifyElementClickable(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'))
 
 WebUI.selectOptionByLabel(findTestObject('deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/select_Select any oneKTLN_SODTest_Jan05_V2__533efa - 12'), 
-    'KTLN_SODTest_May27_V2', true, FailureHandling.OPTIONAL)
+    'KTLN_SODTest_May27_V2', true, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageRemediationPlan/Page_Initiate User Violation Survey/input_P181_NAME'), 
     '')
@@ -239,7 +239,7 @@ WebUI.click(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Home
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Actions'))
 

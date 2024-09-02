@@ -6,12 +6,12 @@
    <elementGuidId>48884a1a-7867-4e6b-aa35-33c275c9a7cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_15']/div[2]/a</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@href = 'f?p=1180:119:5882955270743:::119::' and (text() = 'Manage Remediation Plan' or . = 'Manage Remediation Plan')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage Remediation Plan')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e732a265-8bb2-46c6-a839-eea51998962b</webElementGuid>
+      <webElementGuid>1cc3522d-069a-4c8b-baca-577217d949dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e8e12cf9-a145-4974-8ab6-04b5c4cffcfc</webElementGuid>
+      <webElementGuid>b5f0ff89-0e76-4188-8e29-9518946b5751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>904dd3b7-e023-4792-a534-423a82f39bc8</webElementGuid>
+      <webElementGuid>2b1d0d3f-e651-466d-9a87-cf0bdf89f01f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>4bbe59cd-022c-4488-b865-26ce47904727</webElementGuid>
+      <webElementGuid>af226193-6f3f-419a-8242-21aeb10484cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:119:5882955270743:::119::</value>
-      <webElementGuid>ae0820ca-ea1d-4bcc-81e2-495ce9880c92</webElementGuid>
+      <webElementGuid>4a6b1ae1-a136-4165-b76f-ac571151738e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>6d6a94de-9827-4e32-9fea-45f4f925128f</webElementGuid>
+      <webElementGuid>699a72d9-8bac-48ad-b17c-c6b6b21ae463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>51249dc6-e14e-4b99-a9cf-505671ddfd9b</webElementGuid>
+      <webElementGuid>406196a7-b351-4088-a84c-0d0f8fd9fdde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Remediation Plan</value>
-      <webElementGuid>011748c7-ce5f-458e-b80b-fa39a4491e57</webElementGuid>
+      <webElementGuid>bca9a2af-6d60-4dc5-9dcf-124c30ddce3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_15&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>3e279dc4-0140-4009-9dfa-fcdf176446b0</webElementGuid>
+      <webElementGuid>c380a38e-4dd9-464c-ad6a-d6a9f7993827</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_15']/div[2]/a</value>
-      <webElementGuid>f1afc63a-a102-439a-9744-4a294f5c0559</webElementGuid>
+      <webElementGuid>1f1449ef-1942-4ccf-88c2-90e5ee153a32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Remediation Plan')]</value>
-      <webElementGuid>fe957f69-317f-4a54-bf15-cc6dfe38cb52</webElementGuid>
+      <webElementGuid>61b8cb32-dc62-4e03-aa68-cf14aa72e092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:119:5882955270743:::119::')]</value>
-      <webElementGuid>5d5f8d86-c975-4754-85fa-413ffc674914</webElementGuid>
+      <webElementGuid>e53f9d1d-be66-4f9f-9893-90e314f597be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/div[2]/a</value>
-      <webElementGuid>24166959-1e44-4ad4-a809-fae2b713aab8</webElementGuid>
+      <webElementGuid>0c7af343-a086-47ed-9221-3adf216a78b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:119:5882955270743:::119::' and (text() = 'Manage Remediation Plan' or . = 'Manage Remediation Plan')]</value>
-      <webElementGuid>d9959805-121e-42ee-9599-9a4757929240</webElementGuid>
+      <webElementGuid>b9eb0ed8-98e4-40d5-ad55-748706af3636</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

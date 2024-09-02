@@ -80,7 +80,7 @@ WebUI.comment('Click on Managde Violation from the navigation menu')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Select the environment as "KTLN_CloudERP"')
 
@@ -215,7 +215,7 @@ WebUI.comment('Verify the record displayed')
 
 WebUI.verifyElementClickable(findTestObject('deba1/Page_Manage Violation/span_a-TreeView-toggle - Copy - Copy 361'))
 
-WebUI.click(findTestObject('deba1/Page_Manage Violation/span_a-TreeView-toggle - Copy - Copy 361'), FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('deba1/Page_Manage Violation/span_a-TreeView-toggle - Copy - Copy 361'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Navigate to Define scope')
 
@@ -228,7 +228,7 @@ WebUI.comment('Clickon Manage Rules from the Navigation menu')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('deba1/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Select the environment as "KTLN_CloudERP"')
 

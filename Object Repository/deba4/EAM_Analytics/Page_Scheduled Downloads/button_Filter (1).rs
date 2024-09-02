@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[3]/div/span/button</value>
+         <value>//button[@id='R160866911876310713_actions_menu_2i']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>21208196-9ee9-45bb-9730-b05fdefac4d2</webElementGuid>
+      <webElementGuid>d604cd1f-72cd-4257-976b-435d3ab9d24f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>70ff5d2a-d81f-454d-ba68-d636567e4408</webElementGuid>
+      <webElementGuid>cc6ef2fc-d6b2-4968-86e4-a72de9f83c5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R160866911876310713_actions_menu_2i</value>
-      <webElementGuid>b97630b5-3913-449e-a418-e80ece3a0a57</webElementGuid>
+      <webElementGuid>a7fab389-9125-435e-abce-000bf68f65ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>9ec80ed6-a77a-4c0c-b918-c32b06388ced</webElementGuid>
+      <webElementGuid>deb7002b-759d-47d1-83ee-e770ecbefdfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-label</value>
-      <webElementGuid>47411840-6db5-4ce8-99ea-d97be9c64dea</webElementGuid>
+      <webElementGuid>6c9e09b5-35f6-4563-872c-90e9472e916c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>6cdae63b-2ae4-4dbd-9380-2b649d7ed14f</webElementGuid>
+      <webElementGuid>d52a0622-c6f8-462a-a0f1-c2ef4b0a5e27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R160866911876310713_actions_menu_2i&quot;)</value>
-      <webElementGuid>63115a77-9a3b-4d2f-8465-0b56cd03c57a</webElementGuid>
+      <webElementGuid>4bbb6297-a0cd-4f35-bb69-71dbc822ed46</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R160866911876310713_actions_menu_2i']</value>
-      <webElementGuid>0512dc00-a8b4-4762-adff-95aff3ed4170</webElementGuid>
+      <webElementGuid>e13be4f1-9cae-4af6-ae47-a396d53bada8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='R160866911876310713_actions_menu_2']/div/span/button</value>
-      <webElementGuid>48b2ca9e-a7ae-4296-8c67-f1f3727dbaf7</webElementGuid>
+      <webElementGuid>fb9eb0b3-8a49-4fe6-9973-7fa5da69b56c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span/button</value>
-      <webElementGuid>ffe0f0e5-04a8-43a8-938f-0fb9c60b8fa6</webElementGuid>
+      <webElementGuid>02843f1f-07a0-407c-b0fc-cf5df3934a6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'R160866911876310713_actions_menu_2i' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>c6d9c0b9-b6a3-4ed4-af5f-3001b194290c</webElementGuid>
+      <webElementGuid>46c722dc-1e40-495d-9f5f-8431b1deaf92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

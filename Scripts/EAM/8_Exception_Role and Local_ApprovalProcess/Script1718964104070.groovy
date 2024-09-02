@@ -167,7 +167,7 @@ WebUI.comment('Click on Manage Exceptions from the Navigation menu')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Select the Environment as "KTLN_CloudERP"')
 

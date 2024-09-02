@@ -54,12 +54,12 @@ WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Home/a_Vi
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/select_Select any oneEBizApp_JDBC_EnvKTLN_C_2c6179'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/select_Select any oneEBizApp_JDBC_EnvKTLN_C_2c6179'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070'), 
-    GlobalVariable.SOD_Test, true, FailureHandling.OPTIONAL)
+    GlobalVariable.SOD_Test, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)
 
@@ -77,8 +77,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.scrollToElement(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/span_a-TreeView-toggle'), 
-    0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_User Violation Report/span_a-TreeView-toggle'))
 
@@ -96,7 +95,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analyti
 
 WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Go (1)'))
 
-WebUI.delay(300)
+WebUI.delay(100)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_Actions (1)'))
 
@@ -159,10 +158,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analyti
 
 WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/span_a-TreeView-toggle (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/span_a-TreeView-toggle (1)'))
@@ -186,12 +181,12 @@ WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any oneEBizApp_JDBC_EnvKTLN_C_2c6179 - 1102'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any oneEBizApp_JDBC_EnvKTLN_C_2c6179 - 1102'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1103'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1103'), 
-    GlobalVariable.SOD_Test, true, FailureHandling.OPTIONAL)
+    GlobalVariable.SOD_Test, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)
 
@@ -286,10 +281,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analyti
 
 WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
-
-WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/button_a-Button a-IRR-button a-Button--noUI_9e60bf (1)'))
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/span_a-TreeView-toggle (1)'))
 
 WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled Downloads/span_a-TreeView-toggle (1)'))
@@ -313,12 +304,12 @@ WebUI.click(findTestObject('Object Repository/deba4/EAM_Analytics/Page_Scheduled
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any oneEBizApp_JDBC_EnvKTLN_C_2c6179 - 1105'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any oneEBizApp_JDBC_EnvKTLN_C_2c6179 - 1105'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1106'))
 
 WebUI.selectOptionByLabel(findTestObject('deba4/EAM_Analytics/Page_User Violation Report/select_Select any OneKTLN_SODTest_Jan05_V2__792070 - 1106'), 
-    GlobalVariable.SOD_Test, true, FailureHandling.OPTIONAL)
+    GlobalVariable.SOD_Test, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)
 

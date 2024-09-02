@@ -6,12 +6,12 @@
    <elementGuidId>5d7d5f2f-4ee1-45f3-9bcc-4900856f2d85</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[2]/div[1]/div/ul/li/ul/li[2]/ul/li[4]/ul/li[1]/div[2]/a</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@href = 'f?p=1180:34:727264976239:::34::' and (text() = 'Manage SOD Test' or . = 'Manage SOD Test')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage SOD Test')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>db6bed68-a118-44e5-ace5-4b730a3bd7ed</webElementGuid>
+      <webElementGuid>083cb6ee-e37a-4349-8f9a-b016fa19497c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>032a86a4-1ff0-4887-ac4c-d1b739b45237</webElementGuid>
+      <webElementGuid>5b60e0df-c87b-4aca-bbc4-20d284ac9f37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>6eb4f05f-087a-485e-89fb-06168c0e1095</webElementGuid>
+      <webElementGuid>ef96fc39-6159-4515-bed0-1ab569b3a59e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>69af41f3-55e4-47c4-b5ea-f7e6eab32ba9</webElementGuid>
+      <webElementGuid>ab126643-ee07-49a4-9fcf-9b87b244b129</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:34:727264976239:::34::</value>
-      <webElementGuid>4b05af3c-39e0-492d-86af-7b216be22632</webElementGuid>
+      <webElementGuid>f5327801-cdff-43b7-b4db-0a201f69e6d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>d4ba6ece-f0e3-4b49-928e-3a3f8def8925</webElementGuid>
+      <webElementGuid>161a0da5-8636-4d4c-aede-7bd7300ddcb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>667146f3-980c-4bb1-948c-a86684bd7db3</webElementGuid>
+      <webElementGuid>b27c5415-d460-47d9-b6a1-3d65b0a914e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage SOD Test</value>
-      <webElementGuid>7243ecd2-74e9-4cb5-bfd6-9844811345be</webElementGuid>
+      <webElementGuid>ede4345a-d513-4a1b-bed9-935fbc2a4cb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_14&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>05cdf826-57dd-45c5-bd3d-4d40c8185416</webElementGuid>
+      <webElementGuid>835e16f7-01b1-4309-9ec2-fe64aef586ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_14']/div[2]/a</value>
-      <webElementGuid>53df6dcc-ab27-493e-a950-f114bdf72c6a</webElementGuid>
+      <webElementGuid>31a36ce6-ccd0-4b83-97d8-cd1b896f7573</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage SOD Test')]</value>
-      <webElementGuid>66d567fb-bbc0-4fea-b7dd-76d8022b9dd7</webElementGuid>
+      <webElementGuid>98b1be7f-9e39-493b-8e1b-7b6defed6b94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:34:727264976239:::34::')]</value>
-      <webElementGuid>5d2ebaa2-4c0f-4449-9554-9ebd657231ff</webElementGuid>
+      <webElementGuid>3dd273d1-71e0-4971-9c2e-9160d6f045fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li/div[2]/a</value>
-      <webElementGuid>fad3eb0d-423d-4da0-bca0-6a140f31ab8e</webElementGuid>
+      <webElementGuid>a106be9f-00ea-4993-ac7d-3027499d3fa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:34:727264976239:::34::' and (text() = 'Manage SOD Test' or . = 'Manage SOD Test')]</value>
-      <webElementGuid>b7163b8b-76d5-40c8-b560-0d2d7f7b7cf6</webElementGuid>
+      <webElementGuid>412f3d02-3c04-4075-bcab-ea8e36910ebf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

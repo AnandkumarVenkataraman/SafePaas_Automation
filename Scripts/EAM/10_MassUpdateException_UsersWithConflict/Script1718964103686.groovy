@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/deba1/Page_Manage Rules/a_Manage V
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (2)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (2)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
 
@@ -261,7 +261,7 @@ WebUI.click(findTestObject('deba1/ManageException_RolesWithConflict/Page_Manage 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/MaasUpdateException_UsersWithConflict/Page_Manage Exception/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/MaasUpdateException_UsersWithConflict/Page_Manage Exception/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/MaasUpdateException_UsersWithConflict/Page_Manage Exception/button_Actions (1) (1)'))
 
@@ -455,7 +455,7 @@ WebUI.click(findTestObject('deba1/RolewithConflict_ApprovalProcess/Page_Home/a_M
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/MaasUpdateException_UsersWithConflict/Page_Manage Exception/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/MaasUpdateException_UsersWithConflict/Page_Manage Exception/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/MaasUpdateException_UsersWithConflict/Page_Manage Exception/button_Actions (1) (1)'))
 

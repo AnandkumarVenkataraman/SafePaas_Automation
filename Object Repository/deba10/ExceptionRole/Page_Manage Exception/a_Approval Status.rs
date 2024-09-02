@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[(text() = 'Approval Status' or . = 'Approval Status')]</value>
+         <value>//th[@id='C157134059118662840']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5f19cf41-d7c6-4cbc-92c3-b8ac8ff0b36b</webElementGuid>
+      <webElementGuid>70a17731-5653-4840-8467-8a5ee027f3ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-headerLink</value>
-      <webElementGuid>bc469040-8d53-4e46-ac4a-9218e9ec84a1</webElementGuid>
+      <webElementGuid>de32043e-47a9-4c7d-9f61-e58b3ef2cdbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-column</name>
       <type>Main</type>
       <value>157134059118662840</value>
-      <webElementGuid>8355f17b-01cb-48c2-92d7-a80f22fdc97d</webElementGuid>
+      <webElementGuid>bf29d90e-77af-4223-b8cf-d7044d05e053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-fht-column-idx</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>674b4198-b979-4001-b927-e87dfb499f39</webElementGuid>
+      <webElementGuid>926293c4-05da-4964-8c84-c410f6df43b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Approval Status</value>
-      <webElementGuid>c9140d9b-a34d-411e-bff0-3513ddc9f88c</webElementGuid>
+      <webElementGuid>30b57eaa-2ced-4512-b7ff-3ec65fb92d08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;157132901689662829&quot;)/tr[1]/th[@id=&quot;C157134059118662840&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
-      <webElementGuid>cc977747-82d7-4cf9-8b52-29457e078503</webElementGuid>
+      <webElementGuid>ff3769fc-adc9-493a-969d-c5d84d49c746</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//th[@id='C157134059118662840']/a</value>
-      <webElementGuid>dd505c61-1737-4c8a-a007-54a4448b1353</webElementGuid>
+      <webElementGuid>6018e3c8-2eba-476b-a9a4-2c0be976eea5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Approval Status')]</value>
-      <webElementGuid>a39d398a-4c5a-403c-bb85-71e839959238</webElementGuid>
+      <webElementGuid>590ccd7c-9b98-45d5-b7f2-d09be3556a50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[9]/a</value>
-      <webElementGuid>b052bf79-e201-4104-bba8-bbdb7547ee0c</webElementGuid>
+      <webElementGuid>ca7c422f-fb92-43db-aabc-70ea57ccbc89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Approval Status' or . = 'Approval Status')]</value>
-      <webElementGuid>57d043bd-343c-4f56-936e-ff9995477871</webElementGuid>
+      <webElementGuid>4e1a739c-3363-4f83-9883-fb03f64e7793</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

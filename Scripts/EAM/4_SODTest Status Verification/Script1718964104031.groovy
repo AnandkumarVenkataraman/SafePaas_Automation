@@ -68,7 +68,7 @@ WebUI.comment('click on Manage SOD test')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/SODTestVerification/Page_Manage SOD Test/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Select the environment as "KTLN_CloudERP"')
 

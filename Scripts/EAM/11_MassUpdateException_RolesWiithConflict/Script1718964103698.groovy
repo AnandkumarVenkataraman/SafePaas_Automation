@@ -50,7 +50,7 @@ WebUI.click(findTestObject('deba1/Page_Manage Rules/a_Manage Violation - 572'))
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1) (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageException_RolesWithConflict/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1) (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
 

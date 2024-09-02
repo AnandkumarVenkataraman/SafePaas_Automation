@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div/button</value>
+         <value>//button[@id='P74_REQUEST_NAME_lov_btn']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3a08a879-d73e-4c1e-ad70-4ed4dcec670e</webElementGuid>
+      <webElementGuid>22ec18e7-851d-4e1a-9ccc-4f70a1c8d526</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7c30079d-ec12-447a-ac51-b22f395535e9</webElementGuid>
+      <webElementGuid>b6afe8a8-365e-4251-964c-daed90a3a44d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9bf5a158-28bf-4aca-8ff0-6a2bef0ee3e8</webElementGuid>
+      <webElementGuid>eeedd135-13fb-4b6f-a021-2d7200e1f749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-Button--popupLOV</value>
-      <webElementGuid>64f7bed3-2c0b-4ac8-a9c4-2d05476e12aa</webElementGuid>
+      <webElementGuid>1dbc7267-4b46-4bea-a33c-e23bd1f129ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P74_REQUEST_NAME_lov_btn</value>
-      <webElementGuid>d2b20e48-2d81-4490-a884-5fcff1b4535e</webElementGuid>
+      <webElementGuid>5c0fc5df-c1ce-402e-bb22-5eada6c83c72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>7702a17a-54fb-46f0-acbe-b6621da911d6</webElementGuid>
+      <webElementGuid>7e247bd1-39bb-4f1b-b689-eeb800e5c09c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P74_REQUEST_NAME_lov_btn&quot;)</value>
-      <webElementGuid>53ed7fce-7030-4c2b-907b-d0882286bf25</webElementGuid>
+      <webElementGuid>5325e842-dcd4-4c08-8443-f96ce1d8197a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='P74_REQUEST_NAME_lov_btn']</value>
-      <webElementGuid>ae523169-5dd4-4c77-89ef-f5c5d48355c2</webElementGuid>
+      <webElementGuid>b5b5851a-660f-4bf6-ab9c-948be0a83d56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P74_REQUEST_NAME_CONTAINER']/div[2]/div/div/button</value>
-      <webElementGuid>de8bf344-8064-41a1-9369-a30ffd290b6e</webElementGuid>
+      <webElementGuid>a987afd0-6c08-476a-b780-5cec2f5f1a94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button</value>
-      <webElementGuid>7b46b258-aa7e-48f2-8aca-d3ab0fb560b9</webElementGuid>
+      <webElementGuid>222c66f2-e862-4a7a-889f-f265883e86db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'P74_REQUEST_NAME_lov_btn']</value>
-      <webElementGuid>d748ab59-0b84-44bd-9dba-ceade58e6f3e</webElementGuid>
+      <webElementGuid>29b957a1-9120-401f-9c98-e4a4fb903fe1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -57,7 +57,7 @@ WebUI.click(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Home
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageReviewStatus/Page_Manage Review Status/button_Actions'))
 
@@ -114,7 +114,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/SODReviewStatus_P
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD049089D65B7CAFB4574EC8A79A6DC181')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD841A4DEDCEF30BAB313B72691CF102DF')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewStatus_PO_AP/Page_User Manage Violation/h2_Remediate Violation Survey -  KTLN_SODRe_bb7226 (1) (1) (1) (1) (1) (1) (1)'))
 

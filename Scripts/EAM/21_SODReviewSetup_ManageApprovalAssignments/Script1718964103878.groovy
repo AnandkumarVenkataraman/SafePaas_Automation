@@ -46,7 +46,7 @@ WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/a_Man
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/select_Select any oneCERP_1CloudERPEBizApp__c5e50a'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/select_Select any oneCERP_1CloudERPEBizApp__c5e50a'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/ManageApprovalAssignments/Page_Manage Approval Assignments/button_Actions'))
 

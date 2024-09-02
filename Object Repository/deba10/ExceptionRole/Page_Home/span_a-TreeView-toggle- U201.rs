@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[2]/div[1]/div/ul/li/ul/li[2]/span</value>
+         <value>//span[text()='Enterprise Access Monitor']//preceding::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>77045edd-9eb9-4fed-a761-159fa406242e</webElementGuid>
+      <webElementGuid>a4bfdf08-c141-4e83-8c07-8504c3d51649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>be8726ae-3576-4f1d-a1d3-35d7d7ec0026</webElementGuid>
+      <webElementGuid>e2222bb7-cb92-401d-bfdc-93aa60852390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_7&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>b0d9de62-8cfb-4ca0-b36f-bb8b121f3b9c</webElementGuid>
+      <webElementGuid>7ee750c2-aa8c-441b-a7f2-0a0067a134a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_7']/span</value>
-      <webElementGuid>bab3a7b8-0104-44b3-b955-b556510aac48</webElementGuid>
+      <webElementGuid>39c9fb7f-5002-467f-8cce-e85632ee4cad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/span</value>
-      <webElementGuid>20819051-5dff-4f2f-89c9-3c80047a9ada</webElementGuid>
+      <webElementGuid>e4973f18-e73d-4d06-9a30-c7625cb99fe2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

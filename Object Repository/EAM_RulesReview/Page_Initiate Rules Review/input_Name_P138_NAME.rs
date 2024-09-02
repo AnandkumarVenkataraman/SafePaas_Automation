@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type = 'text' and @id = 'P138_NAME' and @name = 'P138_NAME']</value>
+         <value>//input[@id='P138_NAME']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bc344cbd-3f32-45ed-8cec-d3ffcc789db8</webElementGuid>
+      <webElementGuid>1d3ac2c6-bd93-4659-b0ca-9fb6182a81df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0eced108-a1d2-4bbe-a4b5-a2ed0a01311f</webElementGuid>
+      <webElementGuid>5282f761-5fa2-4535-a832-cc91f1f21a95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P138_NAME</value>
-      <webElementGuid>5c4e0c7e-57e1-4cd7-beee-3205cffaccbb</webElementGuid>
+      <webElementGuid>962ed379-eada-422a-9abe-4d5fb7cfceaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P138_NAME</value>
-      <webElementGuid>f4686d1b-47ae-4ebc-aedb-a60620d38a14</webElementGuid>
+      <webElementGuid>63e619ac-34c2-42f5-ad9a-2686382fcbfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text_field apex-item-text</value>
-      <webElementGuid>555aba4b-4236-4376-a706-d7907681b954</webElementGuid>
+      <webElementGuid>8a3ce137-6bc6-41bd-bc3b-4069f3381165</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>size</name>
       <type>Main</type>
       <value>60</value>
-      <webElementGuid>6b6261b3-3852-4959-93dd-ae24dd6f944a</webElementGuid>
+      <webElementGuid>006c4e11-4ac6-42ae-88ee-c1ef71429d7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P138_NAME&quot;)</value>
-      <webElementGuid>87aecf9e-bd3f-49fc-b8ce-549a864b624b</webElementGuid>
+      <webElementGuid>80df85b0-1a58-40ab-90f7-340b46b9cb11</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'P138_NAME' and @name = 'P138_NAME']</value>
-      <webElementGuid>7ba32c55-ca1d-42e9-a6bc-2bcc73e31339</webElementGuid>
+      <webElementGuid>fd44cae2-d35f-4671-b9a2-4ac816bf3741</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='P138_NAME']</value>
-      <webElementGuid>3bdfff84-f37e-4ecb-944f-4ec1f5c89a17</webElementGuid>
+      <webElementGuid>d64aaecf-2f5b-4daf-aab9-3b17be376d17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div[2]/div/input</value>
-      <webElementGuid>d568a931-7919-4c9b-ade0-c378fdd4cb47</webElementGuid>
+      <webElementGuid>644d5fd6-ef47-45cd-abbe-5600cfa3a8b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P138_NAME_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>6103c5bd-fb6d-487e-ae2b-65e7f84313e2</webElementGuid>
+      <webElementGuid>78f73f79-46b9-403a-9957-ab2f2ec4117e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

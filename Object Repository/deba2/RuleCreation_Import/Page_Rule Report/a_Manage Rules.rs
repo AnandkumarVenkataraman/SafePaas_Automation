@@ -6,12 +6,16 @@
    <elementGuidId>e6461fe6-4fda-4b0a-950f-8a79bd353abf</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1180:7:707622460223:::::' and (text() = 'Manage Rules' or . = 'Manage Rules')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='R240791628227405174']/div/div/ul/li[4]/a</value>
+         <value>//a[@href = 'f?p=1180:7:14973841533990:::7::' and (text() = 'Manage Rules' or . = 'Manage Rules')]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>20c8539a-e4d7-4b22-854c-d9dd3f38068a</webElementGuid>
+      <webElementGuid>8543367d-ae15-43ea-8025-12d959a2f45a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:7:707622460223:::::</value>
-      <webElementGuid>b54366cd-6ef2-4f1f-8c87-5663807f53ab</webElementGuid>
+      <webElementGuid>a02cc811-9945-47bc-83fa-008433cb791e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Breadcrumb-label</value>
-      <webElementGuid>9c1a0d3c-7cf5-47f6-abe1-5bab3b3923f3</webElementGuid>
+      <webElementGuid>879c3992-0743-472d-a579-8b025719c207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Rules</value>
-      <webElementGuid>801967f7-74bb-4d51-9971-60698b50fddf</webElementGuid>
+      <webElementGuid>6d44679a-4ae5-458a-bf18-fee903b4bbd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R240791628227405174&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
-      <webElementGuid>bfbbeda0-6854-4c48-8fe0-bfeb5379a5fc</webElementGuid>
+      <webElementGuid>e9e25277-0be2-4922-b81e-be3a60a3c627</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R240791628227405174']/div/div/ul/li[4]/a</value>
-      <webElementGuid>e9fe0b72-60f8-4e24-89e6-8e8cb94de87b</webElementGuid>
+      <webElementGuid>1dc0a67d-8a9e-4924-ad5d-52557520a485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Manage Rules')])[2]</value>
-      <webElementGuid>88120374-3c94-45aa-a456-b3e3c9429925</webElementGuid>
+      <webElementGuid>fda406c4-a423-4eaf-9c85-cabe919aa383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:7:707622460223:::::')]</value>
-      <webElementGuid>c2caa869-fdca-46cd-bd8a-3d3abdc62a57</webElementGuid>
+      <webElementGuid>b1466a22-2deb-4d14-b2b9-58d174557981</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,14 +90,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>6899b085-c6df-4fbc-82db-6fa02df3bded</webElementGuid>
+      <webElementGuid>04910b23-6b2f-49a3-8ece-34827eab7e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1180:7:707622460223:::::' and (text() = 'Manage Rules' or . = 'Manage Rules')]</value>
-      <webElementGuid>83e1bdaa-7f71-424a-ba59-c17752f1b357</webElementGuid>
+      <value>//a[@href = 'f?p=1180:7:14973841533990:::7::' and (text() = 'Manage Rules' or . = 'Manage Rules')]</value>
+      <webElementGuid>73560557-dbbd-45dc-b4a8-a308e0cc14a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

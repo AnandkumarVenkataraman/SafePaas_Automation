@@ -53,7 +53,7 @@ WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Violation - 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
 
@@ -159,7 +159,7 @@ WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
 
@@ -307,7 +307,7 @@ WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
 

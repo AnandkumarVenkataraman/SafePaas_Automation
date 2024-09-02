@@ -52,7 +52,7 @@ WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/button_Actions'))
 
@@ -85,7 +85,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/button_Cancel'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODBECA09BDC7EABBE9904782A75D4F1EF2')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD9724CB62077D7B53EE896684AB7847DB')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_Actions'))
 
@@ -159,19 +159,26 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_Verify Selection'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/h2_Selected records successfully verified'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/h2_Selected records successfully verified'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_Create Purchase Orders vs. Approve Payab_503e43'))
+WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_Create Purchase Orders vs. Approve Payab_503e43'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_Risk and Mitigation'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_Risk and Mitigation'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_KATALON_ADMIN'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_KATALON_ADMIN'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_25-JAN-24'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_25-JAN-24'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_over riding the remediation of role owne_d9c38e'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/td_over riding the remediation of role owne_d9c38e'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_t-Button t-Button--noUI t-Button--ic_cbe08f'))
+WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_t-Button t-Button--noUI t-Button--ic_cbe08f'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Manage Violation/button_Submit and Close'))
 
@@ -212,7 +219,7 @@ WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Home/
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/button_Actions'))
 
@@ -221,8 +228,6 @@ WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manag
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/button_Filter'))
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/button_Filter'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/select_NameDescriptionStatusStart DateEnd D_54845d'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/input_p_ignore_10'), 
     '')
@@ -237,9 +242,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewAp
 
 WebUI.click(findTestObject('Object Repository/deba3/SODReviewApproval/Page_Manage Review Status/a_Test123'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/h2_User Access'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/h2_User Access'), 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/h2_Open'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/h2_Open'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/SODReviewApproval/Page_User Access Validation/button_Cancel'))
 

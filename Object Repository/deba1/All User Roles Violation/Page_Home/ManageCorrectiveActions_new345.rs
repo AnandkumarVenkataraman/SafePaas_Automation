@@ -6,16 +6,16 @@
    <elementGuidId>510e9b9d-bef8-4da6-a7ce-edbd0c36b0b0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1180:126:22996276175062:::126::' and (text() = 'Manage Corrective Action' or . = 'Manage Corrective Action')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_12']/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Corrective Action')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>a.a-TreeView-label.is-focused</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = 'f?p=1180:126:22996276175062:::126::' and (text() = 'Manage Corrective Action' or . = 'Manage Corrective Action')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>150baaa6-f1d6-4dfd-af72-1d8bb57707c4</webElementGuid>
+      <webElementGuid>d6d656f0-e055-48a2-a9ab-3cc14945111c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cd2635ba-0fde-4443-a40b-607c82cb4468</webElementGuid>
+      <webElementGuid>2cc9b74b-51ae-4275-81ac-99b1fd7aff03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>32bb2562-06bd-4f86-bc6a-bbd9765e00b1</webElementGuid>
+      <webElementGuid>86470d29-d118-4540-858a-2a2571aacd28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>499b3e8f-27ea-4011-aac3-9cc1a3759d41</webElementGuid>
+      <webElementGuid>09badd8c-ea1a-4067-8670-2e63423f9364</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:126:22996276175062:::126::</value>
-      <webElementGuid>ec712bc4-c781-43cc-b0ed-5658bc3d9e25</webElementGuid>
+      <webElementGuid>157f25d6-8c3b-44ba-bb35-c4d9d1c09ee7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>ae8dc582-51fd-4e78-9666-d590075613d6</webElementGuid>
+      <webElementGuid>2ef55a0e-4385-479c-9ab0-c3452fda5d1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>54353227-3eef-4f8e-ad4e-3970f85852aa</webElementGuid>
+      <webElementGuid>88a21d02-f763-4ab4-a0ba-9fb75722300b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Corrective Action</value>
-      <webElementGuid>33a5d53e-51ba-4f55-875b-14d198543ed6</webElementGuid>
+      <webElementGuid>429047c6-879c-48b2-a15f-bfcccb953214</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_12&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>065a6b98-3848-4bf3-a9d0-0f72a920f632</webElementGuid>
+      <webElementGuid>87ac586e-ded1-4330-a0ef-553b7d23ddaf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_12']/div[2]/a</value>
-      <webElementGuid>1e30239c-287d-49b8-ad20-ed4ac4aaec19</webElementGuid>
+      <webElementGuid>b3913ef1-0653-43c4-a7aa-e58355b793b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Corrective Action')]</value>
-      <webElementGuid>da1e4748-0628-48af-9a02-91a587ad7f28</webElementGuid>
+      <webElementGuid>7ac576bb-63c7-45f3-befa-7887869c55a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:126:22996276175062:::126::')]</value>
-      <webElementGuid>d4b77474-1b26-4c0b-bf58-9a36b2e5a555</webElementGuid>
+      <webElementGuid>a133ceab-d063-4b96-80cb-2de1c351edca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div[2]/a</value>
-      <webElementGuid>1f5a5320-0bfe-4544-982b-3fce6faeb411</webElementGuid>
+      <webElementGuid>fe913e8e-5ec6-44cd-a2ac-4259d59f02d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:126:22996276175062:::126::' and (text() = 'Manage Corrective Action' or . = 'Manage Corrective Action')]</value>
-      <webElementGuid>f76e632c-1fb5-43a7-9b3a-44ce57b4b6b7</webElementGuid>
+      <webElementGuid>ce69c069-acde-472c-af7d-600da5804d8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

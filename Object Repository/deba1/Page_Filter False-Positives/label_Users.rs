@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='P41_FILTER_GROUP']/div/div/div[3]/label</value>
+         <value>//label[(text() = 'Users' or . = 'Users')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>9fcc4c44-d885-402f-a511-e296d61e2bc0</webElementGuid>
+      <webElementGuid>a4e13789-1f47-4dc7-96f6-f449b0134084</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>9f7a6af5-499d-4b96-baeb-d606d3a5b7ac</webElementGuid>
+      <webElementGuid>2ea4d95a-fa49-4b8b-b393-449b75fbea0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P41_FILTER_GROUP_2</value>
-      <webElementGuid>3bc39249-f048-4404-9e2e-e78d19e1bbfe</webElementGuid>
+      <webElementGuid>9d0de88b-57b4-4180-9a2c-8d43f123de5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Users</value>
-      <webElementGuid>7462ad97-6f87-4550-ab53-ab4a3a9d5429</webElementGuid>
+      <webElementGuid>310ba24c-c929-4a75-bac1-f6205e0092fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P41_FILTER_GROUP&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>8264a98e-508b-4422-93ef-2e12ee8417fb</webElementGuid>
+      <webElementGuid>aedb93cf-4e98-454a-963a-06720ba08bcf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P41_FILTER_GROUP']/div/div/div[3]/label</value>
-      <webElementGuid>b61ecb68-683c-444d-8cf9-ed6b6172651a</webElementGuid>
+      <webElementGuid>d0c4969a-29c4-4539-bd0b-b1a2fa6d128b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/label</value>
-      <webElementGuid>e5b0043b-63a4-42f0-b949-1bdc69e9c839</webElementGuid>
+      <webElementGuid>d871d83d-266b-452c-a418-9cdf2784e207</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Users' or . = 'Users')]</value>
-      <webElementGuid>2224c595-fe3d-4c9f-8622-1aeda45adf36</webElementGuid>
+      <webElementGuid>a13ebcc3-5e99-4688-ab1e-da63551b155a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

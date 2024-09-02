@@ -32,7 +32,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/EAM_RulesReview/Status/
 
 WebUI.click(findTestObject('Object Repository/EAM_RulesReview/Status/Page_Login/button_Login'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_entrypoint?URLC=CD858B540AF59C2A37E6A49B3ADADA60&P_SURVEY=RR')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_entrypoint?URLC=06324B740327991B49AA57CAB4F05043&P_SURVEY=RR')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EAM_RulesReview/RuleReview_Submit/Page_Review Rules/a_Maintain Customer Master vs. Maintain Sup_8e16f4'))
 
@@ -211,7 +211,7 @@ WebUI.click(findTestObject('Object Repository/EAM_RulesReview/RulesReview status
 WebUI.verifyElementClickable(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/select_Select any oneEBizApp_JDBC_EnvKTLNCl_1d34dc'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/select_Select any oneEBizApp_JDBC_EnvKTLNCl_1d34dc'), 
-    'KTLN_DEV22', true, FailureHandling.OPTIONAL)
+    'KTLN_DEV22', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 

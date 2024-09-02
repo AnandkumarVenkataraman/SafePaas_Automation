@@ -6,15 +6,19 @@
    <elementGuidId>3ebe171d-6061-40d1-adf3-ff2e1620e2d4</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'B220239183771899238' and (text() = 'Submit and Close' or . = 'Submit and Close')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#submitClose</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='submitClose']</value>
+         <value>//button[@type = 'button' and @id = 'submitClose' and (text() = 'Submit and Close' or . = 'Submit and Close')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4944f97f-09f0-4095-8194-613accfa3fd0</webElementGuid>
+      <webElementGuid>e4976e30-5333-4740-b9c8-ea0799409850</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'SUBMIT',validate:true});</value>
-      <webElementGuid>f7e1cf54-d4b7-4e93-97a8-c3c5739a11d6</webElementGuid>
+      <webElementGuid>5614f54e-57a2-4611-9594-d3d7066be8fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button</value>
-      <webElementGuid>3b897eb8-7d1f-48e0-92e3-f0e543a75f96</webElementGuid>
+      <webElementGuid>002fc5b7-8b64-473f-8756-65ea53f00356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +50,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f0522bdd-42cf-4faa-aec9-af2b16fd8b75</webElementGuid>
+      <webElementGuid>2998b119-64dc-46b9-bd62-44d4b8e1871c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>submitClose</value>
-      <webElementGuid>8b8f6bc2-39bf-49d2-a27b-445140a3348a</webElementGuid>
+      <value>B220239183771899238</value>
+      <webElementGuid>013a1945-a66c-4bc8-868f-ac2bf55cf865</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit and Close</value>
-      <webElementGuid>ae3d0d65-82f8-4f4f-a4f2-d7d9dad752e6</webElementGuid>
+      <webElementGuid>6987c8ff-233c-4c24-99b5-cbc0dc3444ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;submitClose&quot;)</value>
-      <webElementGuid>5de39ff2-ac74-4440-a0a2-377b8ccabfa3</webElementGuid>
+      <webElementGuid>f635414b-be52-4d58-a9ad-7f0124fb64ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='submitClose']</value>
-      <webElementGuid>55882750-10f9-4c0d-bbed-6c3b4401c204</webElementGuid>
+      <webElementGuid>85ef6100-0b42-4e63-8d64-ee57134df2b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='search']/div/div[2]/button[2]</value>
-      <webElementGuid>60caf888-858f-4aa9-8e2b-033fd206459d</webElementGuid>
+      <webElementGuid>198f06f7-c7d3-4c37-9c77-9e3fe1e73ad2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>ab4b6da5-c0f7-4f42-be75-ca29c5e02f49</webElementGuid>
+      <webElementGuid>b3f4f49a-c828-4206-a4d8-3d0fc9ecc3fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'submitClose' and (text() = 'Submit and Close' or . = 'Submit and Close')]</value>
-      <webElementGuid>74d6b3cb-9577-465b-b3b2-e2dcaec9b41d</webElementGuid>
+      <webElementGuid>8595fe96-524b-4465-ba89-4e78eac7a5d3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

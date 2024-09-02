@@ -68,7 +68,7 @@ WebUI.comment('Click on Manage Violation')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('select the environment as "KTLN_CloudERP"')
 
@@ -197,7 +197,7 @@ WebUI.comment('Click on User Listing and Access navigation menu')
 WebUI.verifyElementClickable(findTestObject('deba1/Page_User Listing/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 - Copy'))
 
 WebUI.selectOptionByLabel(findTestObject('deba1/Page_User Listing/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 - Copy'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Select the environment as "KTLN_CloudERP"')
 

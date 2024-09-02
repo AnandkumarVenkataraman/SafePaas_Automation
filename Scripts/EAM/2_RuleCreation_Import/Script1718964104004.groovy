@@ -478,7 +478,7 @@ WebUI.comment('Click on Manage Rules')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Click on environment : KTLN_CloudERP')
 
@@ -639,7 +639,7 @@ WebUI.comment('Go to Manage Rules')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('select the environment as "KTLN_CloudERP"')
 
@@ -698,9 +698,6 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba2/RuleCreation_
 WebUI.takeFullPageScreenshot()
 
 WebUI.comment('Capture all the details')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/a_Manage Rules'), 
-    0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba2/RuleCreation_Import/Page_Rule Report/a_Manage Rules'))
 

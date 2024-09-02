@@ -6,16 +6,16 @@
    <elementGuidId>9fbfe139-2e37-4da9-8cec-8ff225927819</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div[2]/div[1]/div/ul/li/ul/li[2]/ul/li[4]/ul/li[3]/div[2]/a</value>
+         <key>BASIC</key>
+         <value>//*[@href = 'f?p=1180:43:16838148008527:::43::' and (text() = 'Manage Exception' or . = 'Manage Exception')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>a.a-TreeView-label.is-focused</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = 'f?p=1180:43:16838148008527:::43::' and (text() = 'Manage Exception' or . = 'Manage Exception')]</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage Exception')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0d66a4b6-7da2-4505-9150-812bd49c6352</webElementGuid>
+      <webElementGuid>fc26e5b9-59ac-4819-ae4a-fc7fca16af6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0a4a9296-fa44-4b97-af5f-db996a0805b7</webElementGuid>
+      <webElementGuid>19ecf24d-b2b4-4275-a736-54bbc8fbcb01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>62910735-25cb-4e85-a074-bd79c20b86ec</webElementGuid>
+      <webElementGuid>764b95a8-86a0-49e9-a861-c930425e4270</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>d0e8c7f0-2a4e-41ab-9c5b-b7b284f09625</webElementGuid>
+      <webElementGuid>742aad13-ca9b-4fea-9697-8481db59bcb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:43:16838148008527:::43::</value>
-      <webElementGuid>5165616c-adec-4e48-8ce6-6ab098157bd6</webElementGuid>
+      <webElementGuid>7772ae64-cba6-41e4-9c53-91d524b629db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>10474f78-e922-48d6-8707-7b69e34b124d</webElementGuid>
+      <webElementGuid>ea8bbd86-ae84-4bcc-9664-8e60a9b97014</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>036d74df-649d-4c51-b276-e0df8e4c7ed3</webElementGuid>
+      <webElementGuid>85a174ce-730c-4d79-be04-7234d325b571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Exception</value>
-      <webElementGuid>8a074b0d-6be3-498d-8702-e8c46f635d75</webElementGuid>
+      <webElementGuid>1c96ccd8-aa32-47a4-b5a1-e6354c966218</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_13&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>d12387d4-7895-4675-879d-62caaa92bdff</webElementGuid>
+      <webElementGuid>5e301070-772f-48ba-ae7f-ece4d563d906</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_13']/div[2]/a</value>
-      <webElementGuid>5d8edb04-1e7a-48db-a9c0-22b9f19b03da</webElementGuid>
+      <webElementGuid>525f4c98-8c79-407c-a3af-ab2d3004b428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Exception')]</value>
-      <webElementGuid>4a790a9b-475b-427d-ab43-73f8c108d3b4</webElementGuid>
+      <webElementGuid>65d1d14a-228d-4625-be59-75d3cfdde485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:43:16838148008527:::43::')]</value>
-      <webElementGuid>713d3af5-c853-4d06-b164-cebcc8bdcb29</webElementGuid>
+      <webElementGuid>aecc8a4d-6edf-45e5-97fa-a8df76aedd62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div[2]/a</value>
-      <webElementGuid>367d66a7-0081-4ec7-a117-ab369dab884e</webElementGuid>
+      <webElementGuid>7d9ed80b-575b-42e0-bba3-791f65fa2615</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:43:16838148008527:::43::' and (text() = 'Manage Exception' or . = 'Manage Exception')]</value>
-      <webElementGuid>fb4b1dc1-d6ed-402d-b4cd-1474afb7cfe2</webElementGuid>
+      <webElementGuid>0069db54-20c9-484e-b949-55bf4498988e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

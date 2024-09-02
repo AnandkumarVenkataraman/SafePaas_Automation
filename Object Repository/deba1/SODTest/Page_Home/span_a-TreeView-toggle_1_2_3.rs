@@ -6,15 +6,19 @@
    <elementGuidId>3734f4c3-9766-44cf-b7b0-495d13f99cac</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;t_TreeNav_7&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_7']/span</value>
+         <value>//span[text()='Detect Violations']//preceding::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#t_TreeNav_7 > span.a-TreeView-toggle</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5cb39888-03d4-4356-87aa-b37432f4fe0e</webElementGuid>
+      <webElementGuid>a73a0bf1-1f22-40c4-ae67-485c4e14c3d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>89d13329-26d9-400d-aad0-578989d134a5</webElementGuid>
+      <webElementGuid>6b25d768-be5d-4b02-8207-efeaf8b82d3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_7&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>7ecbe836-467f-45e6-95c7-69153ca91cfd</webElementGuid>
+      <webElementGuid>4752ee39-0ddb-4827-b9fb-686e98f95e5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_7']/span</value>
-      <webElementGuid>d0005e18-37c5-4072-8e9a-a249c81ec1db</webElementGuid>
+      <webElementGuid>d9e00118-614c-4187-bdd5-4bc2f6fb238b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/span</value>
-      <webElementGuid>fc5a187b-b986-4140-a79e-600a187a88dd</webElementGuid>
+      <webElementGuid>cbf02d55-a1a6-462a-930e-19b8a9b05a55</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

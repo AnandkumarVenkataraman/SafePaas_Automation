@@ -763,7 +763,7 @@ WebUI.comment('Go to Manage Rules')
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1) (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1) (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageActivity/Page_Manage Rules/button_Actions'))
 

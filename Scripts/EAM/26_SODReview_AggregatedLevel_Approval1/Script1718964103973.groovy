@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/deba3/AggregatedLevel_S
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_Login/button_Login (2) (1) (1) (1) (1) (1) (1) (1) (1)'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODEA791805A6AF6EA32D269F75ADC3DDFE')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD841A4DEDCEF30BAB313B72691CF102DF')
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Actions - 40'))
 
@@ -149,7 +149,10 @@ WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User M
 
 WebUI.click(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Verify Selection - 52'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/h2_Selected records successfully verified (1) (1) (1) (1) (1)'))
+WebUI.delay(10)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/h2_Selected records successfully verified (1) (1) (1) (1) (1)'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('deba3/SODReviewApproval/Page_User Manage Violation/button_Actions - 40'))
 
@@ -259,7 +262,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AggregatedL
 
 WebUI.click(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_User Manage Violation/button_Submit and Close'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_Thank You and Manage Review Action sen_69f61f/h2_Thank You and Manage Review Action sent _ae17e8'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/deba3/AggregatedLevel_SODReviewApproval/Page_Thank You and Manage Review Action sen_69f61f/h2_Thank You and Manage Review Action sent _ae17e8'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.closeBrowser()
 

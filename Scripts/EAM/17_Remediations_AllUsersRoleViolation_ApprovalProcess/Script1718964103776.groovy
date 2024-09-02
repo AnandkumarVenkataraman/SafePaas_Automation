@@ -51,7 +51,7 @@ WebUI.click(findTestObject('deba1/All User Roles Violation/Page_Home/ManageCorre
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Manage Corrective Action/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Manage Corrective Action/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Actions'))
 
@@ -219,7 +219,7 @@ WebUI.click(findTestObject('deba1/All User Roles Violation/Page_Home/a_Manage Co
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Manage Corrective Action/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (2)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Manage Corrective Action/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (2)'), 
-    'KTLN_CloudERP', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba3/AllUsersViolation_ApprovalProcess/Page_Manage Corrective Action/button_Actions'))
 

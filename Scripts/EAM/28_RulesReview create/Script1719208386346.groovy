@@ -53,7 +53,7 @@ WebUI.click(findTestObject('Object Repository/EAM_RulesReview/RulesReview status
 WebUI.verifyElementClickable(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/select_Select any oneEBizApp_JDBC_EnvKTLNCl_1d34dc'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EAM_RulesReview/RulesReview status/Page_Manage Rules Review/select_Select any oneEBizApp_JDBC_EnvKTLNCl_1d34dc'), 
-    'KTLN_DEV22', true, FailureHandling.OPTIONAL)
+    'KTLN_DEV22', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 

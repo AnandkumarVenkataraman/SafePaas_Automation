@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_21']/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Review Status')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1c0b8dc5-3221-4e70-b47e-298d76a41f5d</webElementGuid>
+      <webElementGuid>c852752d-3bd3-4090-872e-375300f22053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b3588097-1305-481b-bc32-6d5016bb916a</webElementGuid>
+      <webElementGuid>9ac61d9f-927d-4e8f-9f93-dc1ef107c894</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>85d497fe-258f-4f2a-a632-cf958a38d3f9</webElementGuid>
+      <webElementGuid>e3d0d1a1-04c8-4662-9ce6-6bc3eb2330e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label is-focused</value>
-      <webElementGuid>1f410e46-26dc-4536-958f-dadc76958d62</webElementGuid>
+      <webElementGuid>188a652d-c004-4bc4-a674-8e5126cf95b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:185:10818711959421:::185::</value>
-      <webElementGuid>243067f9-bf46-4739-adeb-4171375c3002</webElementGuid>
+      <webElementGuid>166d43e5-d450-4e7e-9c56-f6bf0a5015d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>a9745cff-9766-4d83-98b8-da04c6b2fb3c</webElementGuid>
+      <webElementGuid>f268331e-9ddf-46c2-be6c-18082bc88a10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>defb9d0d-769d-46c5-a194-a708409e5222</webElementGuid>
+      <webElementGuid>5e5c2292-8895-4fd1-a052-42450984a3ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Review Status</value>
-      <webElementGuid>7247d8c3-752a-411b-bf26-7219e6c68c9f</webElementGuid>
+      <webElementGuid>1b2c1b75-7944-42a4-a43e-0963c853b796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_21&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>419d4740-6a88-4917-9fe8-41173189914a</webElementGuid>
+      <webElementGuid>6d98ac1e-2f09-420d-afcc-555771e2fa48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_21']/div[2]/a</value>
-      <webElementGuid>f2c4ef66-2ac3-4868-bd45-ec9a633e211e</webElementGuid>
+      <webElementGuid>9cd8182c-d239-41c1-9ece-95d32baf5555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Review Status')]</value>
-      <webElementGuid>24672c29-3911-49bc-a681-d6476e7dcaa6</webElementGuid>
+      <webElementGuid>b974b9a8-2774-4dca-b9c5-6a9f7e7ddbf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:185:10818711959421:::185::')]</value>
-      <webElementGuid>534fd352-e1b7-4c3d-9ff6-6ac0fdadd838</webElementGuid>
+      <webElementGuid>f184e055-1e13-4529-943d-d8dba074e633</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>182350b1-6e21-4bfa-a20c-5490c2f435c1</webElementGuid>
+      <webElementGuid>95abdd0d-5f61-41d7-b714-e6dcbf50d488</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:185:10818711959421:::185::' and (text() = 'Manage Review Status' or . = 'Manage Review Status')]</value>
-      <webElementGuid>29635306-3ec4-47ce-ab8c-820c5e440848</webElementGuid>
+      <webElementGuid>f663e872-b166-452d-9d33-e147bb0a314c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
