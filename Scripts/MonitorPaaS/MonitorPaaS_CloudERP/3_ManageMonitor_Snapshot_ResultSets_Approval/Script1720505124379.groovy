@@ -89,7 +89,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:APPROVER,100912,315959,41312,324025')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:APPROVER,100912,316235,41512,324145')
 
 WebUI.delay(5)
 
