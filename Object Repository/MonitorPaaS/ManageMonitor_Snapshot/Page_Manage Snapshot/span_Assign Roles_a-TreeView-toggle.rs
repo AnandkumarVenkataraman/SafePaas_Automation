@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_1']/span</value>
+         <value>//span[text()='MonitorPaaS']//preceding::span[@class='a-TreeView-toggle'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>106b2367-8a20-4d26-a3b2-1fba128d0cf2</webElementGuid>
+      <webElementGuid>9bce6e7f-ca20-4145-b25f-37658c317b1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>08024a28-68e4-4ae9-a623-b6084cb55281</webElementGuid>
+      <webElementGuid>50efac5a-35eb-45a7-86c7-24d36f9189f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_1&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>fd6a0302-d7d1-4a3e-a2a7-dba5486e8c86</webElementGuid>
+      <webElementGuid>cb566929-f4fc-4097-be41-17861863d900</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_1']/span</value>
-      <webElementGuid>5879049e-1723-4457-b350-fe1379b3348d</webElementGuid>
+      <webElementGuid>e1ece996-3270-4bd7-ab3d-0a795549a253</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/span</value>
-      <webElementGuid>21ed04c9-2b01-4e62-901c-d123ee1f1b7b</webElementGuid>
+      <webElementGuid>c5c0d24a-13d9-4fe1-8b87-f2b30bfd2759</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
