@@ -56,7 +56,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Survey/
 
 WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Manage Certification/button_Create'))
 
-WebUI.verifyElementText(findTestObject('NewEACM/Page_Initiate User Access/label_Risk level'), 'Risk level', FailureHandling.OPTIONAL)
+WebUI.verifyElementText(findTestObject('NewEACM/Page_Initiate User Access/label_Risk level'), 'Risk level', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('NewEACM/Page_Initiate User Access/select_Select any oneHIGHMEDIUMLOW'))
 
