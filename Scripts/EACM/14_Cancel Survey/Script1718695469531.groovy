@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.callTestCase(findTestCase('EACM/3_InitiateSurvey_End date action as Verified'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('EACM/Initiate Survey for Cancel'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10)
 
@@ -75,7 +75,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/EACM/EACM_ManageWork
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_Verified)
+WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_Cancel)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/button_Apply'))
 
@@ -94,7 +94,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_ManageWorkfl
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/textarea_P35_ACTION_COMMENTS'), 
-    GlobalVariable.EACM_SurveyName_Verified)
+    GlobalVariable.EACM_SurveyName_Cancel)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageWorkflow/Page_Manage Workflow/button_Submit'))
 
