@@ -164,4 +164,9 @@
       <initValue>'SODTest_Aug9_ARProcAgnt2'</initValue>
       <name>SODTest_Procu_Adj</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Sep09_V1</description>
+      <initValue>'KTLN_EACM_Survey_Sep09_V1'</initValue>
+      <name>EACM_SurveyName_Cancel</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
