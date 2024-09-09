@@ -150,8 +150,8 @@
       <name>SOD_CrossApp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Aug28_V9</description>
-      <initValue>'KTLN_EACM_Survey_Aug28_V9'</initValue>
+      <description>KTLN_EACM_Survey_Sep09_V2</description>
+      <initValue>'KTLN_EACM_Survey_Sep09_V2'</initValue>
       <name>EACM_InitiateSurvey_Reassignment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
