@@ -72,11 +72,11 @@ WebUI.click(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/a_Scope History'), 0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/a_Scope History'), 0)
 
-WebUI.scrollToElement(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/a_Detail'), 0)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Scope Roles/Page_Scope Roles/a_Detail'))
 
@@ -176,7 +176,7 @@ WebUI.click(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Pag
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Scope Roles/Page_Manage Role Groups/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/Scope Roles/Page_Manage Role Groups/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.scrollToElement(findTestObject('Object Repository/EACM/ManageApprovalAssignments/Page_Manage Approval Assignments/a_Scope History'), 
     0, FailureHandling.OPTIONAL)

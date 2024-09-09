@@ -65,7 +65,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SU
 WebUI.verifyElementText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 
     '')
 
-WebUI.setText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), 'KTLN_EACM_Survey_June26_V1')
+WebUI.setText(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/input_p_ignore_10'), GlobalVariable.EACM_SurveyName_Verified)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/button_Apply'))
 
