@@ -87,12 +87,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RoleGroups/Pa
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/a_Manage Approval Assignments_1'))
-
-WebUI.click(findTestObject('Object Repository/Auto-Approve/admin/Page_Home/a_Manage Approval Assignments_1'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/RoleGroups/Page_Manage Role Groups/select_Select any oneCERP_1CloudERPEBizApp__c5e50a'), 
-    'KTLN_CloudERP', false, FailureHandling.OPTIONAL)
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/RoleGroups/Page_Manage Approval Assignments/button_Actions'))
 
@@ -200,9 +195,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.delay(2)
 
-WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/a_Manage Approval Assignments - 7867'))
-
 WebUI.scrollToPosition(0, 0)
+
+WebUI.verifyElementClickable(findTestObject('deba1/Rough/Page_Home/a_Manage Approval Assignments - 7867'))
 
 WebUI.click(findTestObject('deba1/Rough/Page_Home/a_Manage Approval Assignments - 7867'))
 

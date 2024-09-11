@@ -169,4 +169,9 @@
       <initValue>'KTLN_EACM_Survey_Sep09_V1'</initValue>
       <name>EACM_SurveyName_Cancel</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>EACM_Survey_Sep11_V3</description>
+      <initValue>'EACM_Survey_Sep11_V3'</initValue>
+      <name>EACM_SecurityContext</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

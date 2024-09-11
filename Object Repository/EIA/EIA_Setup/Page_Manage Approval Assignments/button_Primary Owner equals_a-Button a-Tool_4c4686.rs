@@ -10,8 +10,12 @@
          <value>div.tb.a-Toolbar > div.a-Toolbar-groupContainer.a-Toolbar-groupContainer--start > div.a-Toolbar-group > button.a-Button.a-Toolbar-item.a-Button--withIcon.a-Button--noLabel</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @title = 'Add']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[115]</value>
+         <value>//button[@type = 'button' and @title = 'Add']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b2321a60-baa9-4ad3-989b-94df05611631</webElementGuid>
+      <webElementGuid>f5a22fcc-7af6-4876-a1dd-2da8bdb5c33e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>71baece1-f4d7-446a-9ffb-012d49b9f003</webElementGuid>
+      <webElementGuid>9d4dd712-e875-48b5-a7ce-b97c4aa7b53f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-Toolbar-item a-Button--withIcon a-Button--noLabel</value>
-      <webElementGuid>9e18666b-afc1-4303-b34b-9cfa012d239a</webElementGuid>
+      <webElementGuid>e8d5f2b7-c20a-44a5-8c1a-f7903035fde8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>20f7f3ed-b05c-4cb1-a0cf-45f6caa52ec5</webElementGuid>
+      <webElementGuid>e0ea4fb5-08d2-4648-b284-372c779bfd37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>dc3e9535-f9cb-47ba-800d-a0996b05df11</webElementGuid>
+      <webElementGuid>42437939-4417-4cd5-b02d-4fad1c81b450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>data-action</name>
       <type>Main</type>
       <value>insert-record</value>
-      <webElementGuid>33062ade-f0e3-4815-8ac2-f246098768de</webElementGuid>
+      <webElementGuid>7a3434d5-39a2-4a07-8a16-13e360c8d450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>data-no-update</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>93675591-3d28-4e95-97c0-571c06d9584b</webElementGuid>
+      <webElementGuid>09699f70-a828-49f3-91c9-2957c601545a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;splitter_first&quot;)/div[@class=&quot;tb a-Toolbar&quot;]/div[@class=&quot;a-Toolbar-groupContainer a-Toolbar-groupContainer--start&quot;]/div[@class=&quot;a-Toolbar-group&quot;]/button[@class=&quot;a-Button a-Toolbar-item a-Button--withIcon a-Button--noLabel&quot;]</value>
-      <webElementGuid>17c45d3e-4c84-423a-b160-2f33ca58c1d5</webElementGuid>
+      <webElementGuid>a2cbe56b-0a9f-4cf5-83b3-e50072c2e2fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[115]</value>
-      <webElementGuid>6df70e8f-cd9d-4c23-b532-58af520a5f91</webElementGuid>
+      <webElementGuid>13ae3986-48a5-4b5b-937c-ad4df25072bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='splitter_first']/div[2]/div/div/button</value>
-      <webElementGuid>67d3a3d0-dbbc-4177-a8b6-9f120e15e905</webElementGuid>
+      <webElementGuid>4aca66f0-fdd8-40e6-99e5-04ab3a93a358</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/div[2]/div/div/button</value>
-      <webElementGuid>f31e7c75-c738-4a6f-b55a-6af5278ca24b</webElementGuid>
+      <webElementGuid>e09dc245-713c-459e-a47e-084517ec4d18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @title = 'Add']</value>
-      <webElementGuid>da46676d-a03d-4a46-b275-617df298d3db</webElementGuid>
+      <webElementGuid>c3ff4bbf-4cd5-4846-b58f-1ae0b92855dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

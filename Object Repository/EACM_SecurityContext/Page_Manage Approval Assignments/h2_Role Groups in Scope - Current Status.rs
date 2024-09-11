@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Role Groups in Scope - Current Status</name>
+   <tag></tag>
+   <elementGuidId>cc07b0ee-0374-45e2-a550-ce2575ad7c30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#R485447514490922889_heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[(text() = 'Role Groups in Scope - Current Status' or . = 'Role Groups in Scope - Current Status')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>95754a2c-3d92-4035-85a1-1647fa2ce97c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Region-title</value>
+      <webElementGuid>202a64be-9cd4-4156-bcfc-21519a9b82e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R485447514490922889_heading</value>
+      <webElementGuid>ffbf4dd6-af27-4b26-8041-f2b5cbce71ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role Groups in Scope - Current Status</value>
+      <webElementGuid>cd9e9062-79b9-4933-b602-09ce9a12b9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R485447514490922889_heading&quot;)</value>
+      <webElementGuid>f0d47673-7444-4940-8ef3-727bb5903815</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Role Groups in Scope - Current Status' or . = 'Role Groups in Scope - Current Status')]</value>
+      <webElementGuid>88b96480-17ab-4c53-baa6-5fc7d66e107b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='R485447514490922889_heading']</value>
+      <webElementGuid>e3a65524-3589-418b-9d42-666e32a8c35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R485447514490922889']/div/div/h2</value>
+      <webElementGuid>f9aae5d1-5a6d-4a83-9017-cf8d02b22a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviewers for Exceptions'])[1]/following::h2[1]</value>
+      <webElementGuid>2e9ea21a-33f9-413e-99a5-d832efca616a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Groups in Scope with Entire History'])[1]/following::h2[1]</value>
+      <webElementGuid>dc03e849-d6b5-434f-8705-30050e5b2989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[3]/preceding::h2[1]</value>
+      <webElementGuid>c81aeed4-320a-4907-9d11-a08a684682ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[5]/preceding::h2[1]</value>
+      <webElementGuid>b60a577f-1751-4dbb-b444-13641ad2b274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/h2</value>
+      <webElementGuid>6d499164-b436-4b05-a9d3-f8289769f63e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

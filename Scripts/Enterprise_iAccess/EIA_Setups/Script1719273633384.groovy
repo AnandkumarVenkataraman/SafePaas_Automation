@@ -419,7 +419,5 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/EIA/EIA_Setup/Page_
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.scrollToPosition(0, 0)
-
 WebUI.closeBrowser()
 

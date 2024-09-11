@@ -102,7 +102,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/Security Context/
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/input_Expression_p_ignore_10 (1)'), 
-    'FND_APPLICATION_ADMINISTRATOR_JOB_CUSTOM')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Roles and Attributes/Page_Manage Roles Mapping/button_Apply (1)'))
 
@@ -339,7 +339,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/Security Context/
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/input_Expression_p_ignore_10'), 
-    'FND_APPLICATION_ADMINISTRATOR_JOB_CUSTOM')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Security Context/Analytics/Page_Assignment Report/button_Apply'))
 
@@ -647,7 +647,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/Unassigned Access
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Unassigned Access/input_Expression_p_ignore_10'), 
-    'FND_APPLICATION_ADMINISTRATOR_JOB_CUSTOM')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/Unassigned Access Report/Page_Unassigned Access/button_Apply'))
 
@@ -780,7 +780,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/EACM/EACM_ManageCrossD
     '')
 
 WebUI.setText(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/input_Expression_p_ignore_10'), 
-    'FND_APPLICATION_ADMINISTRATOR_JOB_CUSTOM')
+    'CE_CASH_MANAGER_JOB_CUSTOM')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_ManageCrossDataSource/AssignmentReport/Page_Manage Approval Assignments/button_Apply'))
 

@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage Approval Assignments_1</name>
+   <name>a_Scope Access</name>
    <tag></tag>
-   <elementGuidId>5eb23b24-255a-4059-b259-e75c59257e9f</elementGuidId>
+   <elementGuidId>a1314fbf-d1ee-4317-819f-9695e33c300e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Approval Assignments')]</value>
+         <value>//a[contains(text(),'Scope Access')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>65002d5f-30a5-478b-8fe3-22610fd17448</webElementGuid>
+      <webElementGuid>7ef044d8-1d36-4ccc-af2f-77c2ebad079f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>415b4349-593c-4325-9286-de51f3b278b5</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>bc5f379d-fc1b-43de-bd74-6734e88cd1b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,23 +38,23 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>de991a48-3685-4415-a16a-3190bb22ba64</webElementGuid>
+      <webElementGuid>3943df18-d362-469c-aef5-2d3ef581dd75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-label is-focused</value>
-      <webElementGuid>cc9d9ad5-5b5b-476f-abd3-51e6080f5548</webElementGuid>
+      <value>a-TreeView-label</value>
+      <webElementGuid>bcc3f618-0af9-4bad-ae8f-0284b4026d0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:125:8664761317225:::125::</value>
-      <webElementGuid>ec0ff586-3561-494d-86db-8d861fc28eca</webElementGuid>
+      <value>f?p=1400:13:13092589216861:::13::</value>
+      <webElementGuid>5afdbd62-b6fa-4029-8428-c371e453564e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>71279a7b-a5fa-453a-8664-79cbba2f0a8f</webElementGuid>
+      <webElementGuid>e22ce666-1e36-43ae-a7c0-2af8fffd6748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,102 +70,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e9da60df-af8d-4e85-8fcd-0b48941984d0</webElementGuid>
+      <webElementGuid>c56669e9-b673-445b-b196-64e83f417306</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Approval Assignments</value>
-      <webElementGuid>3b68f4d1-57ff-4f23-9937-7128b3b63492</webElementGuid>
+      <value>Scope Access</value>
+      <webElementGuid>917cb263-d609-44cc-9465-107a33841bed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_16&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>23544c55-76f7-4901-9c99-e95878f7cb98</webElementGuid>
+      <value>id(&quot;t_TreeNav_182&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>4bb933e2-6ec9-4680-be46-b8a3744e59a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
-      <webElementGuid>7301d3db-991a-4c16-858a-de877eb437d7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Manage Approval Assignments')]</value>
-      <webElementGuid>d140433c-1bba-4161-b4e4-868fade75d98</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Role Groups'])[1]/following::a[1]</value>
-      <webElementGuid>c78392f2-446c-4e61-979e-7499983fd161</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/following::a[2]</value>
-      <webElementGuid>e6119131-5ab7-4dd3-89bf-6423cd77c3a7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Workflow'])[1]/preceding::a[1]</value>
-      <webElementGuid>35077058-72d0-4e29-a124-56605c70ba40</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOD Review Configuration'])[1]/preceding::a[2]</value>
-      <webElementGuid>8a3735c9-6de1-4757-ac85-81c9bed83dc5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage Approval Assignments']/parent::*</value>
-      <webElementGuid>f260f57f-0038-46b3-ac2d-42287f4a815f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:125:15465827081489:::125::')]</value>
-      <webElementGuid>013892a3-de0f-4877-9f9d-7d8cb4862cbd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[7]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>f57d76eb-b698-4c2d-94f1-5852c20d15c5</webElementGuid>
+      <value>//a[@href = 'f?p=1400:13:13092589216861:::13::' and (text() = 'Scope Access' or . = 'Scope Access')]</value>
+      <webElementGuid>adb3c83f-5cca-402d-a9a3-10c32f911f0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_16']/div[2]/a</value>
-      <webElementGuid>f586eb08-bf25-4bb3-b3b6-60b07dc33be5</webElementGuid>
+      <value>//li[@id='t_TreeNav_182']/div[2]/a</value>
+      <webElementGuid>3c5c818c-0ada-4289-8b26-b0d338019116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Scope Access')]</value>
+      <webElementGuid>55a33f5d-d3fa-4e3c-a581-2456d7fdd861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Access Groups Category Mapping'])[1]/following::a[1]</value>
+      <webElementGuid>3d82a190-ddc7-40ce-9950-365c4c648e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Access Groups'])[2]/following::a[2]</value>
+      <webElementGuid>49cf4035-e10a-4db6-b439-cd57f0eb76f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments'])[1]/preceding::a[1]</value>
+      <webElementGuid>296d3551-ae48-4e65-9eca-ad7b64a17e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Risk Levels'])[2]/preceding::a[2]</value>
+      <webElementGuid>327ae814-7afb-4d82-8292-a21329dff103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scope Access']/parent::*</value>
+      <webElementGuid>59647562-2667-4006-95cf-7c3283679a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1400:13:13092589216861:::13::')]</value>
+      <webElementGuid>da0c9561-4f1e-4f0b-a740-d6134f7076f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[3]/ul/li[4]/div[2]/a</value>
+      <webElementGuid>bb6f572d-83ba-41ce-a26e-a30ab40c8284</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

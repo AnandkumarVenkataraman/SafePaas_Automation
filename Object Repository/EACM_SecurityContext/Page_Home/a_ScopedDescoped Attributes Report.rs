@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage Approval Assignments_1</name>
+   <name>a_ScopedDescoped Attributes Report</name>
    <tag></tag>
-   <elementGuidId>5eb23b24-255a-4059-b259-e75c59257e9f</elementGuidId>
+   <elementGuidId>61eedc48-0b7e-448d-9182-66f291c85fe1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.a-TreeView-label.is-focused</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Approval Assignments')]</value>
+         <value>//a[@href = 'f?p=1400:51:13092589216861:::51::&amp;cs=3D90GMfIET7Va_1iJSR9BhmQkd1Oxtaxlpafw4_EUxNJa2nQWPDBJvVGNmIksCcxMvwncl0ht_5gCxER5z1Ot_A' and (text() = 'Scoped/Descoped Attributes Report' or . = 'Scoped/Descoped Attributes Report')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>65002d5f-30a5-478b-8fe3-22610fd17448</webElementGuid>
+      <webElementGuid>e3643d4f-a137-499d-9f01-c63b8d25da06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>415b4349-593c-4325-9286-de51f3b278b5</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>2ca782cf-fed1-4628-9791-3f18ec4e378e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,23 +38,23 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>de991a48-3685-4415-a16a-3190bb22ba64</webElementGuid>
+      <webElementGuid>618b7603-d3a2-4ab1-b9c0-981529eb2726</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-label is-focused</value>
-      <webElementGuid>cc9d9ad5-5b5b-476f-abd3-51e6080f5548</webElementGuid>
+      <value>a-TreeView-label</value>
+      <webElementGuid>0840ae9c-ec72-44c0-9b45-e002108bc24b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:125:8664761317225:::125::</value>
-      <webElementGuid>ec0ff586-3561-494d-86db-8d861fc28eca</webElementGuid>
+      <value>f?p=1400:51:13092589216861:::51::&amp;cs=3D90GMfIET7Va_1iJSR9BhmQkd1Oxtaxlpafw4_EUxNJa2nQWPDBJvVGNmIksCcxMvwncl0ht_5gCxER5z1Ot_A</value>
+      <webElementGuid>2efb4c49-74b9-4467-96ab-3bcc1b8bcc2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +62,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>71279a7b-a5fa-453a-8664-79cbba2f0a8f</webElementGuid>
+      <webElementGuid>778d1b91-fa92-4fe0-a607-5ee5de58544e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,102 +70,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e9da60df-af8d-4e85-8fcd-0b48941984d0</webElementGuid>
+      <webElementGuid>ba50ad2c-9d2b-45d1-b107-8cf3b764043b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Approval Assignments</value>
-      <webElementGuid>3b68f4d1-57ff-4f23-9937-7128b3b63492</webElementGuid>
+      <value>Scoped/Descoped Attributes Report</value>
+      <webElementGuid>02e6b95a-61df-4c91-b4a7-9da4a3876bd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_16&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label is-focused&quot;]</value>
-      <webElementGuid>23544c55-76f7-4901-9c99-e95878f7cb98</webElementGuid>
+      <value>id(&quot;t_TreeNav_19&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>797a3dc7-1e64-487b-ad1a-9dcee44d62eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Manage Approval Assignments' or . = 'Manage Approval Assignments')]</value>
-      <webElementGuid>7301d3db-991a-4c16-858a-de877eb437d7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Manage Approval Assignments')]</value>
-      <webElementGuid>d140433c-1bba-4161-b4e4-868fade75d98</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Role Groups'])[1]/following::a[1]</value>
-      <webElementGuid>c78392f2-446c-4e61-979e-7499983fd161</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/following::a[2]</value>
-      <webElementGuid>e6119131-5ab7-4dd3-89bf-6423cd77c3a7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Workflow'])[1]/preceding::a[1]</value>
-      <webElementGuid>35077058-72d0-4e29-a124-56605c70ba40</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOD Review Configuration'])[1]/preceding::a[2]</value>
-      <webElementGuid>8a3735c9-6de1-4757-ac85-81c9bed83dc5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage Approval Assignments']/parent::*</value>
-      <webElementGuid>f260f57f-0038-46b3-ac2d-42287f4a815f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:125:15465827081489:::125::')]</value>
-      <webElementGuid>013892a3-de0f-4877-9f9d-7d8cb4862cbd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[7]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>f57d76eb-b698-4c2d-94f1-5852c20d15c5</webElementGuid>
+      <value>//a[@href = 'f?p=1400:51:13092589216861:::51::&amp;cs=3D90GMfIET7Va_1iJSR9BhmQkd1Oxtaxlpafw4_EUxNJa2nQWPDBJvVGNmIksCcxMvwncl0ht_5gCxER5z1Ot_A' and (text() = 'Scoped/Descoped Attributes Report' or . = 'Scoped/Descoped Attributes Report')]</value>
+      <webElementGuid>57dd963f-f8d3-441c-b4cf-097a2c611e22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_16']/div[2]/a</value>
-      <webElementGuid>f586eb08-bf25-4bb3-b3b6-60b07dc33be5</webElementGuid>
+      <value>//li[@id='t_TreeNav_19']/div[2]/a</value>
+      <webElementGuid>e7729bf8-8f00-41e7-94f6-df2ec5e30bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Scoped/Descoped Attributes Report')]</value>
+      <webElementGuid>13f7f1fe-8e09-4e8c-a68f-953eeb6f0704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment Report'])[1]/following::a[1]</value>
+      <webElementGuid>6e1126b8-887b-4b1b-84e1-4465ae11b4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cumulative Access Certification'])[1]/following::a[2]</value>
+      <webElementGuid>f6309f2a-1f74-489e-81e0-97c0bce1b792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unassigned Accesses'])[1]/preceding::a[1]</value>
+      <webElementGuid>227a6161-8623-4a4d-8f63-9b53057924a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Certification'])[1]/preceding::a[2]</value>
+      <webElementGuid>2e96377b-c1e4-4e7b-8e31-eda10795a2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scoped/Descoped Attributes Report']/parent::*</value>
+      <webElementGuid>eab5c8b4-cacc-48d0-b6f0-ef34b0255e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1400:51:13092589216861:::51::&amp;cs=3D90GMfIET7Va_1iJSR9BhmQkd1Oxtaxlpafw4_EUxNJa2nQWPDBJvVGNmIksCcxMvwncl0ht_5gCxER5z1Ot_A')]</value>
+      <webElementGuid>d6288fda-610e-46cb-a9a2-a840a39771a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div[2]/a</value>
+      <webElementGuid>69da3636-7255-4c68-9390-825aec9eda23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
