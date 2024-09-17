@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Translation Function</name>
+   <tag></tag>
+   <elementGuidId>77fcaf17-93a7-4311-be11-f0d79ded68cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#C174480267893634435_HDR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Translation Function' or . = 'Translation Function')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33a92597-e3b5-4aca-8b62-50f5dd7e8368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-headerLabel</value>
+      <webElementGuid>1265f4b5-4ee0-412b-9f9e-4c424973575d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>C174480267893634435_HDR</value>
+      <webElementGuid>e90bdf2a-6a71-4c87-91cc-79284da8f874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Translation Function</value>
+      <webElementGuid>71b09c77-6bf9-48cb-99f3-5c7b18d244e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;C174480267893634435_HDR&quot;)</value>
+      <webElementGuid>d63d9d07-8aee-4528-bca0-7c5af52a02fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Translation Function' or . = 'Translation Function')]</value>
+      <webElementGuid>5d343d57-ddd3-49b9-8a6a-dbdf26f8d77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='C174480267893634435_HDR']</value>
+      <webElementGuid>025a45e0-99e6-434b-8b68-f98e0ee58bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='oItemsSodIg_ig_grid_vc_cur']/span</value>
+      <webElementGuid>b13599b1-940e-4499-a38f-50578d06862d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key'])[1]/following::span[3]</value>
+      <webElementGuid>9ab87e27-3481-4eff-bc03-8113d4791bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datatype'])[1]/following::span[4]</value>
+      <webElementGuid>804b956d-2c66-4ce5-9362-90ff4cf25d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found'])[1]/preceding::span[3]</value>
+      <webElementGuid>e4b0c13d-c235-4b50-9ffb-31681c5893ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Header.'])[1]/preceding::span[6]</value>
+      <webElementGuid>f67236f2-8b85-4e5d-a5df-d35cb97e7cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Translation Function']/parent::*</value>
+      <webElementGuid>5e4ebeb6-9608-4653-8f47-443747f2b2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[9]/span</value>
+      <webElementGuid>7637f46a-20bd-4076-a688-4b317e331486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

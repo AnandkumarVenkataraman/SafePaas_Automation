@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SELECT B.VALUE FROM FSOD.FSOD_POST_MAPPI_09d455</name>
+   <tag></tag>
+   <elementGuidId>1fd91f90-d61d-4108-9b6b-f761c2a6b30c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#oItemsApiIg_ig_grid_vc_cur</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = concat(&quot;SELECT B.VALUE FROM FSOD.FSOD_POST_MAPPING B, FSOD.fsod_identity_groups C WHERE A.identity_group_id = C.identity_group_id AND C.CATEGORY = B.APPLICATION_CATEGORY AND UPPER(B.PARAMETER) = &quot; , &quot;'&quot; , &quot;URGENCY&quot; , &quot;'&quot;) or . = concat(&quot;SELECT B.VALUE FROM FSOD.FSOD_POST_MAPPING B, FSOD.fsod_identity_groups C WHERE A.identity_group_id = C.identity_group_id AND C.CATEGORY = B.APPLICATION_CATEGORY AND UPPER(B.PARAMETER) = &quot; , &quot;'&quot; , &quot;URGENCY&quot; , &quot;'&quot;))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>01f3b482-47c7-4f16-a50c-c74d532b51bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>1644c319-78a2-4baf-be83-147eae779fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b49f45de-688b-4263-9dc5-c1ea87cb8222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-focused</value>
+      <webElementGuid>f65037d1-3c7e-43bc-9923-6af24980f660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>oItemsApiIg_ig_grid_vc_ctx oItemsApiIg_ig_grid_vc_cur</value>
+      <webElementGuid>7ced0477-de5e-4c10-bd4a-55d5c0f5981f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>oItemsApiIg_ig_grid_vc_cur</value>
+      <webElementGuid>d1e7e58b-bd98-4a46-ad5c-5f38e453940b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT B.VALUE FROM FSOD.FSOD_POST_MAPPING B, FSOD.fsod_identity_groups C WHERE A.identity_group_id = C.identity_group_id AND C.CATEGORY = B.APPLICATION_CATEGORY AND UPPER(B.PARAMETER) = 'URGENCY'</value>
+      <webElementGuid>196bab0f-5385-4104-91e6-56d1e8f8236c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oItemsApiIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>fd43dba3-9a7d-4db0-8c36-a496cef8a5ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = concat(&quot;SELECT B.VALUE FROM FSOD.FSOD_POST_MAPPING B, FSOD.fsod_identity_groups C WHERE A.identity_group_id = C.identity_group_id AND C.CATEGORY = B.APPLICATION_CATEGORY AND UPPER(B.PARAMETER) = &quot; , &quot;'&quot; , &quot;URGENCY&quot; , &quot;'&quot;) or . = concat(&quot;SELECT B.VALUE FROM FSOD.FSOD_POST_MAPPING B, FSOD.fsod_identity_groups C WHERE A.identity_group_id = C.identity_group_id AND C.CATEGORY = B.APPLICATION_CATEGORY AND UPPER(B.PARAMETER) = &quot; , &quot;'&quot; , &quot;URGENCY&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>494c4be5-e9dc-4505-a2bb-cf6d0ea0b6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='oItemsApiIg_ig_grid_vc_cur']</value>
+      <webElementGuid>2c1ab0d9-f450-47bb-a0b1-8d6b76deb312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oItemsApiIg_ig_grid_vc']/div[2]/div[4]/table/tbody/tr[7]/td[6]</value>
+      <webElementGuid>937bc8cf-a58e-44ce-bc98-2fb612e59415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='urgency'])[1]/following::td[1]</value>
+      <webElementGuid>190194d0-74a4-420d-9e9e-24a6da271853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD.FSOD_UAC_USER_ROLES (TABLE)'])[7]/following::td[3]</value>
+      <webElementGuid>046644c7-9209-4c71-b46f-c5a485e53b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[13]/preceding::td[1]</value>
+      <webElementGuid>d7641f0f-2cf5-4fcd-ad1f-bccb01f463fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[14]/preceding::td[3]</value>
+      <webElementGuid>4f998496-6d7d-4bae-b960-49be460462ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[6]</value>
+      <webElementGuid>b78bce49-387a-4115-996a-b92aea34276d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

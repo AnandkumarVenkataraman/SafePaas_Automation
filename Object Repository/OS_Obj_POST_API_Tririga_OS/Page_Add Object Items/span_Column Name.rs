@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Column Name</name>
+   <tag></tag>
+   <elementGuidId>b76b8c4b-3250-4493-bcec-b3e77f8dc3ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#C202486970979679836_HDR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Column Name' or . = 'Column Name')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f0ecdac-85b6-4bef-8e5e-d0ccac3c67af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-headerLabel</value>
+      <webElementGuid>f7529864-9cfc-440e-9017-3fb05c85574d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>C202486970979679836_HDR</value>
+      <webElementGuid>36b0e842-082f-4ddd-bb61-3a6b405d72f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Column Name</value>
+      <webElementGuid>bf2102c0-9b68-4137-9de2-2e092ebcd503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;C202486970979679836_HDR&quot;)</value>
+      <webElementGuid>0d22f4b5-ccef-44c4-ba57-4745f7aaa29d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Column Name' or . = 'Column Name')]</value>
+      <webElementGuid>297e8963-1edf-4ecb-a137-1677db30174a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='C202486970979679836_HDR']</value>
+      <webElementGuid>fd1a7ab7-230f-4fab-a02f-1e4aac63b173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='oItemsApiIg_ig_grid_vc_cur']/span</value>
+      <webElementGuid>d23bad17-a51e-468c-95b7-d76acc60b96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table Name'])[1]/following::span[3]</value>
+      <webElementGuid>9ab0ad6b-bd54-4e05-abbf-66e3fb4e0f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seq'])[1]/following::span[4]</value>
+      <webElementGuid>56a7e8a1-6520-40d0-a0c1-546eda5233b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Params'])[1]/preceding::span[1]</value>
+      <webElementGuid>14a0377c-d2e7-4f9a-a677-95c354a0020c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Query'])[1]/preceding::span[2]</value>
+      <webElementGuid>920b6dc1-a814-4513-a8d2-1e1a215c1d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Column Name']/parent::*</value>
+      <webElementGuid>a9cc3ed2-aef7-4662-a75a-4f42c2f31e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/span</value>
+      <webElementGuid>90e1e791-11fd-49a9-800e-c254c07726f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

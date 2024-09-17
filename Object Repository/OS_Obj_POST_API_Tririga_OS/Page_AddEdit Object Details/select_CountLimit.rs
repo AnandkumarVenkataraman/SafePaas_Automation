@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_CountLimit</name>
+   <tag></tag>
+   <elementGuidId>3f501732-e2e7-49c6-9c78-22db2ac5e647</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P10_OBJ_LIMIT_PARAMETER</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P10_OBJ_LIMIT_PARAMETER' and (text() = '
+Count
+Limit
+' or . = '
+Count
+Limit
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>200be7b0-82d4-4a36-a2e0-22a814f81146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P10_OBJ_LIMIT_PARAMETER</value>
+      <webElementGuid>774d7065-7176-4de6-89ad-6aa1a0b13c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P10_OBJ_LIMIT_PARAMETER</value>
+      <webElementGuid>d57e22ab-304e-4967-98df-0c07dcbe2e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>39d12253-3dee-458c-b5eb-2c63dd5ec7d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>51620cd4-d86b-4cc2-a8bd-344e064db942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d2890688-15b6-430b-a69f-9f7b82d63d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Count
+Limit
+</value>
+      <webElementGuid>76ff45f2-5f83-4dd2-a071-c2e804f23b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_OBJ_LIMIT_PARAMETER&quot;)</value>
+      <webElementGuid>9d3e15dc-1dda-4243-86d9-215423101be4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P10_OBJ_LIMIT_PARAMETER' and (text() = '
+Count
+Limit
+' or . = '
+Count
+Limit
+')]</value>
+      <webElementGuid>7bf590ff-8156-4870-8399-14c42ab6f4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P10_OBJ_LIMIT_PARAMETER']</value>
+      <webElementGuid>3d1847c9-0ffd-4924-8861-d920f5dca7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P10_OBJ_LIMIT_PARAMETER_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>48f6fc44-1ad0-4977-a4c8-f6ba59359b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[9]/following::select[1]</value>
+      <webElementGuid>75ed6b88-b587-4932-822d-6deef38cc05d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud Data Source'])[1]/preceding::select[1]</value>
+      <webElementGuid>9bbcbb87-59b3-4a3f-911e-0a82ebe42757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/select</value>
+      <webElementGuid>d1f5da5a-8d31-447b-9efe-9d6849ecb506</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

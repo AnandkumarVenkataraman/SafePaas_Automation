@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_FSOD.FSOD_UAC_USER_ROLES (TABLE)</name>
+   <tag></tag>
+   <elementGuidId>7cb33e28-5e13-4ddc-aeb9-ceeb4a20941c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#oItemsApiIg_ig_grid_vc_cur</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'FSOD.FSOD_UAC_USER_ROLES (TABLE)' or . = 'FSOD.FSOD_UAC_USER_ROLES (TABLE)')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>41cc3f52-743e-4a71-93ae-48789c6aaa40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>c88abb6e-dac0-46cc-be24-adbf5243c30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8270828e-3783-4c6d-ab84-fa6963592dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-focused</value>
+      <webElementGuid>c97d7509-2ba0-4612-87c8-e3b67aa6e98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>oItemsApiIg_ig_grid_vc_ctx oItemsApiIg_ig_grid_vc_cur</value>
+      <webElementGuid>f9c8cfca-566b-4b1d-88c3-59209e9bd499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>oItemsApiIg_ig_grid_vc_cur</value>
+      <webElementGuid>e64147ff-2f4b-4be4-baa8-1476cd5f6d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FSOD.FSOD_UAC_USER_ROLES (TABLE)</value>
+      <webElementGuid>b458201f-5909-4422-bbca-1c4a96020515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oItemsApiIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>7f1236b5-ae5e-4a41-a461-41872a6bd716</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'FSOD.FSOD_UAC_USER_ROLES (TABLE)' or . = 'FSOD.FSOD_UAC_USER_ROLES (TABLE)')]</value>
+      <webElementGuid>bf37a877-8450-4862-94bb-4a47818e5117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='oItemsApiIg_ig_grid_vc_cur']</value>
+      <webElementGuid>8b80f7ec-3ad9-402a-9d4b-3aa9a0fef925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oItemsApiIg_ig_grid_vc']/div[2]/div[4]/table/tbody/tr/td[3]</value>
+      <webElementGuid>b9b68ba6-a262-49f4-a306-bf8117bdbe1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Mask'])[2]/following::td[3]</value>
+      <webElementGuid>8cb8fba4-1737-4b09-a1ac-73c2ba50dda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datatype'])[2]/following::td[3]</value>
+      <webElementGuid>b06e17a5-d8db-4c5e-9458-5dd292b88fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sysparm_display_value'])[1]/preceding::td[2]</value>
+      <webElementGuid>5cb6833b-cf96-4a5c-a896-79b83e8336ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', &quot;'&quot;, 'true', &quot;'&quot;, '')])[1]/preceding::td[3]</value>
+      <webElementGuid>2dec52b4-46dd-488f-8f9b-684166f66536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FSOD.FSOD_UAC_USER_ROLES (TABLE)']/parent::*</value>
+      <webElementGuid>41e12832-d81c-4be1-87f0-5a882dd3412b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>01b9a9fe-445e-4a94-8d2b-fab535458ffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
