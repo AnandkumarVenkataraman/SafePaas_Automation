@@ -110,28 +110,28 @@
       <name>EACM_SurveyName_ManageWorkflow</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_ARLimit_SEP03_V1</description>
-      <initValue>'KTLN_ARLimit_SEP03_V1'</initValue>
+      <description>KTLN_ARLimit_SEP17_V1</description>
+      <initValue>'KTLN_ARLimit_SEP17_V1'</initValue>
       <name>MTP_EBS_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>STP_FCPM_SEP03_V1</description>
-      <initValue>'STP_FCPM_SEP03_V1'</initValue>
+      <description>STP_FCPM_SEP17_V1</description>
+      <initValue>'STP_FCPM_SEP17_V1'</initValue>
       <name>MTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test reassignment-SEP03_V1</description>
-      <initValue>'Test reassignment-SEP03_V1'</initValue>
+      <description>Test reassignment-SEP18_V1</description>
+      <initValue>'Test reassignment-SEP18_V1'</initValue>
       <name>ReassignRequestor_Comment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test ticket # SEP03_V1</description>
-      <initValue>'Test ticket # SEP03_V1'</initValue>
+      <description>Test ticket # SEP18_V1</description>
+      <initValue>'Test ticket # SEP18_V1'</initValue>
       <name>ReassignRequestor_Ticketno</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test Justification # SEP03_V1</description>
-      <initValue>'Test Justification # SEP03_V1'</initValue>
+      <description>Test Justification # SEP18_V1</description>
+      <initValue>'Test Justification # SEP18_V1'</initValue>
       <name>ReassignRequestor_Justification</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -173,5 +173,10 @@
       <description>EACM_Survey_Sep11_V3</description>
       <initValue>'EACM_Survey_Sep11_V3'</initValue>
       <name>EACM_SecurityContext</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>TRI_OSEXTRACT_SEP17_V2</description>
+      <initValue>'TRI_OSEXTRACT_SEP17_V2'</initValue>
+      <name>DTP_OS_SSName</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
