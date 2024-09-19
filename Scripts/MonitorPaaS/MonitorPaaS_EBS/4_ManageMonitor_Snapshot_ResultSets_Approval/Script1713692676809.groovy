@@ -391,7 +391,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Notifica
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/Reviewer/Page_Resultset/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a'), 
-    'KTLNEBS_MonitorPaaS_ObjSet', true, FailureHandling.OPTIONAL)
+    'KTLNEBS_MonitorPaaS_ObjSet', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 

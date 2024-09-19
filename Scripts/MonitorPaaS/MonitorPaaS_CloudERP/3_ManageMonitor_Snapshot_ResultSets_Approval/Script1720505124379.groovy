@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonitor_Snapshot/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/2_ManageMonitor_Snapshot/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a (1)'), 
-    'STP_ObjSet', true, FailureHandling.OPTIONAL)
+    'STP_ObjSet', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 

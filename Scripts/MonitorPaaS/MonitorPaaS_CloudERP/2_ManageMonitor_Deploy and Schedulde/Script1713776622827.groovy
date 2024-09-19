@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_CloudERP/ManageMonitor
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/ManageMonitor_Chnage level/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/ManageMonitor_Chnage level/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a'), 
-    'STP_ObjSet', true, FailureHandling.OPTIONAL)
+    'STP_ObjSet', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 
@@ -165,7 +165,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Pag
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS_CloudERP/ManageMonitor_Chnage level/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS_CloudERP/ManageMonitor_Chnage level/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_ff6b0a'), 
-    'STP_ObjSet', true, FailureHandling.OPTIONAL)
+    'STP_ObjSet', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Page_Manage Result Set/button_Schedule'))
 
@@ -178,7 +178,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Pag
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Page_Job Detail/select_-- Select any one ---- Local File --_fe0110'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Page_Job Detail/select_-- Select any one ---- Local File --_fe0110'), 
-    'KTLNCloud_MonitorPaaS_DS', true, FailureHandling.OPTIONAL)
+    'KTLNCloud_MonitorPaaS_DS', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(0)
 
@@ -235,7 +235,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS/MonitorPaaS_Deploy/Pag
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/select_Select any oneCERP_ObjSetCloudERP_AD_302095'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/select_Select any oneCERP_ObjSetCloudERP_AD_302095'), 
-    'STP_ObjSet', true, FailureHandling.OPTIONAL)
+    'STP_ObjSet', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/MonitorPaaS/ManageMonitor_Snapshot/Page_Manage Snapshot/label_Auto Refresh_u-checkbox'))
 
