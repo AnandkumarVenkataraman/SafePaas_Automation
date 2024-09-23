@@ -75,38 +75,38 @@
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep06_V1</description>
-      <initValue>'KTLN_EACM_Survey_Sep06_V1'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V1</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V1'</initValue>
       <name>EACM_SurveyName_Verified</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep06_V2</description>
-      <initValue>'KTLN_EACM_Survey_Sep06_V2'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V2</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V2'</initValue>
       <name>EACM_SurveyName_TerminateAccess</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep03_V3</description>
-      <initValue>'KTLN_EACM_Survey_Sep06_V3'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V3</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V3'</initValue>
       <name>EACM_SurveyName_AutomaticPOST</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep06_V4</description>
-      <initValue>'KTLN_EACM_Survey_Sep06_V4'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V4</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V4'</initValue>
       <name>EACM_Schedule_SurveyName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep06_V5</description>
-      <initValue>'KTLN_EACM_Survey_Sep06_V5'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V6</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V6'</initValue>
       <name>EACM_SendReminder_Survey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep06_V6</description>
-      <initValue>'KTLN_EACM_Survey_Sep06_V6'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V7</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V7'</initValue>
       <name>EACM_Delegation</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'KTLN_EACM_Survey_Sep06_V7'</initValue>
+      <initValue>'KTLN_EACM_Survey_Sep23_V8'</initValue>
       <name>EACM_SurveyName_ManageWorkflow</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -150,8 +150,8 @@
       <name>SOD_CrossApp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep09_V2</description>
-      <initValue>'KTLN_EACM_Survey_Sep09_V2'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V9</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V9'</initValue>
       <name>EACM_InitiateSurvey_Reassignment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -165,13 +165,13 @@
       <name>SODTest_Procu_Adj</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Sep09_V1</description>
-      <initValue>'KTLN_EACM_Survey_Sep09_V1'</initValue>
+      <description>KTLN_EACM_Survey_Sep23_V5</description>
+      <initValue>'KTLN_EACM_Survey_Sep23_V5'</initValue>
       <name>EACM_SurveyName_Cancel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>EACM_Survey_Sep11_V3</description>
-      <initValue>'EACM_Survey_Sep11_V3'</initValue>
+      <description>EACM_Survey_Sep23_V10</description>
+      <initValue>'EACM_Survey_Sep23_V10'</initValue>
       <name>EACM_SecurityContext</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
