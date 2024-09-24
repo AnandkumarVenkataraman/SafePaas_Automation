@@ -254,8 +254,8 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.scrollToPosition(0, 0)
 
-WebUI.verifyElementText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 -U120'), 
-    '')
+WebUI.verifyElementClickable(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 -U120'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('EACM/EACM_CertifySurvey/Page_User Access Certification Survey/input_484081374610932121 -U120'), 
     'Test Justification')
