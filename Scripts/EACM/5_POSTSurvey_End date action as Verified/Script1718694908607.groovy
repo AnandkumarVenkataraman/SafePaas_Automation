@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/EACM/EACM_Survey/Page_Home/a_Manag
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/EACM/POST EACM SURVEY/Page_Manage Certification/select_Select any oneCERP_1CloudERPEBizApp__a9def6'), 
-    'KTLN_CloudERP_EACM', true, FailureHandling.OPTIONAL)
+    'KTLN_CloudERP_EACM', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EACM/EACM_Certifying Survey/Page_Manage User Access/button_Actions'))
 
