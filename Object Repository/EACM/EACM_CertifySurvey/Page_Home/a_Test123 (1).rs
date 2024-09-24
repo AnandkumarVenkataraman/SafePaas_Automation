@@ -9,15 +9,15 @@
          <key>CSS</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='97799724016099621_orig']/tbody/tr[2]/td/a</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@href = 'f?p=1500:4:2317465564636::::P4_INITIAL_LOAD,P4_URLC:Y,E8408AD766208328FCE259DAA51C6414' and (text() = 'Test123' or . = 'Test123')]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'f?p=1500:4:2317465564636::::P4_INITIAL_LOAD,P4_URLC:Y,E8408AD766208328FCE259DAA51C6414' and (text() = 'Test123' or . = 'Test123')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d4efef89-d082-4a4a-a130-bae72bcd5e55</webElementGuid>
+      <webElementGuid>2ae956dc-ea0e-4553-9833-9d860cfdb38e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1500:4:2317465564636::::P4_INITIAL_LOAD,P4_URLC:Y,E8408AD766208328FCE259DAA51C6414</value>
-      <webElementGuid>058a9913-d600-4526-b7ee-8e514f55eecc</webElementGuid>
+      <webElementGuid>28c26419-aaf7-44bd-b3cd-17c16b4bc558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test123</value>
-      <webElementGuid>5a08d2e1-b2d5-4cdc-acf3-7f2088fc630f</webElementGuid>
+      <webElementGuid>7b8f3695-7679-4add-9723-ba1c7dc49829</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;97799724016099621_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>69675376-2fe4-49c8-889c-5b41cae2c632</webElementGuid>
+      <webElementGuid>67f4cb3d-aeb4-463b-9c1e-fe7ac7f1d2f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='97799724016099621_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>842b8492-4e46-458b-8dcc-832d6b02f9b7</webElementGuid>
+      <webElementGuid>38641179-b9ba-4d51-9fdd-39b5ff5def66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Test123')]</value>
-      <webElementGuid>ea20f71e-b942-4a1c-a104-8d73de539b45</webElementGuid>
+      <webElementGuid>f78e251a-748a-44b6-af9c-fb840a9789a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1500:4:2317465564636::::P4_INITIAL_LOAD,P4_URLC:Y,E8408AD766208328FCE259DAA51C6414')]</value>
-      <webElementGuid>b841f951-6ce2-4d25-807b-f34611a253b0</webElementGuid>
+      <webElementGuid>aab204cc-5a5f-44e6-9a4f-414d37fa6718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>6d4a8f9d-04bd-4595-84be-40ded812d9c9</webElementGuid>
+      <webElementGuid>60b0b692-9d46-4f72-92d7-a7a59fc9078a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1500:4:2317465564636::::P4_INITIAL_LOAD,P4_URLC:Y,E8408AD766208328FCE259DAA51C6414' and (text() = 'Test123' or . = 'Test123')]</value>
-      <webElementGuid>e3ec80d0-ed93-4c8b-8d9b-c5dbac7e3e14</webElementGuid>
+      <webElementGuid>181b5d17-70a0-4938-98dc-bd66b8a84a57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
