@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select Any -User-Password</name>
+   <tag></tag>
+   <elementGuidId>49f2f0d9-7887-4725-a564-0aef01b4dda2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P4_SECURITY_PROTOCOL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P4_SECURITY_PROTOCOL' and (text() = '- Select Any -
+User-Password
+' or . = '- Select Any -
+User-Password
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0ffb5b46-4026-43ae-aacd-486747aa656a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P4_SECURITY_PROTOCOL</value>
+      <webElementGuid>886622fa-65ba-458b-aa1e-fa6de6ec71c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P4_SECURITY_PROTOCOL</value>
+      <webElementGuid>58148c52-2f3d-4f62-8b4b-921069cbd946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>b23350e0-bad2-44ea-9f0d-436a16f6952a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0071ecd2-81f4-4693-857c-74a225e2e7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>53d5c8c7-72dc-49a9-a202-17cafa1ebf57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select Any -
+User-Password
+</value>
+      <webElementGuid>a0502993-cfb7-471a-ae52-1a0b894d844d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P4_SECURITY_PROTOCOL&quot;)</value>
+      <webElementGuid>9f91c7ad-6ec5-4b4c-bd13-7888362fe67e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P4_SECURITY_PROTOCOL' and (text() = '- Select Any -
+User-Password
+' or . = '- Select Any -
+User-Password
+')]</value>
+      <webElementGuid>01c62176-a038-4d25-89ee-988df5bad0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P4_SECURITY_PROTOCOL']</value>
+      <webElementGuid>965ef008-9b5a-49aa-9a1f-beb04ce3f5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P4_SECURITY_PROTOCOL_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>87ff98fc-d7da-4744-b2b8-d82898adef0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Protocol'])[1]/following::select[1]</value>
+      <webElementGuid>9617af4c-add3-4990-80d5-21bd941bf81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[5]/following::select[1]</value>
+      <webElementGuid>4c874c6b-e61b-4ba6-9410-95580865e22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connection Protocol'])[1]/preceding::select[1]</value>
+      <webElementGuid>a614f3f3-9a85-4328-b70e-40ff5e2d7b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OAuth URI'])[1]/preceding::select[2]</value>
+      <webElementGuid>313172c5-cfae-432d-bf35-32918a1b65fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/div/select</value>
+      <webElementGuid>624bca0b-a783-4754-87bb-cb4b941dad92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

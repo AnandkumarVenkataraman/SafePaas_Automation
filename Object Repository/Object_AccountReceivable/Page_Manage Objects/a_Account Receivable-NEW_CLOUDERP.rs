@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Account Receivable-NEW_CLOUDERP</name>
+   <tag></tag>
+   <elementGuidId>3d465e8e-4b76-4c65-9acb-407e92f9987a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'f?p=1120:10:14532868540862:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365241,7908,7908,365241&amp;cs=3bh-nPX15JHwZkvwejtQD3p43BwZnDP6zP3DZdtz33AaBJCmNu60cpINg2k_Dh8OSo90hRvm5XhytRv0wlemuSQ' and (text() = 'Account Receivable-NEW_CLOUDERP' or . = 'Account Receivable-NEW_CLOUDERP')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>acf31ee1-8986-4671-8ec4-6cd893d59a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1120:10:14532868540862:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365241,7908,7908,365241&amp;cs=3bh-nPX15JHwZkvwejtQD3p43BwZnDP6zP3DZdtz33AaBJCmNu60cpINg2k_Dh8OSo90hRvm5XhytRv0wlemuSQ</value>
+      <webElementGuid>09230282-587f-45a0-88fe-07343be976c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Receivable-NEW_CLOUDERP</value>
+      <webElementGuid>f0652e0b-28e4-4591-8e84-b904c65c7297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>854b7cd3-8cf1-45f0-86d8-ce2a132670a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1120:10:14532868540862:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365241,7908,7908,365241&amp;cs=3bh-nPX15JHwZkvwejtQD3p43BwZnDP6zP3DZdtz33AaBJCmNu60cpINg2k_Dh8OSo90hRvm5XhytRv0wlemuSQ' and (text() = 'Account Receivable-NEW_CLOUDERP' or . = 'Account Receivable-NEW_CLOUDERP')]</value>
+      <webElementGuid>0e0a75dc-1ade-414a-8d64-75e53c2b16d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='122864437533293003_orig']/tbody/tr[2]/td/a</value>
+      <webElementGuid>0f6f49ed-89b4-4ed4-88fd-800d5ba70baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Account Receivable-NEW_CLOUDERP')]</value>
+      <webElementGuid>76ef3213-c93d-4829-8e92-a73ee8372251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alter Audit SQL'])[1]/following::a[8]</value>
+      <webElementGuid>e4b3794c-aad6-441b-8d82-0bb2d4128812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation Audit SQL'])[1]/following::a[9]</value>
+      <webElementGuid>48ca5246-0ae2-4289-ae7b-371b74710cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
+      <webElementGuid>da892f2e-76a2-4475-8930-daad17eaf66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD_ENTRY_ALL'])[1]/preceding::a[1]</value>
+      <webElementGuid>a3a02e62-7b90-4d42-a7ed-f4007b49b488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Account Receivable-NEW_CLOUDERP']/parent::*</value>
+      <webElementGuid>7087b260-fa88-40ac-80dc-5fb13f3f10d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1120:10:14532868540862:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365241,7908,7908,365241&amp;cs=3bh-nPX15JHwZkvwejtQD3p43BwZnDP6zP3DZdtz33AaBJCmNu60cpINg2k_Dh8OSo90hRvm5XhytRv0wlemuSQ')]</value>
+      <webElementGuid>328d1923-e779-4ece-9fdd-72a8a6c969bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>d91ab330-1697-4f2b-a98a-ae81909eea9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Procurement Agent-NEW_CLOUDERP</name>
+   <tag></tag>
+   <elementGuidId>aaeb5efe-34bf-4995-9169-aa17dbcae0ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg' and (text() = 'Procurement Agent-NEW_CLOUDERP' or . = 'Procurement Agent-NEW_CLOUDERP')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>043008ab-420e-48aa-8cf5-37d65222ae41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg</value>
+      <webElementGuid>283101d2-9a6e-4376-82a1-2e74f724ac0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procurement Agent-NEW_CLOUDERP</value>
+      <webElementGuid>e0617d5e-32ad-4886-91d7-633dd7ae530a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[7]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>4d51b064-4ae9-437d-b77f-672a12918185</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg' and (text() = 'Procurement Agent-NEW_CLOUDERP' or . = 'Procurement Agent-NEW_CLOUDERP')]</value>
+      <webElementGuid>eddaac85-1eb6-4160-a006-9e31a96f46c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='122864437533293003_orig']/tbody/tr[7]/td/a</value>
+      <webElementGuid>75a72f32-be52-4a17-8cbc-5f8d96958fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Procurement Agent-NEW_CLOUDERP')]</value>
+      <webElementGuid>6bf70fc5-c083-4c83-a611-d9373a4b706a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[20]/following::a[1]</value>
+      <webElementGuid>d2715365-3671-429e-af51-7edf75c470d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[19]/following::a[1]</value>
+      <webElementGuid>449b2c02-a1b7-430b-b207-404cf24ba6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[21]/preceding::a[1]</value>
+      <webElementGuid>41587f97-b487-48fb-9a62-d023b820a0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD_ENTRY_ALL'])[3]/preceding::a[1]</value>
+      <webElementGuid>b6adf5b9-4450-4bc0-9ec8-fe8543f1a00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Procurement Agent-NEW_CLOUDERP']/parent::*</value>
+      <webElementGuid>ce7002e8-a2d5-4435-adb8-0e949fa6b787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg')]</value>
+      <webElementGuid>cc5ca095-f91b-46ee-95f7-fb716d720a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td/a</value>
+      <webElementGuid>0ebad544-a1cc-49a1-b5a5-63d23eee2c37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
