@@ -95,8 +95,8 @@
       <name>EACM_Schedule_SurveyName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Oct4_V5</description>
-      <initValue>'KTLN_EACM_Survey_Oct4_V5'</initValue>
+      <description>KTLN_EACM_Survey_Oct7_V1</description>
+      <initValue>'KTLN_EACM_Survey_Oct7_V1'</initValue>
       <name>EACM_SendReminder_Survey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -150,8 +150,8 @@
       <name>SOD_CrossApp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Oct4_V8</description>
-      <initValue>'KTLN_EACM_Survey_Oct4_V8'</initValue>
+      <description>KTLN_EACM_Survey_Oct7_V2</description>
+      <initValue>'KTLN_EACM_Survey_Oct7_V2'</initValue>
       <name>EACM_InitiateSurvey_Reassignment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
