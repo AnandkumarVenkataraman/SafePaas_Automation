@@ -90,7 +90,7 @@ WebUI.click(findTestObject('deba1/FilterFalsePositives_EntriesRole/Page_Manage V
 
 WebUI.comment('select the latest SOD test name')
 
-WebUI.delay(10)
+WebUI.delay(20)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Manage Violation/button_Actions'))
 

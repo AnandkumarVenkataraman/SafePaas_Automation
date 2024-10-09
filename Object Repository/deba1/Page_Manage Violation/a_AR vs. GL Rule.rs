@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='search_sort_widget_rows']/a</value>
+         <value>//a[contains(text(),'AR vs. GL Rule')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2d5fc931-0da4-47b4-a04b-da31ab25817c</webElementGuid>
+      <webElementGuid>fa5cd5ab-c700-4e25-935b-d58eb39fbb80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>b50eac87-8934-4333-9f58-8a8897eaadeb</webElementGuid>
+      <webElementGuid>509898ec-e6f0-4411-93e8-2b8f21a48d6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-return-value</name>
       <type>Main</type>
       <value>AR vs. GL Rule</value>
-      <webElementGuid>d0e6c760-2040-4633-9c66-cbc8389bfafc</webElementGuid>
+      <webElementGuid>6511fbb1-8d7c-4bb4-b8db-8511d5294bb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-sortWidget-row</value>
-      <webElementGuid>538214bc-40c5-4eb8-a3aa-b785b39384c2</webElementGuid>
+      <webElementGuid>dc5230bb-3e32-4f24-b180-9ade296cfdc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AR vs. GL Rule</value>
-      <webElementGuid>b07ea556-4b75-4bd4-9f6e-9e4f4674d51a</webElementGuid>
+      <webElementGuid>1ac2d8a0-e724-4041-9e42-3190ac5b5f46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search_sort_widget_rows&quot;)/a[@class=&quot;a-IRR-sortWidget-row&quot;]</value>
-      <webElementGuid>1a73bc1b-031d-47fa-bc00-d8c1376ee6f0</webElementGuid>
+      <webElementGuid>7e1f7ddb-ab09-4729-a17b-27c99949f87b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='search_sort_widget_rows']/a</value>
-      <webElementGuid>3a9c020c-7e0c-4b98-aa41-d3d49745bf4f</webElementGuid>
+      <webElementGuid>2f3bb928-00e1-46fc-aabd-a48d947f1b68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'AR vs. GL Rule')]</value>
-      <webElementGuid>bafd0f4a-0f71-40b2-a089-ededf5156981</webElementGuid>
+      <webElementGuid>186c3a41-19a1-4806-8565-2dab35981c99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[17]</value>
-      <webElementGuid>2812d25a-9d22-4c8f-8e5d-49c55637f247</webElementGuid>
+      <webElementGuid>cba39088-703e-48b6-a590-2bbbed13a5c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>14e282d3-d9d9-45b9-b50a-dacbea81456b</webElementGuid>
+      <webElementGuid>703eaf9d-ceb4-459d-8da6-baccd6bc90c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'AR vs. GL Rule' or . = 'AR vs. GL Rule')]</value>
-      <webElementGuid>9b219fb5-ed58-471c-a409-7e66ff6728d1</webElementGuid>
+      <webElementGuid>982e31c7-e9b5-459b-a364-c3b89f334675</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[19]</value>
-      <webElementGuid>ff162293-5810-4f34-8f35-f304f6ad9528</webElementGuid>
+      <webElementGuid>a4ddfc71-22dc-4cc5-ad9b-416fdda504a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
