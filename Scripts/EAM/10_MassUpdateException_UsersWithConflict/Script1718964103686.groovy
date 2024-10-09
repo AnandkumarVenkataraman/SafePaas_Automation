@@ -177,6 +177,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageViola
 
 WebUI.click(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Manage Violation/button_Mass Update Exceptions'))
 
+WebUI.delay(20)
+
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageViolagtion_MassUpdateException/Page_Mass Update Exceptions for Rules/inputsearch1_search_field'), 
     '')
 
