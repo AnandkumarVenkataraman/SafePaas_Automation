@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Refresh</name>
+   <name>li_Akash.Kumar Gandhi</name>
    <tag></tag>
-   <elementGuidId>dfc3e2ea-858f-42c2-822b-aafa5643b39d</elementGuidId>
+   <elementGuidId>691b1ada-e01a-49bd-9ffc-de0069e1040d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Akash.Kumar Gandhi' or . = 'Akash.Kumar Gandhi')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Refresh' or . = 'Refresh')]</value>
+         <value>//li[(text() = 'Akash.Kumar Gandhi' or . = 'Akash.Kumar Gandhi')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#B162772706518928170</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +24,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>188f132a-2e92-4467-8bad-aba68d39b06d</webElementGuid>
+      <value>li</value>
+      <webElementGuid>07aa02a2-e691-47fc-915b-74caffed95e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>data-id</name>
       <type>Main</type>
-      <value>apex.submit({request:'REFRESH',validate:true});</value>
-      <webElementGuid>55ffb63a-7b91-452c-8631-d22b41a901a3</webElementGuid>
+      <value>72422740</value>
+      <webElementGuid>b3aaf3a5-3f51-4b3f-85d0-b97b809d48b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button </value>
-      <webElementGuid>6f51459a-d978-4983-9374-6b97215ab2ce</webElementGuid>
+      <value>a-IconList-item</value>
+      <webElementGuid>c696e699-37eb-4d42-85cd-41f55e2bbbbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>5e8dcc81-6189-4bc7-acf9-0d7821b6809f</webElementGuid>
+      <value>option</value>
+      <webElementGuid>37a013ed-f514-46dc-8da9-802509524949</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>B162772706518928170</value>
-      <webElementGuid>b5ce4e44-176e-4261-89f7-95c61503d20c</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>4c538d74-7736-4f69-b242-33e9562953e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Refresh</value>
-      <webElementGuid>d6407d3b-7412-4436-83fd-55d2274f33c4</webElementGuid>
+      <value>Akash.Kumar Gandhi</value>
+      <webElementGuid>f513c5c3-f87d-4003-9fa6-f06fb9dbbac5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B162772706518928170&quot;)</value>
-      <webElementGuid>03116d7f-c44f-4c6e-83ef-9d283477cade</webElementGuid>
+      <value>id(&quot;PopupLov_114_P114_USER_LIST_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]</value>
+      <webElementGuid>9cdb7274-6134-40ea-9d8c-4029fdb28d6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'B162772706518928170' and (text() = 'Refresh' or . = 'Refresh')]</value>
-      <webElementGuid>8ffca8e5-cd35-40b0-849d-96a9fbff899f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='B162772706518928170']</value>
-      <webElementGuid>0d408d4d-1c9a-4146-9e76-02c8dbce4616</webElementGuid>
+      <value>//li[(text() = 'Akash.Kumar Gandhi' or . = 'Akash.Kumar Gandhi')]</value>
+      <webElementGuid>c5fabd51-8dfa-44c6-ad72-cd32b7a3a95c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 4 of 4 - Violations Review'])[1]/following::button[1]</value>
-      <webElementGuid>20c565b9-a947-40eb-af44-5814241951fb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hariom Vimalkumar.Brahmbhatt'])[1]/following::li[1]</value>
+      <webElementGuid>92c394be-bc20-4cce-ad3c-0e9b78988984</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTLN_CloudERP'])[1]/following::button[1]</value>
-      <webElementGuid>82725c15-f479-4361-95e5-c8b766e70ec7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SATHISH KUMAR.PONNUSAMY'])[1]/following::li[2]</value>
+      <webElementGuid>27ba2292-bf86-453f-bfa6-eac88202779c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::button[2]</value>
-      <webElementGuid>3f9e16e4-28c8-47a0-9f1d-af61b0a24417</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More Rows'])[1]/preceding::li[1]</value>
+      <webElementGuid>29de19bd-1de7-4b9c-812e-bce8a27662c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mohit.Kumar']/parent::*</value>
+      <webElementGuid>425eb0f1-c646-49aa-85e9-ea73a360b1b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>0f9ccf9c-d349-48d0-958e-26cb600527f9</webElementGuid>
+      <value>//div[3]/ul/li[4]</value>
+      <webElementGuid>fa4aa977-5f1f-4556-94a3-702f547006da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='R162772252661928166']/div/div[2]/button</value>
-      <webElementGuid>64872259-707f-40a2-a1fb-735d4fc033b4</webElementGuid>
+      <value>//div[@id='PopupLov_114_P114_USER_LIST_dlg']/div[2]/div/div[3]/ul/li[4]</value>
+      <webElementGuid>220d4bdc-4846-48b2-9537-3070e03fb275</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

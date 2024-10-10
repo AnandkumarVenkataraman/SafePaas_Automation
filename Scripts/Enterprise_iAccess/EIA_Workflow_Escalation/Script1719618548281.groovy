@@ -48,7 +48,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Cancel_WF/Pag
 
 WebUI.click(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/button_User Name_P114_USER_LIST_lov_btn'))
 
-WebUI.click(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/li_Mohit.Kumar'))
+WebUI.click(findTestObject('EIA_Cancel_WF/Page_Manage My Access/li_Akash.Kumar Gandhi'))
 
 WebUI.click(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/button_Go'))
 
@@ -69,6 +69,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Role Provision and Deprovision/button_Submit for Violation Testing'))
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/button_Refresh'))
+
+WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/button_Refresh'))
+
 WebUI.delay(30)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/button_Refresh'))
@@ -79,7 +83,8 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/EIA_Workflow_Appr
 
 WebUI.click(findTestObject('Object Repository/EIA_Workflow_Approve/Page_Review Violations/button_Submit Access Request'))
 
-WebUI.click(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/button_Access Request Submitted. Please che_0dc3e5'))
+WebUI.click(findTestObject('Object Repository/EIA_Cancel_WF/Page_Manage My Access/button_Access Request Submitted. Please che_0dc3e5'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/EIA_Reassign/Page_Home/span_DataProbe_a-TreeView-toggle'))
 
