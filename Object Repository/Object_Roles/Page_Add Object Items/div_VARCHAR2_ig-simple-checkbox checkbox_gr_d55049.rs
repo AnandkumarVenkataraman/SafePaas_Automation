@@ -6,12 +6,16 @@
    <elementGuidId>20dc8293-65c4-45d3-904f-c767e4ef4602</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ig-simple-checkbox.checkbox_group.apex-item-checkbox</value>
+         <key>XPATH</key>
+         <value>//*[(text() = 'VARCHAR2' or . = 'VARCHAR2')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='oItemsSodIg_ig_grid_vc_cur']/div</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'VARCHAR2' or . = 'VARCHAR2')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ig-simple-checkbox.checkbox_group.apex-item-checkbox</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d887809e-d5f4-42c1-ba37-2bf1051a4e4d</webElementGuid>
+      <webElementGuid>eb26e236-652c-44af-9973-7e04ed6a12b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,23 @@
       <name>class</name>
       <type>Main</type>
       <value>ig-simple-checkbox checkbox_group apex-item-checkbox</value>
-      <webElementGuid>841336a6-bdc8-4f6d-aa40-918cb93648ee</webElementGuid>
+      <webElementGuid>92c58299-c6b4-42b5-9ee8-45fbdfa65933</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oItemsSodIg_ig_grid_vc_cur&quot;)/div[@class=&quot;ig-simple-checkbox checkbox_group apex-item-checkbox&quot;]</value>
-      <webElementGuid>1dd57241-5ca7-4537-959b-71d4a0731277</webElementGuid>
+      <webElementGuid>b4a67048-cc4e-4813-a76f-95a63e12b573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VARCHAR2</value>
+      <webElementGuid>0d5ba279-f94b-4ca4-9d80-6e53360ac224</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='oItemsSodIg_ig_grid_vc_cur']/div</value>
-      <webElementGuid>7fa39a97-1484-4677-9f4f-8f1c6167e307</webElementGuid>
+      <webElementGuid>60e121a5-e63f-4cfb-a05d-769cd43725ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VARCHAR2'])[3]/following::div[1]</value>
-      <webElementGuid>b90d5c4c-10b3-42ba-ae1b-b9ae285c4fa0</webElementGuid>
+      <webElementGuid>5cf706a8-1dfa-44f7-a7fc-1838fe0048e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SOURCE_KEY'])[1]/following::div[1]</value>
-      <webElementGuid>90453e43-164a-490d-ab61-f2ef9510d3d6</webElementGuid>
+      <webElementGuid>3c60ba9a-f409-43be-b586-cae20c915a64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/preceding::div[1]</value>
-      <webElementGuid>18fdc448-1fd2-440b-8f8b-75391a7b98d7</webElementGuid>
+      <webElementGuid>4c8b6b13-79be-4c98-a12e-f86e9dd4e1e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[1]</value>
-      <webElementGuid>682e765d-fccb-4045-ae5d-34d8793474ba</webElementGuid>
+      <webElementGuid>43b5335c-e693-4861-8563-540e67ed96ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +98,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[8]/div</value>
-      <webElementGuid>e9f96a5b-3c8b-43af-b3d2-09623a4be5d2</webElementGuid>
+      <webElementGuid>8df76694-cd36-4f5a-8585-d76bca1bb2d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

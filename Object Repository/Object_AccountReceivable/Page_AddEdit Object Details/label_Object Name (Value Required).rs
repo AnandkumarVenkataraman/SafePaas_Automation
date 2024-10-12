@@ -6,12 +6,12 @@
    <elementGuidId>e4c12bd2-e35b-4ee5-90e2-0f1b1178c7af</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#P10_OBJECT_NAME_LABEL</value>
+         <key>XPATH</key>
+         <value>//label[@id='P10_OBJECT_NAME_LABEL']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//label[(text() = 'Object Name (Value Required)' or . = 'Object Name (Value Required)')]</value>
+         <key>CSS</key>
+         <value>#P10_OBJECT_NAME_LABEL</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>a63adf8c-cbd9-45a0-b7cb-df67c15cc319</webElementGuid>
+      <webElementGuid>3e4f263b-ea76-4e52-86c7-e6b1ebcc50dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P10_OBJECT_NAME</value>
-      <webElementGuid>51b9d9b1-cf20-41be-8dcc-9b83b1acb50e</webElementGuid>
+      <webElementGuid>fba7adb9-372a-4908-90cd-579c44768f43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P10_OBJECT_NAME_LABEL</value>
-      <webElementGuid>42b6e23a-ee8f-4c4c-9134-b2128ce06181</webElementGuid>
+      <webElementGuid>28d35beb-efbd-4a3b-921b-2e9f169aa70e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Form-label</value>
-      <webElementGuid>1f5402b6-6ebc-4a68-bf26-1f4fa8db8c73</webElementGuid>
+      <webElementGuid>19e8e629-acce-4c82-9ea0-291017fab9be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Object Name (Value Required)</value>
-      <webElementGuid>4e309fac-99eb-47e3-aff6-ae5c632f3c67</webElementGuid>
+      <webElementGuid>d28b1cb4-e6ce-40a7-9b9c-32cdc4661ed6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P10_OBJECT_NAME_LABEL&quot;)</value>
-      <webElementGuid>c0b89dcd-b1d7-4ffd-801b-66dddba5d5a5</webElementGuid>
+      <webElementGuid>4f818511-8e32-44bc-88bc-50693e4c8156</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Object Name (Value Required)' or . = 'Object Name (Value Required)')]</value>
-      <webElementGuid>1055b263-5996-4742-b382-0960fb011696</webElementGuid>
+      <webElementGuid>f692c020-f3d2-4842-b418-c8478a85b2a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='P10_OBJECT_NAME_LABEL']</value>
-      <webElementGuid>5f5d56fc-1488-4737-8b01-efc18b65ace7</webElementGuid>
+      <webElementGuid>3d067667-5eda-482c-bb77-2936477461f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P10_OBJECT_NAME_CONTAINER']/div/label</value>
-      <webElementGuid>0769bc52-9697-4984-a13e-77d7dd2eabb6</webElementGuid>
+      <webElementGuid>554dd249-4c3d-439b-a328-956603744d01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sync CT Object'])[1]/following::label[1]</value>
-      <webElementGuid>2410baee-5948-4585-8c1d-571c01b76621</webElementGuid>
+      <webElementGuid>ab81fbf9-ec5f-4c45-88a2-49e217602396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Changes'])[1]/following::label[1]</value>
-      <webElementGuid>4c62f53a-5e76-4c0c-aa5d-b6527c4ae701</webElementGuid>
+      <webElementGuid>af25b2bf-7282-458f-bea9-eada9b702d0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Description'])[1]/preceding::label[1]</value>
-      <webElementGuid>0d6b7ba7-3079-4eac-ae96-1d01e7fa40db</webElementGuid>
+      <webElementGuid>b5cdc577-8bed-4a74-b801-d08e020993c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Object Name']/parent::*</value>
-      <webElementGuid>0e9af113-601d-4769-af48-d35e23c250a6</webElementGuid>
+      <webElementGuid>efa37b65-9475-44a6-899c-3ab752588d3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/label</value>
-      <webElementGuid>532acbc8-a3a6-41ac-bfb8-f5e6389ad866</webElementGuid>
+      <webElementGuid>86c945b1-0eff-41ee-874e-297db00ef806</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

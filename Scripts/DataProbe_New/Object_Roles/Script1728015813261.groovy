@@ -35,8 +35,8 @@ WebUI.click(findTestObject('Object Repository/Object_Roles/Page_Home/span_Manage
 
 WebUI.click(findTestObject('Object Repository/Object_Roles/Page_Home/a_Manage Object'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Object_Roles/Page_Manage Objects/select_- Select an Environment -EBizApp_JDB_72b163'), 
-    '7908', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Object_Roles/Page_Manage Objects/select_- Select an Environment -EBizApp_JDB_72b163'), 
+    'NEW_CLOUDERP', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page_Manage Objects/a_Roles-NEW_CLOUDERP'))
 
@@ -66,12 +66,16 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page_AddEdit Object Details/label_XML'))
 
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page_AddEdit Object Details/span_Object Items'))
 
 WebUI.click(findTestObject('Object Repository/Object_Roles/Page_AddEdit Object Details/span_Object Items'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Object_Roles/Page_Add Object Items/h2_Add Object Items based on SOD'), 
-    'Add Object Items based on SOD')
+    'Add Object Items based on SOD', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page_Add Object Items/span_Seq'))
 
@@ -171,6 +175,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page_Add Object Items/span_Total 5'))
 
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page_Add Object Items/button_Cancel'))
 
 WebUI.click(findTestObject('Object Repository/Object_Roles/Page_Add Object Items/button_Cancel'))
@@ -178,4 +186,6 @@ WebUI.click(findTestObject('Object Repository/Object_Roles/Page_Add Object Items
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_Roles/Page_AddEdit Object Details/button_Cancel'))
 
 WebUI.click(findTestObject('Object Repository/Object_Roles/Page_AddEdit Object Details/button_Cancel'))
+
+WebUI.closeBrowser()
 

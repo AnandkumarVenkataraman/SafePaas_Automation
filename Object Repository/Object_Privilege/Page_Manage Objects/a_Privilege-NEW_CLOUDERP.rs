@@ -6,12 +6,11 @@
    <elementGuidId>18de1026-0591-45a8-a50f-20d761a71475</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Privilege-NEW_CLOUDERP')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1120:10:16099564462566:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365221,7908,7908,365221&amp;cs=3xVZZAr_TZjYJGwIAv6ymcWBn5lqRHhHbqP0rnF85-NKxlv3n7Zphc8jAIGAlalmNh2SHi8i9KvLnH-vazHD6gA' and (text() = 'Privilege-NEW_CLOUDERP' or . = 'Privilege-NEW_CLOUDERP')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7b373f11-fe12-49e7-ae62-225e577f4e97</webElementGuid>
+      <webElementGuid>e9f31e88-9bac-48ac-a7a8-075962302d28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:10:16099564462566:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365221,7908,7908,365221&amp;cs=3xVZZAr_TZjYJGwIAv6ymcWBn5lqRHhHbqP0rnF85-NKxlv3n7Zphc8jAIGAlalmNh2SHi8i9KvLnH-vazHD6gA</value>
-      <webElementGuid>66e932bd-73ff-4a3a-87a7-ae07a7dfdfce</webElementGuid>
+      <webElementGuid>090e9240-3c9f-4cf9-a65b-eb5fdfcf22b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Privilege-NEW_CLOUDERP</value>
-      <webElementGuid>b4e2f60e-6e3b-4259-b651-de59b0b9bf38</webElementGuid>
+      <webElementGuid>e6b2f123-ccb5-4d8c-bae0-f192b1cb1773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[6]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>bd4bbdb0-6f70-4acb-b369-edaa32d1889a</webElementGuid>
+      <webElementGuid>dac60159-0151-4a02-9f86-5dd38cccf50c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:10:16099564462566:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365221,7908,7908,365221&amp;cs=3xVZZAr_TZjYJGwIAv6ymcWBn5lqRHhHbqP0rnF85-NKxlv3n7Zphc8jAIGAlalmNh2SHi8i9KvLnH-vazHD6gA' and (text() = 'Privilege-NEW_CLOUDERP' or . = 'Privilege-NEW_CLOUDERP')]</value>
-      <webElementGuid>152ef0cd-dba3-4d3b-80c8-bab4c192dafd</webElementGuid>
+      <webElementGuid>6f4ba72d-26e5-4a35-9c0d-2234545ed70c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='122864437533293003_orig']/tbody/tr[6]/td/a</value>
-      <webElementGuid>f8521897-7071-404d-af2f-a133a9ce5b7b</webElementGuid>
+      <webElementGuid>91be31d4-8214-416e-896d-d2fd894a61ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Privilege-NEW_CLOUDERP')]</value>
-      <webElementGuid>64dc841d-0994-4b41-9a2e-3a7cb069ed9d</webElementGuid>
+      <webElementGuid>00ebd42c-1bf6-42c1-89fc-e0f039f3cf4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[16]/following::a[1]</value>
-      <webElementGuid>ab303fd6-b272-4631-aa26-ce84acfafd77</webElementGuid>
+      <webElementGuid>4d021468-0e80-4dbb-aa72-0ad0ca6edc5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[15]/following::a[1]</value>
-      <webElementGuid>8c3a6abb-f86b-4b5d-bc3d-447808e597c9</webElementGuid>
+      <webElementGuid>fe052c3a-0a2b-4267-b058-a5b3075a13eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[17]/preceding::a[1]</value>
-      <webElementGuid>b9f51658-e300-4d81-921e-25b22921af46</webElementGuid>
+      <webElementGuid>e04982e1-5b2b-4c08-969a-8d1f72fa72c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD_ENTRY_ALL'])[2]/preceding::a[1]</value>
-      <webElementGuid>3b6817ce-262d-4fa5-9f92-754e76eb7523</webElementGuid>
+      <webElementGuid>d7becad8-64e4-4bdf-9b66-7ba162ce255f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Privilege-NEW_CLOUDERP']/parent::*</value>
-      <webElementGuid>25639968-e67a-4549-a9fe-7521543da891</webElementGuid>
+      <webElementGuid>cba5e82c-6cd6-4cde-93bc-54d7d6dab959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:10:16099564462566:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365221,7908,7908,365221&amp;cs=3xVZZAr_TZjYJGwIAv6ymcWBn5lqRHhHbqP0rnF85-NKxlv3n7Zphc8jAIGAlalmNh2SHi8i9KvLnH-vazHD6gA')]</value>
-      <webElementGuid>7fc505a0-dfe1-40ac-84ce-fc4d7feeae2d</webElementGuid>
+      <webElementGuid>dd291b2d-98aa-4f19-aa94-0e640870495e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[6]/td/a</value>
-      <webElementGuid>53a39ca2-73ca-4087-b212-676d1ec412ef</webElementGuid>
+      <webElementGuid>fba2f92d-8af7-4d10-929e-409feebb37c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

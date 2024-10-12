@@ -6,12 +6,11 @@
    <elementGuidId>de947896-6698-4040-bda9-afac429b3981</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'EntryHierarchy-NEW_CLOUDERP')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1120:10:13940896967599:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365261,7908,7908,365261&amp;cs=3Mn8M91r4zwi1RPVe91i2YruuzBqr175p87VdRlt9AtqgVzrYWFDpm93rIsZJlH3z4p2VgQgcKLZh8Lj7OxuQtA' and (text() = 'EntryHierarchy-NEW_CLOUDERP' or . = 'EntryHierarchy-NEW_CLOUDERP')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2e11e250-bbc3-460d-8933-ccd133b3493f</webElementGuid>
+      <webElementGuid>e5441ba2-d307-4baa-bd5d-d20f00e950b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:10:13940896967599:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365261,7908,7908,365261&amp;cs=3Mn8M91r4zwi1RPVe91i2YruuzBqr175p87VdRlt9AtqgVzrYWFDpm93rIsZJlH3z4p2VgQgcKLZh8Lj7OxuQtA</value>
-      <webElementGuid>81e98c50-8921-4415-9a4a-6e418564ffcb</webElementGuid>
+      <webElementGuid>0143eb2b-0fd0-42a8-a507-0831e29c726b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>EntryHierarchy-NEW_CLOUDERP</value>
-      <webElementGuid>2141591c-7b3d-40b2-bed9-3ad479b542f2</webElementGuid>
+      <webElementGuid>5a95d3b4-afa2-48e2-9bd7-48e1cfcde050</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[5]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>c433d0eb-4da4-432e-9509-aa23b878296c</webElementGuid>
+      <webElementGuid>41836884-760b-4a00-bece-9738129f34de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:10:13940896967599:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365261,7908,7908,365261&amp;cs=3Mn8M91r4zwi1RPVe91i2YruuzBqr175p87VdRlt9AtqgVzrYWFDpm93rIsZJlH3z4p2VgQgcKLZh8Lj7OxuQtA' and (text() = 'EntryHierarchy-NEW_CLOUDERP' or . = 'EntryHierarchy-NEW_CLOUDERP')]</value>
-      <webElementGuid>d613d74a-49a3-4ecf-b1e3-81c8afc9732e</webElementGuid>
+      <webElementGuid>9deb6722-bbf0-4354-9345-05781df13d95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='122864437533293003_orig']/tbody/tr[5]/td/a</value>
-      <webElementGuid>ca03f56e-9750-4246-9d44-b1a81a983db2</webElementGuid>
+      <webElementGuid>7142da9e-c3d6-4337-ab21-76fd74716eb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'EntryHierarchy-NEW_CLOUDERP')]</value>
-      <webElementGuid>b9ffb187-29ee-4bd0-b090-b02812ab28dc</webElementGuid>
+      <webElementGuid>9c9fe2ee-9cce-48e5-9b8b-3c31f1e7e7ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[12]/following::a[1]</value>
-      <webElementGuid>3694b1d1-e804-4ebc-a7f6-82a0d4efdfd9</webElementGuid>
+      <webElementGuid>28ee7b1b-64f3-4f44-8476-fbc34733a150</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[11]/following::a[1]</value>
-      <webElementGuid>eeb23748-71af-44c5-b23d-78deb1c870b3</webElementGuid>
+      <webElementGuid>68b7135d-841e-4d6d-962b-1456aac4f829</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[13]/preceding::a[1]</value>
-      <webElementGuid>912156b5-4316-4e5a-845c-39105417fc1d</webElementGuid>
+      <webElementGuid>2ecd8918-1c07-4841-99c4-422ae8e96d23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD_ENTRY_HIERARCHY_ALL'])[1]/preceding::a[1]</value>
-      <webElementGuid>88c9b841-097c-491d-93d9-0ffd1ccb7bfc</webElementGuid>
+      <webElementGuid>5e9690ec-c626-4e2e-a915-589349d64883</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='EntryHierarchy-NEW_CLOUDERP']/parent::*</value>
-      <webElementGuid>ddbeeffc-bbba-47e9-98eb-5af8e6010538</webElementGuid>
+      <webElementGuid>c4308067-1d88-4bb4-9171-055b5f1d17f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:10:13940896967599:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365261,7908,7908,365261&amp;cs=3Mn8M91r4zwi1RPVe91i2YruuzBqr175p87VdRlt9AtqgVzrYWFDpm93rIsZJlH3z4p2VgQgcKLZh8Lj7OxuQtA')]</value>
-      <webElementGuid>1997e8f7-273f-41ec-b48f-6763bf67ed21</webElementGuid>
+      <webElementGuid>52343089-6f46-40d6-85a8-8eb4577d8798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td/a</value>
-      <webElementGuid>c9ba9f41-f9c9-49b3-bccd-f6cf7aaa231f</webElementGuid>
+      <webElementGuid>dff6a0c4-3333-4a55-9b80-26b24cdaf1a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

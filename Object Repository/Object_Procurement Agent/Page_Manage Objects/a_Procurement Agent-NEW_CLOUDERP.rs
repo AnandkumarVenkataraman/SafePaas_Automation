@@ -6,12 +6,11 @@
    <elementGuidId>aaeb5efe-34bf-4995-9169-aa17dbcae0ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Procurement Agent-NEW_CLOUDERP')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg' and (text() = 'Procurement Agent-NEW_CLOUDERP' or . = 'Procurement Agent-NEW_CLOUDERP')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>043008ab-420e-48aa-8cf5-37d65222ae41</webElementGuid>
+      <webElementGuid>95afbf01-de6d-4232-a17d-07b08d4d8067</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg</value>
-      <webElementGuid>283101d2-9a6e-4376-82a1-2e74f724ac0b</webElementGuid>
+      <webElementGuid>cb64e776-056d-4edd-9828-bc660009d867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Procurement Agent-NEW_CLOUDERP</value>
-      <webElementGuid>e0617d5e-32ad-4886-91d7-633dd7ae530a</webElementGuid>
+      <webElementGuid>2a7a4e76-7640-4616-8b6d-d1ea761942c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;122864437533293003_orig&quot;)/tbody[1]/tr[7]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>4d51b064-4ae9-437d-b77f-672a12918185</webElementGuid>
+      <webElementGuid>da956550-1f4f-472e-830d-3c714845ca94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg' and (text() = 'Procurement Agent-NEW_CLOUDERP' or . = 'Procurement Agent-NEW_CLOUDERP')]</value>
-      <webElementGuid>eddaac85-1eb6-4160-a006-9e31a96f46c6</webElementGuid>
+      <webElementGuid>ce582881-9ef0-42a9-921a-bb049810d15d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='122864437533293003_orig']/tbody/tr[7]/td/a</value>
-      <webElementGuid>75a72f32-be52-4a17-8cbc-5f8d96958fac</webElementGuid>
+      <webElementGuid>d2e9b844-a881-45bd-8097-f1867599099c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Procurement Agent-NEW_CLOUDERP')]</value>
-      <webElementGuid>6bf70fc5-c083-4c83-a611-d9373a4b706a</webElementGuid>
+      <webElementGuid>108eec98-0eaa-4d4e-9ced-5dd62d36082c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[20]/following::a[1]</value>
-      <webElementGuid>d2715365-3671-429e-af51-7edf75c470d4</webElementGuid>
+      <webElementGuid>529d507e-4aa6-4bce-8c5a-678699046d3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[19]/following::a[1]</value>
-      <webElementGuid>449b2c02-a1b7-430b-b207-404cf24ba6f1</webElementGuid>
+      <webElementGuid>2e486e00-637f-4279-ae08-566052100f7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[21]/preceding::a[1]</value>
-      <webElementGuid>41587f97-b487-48fb-9a62-d023b820a0ec</webElementGuid>
+      <webElementGuid>6b3a9073-e6ee-4ffd-be40-dde5ff1d7dfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD_ENTRY_ALL'])[3]/preceding::a[1]</value>
-      <webElementGuid>b6adf5b9-4450-4bc0-9ec8-fe8543f1a00e</webElementGuid>
+      <webElementGuid>2e9beb13-8d39-4b1f-8714-50fd97365ada</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Procurement Agent-NEW_CLOUDERP']/parent::*</value>
-      <webElementGuid>ce7002e8-a2d5-4435-adb8-0e949fa6b787</webElementGuid>
+      <webElementGuid>fd343b4f-7f06-44f8-b4f6-da0c7a1a4da9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:10:14559510505726:::RP,10:P100_OBJECTS,P100_ENVIRONMENT,FW_GROUP_ID,P10_OBJECT_ID:365251,7908,7908,365251&amp;cs=3fachXlJblv3Om0hSpNuJZ2pmbBOfLqimAqq3-o2uJ_Bok0db5RL3PEPVbjfGBV9K3Qb1N7d5k1zGfNgoSU6IXg')]</value>
-      <webElementGuid>cc5ca095-f91b-46ee-95f7-fb716d720a43</webElementGuid>
+      <webElementGuid>1eaeb5fd-1788-4660-bdf7-e2d4124e2314</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[7]/td/a</value>
-      <webElementGuid>0ebad544-a1cc-49a1-b5a5-63d23eee2c37</webElementGuid>
+      <webElementGuid>9e72f123-c1ba-4df9-a7e0-7b7b30966ebd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

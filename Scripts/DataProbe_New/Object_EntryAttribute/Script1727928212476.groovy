@@ -36,8 +36,8 @@ WebUI.click(findTestObject('Object Repository/Object_EntryAttribute/Page_Home/sp
 
 WebUI.click(findTestObject('Object Repository/Object_EntryAttribute/Page_Home/a_Manage Object'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Object_EntryAttribute/Page_Manage Objects/select_- Select an Environment -EBizApp_JDB_72b163'), 
-    '7908', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Object_EntryAttribute/Page_Manage Objects/select_- Select an Environment -EBizApp_JDB_72b163'), 
+    'NEW_CLOUDERP', false)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttribute/Page_Manage Objects/a_EntryAttribute-NEW_CLOUDERP'))
 
@@ -66,6 +66,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttri
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttribute/Page_AddEdit Object Details/label_Local File Data Type'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttribute/Page_AddEdit Object Details/label_XML'))
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttribute/Page_AddEdit Object Details/span_Object Items'))
 
@@ -121,6 +125,10 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttri
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttribute/Page_Add Object Items/td_-'))
 
+WebUI.takeFullPageScreenshot()
+
+WebUI.scrollToPosition(0, 0)
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttribute/Page_Add Object Items/button_Cancel'))
 
 WebUI.click(findTestObject('Object Repository/Object_EntryAttribute/Page_Add Object Items/button_Cancel'))
@@ -128,4 +136,6 @@ WebUI.click(findTestObject('Object Repository/Object_EntryAttribute/Page_Add Obj
 WebUI.verifyElementClickable(findTestObject('Object Repository/Object_EntryAttribute/Page_AddEdit Object Details/button_Cancel'))
 
 WebUI.click(findTestObject('Object Repository/Object_EntryAttribute/Page_AddEdit Object Details/button_Cancel'))
+
+WebUI.closeBrowser()
 
