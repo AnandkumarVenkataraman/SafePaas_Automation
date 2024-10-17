@@ -44,7 +44,7 @@ WebUI.click(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Submitt
 
 WebUI.comment('click on Login button')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:REVIEWER,66812854,316608,41792,324425')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1110:94:::NO::P94_TYPE,P94_USER,P94_SNAPSHOT,P94_RUN_ID,P94_CONTROL_ID:REVIEWER,66812854,316731,42212,324625')
 
 WebUI.comment('launch the Incident report URL for reviewer')
 
