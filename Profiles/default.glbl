@@ -170,8 +170,8 @@
       <name>EACM_SurveyName_Cancel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>EACM_Survey_Sep23_V10</description>
-      <initValue>'EACM_Survey_Sep23_V10'</initValue>
+      <description>EACM_Survey_Oct23_V2</description>
+      <initValue>'EACM_Survey_Oct23_V2'</initValue>
       <name>EACM_SecurityContext</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
