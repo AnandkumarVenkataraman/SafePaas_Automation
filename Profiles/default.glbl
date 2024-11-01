@@ -40,28 +40,28 @@
       <name>SOD_Testnew</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_SODReview_Oct25_V1</description>
-      <initValue>'KTLN_SODReview_Oct25_V1'</initValue>
+      <description>KTLN_SODReview_Oct31_V1</description>
+      <initValue>'KTLN_SODReview_Oct31_V1'</initValue>
       <name>SODSurveyName_ViolationLevel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Oct25_V1</description>
-      <initValue>'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Oct25_V1'</initValue>
+      <description>KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Oct31_V1</description>
+      <initValue>'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Oct31_V1'</initValue>
       <name>Justification_ViolationLevel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_SODReview_Oct25_V1</description>
-      <initValue>'KTLN_SODReview_Oct25_V1'</initValue>
+      <description>KTLN_SODReview_Oct31_V2</description>
+      <initValue>'KTLN_SODReview_Oct31_V2'</initValue>
       <name>SODSurveyName_AggregatedLevel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Oct25_V1</description>
-      <initValue>'KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Oct25_V1'</initValue>
+      <description>KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Oct31_V1</description>
+      <initValue>'KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Oct31_V1'</initValue>
       <name>Justification_AggregatedLevel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_RulesReview_DEV22_Oct25_V1</description>
-      <initValue>'KTLN_RulesReview_DEV22_Oct25_V1'</initValue>
+      <description>KTLN_RulesReview_DEV22_Oct31_V1</description>
+      <initValue>'KTLN_RulesReview_DEV22_Oct31_V1'</initValue>
       <name>RulesReviewName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
