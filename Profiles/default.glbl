@@ -120,18 +120,18 @@
       <name>MTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test reassignment-OCT16_V1</description>
-      <initValue>'Test reassignment-OCT16_V1'</initValue>
+      <description>Test reassignment-Nov7_V1</description>
+      <initValue>'Test reassignment-Nov7_V1'</initValue>
       <name>ReassignRequestor_Comment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test ticket # OCT16_V1</description>
-      <initValue>'Test ticket # OCT16_V1'</initValue>
+      <description>Test ticket # Nov7_V1</description>
+      <initValue>'Test ticket # Nov7_V1'</initValue>
       <name>ReassignRequestor_Ticketno</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Test Justification # OCT16_V1</description>
-      <initValue>'Test Justification # OCT16_V1'</initValue>
+      <description>Test Justification # Nov7_V1</description>
+      <initValue>'Test Justification # Nov7_V1'</initValue>
       <name>ReassignRequestor_Justification</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
