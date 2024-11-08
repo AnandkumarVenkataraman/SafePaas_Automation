@@ -31,7 +31,7 @@ WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Reass
 WebUI.comment('Enter KAT company')
 
 WebUI.setText(findTestObject('Object Repository/MonitorPaaS_IncidentReport/Reassign requestor/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (1) (1) (1)'), 
-    'MARIAB')
+    'KATALON_ADMIN')
 
 WebUI.comment('Enter the Username as "MARIAB"')
 
