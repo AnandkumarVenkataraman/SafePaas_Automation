@@ -278,7 +278,7 @@ WebUI.setText(findTestObject('Object Repository/EACM_SecurityContext/Page_Login/
 WebUI.setText(findTestObject('Object Repository/EACM_SecurityContext/Page_Login/input_OR CONTINUE WITH_P101_USERNAME'), 
     'MARIAB1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/EACM_SecurityContext/Page_Login/input_New_P101_PASSWORD'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/EACM_SecurityContext/Page_Login/input_New_P101_PASSWORD'), 'p0vweySa4WuhozMDvWqb8g==')
 
 WebUI.click(findTestObject('Object Repository/EACM_SecurityContext/Page_Login/button_Login'))
 

@@ -65,13 +65,13 @@
       <name>RulesReviewName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Maintain Customer Master vs. Maintain Supplier Master_Oct25_V1</description>
-      <initValue>'Maintain Customer Master vs. Maintain Supplier Master_Oct25_V1'</initValue>
+      <description>Maintain Customer Master vs. Maintain Supplier Master_Dec9_V1</description>
+      <initValue>'Maintain Customer Master vs. Maintain Supplier Master_Dec9_V1'</initValue>
       <name>AddRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLNAutomation_ImportFile_Oct25_Maintain Customer Master vs. Maintain Supplier Master_Oct25_V1</description>
-      <initValue>'KTLNAutomation_ImportFile_Oct25_Maintain Customer Master vs. Maintain Supplier Master_Oct25_V1'</initValue>
+      <description>KTLNAutomation_ImportFile_Oct25_Maintain Customer Master vs. Maintain Supplier Master_Dec9_V1</description>
+      <initValue>'KTLNAutomation_ImportFile_Dec9_Maintain Customer Master vs. Maintain Supplier Master_Oct25_V1'</initValue>
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
