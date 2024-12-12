@@ -35,8 +35,8 @@
       <name>Justification_AllUsersRoleViolation</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_SODTest_Oct25_V2</description>
-      <initValue>'KTLN_SODTest_Oct25_V2'</initValue>
+      <description>KTLN_SODTest_Dec9_v1</description>
+      <initValue>'KTLN_SODTest_Dec9_v1'</initValue>
       <name>SOD_Testnew</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
