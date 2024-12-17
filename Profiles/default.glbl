@@ -5,8 +5,8 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description>KTLN_SODTest_Oct25_V1</description>
-      <initValue>'KTLN_SODTest_Oct25_V1'</initValue>
+      <description>KTLN_SODTest_Dec9_V1</description>
+      <initValue>'KTLN_SODTest_Dec9_V1'</initValue>
       <name>SOD_Test</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -75,38 +75,38 @@
       <name>ImportRule_Name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V1</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V1'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V1</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V1'</initValue>
       <name>EACM_SurveyName_Verified</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V2</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V2'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V2</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V2'</initValue>
       <name>EACM_SurveyName_TerminateAccess</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V3</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V3'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V3</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V3'</initValue>
       <name>EACM_SurveyName_AutomaticPOST</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V4</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V4'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V4</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V4'</initValue>
       <name>EACM_Schedule_SurveyName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V5</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V5'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V5</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V5'</initValue>
       <name>EACM_SendReminder_Survey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V6</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V6'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V6</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V6'</initValue>
       <name>EACM_Delegation</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V7</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V7'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V7</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V7'</initValue>
       <name>EACM_SurveyName_ManageWorkflow</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -150,13 +150,13 @@
       <name>SOD_CrossApp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_Survey_Nov8_V2</description>
-      <initValue>'KTLN_EACM_Survey_Nov8_V2'</initValue>
+      <description>KTLN_EACM_Survey_Dec17_V2</description>
+      <initValue>'KTLN_EACM_Survey_Dec17_V2'</initValue>
       <name>EACM_InitiateSurvey_Reassignment</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>TRIRIGA_OS_CERT_Nov8_V7</description>
-      <initValue>'TRIRIGA_OS_CERT_Nov8_V7'</initValue>
+      <description>TRIRIGA_OS_CERT_Dec17_V7</description>
+      <initValue>'TRIRIGA_OS_CERT_Dec17_V7'</initValue>
       <name>EACM_Identity_Management</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -165,13 +165,13 @@
       <name>SODTest_Procu_Adj</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>KTLN_EACM_CancelSurvey_Nov8_V1</description>
-      <initValue>'KTLN_EACM_CancelSurvey_Nov8_V1'</initValue>
+      <description>KTLN_EACM_CancelSurvey_Dec17_V1</description>
+      <initValue>'KTLN_EACM_CancelSurvey_Dec17_V1'</initValue>
       <name>EACM_SurveyName_Cancel</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>EACM_Survey_Nov8_V2</description>
-      <initValue>'EACM_Survey_Nov8_V2'</initValue>
+      <description>EACM_Survey_Dec17_V2</description>
+      <initValue>'EACM_Survey_Dec17_V2'</initValue>
       <name>EACM_SecurityContext</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
