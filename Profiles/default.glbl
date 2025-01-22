@@ -135,13 +135,13 @@
       <name>ReassignRequestor_Justification</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>CloudERP_SS_Oct31_V1</description>
-      <initValue>'CloudERP_SS_Oct31_V1'</initValue>
+      <description>CloudERP_SS_Jan31_V1</description>
+      <initValue>'CloudERP_SS_Jan31_V1'</initValue>
       <name>DTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>JDBC_Extract_Oct31_V1</description>
-      <initValue>'JDBC_Extract_Oct31_V1'</initValue>
+      <description>JDBC_Extract_Jan31_V1</description>
+      <initValue>'JDBC_Extract_Jan31_V1'</initValue>
       <name>DTP_JDBC_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -175,8 +175,8 @@
       <name>EACM_SecurityContext</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>TRI_OSEXTRACT_Oct31_V2</description>
-      <initValue>'TRI_OSEXTRACT_Oct31_V2'</initValue>
+      <description>TRI_OSEXTRACT_Jan31_V2</description>
+      <initValue>'TRI_OSEXTRACT_Jan31_V2'</initValue>
       <name>DTP_OS_SSName</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
