@@ -5,8 +5,8 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description>KTLN_SODTest_Mar28_V1</description>
-      <initValue>'KTLN_SODTest_Mar28_V1'</initValue>
+      <description>KTLN_SODTest_Mar28_V2</description>
+      <initValue>'KTLN_SODTest_Mar28_V2'</initValue>
       <name>SOD_Test</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
