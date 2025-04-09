@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>KTLN_SODTest_Mar28_V3</description>
+      <initValue>'KTLN_SODTest_Mar28_V3'</initValue>
+      <name>SOD_Test</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>JustificationRole_Mar28_V1</description>
+      <initValue>'JustificationRole_Mar28_V1'</initValue>
+      <name>Justification_Role_Local</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>JustificationPrivilege_Mar28_V1</description>
+      <initValue>'JustificationPrivilege_Mar28_V1'</initValue>
+      <name>Justification_Privilege_Global</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AllUsersViolation_Mar28_V1</description>
+      <initValue>'AllUsersViolation_Mar28_V1'</initValue>
+      <name>Justification_AllUsersViolation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Selected_Mar28_V1</description>
+      <initValue>'Selected_Mar28_V1'</initValue>
+      <name>Justification_Selected</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>AllUsersRoleViolation_Mar28_V1</description>
+      <initValue>'AllUsersRoleViolation_Mar28_V1'</initValue>
+      <name>Justification_AllUsersRoleViolation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_SODTest_Mar28_v1</description>
+      <initValue>'KTLN_SODTest_Mar28_v1'</initValue>
+      <name>SOD_Testnew</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_SODReview_Mar28_V1</description>
+      <initValue>'KTLN_SODReview_Mar28_V1'</initValue>
+      <name>SODSurveyName_ViolationLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar28_V1</description>
+      <initValue>'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar28_V1'</initValue>
+      <name>Justification_ViolationLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_SODReview_Mar28_V2</description>
+      <initValue>'KTLN_SODReview_Mar28_V2'</initValue>
+      <name>SODSurveyName_AggregatedLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Mar28_V1</description>
+      <initValue>'KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Mar28_V1'</initValue>
+      <name>Justification_AggregatedLevel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_RulesReview_DEV22_Mar28_V1</description>
+      <initValue>'KTLN_RulesReview_DEV22_Mar28_V1'</initValue>
+      <name>RulesReviewName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Maintain Customer Master vs. Maintain Supplier Master_Mar28_V1</description>
+      <initValue>'Maintain Customer Master vs. Maintain Supplier Master_Mar28_V1'</initValue>
+      <name>AddRule_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLNAutomation_ImportFile_Oct25_Maintain Customer Master vs. Maintain Supplier Master_Mar28_V1</description>
+      <initValue>'KTLNAutomation_ImportFile_Mar28_Maintain Customer Master vs. Maintain Supplier Master_Oct25_V1'</initValue>
+      <name>ImportRule_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V1_2</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V1_2'</initValue>
+      <name>EACM_SurveyName_Verified</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V2</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V2'</initValue>
+      <name>EACM_SurveyName_TerminateAccess</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V3</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V3'</initValue>
+      <name>EACM_SurveyName_AutomaticPOST</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V4</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V4'</initValue>
+      <name>EACM_Schedule_SurveyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V5</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V5'</initValue>
+      <name>EACM_SendReminder_Survey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V6</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V6'</initValue>
+      <name>EACM_Delegation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V7</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V7'</initValue>
+      <name>EACM_SurveyName_ManageWorkflow</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_ARLimit_Mar10_V1</description>
+      <initValue>'KTLN_ARLimit_Mar10_V1'</initValue>
+      <name>MTP_EBS_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>STP_FCPM_Dec9_V1</description>
+      <initValue>'STP_FCPM_Dec26_V1'</initValue>
+      <name>MTP_CloudERP_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test reassignment-Dec26_V1</description>
+      <initValue>'Test reassignment-Dec26_V1'</initValue>
+      <name>ReassignRequestor_Comment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test ticket #Dec26_V1</description>
+      <initValue>'Test ticket #Dec26_V1'</initValue>
+      <name>ReassignRequestor_Ticketno</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test Justification # Dec26_V1</description>
+      <initValue>'Test Justification # Dec26_V1'</initValue>
+      <name>ReassignRequestor_Justification</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CloudERP_SS_Jan31_V1</description>
+      <initValue>'CloudERP_SS_Jan31_V1'</initValue>
+      <name>DTP_CloudERP_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>JDBC_Extract_Feb25_V2</description>
+      <initValue>'JDBC_Extract_Feb25_V2'</initValue>
+      <name>DTP_JDBC_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SODTest_CrossApp_Mar28_v2</description>
+      <initValue>'SODTest_CrossApp_Mar28_v2'</initValue>
+      <name>SOD_CrossApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_Survey_Feb18_V1</description>
+      <initValue>'KTLN_EACM_Survey_Feb18_V1'</initValue>
+      <name>EACM_InitiateSurvey_Reassignment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>TRIRIGA_OS_CERT_Feb18_V8</description>
+      <initValue>'TRIRIGA_OS_CERT_Feb18_V8'</initValue>
+      <name>EACM_Identity_Management</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>SODTest_Mar28_ARProcAgnt1</description>
+      <initValue>'SODTest_Mar28_ARProcAgnt2'</initValue>
+      <name>SODTest_Procu_Adj</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>KTLN_EACM_CancelSurvey_Feb18_V10</description>
+      <initValue>'KTLN_EACM_CancelSurvey_Feb18_V10'</initValue>
+      <name>EACM_SurveyName_Cancel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>EACM_Survey_Feb18_V11</description>
+      <initValue>'EACM_Survey_Feb18_V11'</initValue>
+      <name>EACM_SecurityContext</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>TRI_OSEXTRACT_Jan31_V2</description>
+      <initValue>'TRI_OSEXTRACT_Jan31_V2'</initValue>
+      <name>DTP_OS_SSName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
