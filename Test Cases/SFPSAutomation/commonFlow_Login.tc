@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login</description>
+   <name>commonFlow_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>384b337a-449d-47a2-bfc7-7615bb9a5ac0</testCaseGuid>
+</TestCaseEntity>

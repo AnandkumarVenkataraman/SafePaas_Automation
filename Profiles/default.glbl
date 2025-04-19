@@ -140,8 +140,8 @@
       <name>DTP_CloudERP_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>JDBC_Extract_Feb25_V2</description>
-      <initValue>'JDBC_Extract_Feb25_V2'</initValue>
+      <description>JDBC_Extract_Apr11_v1</description>
+      <initValue>'JDBC_Extract_Apr11_v1'</initValue>
       <name>DTP_JDBC_SSName</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -178,5 +178,25 @@
       <description>TRI_OSEXTRACT_Jan31_V2</description>
       <initValue>'TRI_OSEXTRACT_Jan31_V2'</initValue>
       <name>DTP_OS_SSName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://us21n.safepaas.com/monitor/f?p=1000:101::::::'</initValue>
+      <name>baseUrl_IQA</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'KAT'</initValue>
+      <name>companyLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'KATADMIN'</initValue>
+      <name>userIDLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ioqy8emDrxi5mkiNQATzxQ=='</initValue>
+      <name>pwdLogin</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

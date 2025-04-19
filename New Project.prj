@@ -6,6 +6,8 @@
    <UUID>1371d2dd-068e-4e4d-b6ad-243710075f05</UUID>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.7.5</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Katalon Studio\New Project\New Project.prj</projectFileLocation>
    <sourceContent>
