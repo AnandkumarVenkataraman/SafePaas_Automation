@@ -67,6 +67,7 @@ WebUI.verifyElementClickable(myInbox1)
 
 //Take screenshots and write to logs
 WebUI.takeScreenshot()
+WebUI.comment("Screenshot taken successfully")
 
 //send email that script execution was successful and create a tkt# in Jira if not successful
 
