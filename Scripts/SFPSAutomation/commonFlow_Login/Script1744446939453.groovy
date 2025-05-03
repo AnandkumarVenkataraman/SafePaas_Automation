@@ -35,7 +35,7 @@ WebUI.setEncryptedText(pwdTextbox, GlobalVariable.pwdLogin)
 //click on Login, verify the page title
 TestObject loginButton = findTestObject('Object Repository/SFPSAutomation/Page_Login/button_Login')
 WebUI.click(loginButton)
-WebUI.waitForPageLoad(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
 String loginPageTitle = 'Home'
 String actualTitle = WebUI.getWindowTitle()

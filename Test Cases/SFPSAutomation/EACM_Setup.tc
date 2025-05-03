@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>EACM</description>
-   <name>EACM</name>
+   <name>EACM_Setup</name>
    <tag>EACM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
