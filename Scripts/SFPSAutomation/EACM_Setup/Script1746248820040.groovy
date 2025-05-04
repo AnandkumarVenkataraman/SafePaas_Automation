@@ -59,13 +59,13 @@ WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_Go')
 
 WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/td_A'), 'A')
 
-WebUI.click(findTestObject('Object Repository/SFPSAutomation/span_Help_a-TreeView-toggle'))
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Help_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/SFPSAutomation/span_Manage Load Query_a-TreeView-toggle'))
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Manage Load Query_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/SFPSAutomation/span_Manage User Access_a-TreeView-toggle'))
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Manage User Access_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/SFPSAutomation/a_Manage Access Groups'))
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Manage Access Groups'))
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/SFPSAutomation/select_Select any oneEBizApp_JDBC_EnvEBiz_S_b9e18a'),
 1)
@@ -111,6 +111,65 @@ KeywordUtil.logInfo("HCM, Procurement, and Purchasing Role-groups are selected")
 //WebUI.enhancedClick(manageAccessGroups)
 //WebUI.comment("Manage Access Groups menu is rendered under EACM > Setup, and able to click")
 //WebUI.takeScreenshot()
+
+
+//Scope Roles
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Scope Access'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/SFPSAutomation/select_Select any oneEBizApp_JDBC_EnvEBiz_S_b9e18a'),
+	1)
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/a_HCM'), 10)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/a_Purchasing'), 10)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/a_Procurement'), 10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_HCM'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Scope Flag'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Y'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/td_Y'),10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Scope Flag  , , Y, , )_a-Butt_397c15'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Role Groups in Scope'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Purchasing'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Scope Flag'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Y'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/td_Y'), 10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Scope Flag  , , Y, , )_a-Butt_397c15'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Role Groups in Scope'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Procurement'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Scope Flag'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Y'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/td_Y'), 10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Scope Flag  , , Y, , )_a-Butt_397c15'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Role Groups in Scope'))
+
+
+
+//WebUI.closeBrowser()
+
+
+//Manage Approval Assignments
+
+
+
+//Certification Configuration
 
 
 

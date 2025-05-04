@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Scope Flag</name>
+   <tag></tag>
+   <elementGuidId>efebca93-849e-4894-8c8e-a904bb2231c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Scope Flag' or . = 'Scope Flag')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C134134998585779023 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\31 34133965085779013&quot;] >> internal:text=&quot;Scope Flag&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>74fa2c74-b981-4799-99bc-2d78cc30fd57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>715b6951-c3d9-4ef1-bd69-d3b8f8edd590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>134134998585779023</value>
+      <webElementGuid>76815d4e-ed91-4d0a-941b-33dce7c59f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>34a95aa8-cfa2-45cf-a598-6a5be34ec462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scope Flag</value>
+      <webElementGuid>4aaae5af-70bb-41b6-a80b-442c58398d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;134133965085779013&quot;)/tr[1]/th[@id=&quot;C134134998585779023&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>3941e2e0-3688-4ac3-bf84-7637bd68a018</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Scope Flag' or . = 'Scope Flag')]</value>
+      <webElementGuid>f00217be-37e0-4d70-b704-9373867482f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C134134998585779023']/a</value>
+      <webElementGuid>31a5d707-a3ab-4297-ada0-c8b50485c197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Scope Flag')]</value>
+      <webElementGuid>174ac6ae-6b7c-4f9c-bd22-1bb2f9ebce43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute Value'])[1]/following::a[1]</value>
+      <webElementGuid>5d7f06f5-cb0a-43ed-8423-c78c2acd203f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute'])[1]/following::a[2]</value>
+      <webElementGuid>69ae4f7c-6d33-4cd1-82b0-62559b1193cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scope/De-Scope Justification'])[1]/preceding::a[1]</value>
+      <webElementGuid>b2687e73-d91a-45a8-9531-98ec763e7351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scope History'])[1]/preceding::a[2]</value>
+      <webElementGuid>79cbdf74-9649-4b49-a1c7-d5b4ea122f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scope Flag']/parent::*</value>
+      <webElementGuid>d50dcb83-3272-4ce5-b0db-efc40347a865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/a</value>
+      <webElementGuid>433b1824-14a7-4846-9844-65098f950b8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
