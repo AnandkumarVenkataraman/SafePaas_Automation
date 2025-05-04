@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Procurement')]</value>
+         <value>//a[text() = 'Procurement' or . = 'Procurement']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>tr:nth-of-type(4) > td.u-tC > a</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f30c72d0-ab7f-4953-a1aa-3d3abb61eafb</webElementGuid>
+      <webElementGuid>a8544fff-2a56-43e7-b04a-44d5aed8bc64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1400:20:1782410688400:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:3609,Procurement</value>
-      <webElementGuid>6ebf3032-7637-469a-a7ea-a92283cc9258</webElementGuid>
+      <value>#</value>
+      <webElementGuid>96342988-5563-4ce6-adda-11bdbcd0ee4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,103 @@
       <name>text</name>
       <type>Main</type>
       <value>Procurement</value>
-      <webElementGuid>d5f49b03-9a43-423c-a0dc-8488f99b3e43</webElementGuid>
+      <webElementGuid>0de497d5-ea18-490a-9ec9-00a752f7211d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;324291251635100092_orig&quot;)/tbody[1]/tr[4]/td[@class=&quot;u-tC&quot;]/a[1]</value>
-      <webElementGuid>ffdcdb39-94fd-48ab-ae27-59e9f4a9d3af</webElementGuid>
+      <value>id(&quot;R485447514490922889_sort_widget_rows&quot;)/a[@class=&quot;a-IRR-sortWidget-row&quot;]</value>
+      <webElementGuid>609a1128-97d0-4e0f-a101-c6735c25a7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-return-value</name>
+      <type>Main</type>
+      <value>Procurement</value>
+      <webElementGuid>56727b65-2d40-4d59-9ad2-29ba65112f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-sortWidget-row</value>
+      <webElementGuid>1b0269f7-aaf4-426b-b196-143ec2ff1de5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Procurement' or . = 'Procurement')]</value>
+      <webElementGuid>4f93823d-9932-4339-9258-0f2aec2fcd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R485447514490922889_sort_widget_rows']/a[2]</value>
+      <webElementGuid>f49d4c36-1125-4200-b3aa-b0a9609a4459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Procurement')])[48]</value>
+      <webElementGuid>cad35e40-1a73-4a16-ad2c-2227d73780fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[2]</value>
+      <webElementGuid>5fb0f545-7f2f-4b8a-8f52-1196e0e813dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::a[2]</value>
+      <webElementGuid>b1ecb4d7-5a7b-4a22-b13a-e30721a57cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::a[2]</value>
+      <webElementGuid>7fb51eb1-692f-4094-a999-e2f67ff9d4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[42]</value>
+      <webElementGuid>19db6b63-18d9-40e8-a055-8fd2a4a205ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>fa80d88f-b953-4ff0-8441-d7aa9be89fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
       <value>//a[@href = 'f?p=1400:20:1782410688400:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:3609,Procurement' and (text() = 'Procurement' or . = 'Procurement')]</value>
-      <webElementGuid>4ed3add1-796e-454c-80d0-cf76ca955401</webElementGuid>
+      <webElementGuid>71c322a8-d50c-406c-810d-8235f515cd43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +149,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='324291251635100092_orig']/tbody/tr[4]/td/a</value>
-      <webElementGuid>9b77027c-97d4-4a33-aff1-e80c62387e68</webElementGuid>
+      <webElementGuid>0b5e6a9a-b394-48e2-8235-cce05341e8ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +157,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Procurement')]</value>
-      <webElementGuid>2ea785cb-8a55-43c7-b2dc-88416e698fef</webElementGuid>
+      <webElementGuid>0bd8c350-a24d-4baf-9fd2-6b5771b2e20e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[4]/following::a[1]</value>
-      <webElementGuid>d9b67242-16a4-4c4b-81ea-177714d3e023</webElementGuid>
+      <webElementGuid>0b6ee087-387f-4311-8593-ea0727aceb20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[3]/following::a[1]</value>
-      <webElementGuid>a69eb111-21e4-4aa1-8807-cb66d075da24</webElementGuid>
+      <webElementGuid>e19d824a-cd2a-42f9-9e64-de1f02de893d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Procurement'])[2]/preceding::a[1]</value>
-      <webElementGuid>65add0b8-89d9-4311-b700-df222ad04e7e</webElementGuid>
+      <webElementGuid>69a1f394-ae78-4bb5-af5b-01dd523ac457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +189,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[5]/preceding::a[1]</value>
-      <webElementGuid>e80e23b2-b8f4-4594-9b45-5c69bb4975a3</webElementGuid>
+      <webElementGuid>17eb8093-8405-4cc0-b2a2-5176007fb5c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +197,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Procurement']/parent::*</value>
-      <webElementGuid>a1da6ddd-d865-440e-9087-ffa7ffc1e643</webElementGuid>
+      <webElementGuid>7b78d79f-2c18-4adb-a378-0103aa608031</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +205,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1400:20:1782410688400:::RP,20:P0_APPLICATION_ID,P0_APPLICATION_NAME:3609,Procurement')]</value>
-      <webElementGuid>c6c3d467-dbd5-4fa9-b68c-c82f0e059824</webElementGuid>
+      <webElementGuid>ab3a379d-e704-461e-8a08-856a21c900af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +213,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td/a</value>
-      <webElementGuid>cba5f8f2-400b-43e5-a98c-d12e4cb5654e</webElementGuid>
+      <webElementGuid>f52a10d5-5883-419c-af2b-745c04f0b7fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

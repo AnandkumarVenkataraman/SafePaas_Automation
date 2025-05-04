@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Role Group</name>
+   <tag></tag>
+   <elementGuidId>894059f7-ff53-4204-bade-27cf6b1a0763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Role Group' or . = 'Role Group')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\33 25069098919960516&quot;] >> internal:text=&quot;Role Group&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29e5a1fc-4cb2-47fa-b256-b9b7c89b8fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>2b1c31c9-befd-44ff-9c54-139d9c3787e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>163793570305746481</value>
+      <webElementGuid>93f6d0df-ffc3-4b7e-888b-b09b37ad7a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>505d5475-4818-47bd-9b04-0cd61de927ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role Group</value>
+      <webElementGuid>b4c9855f-3774-413e-a0f5-2946e925cfcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;325069098919960516&quot;)/tr[1]/th[@id=&quot;C163793570305746481&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>58faa827-8db0-4c7e-a265-a06f5c46e142</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Role Group' or . = 'Role Group')]</value>
+      <webElementGuid>bbea9b47-7967-4b2f-96fb-739495fd32d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C163793570305746481']/a</value>
+      <webElementGuid>e45b84f8-9de8-414a-a54a-182e13a25360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Role Group')]</value>
+      <webElementGuid>37a1c063-e16e-4f30-b35e-755fa9e97b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[5]/following::a[1]</value>
+      <webElementGuid>2b94df81-5763-4774-8a79-20a5b62e9959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[3]/following::a[1]</value>
+      <webElementGuid>caff6b75-8546-444f-a603-645b1fd9e1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::a[1]</value>
+      <webElementGuid>387d02f0-1b4c-406a-bbe8-b96e6727fed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/preceding::a[2]</value>
+      <webElementGuid>e4545e22-7bca-4f06-acee-ffccd45b6c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/a</value>
+      <webElementGuid>c4fcded4-6f10-4696-a088-139c98a762f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

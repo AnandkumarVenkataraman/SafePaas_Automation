@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_KATADMIN Kat Admin</name>
+   <tag></tag>
+   <elementGuidId>9f94dd1d-1657-409e-820d-c88ecfa29a43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'KATADMIN Kat Admin' or . = 'KATADMIN Kat Admin')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R325277008001686906_ig_grid_vc_cur</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 4.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>89f24c30-09c6-4b83-9cd2-b63cea21405b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>692caf05-98a0-433a-97bb-fb3adf989f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2bd8ad6c-698a-4a42-8bc5-2d1b844a042e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-focused</value>
+      <webElementGuid>1813f17f-de9d-4062-b4a2-f0b21866bb78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>R325277008001686906_ig_grid_vc_ctx C325277596476686912_HDR R325277008001686906_ig_grid_vc_cur</value>
+      <webElementGuid>7a95d690-0020-45da-97de-e4ac60a26628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R325277008001686906_ig_grid_vc_cur</value>
+      <webElementGuid>f9da5d66-446a-47ee-a563-ff036892e162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KATADMIN Kat Admin</value>
+      <webElementGuid>007409ce-3ea9-4e6a-9310-ff754d9d0db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R325277008001686906_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>117246b2-8111-4068-90e5-3bbe508d08b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'KATADMIN Kat Admin' or . = 'KATADMIN Kat Admin')]</value>
+      <webElementGuid>a475d526-c6fa-433d-8d9f-8c6a80a281ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='R325277008001686906_ig_grid_vc_cur']</value>
+      <webElementGuid>990d419a-b547-49ca-ac36-aaa299a6013b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R325277008001686906_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[3]</value>
+      <webElementGuid>d5bbe565-70fe-403b-864a-0c2be984b09b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HCM'])[2]/following::td[1]</value>
+      <webElementGuid>72d8415d-c8e2-493e-b3fb-c50c70751538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary owner'])[2]/following::td[3]</value>
+      <webElementGuid>8710d94b-66d8-4ac0-bffa-2dddca9343d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN Katalon Admin'])[1]/preceding::td[1]</value>
+      <webElementGuid>8207d222-43fa-4bf3-9dcb-2d96979b379e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page rows'])[1]/preceding::td[2]</value>
+      <webElementGuid>5c5f5821-f662-4f94-ac58-cd64ac6ba69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KATADMIN Kat Admin']/parent::*</value>
+      <webElementGuid>ba09d7d3-a07d-437d-a396-61772a90d951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>750c5039-1cb7-45e1-b6cd-a7129c94fb74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

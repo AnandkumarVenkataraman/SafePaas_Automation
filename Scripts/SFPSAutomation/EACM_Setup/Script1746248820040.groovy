@@ -10,44 +10,50 @@ import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
-import com.kms.katalon.core.testobject.TestObject
-import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.model.FailureHandling as FailureHandling
-import com.kms.katalon.core.testobject.TestObject
-import com.kms.katalon.core.webui.common.WebUiCommonHelper
-import org.openqa.selenium.WebElement
+import com.kms.katalon.core.webui.common.WebUiCommonHelper as WebUiCommonHelper
+import org.openqa.selenium.WebElement as WebElement
 
 WebUI.callTestCase(findTestCase('Test Cases/SFPSAutomation/commonFlow_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-
 //Company settings -> Verify EACM Product is selected
 TestObject Administration = findTestObject('Object Repository/SFPSAutomation/EACM/span_DataPaaS_a-TreeView-toggle')
-WebUI.enhancedClick(Administration) //click on Administration
+
+WebUI.enhancedClick(Administration //click on Administration
+    )
 
 TestObject companySettings = findTestObject('Object Repository/SFPSAutomation/EACM/span_Administration_a-TreeView-toggle')
-WebUI.enhancedClick(companySettings) //click on Company Settings
+
+WebUI.enhancedClick(companySettings //click on Company Settings
+    )
 
 TestObject manageCompany = findTestObject('Object Repository/SFPSAutomation/EACM/a_Manage Company')
+
 WebUI.enhancedClick(manageCompany)
 
 TestObject eacmIsSelected = findTestObject('Object Repository/SFPSAutomation/EACM/div_Enterprise Access Certification')
+
 //boolean isChecked = eacmIsSelected.isSelected()
 //boolean isDisabled = !eacmIsSelected.isEnabled()
-
 String disabledAttr = WebUI.getAttribute(eacmIsSelected, 'disabled')
+
 WebUI.comment(disabledAttr)
+
 String checkedAttr = WebUI.getAttribute(eacmIsSelected, 'checked')
+
 WebUI.comment(checkedAttr)
-if (checkedAttr == 'true' && disabledAttr == 'true') {
-	println("EACM is selected and is disabled")
+
+if ((checkedAttr == 'true') && (disabledAttr == 'true')) {
+    println('EACM is selected and is disabled')
 } else {
-WebUI.verifyMatch("EACM is either not selected; or, is selected and enabled for this user. So terminating the execution.", "", false)
+    WebUI.verifyMatch('EACM is either not selected; or, is selected and enabled for this user. So terminating the execution.', 
+        '', false)
 }
 
 //Manage Environment -> Verify the Env. is Active
@@ -67,16 +73,16 @@ WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Manage
 
 WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Manage Access Groups'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/SFPSAutomation/select_Select any oneEBizApp_JDBC_EnvEBiz_S_b9e18a'),
-1)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/SFPSAutomation/select_Select any oneEBizApp_JDBC_EnvEBiz_S_b9e18a'), 
+    1)
 
-WebUI.verifyElementChecked(findTestObject('Object Repository/SFPSAutomation/input_HCM_f01'),10)
+WebUI.verifyElementChecked(findTestObject('Object Repository/SFPSAutomation/input_HCM_f01'), 10)
 
-WebUI.verifyElementChecked(findTestObject('Object Repository/SFPSAutomation/input_Procurement_f01'),10)
+WebUI.verifyElementChecked(findTestObject('Object Repository/SFPSAutomation/input_Procurement_f01'), 10)
 
-WebUI.verifyElementChecked(findTestObject('Object Repository/SFPSAutomation/input_Purchasing_f01'),10)
+WebUI.verifyElementChecked(findTestObject('Object Repository/SFPSAutomation/input_Purchasing_f01'), 10)
 
-KeywordUtil.logInfo("HCM, Procurement, and Purchasing Role-groups are selected")
+KeywordUtil.logInfo('HCM, Procurement, and Purchasing Role-groups are selected')
 
 ////Click on AccessPaaS
 //TestObject accessPaasHyperLink = findTestObject('Object Repository/SFPSAutomation/EACM/span_AccessPaaS')
@@ -111,13 +117,12 @@ KeywordUtil.logInfo("HCM, Procurement, and Purchasing Role-groups are selected")
 //WebUI.enhancedClick(manageAccessGroups)
 //WebUI.comment("Manage Access Groups menu is rendered under EACM > Setup, and able to click")
 //WebUI.takeScreenshot()
-
-
 //Scope Roles
 WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Scope Access'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/SFPSAutomation/select_Select any oneEBizApp_JDBC_EnvEBiz_S_b9e18a'),
-	1)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/SFPSAutomation/select_Select any oneEBizApp_JDBC_EnvEBiz_S_b9e18a'), 
+    1)
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/a_HCM'), 10)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/a_Purchasing'), 10)
@@ -130,7 +135,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Scope Fla
 
 WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Y'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/td_Y'),10)
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/td_Y'), 10)
 
 WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Scope Flag  , , Y, , )_a-Butt_397c15'))
 
@@ -160,16 +165,80 @@ WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_conc
 
 WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/span_Role Groups in Scope'))
 
-
-
 //WebUI.closeBrowser()
-
-
 //Manage Approval Assignments
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Manage Approval Assignments'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/SFPSAutomation/select_Select any oneEBizApp_JDBC_EnvEBiz_S_b9e18a'), 
+    1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Role Group'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/a_HCM'), 'HCM')
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_HCM'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/td_KATADMIN Kat Admin'), 'KATADMIN Kat Admin')
+
+WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/td_KATALON_ADMIN Katalon Admin'), 'KATALON_ADMIN Katalon Admin')
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Manage Approval Assignments (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Role Group'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Procurement'))
+//WebUI.delay(3)
+//WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/a_Procurement_1'), 'Procurement')
+
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Procurement_1'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/td_KATADMIN Kat Admin'), 'KATADMIN Kat Admin')
+//WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/td_KATADMIN Kat Admin'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/td_KATALON_ADMIN Katalon Admin'), 'KATALON_ADMIN Katalon Admin')
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Manage Approval Assignments (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Role Group'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Purchasing'))
+
+//WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/a_Purchasing_1'), 'Purchasing')
+
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Purchasing_1'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/td_KATADMIN Kat Admin'), 'KATADMIN Kat Admin')
+
+WebUI.verifyElementText(findTestObject('Object Repository/SFPSAutomation/td_KATALON_ADMIN Katalon Admin'), 'KATALON_ADMIN Katalon Admin')
+
+WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/a_Manage Approval Assignments (1)'))
+
+TestObject hcmLink = findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099')
+
+// Wait up to 15 seconds for the element to be present
+if (WebUI.waitForElementPresent(hcmLink, 15, FailureHandling.OPTIONAL)) {
+   WebUI.enhancedClick(hcmLink, FailureHandling.OPTIONAL)
+}
+
+//TestObject hcmLink = findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099')
+
+// Wait up to 15 seconds for the element to be present
+if (WebUI.waitForElementPresent(hcmLink, 15, FailureHandling.OPTIONAL)) {
+   WebUI.enhancedClick(hcmLink, FailureHandling.OPTIONAL)
+}
+
+//TestObject hcmLink = findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099')
+
+// Wait up to 15 seconds for the element to be present
+if (WebUI.waitForElementPresent(hcmLink, 15, FailureHandling.OPTIONAL)) {
+   WebUI.enhancedClick(hcmLink, FailureHandling.OPTIONAL)
+}
+
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'), FailureHandling.OPTIONAL)
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'), FailureHandling.OPTIONAL)
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'), FailureHandling.OPTIONAL)
 
 
-
-//Certification Configuration
-
-
-
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
