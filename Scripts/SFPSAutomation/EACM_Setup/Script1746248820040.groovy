@@ -237,8 +237,84 @@ if (WebUI.waitForElementPresent(hcmLink, 15, FailureHandling.OPTIONAL)) {
 //WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'), FailureHandling.OPTIONAL)
 //WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'), FailureHandling.OPTIONAL)
 //WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'), FailureHandling.OPTIONAL)
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
+//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
+
+//Certification Configuration
+WebUI.click(findTestObject('Object Repository/SFPSAutomation/a_Certification Configuration'))
+
+TestObject oneApproverResponse = findTestObject('Object Repository/SFPSAutomation/label_One Approver Response')
+//findTestObject('Object Repository/SFPSAutomation/EACM/div_Enterprise Access Certification')
+checkedAttr = WebUI.getAttribute(oneApproverResponse, 'checked')
+
+WebUI.comment(checkedAttr)
+
+if ((checkedAttr == 'true')) {
+	println('oneApproverResponse is selected')
+} else {
+	WebUI.verifyMatch('oneApproverResponse is not selected.',
+		'', false)
+}
 
 
-//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
-//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
-//WebUI.enhancedClick(findTestObject('Object Repository/SFPSAutomation/button_concat(Role Group  , , HCM, , )_a-Bu_7cf099'))
+TestObject labelNo1 = findTestObject('Object Repository/SFPSAutomation/label_No')
+//findTestObject('Object Repository/SFPSAutomation/EACM/div_Enterprise Access Certification')
+checkedAttr = WebUI.getAttribute(labelNo1, 'checked')
+
+WebUI.comment(checkedAttr)
+
+if ((checkedAttr == 'true')) {
+	println('labelNo1 is selected')
+} else {
+	WebUI.verifyMatch('labelNo1 is not selected.',
+		'', false)
+}
+
+TestObject labelNo2 = findTestObject('Object Repository/SFPSAutomation/label_No')
+//findTestObject('Object Repository/SFPSAutomation/EACM/div_Enterprise Access Certification')
+checkedAttr = WebUI.getAttribute(labelNo2, 'checked')
+
+WebUI.comment(checkedAttr)
+
+if ((checkedAttr == 'true')) {
+	println('labelNo2 is selected')
+} else {
+	WebUI.verifyMatch('labelNo2 is not selected.',
+		'', false)
+}
+
+TestObject labelNo3 = findTestObject('Object Repository/SFPSAutomation/label_No')
+//findTestObject('Object Repository/SFPSAutomation/EACM/div_Enterprise Access Certification')
+checkedAttr = WebUI.getAttribute(labelNo3, 'checked')
+
+WebUI.comment(checkedAttr)
+
+if ((checkedAttr == 'true')) {
+	println('labelNo3 is selected')
+} else {
+	WebUI.verifyMatch('labelNo3 is not selected.',
+		'', false)
+}
+
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/SFPSAutomation/span_Please select an environment'),10)
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/SFPSAutomation/select_CERP_1 (Inactive)CloudERP (Inactive)_be71c8'),
+	'5888', true)
+
+
+TestObject roleGroupCheckbox = findTestObject('Object Repository/SFPSAutomation/label_Role Group')
+//findTestObject('Object Repository/SFPSAutomation/EACM/div_Enterprise Access Certification')
+checkedAttr = WebUI.getAttribute(roleGroupCheckbox, 'checked')
+
+WebUI.comment(checkedAttr)
+
+if ((checkedAttr == 'true')) {
+	println('roleGroupCheckbox is selected')
+} else {
+	WebUI.verifyMatch('roleGroupCheckbox is not selected.',
+		'', false)
+}
+WebUI.click(findTestObject('Object Repository/SFPSAutomation/a_Inbox'))

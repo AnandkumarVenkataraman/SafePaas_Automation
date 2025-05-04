@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_One Approver Response</name>
+   <tag></tag>
+   <elementGuidId>68021981-8508-4e9b-b1b6-7b2bb637b95e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=&quot;P41_RESP_TO_CLOSE_0&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.u-radio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;One Approver Response&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d91e2b80-43bf-4f4d-a762-2d41ac49e060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-radio</value>
+      <webElementGuid>7a3ce2bd-b80a-4b1b-867c-a47eeedca6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P41_RESP_TO_CLOSE_0</value>
+      <webElementGuid>844483b6-42d9-4b0b-aec9-0fda1dc2db76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>One Approver Response</value>
+      <webElementGuid>982ea177-2a38-4556-aa7f-3910350370fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P41_RESP_TO_CLOSE&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
+      <webElementGuid>d3a50d3a-f52f-4c44-b554-ad817a0fe447</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'One Approver Response' or . = 'One Approver Response')]</value>
+      <webElementGuid>a39c601c-c673-473e-ad59-fd620f7da8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P41_RESP_TO_CLOSE']/div/div/div/label</value>
+      <webElementGuid>f6cc8ca6-ff16-4a4b-93a4-0422e54210a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory required number of responses:'])[1]/following::label[1]</value>
+      <webElementGuid>6736ff96-e0f6-4392-af15-97dec65efd87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Level'])[2]/following::label[2]</value>
+      <webElementGuid>46083a3a-9aa0-4608-b43d-454d02f8b8ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Both Approvers Responses'])[1]/preceding::label[1]</value>
+      <webElementGuid>51a28db6-3418-4f52-8f9c-479c45fe90f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enforce Mandatory Justification for Access Certification'])[1]/preceding::label[2]</value>
+      <webElementGuid>251c66c5-adf4-44de-aead-5bb17e19da82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='One Approver Response']/parent::*</value>
+      <webElementGuid>3b036af6-fa12-48d9-ac4d-43149f819c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>78c024f1-450b-4dae-9a00-92ee9316cbe5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

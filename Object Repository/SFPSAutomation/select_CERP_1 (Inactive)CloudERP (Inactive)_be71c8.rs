@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_CERP_1 (Inactive)CloudERP (Inactive)_be71c8</name>
+   <tag></tag>
+   <elementGuidId>c885a7af-592b-484e-9b50-48d7819ca527</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P41_ENVIRONMENT_AG' and (text() = 'CERP_1 (Inactive)
+CloudERP (Inactive)
+EBiz_SFTP
+EBizApp_JDBC_Env
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+Tririga_Env
+Tririga_OS
+TririgaDB_Env
+WorkDay_Env
+' or . = 'CERP_1 (Inactive)
+CloudERP (Inactive)
+EBiz_SFTP
+EBizApp_JDBC_Env
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+Tririga_Env
+Tririga_OS
+TririgaDB_Env
+WorkDay_Env
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P41_ENVIRONMENT_AG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Environment Level&quot;i >> internal:label=&quot;Environment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0e327d83-122e-4b49-9605-51b97a3122ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P41_ENVIRONMENT_AG</value>
+      <webElementGuid>3864f01e-0fbf-4d4c-bc8a-b9c34e928d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P41_ENVIRONMENT_AG</value>
+      <webElementGuid>f1d7afc9-9a43-4628-9fb9-2e2526c22b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>ce59b9bf-253c-464a-9f9f-ea841b858b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>198650e3-67e9-4e65-abe5-1db042247147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1d991ea1-65fc-4431-8d9a-b8448592c079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CERP_1 (Inactive)
+CloudERP (Inactive)
+EBiz_SFTP
+EBizApp_JDBC_Env
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+Tririga_Env
+Tririga_OS
+TririgaDB_Env
+WorkDay_Env
+</value>
+      <webElementGuid>e31c6935-13bc-4685-85a5-7273ed50abb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P41_ENVIRONMENT_AG&quot;)</value>
+      <webElementGuid>6cd5f3db-197e-454f-945d-480c04afaa2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P41_ENVIRONMENT_AG' and (text() = 'CERP_1 (Inactive)
+CloudERP (Inactive)
+EBiz_SFTP
+EBizApp_JDBC_Env
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+Tririga_Env
+Tririga_OS
+TririgaDB_Env
+WorkDay_Env
+' or . = 'CERP_1 (Inactive)
+CloudERP (Inactive)
+EBiz_SFTP
+EBizApp_JDBC_Env
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+Tririga_Env
+Tririga_OS
+TririgaDB_Env
+WorkDay_Env
+')]</value>
+      <webElementGuid>c433639d-4501-418b-a130-a5a8468104c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P41_ENVIRONMENT_AG']</value>
+      <webElementGuid>9436db83-27e3-4d71-a5dd-645c8e7760f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P41_ENVIRONMENT_AG_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>98405c17-ef0b-4024-a1c8-516b9ee11c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[2]/following::select[1]</value>
+      <webElementGuid>9f8c9ac4-a976-46d8-844c-ffcba7b2c1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment Selection'])[2]/following::select[1]</value>
+      <webElementGuid>eadf7306-c205-409d-b4e5-9c091237d85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Grouping'])[1]/preceding::select[1]</value>
+      <webElementGuid>bc013579-45d1-46e5-986b-e68d10b51a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identity Groups'])[1]/preceding::select[1]</value>
+      <webElementGuid>10646b21-d12e-4c85-aa65-aab3a83f66fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>2e314dcb-a831-447c-a36d-6f38c8c15b8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
