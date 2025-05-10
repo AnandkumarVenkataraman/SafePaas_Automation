@@ -15,14 +15,14 @@
       <guid>5f8cda79-4de3-489b-b873-7e213b96539d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/commonFlow_Login</testCaseId>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/commonFlow_Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1abe4cad-da29-416d-8517-ee59618c88f5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/EACM_Setup</testCaseId>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/EACM_Setup</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

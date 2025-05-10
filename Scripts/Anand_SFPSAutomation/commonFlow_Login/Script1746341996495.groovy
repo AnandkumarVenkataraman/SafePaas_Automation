@@ -24,16 +24,16 @@ WebUI.navigateToUrl(GlobalVariable.baseUrl_IQA)
 WebUI.maximizeWindow()
 
 //Enter Coompany /User name / Pwd
-TestObject companyTextbox = findTestObject('Object Repository/SFPSAutomation/Page_Login/input_Winter 2025_P101_COMPANY')
-TestObject userIDTextbox = findTestObject('Object Repository/SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME')
-TestObject pwdTextbox = findTestObject('Object Repository/SFPSAutomation/Page_Login/input_New_P101_PASSWORD')
+TestObject companyTextbox = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Winter 2025_P101_COMPANY')
+TestObject userIDTextbox = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME')
+TestObject pwdTextbox = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD')
 
 WebUI.setText(companyTextbox, GlobalVariable.companyLogin)
 WebUI.setText(userIDTextbox, GlobalVariable.userIDLogin)
 WebUI.setEncryptedText(pwdTextbox, GlobalVariable.pwdLogin)
 
 //click on Login, verify the page title
-TestObject loginButton = findTestObject('Object Repository/SFPSAutomation/Page_Login/button_Login')
+TestObject loginButton = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login')
 WebUI.enhancedClick(loginButton)
 WebUI.waitForPageLoad(10, FailureHandling.STOP_ON_FAILURE)
 
@@ -53,15 +53,15 @@ else
 //Click on Inbox, My Inbox tab, and My Dashboard tab
 //This is to ensure the script has landed correctly on the home page after successful login
 	
-TestObject inbox1 = findTestObject('Object Repository/SFPSAutomation/Page_Home/a_Inbox')
+TestObject inbox1 = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Inbox')
 WebUI.verifyElementClickable(inbox1)
 //put the if condition later 
 
-TestObject myDashboard1 = findTestObject('Object Repository/SFPSAutomation/Page_Home/span_My Dashboard')
+TestObject myDashboard1 = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_My Dashboard')
 WebUI.verifyElementClickable(myDashboard1)
 //put an if condition later
 
-TestObject myInbox1 = findTestObject('Object Repository/SFPSAutomation/Page_Home/span_My Inbox')
+TestObject myInbox1 = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_My Inbox')
 WebUI.verifyElementClickable(myInbox1)
 //put an if condition later
 

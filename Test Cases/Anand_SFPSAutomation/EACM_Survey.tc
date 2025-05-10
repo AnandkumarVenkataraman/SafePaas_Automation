@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM_Survey</description>
+   <name>EACM_Survey</name>
+   <tag>EACM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>615a590b-e477-4a79-9e8c-f68d1d3f6e2a</testCaseGuid>
+</TestCaseEntity>
