@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Analytics_a-TreeView-toggle</name>
+   <name>i_Last Update Date_fa fa-wrench</name>
    <tag></tag>
-   <elementGuidId>a5699cc2-f64e-4c38-9343-bf42a667a2af</elementGuidId>
+   <elementGuidId>0e3f629f-741b-42fe-93cf-bfdfaca18b7d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#t_TreeNav_11 > span.a-TreeView-toggle</value>
+         <value>i.fa.fa-wrench</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_11']/span</value>
+         <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[2]/a/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>li >> internal:has-text=/^Access Certification$/ >> span >> nth=0</value>
+         <value>internal:role=row[name=&quot; EACM - Level 1 - Certification WF EBS_EACMSurvey_11052025_020436 Open Certification Name: EBS_EACMSurvey_11052025_020436 11-MAY-2025 02:04:45 KATADMIN KATADMIN 11-MAY-2025 02:04:45&quot;i] >> internal:role=link >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,39 +28,47 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>b99ecf1b-66ec-4f54-ac74-a992f1324ec8</webElementGuid>
+      <value>i</value>
+      <webElementGuid>637b10e8-6bd8-4e1a-9e27-d2668ad5c86f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-toggle</value>
-      <webElementGuid>9e8785db-9870-417e-a194-7414abfbf3f6</webElementGuid>
+      <value>fa fa-wrench</value>
+      <webElementGuid>80c07f30-b204-4cf7-a3d8-e636359779f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9abce992-1af5-4c4c-9779-873e2dd5fe17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_11&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>8776e2df-0fc2-4952-89e8-9e15ebe7c282</webElementGuid>
+      <value>id(&quot;97388373399089016_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/i[@class=&quot;fa fa-wrench&quot;]</value>
+      <webElementGuid>697854b3-3806-4379-9376-81a99e7d7ebf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_11']/span</value>
-      <webElementGuid>61a5b4b5-71a1-4bfa-92db-8b489060a0c2</webElementGuid>
+      <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[2]/a/i</value>
+      <webElementGuid>bca3c456-d950-4341-ba8e-c7fa2376cc3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/ul/li[2]/span</value>
-      <webElementGuid>add117b7-58b0-40e5-bd7c-2668b35edc4f</webElementGuid>
+      <value>//i</value>
+      <webElementGuid>2ce91379-2cb7-4f1b-8124-f2005fdbd8d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Create</name>
+   <name>button_Apply</name>
    <tag></tag>
-   <elementGuidId>e80d9372-04fb-45c7-919a-2d593bb47dc0</elementGuidId>
+   <elementGuidId>f727c6bf-7775-499f-ab02-057bda24fbf5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#B167126276549450183</value>
+         <value>#B105762015379441642</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delegate To'])[1]/preceding::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Create&quot;i]</value>
+         <value>#B105762015379441642</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60fa030f-b809-467a-8b9f-99f3a6423fb4</webElementGuid>
+      <webElementGuid>2763cd11-aa7e-456f-a371-53c8ef636bc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>apex.navigation.redirect('f?p=1400:10:5727709003244:::RP,10::');</value>
-      <webElementGuid>995dfb67-55d3-4903-a9aa-083b773555a1</webElementGuid>
+      <value>apex.submit({request:'DELEGATE_APPLY_CHANGES',validate:true});</value>
+      <webElementGuid>01aa3f70-a711-4867-a545-163cbd9bbc71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>583abf20-f7b7-4c6a-9582-504e52a14a11</webElementGuid>
+      <webElementGuid>bad6dd85-2576-4300-8cd0-329264f020e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,86 +53,86 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f0aa6376-cced-416f-8c20-373d78a325cd</webElementGuid>
+      <webElementGuid>29611fea-71d2-4de3-8e54-68a988dd9006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>B167126276549450183</value>
-      <webElementGuid>72fb2ef5-a20b-4740-80c7-5688556e7cc1</webElementGuid>
+      <value>B105762015379441642</value>
+      <webElementGuid>562ed84c-3ff2-419e-b863-29f6017e3982</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create</value>
-      <webElementGuid>57a711b3-475f-4b6b-a1b1-4008536e715a</webElementGuid>
+      <value>Apply</value>
+      <webElementGuid>a286629d-a81e-460b-b17e-7bef6eebc6f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B167126276549450183&quot;)</value>
-      <webElementGuid>e7e64d1e-dbe6-4df0-87d6-072f7ce6f7f3</webElementGuid>
+      <value>id(&quot;B105762015379441642&quot;)</value>
+      <webElementGuid>3025779b-252b-4fbf-9396-2fe143fafa2f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>8637602c-4c1f-42fd-b979-e57caba4ea05</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>06e92f56-e7c4-4a5a-8dea-9d1473f586ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='B167126276549450183']</value>
-      <webElementGuid>d5d78bff-7e6b-467b-8cab-029f82a3ca5b</webElementGuid>
+      <value>//button[@id='B105762015379441642']</value>
+      <webElementGuid>1e116a3a-2f52-4282-9b7a-5555e2bc3453</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mngSnap']/div/div[2]/button</value>
-      <webElementGuid>9ef02ea8-1225-43c4-8397-b3470f4d51a9</webElementGuid>
+      <value>//div[@id='R105761937899441641']/div/div[2]/button</value>
+      <webElementGuid>ed690907-eb61-46f2-a2df-bc307e6c2c00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Certification'])[4]/following::button[1]</value>
-      <webElementGuid>f37d04de-2995-44c4-be69-348de3a4b828</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delegation Setting'])[1]/following::button[1]</value>
+      <webElementGuid>b01a4ce8-eef3-4d6e-a93b-4e1eaebec13e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::button[1]</value>
-      <webElementGuid>f8bdce6c-e9fc-4fc0-bf3f-e082f3a2162f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send me electronic mail notifications'])[1]/following::button[2]</value>
+      <webElementGuid>343ff3ec-1430-44a7-af45-59ec856e6646</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='POST'])[1]/preceding::button[1]</value>
-      <webElementGuid>4ab31bc1-f46b-4578-b8a9-a4775a5d6625</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delegate To'])[1]/preceding::button[1]</value>
+      <webElementGuid>88c0bd9a-ab33-4dea-9ba6-36c6b16bfaad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>391189e7-8c78-45f0-99f7-a775cc122d9b</webElementGuid>
+      <value>//div[5]/div/div/div/div[2]/button</value>
+      <webElementGuid>47914dbc-c4b4-4611-ad87-2a93ef70730f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

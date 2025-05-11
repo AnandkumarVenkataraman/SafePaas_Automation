@@ -92,3 +92,8 @@ WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ScopedDescoped Attributes/a_Unassigned Accesses'))
 
 WebUI.takeScreenshot()
+
+//Logout
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Preferences/button_katalon_admin'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Preferences/a_Logout'))

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Create</name>
+   <name>td_NA</name>
    <tag></tag>
-   <elementGuidId>e80d9372-04fb-45c7-919a-2d593bb47dc0</elementGuidId>
+   <elementGuidId>cfce0a84-d257-4982-a380-524a90fbfa11</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#B167126276549450183</value>
+         <value>#97423391628260320_orig > tbody > tr:nth-of-type(2) > td.u-tC</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
+         <value>//td[(text() = 'N/A' or . = 'N/A')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Create&quot;i]</value>
+         <value>[id=&quot;\39 7423391628260320_orig&quot;] > tbody > tr:nth-child(2) > td >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>60fa030f-b809-467a-8b9f-99f3a6423fb4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>apex.navigation.redirect('f?p=1400:10:5727709003244:::RP,10::');</value>
-      <webElementGuid>995dfb67-55d3-4903-a9aa-083b773555a1</webElementGuid>
+      <value>td</value>
+      <webElementGuid>0737bdf3-e8bd-41b8-aa04-06a81081d6d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button </value>
-      <webElementGuid>583abf20-f7b7-4c6a-9582-504e52a14a11</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>f0aa6376-cced-416f-8c20-373d78a325cd</webElementGuid>
+      <value> u-tC</value>
+      <webElementGuid>2fb6bc46-6f7f-492c-a8b1-81fc012e2ef5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>headers</name>
       <type>Main</type>
-      <value>B167126276549450183</value>
-      <webElementGuid>72fb2ef5-a20b-4740-80c7-5688556e7cc1</webElementGuid>
+      <value>C54820722471857636</value>
+      <webElementGuid>647cd5c0-7256-4408-a9c9-fad98f5f6784</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create</value>
-      <webElementGuid>57a711b3-475f-4b6b-a1b1-4008536e715a</webElementGuid>
+      <value>N/A</value>
+      <webElementGuid>314f8535-0366-4795-8f61-0a09fea51d2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B167126276549450183&quot;)</value>
-      <webElementGuid>e7e64d1e-dbe6-4df0-87d6-072f7ce6f7f3</webElementGuid>
+      <value>id(&quot;97423391628260320_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]</value>
+      <webElementGuid>7ffad7cb-e336-4e7d-904d-cd21692f51e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>8637602c-4c1f-42fd-b979-e57caba4ea05</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='B167126276549450183']</value>
-      <webElementGuid>d5d78bff-7e6b-467b-8cab-029f82a3ca5b</webElementGuid>
+      <value>//td[(text() = 'N/A' or . = 'N/A')]</value>
+      <webElementGuid>0fcf29c8-9bd7-475e-a289-dfe437d08b49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mngSnap']/div/div[2]/button</value>
-      <webElementGuid>9ef02ea8-1225-43c4-8397-b3470f4d51a9</webElementGuid>
+      <value>//table[@id='97423391628260320_orig']/tbody/tr[2]/td</value>
+      <webElementGuid>386155c0-2c3b-4197-bf53-c90403f62a7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Certification'])[4]/following::button[1]</value>
-      <webElementGuid>f37d04de-2995-44c4-be69-348de3a4b828</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated By'])[5]/following::td[1]</value>
+      <webElementGuid>85c778fb-7351-4a22-9e3c-a724a864c5c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::button[1]</value>
-      <webElementGuid>f8bdce6c-e9fc-4fc0-bf3f-e082f3a2162f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update Date'])[5]/following::td[1]</value>
+      <webElementGuid>48e92273-b781-4d97-b558-1ccf46c2f5ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='POST'])[1]/preceding::button[1]</value>
-      <webElementGuid>4ab31bc1-f46b-4578-b8a9-a4775a5d6625</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[2]/preceding::td[1]</value>
+      <webElementGuid>8f44b8cf-4704-4b30-a65d-806d5eb6d81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EACM - Level 3 - User Access WF'])[1]/preceding::td[2]</value>
+      <webElementGuid>7170b9bb-b9b6-4f14-8ea6-3f0834419a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='N/A']/parent::*</value>
+      <webElementGuid>f490ee10-1387-4ce9-8848-f8569f1e5e77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>391189e7-8c78-45f0-99f7-a775cc122d9b</webElementGuid>
+      <value>//div[5]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div/div/div[3]/table/tbody/tr[2]/td</value>
+      <webElementGuid>c7d7ba2d-512f-425e-8e81-48dfef5b2a71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

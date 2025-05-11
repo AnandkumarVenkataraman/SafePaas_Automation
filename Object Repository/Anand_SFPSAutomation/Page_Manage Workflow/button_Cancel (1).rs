@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Create</name>
+   <name>button_Cancel (1)</name>
    <tag></tag>
-   <elementGuidId>e80d9372-04fb-45c7-919a-2d593bb47dc0</elementGuidId>
+   <elementGuidId>20a1913f-c6b2-4e5f-8696-a96e46b0c7fd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#B167126276549450183</value>
+         <value>#B175796258703667348</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
+         <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Create&quot;i]</value>
+         <value>internal:role=button[name=&quot;Cancel&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60fa030f-b809-467a-8b9f-99f3a6423fb4</webElementGuid>
+      <webElementGuid>61183045-2904-49ce-a359-85d62c9f124c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>apex.navigation.redirect('f?p=1400:10:5727709003244:::RP,10::');</value>
-      <webElementGuid>995dfb67-55d3-4903-a9aa-083b773555a1</webElementGuid>
+      <value>apex.submit({request:'CANCEL'});</value>
+      <webElementGuid>8232e469-f920-4c72-a60c-4bc71eddef37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>583abf20-f7b7-4c6a-9582-504e52a14a11</webElementGuid>
+      <webElementGuid>5cc7428b-8590-46b7-9229-c7d652f185e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,86 +53,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f0aa6376-cced-416f-8c20-373d78a325cd</webElementGuid>
+      <webElementGuid>443f9eb3-3835-47bb-958b-0c6880fc802b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>B167126276549450183</value>
-      <webElementGuid>72fb2ef5-a20b-4740-80c7-5688556e7cc1</webElementGuid>
+      <value>B175796258703667348</value>
+      <webElementGuid>621a97d0-876d-42c8-86f8-35f12905968c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create</value>
-      <webElementGuid>57a711b3-475f-4b6b-a1b1-4008536e715a</webElementGuid>
+      <value>Cancel</value>
+      <webElementGuid>e2a06d36-e1bb-4551-8c30-cddb31c1a1ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B167126276549450183&quot;)</value>
-      <webElementGuid>e7e64d1e-dbe6-4df0-87d6-072f7ce6f7f3</webElementGuid>
+      <value>id(&quot;B175796258703667348&quot;)</value>
+      <webElementGuid>94713f6c-bfab-4c26-b183-1ba9d612e1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/iframe_1</value>
+      <webElementGuid>b33a52c9-5f05-4e7f-94b3-6945b03cd585</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>8637602c-4c1f-42fd-b979-e57caba4ea05</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>e5a248c8-2034-4c0f-9512-4d4bc647a168</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='B167126276549450183']</value>
-      <webElementGuid>d5d78bff-7e6b-467b-8cab-029f82a3ca5b</webElementGuid>
+      <value>//button[@id='B175796258703667348']</value>
+      <webElementGuid>032a1dd4-9ef6-43c6-b12c-fbec06f2fb84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mngSnap']/div/div[2]/button</value>
-      <webElementGuid>9ef02ea8-1225-43c4-8397-b3470f4d51a9</webElementGuid>
+      <value>//div[@id='R105301104917673818']/div/div[3]/div/button</value>
+      <webElementGuid>ee6d1abf-7b93-44dc-82f6-05b7b212b6b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Certification'])[4]/following::button[1]</value>
-      <webElementGuid>f37d04de-2995-44c4-be69-348de3a4b828</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buttons'])[1]/following::button[1]</value>
+      <webElementGuid>50a2c005-c569-4563-aeff-3c9dbfebe1ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::button[1]</value>
-      <webElementGuid>f8bdce6c-e9fc-4fc0-bf3f-e082f3a2162f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/following::button[1]</value>
+      <webElementGuid>5f0e7b72-1037-40e6-8743-8e8bf64e2561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='POST'])[1]/preceding::button[1]</value>
-      <webElementGuid>4ab31bc1-f46b-4578-b8a9-a4775a5d6625</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
+      <webElementGuid>bd8bd6a3-b709-4046-b6f2-c0cdfe74e981</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>391189e7-8c78-45f0-99f7-a775cc122d9b</webElementGuid>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>d7c054a0-f028-495b-98ce-97f85d658c6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Job Time_SCHEDULER_search_field</name>
+   <name>input_Delegate To_a-PopupLOV-search apex-item-text</name>
    <tag></tag>
-   <elementGuidId>f9ac9069-6b2f-498d-9717-8a195ecbac6b</elementGuidId>
+   <elementGuidId>4fcef257-7b94-434b-aa4d-724351356f66</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#SCHEDULER_search_field</value>
+         <value>input.a-PopupLOV-search.apex-item-text</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@title = 'Search Report' and @type = 'search']</value>
+         <value>//div[@id='PopupLov_4_P4_DELEGATE_TO_dlg']/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=searchbox[name=&quot;Search Report&quot;i]</value>
+         <value>internal:label=&quot;Search&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c934c1c3-5148-4f36-a8a0-b6e362c6f2e3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>a-IRR-search-field</value>
-      <webElementGuid>93d81a4c-687a-4218-856e-dbafffd00461</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>SCHEDULER_search_field</value>
-      <webElementGuid>076b68d1-d1cc-4dc8-9ea0-e04e78458ff9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Search Report</value>
-      <webElementGuid>e7371514-9c7a-4430-8c27-67a78ae5bc93</webElementGuid>
+      <webElementGuid>e0e053a2-618d-4494-879b-8d6e47a3817b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>search</value>
-      <webElementGuid>e1a66ca5-8ff3-47b6-8c02-aaa3c708700f</webElementGuid>
+      <value>text</value>
+      <webElementGuid>2bf90703-5e49-48e5-a9b4-188e0daacb8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>size</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>30</value>
-      <webElementGuid>3571cba8-4012-4b17-ad54-9744a9138adb</webElementGuid>
+      <value>Search</value>
+      <webElementGuid>ac2f917b-25e3-458b-b5aa-c1708c6dc096</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>maxlength</name>
       <type>Main</type>
-      <value>4000</value>
-      <webElementGuid>7b3f988c-d01a-4b63-99a6-11a60612980c</webElementGuid>
+      <value>100</value>
+      <webElementGuid>1d0356c6-d07d-4fc4-ab9a-fc5416a2a2d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-PopupLOV-search apex-item-text</value>
+      <webElementGuid>9694a1d2-9bf8-4bc2-abe9-98dfa7ed8c88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;SCHEDULER_search_field&quot;)</value>
-      <webElementGuid>77507a02-d4bf-4d04-ba20-88d687b6c1f6</webElementGuid>
+      <value>id(&quot;PopupLov_4_P4_DELEGATE_TO_dlg&quot;)/div[@class=&quot;a-PopupLOV-searchBar a-PopupLOV--incremental&quot;]/input[@class=&quot;a-PopupLOV-search apex-item-text&quot;]</value>
+      <webElementGuid>d7b7341b-ca1e-4caf-801b-974c0557d86e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@title = 'Search Report' and @type = 'search']</value>
-      <webElementGuid>0f604cbd-a7c3-47f6-aa45-39cf56e12247</webElementGuid>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>1274874d-f220-4c32-a7e4-bae35fe02c8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='SCHEDULER_search_field']</value>
-      <webElementGuid>ef6c33ad-774d-482a-8210-f071ab35f9d9</webElementGuid>
+      <value>(//input[@value=''])[17]</value>
+      <webElementGuid>83e7be3e-ccf5-4125-abd6-72e2e564cfee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='SCHEDULER_toolbar_controls']/div/div/div[2]/input</value>
-      <webElementGuid>33d0f912-68aa-45a2-8ca2-70b891cb8300</webElementGuid>
+      <value>//div[@id='PopupLov_4_P4_DELEGATE_TO_dlg']/div/input</value>
+      <webElementGuid>82fda0ee-5292-4d31-a990-50cabdf79852</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>f6ed2ce2-e4a9-49fc-ac8b-00d0633d625d</webElementGuid>
+      <value>//div[6]/div[2]/div/input</value>
+      <webElementGuid>030be07c-2447-41c8-93f9-4c79e983e11f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

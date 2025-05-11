@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Certification job was initiated successf_ba1764</name>
+   <tag></tag>
+   <elementGuidId>54e0b79f-a321-40d6-b69b-4812dbbb2430</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.t-Alert-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[(text() = 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21080 at Administration -> Platform -> Scheduler' or . = 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21080 at Administration -> Platform -> Scheduler')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Certification job was initiated successfully Email will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21080 at Administration -> Platform -> Scheduler&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>62b27d32-c03a-48a8-a163-093d3ddbe3c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Alert-title</value>
+      <webElementGuid>d73671c5-207f-4b5f-bba0-6bb7c75614ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21080 at Administration -> Platform -> Scheduler</value>
+      <webElementGuid>f6734ef2-13e8-4e6e-88d7-95a81d5a03b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
+      <webElementGuid>6629e0cb-233a-454c-8332-93e48c2aa1f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21080 at Administration -> Platform -> Scheduler' or . = 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21080 at Administration -> Platform -> Scheduler')]</value>
+      <webElementGuid>03f5408b-bcd9-408a-ba54-6f7f66663804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      <webElementGuid>b2c555a9-01bb-437d-a714-a2fecd3c6251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::h2[1]</value>
+      <webElementGuid>d475ec39-fb5f-4674-9af8-9ec574c3daa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage User Access'])[4]/following::h2[1]</value>
+      <webElementGuid>5a4a6067-14ee-4e0d-9243-c435de9dc501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/preceding::h2[1]</value>
+      <webElementGuid>dbe48159-cf71-403a-8c66-3ee29b651d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access'])[2]/preceding::h2[1]</value>
+      <webElementGuid>aa6d227f-5a05-4735-9b7c-bfebbefb5e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Certification job was initiated successfully']/parent::*</value>
+      <webElementGuid>b15934dc-f99b-41ac-b55b-73fe09185ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>c41983b2-d561-4ee2-9d1e-1adf2d19f97f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

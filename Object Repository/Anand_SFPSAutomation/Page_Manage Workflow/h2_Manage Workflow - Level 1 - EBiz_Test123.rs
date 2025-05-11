@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Create</name>
+   <name>h2_Manage Workflow - Level 1 - EBiz_Test123</name>
    <tag></tag>
-   <elementGuidId>e80d9372-04fb-45c7-919a-2d593bb47dc0</elementGuidId>
+   <elementGuidId>3c8605f0-5396-4904-91ca-c6d6e1b78d31</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#B167126276549450183</value>
+         <value>#wfReport_heading</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
+         <value>//div[@id='wfReport']/div/div/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Create&quot;i]</value>
+         <value>internal:role=heading[name=&quot;Manage Workflow - Level 1 - EBiz_Test123&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>60fa030f-b809-467a-8b9f-99f3a6423fb4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>apex.navigation.redirect('f?p=1400:10:5727709003244:::RP,10::');</value>
-      <webElementGuid>995dfb67-55d3-4903-a9aa-083b773555a1</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>9125d0ae-4cea-4f8d-92ed-15db2d19358f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button </value>
-      <webElementGuid>583abf20-f7b7-4c6a-9582-504e52a14a11</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>f0aa6376-cced-416f-8c20-373d78a325cd</webElementGuid>
+      <value>t-Region-title</value>
+      <webElementGuid>4117741c-1c53-4eda-9435-1b7ef8a22277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>B167126276549450183</value>
-      <webElementGuid>72fb2ef5-a20b-4740-80c7-5688556e7cc1</webElementGuid>
+      <value>wfReport_heading</value>
+      <webElementGuid>390ee3b5-185f-4f70-b3c5-84c0b75c5dbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create</value>
-      <webElementGuid>57a711b3-475f-4b6b-a1b1-4008536e715a</webElementGuid>
+      <value>Manage Workflow - Level 1 - EBiz_Test123</value>
+      <webElementGuid>abbcea49-900e-4256-9b8d-eb7f202084d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B167126276549450183&quot;)</value>
-      <webElementGuid>e7e64d1e-dbe6-4df0-87d6-072f7ce6f7f3</webElementGuid>
+      <value>id(&quot;wfReport_heading&quot;)</value>
+      <webElementGuid>79e93b1b-a1bd-452c-952f-8d97aff6afe5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>8637602c-4c1f-42fd-b979-e57caba4ea05</webElementGuid>
+      <value>//h2[(text() = 'Manage Workflow - Level 1 - EBiz_Test123' or . = 'Manage Workflow - Level 1 - EBiz_Test123')]</value>
+      <webElementGuid>915bcf80-fbf0-4f8a-abe9-448e69e49b29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='B167126276549450183']</value>
-      <webElementGuid>d5d78bff-7e6b-467b-8cab-029f82a3ca5b</webElementGuid>
+      <value>//h2[@id='wfReport_heading']</value>
+      <webElementGuid>b8b558a3-be89-48ef-9b8d-b7a5dd0f3ea3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mngSnap']/div/div[2]/button</value>
-      <webElementGuid>9ef02ea8-1225-43c4-8397-b3470f4d51a9</webElementGuid>
+      <value>//div[@id='wfReport']/div/div/h2</value>
+      <webElementGuid>60db35e3-080e-4e46-91ec-21c050a51308</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Certification'])[4]/following::button[1]</value>
-      <webElementGuid>f37d04de-2995-44c4-be69-348de3a4b828</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::h2[1]</value>
+      <webElementGuid>dc6d76d5-4f9c-4c38-8b3a-99f337b845a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::button[1]</value>
-      <webElementGuid>f8bdce6c-e9fc-4fc0-bf3f-e082f3a2162f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Selection'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3a59f5b0-3b40-45bb-bd42-d503d4c1e450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='POST'])[1]/preceding::button[1]</value>
-      <webElementGuid>4ab31bc1-f46b-4578-b8a9-a4775a5d6625</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::h2[1]</value>
+      <webElementGuid>9c0ab803-b903-424c-936a-d07df6269784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Workflow - Level 1 - EBiz_Test123']/parent::*</value>
+      <webElementGuid>79032b8f-dfe1-4548-a0a2-8c22ba108c2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>391189e7-8c78-45f0-99f7-a775cc122d9b</webElementGuid>
+      <value>//div[3]/div/div/div/div/h2</value>
+      <webElementGuid>13f3248c-a39d-4a2b-9dc0-3b241341b090</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

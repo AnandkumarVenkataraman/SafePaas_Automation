@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Create</name>
+   <name>button_Go</name>
    <tag></tag>
-   <elementGuidId>e80d9372-04fb-45c7-919a-2d593bb47dc0</elementGuidId>
+   <elementGuidId>0cd4487c-e495-412d-ac55-41b3c7232a8f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#B167126276549450183</value>
+         <value>#wfReport_search_button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
+         <value>//button[@type = 'button' and (text() = 'Go' or . = 'Go')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Create&quot;i]</value>
+         <value>internal:role=button[name=&quot;Go&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60fa030f-b809-467a-8b9f-99f3a6423fb4</webElementGuid>
+      <webElementGuid>fb65bd00-b1a7-48ca-b0e7-fbceaf834175</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>id</name>
       <type>Main</type>
-      <value>apex.navigation.redirect('f?p=1400:10:5727709003244:::RP,10::');</value>
-      <webElementGuid>995dfb67-55d3-4903-a9aa-083b773555a1</webElementGuid>
+      <value>wfReport_search_button</value>
+      <webElementGuid>e7e08e1e-cf5b-4332-8133-c4ffccb8f2db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button </value>
-      <webElementGuid>583abf20-f7b7-4c6a-9582-504e52a14a11</webElementGuid>
+      <value>a-Button a-IRR-button a-IRR-button--search</value>
+      <webElementGuid>16eb45e8-6744-4860-8d00-9d61f4867971</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,86 +53,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f0aa6376-cced-416f-8c20-373d78a325cd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>B167126276549450183</value>
-      <webElementGuid>72fb2ef5-a20b-4740-80c7-5688556e7cc1</webElementGuid>
+      <webElementGuid>8c0c8d17-7b74-4069-8a66-08624cfa02f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create</value>
-      <webElementGuid>57a711b3-475f-4b6b-a1b1-4008536e715a</webElementGuid>
+      <value>Go</value>
+      <webElementGuid>058ef1c7-743a-4df2-a623-05d803757597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B167126276549450183&quot;)</value>
-      <webElementGuid>e7e64d1e-dbe6-4df0-87d6-072f7ce6f7f3</webElementGuid>
+      <value>id(&quot;wfReport_search_button&quot;)</value>
+      <webElementGuid>df5ab86d-783e-4c44-a7ec-a3c640829e93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>8637602c-4c1f-42fd-b979-e57caba4ea05</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Go' or . = 'Go')]</value>
+      <webElementGuid>896ed7ad-011a-4a2d-ab9d-29bf8afa22fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='B167126276549450183']</value>
-      <webElementGuid>d5d78bff-7e6b-467b-8cab-029f82a3ca5b</webElementGuid>
+      <value>//button[@id='wfReport_search_button']</value>
+      <webElementGuid>7a558e44-7250-4d89-ac40-a15b611ebbd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mngSnap']/div/div[2]/button</value>
-      <webElementGuid>9ef02ea8-1225-43c4-8397-b3470f4d51a9</webElementGuid>
+      <value>//div[@id='wfReport_toolbar_controls']/div/div/div[3]/button</value>
+      <webElementGuid>ac31423a-0d86-4484-bcc7-519e56236da3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Certification'])[4]/following::button[1]</value>
-      <webElementGuid>f37d04de-2995-44c4-be69-348de3a4b828</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Workflow - Level 1'])[1]/following::button[2]</value>
+      <webElementGuid>5e875777-5c91-444b-9ba6-29222efc25da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::button[1]</value>
-      <webElementGuid>f8bdce6c-e9fc-4fc0-bf3f-e082f3a2162f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::button[2]</value>
+      <webElementGuid>4eaf8131-a81f-469f-a59b-722593fc8244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='POST'])[1]/preceding::button[1]</value>
-      <webElementGuid>4ab31bc1-f46b-4578-b8a9-a4775a5d6625</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[3]/preceding::button[1]</value>
+      <webElementGuid>c3bca846-1e28-4fd9-aedf-53630c43bb83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>391189e7-8c78-45f0-99f7-a775cc122d9b</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>df1e86c9-6710-4069-be15-85ed1b6e784c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

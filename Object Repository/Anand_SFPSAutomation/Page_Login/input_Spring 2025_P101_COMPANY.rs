@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Job Time_SCHEDULER_search_field</name>
+   <name>input_Spring 2025_P101_COMPANY</name>
    <tag></tag>
-   <elementGuidId>f9ac9069-6b2f-498d-9717-8a195ecbac6b</elementGuidId>
+   <elementGuidId>ca6f83ba-89d4-4cd0-9824-d4ff38af176e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#SCHEDULER_search_field</value>
+         <value>#P101_COMPANY</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@title = 'Search Report' and @type = 'search']</value>
+         <value>//input[@type = 'text' and @name = 'P101_COMPANY' and @placeholder = 'Company']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=searchbox[name=&quot;Search Report&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Company&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c934c1c3-5148-4f36-a8a0-b6e362c6f2e3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>a-IRR-search-field</value>
-      <webElementGuid>93d81a4c-687a-4218-856e-dbafffd00461</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>SCHEDULER_search_field</value>
-      <webElementGuid>076b68d1-d1cc-4dc8-9ea0-e04e78458ff9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Search Report</value>
-      <webElementGuid>e7371514-9c7a-4430-8c27-67a78ae5bc93</webElementGuid>
+      <webElementGuid>f6872c6a-0ddf-48d1-b4db-24ddd91897d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>search</value>
-      <webElementGuid>e1a66ca5-8ff3-47b6-8c02-aaa3c708700f</webElementGuid>
+      <value>text</value>
+      <webElementGuid>75e6804d-2e82-47ca-93d8-94be99b3b77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P101_COMPANY</value>
+      <webElementGuid>115816d2-dfa9-430f-a075-f07abb94d563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P101_COMPANY</value>
+      <webElementGuid>b3a34d26-1876-4f9c-9b7b-6c4ee1441137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Company</value>
+      <webElementGuid>68ee0b5b-6486-4a39-b8dc-2c350e736306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_field apex-item-text apex-item-has-icon</value>
+      <webElementGuid>8341e6b7-e00a-413f-a34f-d2bf2f67ba8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>size</name>
       <type>Main</type>
-      <value>30</value>
-      <webElementGuid>3571cba8-4012-4b17-ad54-9744a9138adb</webElementGuid>
+      <value>39</value>
+      <webElementGuid>be5dd0b2-6693-490b-9518-5406c979243b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>maxlength</name>
       <type>Main</type>
-      <value>4000</value>
-      <webElementGuid>7b3f988c-d01a-4b63-99a6-11a60612980c</webElementGuid>
+      <value>2000</value>
+      <webElementGuid>090954e8-1794-4417-a877-ce9a85c34358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-trim-spaces</name>
+      <type>Main</type>
+      <value>NONE</value>
+      <webElementGuid>c1b0add4-c8b6-4362-a669-560dc7a84f4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;SCHEDULER_search_field&quot;)</value>
-      <webElementGuid>77507a02-d4bf-4d04-ba20-88d687b6c1f6</webElementGuid>
+      <value>id(&quot;P101_COMPANY&quot;)</value>
+      <webElementGuid>6465c211-b8d0-412f-bcb9-a593c89c34e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@title = 'Search Report' and @type = 'search']</value>
-      <webElementGuid>0f604cbd-a7c3-47f6-aa45-39cf56e12247</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'P101_COMPANY' and @placeholder = 'Company']</value>
+      <webElementGuid>56ad2fcb-6ca7-4067-bfc3-62291b9a3fe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='SCHEDULER_search_field']</value>
-      <webElementGuid>ef6c33ad-774d-482a-8210-f071ab35f9d9</webElementGuid>
+      <value>//input[@id='P101_COMPANY']</value>
+      <webElementGuid>13c91d72-8e01-4d60-9b73-a9aa4f5d028f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='SCHEDULER_toolbar_controls']/div/div/div[2]/input</value>
-      <webElementGuid>33d0f912-68aa-45a2-8ca2-70b891cb8300</webElementGuid>
+      <value>//div[@id='P101_COMPANY_CONTAINER']/div[2]/div/input</value>
+      <webElementGuid>02658354-bac1-4f94-928d-1c765d92dfa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>f6ed2ce2-e4a9-49fc-ac8b-00d0633d625d</webElementGuid>
+      <value>//div[4]/div[2]/div/input</value>
+      <webElementGuid>3ddf9199-673c-4c21-8f73-028e1007e570</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

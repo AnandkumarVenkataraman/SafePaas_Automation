@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Close</name>
+   <name>select_- Please select any -Cancel</name>
    <tag></tag>
-   <elementGuidId>b7aeca82-d995-48a4-aa94-24c9bc4c973b</elementGuidId>
+   <elementGuidId>e206c436-436c-43a4-bfba-e20a6c6c4a27</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.ui-datepicker-close.ui-state-default.ui-priority-primary.ui-corner-all.ui-state-hover</value>
+         <value>#P35_ACTIONS_AVAILABLE</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
+         <value>//select[@name = 'P35_ACTIONS_AVAILABLE' and (text() = '- Please select any -
+Cancel
+' or . = '- Please select any -
+Cancel
+')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Close&quot;i]</value>
+         <value>internal:label=&quot;Actions Available (Value Required)&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +32,133 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>2e399bc1-8a4f-480a-9537-45914003349a</webElementGuid>
+      <value>select</value>
+      <webElementGuid>01e60744-3cc5-4fbd-adda-5f8c2a500b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>7c654bb6-706d-4fb3-b58e-a145be983480</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>fab46c4c-842c-451d-8aac-5276198315fd</webElementGuid>
+      <value>P35_ACTIONS_AVAILABLE</value>
+      <webElementGuid>1bfd04c3-01e3-4233-ab7c-ee54b2296c37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-datepicker-close ui-state-default ui-priority-primary ui-corner-all ui-state-hover</value>
-      <webElementGuid>d89c1e23-f34f-4bd7-a88b-88724d6db01b</webElementGuid>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>54ae9939-c631-453d-982c-5ebec5faef4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-handler</name>
+      <name>data-native-menu</name>
       <type>Main</type>
-      <value>hide</value>
-      <webElementGuid>b7ca94a7-107c-4dc2-a02f-874723d6732d</webElementGuid>
+      <value>false</value>
+      <webElementGuid>290790e1-8867-49ce-8362-4086ed487195</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>size</name>
       <type>Main</type>
-      <value>apex.jQuery.datepicker._hideDatepicker();</value>
-      <webElementGuid>627886fb-71ef-48fe-b726-d9b09baf84a5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-event</name>
-      <type>Main</type>
-      <value>click</value>
-      <webElementGuid>18ca2cc3-10ac-4c22-8bd7-7ac7c2c2e7e9</webElementGuid>
+      <value>1</value>
+      <webElementGuid>a5842418-3680-46b8-ae91-f62e7c84110a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>31fcd7be-d746-4b65-8c4c-c53dbe20541e</webElementGuid>
+      <value>- Please select any -
+Cancel
+</value>
+      <webElementGuid>2176a626-7062-4f8c-8944-20addad9d83d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-datepicker-buttonpane ui-widget-content&quot;]/button[@class=&quot;ui-datepicker-close ui-state-default ui-priority-primary ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>97609c59-f8e1-4652-8e49-c88ee95b75e2</webElementGuid>
+      <value>id(&quot;P35_ACTIONS_AVAILABLE&quot;)</value>
+      <webElementGuid>88f23538-211f-4bc7-b86f-5edcf5e22147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/iframe_1</value>
+      <webElementGuid>9f96f707-11c6-4512-9ffb-fb0fd9169628</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>435dbb38-9af5-4c02-9339-de130c8fb278</webElementGuid>
+      <value>//select[@name = 'P35_ACTIONS_AVAILABLE' and (text() = '- Please select any -
+Cancel
+' or . = '- Please select any -
+Cancel
+')]</value>
+      <webElementGuid>439ac7a7-6a4d-427e-9e5e-1a3a0f5657e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>f755f65c-4482-42e4-98d3-84cf0b1b25df</webElementGuid>
+      <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
+      <webElementGuid>7f5610fa-b5cf-4c4c-b1f6-a0968b92d924</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ui-datepicker-div']/div[2]/button</value>
-      <webElementGuid>bc613d48-be94-42b9-9a11-858bac92a992</webElementGuid>
+      <value>//div[@id='P35_ACTIONS_AVAILABLE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>3f9a2388-2078-4416-81d1-b3279ad8c0e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::button[1]</value>
-      <webElementGuid>56479018-640e-4da5-ae49-df6da89bcea0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::select[1]</value>
+      <webElementGuid>0f819712-a24a-4a86-b452-b97c54c2bfc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::button[1]</value>
-      <webElementGuid>81874aa4-cf62-4130-95e0-7781f9efd44f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Original Approver'])[1]/preceding::select[1]</value>
+      <webElementGuid>9c5469b0-64ae-4a92-bc43-02c3f9b92c16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
-      <webElementGuid>f8e8d142-03ba-4226-9083-c71f33f0116e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Approver'])[1]/preceding::select[2]</value>
+      <webElementGuid>1361a71f-5509-45f3-8e39-fc891709dfdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[2]/button</value>
-      <webElementGuid>1e5031f3-9b42-43f9-b91d-f995eb5d8f8c</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>d57c6d42-4c68-4521-a166-1397a8b4755f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

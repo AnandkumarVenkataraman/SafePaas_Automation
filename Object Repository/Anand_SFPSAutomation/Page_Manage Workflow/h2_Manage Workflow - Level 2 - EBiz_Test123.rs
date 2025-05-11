@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Manual POST</name>
+   <name>h2_Manage Workflow - Level 2 - EBiz_Test123</name>
    <tag></tag>
-   <elementGuidId>22c4575a-5887-4e32-be8f-ebc05854cb3f</elementGuidId>
+   <elementGuidId>f923493b-46ce-4c9e-973f-2bbc6438970f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#wfReportSecondLvl_heading</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
+         <value>//div[@id='wfReportSecondLvl']/div/div/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Manual POST&quot;i</value>
+         <value>internal:role=heading[name=&quot;Manage Workflow - Level 2 - EBiz_Test123&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>069f4d1a-ba4e-4da9-8dc1-a16e6672f05b</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>97738d10-bd31-4aed-a604-502981255c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>u-radio</value>
-      <webElementGuid>cdda2a67-848b-4eb1-bb49-1d1549e952f6</webElementGuid>
+      <value>t-Region-title</value>
+      <webElementGuid>2523607b-de48-4dc1-ba75-2feab8dc8f91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>id</name>
       <type>Main</type>
-      <value>P10_TICKET_CREATION_1</value>
-      <webElementGuid>cf6ecf9b-3640-4c28-ae28-d7a14a72b44f</webElementGuid>
+      <value>wfReportSecondLvl_heading</value>
+      <webElementGuid>fa7ed712-d99f-4588-945d-173214aba709</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manual POST</value>
-      <webElementGuid>4efda8f6-0cf6-4dcd-91e2-538125c10105</webElementGuid>
+      <value>Manage Workflow - Level 2 - EBiz_Test123</value>
+      <webElementGuid>06894608-9b8b-4eac-b1b4-39ceacc9b20f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P10_TICKET_CREATION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>64b3dc2a-797d-4c64-abde-1cefe90ce6b3</webElementGuid>
+      <value>id(&quot;wfReportSecondLvl_heading&quot;)</value>
+      <webElementGuid>1d8bceb0-ee6f-43c6-a1f5-b5e92473fd8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
-      <webElementGuid>1e728c4c-8a5d-448f-9a2f-fd8a0061dc5f</webElementGuid>
+      <value>//h2[(text() = 'Manage Workflow - Level 2 - EBiz_Test123' or . = 'Manage Workflow - Level 2 - EBiz_Test123')]</value>
+      <webElementGuid>d69bc586-bec7-4692-bc62-693c17fc4631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='wfReportSecondLvl_heading']</value>
+      <webElementGuid>2e84d124-24a8-486a-b5e6-bdfff5a5b85b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P10_TICKET_CREATION']/div/div/div[2]/label</value>
-      <webElementGuid>0a57c4e8-96f6-4a29-afc4-a6d5ac2488a8</webElementGuid>
+      <value>//div[@id='wfReportSecondLvl']/div/div/h2</value>
+      <webElementGuid>62ed9f9e-b62f-4c7f-bac0-f9aaa87507a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automatic POST'])[1]/following::label[1]</value>
-      <webElementGuid>8803a5c7-edb3-4772-8bc9-e500809cebf1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[2]/following::h2[1]</value>
+      <webElementGuid>069e9fb7-97a9-470c-b375-e873692d690b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Creation'])[1]/following::label[2]</value>
-      <webElementGuid>6680d1e2-a907-426c-972b-690674afa647</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[1]/following::h2[1]</value>
+      <webElementGuid>8945fbd4-ccdc-4edf-8c2f-e9310cfe1af5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::label[1]</value>
-      <webElementGuid>32dec320-6c2f-4441-a52e-d8c6b679ae64</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[2]/preceding::h2[1]</value>
+      <webElementGuid>df394a82-3c58-4647-81c3-e618193cc4d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::label[1]</value>
-      <webElementGuid>9433fe58-c010-45ec-9efc-6da113a16c23</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[6]/preceding::h2[1]</value>
+      <webElementGuid>35f9457e-3879-4bb0-80d2-3f12e34085e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manual POST']/parent::*</value>
-      <webElementGuid>41f8ae56-2894-4e20-b793-ca4f1ac24c2f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Manage Workflow - Level 2 - EBiz_Test123']/parent::*</value>
+      <webElementGuid>1133b2ee-57f9-4ac3-8082-d6ab3b2eb9d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>d19fa3f3-9ad1-4f69-b997-7183b61b338a</webElementGuid>
+      <value>//div[4]/div/div/div/div/h2</value>
+      <webElementGuid>19ee2443-3418-4ea4-aec6-489d6bbe0d21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

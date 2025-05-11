@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Manual POST</name>
+   <name>label_Terminate Access</name>
    <tag></tag>
-   <elementGuidId>22c4575a-5887-4e32-be8f-ebc05854cb3f</elementGuidId>
+   <elementGuidId>3a21880d-3ba8-476e-8d55-f8dffbf4edd7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#P10_END_DATE_ACTION > div.apex-item-grid.radio_group > div.apex-item-grid-row > div.apex-item-option > label.u-radio</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
+         <value>//label[(text() = 'Terminate Access' or . = 'Terminate Access')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Manual POST&quot;i</value>
+         <value>internal:text=&quot;Terminate Access&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>069f4d1a-ba4e-4da9-8dc1-a16e6672f05b</webElementGuid>
+      <webElementGuid>66681c4c-1a17-4db3-a195-aaab28a743af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,94 +37,94 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>cdda2a67-848b-4eb1-bb49-1d1549e952f6</webElementGuid>
+      <webElementGuid>ba43c15b-fbfd-4982-9f15-154d3ecb551e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>P10_TICKET_CREATION_1</value>
-      <webElementGuid>cf6ecf9b-3640-4c28-ae28-d7a14a72b44f</webElementGuid>
+      <value>P10_END_DATE_ACTION_0</value>
+      <webElementGuid>b5a47d57-e5a5-4a36-b3bf-42824fb9ebd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manual POST</value>
-      <webElementGuid>4efda8f6-0cf6-4dcd-91e2-538125c10105</webElementGuid>
+      <value>Terminate Access</value>
+      <webElementGuid>4f1ba31d-af77-416c-8ca1-062efb6f8985</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P10_TICKET_CREATION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>64b3dc2a-797d-4c64-abde-1cefe90ce6b3</webElementGuid>
+      <value>id(&quot;P10_END_DATE_ACTION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
+      <webElementGuid>40b09ccb-8fd7-4659-bcc4-b248a650d23b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
-      <webElementGuid>1e728c4c-8a5d-448f-9a2f-fd8a0061dc5f</webElementGuid>
+      <value>//label[(text() = 'Terminate Access' or . = 'Terminate Access')]</value>
+      <webElementGuid>86eceeb8-830b-4003-8f88-bcb0a005a400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P10_TICKET_CREATION']/div/div/div[2]/label</value>
-      <webElementGuid>0a57c4e8-96f6-4a29-afc4-a6d5ac2488a8</webElementGuid>
+      <value>//div[@id='P10_END_DATE_ACTION']/div/div/div/label</value>
+      <webElementGuid>211901b1-22e8-42fc-838b-d7647ef078eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automatic POST'])[1]/following::label[1]</value>
-      <webElementGuid>8803a5c7-edb3-4772-8bc9-e500809cebf1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date Action'])[1]/following::label[1]</value>
+      <webElementGuid>4c8bd058-501b-4f32-8c47-e3661f5d3ee4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Creation'])[1]/following::label[2]</value>
-      <webElementGuid>6680d1e2-a907-426c-972b-690674afa647</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[6]/following::label[3]</value>
+      <webElementGuid>d2d1c7d8-8af0-424f-adac-e6c10b71fa1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::label[1]</value>
-      <webElementGuid>32dec320-6c2f-4441-a52e-d8c6b679ae64</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verified'])[1]/preceding::label[1]</value>
+      <webElementGuid>17440d19-88b0-4a2e-b8df-cf9098953e69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::label[1]</value>
-      <webElementGuid>9433fe58-c010-45ec-9efc-6da113a16c23</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory Justification'])[1]/preceding::label[2]</value>
+      <webElementGuid>2f447da9-74c6-4dd5-a449-bb791bc58ada</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manual POST']/parent::*</value>
-      <webElementGuid>41f8ae56-2894-4e20-b793-ca4f1ac24c2f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Terminate Access']/parent::*</value>
+      <webElementGuid>c6ca8c22-ba2f-4296-b972-7c77b6d6f9ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>d19fa3f3-9ad1-4f69-b997-7183b61b338a</webElementGuid>
+      <value>//div[9]/div/div/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>65cd6405-95b2-4e37-b7d9-1da7a286eac6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

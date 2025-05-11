@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Manual POST</name>
+   <name>h2_Delegation successfully saved</name>
    <tag></tag>
-   <elementGuidId>22c4575a-5887-4e32-be8f-ebc05854cb3f</elementGuidId>
+   <elementGuidId>0c5b39ff-2431-4067-b93f-fb01de64768b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>h2.t-Alert-title</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
+         <value>//h2[(text() = 'Delegation successfully saved' or . = 'Delegation successfully saved')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Manual POST&quot;i</value>
+         <value>internal:role=heading[name=&quot;Delegation successfully saved&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>069f4d1a-ba4e-4da9-8dc1-a16e6672f05b</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>f3df8b56-00d1-43b2-89d5-540270c9b177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>u-radio</value>
-      <webElementGuid>cdda2a67-848b-4eb1-bb49-1d1549e952f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>for</name>
-      <type>Main</type>
-      <value>P10_TICKET_CREATION_1</value>
-      <webElementGuid>cf6ecf9b-3640-4c28-ae28-d7a14a72b44f</webElementGuid>
+      <value>t-Alert-title</value>
+      <webElementGuid>fba76fee-e4c2-4979-b2c3-12f338dbe421</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manual POST</value>
-      <webElementGuid>4efda8f6-0cf6-4dcd-91e2-538125c10105</webElementGuid>
+      <value>Delegation successfully saved</value>
+      <webElementGuid>70bfaf52-2d50-440d-a564-0ad949b6b6d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P10_TICKET_CREATION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>64b3dc2a-797d-4c64-abde-1cefe90ce6b3</webElementGuid>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
+      <webElementGuid>fc068fd8-7c1e-4689-a9c1-1125dca55afc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
-      <webElementGuid>1e728c4c-8a5d-448f-9a2f-fd8a0061dc5f</webElementGuid>
+      <value>//h2[(text() = 'Delegation successfully saved' or . = 'Delegation successfully saved')]</value>
+      <webElementGuid>9bb69350-93ef-4dd2-bb13-af2567e60106</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P10_TICKET_CREATION']/div/div/div[2]/label</value>
-      <webElementGuid>0a57c4e8-96f6-4a29-afc4-a6d5ac2488a8</webElementGuid>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      <webElementGuid>dfa94745-bb1f-4acf-ae28-cc07500ecf50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automatic POST'])[1]/following::label[1]</value>
-      <webElementGuid>8803a5c7-edb3-4772-8bc9-e500809cebf1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::h2[1]</value>
+      <webElementGuid>5ee7c89f-58a0-4582-82a3-5779b120fdd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Creation'])[1]/following::label[2]</value>
-      <webElementGuid>6680d1e2-a907-426c-972b-690674afa647</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/following::h2[1]</value>
+      <webElementGuid>276e6229-88bc-435f-bd86-b218f0518ad5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::label[1]</value>
-      <webElementGuid>32dec320-6c2f-4441-a52e-d8c6b679ae64</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Notifications'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e3bfcc95-3b8f-4aa5-ab91-59dceb167103</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::label[1]</value>
-      <webElementGuid>9433fe58-c010-45ec-9efc-6da113a16c23</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::h2[2]</value>
+      <webElementGuid>d68db3f4-86fb-44a0-a13a-7a3fe29a0d29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manual POST']/parent::*</value>
-      <webElementGuid>41f8ae56-2894-4e20-b793-ca4f1ac24c2f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Delegation successfully saved']/parent::*</value>
+      <webElementGuid>21787c36-8ba2-4ac6-ba1c-13a23599e352</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>d19fa3f3-9ad1-4f69-b997-7183b61b338a</webElementGuid>
+      <value>//h2</value>
+      <webElementGuid>4f093afe-f8e8-440e-90cf-b1fd2a4297d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Job Time_SCHEDULER_search_field</name>
+   <name>input_Delegate To_P4_DELEGATE_TO</name>
    <tag></tag>
-   <elementGuidId>f9ac9069-6b2f-498d-9717-8a195ecbac6b</elementGuidId>
+   <elementGuidId>d97770c2-8831-4376-a475-9e2ddac110cb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#SCHEDULER_search_field</value>
+         <value>#P4_DELEGATE_TO</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@title = 'Search Report' and @type = 'search']</value>
+         <value>//input[@id='P4_DELEGATE_TO']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=searchbox[name=&quot;Search Report&quot;i]</value>
+         <value>internal:role=combobox[name=&quot;Delegate To&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,39 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c934c1c3-5148-4f36-a8a0-b6e362c6f2e3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>a-IRR-search-field</value>
-      <webElementGuid>93d81a4c-687a-4218-856e-dbafffd00461</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>SCHEDULER_search_field</value>
-      <webElementGuid>076b68d1-d1cc-4dc8-9ea0-e04e78458ff9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Search Report</value>
-      <webElementGuid>e7371514-9c7a-4430-8c27-67a78ae5bc93</webElementGuid>
+      <webElementGuid>8868514d-8c0b-4c9f-9296-f7d819750543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>search</value>
-      <webElementGuid>e1a66ca5-8ff3-47b6-8c02-aaa3c708700f</webElementGuid>
+      <value>text</value>
+      <webElementGuid>5cfa7a03-364a-478b-98f5-0c0b24c20dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P4_DELEGATE_TO</value>
+      <webElementGuid>0a442267-9208-4cf0-b421-44288f321931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup_lov apex-item-text apex-item-popup-lov</value>
+      <webElementGuid>f478de9d-2e14-4cc9-821a-238d66e17ba8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,54 +61,78 @@
       <name>size</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>3571cba8-4012-4b17-ad54-9744a9138adb</webElementGuid>
+      <webElementGuid>72e68d6a-683b-4c78-b157-ca02950b691b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>role</name>
       <type>Main</type>
-      <value>4000</value>
-      <webElementGuid>7b3f988c-d01a-4b63-99a6-11a60612980c</webElementGuid>
+      <value>combobox</value>
+      <webElementGuid>82bcf2e2-a50c-418b-acdd-2b40163c6e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>f9ba98b5-ea6b-4c7d-a79e-d09fe80af480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cdc4fbc2-78bf-4fa7-92fb-e0d3f126179e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>de93fdb3-8a5b-4d6d-b289-597b63c1b7cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;SCHEDULER_search_field&quot;)</value>
-      <webElementGuid>77507a02-d4bf-4d04-ba20-88d687b6c1f6</webElementGuid>
+      <value>id(&quot;P4_DELEGATE_TO&quot;)</value>
+      <webElementGuid>98d0f328-6719-4d30-9726-78131c663092</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@title = 'Search Report' and @type = 'search']</value>
-      <webElementGuid>0f604cbd-a7c3-47f6-aa45-39cf56e12247</webElementGuid>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>cba12c06-661f-4f2d-99f8-074d895c0b92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='SCHEDULER_search_field']</value>
-      <webElementGuid>ef6c33ad-774d-482a-8210-f071ab35f9d9</webElementGuid>
+      <value>//input[@id='P4_DELEGATE_TO']</value>
+      <webElementGuid>cb46a97b-9326-41f0-8103-531d03909b27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='SCHEDULER_toolbar_controls']/div/div/div[2]/input</value>
-      <webElementGuid>33d0f912-68aa-45a2-8ca2-70b891cb8300</webElementGuid>
+      <value>//div[@id='P4_DELEGATE_TO_CONTAINER']/div[2]/div/div/input</value>
+      <webElementGuid>6492032a-152e-456b-9ef0-f60a4956d25c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>f6ed2ce2-e4a9-49fc-ac8b-00d0633d625d</webElementGuid>
+      <value>//div[5]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/input</value>
+      <webElementGuid>c55cd2e7-f2b2-4c34-949b-3dc67c1f5661</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

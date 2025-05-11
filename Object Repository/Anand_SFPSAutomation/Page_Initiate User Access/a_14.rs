@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Manual POST</name>
+   <name>a_14</name>
    <tag></tag>
-   <elementGuidId>22c4575a-5887-4e32-be8f-ebc05854cb3f</elementGuidId>
+   <elementGuidId>4d5bf887-1155-44ea-966a-8b79c4de345a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.ui-state-default.ui-state-hover</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
+         <value>//a[@href = '#' and (text() = '14' or . = '14')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Manual POST&quot;i</value>
+         <value>internal:role=link[name=&quot;14&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>069f4d1a-ba4e-4da9-8dc1-a16e6672f05b</webElementGuid>
+      <value>a</value>
+      <webElementGuid>71977898-1cc4-435c-973b-317a2f6f5c75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>u-radio</value>
-      <webElementGuid>cdda2a67-848b-4eb1-bb49-1d1549e952f6</webElementGuid>
+      <value>ui-state-default ui-state-hover</value>
+      <webElementGuid>ab06dc88-916f-4195-925f-108bfc91e929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>href</name>
       <type>Main</type>
-      <value>P10_TICKET_CREATION_1</value>
-      <webElementGuid>cf6ecf9b-3640-4c28-ae28-d7a14a72b44f</webElementGuid>
+      <value>#</value>
+      <webElementGuid>e514c12f-c050-40b3-adb7-6df66bbc183c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manual POST</value>
-      <webElementGuid>4efda8f6-0cf6-4dcd-91e2-538125c10105</webElementGuid>
+      <value>14</value>
+      <webElementGuid>bdee41d4-53e2-4f07-a11d-09d8d85545cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P10_TICKET_CREATION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>64b3dc2a-797d-4c64-abde-1cefe90ce6b3</webElementGuid>
+      <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[3]/td[@class=&quot;&quot;]/a[@class=&quot;ui-state-default ui-state-hover&quot;]</value>
+      <webElementGuid>eba41855-9d43-4ac3-a5b6-5d19126f87bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
-      <webElementGuid>1e728c4c-8a5d-448f-9a2f-fd8a0061dc5f</webElementGuid>
+      <value>//a[@href = '#' and (text() = '14' or . = '14')]</value>
+      <webElementGuid>a1ef0d82-eb05-4140-9be6-de82797814c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P10_TICKET_CREATION']/div/div/div[2]/label</value>
-      <webElementGuid>0a57c4e8-96f6-4a29-afc4-a6d5ac2488a8</webElementGuid>
+      <value>//div[@id='ui-datepicker-div']/table/tbody/tr[3]/td[4]/a</value>
+      <webElementGuid>11a45322-db24-41ad-b5eb-b7e63b3a5cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'14')]</value>
+      <webElementGuid>a6d4f2a9-c0e2-4f62-9de0-7bf4e47c97b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automatic POST'])[1]/following::label[1]</value>
-      <webElementGuid>8803a5c7-edb3-4772-8bc9-e500809cebf1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::a[3]</value>
+      <webElementGuid>eb26a855-d663-4ad8-bd53-c921a5ac738d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Creation'])[1]/following::label[2]</value>
-      <webElementGuid>6680d1e2-a907-426c-972b-690674afa647</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::a[3]</value>
+      <webElementGuid>7785fe02-a5ca-4c70-82c7-18bde4314764</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::label[1]</value>
-      <webElementGuid>32dec320-6c2f-4441-a52e-d8c6b679ae64</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::a[18]</value>
+      <webElementGuid>e9bb95b2-638d-4702-a5b7-b929cc9eccc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::label[1]</value>
-      <webElementGuid>9433fe58-c010-45ec-9efc-6da113a16c23</webElementGuid>
+      <value>//*/text()[normalize-space(.)='14']/parent::*</value>
+      <webElementGuid>a9908b08-57a6-4319-8a6f-1178ff0b3569</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manual POST']/parent::*</value>
-      <webElementGuid>41f8ae56-2894-4e20-b793-ca4f1ac24c2f</webElementGuid>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>0ba6aa08-2f8d-49ab-aa92-16970cf5dccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>d19fa3f3-9ad1-4f69-b997-7183b61b338a</webElementGuid>
+      <value>//td[4]/a</value>
+      <webElementGuid>ecbf0526-c64a-4b82-bd9b-e43869487f75</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Analytics_a-TreeView-toggle</name>
+   <name>span_Last Update Date_fa fa-search</name>
    <tag></tag>
-   <elementGuidId>a5699cc2-f64e-4c38-9343-bf42a667a2af</elementGuidId>
+   <elementGuidId>1a773cc1-ad0c-475e-a539-8ac62b7ec565</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#t_TreeNav_11 > span.a-TreeView-toggle</value>
+         <value>span.fa.fa-search</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_11']/span</value>
+         <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>li >> internal:has-text=/^Access Certification$/ >> span >> nth=0</value>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,38 +29,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b99ecf1b-66ec-4f54-ac74-a992f1324ec8</webElementGuid>
+      <webElementGuid>816771d0-d597-4b76-80e4-d6c0e853432b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-toggle</value>
-      <webElementGuid>9e8785db-9870-417e-a194-7414abfbf3f6</webElementGuid>
+      <value>fa fa-search</value>
+      <webElementGuid>00316e33-6e60-422a-a9bb-10fda605d4f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_11&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>8776e2df-0fc2-4952-89e8-9e15ebe7c282</webElementGuid>
+      <value>id(&quot;97388373399089016_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/span[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>07df85f3-4b7b-4fd7-bf3c-91f36c0f69df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_11']/span</value>
-      <webElementGuid>61a5b4b5-71a1-4bfa-92db-8b489060a0c2</webElementGuid>
+      <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td/a/span</value>
+      <webElementGuid>0f40dbe0-0f4e-49dd-a37e-fadcc32859b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/ul/li[2]/span</value>
-      <webElementGuid>add117b7-58b0-40e5-bd7c-2668b35edc4f</webElementGuid>
+      <value>//td/a/span</value>
+      <webElementGuid>bdc885ec-d5dc-4e5b-b860-9368fcd5e430</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Job Time_SCHEDULER_search_field</name>
+   <name>input_(Value Required)_P10_END_DATE</name>
    <tag></tag>
-   <elementGuidId>f9ac9069-6b2f-498d-9717-8a195ecbac6b</elementGuidId>
+   <elementGuidId>a1939bdd-670f-4f85-89c9-5ff95905abf4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#SCHEDULER_search_field</value>
+         <value>#P10_END_DATE</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@title = 'Search Report' and @type = 'search']</value>
+         <value>//input[@type = 'text' and @name = 'P10_END_DATE']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=searchbox[name=&quot;Search Report&quot;i]</value>
+         <value>internal:label=&quot;End Date (Value Required)&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,39 +29,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c934c1c3-5148-4f36-a8a0-b6e362c6f2e3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>a-IRR-search-field</value>
-      <webElementGuid>93d81a4c-687a-4218-856e-dbafffd00461</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>SCHEDULER_search_field</value>
-      <webElementGuid>076b68d1-d1cc-4dc8-9ea0-e04e78458ff9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Search Report</value>
-      <webElementGuid>e7371514-9c7a-4430-8c27-67a78ae5bc93</webElementGuid>
+      <webElementGuid>2160f370-5d25-407a-b9f2-6aae4f81a0ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>search</value>
-      <webElementGuid>e1a66ca5-8ff3-47b6-8c02-aaa3c708700f</webElementGuid>
+      <value>text</value>
+      <webElementGuid>5019d04e-0f76-4266-abc1-985846d8ba67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>P10_END_DATE_format_help</value>
+      <webElementGuid>cb979f63-1b43-46c6-b749-48e47cc71bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker apex-item-text apex-item-datepicker hasDatepicker</value>
+      <webElementGuid>d98ba509-179f-4840-a79f-2a638bfdbe0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P10_END_DATE</value>
+      <webElementGuid>32511713-01ab-4837-b0b9-4684d9a2856a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P10_END_DATE</value>
+      <webElementGuid>2869c397-3e96-4645-a69f-4e14ecd17009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,54 +77,54 @@
       <name>size</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>3571cba8-4012-4b17-ad54-9744a9138adb</webElementGuid>
+      <webElementGuid>327b85b0-9924-41e2-ad8a-c2ce8ccb472a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>4000</value>
-      <webElementGuid>7b3f988c-d01a-4b63-99a6-11a60612980c</webElementGuid>
+      <value>off</value>
+      <webElementGuid>3e29b8ee-eb1b-425a-98ee-ec10bbe7df69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;SCHEDULER_search_field&quot;)</value>
-      <webElementGuid>77507a02-d4bf-4d04-ba20-88d687b6c1f6</webElementGuid>
+      <value>id(&quot;P10_END_DATE&quot;)</value>
+      <webElementGuid>767b46f7-52ac-4c30-a2ce-98270a26cc5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@title = 'Search Report' and @type = 'search']</value>
-      <webElementGuid>0f604cbd-a7c3-47f6-aa45-39cf56e12247</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'P10_END_DATE']</value>
+      <webElementGuid>00973e17-fea7-48d7-957d-c6e188170d49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='SCHEDULER_search_field']</value>
-      <webElementGuid>ef6c33ad-774d-482a-8210-f071ab35f9d9</webElementGuid>
+      <value>//input[@id='P10_END_DATE']</value>
+      <webElementGuid>0c8fcdfc-bd4d-4f12-87c6-a86bac6bb859</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='SCHEDULER_toolbar_controls']/div/div/div[2]/input</value>
-      <webElementGuid>33d0f912-68aa-45a2-8ca2-70b891cb8300</webElementGuid>
+      <value>//div[@id='P10_END_DATE_CONTAINER']/div[2]/div/input</value>
+      <webElementGuid>97983218-a653-48aa-962f-9d9b8859d2e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>f6ed2ce2-e4a9-49fc-ac8b-00d0633d625d</webElementGuid>
+      <value>//div[7]/div/div/div[2]/div/input</value>
+      <webElementGuid>b61924b3-619c-4431-89ed-3fa1fc313c23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

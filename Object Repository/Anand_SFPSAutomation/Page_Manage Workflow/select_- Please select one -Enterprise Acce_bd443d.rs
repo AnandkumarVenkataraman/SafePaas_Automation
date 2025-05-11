@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Close</name>
+   <name>select_- Please select one -Enterprise Acce_bd443d</name>
    <tag></tag>
-   <elementGuidId>b7aeca82-d995-48a4-aa94-24c9bc4c973b</elementGuidId>
+   <elementGuidId>6482dfd6-838b-45ec-afc9-2e427781c7bd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.ui-datepicker-close.ui-state-default.ui-priority-primary.ui-corner-all.ui-state-hover</value>
+         <value>#P37_MODULE</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
+         <value>//select[@name = 'P37_MODULE' and (text() = '- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
+Enterprise iAccess
+' or . = '- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
+Enterprise iAccess
+')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Close&quot;i]</value>
+         <value>internal:label=&quot;Product (Value Required)&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +36,123 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>2e399bc1-8a4f-480a-9537-45914003349a</webElementGuid>
+      <value>select</value>
+      <webElementGuid>8d440516-5dc1-41c1-b197-6126e13decc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P37_MODULE</value>
+      <webElementGuid>12a81d86-2566-4027-b361-0bb19e3731f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>fab46c4c-842c-451d-8aac-5276198315fd</webElementGuid>
+      <value>P37_MODULE</value>
+      <webElementGuid>75fcf4a6-f97c-4c31-9b1c-f7c715e521ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-datepicker-close ui-state-default ui-priority-primary ui-corner-all ui-state-hover</value>
-      <webElementGuid>d89c1e23-f34f-4bd7-a88b-88724d6db01b</webElementGuid>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>92b668cb-bc4c-4a24-832a-9f1d59c5296e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-handler</name>
+      <name>data-native-menu</name>
       <type>Main</type>
-      <value>hide</value>
-      <webElementGuid>b7ca94a7-107c-4dc2-a02f-874723d6732d</webElementGuid>
+      <value>false</value>
+      <webElementGuid>68213b3d-46ed-4e63-8637-8bae11bb33a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>size</name>
       <type>Main</type>
-      <value>apex.jQuery.datepicker._hideDatepicker();</value>
-      <webElementGuid>627886fb-71ef-48fe-b726-d9b09baf84a5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-event</name>
-      <type>Main</type>
-      <value>click</value>
-      <webElementGuid>18ca2cc3-10ac-4c22-8bd7-7ac7c2c2e7e9</webElementGuid>
+      <value>1</value>
+      <webElementGuid>0deee3d0-9214-46f1-9171-eb5853270f60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>31fcd7be-d746-4b65-8c4c-c53dbe20541e</webElementGuid>
+      <value>- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
+Enterprise iAccess
+</value>
+      <webElementGuid>525f0467-f6f7-405f-9cea-eba01908e39a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-datepicker-buttonpane ui-widget-content&quot;]/button[@class=&quot;ui-datepicker-close ui-state-default ui-priority-primary ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>97609c59-f8e1-4652-8e49-c88ee95b75e2</webElementGuid>
+      <value>id(&quot;P37_MODULE&quot;)</value>
+      <webElementGuid>5b4f0c86-d5aa-4dfc-9a71-18bd249fe896</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>435dbb38-9af5-4c02-9339-de130c8fb278</webElementGuid>
+      <value>//select[@name = 'P37_MODULE' and (text() = '- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
+Enterprise iAccess
+' or . = '- Please select one -
+Enterprise Access Certification
+Enterprise Access Monitor
+Enterprise iAccess
+')]</value>
+      <webElementGuid>60820d46-d9bc-434e-a049-9c40ec5a5653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>f755f65c-4482-42e4-98d3-84cf0b1b25df</webElementGuid>
+      <value>//select[@id='P37_MODULE']</value>
+      <webElementGuid>5c46cecb-463e-4559-b639-3a5972826aae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ui-datepicker-div']/div[2]/button</value>
-      <webElementGuid>bc613d48-be94-42b9-9a11-858bac92a992</webElementGuid>
+      <value>//div[@id='P37_MODULE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>a645c2ea-c440-422d-b519-857053746222</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::button[1]</value>
-      <webElementGuid>56479018-640e-4da5-ae49-df6da89bcea0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::select[1]</value>
+      <webElementGuid>d5bf4bd5-f084-402c-b315-78309df664d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::button[1]</value>
-      <webElementGuid>81874aa4-cf62-4130-95e0-7781f9efd44f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
-      <webElementGuid>f8e8d142-03ba-4226-9083-c71f33f0116e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/preceding::select[1]</value>
+      <webElementGuid>0f4cc996-cc90-4f32-854c-31ed1507d69e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[2]/button</value>
-      <webElementGuid>1e5031f3-9b42-43f9-b91d-f995eb5d8f8c</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>80b7a41c-c619-4380-bdff-0ef49c25b0ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

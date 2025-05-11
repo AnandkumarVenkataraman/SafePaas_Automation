@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9a730937-72c1-4fda-aeec-e7518aecb6fa</webElementGuid>
+      <webElementGuid>7d05f4ec-399c-4f95-a72e-b388712b3744</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>a44c2125-533f-4b9e-9be4-a1f46ffdc06b</webElementGuid>
+      <webElementGuid>7bfdae2c-1c0a-4e16-9ed2-0cbd088ff9f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>3e8f37bb-d9fd-4e90-b2c0-29192be8c8c9</webElementGuid>
+      <webElementGuid>16b89170-1c9f-4934-b400-c13014943b08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>42d99788-1562-43b8-a086-930ab913446b</webElementGuid>
+      <webElementGuid>e7f161eb-4203-4cb9-bef9-bd154ccfbddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1400:32:8691944537553:::32::</value>
-      <webElementGuid>a5515256-ff3d-4268-8281-7c30e633a0fa</webElementGuid>
+      <value>f?p=1400:32:16745670241103:::32::</value>
+      <webElementGuid>d9bbd2d7-099c-4d21-bbd5-2586b1fcafad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>1faff874-5c9a-45f1-a1be-f22ce1822556</webElementGuid>
+      <webElementGuid>3a3972ac-a050-422f-8ae1-cfbb4ab41964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>652339d4-cdc0-4dbd-9ec1-10395d1689ee</webElementGuid>
+      <webElementGuid>91704106-7134-4fde-bd45-56197e2130dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Certification</value>
-      <webElementGuid>6e23fd93-1c0c-4c9b-ad88-ec0fb01af380</webElementGuid>
+      <webElementGuid>733ed5d5-9b0e-4335-8cef-7282fa2ee474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_13&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>4501d428-f266-47b8-8fd1-3fd6fa5259fb</webElementGuid>
+      <webElementGuid>611f3e9d-41af-49c5-a91d-be16bac59de1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1400:32:8691944537553:::32::' and (text() = 'Manage Certification' or . = 'Manage Certification')]</value>
-      <webElementGuid>5c3f137b-f5a0-4183-a972-21bd951dab85</webElementGuid>
+      <value>//a[@href = 'f?p=1400:32:16745670241103:::32::' and (text() = 'Manage Certification' or . = 'Manage Certification')]</value>
+      <webElementGuid>0fec37a7-5b18-40f9-9a8d-59d91bd8da24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_13']/div[2]/a</value>
-      <webElementGuid>7b558069-74d4-4d9a-8cb9-c4f642edd8c1</webElementGuid>
+      <webElementGuid>90fc2bc8-b9be-4ce2-93b2-4ad3647149bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Certification')]</value>
-      <webElementGuid>7ff5096b-d214-4a93-9568-a2aae122411b</webElementGuid>
+      <webElementGuid>a34f01a1-59ed-4ba7-a96a-d7a3f198e5d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Certification'])[1]/following::a[1]</value>
-      <webElementGuid>314021ba-ac5c-431f-a49f-592fb6f86956</webElementGuid>
+      <webElementGuid>e3978e2b-6e35-48af-84f1-9e6468a14d76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/following::a[1]</value>
-      <webElementGuid>3d6cf8a5-f2ff-4c75-96ce-0c89258ef2c2</webElementGuid>
+      <webElementGuid>5a694df5-2f0f-4086-9455-9a4ec5e08d08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage User Access'])[1]/preceding::a[1]</value>
-      <webElementGuid>5527b069-e160-4a22-9ce2-314d8cb68d5e</webElementGuid>
+      <webElementGuid>cecea22d-adc3-4d36-823a-08719a74082b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/preceding::a[2]</value>
-      <webElementGuid>c460d7d0-920b-4e9f-93cb-b358878a1bcb</webElementGuid>
+      <webElementGuid>f3c66960-79af-42ba-a68b-1e0c003ca82f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,15 +157,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Certification']/parent::*</value>
-      <webElementGuid>77cc6bb2-72f5-45e4-8f1a-b805311bf87a</webElementGuid>
+      <webElementGuid>2a9b7416-9496-4b24-8374-7425a4b265a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1400:32:8691944537553:::32::')]</value>
-      <webElementGuid>96ab9ace-cd7e-45d6-a4e7-950f4baccb04</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1400:32:16745670241103:::32::')]</value>
+      <webElementGuid>3f4b4a7e-9f9c-4c68-b5c3-70b40eb2a8c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div[2]/a</value>
-      <webElementGuid>a1c5b70f-6236-498b-b859-b76819ec031c</webElementGuid>
+      <webElementGuid>d35517be-e446-4dbd-8a56-9e9d72dd89a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1400:32:8691944537553:::32::' and (text() = 'Manage Certification' or . = 'Manage Certification')]</value>
+      <webElementGuid>9612a836-8d96-4338-b05a-ccc4a45fffe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1400:32:8691944537553:::32::')]</value>
+      <webElementGuid>377ebcfd-9c1f-4256-b8f6-5f55ecfe16be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

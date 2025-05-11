@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Manual POST</name>
+   <name>span_ANANDK1</name>
    <tag></tag>
-   <elementGuidId>22c4575a-5887-4e32-be8f-ebc05854cb3f</elementGuidId>
+   <elementGuidId>c61b025b-a42b-49e8-9696-96f6bb34631b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>span.popup-lov-highlight</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
+         <value>//span[(text() = 'ANANDK1' or . = 'ANANDK1')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Manual POST&quot;i</value>
+         <value>internal:text=&quot;ANANDK1&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>069f4d1a-ba4e-4da9-8dc1-a16e6672f05b</webElementGuid>
+      <value>span</value>
+      <webElementGuid>8410dfe2-5755-4231-b44f-70b4c2ace022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>u-radio</value>
-      <webElementGuid>cdda2a67-848b-4eb1-bb49-1d1549e952f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>for</name>
-      <type>Main</type>
-      <value>P10_TICKET_CREATION_1</value>
-      <webElementGuid>cf6ecf9b-3640-4c28-ae28-d7a14a72b44f</webElementGuid>
+      <value>popup-lov-highlight</value>
+      <webElementGuid>e1b7615a-9463-408b-9a60-4e35ae1ead14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manual POST</value>
-      <webElementGuid>4efda8f6-0cf6-4dcd-91e2-538125c10105</webElementGuid>
+      <value>ANANDK1</value>
+      <webElementGuid>03a747d2-69c6-4f9b-a546-f514fe52fd15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P10_TICKET_CREATION&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>64b3dc2a-797d-4c64-abde-1cefe90ce6b3</webElementGuid>
+      <value>id(&quot;PopupLov_4_P4_DELEGATE_TO_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-GV&quot;]/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table&quot;]/tbody[1]/tr[@class=&quot;a-GV-row is-readonly is-hover&quot;]/td[@class=&quot;a-GV-cell u-tS a-GV-rowHeader&quot;]/span[@class=&quot;popup-lov-highlight&quot;]</value>
+      <webElementGuid>5780b475-fcc2-4f32-bc65-be7a6f42b17c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Manual POST' or . = 'Manual POST')]</value>
-      <webElementGuid>1e728c4c-8a5d-448f-9a2f-fd8a0061dc5f</webElementGuid>
+      <value>//span[(text() = 'ANANDK1' or . = 'ANANDK1')]</value>
+      <webElementGuid>f4fa8519-bfc0-419d-8fc7-a74514840c3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P10_TICKET_CREATION']/div/div/div[2]/label</value>
-      <webElementGuid>0a57c4e8-96f6-4a29-afc4-a6d5ac2488a8</webElementGuid>
+      <value>//div[@id='PopupLov_4_P4_DELEGATE_TO_dlg']/div[3]/div[2]/div[4]/table/tbody/tr/td/span</value>
+      <webElementGuid>64663fac-9338-444b-babb-890059b4343e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automatic POST'])[1]/following::label[1]</value>
-      <webElementGuid>8803a5c7-edb3-4772-8bc9-e500809cebf1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::span[1]</value>
+      <webElementGuid>530a7e68-22d2-4212-a1bc-9c8adc8b1553</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Creation'])[1]/following::label[2]</value>
-      <webElementGuid>6680d1e2-a907-426c-972b-690674afa647</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[2]/following::span[2]</value>
+      <webElementGuid>e3b79ef7-a96b-484b-a2a7-2ce8d2f6d31c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::label[1]</value>
-      <webElementGuid>32dec320-6c2f-4441-a52e-d8c6b679ae64</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anand Kumar Venkataraman'])[1]/preceding::span[1]</value>
+      <webElementGuid>6a010416-9d7e-4fce-b5f4-5da7cee9fe71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::label[1]</value>
-      <webElementGuid>9433fe58-c010-45ec-9efc-6da113a16c23</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More Rows'])[1]/preceding::span[1]</value>
+      <webElementGuid>71b3fb11-6eb9-4c10-8639-efb0319f8d8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manual POST']/parent::*</value>
-      <webElementGuid>41f8ae56-2894-4e20-b793-ca4f1ac24c2f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='ANANDK1']/parent::*</value>
+      <webElementGuid>5679ae10-b99a-444d-a2e2-ac432ef4dd10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>d19fa3f3-9ad1-4f69-b997-7183b61b338a</webElementGuid>
+      <value>//td/span</value>
+      <webElementGuid>bebabccd-1450-457c-8f0f-bafcb5864564</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

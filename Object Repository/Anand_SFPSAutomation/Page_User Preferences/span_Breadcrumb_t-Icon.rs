@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Analytics_a-TreeView-toggle</name>
+   <name>span_Breadcrumb_t-Icon</name>
    <tag></tag>
-   <elementGuidId>a5699cc2-f64e-4c38-9343-bf42a667a2af</elementGuidId>
+   <elementGuidId>f1ba324f-4a06-4e54-90ac-bb6b73d77f87</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#t_TreeNav_11 > span.a-TreeView-toggle</value>
+         <value>div.t-Alert-icon > span.t-Icon</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_11']/span</value>
+         <value>//div[@id='t_Alert_Success']/div/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>li >> internal:has-text=/^Access Certification$/ >> span >> nth=0</value>
+         <value>#t_Alert_Success span >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,38 +29,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b99ecf1b-66ec-4f54-ac74-a992f1324ec8</webElementGuid>
+      <webElementGuid>7c1da481-4261-4f06-a0d4-20eabcd9bbb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-toggle</value>
-      <webElementGuid>9e8785db-9870-417e-a194-7414abfbf3f6</webElementGuid>
+      <value>t-Icon</value>
+      <webElementGuid>7afcac2e-1976-4250-acb5-926eaa19b421</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_11&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>8776e2df-0fc2-4952-89e8-9e15ebe7c282</webElementGuid>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-icon&quot;]/span[@class=&quot;t-Icon&quot;]</value>
+      <webElementGuid>0bbd3db9-fd70-4101-af5a-2241162484cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_11']/span</value>
-      <webElementGuid>61a5b4b5-71a1-4bfa-92db-8b489060a0c2</webElementGuid>
+      <value>//div[@id='t_Alert_Success']/div/div/span</value>
+      <webElementGuid>813c9432-8f11-461e-8789-8db4ad83fae9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/ul/li[2]/span</value>
-      <webElementGuid>add117b7-58b0-40e5-bd7c-2668b35edc4f</webElementGuid>
+      <value>//div/div/div/div/span</value>
+      <webElementGuid>d3ee2b16-fab5-495a-a94b-e673225db801</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
