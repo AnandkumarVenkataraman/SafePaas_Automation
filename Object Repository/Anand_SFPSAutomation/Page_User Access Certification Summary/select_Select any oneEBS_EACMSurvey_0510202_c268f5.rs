@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneEBS_EACMSurvey_0510202_c268f5</name>
+   <tag></tag>
+   <elementGuidId>7b7024d9-0080-45a0-a447-b6f19dbe525b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P8_TEST' and (text() = 'Select any one
+EBS_EACMSurvey_05102025_v1
+EBS_EACMSurvey_10052025_010146
+EBS_EACMSurvey_10052025_011848
+EBS_EACMSurvey_10052025_020025
+EBS_EACMSurvey_10052025_020622
+EBS_EACMSurvey_10052025_021553
+EBS_EACMSurvey_10052025_025233
+EBS_EACMSurvey_10052025_052504
+EBS_EACMSurvey_10052025_053304
+EBS_EACMSurvey_10052025_055122
+EBS_EACMSurvey_10052025_055123
+EBS_EACMSurvey_10052025_062935
+EBS_Survey_May012025_v1
+EBiz_Survey_R1
+' or . = 'Select any one
+EBS_EACMSurvey_05102025_v1
+EBS_EACMSurvey_10052025_010146
+EBS_EACMSurvey_10052025_011848
+EBS_EACMSurvey_10052025_020025
+EBS_EACMSurvey_10052025_020622
+EBS_EACMSurvey_10052025_021553
+EBS_EACMSurvey_10052025_025233
+EBS_EACMSurvey_10052025_052504
+EBS_EACMSurvey_10052025_053304
+EBS_EACMSurvey_10052025_055122
+EBS_EACMSurvey_10052025_055123
+EBS_EACMSurvey_10052025_062935
+EBS_Survey_May012025_v1
+EBiz_Survey_R1
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P8_TEST</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;User Access Test&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6f265c48-1275-4eea-bde0-52793fbd84bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P8_TEST</value>
+      <webElementGuid>6b8ce81b-f2d7-428c-83a4-86357bc98c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P8_TEST</value>
+      <webElementGuid>c7417ff6-1029-4287-a67f-0e5da4b1be12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>d836046f-90b3-4a16-98c2-c68c17fbb5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3586104e-5ecf-48a3-ae89-72d43052f479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>45007b08-9afd-44c4-86e5-3f753d2f0ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P8_TEST');</value>
+      <webElementGuid>8fbbae92-86a2-44ad-a243-07a502feca42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+EBS_EACMSurvey_05102025_v1
+EBS_EACMSurvey_10052025_010146
+EBS_EACMSurvey_10052025_011848
+EBS_EACMSurvey_10052025_020025
+EBS_EACMSurvey_10052025_020622
+EBS_EACMSurvey_10052025_021553
+EBS_EACMSurvey_10052025_025233
+EBS_EACMSurvey_10052025_052504
+EBS_EACMSurvey_10052025_053304
+EBS_EACMSurvey_10052025_055122
+EBS_EACMSurvey_10052025_055123
+EBS_EACMSurvey_10052025_062935
+EBS_Survey_May012025_v1
+EBiz_Survey_R1
+</value>
+      <webElementGuid>b8d810e0-af58-4be3-b9e8-cefd910d7bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P8_TEST&quot;)</value>
+      <webElementGuid>85cfd5a9-dba6-478f-960c-e59ca0eec977</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P8_TEST' and (text() = 'Select any one
+EBS_EACMSurvey_05102025_v1
+EBS_EACMSurvey_10052025_010146
+EBS_EACMSurvey_10052025_011848
+EBS_EACMSurvey_10052025_020025
+EBS_EACMSurvey_10052025_020622
+EBS_EACMSurvey_10052025_021553
+EBS_EACMSurvey_10052025_025233
+EBS_EACMSurvey_10052025_052504
+EBS_EACMSurvey_10052025_053304
+EBS_EACMSurvey_10052025_055122
+EBS_EACMSurvey_10052025_055123
+EBS_EACMSurvey_10052025_062935
+EBS_Survey_May012025_v1
+EBiz_Survey_R1
+' or . = 'Select any one
+EBS_EACMSurvey_05102025_v1
+EBS_EACMSurvey_10052025_010146
+EBS_EACMSurvey_10052025_011848
+EBS_EACMSurvey_10052025_020025
+EBS_EACMSurvey_10052025_020622
+EBS_EACMSurvey_10052025_021553
+EBS_EACMSurvey_10052025_025233
+EBS_EACMSurvey_10052025_052504
+EBS_EACMSurvey_10052025_053304
+EBS_EACMSurvey_10052025_055122
+EBS_EACMSurvey_10052025_055123
+EBS_EACMSurvey_10052025_062935
+EBS_Survey_May012025_v1
+EBiz_Survey_R1
+')]</value>
+      <webElementGuid>b7499c4d-220f-495d-9480-e2b899f51ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P8_TEST']</value>
+      <webElementGuid>c1935bd6-2e4c-4e3d-8f65-d4db6cf2e772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P8_TEST_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>16156316-4fe9-4b5e-8b5e-e53c9d0ae7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access Test'])[1]/following::select[1]</value>
+      <webElementGuid>b64ca79f-0526-4fc8-ad12-7cf311d3c086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access Validation Summary'])[2]/following::select[1]</value>
+      <webElementGuid>8b26c464-566d-45c1-928d-48cf2b9e3d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>2a7952ee-345a-4290-981c-2182545e94b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows'])[1]/preceding::select[1]</value>
+      <webElementGuid>f9450c39-3ffb-4c82-af72-26ed48bd67a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>f67a6160-c181-4ee6-bd9a-2e4463e25fd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

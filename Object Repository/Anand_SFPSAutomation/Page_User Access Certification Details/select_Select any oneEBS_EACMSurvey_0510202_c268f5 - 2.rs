@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneEBS_EACMSurvey_0510202_c268f5 - 2</name>
+   <tag></tag>
+   <elementGuidId>7ef5c8fd-2161-4047-8a19-5906cda72c9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name=&quot;P8_TEST&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P7_USER_ACCESS_TEST</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;User Access Test&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c3399c01-5a96-488e-939f-85db1aa30a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P7_USER_ACCESS_TEST</value>
+      <webElementGuid>c9514aa7-3e30-4c01-af38-306fb414120f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P7_USER_ACCESS_TEST</value>
+      <webElementGuid>9d63e731-072a-459e-b004-fde7dff7db77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>ca984a7b-5c1e-4cb5-bcab-758aa3821314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ce1b2a77-971f-4376-8611-069fe75537a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>8ff7aa3e-11cc-4bb0-be3a-40d6e8e9e6fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P7_USER_ACCESS_TEST');</value>
+      <webElementGuid>7628b80b-17a4-47e1-aac5-248226d64513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+EBS_EACMSurvey_05102025_v1
+EBS_EACMSurvey_10052025_010146
+EBS_EACMSurvey_10052025_011848
+EBS_EACMSurvey_10052025_020025
+EBS_EACMSurvey_10052025_020622
+EBS_EACMSurvey_10052025_021553
+EBS_EACMSurvey_10052025_025233
+EBS_EACMSurvey_10052025_052504
+EBS_EACMSurvey_10052025_053304
+EBS_EACMSurvey_10052025_055122
+EBS_EACMSurvey_10052025_055123
+EBS_EACMSurvey_10052025_062935
+EBS_Survey_May012025_v1
+EBiz_Survey_R1
+</value>
+      <webElementGuid>5cbf7ca3-903c-41d5-a32b-65053dd40e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P7_USER_ACCESS_TEST&quot;)</value>
+      <webElementGuid>82faae77-2b84-4da5-8507-2bba94817405</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;P8_TEST&quot;]</value>
+      <webElementGuid>05df5625-fa66-45fe-92b0-5afbd654b427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P8_TEST']</value>
+      <webElementGuid>e92e03a0-8593-4fda-a56f-8ab68dea9baa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

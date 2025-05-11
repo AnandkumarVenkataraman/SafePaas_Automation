@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneEBS_EACMSurvey_0510202_c268f5</name>
+   <tag></tag>
+   <elementGuidId>3b704333-e9c5-43bf-af02-bb8e7a2acdee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P7_USER_ACCESS_TEST']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P7_USER_ACCESS_TEST</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;User Access Test&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>49b5e58b-4580-4e62-8e1d-a1f067a364d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P7_USER_ACCESS_TEST</value>
+      <webElementGuid>6adf031b-1b19-4140-a6cf-99ddefbfd7ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P7_USER_ACCESS_TEST</value>
+      <webElementGuid>5fd123af-2328-47ea-a6d0-58d927cbb726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>14db32c6-43f7-497e-8c58-8a8beef61502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6a081f87-7f40-4532-971d-ce6db1d104d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1b87d30a-1ecc-43e8-a4f7-c84e547cbebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P7_USER_ACCESS_TEST');</value>
+      <webElementGuid>bb03d0ac-3a87-4e33-bc64-947fb74555d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+EBS_EACMSurvey_05102025_v1
+EBS_EACMSurvey_10052025_010146
+EBS_EACMSurvey_10052025_011848
+EBS_EACMSurvey_10052025_020025
+EBS_EACMSurvey_10052025_020622
+EBS_EACMSurvey_10052025_021553
+EBS_EACMSurvey_10052025_025233
+EBS_EACMSurvey_10052025_052504
+EBS_EACMSurvey_10052025_053304
+EBS_EACMSurvey_10052025_055122
+EBS_EACMSurvey_10052025_055123
+EBS_EACMSurvey_10052025_062935
+EBS_Survey_May012025_v1
+EBiz_Survey_R1
+</value>
+      <webElementGuid>87e42dfd-0bf1-4604-b30b-42a22935b2b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P7_USER_ACCESS_TEST&quot;)</value>
+      <webElementGuid>4e8a85de-8158-476f-bdd4-da74a26ee9ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P7_USER_ACCESS_TEST' and (text() = 'Select any one&#xd;
+EBS_EACMSurvey_05102025_v1&#xd;
+EBS_EACMSurvey_10052025_010146&#xd;
+EBS_EACMSurvey_10052025_011848&#xd;
+EBS_EACMSurvey_10052025_020025&#xd;
+EBS_EACMSurvey_10052025_020622&#xd;
+EBS_EACMSurvey_10052025_021553&#xd;
+EBS_EACMSurvey_10052025_025233&#xd;
+EBS_EACMSurvey_10052025_052504&#xd;
+EBS_EACMSurvey_10052025_053304&#xd;
+EBS_EACMSurvey_10052025_055122&#xd;
+EBS_EACMSurvey_10052025_055123&#xd;
+EBS_EACMSurvey_10052025_062935&#xd;
+EBS_Survey_May012025_v1&#xd;
+EBiz_Survey_R1&#xd;
+' or . = 'Select any one&#xd;
+EBS_EACMSurvey_05102025_v1&#xd;
+EBS_EACMSurvey_10052025_010146&#xd;
+EBS_EACMSurvey_10052025_011848&#xd;
+EBS_EACMSurvey_10052025_020025&#xd;
+EBS_EACMSurvey_10052025_020622&#xd;
+EBS_EACMSurvey_10052025_021553&#xd;
+EBS_EACMSurvey_10052025_025233&#xd;
+EBS_EACMSurvey_10052025_052504&#xd;
+EBS_EACMSurvey_10052025_053304&#xd;
+EBS_EACMSurvey_10052025_055122&#xd;
+EBS_EACMSurvey_10052025_055123&#xd;
+EBS_EACMSurvey_10052025_062935&#xd;
+EBS_Survey_May012025_v1&#xd;
+EBiz_Survey_R1&#xd;
+')]</value>
+      <webElementGuid>6419ddff-1304-45c2-823a-17d36e8e10f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P7_USER_ACCESS_TEST']</value>
+      <webElementGuid>316b2f5f-fc28-41f0-b24b-7fd74f621cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P7_USER_ACCESS_TEST_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>2688b3b7-f370-43a9-8e8f-33894d2eff8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Access Test'])[1]/following::select[1]</value>
+      <webElementGuid>7ac608a9-9a45-4e4d-b6c8-738feada16c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>4096aab8-8fd4-49b4-ae7e-f10414ad9960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[1]</value>
+      <webElementGuid>9efac0dd-b607-496e-9df2-7d0eef608986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[1]</value>
+      <webElementGuid>1fb465c6-2a6c-4cfd-b466-26064d4f7954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>f2535690-e045-44d8-ae44-2a165e6fb39a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

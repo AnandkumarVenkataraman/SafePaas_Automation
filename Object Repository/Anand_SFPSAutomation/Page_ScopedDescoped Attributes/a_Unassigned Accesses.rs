@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Unassigned Accesses</name>
+   <tag></tag>
+   <elementGuidId>fa49a75d-85c3-4032-9ec3-c0d319189ef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Unassigned Accesses')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Unassigned Accesses&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d524c57-85e5-4cc5-9404-879a6480e257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c0fb8efb-039d-4881-a28f-e96b83cea2fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>07b70fbe-124a-4219-aed1-bc76721798c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label</value>
+      <webElementGuid>4eb460a2-83fc-44df-a012-73c4202ac32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1400:53:4405717901345:::53::&amp;cs=3GHvisX0SSixHCTAn-2pqCg7aEMi_ZidiXkj15YDfTH5GfqXuBYHpDf2SShhGv9rbseTMT_2xB2tvnSD6aYpwag</value>
+      <webElementGuid>94542f73-d283-4a72-a7f6-721d57b7d3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>a4ca6ca5-f772-48bf-9c8c-7578c7778a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c72b3102-e17c-441b-ab8b-17b1453aa4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unassigned Accesses</value>
+      <webElementGuid>51d4897d-4466-4ebd-978c-b7c6f331e4dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_182&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>9443bb0a-ec16-4659-923e-87bc9b48b0f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1400:53:4405717901345:::53::&amp;cs=3GHvisX0SSixHCTAn-2pqCg7aEMi_ZidiXkj15YDfTH5GfqXuBYHpDf2SShhGv9rbseTMT_2xB2tvnSD6aYpwag' and (text() = 'Unassigned Accesses' or . = 'Unassigned Accesses')]</value>
+      <webElementGuid>070fd595-4802-44c5-ab99-04fbcf01e854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_182']/div[2]/a</value>
+      <webElementGuid>0d438d37-62ba-40c4-a44a-623aa4b63f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Unassigned Accesses')]</value>
+      <webElementGuid>5b04289f-7936-4e64-8f5d-21a0c9bcf0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scoped/Descoped Attributes Report'])[1]/following::a[1]</value>
+      <webElementGuid>7469c5b8-a940-4d93-9862-36d4b62845bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignment Report'])[2]/following::a[2]</value>
+      <webElementGuid>35a25712-e399-43d1-b302-806ffedbd737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Certification'])[1]/preceding::a[1]</value>
+      <webElementGuid>e45565a4-2fbd-4df5-95fb-2db993de8be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[4]/preceding::a[1]</value>
+      <webElementGuid>d39b1531-d4cf-4996-958f-9de80bdc2268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unassigned Accesses']/parent::*</value>
+      <webElementGuid>1cf8c08f-e57b-48f5-a392-a160547d5045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1400:53:4405717901345:::53::&amp;cs=3GHvisX0SSixHCTAn-2pqCg7aEMi_ZidiXkj15YDfTH5GfqXuBYHpDf2SShhGv9rbseTMT_2xB2tvnSD6aYpwag')]</value>
+      <webElementGuid>4f92532d-691e-4ec3-8157-e2bb49f418ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/ul/li[6]/div[2]/a</value>
+      <webElementGuid>16226846-497c-4057-a510-f9ae00e03796</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
