@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select a template OR create a new _80e157</name>
+   <tag></tag>
+   <elementGuidId>603e319d-9a91-49c3-89d8-fd6549780942</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P34_TEMPLATE_NAME' and (text() = '- Select a template OR create a new one -
+DEFAULT' or . = '- Select a template OR create a new one -
+DEFAULT')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P34_TEMPLATE_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Email Template Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>155006ff-f23d-4f69-b22c-8a800c7a9ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P34_TEMPLATE_NAME</value>
+      <webElementGuid>3056e61b-224a-4cee-99e5-e5b1aa09a6a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P34_TEMPLATE_NAME</value>
+      <webElementGuid>8c1f8c73-cff1-4059-bc45-985abac9dad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>0dffebd3-2380-4a94-ab1e-483e60663776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>70596695-cab7-4388-8bcd-47c1333fbe66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>8f4759a3-49a3-43a0-9cc4-19d74875ea4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select a template OR create a new one -
+DEFAULT</value>
+      <webElementGuid>95704669-4054-4db8-a7c7-050c135aa524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P34_TEMPLATE_NAME&quot;)</value>
+      <webElementGuid>095b6191-cb9c-49f9-bfed-02f9af791171</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P34_TEMPLATE_NAME' and (text() = '- Select a template OR create a new one -
+DEFAULT' or . = '- Select a template OR create a new one -
+DEFAULT')]</value>
+      <webElementGuid>5bade1ca-981a-4266-b257-4bbbacf9c17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P34_TEMPLATE_NAME']</value>
+      <webElementGuid>f4a0ffc3-0a67-48f9-885c-9d3ff62f1797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P34_TEMPLATE_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b5f24fe3-abea-4d1d-8af2-36d771af0850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Template Name'])[1]/following::select[1]</value>
+      <webElementGuid>f859b932-a8a2-4c9a-9a24-3f5d2c3cdc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Category'])[1]/following::select[2]</value>
+      <webElementGuid>3e5f8129-cefb-4ce1-9af5-2fa378aded9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email From'])[1]/preceding::select[1]</value>
+      <webElementGuid>87154289-915a-44e6-a941-1acd3cdc1e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Subject'])[1]/preceding::select[1]</value>
+      <webElementGuid>30afbba9-9cc4-4b4a-9723-c7b97636f5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>21c869a1-f741-4a53-9bf9-ed6350719259</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
