@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DataProbe_Setup</description>
+   <name>DataProbe_Setup</name>
+   <tag>DTP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>926c3122-8a60-4dad-8964-4e3a2b278e8e</testCaseGuid>
+</TestCaseEntity>
