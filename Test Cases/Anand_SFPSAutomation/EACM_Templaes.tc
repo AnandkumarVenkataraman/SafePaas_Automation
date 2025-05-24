@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM_Templaes</description>
+   <name>EACM_Templaes</name>
+   <tag>EACM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06cd54c1-9ef5-422d-9441-b64f31939e3f</testCaseGuid>
+</TestCaseEntity>

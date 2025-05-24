@@ -178,7 +178,7 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Schedu
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/button_Go'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/button_concat(Row text contains , , FSOD_IN_0d64b8'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/button_concat(Row text contains , , FSOD_IN_0d64b8'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/a_Manage Workflow'))
 
@@ -213,7 +213,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/td_NA'), 'N/A')
 
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select any -ReassignEscalationReminder'),
 	'REASSIGN', true)
@@ -224,13 +224,13 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select any -ReassignEscalationReminder'),
 	'REMINDER', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Update Date_fa fa-wrench'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Update Date_fa fa-wrench'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select any -Cancel'),
 	'CANCEL', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel'))
 
-
+//final step for this scenario -> Logout
