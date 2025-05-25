@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage Environment</name>
+   <name>td_Description (1)</name>
    <tag></tag>
-   <elementGuidId>9e0b01b7-465d-4cd1-8661-a5bb2506bff3</elementGuidId>
+   <elementGuidId>324f3233-9de2-4366-8261-8026bb379bd2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Description' or . = 'Description')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[contains(text(),'Manage Environment')])[2]</value>
+         <key>CSS</key>
+         <value>#oItemsSodJdbcIg_ig_grid_vc_cur</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage Environment&quot;i]</value>
+         <value>internal:label=&quot;Column 6.&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,143 +28,135 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>9ac91af2-8898-41ee-b07a-09900049c549</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>4ca36524-72ec-4da6-bc31-fcb3cfa9d546</webElementGuid>
+      <value>td</value>
+      <webElementGuid>aa36394d-5b9e-4e50-ab91-b26b4fac6717</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>treeitem</value>
-      <webElementGuid>1c036311-6433-4d04-a00d-e17990b1c722</webElementGuid>
+      <value>gridcell</value>
+      <webElementGuid>28ab3429-ca1c-40b2-a3a0-341f981e8221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>63bfec87-4e7d-47ed-be3e-075acf2b4e09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-label</value>
-      <webElementGuid>2978df8a-95b9-4da0-84c4-f980969a880a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>f?p=1001:12:3300956911229:::12::</value>
-      <webElementGuid>8450855e-de3f-4985-b2d2-4833c57a3334</webElementGuid>
+      <value>a-GV-cell u-tS is-focused</value>
+      <webElementGuid>7554a28e-0f31-4c66-8839-162fbf6150d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-level</name>
+      <name>aria-labelledby</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>7a4e5f87-c48b-41cb-abad-14734f59d1dc</webElementGuid>
+      <value>oItemsSodJdbcIg_ig_grid_vc_ctx OBJECT_ITEM_NAME_HDR oItemsSodJdbcIg_ig_grid_vc_cur</value>
+      <webElementGuid>bc8caaf0-96d0-454c-9877-70a4ccbd7210</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-selected</name>
+      <name>id</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>1c0804b5-1ba1-4276-8571-c310e18007ca</webElementGuid>
+      <value>oItemsSodJdbcIg_ig_grid_vc_cur</value>
+      <webElementGuid>d1c2ad8d-12a2-43c1-84b0-40d8d32bbf40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Environment</value>
-      <webElementGuid>d6d6e631-e574-4580-9640-5ab17b97c51d</webElementGuid>
+      <value>Description</value>
+      <webElementGuid>a3692aff-b861-4f02-b295-769b3098bd80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_242&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>a8cafd01-189f-4cd2-9dcb-f818ebe9aa42</webElementGuid>
+      <value>id(&quot;oItemsSodJdbcIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>ca5b7a4d-70d4-40df-8237-c2a03706b665</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:12:3300956911229:::12::' and (text() = 'Manage Environment' or . = 'Manage Environment')]</value>
-      <webElementGuid>040a87fb-7ed7-4996-9a5f-4c8d4f744979</webElementGuid>
+      <value>//td[(text() = 'Description' or . = 'Description')]</value>
+      <webElementGuid>01f6c0ca-0937-41cb-a949-66ef5e210732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='oItemsSodJdbcIg_ig_grid_vc_cur']</value>
+      <webElementGuid>7282ec7b-4d92-4fe6-b3e2-a492f8b82066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_242']/div[2]/a</value>
-      <webElementGuid>b19dccea-f61c-42da-9153-cd116c4d6d81</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>(//a[contains(text(),'Manage Environment')])[2]</value>
-      <webElementGuid>64f4ab90-7e5e-4e77-82d9-8422e3c3834c</webElementGuid>
+      <value>//div[@id='oItemsSodJdbcIg_ig_grid_vc']/div[2]/div[4]/table/tbody/tr[4]/td[5]</value>
+      <webElementGuid>cff6cc00-ae37-424e-9172-956fd4b4b3a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Company'])[1]/following::a[1]</value>
-      <webElementGuid>3eb8ef5c-563c-463a-8dd8-f603b9e1fdf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/following::td[1]</value>
+      <webElementGuid>595efa05-a42a-4a23-8c3e-01da6f9f44a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Settings'])[1]/following::a[2]</value>
-      <webElementGuid>cfbc9872-a52f-4617-8a0b-e8bc6ec8dabc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPS.XXSP_ATTRIBUTE_EBSAPPL_V'])[4]/following::td[2]</value>
+      <webElementGuid>03ec65e9-9918-44f8-9b75-432783bf12b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cross Data Sources'])[1]/preceding::a[1]</value>
-      <webElementGuid>eacfd163-46f1-420d-90bd-432bf3215477</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/preceding::td[1]</value>
+      <webElementGuid>185f5853-f40d-4441-aa8e-375c298d4e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Security Positions'])[1]/preceding::a[2]</value>
-      <webElementGuid>874d2392-1a2c-4c36-b9e6-1c1d5e920e3d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FSOD.FSOD_ATTRIBUTE_ALL'])[4]/preceding::td[3]</value>
+      <webElementGuid>3fca9027-75a5-4d8e-800e-273ac4d67c13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:12:3300956911229:::12::')]</value>
-      <webElementGuid>654be228-0d7b-42d5-8fba-545d9ef12cdb</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Description']/parent::*</value>
+      <webElementGuid>4520bd4b-4a07-482c-a490-62928edd0886</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/ul/li/ul/li[2]/div[2]/a</value>
-      <webElementGuid>47895017-eaf5-4084-9684-cd8f5e96cd9b</webElementGuid>
+      <value>//tr[4]/td[5]</value>
+      <webElementGuid>f4ba8bbb-9977-438a-a8dd-ac4c870c8c3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

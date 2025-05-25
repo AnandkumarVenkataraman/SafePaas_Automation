@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DTP_Objects</description>
+   <name>DTP_Objects - Ignore</name>
+   <tag>DTP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>029c76a8-af97-4234-a98f-d5f9e98b48bf</testCaseGuid>
+</TestCaseEntity>

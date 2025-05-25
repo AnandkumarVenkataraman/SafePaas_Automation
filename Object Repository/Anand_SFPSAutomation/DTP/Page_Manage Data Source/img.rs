@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>e8275fa2-0acf-4d62-a0b5-aed3f148d49c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tL > span > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = 'r/ferm/files/static/v52/spinner_report.gif']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Data view of Manage Data Source&quot;i >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>12f24f93-2e70-4972-8b20-474fe1ced4ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>r/ferm/files/static/v52/spinner_report.gif</value>
+      <webElementGuid>1f024b7b-a404-4b1b-acb6-c77118be010c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>47b9c801-edec-45dd-bdf4-ef47e8374295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;119140694016328613_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/span[1]/img[1]</value>
+      <webElementGuid>c18f0daa-9577-47e8-8e76-cb309deac20b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'r/ferm/files/static/v52/spinner_report.gif']</value>
+      <webElementGuid>36233ba1-9118-4d66-8bf7-2e9c0e7ec3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='119140694016328613_orig']/tbody/tr[2]/td[7]/span/img</value>
+      <webElementGuid>1fc5d5cb-342d-484e-94ec-d171441457d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/span/img</value>
+      <webElementGuid>7a4feb2d-7b6a-48f1-b8ce-3d79afebbd7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

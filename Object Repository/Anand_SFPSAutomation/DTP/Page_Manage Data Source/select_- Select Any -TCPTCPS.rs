@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select Any -TCPTCPS</name>
+   <tag></tag>
+   <elementGuidId>c502090c-65c5-4fab-a22a-7882f1bf8510</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P4_CONNECTION_PROTOCOL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P4_CONNECTION_PROTOCOL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Connection Protocol&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7d42efeb-0687-4e86-badc-4255caff2ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P4_CONNECTION_PROTOCOL</value>
+      <webElementGuid>add16fb9-78c0-4fa6-9037-87395bad5a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P4_CONNECTION_PROTOCOL</value>
+      <webElementGuid>1197a935-8ac2-48c6-98cb-2104471e11f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>004724d3-8336-4ee5-a111-f6b77f172545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>84f69af1-d8bb-412a-b0aa-bc5c8edc513a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>93ea5cfc-3788-409c-9f5d-4b17dd63e7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select Any -
+TCP
+TCPS
+</value>
+      <webElementGuid>2cc7ef72-cb06-48f0-a3dc-cc4d32f6c6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P4_CONNECTION_PROTOCOL&quot;)</value>
+      <webElementGuid>95b17460-f8cc-41b0-bea7-9f0d790ddf3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P4_CONNECTION_PROTOCOL' and (text() = '- Select Any -
+TCP
+TCPS
+' or . = '- Select Any -
+TCP
+TCPS
+')]</value>
+      <webElementGuid>82349945-d6fa-4fec-b88c-b1d84afb6297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P4_CONNECTION_PROTOCOL']</value>
+      <webElementGuid>843e6f7d-9732-4fc0-a2ee-31a0945457b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P4_CONNECTION_PROTOCOL_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>565c033e-084f-4fe8-9947-ffb8a4b33c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connection Protocol'])[1]/following::select[1]</value>
+      <webElementGuid>58b691ae-6514-4bc6-b9ce-1d6bd0f2be65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Protocol'])[1]/following::select[2]</value>
+      <webElementGuid>42f97072-8fb4-4331-a966-9cd6e51d2e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OAuth Authentication'])[1]/preceding::select[1]</value>
+      <webElementGuid>df17065a-3197-4acb-9714-1fdbecaa3c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OAuth URI'])[1]/preceding::select[2]</value>
+      <webElementGuid>98c30981-fcf8-4983-8f84-5168c4c3a081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div[2]/div/select</value>
+      <webElementGuid>708a1bda-3eac-473b-9e52-62f7090b7dde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

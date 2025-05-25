@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_DataProbe</name>
+   <name>span_Breadcrumb_t-Icon</name>
    <tag></tag>
-   <elementGuidId>27faaa29-3a96-4674-9f9f-c38a1d6ac514</elementGuidId>
+   <elementGuidId>8938ce02-2b65-4b76-a066-4b13d38f6226</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>div.t-Alert-icon > span.t-Icon</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//div[(text() = 'DataProbe' or . = 'DataProbe')])[2]</value>
+         <value>//div[@id='t_Alert_Success']/div/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Products&quot;i >> div >> internal:has-text=&quot;DataProbe&quot;i</value>
+         <value>#t_Alert_Success span >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,39 +28,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>694ee15d-f72d-4aca-b35a-11c67abd6d8c</webElementGuid>
+      <value>span</value>
+      <webElementGuid>2aaf2d47-2915-4e64-835a-3bfc8b40fd0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>apex-item-option</value>
-      <webElementGuid>41475581-5889-4146-b821-171bfefb45d3</webElementGuid>
+      <value>t-Icon</value>
+      <webElementGuid>8de22d5e-d3cd-4337-9d4e-43d61f862d64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>DataProbe</value>
-      <webElementGuid>6d843803-361e-42f7-b16c-d337bb2cca28</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P15_LICENSE_PRODUCTS&quot;)/div[@class=&quot;apex-item-option&quot;]</value>
-      <webElementGuid>f344c4e9-518e-412c-ba87-15532e99ea9d</webElementGuid>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-icon&quot;]/span[@class=&quot;t-Icon&quot;]</value>
+      <webElementGuid>e5379cc8-577e-4f1c-a41a-72e6fce43392</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[(text() = 'DataProbe' or . = 'DataProbe')]</value>
-      <webElementGuid>1b44d919-5eee-4a8f-9cb1-0a04af6eac22</webElementGuid>
+      <value>//div[@id='t_Alert_Success']/div/div/span</value>
+      <webElementGuid>b1415f78-f65b-49a9-97c5-5241ec3065e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/span</value>
+      <webElementGuid>3d8ff288-a202-4fdc-bb51-9baa30bd68a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

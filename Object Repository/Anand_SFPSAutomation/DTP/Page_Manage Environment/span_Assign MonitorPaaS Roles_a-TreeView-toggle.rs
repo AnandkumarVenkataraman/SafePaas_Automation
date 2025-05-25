@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_DataProbe</name>
+   <name>span_Assign MonitorPaaS Roles_a-TreeView-toggle</name>
    <tag></tag>
-   <elementGuidId>27faaa29-3a96-4674-9f9f-c38a1d6ac514</elementGuidId>
+   <elementGuidId>ed51d53e-ddec-43fd-a1c6-69e0d1722fbd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>#t_TreeNav_2 > span.a-TreeView-toggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//div[(text() = 'DataProbe' or . = 'DataProbe')])[2]</value>
+         <value>//li[@id='t_TreeNav_2']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Products&quot;i >> div >> internal:has-text=&quot;DataProbe&quot;i</value>
+         <value>li >> internal:has-text=&quot;DataProbeManage SnapshotSFTP File ExplorerSetupManage Data SourceManage ObjectMa&quot;i >> span >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,39 +28,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>694ee15d-f72d-4aca-b35a-11c67abd6d8c</webElementGuid>
+      <value>span</value>
+      <webElementGuid>4b85918a-1515-4985-a33e-1d01d72f4a28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>apex-item-option</value>
-      <webElementGuid>41475581-5889-4146-b821-171bfefb45d3</webElementGuid>
+      <value>a-TreeView-toggle</value>
+      <webElementGuid>8d9cf4a0-0949-47e1-ac51-906f1b9e532e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>DataProbe</value>
-      <webElementGuid>6d843803-361e-42f7-b16c-d337bb2cca28</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P15_LICENSE_PRODUCTS&quot;)/div[@class=&quot;apex-item-option&quot;]</value>
-      <webElementGuid>f344c4e9-518e-412c-ba87-15532e99ea9d</webElementGuid>
+      <value>id(&quot;t_TreeNav_2&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      <webElementGuid>86e72222-7857-4186-97d2-49ddf3d6e6bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[(text() = 'DataProbe' or . = 'DataProbe')]</value>
-      <webElementGuid>1b44d919-5eee-4a8f-9cb1-0a04af6eac22</webElementGuid>
+      <value>//li[@id='t_TreeNav_2']/span</value>
+      <webElementGuid>514a4b1e-e06b-4042-ab02-ca38b3ad6cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>c4f2ff5b-4203-44c1-a6d5-72b8c7f35aa7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
