@@ -20,6 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_Spring 2025_P101_COMPANY'), 'KAT')
 

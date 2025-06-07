@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>01feaccb-809c-42b8-8daa-7a9b8c3f3b91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ig-simple-checkbox.checkbox_group.apex-item-checkbox > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='oItemsSodJdbcIg_ig_grid_vc_cur']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 8.&quot;i >> label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f0ff8cde-4963-4eb4-bab3-2dac6f9f4e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>C174478666237634419_1_0</value>
+      <webElementGuid>dc21f6c7-866e-4a1b-b99f-4702c48ac109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oItemsSodJdbcIg_ig_grid_vc_cur&quot;)/div[@class=&quot;ig-simple-checkbox checkbox_group apex-item-checkbox&quot;]/label[1]</value>
+      <webElementGuid>8eaf9ea1-38fd-4bbb-9d90-2e1ff30c7bc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='oItemsSodJdbcIg_ig_grid_vc_cur']/div/label</value>
+      <webElementGuid>fbb22037-a20b-4dfb-aa08-7ababa4ce35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/label</value>
+      <webElementGuid>86b2ff7f-6e0e-469c-bbdf-0d22cae836ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

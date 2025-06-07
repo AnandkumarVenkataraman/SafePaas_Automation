@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 rows selectedPage rows Total 6</name>
+   <tag></tag>
+   <elementGuidId>59ecd141-dde5-44d7-9ab0-6d58ad0261a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-GV-footer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '1 rows selectedPage rows Total 6' or . = '1 rows selectedPage rows Total 6')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1 rows selectedPage rows Total 6&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cdb77ce9-7c8a-460c-96bd-29ad0f49c127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-footer</value>
+      <webElementGuid>56485d1a-8ef0-4164-85e0-18671e867d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 rows selectedPage rows Total 6</value>
+      <webElementGuid>65909a97-56d6-41ff-a7d7-d1f3fe415929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oItemsSodJdbcIg_ig_grid_vc&quot;)/div[@class=&quot;a-GV-footer&quot;]</value>
+      <webElementGuid>f159a4d4-f01e-4b88-9d9a-7246672c0f5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 rows selectedPage rows Total 6' or . = '1 rows selectedPage rows Total 6')]</value>
+      <webElementGuid>8898a241-140a-4a91-bc4c-707f92b6680f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oItemsSodJdbcIg_ig_grid_vc']/div[4]</value>
+      <webElementGuid>fe97f772-225f-4080-b323-cdd69645a455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[12]/following::div[4]</value>
+      <webElementGuid>933a668b-b9b9-4fd9-9ef4-7bd5796ddf68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISPLAY_NAME'])[2]/following::div[4]</value>
+      <webElementGuid>3c1c03ed-3973-42d0-8a77-db76c3b025ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]</value>
+      <webElementGuid>0f2b9fec-e47e-43cf-9755-d19673650f5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Object Sets</name>
+   <tag></tag>
+   <elementGuidId>b9c41b41-61c5-492c-80e3-b106ca419462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#C133753370170118524 > a.a-IRR-headerLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Object Sets' or . = 'Object Sets')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\31 22864437533293003&quot;] >> internal:text=&quot;Object Sets&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eb0419d0-7947-4874-b3f9-e6c8a1768801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>3403aba1-8ee6-4872-9981-5c49a43b62aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>133753370170118524</value>
+      <webElementGuid>cec59d79-daea-406c-9192-7b497c503798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>04cacff9-c0fc-4fda-a9c9-48513f73505a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Object Sets</value>
+      <webElementGuid>cf0dc8d3-a617-442c-9604-1c7b68fb8d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;122864437533293003&quot;)/tr[1]/th[@id=&quot;C133753370170118524&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>c2766cd2-ce52-4886-97e4-30b4bfad1e91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Object Sets' or . = 'Object Sets')]</value>
+      <webElementGuid>bcaa090d-ce79-4022-b053-9bf043d27c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C133753370170118524']/a</value>
+      <webElementGuid>1aca416f-9e23-4811-822e-45338c1e39da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Object Sets')]</value>
+      <webElementGuid>bb564bf0-cb5b-4c25-a6b1-9af5c08d5481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Name'])[1]/following::a[1]</value>
+      <webElementGuid>ed239809-56b8-4b12-b983-9af8a85cf32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[3]/following::a[2]</value>
+      <webElementGuid>0d1eff83-b1f0-464c-9cab-3007c54aabfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tab names'])[1]/preceding::a[1]</value>
+      <webElementGuid>088c553b-ab23-477c-8948-c8a03a8d09d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trigger SQL'])[1]/preceding::a[2]</value>
+      <webElementGuid>a6b89c7a-757b-4875-96b4-48d18fe441b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Object Sets']/parent::*</value>
+      <webElementGuid>c831aa70-b6a8-48f2-9d9c-7108551bb189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/a</value>
+      <webElementGuid>603fb44e-39cb-4300-b51f-94c8ab350229</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select an Environment -Coupa_Env1E_bcbb9d</name>
+   <tag></tag>
+   <elementGuidId>5ab1da44-cef9-46bb-8277-2e0f08920edd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P100_ENVIRONMENT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P100_ENVIRONMENT' and (text() = '- Select an Environment -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_ENV2
+SailPoint_Env
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+' or . = '- Select an Environment -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_ENV2
+SailPoint_Env
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Environment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7d99c8ae-e883-4032-ab1f-cacccef28ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P100_ENVIRONMENT</value>
+      <webElementGuid>dfea7d88-6d28-4e44-88a3-d0c7a4e3e547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P100_ENVIRONMENT</value>
+      <webElementGuid>4264a34a-ddf2-40e6-a4e6-118ffbe1e435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>ae0db0ef-a7dd-41b8-920e-35a22445e8ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>988799fd-3859-47b7-9686-d702ae8362cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b0440a7b-7c48-4523-b15d-79b32e264bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P100_ENVIRONMENT');</value>
+      <webElementGuid>b86d6d4d-f629-47ec-aada-65b39454d355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select an Environment -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_ENV2
+SailPoint_Env
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+</value>
+      <webElementGuid>482bcb0d-8721-49fc-aefd-d7ec67479200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P100_ENVIRONMENT&quot;)</value>
+      <webElementGuid>bc314710-2518-4c7b-a4d2-dd41e3cb13fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P100_ENVIRONMENT' and (text() = '- Select an Environment -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_ENV2
+SailPoint_Env
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+' or . = '- Select an Environment -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_ENV2
+SailPoint_Env
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+')]</value>
+      <webElementGuid>4560db11-d3ab-4051-8fcd-15d73d170fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P100_ENVIRONMENT']</value>
+      <webElementGuid>69cdb4e6-857e-400a-b556-2d0baaec25a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P100_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>de178528-c0c5-4d1b-949e-0f456cdba66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[1]</value>
+      <webElementGuid>a90aa1af-f434-4e79-920e-9b1e6b356661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::select[1]</value>
+      <webElementGuid>3e41febe-7513-4a61-80b9-e650c627048f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Type Version'])[1]/preceding::select[1]</value>
+      <webElementGuid>6b9dbaca-e5e2-44b8-bf0b-63ba4fe2cfc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle Cloud ERP 20x'])[1]/preceding::select[1]</value>
+      <webElementGuid>01e4d245-80b8-416e-b0c7-6d13e7114157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1af4ea82-5419-4463-b1b3-9e08d9d58371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

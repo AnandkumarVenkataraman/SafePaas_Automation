@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Security</name>
+   <tag></tag>
+   <elementGuidId>fbb9cec5-3b16-41b5-b0b3-938cb4f28981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P10_OBJ_USAGE > div.apex-item-grid.radio_group > div.apex-item-grid-row > div.apex-item-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Security' or . = 'Security')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Security$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09af7ae2-013e-4758-86ec-c5e2aba0ce22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-item-option</value>
+      <webElementGuid>ca6df3d5-96c2-4710-9764-452144a43f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Security</value>
+      <webElementGuid>4266ff67-cb99-4848-aaf7-00f61922769d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_OBJ_USAGE&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]</value>
+      <webElementGuid>c41ccdd2-f287-48a2-9986-23eb99c53eb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Security' or . = 'Security')]</value>
+      <webElementGuid>650c93e2-f16e-49a4-9ef2-d4c0cd08e1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P10_OBJ_USAGE']/div/div/div</value>
+      <webElementGuid>fe6bdbd9-b122-4fe7-a3e8-c1d6aa579420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::div[6]</value>
+      <webElementGuid>154bc0eb-18c6-473f-a74d-cdc6bcb9949c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticketing'])[1]/preceding::div[1]</value>
+      <webElementGuid>3c5c7aec-4f49-4d94-816d-573f24197f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>496e89eb-6808-41a2-985c-078f62cab1a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
