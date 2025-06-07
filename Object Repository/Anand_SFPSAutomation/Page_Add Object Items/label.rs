@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>f0ff8cde-4963-4eb4-bab3-2dac6f9f4e35</webElementGuid>
+      <webElementGuid>c7bcf29c-fd5d-4c6c-80d6-7bfd9134a018</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>C174478666237634419_1_0</value>
-      <webElementGuid>dc21f6c7-866e-4a1b-b99f-4702c48ac109</webElementGuid>
+      <webElementGuid>ef0e6a1f-a10b-4fc7-b71c-66efc0591d70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oItemsSodJdbcIg_ig_grid_vc_cur&quot;)/div[@class=&quot;ig-simple-checkbox checkbox_group apex-item-checkbox&quot;]/label[1]</value>
-      <webElementGuid>8eaf9ea1-38fd-4bbb-9d90-2e1ff30c7bc0</webElementGuid>
+      <webElementGuid>a7d250c3-6cb0-4d4b-8d3a-cb7462d0a5e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='oItemsSodJdbcIg_ig_grid_vc_cur']/div/label</value>
-      <webElementGuid>fbb22037-a20b-4dfb-aa08-7ababa4ce35d</webElementGuid>
+      <webElementGuid>e91801d9-43d2-4f5e-a66b-26b65df6f3c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/label</value>
-      <webElementGuid>86b2ff7f-6e0e-469c-bbdf-0d22cae836ab</webElementGuid>
+      <webElementGuid>8cef5bb3-1ce7-4c18-b518-7eb43e226978</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

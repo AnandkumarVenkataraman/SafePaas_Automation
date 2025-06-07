@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>49c38c4c-8e8e-4ce1-addb-6dbaa2c5b69d</webElementGuid>
+      <webElementGuid>5a0c7984-746e-4a4a-81bf-6bd9be20324e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-radio</value>
-      <webElementGuid>89fe220c-0395-4571-a9c1-c7c3da2a87c0</webElementGuid>
+      <webElementGuid>2eef4fc7-03e5-45ea-b0a6-c661bda29e59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>for</name>
       <type>Main</type>
       <value>P10_OBJ_TYPE_1</value>
-      <webElementGuid>cd4c22b1-50b7-4fc5-adb4-42b821583b31</webElementGuid>
+      <webElementGuid>a7808c69-0e4b-41bb-b6aa-be9f7cd3b2ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>JDBC</value>
-      <webElementGuid>abbef5eb-a553-4032-b58f-b7e09b92142e</webElementGuid>
+      <webElementGuid>6be74114-aa31-4dbe-96ee-21f62d8beed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P10_OBJ_TYPE&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
-      <webElementGuid>b8631226-8bcc-4086-b2e2-aa530e6ef01a</webElementGuid>
+      <webElementGuid>7bb84bad-6bfa-46e9-9c49-9e6ffa415caa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'JDBC' or . = 'JDBC')]</value>
-      <webElementGuid>301e1435-3d1c-4074-828e-652991c8077c</webElementGuid>
+      <webElementGuid>737b5afd-3073-45b6-8a1f-a45209a87ff1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P10_OBJ_TYPE']/div/div/div[2]/label</value>
-      <webElementGuid>6e4dfc10-d336-4b9e-b57f-2a0274d2a920</webElementGuid>
+      <webElementGuid>d8de2d48-67ba-4656-b51d-a3f8cad2de13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud'])[1]/following::label[1]</value>
-      <webElementGuid>a4d19d49-6531-458a-8656-1fe55e90b20a</webElementGuid>
+      <webElementGuid>b2478c9c-d358-450d-9c77-5ef2e5954b05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[4]/following::label[2]</value>
-      <webElementGuid>0f00f250-ef14-4873-b5ba-cfbec6d81771</webElementGuid>
+      <webElementGuid>c3645f94-5140-426f-a03e-c6483ea85aea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP'])[1]/preceding::label[1]</value>
-      <webElementGuid>807fcc4e-2e74-4322-bec3-62824f6bb60c</webElementGuid>
+      <webElementGuid>fc87978b-01e0-4d4d-b967-dedfe3c5c104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Local File'])[1]/preceding::label[2]</value>
-      <webElementGuid>17e53b7b-a970-498f-bd1a-15653f0e24ee</webElementGuid>
+      <webElementGuid>2d3991de-d4e6-44e5-b27c-c94af4274b39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='JDBC']/parent::*</value>
-      <webElementGuid>43e0ecda-4ccd-4e18-87c4-5696d022dd2e</webElementGuid>
+      <webElementGuid>b515ed32-0bd2-4b17-ae9a-7b7803466f13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div[2]/div/div/div/div/div[2]/label</value>
-      <webElementGuid>e8be2df6-e106-4742-ae0f-6834d1f84e50</webElementGuid>
+      <webElementGuid>0123d633-c93b-400f-8930-8ee4d91aa536</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

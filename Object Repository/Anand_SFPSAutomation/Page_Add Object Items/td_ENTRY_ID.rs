@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>19b6e690-4bc1-4905-9197-a149fcd83952</webElementGuid>
+      <webElementGuid>8c68b115-e135-4853-978d-6d5dde4f63b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>cc523cc6-6d40-4e9d-acc7-125e916c59cd</webElementGuid>
+      <webElementGuid>c002017d-4839-4825-80f2-f959557a0de1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>25e28019-6343-4ec3-9b4a-bd3317e5ae69</webElementGuid>
+      <webElementGuid>e664e26f-d9a9-48e1-8dec-a07721d43fc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tE is-focused</value>
-      <webElementGuid>c898a266-0af6-407a-83f5-a7df6db145e5</webElementGuid>
+      <webElementGuid>d188b60d-067b-4352-b80d-bbc79408467b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>oItemsSodJdbcIg_ig_grid_vc_ctx C174478385168634416_HDR oItemsSodJdbcIg_ig_grid_vc_cur</value>
-      <webElementGuid>00d45cd7-4177-4d3a-b033-af40bbc8b3d1</webElementGuid>
+      <webElementGuid>2b22a07e-a911-489b-b4c2-d77953861bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>oItemsSodJdbcIg_ig_grid_vc_cur</value>
-      <webElementGuid>e121719a-dd02-4798-a534-82f6edfe41aa</webElementGuid>
+      <webElementGuid>87ec74b1-2425-4e76-97ea-2f0c519e0dd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ENTRY_ID</value>
-      <webElementGuid>bd5b18ec-26c2-4dfb-92ad-49bcd7cb9f51</webElementGuid>
+      <webElementGuid>756faca4-d8c8-47a3-80e4-399577890a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oItemsSodJdbcIg_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>029fc5d5-bdf4-4948-a952-39d74d70c4ae</webElementGuid>
+      <webElementGuid>372f1144-cc3c-4471-812b-89f2ff5ff88c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'ENTRY_ID' or . = 'ENTRY_ID')]</value>
-      <webElementGuid>272a4163-9798-4afd-a5bf-de899f5b4db2</webElementGuid>
+      <webElementGuid>ff5643e1-a4ed-4cff-a579-30410e910976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,63 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='oItemsSodJdbcIg_ig_grid_vc_cur']</value>
-      <webElementGuid>65f5bf27-d8c8-422a-9d21-661b6684febd</webElementGuid>
+      <webElementGuid>1a68f529-4bc7-43c0-9a70-70dc90332a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oItemsSodJdbcIg_ig_grid_vc']/div[2]/div[4]/table/tbody/tr[2]/td[4]</value>
+      <webElementGuid>40b9a817-7e65-446f-b27f-937fad2fb76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPS.XXSP_USERENTRY_EBSAPPL_V'])[2]/following::td[1]</value>
+      <webElementGuid>f006d890-afa7-45f5-a41f-5b794ece744a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::td[4]</value>
+      <webElementGuid>92197794-0486-447e-8f27-b5c661ad5e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry ID'])[1]/preceding::td[1]</value>
+      <webElementGuid>73db5455-ef52-4baf-bf08-2a44d721d5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::td[2]</value>
+      <webElementGuid>e61cb750-c72b-42ea-a9d0-4e47edf9e4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ENTRY_ID']/parent::*</value>
+      <webElementGuid>633caa5c-30f7-4ba4-a1f0-9f9b9b33fcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]</value>
+      <webElementGuid>085147ac-2bcf-4ee7-8c89-a408e682b2bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,24 +188,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry ID'])[1]/preceding::td[1]</value>
-      <webElementGuid>98f6cc28-5d0e-4d08-aaf8-44cced5345e7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[2]</value>
       <webElementGuid>8c5d5475-9818-4f75-8e81-9381c404ced7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='ENTRY_ID']/parent::*</value>
-      <webElementGuid>70768382-d4d0-4186-bc26-9880259551f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

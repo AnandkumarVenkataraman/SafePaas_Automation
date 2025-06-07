@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>ac0e3f3b-1057-4800-a40b-640e4f1b999b</webElementGuid>
+      <webElementGuid>e5cac612-6119-4165-be8c-8bc2a09d33f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>fce8a573-b028-40c9-a63c-d61822587abf</webElementGuid>
+      <webElementGuid>cb9d69de-2d9f-4ee9-b6f3-017a2a37927a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>23b1eb7f-f037-4f96-a4a1-6f35d2406ebe</webElementGuid>
+      <webElementGuid>2e0efba5-beb2-43d6-ac31-49c2b5cfbc5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tE is-focused</value>
-      <webElementGuid>2c85eb5e-861c-40b1-bca5-6dec8b265e52</webElementGuid>
+      <webElementGuid>740ca772-3d6d-4c2b-9a48-3e11e99ed31a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>oItemsSodJdbcIg_ig_grid_vc_ctx SOD_JDBC_DES_TAB_ID_HDR oItemsSodJdbcIg_ig_grid_vc_cur</value>
-      <webElementGuid>62c0b195-04ee-4aed-8514-24e34a655a7c</webElementGuid>
+      <webElementGuid>849e55a9-eb4a-4771-9d60-4ab4c95348d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>oItemsSodJdbcIg_ig_grid_vc_cur</value>
-      <webElementGuid>b1debca7-df48-45a6-91b7-439d249c211e</webElementGuid>
+      <webElementGuid>c28f5ea7-f0ac-4070-9c38-b4ac6b1d4b42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>FSOD.FSOD_ENTRY_ALL</value>
-      <webElementGuid>8222972f-ee55-4e27-bc27-5ca1847f43a9</webElementGuid>
+      <webElementGuid>79cde63f-ae94-4f26-8816-e9b629408de8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oItemsSodJdbcIg_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>9291326e-6147-4a4d-9870-4f8d25572305</webElementGuid>
+      <webElementGuid>a321a3d3-9e49-4762-923b-d98478b2cc43</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'FSOD.FSOD_ENTRY_ALL' or . = 'FSOD.FSOD_ENTRY_ALL')]</value>
-      <webElementGuid>8431d256-0609-4463-93e1-a56a51e571bf</webElementGuid>
+      <webElementGuid>8535a800-23f5-4458-9a22-cbb9ebc88fca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='oItemsSodJdbcIg_ig_grid_vc_cur']</value>
-      <webElementGuid>7e09213d-530d-4b3c-bd39-0e706ab28f97</webElementGuid>
+      <webElementGuid>08cd1d06-ffaf-4cbc-a9b4-10b061064b81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='oItemsSodJdbcIg_ig_grid_vc']/div[2]/div[4]/table/tbody/tr/td[8]</value>
-      <webElementGuid>908ac9ff-0c1e-4c01-a1b0-811ab141ff08</webElementGuid>
+      <webElementGuid>0f6ad923-9a61-4a3a-ba61-b8588df15473</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,71 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::td[2]</value>
-      <webElementGuid>cc1d44b4-77d5-4352-9a72-90eaec59ac3f</webElementGuid>
+      <webElementGuid>1e8b25be-a23e-4d4b-b7f0-0111097b0624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsbility Key'])[1]/following::td[3]</value>
+      <webElementGuid>1c2a39bf-a274-4ee7-a380-adf2300f33b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOURCE_KEY'])[1]/preceding::td[1]</value>
+      <webElementGuid>457e9a1d-05ab-4cbb-bbca-f9ceb77a3425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::td[2]</value>
+      <webElementGuid>60ea2147-28a9-4379-a889-37399da87b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FSOD.FSOD_ENTRY_ALL']/parent::*</value>
+      <webElementGuid>e18f622b-5d80-4fb3-9275-24a145325d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>a44748fb-7a6b-49eb-b1be-6cfeb45e58fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Group ID'])[1]/following::td[3]</value>
+      <webElementGuid>6369e3ca-e337-46ed-b907-1e4f7632f74a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu ID'])[1]/following::td[3]</value>
+      <webElementGuid>eb7ef89f-577b-4f58-8093-e8eb29325d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local Roles Key'])[1]/following::td[3]</value>
+      <webElementGuid>bf893351-ac7b-4a9a-8971-bd78e415dd8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,38 +190,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Source Key'])[1]/following::td[3]</value>
       <webElementGuid>18fd35c0-a185-48ea-bac9-ce54c37ae892</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOURCE_KEY'])[1]/preceding::td[1]</value>
-      <webElementGuid>a23e2ecb-35f5-41cc-916a-a1c23e616c13</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::td[2]</value>
-      <webElementGuid>c7717219-a215-4456-b94d-5b58b2f74c00</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='FSOD.FSOD_ENTRY_ALL']/parent::*</value>
-      <webElementGuid>62483b70-da81-46fb-9cb0-6c0b95a9e908</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[8]</value>
-      <webElementGuid>98c44361-1ab1-4407-ab03-286db5b293b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

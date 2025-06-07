@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GoActionsEditSaveAdd RowSaveReset</name>
+   <tag></tag>
+   <elementGuidId>5b286ca2-f59b-4f57-9641-8df9ea6c6dd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-IG-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'GoActionsEditSaveAdd RowSaveReset' or . = 'GoActionsEditSaveAdd RowSaveReset')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^GoActionsEditSaveAdd RowSaveReset$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8e9e51f-f375-4d92-95c6-3b5556be6247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IG-header</value>
+      <webElementGuid>71578ad0-add7-41ab-b34c-5ed3af901e3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GoActionsEditSaveAdd RowSaveReset</value>
+      <webElementGuid>66fa0b63-123a-48dd-9c3b-5f28bcd3d7d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oItemsSodJdbcIg_ig&quot;)/div[@class=&quot;a-IG-header&quot;]</value>
+      <webElementGuid>f8f1f8bc-89fc-493d-b45b-4420ef30e892</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GoActionsEditSaveAdd RowSaveReset' or . = 'GoActionsEditSaveAdd RowSaveReset')]</value>
+      <webElementGuid>bea4843a-e377-4d66-8bb5-4b64a492b2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oItemsSodJdbcIg_ig']/div[3]</value>
+      <webElementGuid>b4f42003-76f7-4181-a62e-b243bd71c251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Object Items based on SOD (JDBC)'])[1]/following::div[12]</value>
+      <webElementGuid>1a45ebc6-7912-4ca7-a35e-c42a39d9276d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Changes'])[1]/following::div[23]</value>
+      <webElementGuid>f7785fdf-a4d1-4401-9699-b898261a005f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div/div[3]</value>
+      <webElementGuid>eeebe685-e66f-4a00-975b-5fcf56d9d91a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
