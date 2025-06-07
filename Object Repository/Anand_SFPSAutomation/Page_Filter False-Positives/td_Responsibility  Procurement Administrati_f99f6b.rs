@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Responsibility  Procurement Administrati_f99f6b</name>
+   <tag></tag>
+   <elementGuidId>90d3ba7e-fc26-41e3-bd1f-a8cd73b20220</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Responsibility : Procurement Administration->Menu : ADS PO Administration->Menu : ADS PO ADMIN Setup->Menu : AP_SETUP_GUI12->Menu : AP_SETUP_PAYMENT_GUI12->Menu : CE Bank Search Home Page Menu->Menu : ICX_STANDARD_GLOBAL_MENU->Menu : Pref Menu SideBar->Menu : General Pref Menu->Function : Manage Proxies Page' or . = 'Responsibility : Procurement Administration->Menu : ADS PO Administration->Menu : ADS PO ADMIN Setup->Menu : AP_SETUP_GUI12->Menu : AP_SETUP_PAYMENT_GUI12->Menu : CE Bank Search Home Page Menu->Menu : ICX_STANDARD_GLOBAL_MENU->Menu : Pref Menu SideBar->Menu : General Pref Menu->Function : Manage Proxies Page')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Responsibility : Procurement Administration->Menu : ADS PO Administration->Menu : ADS PO ADMIN Setup->Menu : AP_SETUP_GUI12->Menu : AP_SETUP_PAYMENT_GUI12->Menu : CE Bank Search Home Page Menu->Menu : ICX_STANDARD_GLOBAL_MENU->Menu : Pref Menu SideBar->Menu : General Pref Menu->Function : Manage Proxies Page&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ed35069d-d7f5-4030-9629-23f4fa83ed30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>19208913-5aaa-4638-8590-a07398797625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C145576213828330209</value>
+      <webElementGuid>ff55beca-0edf-4307-b130-b7151d0d125f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responsibility : Procurement Administration->Menu : ADS PO Administration->Menu : ADS PO ADMIN Setup->Menu : AP_SETUP_GUI12->Menu : AP_SETUP_PAYMENT_GUI12->Menu : CE Bank Search Home Page Menu->Menu : ICX_STANDARD_GLOBAL_MENU->Menu : Pref Menu SideBar->Menu : General Pref Menu->Function : Manage Proxies Page</value>
+      <webElementGuid>2a364c83-6155-4595-b0d5-87d084896a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;145575447502330201_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>78e1e62b-9943-4f39-a21d-e2274542cba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Responsibility : Procurement Administration->Menu : ADS PO Administration->Menu : ADS PO ADMIN Setup->Menu : AP_SETUP_GUI12->Menu : AP_SETUP_PAYMENT_GUI12->Menu : CE Bank Search Home Page Menu->Menu : ICX_STANDARD_GLOBAL_MENU->Menu : Pref Menu SideBar->Menu : General Pref Menu->Function : Manage Proxies Page' or . = 'Responsibility : Procurement Administration->Menu : ADS PO Administration->Menu : ADS PO ADMIN Setup->Menu : AP_SETUP_GUI12->Menu : AP_SETUP_PAYMENT_GUI12->Menu : CE Bank Search Home Page Menu->Menu : ICX_STANDARD_GLOBAL_MENU->Menu : Pref Menu SideBar->Menu : General Pref Menu->Function : Manage Proxies Page')]</value>
+      <webElementGuid>3bfdec0f-2f01-441f-80cc-880b6cc55cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='145575447502330201_orig']/tbody/tr[2]/td[3]</value>
+      <webElementGuid>dab09673-fe5b-4327-8672-2f1a40df4536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle eBusiness Suite'])[1]/following::td[1]</value>
+      <webElementGuid>54c4f6b1-361f-4d62-b53e-a821446a9b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Type'])[1]/following::td[3]</value>
+      <webElementGuid>0782c174-fd7b-4224-9eeb-fbcf8bf9ed8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FND_MANAGE_PROXIES'])[1]/preceding::td[1]</value>
+      <webElementGuid>029488b9-c8d8-48f1-98fe-1ad66197204e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Function'])[1]/preceding::td[2]</value>
+      <webElementGuid>25fe3613-8aff-4ed6-991e-a6a349a7d775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Responsibility : Procurement Administration->Menu : ADS PO Administration->Menu : ADS PO ADMIN Setup->Menu : AP_SETUP_GUI12->Menu : AP_SETUP_PAYMENT_GUI12->Menu : CE Bank Search Home Page Menu->Menu : ICX_STANDARD_GLOBAL_MENU->Menu : Pref Menu SideBar->Menu : General Pref Menu->Function : Manage Proxies Page']/parent::*</value>
+      <webElementGuid>49f238eb-cf20-420b-add5-d67aac22ec6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>0b869d1b-5a8f-47c1-9b35-eab459b27379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

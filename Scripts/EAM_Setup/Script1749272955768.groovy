@@ -126,3 +126,54 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/a_Ma
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_concat(Row text contains , , EBiz_3,_e7827b'))
 
+//Filter False-Positives
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/span_SOD Review Survey_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/a_Manage Rules'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Select any oneCoupa_Env1EBizApp_JDBC_255a00'),
+	2)
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/div_GoActionsNo data found'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Filter False - Positives'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Toggle - Attributes'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/td_ADS_DEV'),
+	20)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/td_ADS Development'),
+	20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Toggle - Attributes'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Entries'))
+WebUI.delay(3)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Toggle - Entries'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/input_Report Settings_control_588075250577576698'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Toggle - Users'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/td_Responsibility  Procurement Administrati_f99f6b'),
+	20)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/td_FND_MANAGE_PROXIES'),
+	20)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/td_Function'),
+	20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Toggle - Attributes'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Users'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/td_CLU'),
+	20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/label_Toggle - Attributes'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Filter False-Positives/button_Cancel'))
+

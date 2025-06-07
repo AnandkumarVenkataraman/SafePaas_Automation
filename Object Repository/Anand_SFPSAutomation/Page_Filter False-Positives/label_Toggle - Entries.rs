@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Toggle - Entries</name>
+   <tag></tag>
+   <elementGuidId>24404a16-e64b-435a-94de-8637ba19f238</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[(text() = 'Toggle' or . = 'Toggle')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.a-IRR-controlsCheckboxLabel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Report settings of Attributes&quot;i >> label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a23b4073-8279-4a00-950f-2e337101f3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>control_588075068010576696</value>
+      <webElementGuid>a649876a-af00-4e08-a44e-f863d72c4556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-controlsCheckboxLabel</value>
+      <webElementGuid>b3d51e4b-f3b6-441e-a00b-fc12567a8bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toggle</value>
+      <webElementGuid>7dbc7b4f-c826-4f55-ae36-dbec88f03516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a_Collapsible3_aRep_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]/span[@class=&quot;a-IRR-controls-cell&quot;]/label[@class=&quot;a-IRR-controlsCheckboxLabel&quot;]</value>
+      <webElementGuid>14276772-cf62-423e-ae21-639c6571bb15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Toggle' or . = 'Toggle')]</value>
+      <webElementGuid>eca4919d-48c0-467d-b239-bbafe47fe161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible3_aRep_control_panel_content']/ul/li/span/label</value>
+      <webElementGuid>7921ef9b-dd2b-4db4-9dd5-5690911e8c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Settings'])[1]/following::label[1]</value>
+      <webElementGuid>bee9d6c5-bfba-4eed-b5af-fdaf72526cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclude / Unexclude All'])[1]/following::label[1]</value>
+      <webElementGuid>703d86ce-8109-44e8-bd71-5c574a9d5a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::label[1]</value>
+      <webElementGuid>27c6a9a3-1db6-4cb7-bdc2-8d6e08be2a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/label</value>
+      <webElementGuid>d4af44fd-cbd2-4d8e-9d77-033e78fcf499</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
