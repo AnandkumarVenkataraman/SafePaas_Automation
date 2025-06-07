@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_User to Entry</name>
+   <tag></tag>
+   <elementGuidId>cad6e414-dbfa-4ce3-b5de-e2315dd9aad2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sodObjectsIg_ig_grid_vc_cur</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'User to Entry' or . = 'User to Entry')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 4.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d075c1dc-948c-4560-83dd-f3898f168bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>93f00960-6844-4b98-bb74-b62f8d172c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0b2f9941-8251-4d34-8fd8-e3c63328e909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-readonly is-focused</value>
+      <webElementGuid>355bf65d-adcb-4e60-8146-0525c22436fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>sodObjectsIg_ig_grid_vc_ctx C144929019790910947_HDR sodObjectsIg_ig_grid_vc_cur</value>
+      <webElementGuid>b3c57c31-97a2-41a5-8f9f-57f0d2f9c599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sodObjectsIg_ig_grid_vc_cur</value>
+      <webElementGuid>78075396-7904-4be0-b9ec-dedc5131168c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User to Entry</value>
+      <webElementGuid>24c00c80-ca4a-4525-a44d-0194b43fbcef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sodObjectsIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>aa0d97f8-ecf3-41fc-a1a2-c95dcb8860ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'User to Entry' or . = 'User to Entry')]</value>
+      <webElementGuid>1edb120c-191b-443a-a5a6-5de9c799cef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='sodObjectsIg_ig_grid_vc_cur']</value>
+      <webElementGuid>e3c19e87-1208-42f1-af43-fbae64339551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sodObjectsIg_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[10]/td[3]</value>
+      <webElementGuid>ba05c243-3a5e-4464-a442-ebf9dd885a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[14]/following::td[3]</value>
+      <webElementGuid>20769fa4-46e1-4bfd-bcad-0540ccbf1ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[13]/following::td[5]</value>
+      <webElementGuid>64eb256a-c54c-4ab8-91a2-837d1763b6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz_UserEntry_JDBC'])[2]/preceding::td[1]</value>
+      <webElementGuid>c6191b94-7478-42d6-9008-09270e57b4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER_ENTRY'])[1]/preceding::td[2]</value>
+      <webElementGuid>b32e93f7-b47d-4e92-bebe-7eb8619b4734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User to Entry']/parent::*</value>
+      <webElementGuid>7104770b-b1a2-4236-8867-105ebf70f3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[3]</value>
+      <webElementGuid>d5481e53-f66d-47f1-ae22-70f6f206dcc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Entry Attribute</name>
+   <tag></tag>
+   <elementGuidId>833ba03f-6638-433b-9b4d-781467bd05f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sodObjectsIg_ig_grid_vc_cur</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Entry Attribute' or . = 'Entry Attribute')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 4.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cfede071-1727-47df-a704-4a496580f4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>b9f8bee6-ea94-4110-b9e5-f0703cd61748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f1eba159-c475-43e8-a967-0156dfa63ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-readonly is-focused</value>
+      <webElementGuid>fa9864c5-552a-4f57-ac3a-9082603f88c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>sodObjectsIg_ig_grid_vc_ctx C144929019790910947_HDR sodObjectsIg_ig_grid_vc_cur</value>
+      <webElementGuid>248ebdc4-68b8-4cb4-baaf-2b3b4ef3da6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sodObjectsIg_ig_grid_vc_cur</value>
+      <webElementGuid>2f5d26a7-6186-4daa-b751-73dbec6a9c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entry Attribute</value>
+      <webElementGuid>e0b428c3-6383-40eb-a70d-758778dc79fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sodObjectsIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>d8d24e0f-a3fc-4953-8d69-5c1d0debf6c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Entry Attribute' or . = 'Entry Attribute')]</value>
+      <webElementGuid>0d3c6ba7-d58c-4a22-a86a-f3e99d2a1071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='sodObjectsIg_ig_grid_vc_cur']</value>
+      <webElementGuid>07b74e64-8bf1-4cd9-95c4-55111b89ddc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sodObjectsIg_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[12]/td[3]</value>
+      <webElementGuid>ffdbfba3-3b6a-4404-a4c8-6a960be70275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[18]/following::td[3]</value>
+      <webElementGuid>4cb10b4d-58c7-45ce-81db-876266bcb756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[17]/following::td[5]</value>
+      <webElementGuid>94ad164b-0886-446a-add8-0581bd512fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz_EntryAttribute_JDBC'])[2]/preceding::td[1]</value>
+      <webElementGuid>a03fb376-c45a-4eac-a244-1beb422377d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENTRY_ATTRIBUTE'])[1]/preceding::td[2]</value>
+      <webElementGuid>69999705-ed2b-4df6-b7fb-564876755de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entry Attribute']/parent::*</value>
+      <webElementGuid>3216b470-a4c9-4ea1-8d3b-9481392cc106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td[3]</value>
+      <webElementGuid>81a19178-549a-450e-b000-497069a1a726</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
