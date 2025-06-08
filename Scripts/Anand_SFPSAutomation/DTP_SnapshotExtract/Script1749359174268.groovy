@@ -115,5 +115,8 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go'))
 
-WebUI.closeBrowser()
+//Wait for a max. of 1.5 hrs, and verify the Snapshot extract is completed
+
+//Verify the logs
+
 
