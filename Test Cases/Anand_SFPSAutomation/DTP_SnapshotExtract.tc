@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DTP_SnapshotExtract</description>
+   <name>DTP_SnapshotExtract</name>
+   <tag>DTP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>698874bd-2249-4df2-8c72-2fd311f613d4</testCaseGuid>
+</TestCaseEntity>
