@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Depreciation vs. Inventory Rule</name>
+   <tag></tag>
+   <elementGuidId>1feda829-7a61-40d7-a01b-a38e39e81c4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Depreciation vs. Inventory Rule' or . = 'Depreciation vs. Inventory Rule')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P9_DESCRIPTION</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Rules&quot;i >> internal:text=&quot;Depreciation vs. Inventory Rule&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8f0b288-c7e0-47ca-b28f-6a70a907a9e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P9_DESCRIPTION</value>
+      <webElementGuid>44e48619-a4ca-4f5d-ab65-e7d4bc39cf8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>8c017c14-ca48-4582-a60e-5cdcc35bec34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ecd238c7-d21c-4c1b-bdb0-fe9a8a2df50c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Depreciation vs. Inventory Rule</value>
+      <webElementGuid>6f6eb65d-66c9-4381-ae2c-59cc6b877d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P9_DESCRIPTION&quot;)</value>
+      <webElementGuid>e74c60fc-801c-4590-b325-18f987b7d7a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Depreciation vs. Inventory Rule' or . = 'Depreciation vs. Inventory Rule')]</value>
+      <webElementGuid>cb005224-7563-4192-89eb-ba4a283d2e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P9_DESCRIPTION']</value>
+      <webElementGuid>f0fcc293-ea18-4188-b7e1-66a49dc232ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P9_DESCRIPTION_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>a328c581-a074-48f8-8a04-46e265e3055a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revise'])[1]/following::span[2]</value>
+      <webElementGuid>e2c71718-26eb-4eb4-af30-cc7de88ede9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Attributes'])[2]/preceding::span[2]</value>
+      <webElementGuid>f1f1aa0b-4cfe-48b9-9e22-7b7a4a572f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/span</value>
+      <webElementGuid>0b6df5e1-5f3a-48c0-aacf-d9578215fb40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Asset Management</name>
+   <tag></tag>
+   <elementGuidId>5da2784f-5a19-4dd6-8802-9ac488624b93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Asset Management' or . = 'Asset Management')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P9_BUSINESS_PROCESS_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Asset Management&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>60e2b466-d44d-436e-a53b-dbd3bad1d7ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P9_BUSINESS_PROCESS_ID</value>
+      <webElementGuid>0e787a38-4a1f-45da-9dbf-86829078a8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>168eab8d-5d78-48c9-b36c-b2c536c2b726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>94bea0f1-edca-4fae-ac87-44920f4dae53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Management</value>
+      <webElementGuid>f52c242e-6fe5-48ba-9771-ee33ea8ec61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P9_BUSINESS_PROCESS_ID&quot;)</value>
+      <webElementGuid>9a9e7f7a-5aba-4ed4-9bc0-f4f6e53e994b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Asset Management' or . = 'Asset Management')]</value>
+      <webElementGuid>2f57b8de-f15b-4669-b4d5-708fa561352b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P9_BUSINESS_PROCESS_ID']</value>
+      <webElementGuid>da866967-a417-4289-9b92-a93e5ac3e389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P9_BUSINESS_PROCESS_ID_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>b93d8c5b-b729-4b77-a9b8-5a4e367a629b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[2]/preceding::span[2]</value>
+      <webElementGuid>6321c766-51c4-4b46-bab5-fe7a4357dcfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set1 Activity'])[1]/preceding::span[3]</value>
+      <webElementGuid>db27b00b-760b-4945-bd66-3628473f2b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset Management']/parent::*</value>
+      <webElementGuid>ebf56236-c699-4744-8c01-6118e82cbb75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div[2]/div/div[6]/div/div/div[2]/div/span</value>
+      <webElementGuid>8c163194-3e5c-4198-913e-a45c1eb8bce2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
