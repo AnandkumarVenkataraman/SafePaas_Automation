@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SOD Review_fa fa-remove</name>
+   <tag></tag>
+   <elementGuidId>70fcfedb-6e53-47ca-9373-7cb09dc79383</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='327963199889660485_orig']/tbody/tr[6]/td[10]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(6) > td.u-tC > span.fa.fa-remove</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;MITIGATIONS Mitigations and Controls Mitigations and Controls Y 11-JAN-24 - Selected SOD Review&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d63c03e2-db9a-4bec-93ac-d7e218a01898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cdb02fde-d675-45ab-9b7f-72bb70ed630f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-remove</value>
+      <webElementGuid>282fa0be-acfc-42e9-9bce-8c0fe6df2ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;327963199889660485_orig&quot;)/tbody[1]/tr[6]/td[@class=&quot;u-tC&quot;]/span[@class=&quot;fa fa-remove&quot;]</value>
+      <webElementGuid>fd906e7a-1ed6-49ca-95b5-7b51a85255d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='327963199889660485_orig']/tbody/tr[6]/td[10]/span</value>
+      <webElementGuid>3af7f7f3-85df-4657-9377-db6aed86c8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[10]/span</value>
+      <webElementGuid>aa53ee98-b6c1-4c4b-b640-0092bc8577e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

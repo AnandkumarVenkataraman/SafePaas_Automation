@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_One Approver Response</name>
+   <tag></tag>
+   <elementGuidId>5cb421e1-00d0-4935-9f00-6ae6aeeb3d0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'One Approver Response' or . = 'One Approver Response')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.u-radio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;One Approver Response&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9c767cca-ae15-4643-848b-6b9ece61ea43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-radio</value>
+      <webElementGuid>dfdc49a5-e648-4ef4-9531-2debfd96458e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P130_RESP_TO_CLOSE_0</value>
+      <webElementGuid>debf1d90-41d9-4b75-9c76-28e88dc21e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>One Approver Response</value>
+      <webElementGuid>22d6c56f-296c-46c2-92b9-1595251e1832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P130_RESP_TO_CLOSE&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-radio&quot;]</value>
+      <webElementGuid>4f23ac1a-b0cd-4f64-b2b6-d2cf2e5b8bdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'One Approver Response' or . = 'One Approver Response')]</value>
+      <webElementGuid>206dab36-71ae-474b-8b0c-2e708c2f016a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P130_RESP_TO_CLOSE']/div/div/div/label</value>
+      <webElementGuid>552688f4-f07e-41cf-bccc-f5704664d9f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandatory required number of responses:'])[1]/following::label[1]</value>
+      <webElementGuid>2df87af9-6957-4e1f-a6ee-8bc1fd90d925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Level'])[2]/following::label[2]</value>
+      <webElementGuid>a4ba80fb-38c7-4520-ae7f-4ce5e8455394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Both Approvers Responses'])[1]/preceding::label[1]</value>
+      <webElementGuid>e6b2aa49-9613-4c24-b846-e7797796357a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EAM Survey Authentication'])[1]/preceding::label[2]</value>
+      <webElementGuid>c6eec659-087d-4b87-b9f3-69505f8cbf70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='One Approver Response']/parent::*</value>
+      <webElementGuid>49c3f768-5a2b-460d-a449-fc4e74e8fc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>38e2577a-93e9-4f57-8633-3238abdf23e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

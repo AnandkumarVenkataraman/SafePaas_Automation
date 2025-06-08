@@ -15,7 +15,7 @@
       <guid>64c1dfbd-7003-4c37-a0b9-914a437a19a7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/13_Remediations_AllUserViolation_ApprovalProcess</testCaseId>
+      <testCaseId>Test Cases/Anand_EAM/13_Remediations_AllUserViolation_ApprovalProcess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EAM_Setup</description>
-   <name>EAM_Setup</name>
-   <tag>EAM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>30938779-0db1-4e37-8883-03f704fa1718</testCaseGuid>
-</TestCaseEntity>

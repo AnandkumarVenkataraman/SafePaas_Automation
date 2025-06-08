@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_General Ledger</name>
+   <tag></tag>
+   <elementGuidId>82981ab2-04b9-4ba7-bb01-262639aa23d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'General Ledger' or . = 'General Ledger')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.t-Report-cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;General Ledger&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cd8d23fe-1ec5-426a-94b2-587daef4fc12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-cell</value>
+      <webElementGuid>6efc684a-e517-4413-ad0e-43a6f7f43f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>APPLICATION_NAME</value>
+      <webElementGuid>6106f73a-23d0-4be3-b33d-5a4dfc5111b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Ledger</value>
+      <webElementGuid>0121be98-1a65-4664-84f7-7281d5560aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_R407297060702584727&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[1]/td[@class=&quot;t-Report-cell&quot;]</value>
+      <webElementGuid>0d067a0a-38f6-48e7-ad44-4b50554d3a36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'General Ledger' or . = 'General Ledger')]</value>
+      <webElementGuid>c3c9d521-a163-437e-8377-a1baf83ed658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_R407297060702584727']/div/div/table/tbody/tr/td</value>
+      <webElementGuid>ff0c07f0-44f3-4eda-8453-51b71745ec44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::td[2]</value>
+      <webElementGuid>df5f49ab-f486-4f05-afee-82fb3539b310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map Roles'])[1]/following::td[2]</value>
+      <webElementGuid>647393e4-52eb-4b8a-b289-fdc3cdce303d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Financials'])[1]/preceding::td[4]</value>
+      <webElementGuid>7ec2bd1e-eb73-40ab-9aef-010d344b65ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::td[14]</value>
+      <webElementGuid>0f276a6b-55fd-4f08-9ec6-3692a0201755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Ledger']/parent::*</value>
+      <webElementGuid>0898860a-b17b-48fa-a70d-338d3a0fdf7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/table/tbody/tr/td</value>
+      <webElementGuid>dcf95422-bdca-4770-98fb-b058b3642156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

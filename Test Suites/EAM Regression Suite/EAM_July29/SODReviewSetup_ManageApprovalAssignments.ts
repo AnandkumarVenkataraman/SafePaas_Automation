@@ -15,7 +15,7 @@
       <guid>f5506151-8168-4303-a28d-df75dc47afba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/21_SODReviewSetup_ManageApprovalAssignments</testCaseId>
+      <testCaseId>Test Cases/Anand_EAM/21_SODReviewSetup_ManageApprovalAssignments</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

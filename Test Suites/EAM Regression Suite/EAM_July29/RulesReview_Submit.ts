@@ -15,7 +15,7 @@
       <guid>5176e724-d6d4-4fc9-b1c4-83e0a0ec30b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/29_RulesReview Submit</testCaseId>
+      <testCaseId>Test Cases/Anand_EAM/29_RulesReview Submit</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

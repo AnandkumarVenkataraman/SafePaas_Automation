@@ -15,7 +15,7 @@
       <guid>dd9815a6-f555-4d79-9f1e-01101c9a4405</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/4_SODTest Status Verification</testCaseId>
+      <testCaseId>Test Cases/Anand_EAM/4_SODTest Status Verification</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

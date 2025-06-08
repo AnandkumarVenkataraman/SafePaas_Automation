@@ -15,7 +15,7 @@
       <guid>6b071e6c-50cf-419b-83dc-8498438a67a7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EAM/9_Exception_Privilege and Global</testCaseId>
+      <testCaseId>Test Cases/Anand_EAM/9_Exception_Privilege and Global</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
