@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Interval to First Reminder</name>
+   <tag></tag>
+   <elementGuidId>8b729ceb-0509-49d2-82b4-3aa9e25de6f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Interval to First Reminder' or . = 'Interval to First Reminder')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R307838823214507554_ig_grid_vc_cur</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Row 2, Column 3.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9dba14e0-15ea-4271-b96a-3d4ce8341674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>8e501702-8c3b-4171-8dfb-c5cfe25983ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>35de90d2-b2ca-4a5d-9869-6f4b224f75a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tC is-readonly is-focused</value>
+      <webElementGuid>489fa80d-202e-4bd0-8d8d-2bf1f4038c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>R307838823214507554_ig_grid_vc_ctx C153814212621916549_HDR R307838823214507554_ig_grid_vc_cur</value>
+      <webElementGuid>fd5928ba-3552-451c-bb34-652ca171eaf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R307838823214507554_ig_grid_vc_cur</value>
+      <webElementGuid>1282b161-2a84-46f9-974d-6b35beaa0fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interval to First Reminder</value>
+      <webElementGuid>8fa10236-71fc-4f22-ac49-37c8f5668b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R307838823214507554_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>834610e6-0474-4bcd-b7e4-0c920f9265f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Interval to First Reminder' or . = 'Interval to First Reminder')]</value>
+      <webElementGuid>bf71f6cb-a965-482d-8761-b5368d1364cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='R307838823214507554_ig_grid_vc_cur']</value>
+      <webElementGuid>1f1b7afc-6df3-4390-9d29-52d8b37ac928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R307838823214507554_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>b110213a-b86d-4a16-832b-363b272f233f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Monitor'])[2]/following::td[2]</value>
+      <webElementGuid>08cdbf30-f614-449a-83e8-c46236ac0e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUMBER'])[1]/preceding::td[2]</value>
+      <webElementGuid>f2de5f22-8b50-4a46-81ca-e89954c75b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This parameter defines how many days after the review creation, the first reminder will be sent'])[1]/preceding::td[3]</value>
+      <webElementGuid>4903d899-0be2-4ac0-8038-ad44f147d375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Interval to First Reminder']/parent::*</value>
+      <webElementGuid>95ab2627-56fa-4c98-a129-ac546a2b8d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>b6a61713-a983-420f-8b99-429d5252eafb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

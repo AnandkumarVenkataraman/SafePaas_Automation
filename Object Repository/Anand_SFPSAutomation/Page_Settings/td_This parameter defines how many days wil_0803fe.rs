@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_This parameter defines how many days wil_0803fe</name>
+   <tag></tag>
+   <elementGuidId>1a192850-9e43-4e83-a135-ec26b96d03cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'This parameter defines how many days will elapse between sending reminders' or . = 'This parameter defines how many days will elapse between sending reminders')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R307838823214507554_ig_grid_vc_cur</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 6.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>36046e16-af11-46c3-862b-a27558b60cfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>5a1ed4f4-88b4-41cd-bce8-6a17528de536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2955a7f9-8987-4b70-ae64-691b34a04be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tC is-readonly is-focused</value>
+      <webElementGuid>b0654129-9a14-4c96-bba5-5a19c9fc020b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>R307838823214507554_ig_grid_vc_ctx C307843584031507593_HDR R307838823214507554_ig_grid_vc_cur</value>
+      <webElementGuid>1238d663-d75a-429b-9f66-f89be3c89d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R307838823214507554_ig_grid_vc_cur</value>
+      <webElementGuid>ec046eca-e836-4939-99fb-17808585cbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This parameter defines how many days will elapse between sending reminders</value>
+      <webElementGuid>e5cef4b1-58d5-4407-b06a-fd372257fec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R307838823214507554_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>b0cb182b-48d2-4682-b7b8-43c44edb819c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'This parameter defines how many days will elapse between sending reminders' or . = 'This parameter defines how many days will elapse between sending reminders')]</value>
+      <webElementGuid>eb143d61-d3dd-44cd-86a0-63a8fad03169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='R307838823214507554_ig_grid_vc_cur']</value>
+      <webElementGuid>65042abf-3ee2-453c-a3d1-3462ba98c7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R307838823214507554_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[3]/td[5]</value>
+      <webElementGuid>265b8551-3fdd-46a1-b27e-5f9bca7cde13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUMBER'])[2]/following::td[1]</value>
+      <webElementGuid>4ea8efce-274f-4f99-8e41-44d1dd182dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interval Days Between Reminders'])[1]/following::td[3]</value>
+      <webElementGuid>2b3f9b0a-8b3c-40e1-8f4d-5a012d330d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Monitor'])[4]/preceding::td[1]</value>
+      <webElementGuid>a8c363c9-438a-4179-8357-e3c92d688d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page rows'])[1]/preceding::td[2]</value>
+      <webElementGuid>0e699d98-a150-4a91-a45c-9274eee57039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This parameter defines how many days will elapse between sending reminders']/parent::*</value>
+      <webElementGuid>b9d32c4c-dfbc-4a18-8899-ff8809243f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[5]</value>
+      <webElementGuid>2859236d-01ab-4b64-b75d-95c120a2c3d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
