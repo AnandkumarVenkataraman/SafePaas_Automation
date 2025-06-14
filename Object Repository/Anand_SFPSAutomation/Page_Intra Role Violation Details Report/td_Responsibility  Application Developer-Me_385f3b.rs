@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Responsibility  Application Developer-Me_385f3b</name>
+   <tag></tag>
+   <elementGuidId>d94dfa41-bd7a-4200-a069-afc95ed83516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Responsibility : Application Developer->Menu : Navigator Menu - Application Developer GUI->Menu : AZN_MAIN->Menu : AZN_PR_ASSET->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation' or . = 'Responsibility : Application Developer->Menu : Navigator Menu - Application Developer GUI->Menu : AZN_MAIN->Menu : AZN_PR_ASSET->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Responsibility : Application Developer->Menu : Navigator Menu - Application Developer GUI->Menu : AZN_MAIN->Menu : AZN_PR_ASSET->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4cce9e33-1822-48a3-88c1-2458cb58ae99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>7da4a670-a092-4330-9d4a-bfb8f8e3b6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C159464241623330546</value>
+      <webElementGuid>03444a20-1128-4ee4-896c-e8bb9a35b669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responsibility : Application Developer->Menu : Navigator Menu - Application Developer GUI->Menu : AZN_MAIN->Menu : AZN_PR_ASSET->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation</value>
+      <webElementGuid>71bf868a-d216-49bb-8261-28b9e5a0c31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;295529109036734880_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>ea16cfff-8a1e-42f8-a9f1-8221bddc0b29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Responsibility : Application Developer->Menu : Navigator Menu - Application Developer GUI->Menu : AZN_MAIN->Menu : AZN_PR_ASSET->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation' or . = 'Responsibility : Application Developer->Menu : Navigator Menu - Application Developer GUI->Menu : AZN_MAIN->Menu : AZN_PR_ASSET->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation')]</value>
+      <webElementGuid>ebc400bc-c80c-4b11-a59e-bde69abb577e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='295529109036734880_orig']/tbody/tr[2]/td[8]</value>
+      <webElementGuid>cec2f4b1-ae4e-4c02-919d-7a1581169496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz_3'])[1]/following::td[1]</value>
+      <webElementGuid>9a20a6f6-2e26-4564-b739-0410f74d9af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extended Depreciation'])[1]/following::td[2]</value>
+      <webElementGuid>b7af9a97-b6ae-4c84-9a63-381c0db3d4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[1]</value>
+      <webElementGuid>125fa8fb-5ad4-4021-9601-a16c6313edc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[2]</value>
+      <webElementGuid>243f4d0c-4c9b-4a36-a1ee-cae25d631fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Responsibility : Application Developer->Menu : Navigator Menu - Application Developer GUI->Menu : AZN_MAIN->Menu : AZN_PR_ASSET->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation']/parent::*</value>
+      <webElementGuid>238ebda0-d4ad-4a30-aebc-c488e754d08e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>7fdf6028-ad5d-4088-b63c-d43c418ae97b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

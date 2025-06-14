@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Responsibility  Assets Sao Paulo (BR)-Me_2d19ba</name>
+   <tag></tag>
+   <elementGuidId>2558eefb-dd35-4d12-9976-124d404d8409</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Responsibility : Assets Sao Paulo (BR)->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation' or . = 'Responsibility : Assets Sao Paulo (BR)->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Responsibility : Assets Sao Paulo (BR)->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>626ffaa3-b278-4fcb-bb80-e933b7efd364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>ba43a9c4-31e0-41a9-8381-e720c5ca0673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C154867388214991534</value>
+      <webElementGuid>af175822-e9be-4e01-a1c7-d8751e080d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responsibility : Assets Sao Paulo (BR)->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation</value>
+      <webElementGuid>0f316c85-186d-460c-9400-8cb008bd4871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;154256958746258637_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>2afd323c-9e54-4841-b609-0b60880b42be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Responsibility : Assets Sao Paulo (BR)->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation' or . = 'Responsibility : Assets Sao Paulo (BR)->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation')]</value>
+      <webElementGuid>cb308217-4f64-4b7a-8f1b-1446a9bcb6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td[14]</value>
+      <webElementGuid>655178c8-9493-45e3-887b-671d2fd2ca93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extended Depreciation'])[1]/following::td[1]</value>
+      <webElementGuid>e1ba58ee-afe4-4eb2-b8cc-77ab8bc7fe48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extended Depreciation[FAEXDEPR]'])[1]/following::td[2]</value>
+      <webElementGuid>cd72877e-66b7-4565-abfd-e5b209678e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[1]</value>
+      <webElementGuid>a86479d3-ebe3-42df-9116-6a6cd0a216a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz_3'])[1]/preceding::td[3]</value>
+      <webElementGuid>fc49f2f4-8961-478e-86fe-5e9208a162c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Responsibility : Assets Sao Paulo (BR)->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation']/parent::*</value>
+      <webElementGuid>f9656c22-cabc-4bdf-8c88-ef04d476d86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[14]</value>
+      <webElementGuid>07239e11-f63c-4f71-a386-7e44181efd14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
