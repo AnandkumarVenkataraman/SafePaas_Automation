@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM_Dashboard</description>
+   <name>EAM_Dashboard</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bed4a42-cbfc-454e-84a6-fbad7141b0e3</testCaseGuid>
+</TestCaseEntity>
