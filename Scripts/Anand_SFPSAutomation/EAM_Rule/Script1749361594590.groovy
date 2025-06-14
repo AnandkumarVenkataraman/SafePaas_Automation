@@ -46,16 +46,16 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/div_GoActionsNo data found (1)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Import Rules_R247793226539899118_sear_84acb9'), 
-    'Depreciation vs. Inventory Rule')
+    'Depreciation vs. Inventory Rule2')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Go'))
 WebUI.delay(3)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Depreciation vs. Inventory Rule'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Depreciation vs. Inventory Rule2'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Approved'), 20)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Depreciation vs. Inventory Rule'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Depreciation vs. Inventory Rule2'), 
     20)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_HIGH'), 20)

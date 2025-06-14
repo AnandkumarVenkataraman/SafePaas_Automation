@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM_ERM</description>
+   <name>EAM_ERM</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66bdb981-97db-444f-844b-6cfa98569d30</testCaseGuid>
+</TestCaseEntity>
