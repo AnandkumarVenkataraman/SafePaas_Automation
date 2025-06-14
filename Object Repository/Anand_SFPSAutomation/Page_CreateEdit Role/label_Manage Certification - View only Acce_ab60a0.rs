@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Certification - View only Acce_ab60a0</name>
+   <tag></tag>
+   <elementGuidId>0be8cbdf-dcb2-4f6d-b73e-a2629e381188</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage Certification - View only Access for Manage Certification' or . = 'Manage Certification - View only Access for Manage Certification')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Certification - View only Access for Manage Certification&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a2dcc1fc-1037-41c1-9e5a-f674b9c5928e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>ad0368cc-4fb8-4398-9608-fa96b7a87a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P36_FUNCTION_READ_ACCESS_9</value>
+      <webElementGuid>6f2191b7-e064-4d50-9253-127a5e35f99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Certification - View only Access for Manage Certification</value>
+      <webElementGuid>d42da11f-0000-469f-b47c-303349eabe05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P36_FUNCTION_READ_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>29104f4c-8fa2-4cc0-b66b-cf8b8667b812</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Certification - View only Access for Manage Certification' or . = 'Manage Certification - View only Access for Manage Certification')]</value>
+      <webElementGuid>269bf905-2c97-4857-88a3-28f2a44b61fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P36_FUNCTION_READ_ACCESS']/div[10]/label</value>
+      <webElementGuid>e4f85dca-178a-4471-9bfe-cf7a04b0b122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Workflow - View only access for Manage Approval Workflow'])[1]/following::label[1]</value>
+      <webElementGuid>358ac1b3-b522-4ed4-b87f-e4d1c480894e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments - View only access for Manage Approval Assignments'])[1]/following::label[2]</value>
+      <webElementGuid>518ac33a-cb4f-49f3-adea-1871b3270cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage EACM Roles - View only Access. Unable to Update the roles.'])[1]/preceding::label[1]</value>
+      <webElementGuid>438cfaa7-52ad-46c3-8f77-94827391681c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Network Users - View only access for Manage Network Users'])[1]/preceding::label[2]</value>
+      <webElementGuid>d13d5f8c-83e8-4f0b-8b0e-27f30385de84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Certification - View only Access for Manage Certification']/parent::*</value>
+      <webElementGuid>74c1a4c8-542e-41e8-ba82-dadfa69ed727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/label</value>
+      <webElementGuid>b730d301-1f0b-4d67-a0fa-0c470158eed4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

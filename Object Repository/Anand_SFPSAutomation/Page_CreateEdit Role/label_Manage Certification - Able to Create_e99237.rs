@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Certification - Able to Create_e99237</name>
+   <tag></tag>
+   <elementGuidId>55663714-6064-4305-93dd-a88dfe741be4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage Certification - Able to Create , Get or Post  Certification' or . = 'Manage Certification - Able to Create , Get or Post  Certification')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Certification - Able to Create , Get or Post Certification&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c1185418-cd2d-4478-8ec2-5aa39d6659c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>f3074b76-83b3-458c-8856-419d7eb54db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P36_FUNCTION_WRITE_ACCESS_8</value>
+      <webElementGuid>b60d06ea-ac6a-4c3d-9bfa-da39d83c856f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Certification - Able to Create , Get or Post  Certification</value>
+      <webElementGuid>ff9706a8-1a28-4655-b16b-160f2a4ebe59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P36_FUNCTION_WRITE_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>76090bd1-76b8-4899-86ce-d895351acbcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Certification - Able to Create , Get or Post  Certification' or . = 'Manage Certification - Able to Create , Get or Post  Certification')]</value>
+      <webElementGuid>aa9272e7-bde4-4a3c-a291-f3142bd270f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P36_FUNCTION_WRITE_ACCESS']/div[9]/label</value>
+      <webElementGuid>30c76163-0558-46f5-9e3d-275d0fd252bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Workflow - Able to Update Approval Workflow'])[1]/following::label[1]</value>
+      <webElementGuid>17456bc7-0b6f-4041-9728-fd7ade560c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments - Able to assign owners for Roles'])[1]/following::label[2]</value>
+      <webElementGuid>016f6ac9-7a5b-48a2-aa38-35f4abfeefb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage EACM Roles - Read and update the roles.'])[1]/preceding::label[1]</value>
+      <webElementGuid>7691f006-fc12-4cc3-8821-a9e3586de130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Network Users - Able to update and Register Network Users'])[1]/preceding::label[2]</value>
+      <webElementGuid>60c01dc5-1bdb-4424-8db0-2283f2c56cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div[9]/label</value>
+      <webElementGuid>32141239-4702-4567-b67f-0ab33cb231d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
