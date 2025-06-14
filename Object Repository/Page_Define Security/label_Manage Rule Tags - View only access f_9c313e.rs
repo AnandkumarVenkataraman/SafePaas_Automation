@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Rule Tags - View only access f_9c313e</name>
+   <tag></tag>
+   <elementGuidId>3afa60a7-e441-456b-86db-49dfdb82765d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage Rule Tags - View only access for Rule Tags' or . = 'Manage Rule Tags - View only access for Rule Tags')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.u-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Rule Tags - View only access for Rule Tags&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e1e89c59-a9e6-40a4-9769-dc9491b5f22f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>a23bf292-b024-4dcd-b07c-92c3efcf73cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_READ_ACCESS_0</value>
+      <webElementGuid>ae8437e6-0b31-4ee5-9cd3-5b1171e45486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Rule Tags - View only access for Rule Tags</value>
+      <webElementGuid>ff9cc1f4-fb13-4853-a0a1-ef463f2ef7f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_READ_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>463a916a-4664-4074-b81c-efb5bfd616ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Rule Tags - View only access for Rule Tags' or . = 'Manage Rule Tags - View only access for Rule Tags')]</value>
+      <webElementGuid>a4c19d1b-7b8e-402f-ae37-1177bbd49874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_READ_ACCESS']/div/label</value>
+      <webElementGuid>ae60648d-ffee-4fc1-8884-4d34c2cba970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Function Read Access'])[1]/following::label[1]</value>
+      <webElementGuid>042c0234-42cf-4e19-9f41-08904353eae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::label[1]</value>
+      <webElementGuid>4ff43f3d-c54a-46f6-8ccf-e5d832180422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Actions - View only access to Manage Review Actions'])[1]/preceding::label[1]</value>
+      <webElementGuid>350d9521-f69d-421f-901c-ae31454f08f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Status - View only access to Manage Review Status'])[1]/preceding::label[2]</value>
+      <webElementGuid>cc9693fb-b208-4596-bd76-33e198e4ef0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Rule Tags - View only access for Rule Tags']/parent::*</value>
+      <webElementGuid>fc5e932b-d9a8-4d02-ae09-8dd99508ebe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>87428496-4d82-451a-90ff-62562fcbf321</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage SOD Test - Create and update a_658c28</name>
+   <tag></tag>
+   <elementGuidId>7431ddd2-17ba-4c9b-b4c7-204b0a54fb5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage SOD Test - Create and update a new Access Test.' or . = 'Manage SOD Test - Create and update a new Access Test.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage SOD Test - Create and update a new Access Test.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9170ada2-62c4-4787-9188-b08cdf32a95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>2bc364f4-5fbf-44ab-8af7-b6d9db30b40f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_WRITE_ACCESS_39</value>
+      <webElementGuid>aa6562c1-b154-485b-a199-9dba70048022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage SOD Test - Create and update a new Access Test.</value>
+      <webElementGuid>751c54ab-21d2-4804-b69a-b38f02bb009b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_WRITE_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>6bdaaf8c-ad21-4aef-95f0-341833f8baa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage SOD Test - Create and update a new Access Test.' or . = 'Manage SOD Test - Create and update a new Access Test.')]</value>
+      <webElementGuid>49d91359-613a-4122-96ff-9d86dfeb1763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_WRITE_ACCESS']/div[40]/label</value>
+      <webElementGuid>e49bfe95-0787-4509-8993-3b60ad4006b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rules - Read and update the the rule type.'])[1]/following::label[1]</value>
+      <webElementGuid>f52950fe-966e-4066-9105-a1bc2f95f0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage ERP Snapshot - Able to refresh snapshot and access the snapshot.'])[1]/following::label[2]</value>
+      <webElementGuid>b843baf1-cd27-4731-8815-fb1ed5eb5513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Violation - Read and update the Violations and submit for Approval.'])[1]/preceding::label[1]</value>
+      <webElementGuid>ed83d0da-73c0-4ec4-ae55-5a1421913e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception - Able to View and update the Justification and End Date'])[1]/preceding::label[2]</value>
+      <webElementGuid>1371784f-845d-4036-9234-cf49ab9bf7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage SOD Test - Create and update a new Access Test.']/parent::*</value>
+      <webElementGuid>42925592-164c-4398-aa77-a00f012f451e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div[40]/label</value>
+      <webElementGuid>f1f3fdc1-cf43-4d16-aaef-21905aaebe42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

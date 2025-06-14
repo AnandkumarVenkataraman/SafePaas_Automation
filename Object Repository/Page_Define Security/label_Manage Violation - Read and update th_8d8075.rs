@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Violation - Read and update th_8d8075</name>
+   <tag></tag>
+   <elementGuidId>02415b4d-6fce-4c2d-ac74-c3501d0004bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage Violation - Read and update the Violations and submit for Approval.' or . = 'Manage Violation - Read and update the Violations and submit for Approval.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Violation - Read and update the Violations and submit for Approval.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>85e376fe-d7da-4d69-af95-ef18bff544a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>ed70ec10-57dc-4b8f-a40b-ddd7c1f32927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_WRITE_ACCESS_40</value>
+      <webElementGuid>8ab8afde-73b4-4102-b88e-b4da0b77b90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Violation - Read and update the Violations and submit for Approval.</value>
+      <webElementGuid>7b94576b-f7f6-4c48-b64d-de358ca55fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_WRITE_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>6422d8b4-6209-4370-a666-c0907a1a77db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Violation - Read and update the Violations and submit for Approval.' or . = 'Manage Violation - Read and update the Violations and submit for Approval.')]</value>
+      <webElementGuid>cc663317-28b8-4894-aecb-9e66f0686d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_WRITE_ACCESS']/div[41]/label</value>
+      <webElementGuid>18a98240-a528-4b99-b61e-aee8c14dbd08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage SOD Test - Create and update a new Access Test.'])[1]/following::label[1]</value>
+      <webElementGuid>41c76541-0a50-4896-b904-86112660ee42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rules - Read and update the the rule type.'])[1]/following::label[2]</value>
+      <webElementGuid>203b08a0-a85c-4126-a921-765da9241d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception - Able to View and update the Justification and End Date'])[1]/preceding::label[1]</value>
+      <webElementGuid>0b18d2b7-88c5-444f-bcb2-af4509d31105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Attribute Groups - Enables edit capabilities for Manage Attribute Groups'])[1]/preceding::label[2]</value>
+      <webElementGuid>c2b68bb9-0488-4c8e-9f6d-c8323b287cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Violation - Read and update the Violations and submit for Approval.']/parent::*</value>
+      <webElementGuid>8f37f161-5f3a-472e-8936-21d24cec723c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div[41]/label</value>
+      <webElementGuid>a8250bb5-ad14-4403-af85-f601419bec22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

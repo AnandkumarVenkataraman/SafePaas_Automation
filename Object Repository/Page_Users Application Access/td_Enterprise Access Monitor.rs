@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Enterprise Access Monitor</name>
+   <tag></tag>
+   <elementGuidId>0e7c0e21-f40a-47a3-98ba-518bed6a0e1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Enterprise Access Monitor' or . = 'Enterprise Access Monitor')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R259422667645149962_ig_grid_vc_cur</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 3.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7b0fc832-58b1-4795-a0c0-6c932834da6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>2658321a-b949-4f71-bc10-c4539b38ef9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>269d1bcf-3537-4f6f-a1c2-2f2d56409c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tC is-focused</value>
+      <webElementGuid>207c49c9-11b2-436b-9ed8-a6adc741a398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>R259422667645149962_ig_grid_vc_ctx C154513300130312333_HDR R259422667645149962_ig_grid_vc_cur</value>
+      <webElementGuid>0a1f8135-1cba-4c72-bd71-2231e55d6a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R259422667645149962_ig_grid_vc_cur</value>
+      <webElementGuid>165e5090-7ad4-4214-8811-65700935f4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enterprise Access Monitor</value>
+      <webElementGuid>0264ec8b-fdf1-4b3c-b276-316115f96df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R259422667645149962_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>a9a784d4-6b09-4f8d-ac01-19755342678d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Enterprise Access Monitor' or . = 'Enterprise Access Monitor')]</value>
+      <webElementGuid>b96c986a-7fb4-4a1f-b489-3a5a66df5a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='R259422667645149962_ig_grid_vc_cur']</value>
+      <webElementGuid>92019130-8e64-4664-9b4f-30e362d9761c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R259422667645149962_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[3]/td[3]</value>
+      <webElementGuid>0a635bc9-1317-4471-b95d-39a86021ff90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANANDK1'])[3]/following::td[1]</value>
+      <webElementGuid>a8a1f0de-a8eb-4f36-8a2d-3551136a7a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::td[3]</value>
+      <webElementGuid>c50fcf22-01a4-4c33-8994-b12984947a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::td[1]</value>
+      <webElementGuid>37151acb-fdce-45bf-ad6d-162e6b28cb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page rows'])[1]/preceding::td[2]</value>
+      <webElementGuid>b972e391-ae2f-48a7-8f4e-5ea742068f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]</value>
+      <webElementGuid>0a8617a1-f576-464b-8edc-848c3c08c181</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

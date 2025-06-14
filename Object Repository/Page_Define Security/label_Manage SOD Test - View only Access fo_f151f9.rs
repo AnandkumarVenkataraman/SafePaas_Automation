@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage SOD Test - View only Access fo_f151f9</name>
+   <tag></tag>
+   <elementGuidId>c76787b8-8463-47d1-9404-4b33356c25fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage SOD Test - View only Access for SOD Test.' or . = 'Manage SOD Test - View only Access for SOD Test.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage SOD Test - View only Access for SOD Test.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a6425bd2-eebe-4526-acce-d94e0631170b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>9e4d17d7-d668-4626-8872-4261ae3867ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_READ_ACCESS_39</value>
+      <webElementGuid>3dc4b495-baba-4e72-94cf-760b9988b90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage SOD Test - View only Access for SOD Test.</value>
+      <webElementGuid>4891842d-164b-4199-8fd6-368550d2e428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_READ_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>ce1c2b0d-8daa-4b29-a065-9a1887dc00ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage SOD Test - View only Access for SOD Test.' or . = 'Manage SOD Test - View only Access for SOD Test.')]</value>
+      <webElementGuid>1a54244e-7beb-436c-85e5-ea21065f9ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_READ_ACCESS']/div[40]/label</value>
+      <webElementGuid>665deddd-eb8c-4342-b24f-a97f765573a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rules - View only Access.Edit button is disabled.'])[1]/following::label[1]</value>
+      <webElementGuid>ebb7f560-5880-43a6-a752-dbbc2a014d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage ERP Snapshot - View only Access. Unable to refresh snapshot.'])[1]/following::label[2]</value>
+      <webElementGuid>13b66523-dbc9-41be-b8cd-b5cb7156c0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Violation - View only Access to Manage Violation.'])[1]/preceding::label[1]</value>
+      <webElementGuid>1a9abe5c-1a8a-4cca-8227-00f4a42f4ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception - Unable to Update the Justification and End Date'])[1]/preceding::label[2]</value>
+      <webElementGuid>29a14aa1-c1aa-451f-ab17-d233a3e2a537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage SOD Test - View only Access for SOD Test.']/parent::*</value>
+      <webElementGuid>b3d497c4-902d-4ce6-b4ae-6a6c1f099ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[40]/label</value>
+      <webElementGuid>e46c7bd3-6685-46e1-9a7d-f943188d4312</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

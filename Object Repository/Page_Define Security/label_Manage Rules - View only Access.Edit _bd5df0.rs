@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Rules - View only Access.Edit _bd5df0</name>
+   <tag></tag>
+   <elementGuidId>4f030d32-7587-4055-9e39-11faff768979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage Rules - View only Access.Edit button is disabled.' or . = 'Manage Rules - View only Access.Edit button is disabled.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Rules - View only Access.Edit button is disabled.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b155dcae-46f6-4e62-ad96-55144f26e4da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>c3c16d7e-194b-4a78-85ee-9bb5eef86882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_READ_ACCESS_38</value>
+      <webElementGuid>e7638375-6e9b-450f-b8aa-9d46a882ac5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Rules - View only Access.Edit button is disabled.</value>
+      <webElementGuid>71b3bf1a-2c77-451b-9ebc-90a69d1d43c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_READ_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>34a36949-3ad6-48df-b623-f276055f33b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Rules - View only Access.Edit button is disabled.' or . = 'Manage Rules - View only Access.Edit button is disabled.')]</value>
+      <webElementGuid>4ecc445c-3852-431a-82c8-422244d70da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_READ_ACCESS']/div[39]/label</value>
+      <webElementGuid>6f4b94e5-08de-4ba7-824f-d566ea0792f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage ERP Snapshot - View only Access. Unable to refresh snapshot.'])[1]/following::label[1]</value>
+      <webElementGuid>1ffe3015-47ef-4e54-989d-c1d990f83ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign EAM Roles - View only access to view the roles assigned to Users.'])[1]/following::label[2]</value>
+      <webElementGuid>1e946620-b135-4448-86f9-7a59016aaf61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage SOD Test - View only Access for SOD Test.'])[1]/preceding::label[1]</value>
+      <webElementGuid>e5648c7b-c182-4164-b7ba-00aab5ea93af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Violation - View only Access to Manage Violation.'])[1]/preceding::label[2]</value>
+      <webElementGuid>993db286-6268-4a7a-b722-667a25ded826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Rules - View only Access.Edit button is disabled.']/parent::*</value>
+      <webElementGuid>f05a704b-f4c3-4fcc-bec5-8483a28f69c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[39]/label</value>
+      <webElementGuid>e6c378d2-2abf-4b53-a5c4-d1668fc19ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

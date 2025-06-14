@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Rule Tags - Read and update th_850178</name>
+   <tag></tag>
+   <elementGuidId>4b3ea730-97d9-40d4-a556-5dae90c759e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Manage Rule Tags - Read and update the rule tag.' or . = 'Manage Rule Tags - Read and update the rule tag.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P26_FUNCTION_WRITE_ACCESS > div.apex-item-option > label.u-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Rule Tags - Read and update the rule tag.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>397683e3-8385-466a-ad59-03e069d2db50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>8556d9c6-6b1c-4e95-9bef-6485d356024c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_WRITE_ACCESS_0</value>
+      <webElementGuid>4390dcd0-0e6e-47ca-a8ae-a125799316e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Rule Tags - Read and update the rule tag.</value>
+      <webElementGuid>fd8c47b4-0922-43d8-8e34-efd9b8b21efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_WRITE_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>0574d182-9d80-4d26-aa21-066eabdd811c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Rule Tags - Read and update the rule tag.' or . = 'Manage Rule Tags - Read and update the rule tag.')]</value>
+      <webElementGuid>8b82555f-a1ef-444a-b9ef-1b8a1e7a989b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_WRITE_ACCESS']/div/label</value>
+      <webElementGuid>b8d2d576-171b-4481-992b-244391270cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Function Write Access'])[1]/following::label[1]</value>
+      <webElementGuid>63b8053e-306d-440d-af62-e613812a56bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rules Reviews - Read only access to Rules Reviews report'])[1]/following::label[1]</value>
+      <webElementGuid>cf38c472-4420-45b2-a18c-873332b121bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Actions - Able to Create or Update Manage Review Actions'])[1]/preceding::label[1]</value>
+      <webElementGuid>877a6154-bc0b-42d3-a537-5f5551f2cd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Status - Able to Create or Update Manage Review Status'])[1]/preceding::label[2]</value>
+      <webElementGuid>6220e1aa-c276-455b-848b-698a6b417f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Rule Tags - Read and update the rule tag.']/parent::*</value>
+      <webElementGuid>b8fc0b65-bddb-4f8d-b3b2-4b47943f0b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>cad61e63-ecd0-4775-939e-4e48e7b3e0f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
