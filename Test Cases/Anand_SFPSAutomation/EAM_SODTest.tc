@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM_SODTest</description>
+   <name>EAM_SODTest</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83e2c586-9ee6-40fa-8483-4eae15d9fb4b</testCaseGuid>
+</TestCaseEntity>
