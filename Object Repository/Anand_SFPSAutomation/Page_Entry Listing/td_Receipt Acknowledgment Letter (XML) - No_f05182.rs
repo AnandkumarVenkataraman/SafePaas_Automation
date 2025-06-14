@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Receipt Acknowledgment Letter (XML) - No_f05182</name>
+   <tag></tag>
+   <elementGuidId>9cfa2e8a-3d6b-452c-992b-fbe3e4df265f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Receipt Acknowledgment Letter (XML) - Not Supported: Reserved For Future Use' or . = 'Receipt Acknowledgment Letter (XML) - Not Supported: Reserved For Future Use')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Receipt Acknowledgment Letter (XML) - Not Supported: Reserved For Future Use&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>92b872ab-3eb2-4147-b679-e485a5df91ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>cf013e6a-8108-4e36-9bfb-5f43725da584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>DISPLAY_NAME</value>
+      <webElementGuid>0582c2bf-1fbe-4a62-b9c4-1a6fefec74ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Receipt Acknowledgment Letter (XML) - Not Supported: Reserved For Future Use</value>
+      <webElementGuid>54d455ec-5fba-484b-aa3f-4b4ea1b97e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;253154928331414010&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>288af06e-bbf1-49da-ac08-a14bea474d5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Receipt Acknowledgment Letter (XML) - Not Supported: Reserved For Future Use' or . = 'Receipt Acknowledgment Letter (XML) - Not Supported: Reserved For Future Use')]</value>
+      <webElementGuid>2fb79db9-8650-4553-b7ce-acde90133976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='253154928331414010']/tbody/tr[2]/td[2]</value>
+      <webElementGuid>46c264ab-b2e7-4c18-8215-ab54dded0445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JGZZRCAK_XML'])[1]/following::td[1]</value>
+      <webElementGuid>8b541cf2-9ca0-4f16-a94f-8dbc96e32883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/following::td[2]</value>
+      <webElementGuid>e518c908-dce9-468d-8bcf-45aa0b80bc0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt Acknowledgment Letter'])[1]/preceding::td[1]</value>
+      <webElementGuid>f36e8c2b-aba4-43a1-b244-412589ed9e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::td[4]</value>
+      <webElementGuid>ae286108-8f99-4ae2-b5cd-857a8560c6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Receipt Acknowledgment Letter (XML) - Not Supported: Reserved For Future Use']/parent::*</value>
+      <webElementGuid>64411cbf-09a7-4fff-8be1-ee23e31973e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>648d6aa4-c3ae-4fc7-a430-50942111a372</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

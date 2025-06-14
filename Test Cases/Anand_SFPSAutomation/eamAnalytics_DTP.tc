@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify in EAM > Analytics, after Snapshot extract is completed in DataProbe</description>
+   <name>eamAnalytics_DTP</name>
+   <tag>DTP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>efd6cd4c-a82c-42bf-8e38-d62be8eae5a1</testCaseGuid>
+</TestCaseEntity>
