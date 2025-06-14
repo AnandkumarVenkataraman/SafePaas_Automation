@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any -ERM56_ASSETS_PR_1ee5e1</name>
+   <tag></tag>
+   <elementGuidId>93d02151-0704-42ca-86ce-0b92365412e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P109_TARGET_ROLE' and (text() = '- Please select any -
+ERM56_ASSETS_PROGRESS_FR
+ERM56_ASSETS_PROGRESS_FR_v2
+ERM56_PURCHASING_V1
+ERM56_iRMVU_v1
+ERM56_iRMVU_v1
+ERM56_iRecruitmentEmployee-VHS
+ERM56_iRecruitmentManagerVision University
+ERM56_iRecruitmentManagerVisionUniversity
+ERM67_AssetsProgressFR_v1
+RoleSimulation1_FND_RESP777:59627
+RoleSimulation2_FND_RESP777:59627
+RoleSimulation3_FND_RESP777:59627
+RoleSimulation4_FND_RESP777:59627
+RoleSimulation5_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+Test_Application Developer_Jun14_v1
+Test_ApplicationDeveloper_Jun14_v3
+Test_GL_Jun14_v1
+' or . = '- Please select any -
+ERM56_ASSETS_PROGRESS_FR
+ERM56_ASSETS_PROGRESS_FR_v2
+ERM56_PURCHASING_V1
+ERM56_iRMVU_v1
+ERM56_iRMVU_v1
+ERM56_iRecruitmentEmployee-VHS
+ERM56_iRecruitmentManagerVision University
+ERM56_iRecruitmentManagerVisionUniversity
+ERM67_AssetsProgressFR_v1
+RoleSimulation1_FND_RESP777:59627
+RoleSimulation2_FND_RESP777:59627
+RoleSimulation3_FND_RESP777:59627
+RoleSimulation4_FND_RESP777:59627
+RoleSimulation5_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+Test_Application Developer_Jun14_v1
+Test_ApplicationDeveloper_Jun14_v3
+Test_GL_Jun14_v1
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P109_TARGET_ROLE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Target role&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2f701d45-27de-45da-9cc2-24d2e57d9b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P109_TARGET_ROLE</value>
+      <webElementGuid>a39e004a-637b-41ae-8bf7-a00e10c4f368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P109_TARGET_ROLE</value>
+      <webElementGuid>fe03ee37-cd04-419a-ae10-dffeae8b2ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>6050c326-f558-442b-9215-31c2e588ecfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3d7028c6-790e-4c1b-bbe4-4656b92fe626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>aad02714-da98-4eb4-8dde-229563997ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P109_TARGET_ROLE');</value>
+      <webElementGuid>aa8c0c95-9719-4d12-a367-3e8df087e854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any -
+ERM56_ASSETS_PROGRESS_FR
+ERM56_ASSETS_PROGRESS_FR_v2
+ERM56_PURCHASING_V1
+ERM56_iRMVU_v1
+ERM56_iRMVU_v1
+ERM56_iRecruitmentEmployee-VHS
+ERM56_iRecruitmentManagerVision University
+ERM56_iRecruitmentManagerVisionUniversity
+ERM67_AssetsProgressFR_v1
+RoleSimulation1_FND_RESP777:59627
+RoleSimulation2_FND_RESP777:59627
+RoleSimulation3_FND_RESP777:59627
+RoleSimulation4_FND_RESP777:59627
+RoleSimulation5_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+Test_Application Developer_Jun14_v1
+Test_ApplicationDeveloper_Jun14_v3
+Test_GL_Jun14_v1
+</value>
+      <webElementGuid>43b28692-910d-4d30-b253-17f0559ba128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P109_TARGET_ROLE&quot;)</value>
+      <webElementGuid>9a2b3900-8406-44e5-882d-39fe14865da0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P109_TARGET_ROLE' and (text() = '- Please select any -
+ERM56_ASSETS_PROGRESS_FR
+ERM56_ASSETS_PROGRESS_FR_v2
+ERM56_PURCHASING_V1
+ERM56_iRMVU_v1
+ERM56_iRMVU_v1
+ERM56_iRecruitmentEmployee-VHS
+ERM56_iRecruitmentManagerVision University
+ERM56_iRecruitmentManagerVisionUniversity
+ERM67_AssetsProgressFR_v1
+RoleSimulation1_FND_RESP777:59627
+RoleSimulation2_FND_RESP777:59627
+RoleSimulation3_FND_RESP777:59627
+RoleSimulation4_FND_RESP777:59627
+RoleSimulation5_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+Test_Application Developer_Jun14_v1
+Test_ApplicationDeveloper_Jun14_v3
+Test_GL_Jun14_v1
+' or . = '- Please select any -
+ERM56_ASSETS_PROGRESS_FR
+ERM56_ASSETS_PROGRESS_FR_v2
+ERM56_PURCHASING_V1
+ERM56_iRMVU_v1
+ERM56_iRMVU_v1
+ERM56_iRecruitmentEmployee-VHS
+ERM56_iRecruitmentManagerVision University
+ERM56_iRecruitmentManagerVisionUniversity
+ERM67_AssetsProgressFR_v1
+RoleSimulation1_FND_RESP777:59627
+RoleSimulation2_FND_RESP777:59627
+RoleSimulation3_FND_RESP777:59627
+RoleSimulation4_FND_RESP777:59627
+RoleSimulation5_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+RoleSimulation6_FND_RESP777:59627
+Test_Application Developer_Jun14_v1
+Test_ApplicationDeveloper_Jun14_v3
+Test_GL_Jun14_v1
+')]</value>
+      <webElementGuid>36b0a200-b877-42b9-946b-3111fc5e7ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P109_TARGET_ROLE']</value>
+      <webElementGuid>5c2c062d-45ae-4e25-8487-533466d91f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P109_TARGET_ROLE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>5d37b489-62fd-491d-9df7-651ffff6be57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target role'])[1]/following::select[1]</value>
+      <webElementGuid>9b183346-71fd-4c1e-b969-220f630f017f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Target Role'])[1]/following::select[1]</value>
+      <webElementGuid>581dd5a8-5957-492b-b962-cf21a03b4faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles Report'])[4]/preceding::select[1]</value>
+      <webElementGuid>9cf63ca9-1370-4fee-b3da-906297b7e970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>79a03bc9-9273-4621-b519-ef56a064e0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>79f3b6f0-b2c4-4f07-8b9f-b299b086fe7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

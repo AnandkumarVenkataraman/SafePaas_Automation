@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Application Developer (RESPONSIBILITY)  _3e8c20</name>
+   <tag></tag>
+   <elementGuidId>0f5326ef-4248-4484-8fec-e45669661df6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = '> Application Developer (RESPONSIBILITY) > 	ITIL Incident manager (MENU)' or . = '> Application Developer (RESPONSIBILITY) > 	ITIL Incident manager (MENU)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;> Application Developer (RESPONSIBILITY) > ITIL Incident manager (MENU)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b8677f89-2ae9-4d6c-bcc2-ada80d24d3f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>f796c596-57a0-4a30-84f0-354232aa9648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C70130355645174144</value>
+      <webElementGuid>5e741525-3490-4db9-86b2-7ac02d3fc744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>> Application Developer (RESPONSIBILITY) > 	ITIL Incident manager (MENU)</value>
+      <webElementGuid>4c74d1aa-6954-4df1-a065-66ebea9dfc67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;147704922000499017_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>3be72f6b-8cb1-41ad-ab4e-90981573a5e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '> Application Developer (RESPONSIBILITY) > 	ITIL Incident manager (MENU)' or . = '> Application Developer (RESPONSIBILITY) > 	ITIL Incident manager (MENU)')]</value>
+      <webElementGuid>37d1de1e-51a0-4dcf-a01f-dc5b534a5aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='147704922000499017_orig']/tbody/tr[2]/td</value>
+      <webElementGuid>79d97ce8-ed31-4563-8783-3b570e8b5139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excluded'])[1]/following::td[1]</value>
+      <webElementGuid>2c64c9a6-3190-4ee6-8374-aafa58f45864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Name'])[1]/following::td[1]</value>
+      <webElementGuid>f06575f1-0a22-4dab-8454-3a324ecbe260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y'])[1]/preceding::td[1]</value>
+      <webElementGuid>7a2d667c-4d92-422a-aede-36445a6ec0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>b0272345-8d17-43cf-a0db-aa2cbd892f9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
