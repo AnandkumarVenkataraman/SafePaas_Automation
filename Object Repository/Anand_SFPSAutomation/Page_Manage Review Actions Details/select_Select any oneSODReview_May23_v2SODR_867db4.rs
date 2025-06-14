@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneSODReview_May23_v2SODR_867db4</name>
+   <tag></tag>
+   <elementGuidId>943b3f7b-a65d-4bb5-8d06-2fd949b49f2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P141_MRA_ACCESS_TEST' and (text() = 'Select any one
+SODReview_May23_v2
+SODReview_May23_v1
+' or . = 'Select any one
+SODReview_May23_v2
+SODReview_May23_v1
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P141_MRA_ACCESS_TEST</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Manage Review Action&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1c97f822-374d-4656-a55e-c90617ed1d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P141_MRA_ACCESS_TEST</value>
+      <webElementGuid>d9782bcf-93c9-4bb6-bd17-100ad1548899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P141_MRA_ACCESS_TEST</value>
+      <webElementGuid>4716b868-a414-4d61-960a-2ad3c9d7433f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>9eed6ac6-f67e-42bb-aaeb-ad4ea0fa062d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>18bee2fd-9f7a-4674-846e-48810321cee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>993c255c-320e-4e6e-b431-32182a58ee97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P141_MRA_ACCESS_TEST');</value>
+      <webElementGuid>63a6c591-3c54-4c0a-aa9b-ea88847d7eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+SODReview_May23_v2
+SODReview_May23_v1
+</value>
+      <webElementGuid>7ef07131-d801-4dd6-8bd4-61bbe7f9c065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P141_MRA_ACCESS_TEST&quot;)</value>
+      <webElementGuid>2ae98f04-f1ce-4df0-9c3b-758f8618c0cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P141_MRA_ACCESS_TEST' and (text() = 'Select any one
+SODReview_May23_v2
+SODReview_May23_v1
+' or . = 'Select any one
+SODReview_May23_v2
+SODReview_May23_v1
+')]</value>
+      <webElementGuid>51986eba-84e7-4f20-ba8a-6affe92da9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P141_MRA_ACCESS_TEST']</value>
+      <webElementGuid>018bd1ab-a175-467d-b9b2-dcb7a87bcd3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P141_MRA_ACCESS_TEST_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>c6c7c208-5e28-428d-a666-b4c65bddf958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Action'])[1]/following::select[1]</value>
+      <webElementGuid>987156e2-25be-4eda-975b-d45d5f6adbee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>bd4e9210-f8a4-452d-baec-b05146f477b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[1]</value>
+      <webElementGuid>5970598e-d22f-4214-8edd-55476a4f8689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[1]</value>
+      <webElementGuid>d447bd27-0fef-4d16-84af-622fc65f196e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>c63a93ec-1ad5-4f30-adba-292033ec1176</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Manage Review Actions Details  - EBiz_SO_5e3ddf</name>
+   <tag></tag>
+   <elementGuidId>db0d8ea2-01a0-4c6e-b86a-0821d7d69b23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[(text() = 'Manage Review Actions Details  - EBiz_SODTest_May23_v1' or . = 'Manage Review Actions Details  - EBiz_SODTest_May23_v1')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R218565545539707641_heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Manage Review Actions Details - EBiz_SODTest_May23_v1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>61b0afca-5d3b-43d0-bcd9-a4aa9258e080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Region-title</value>
+      <webElementGuid>a35420e0-5a75-4559-bb0f-ef56938550c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R218565545539707641_heading</value>
+      <webElementGuid>b8a1d647-c6ab-40a9-8c81-8c2b2cfc3fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Review Actions Details  - EBiz_SODTest_May23_v1</value>
+      <webElementGuid>320339c5-77fc-4d67-b00d-bc36720f9be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R218565545539707641_heading&quot;)</value>
+      <webElementGuid>02128dc1-1739-42de-a9df-914056528357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Manage Review Actions Details  - EBiz_SODTest_May23_v1' or . = 'Manage Review Actions Details  - EBiz_SODTest_May23_v1')]</value>
+      <webElementGuid>68dcd73c-9882-4d74-9e7c-c96879164dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='R218565545539707641_heading']</value>
+      <webElementGuid>d207e7bc-229e-4a6b-b857-1d687552ae96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R218565545539707641']/div/div/h2</value>
+      <webElementGuid>39042d3d-7692-42e5-8daf-6fdb6364bd56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Action'])[1]/following::h2[1]</value>
+      <webElementGuid>68768b3a-ac3c-40e2-a09e-bf779ed6b668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::h2[1]</value>
+      <webElementGuid>f3851201-b4bd-47df-9819-e5a48aa3d8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/preceding::h2[1]</value>
+      <webElementGuid>8d097699-de52-478c-95e3-d5cf4b7e2d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::h2[1]</value>
+      <webElementGuid>853cddc0-5038-4371-97e4-70873dba521a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>6ccca444-41c7-4895-a017-891b9d525484</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
