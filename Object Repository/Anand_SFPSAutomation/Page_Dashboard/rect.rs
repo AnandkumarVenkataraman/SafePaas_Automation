@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect</name>
+   <tag></tag>
+   <elementGuidId>9572df07-ff8b-4a66-9447-22c13cb9b54e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R135649341173962702_jet > svg > g > g > g > g > rect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#R135649341173962702_jet > svg > g > g > g > g > rect</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>3dac4e5b-9c7f-474c-804b-49ed9d1f580d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>227</value>
+      <webElementGuid>ea4933bf-a8f3-4969-a6f5-f336688f0442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>119</value>
+      <webElementGuid>eeb51966-efda-454e-8b29-5e3e62fdbca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>rgba(0,0,0,0)</value>
+      <webElementGuid>39154d8e-182c-407a-88f8-fe6ecab67c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R135649341173962702_jet&quot;)/svg[1]/g[1]/g[1]/g[1]/g[1]/rect[1]</value>
+      <webElementGuid>8b977902-98f5-408e-84a8-323057acd63e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
