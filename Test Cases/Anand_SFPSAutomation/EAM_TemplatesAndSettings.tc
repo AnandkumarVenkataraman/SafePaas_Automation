@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM_TemplatesAndSettings</description>
+   <name>EAM_TemplatesAndSettings</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f2361a2-b684-4f24-9163-337f0af59df6</testCaseGuid>
+</TestCaseEntity>
