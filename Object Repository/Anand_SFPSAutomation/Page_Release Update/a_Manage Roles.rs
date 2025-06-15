@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Roles</name>
+   <tag></tag>
+   <elementGuidId>585a238a-27c9-42e0-b1e2-622e3180c426</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA' and (text() = 'Manage Roles' or . = 'Manage Roles')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Manage Roles&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6036d2d8-bf5f-4506-a84c-2427df199660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>7c84fd3b-853a-4d2d-8209-ad5aead379d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>ea223ac2-43a4-4627-b6e3-3d8a1b765f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label</value>
+      <webElementGuid>ce0bddef-6b5a-4d02-af11-062c016209ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA</value>
+      <webElementGuid>c401216b-a93b-439a-9bfc-716da24a9eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>a3c21522-e34c-4faa-8c2b-08efef942a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>768b7e4f-a727-41b7-bb81-82daf9f32d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Roles</value>
+      <webElementGuid>32c6a03b-3856-41a5-a7be-7baba2ea1b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_263&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>e07c4abd-09ac-4469-8ebe-896acbeee49f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA' and (text() = 'Manage Roles' or . = 'Manage Roles')]</value>
+      <webElementGuid>f1af092e-c048-4c73-8452-9efa09a22913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_263']/div[2]/a</value>
+      <webElementGuid>bacb7621-ca3c-42fc-afe0-de421f519e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Roles')]</value>
+      <webElementGuid>d813ca6c-1f23-4907-99ba-e7842b46e84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[10]/following::a[1]</value>
+      <webElementGuid>084f2f5f-b684-42e1-9640-84ea949349a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Update'])[2]/following::a[1]</value>
+      <webElementGuid>83d03fb4-469a-4e3c-b4ea-155995f1239d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles'])[1]/preceding::a[1]</value>
+      <webElementGuid>514609f5-67d3-45bb-b1ab-d5658fcf4850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[2]/preceding::a[2]</value>
+      <webElementGuid>8734a312-7d06-48c0-b27a-48ba1cba354f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Roles']/parent::*</value>
+      <webElementGuid>2aa3322b-be38-4daa-b2df-2c10c246a300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA')]</value>
+      <webElementGuid>82a1f464-49ed-4ba5-b17b-b656d2cf8f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[3]/ul/li/div[2]/a</value>
+      <webElementGuid>d2e97608-6942-4eda-ab14-69b5fe7d4ab5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
