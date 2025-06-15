@@ -48,6 +48,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/label_SFTP User'), 'SFTP User')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_katdataadm'), 'katdataadm')
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_Settings'))
 
@@ -85,6 +86,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_This parameter specifies the number of d_5a8f29'), 
     'This parameter specifies the number of days before a scheduled download is purged')
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/button_concat(Search for , , Company Settin_672aab'))
 
@@ -117,6 +119,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_09-APR-25'), '09-APR-25')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_66812979'), '66812979')
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/button_concat(Row text contains , , KATADMI_68d78e'))
 
@@ -192,6 +195,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_SafeInsight'), 
     'SafeInsight')
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/button_concat(Search for , , KATADMIN, , )__5d4760'))
 
@@ -201,6 +205,7 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePa
     'KATADMIN')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/button_Go'))
+WebUI.takeScreenshot()
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/td_KATADMIN'), 
     'KATADMIN')
@@ -225,6 +230,7 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePa
     'KATADMIN')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/button_Go'))
+WebUI.takeScreenshot()
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/td_Company Settings'), 
     'Company Settings')
@@ -286,3 +292,97 @@ WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Usage/a_Release Update'))
 WebUI.takeScreenshot()
 WebUI.delay(2)
+
+//Security
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Release Update/span_Release Update_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Release Update/a_Manage Roles'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/input_Create_R126254423628149701_search_field'),
+	'ALL_ACCESS')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/button_Go'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/img_End Date_apex-edit-page'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role/button_Cancel'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/button_concat(Row text contains , , all, , _45e6fd'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/input_Create_R126254423628149701_search_field'),
+	'Admin_ReadOnlyAccess')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/button_Go'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/img_End Date_apex-edit-page'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role/button_Cancel'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/button_concat(Row text contains , , all, , _45e6fd'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/a_Assign Roles'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/input_Create_R127441311092542518_search_field'),
+	'KATADMIN')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_Go'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_KATADMIN'), 'KATADMIN')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_ALL_ACCESS'), 'ALL_ACCESS')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_concat(Row text contains , , KATADMI_68d78e'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/input_Create_R127441311092542518_search_field'),
+	'ANANDK1')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_Go'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_ANANDK1'), 'ANANDK1')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_Admin_ReadOnlyAccess'),
+	'Admin_ReadOnlyAccess')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_concat(Row text contains , , KATADMI_68d78e'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (1)'))
+
+//Logging in as the user# who is assigned Function read access
+//and verify the Create button is not rendered in
+//Manage Company > Users tab
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (11)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (11)'),
+	'ANANDK1')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (11)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (10)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Company (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_Users'))
+WebUI.takeScreenshot()
+WebUI.delay(2)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_anandk1 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Logout'))
+
+WebUI.closeBrowser()
+
