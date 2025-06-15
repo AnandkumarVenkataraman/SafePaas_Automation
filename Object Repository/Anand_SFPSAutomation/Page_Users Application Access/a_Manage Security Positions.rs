@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Security Positions</name>
+   <tag></tag>
+   <elementGuidId>b558e110-0b7f-4c3d-86d8-c8f6b41246bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g' and (text() = 'Manage Security Positions' or . = 'Manage Security Positions')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Manage Security Positions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>01f269fd-8336-4620-b46a-2a08f7f01b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c9277cad-79cd-4862-8a92-33f109f03dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>30df795b-e92e-4a46-9409-5f4c64f6c23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label</value>
+      <webElementGuid>aae3f099-d03e-4289-882a-24b6c32ba37e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g</value>
+      <webElementGuid>845b4be3-a7c3-4b04-acfd-fe59c8a47612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>16d89037-ec7d-4532-aa81-8a167d71d61f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>63fd8795-8b27-4900-9800-531e5f747592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Security Positions</value>
+      <webElementGuid>d8c7f922-648a-4d92-9074-6517575c8899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_249&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>0f75d1db-84d5-4255-add3-d9110d4fb818</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g' and (text() = 'Manage Security Positions' or . = 'Manage Security Positions')]</value>
+      <webElementGuid>96b31418-bdf0-4955-b48b-884e2dea8e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_249']/div[2]/a</value>
+      <webElementGuid>5c82c56a-552d-41a6-acf7-b78f101ad32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Security Positions')]</value>
+      <webElementGuid>d0771697-1ecf-4ae4-ae69-d5054e902431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cross Data Sources'])[1]/following::a[1]</value>
+      <webElementGuid>aed729ee-257d-4a33-bb2f-23967b220462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Environment'])[2]/following::a[2]</value>
+      <webElementGuid>95fd1f6b-6a22-4c80-9590-b4f60bee6261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SafePaaS User Listing'])[1]/preceding::a[1]</value>
+      <webElementGuid>fe860296-50cc-4d8b-9be2-77de8a8f754f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SafePaaS User Application Listing'])[1]/preceding::a[2]</value>
+      <webElementGuid>b2d2f410-0a6e-4682-b4ea-ccca63e1d0b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Security Positions']/parent::*</value>
+      <webElementGuid>483f10c4-3319-44d3-b3e1-622391b0a71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g')]</value>
+      <webElementGuid>5a592950-9233-4c11-8b91-842e639b62cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/ul/li[4]/div[2]/a</value>
+      <webElementGuid>afc7f840-c3f9-4cb5-8f97-cdf878015e80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
