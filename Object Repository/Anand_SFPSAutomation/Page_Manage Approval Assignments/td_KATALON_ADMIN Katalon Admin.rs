@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_KATALON_ADMIN Katalon Admin</name>
+   <tag></tag>
+   <elementGuidId>958a3768-71c0-4e80-8d83-f11353ec3d4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'KATALON_ADMIN Katalon Admin' or . = 'KATALON_ADMIN Katalon Admin')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R161484516470940436_ig_grid_vc_cur</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 5.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6157facb-8caa-47d1-8d72-91427b7c7305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>3d0c0f72-418d-45df-a627-35c048009306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cc8181bc-f967-4bd9-aad0-872e968dd701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-focused</value>
+      <webElementGuid>adc27440-005a-4263-938e-d5a8f35981cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>R161484516470940436_ig_grid_vc_ctx C161485341254940444_HDR R161484516470940436_ig_grid_vc_cur</value>
+      <webElementGuid>7d6c1ba4-fc7f-4d71-8e2c-3292de35e1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R161484516470940436_ig_grid_vc_cur</value>
+      <webElementGuid>074158b0-a38c-4382-8206-de0f97ce5aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KATALON_ADMIN Katalon Admin</value>
+      <webElementGuid>2a496deb-83ae-4aaa-8b25-dd0f4632dd20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R161484516470940436_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>acbea00e-8f2b-4813-8b37-7eec19f86653</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'KATALON_ADMIN Katalon Admin' or . = 'KATALON_ADMIN Katalon Admin')]</value>
+      <webElementGuid>5098e8a3-9bb7-4bdd-b5b6-cab0c6e5f7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='R161484516470940436_ig_grid_vc_cur']</value>
+      <webElementGuid>c00f6505-3fd7-4b6c-bcb6-ff05db7f612b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R161484516470940436_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[4]</value>
+      <webElementGuid>cca08147-7ff5-4d1d-8b93-f395e7a889ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN Kat Admin'])[1]/following::td[1]</value>
+      <webElementGuid>c470df39-1078-454e-88c4-6abd0e42c5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HCM'])[2]/following::td[2]</value>
+      <webElementGuid>6d34e2a3-a5cc-4788-b710-4b15106f3143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page rows'])[1]/preceding::td[1]</value>
+      <webElementGuid>9041efbe-8b84-4d5b-8c13-c75c0e3532f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total 1'])[1]/preceding::td[1]</value>
+      <webElementGuid>6d58e965-4f79-47f3-a077-4b10957913f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KATALON_ADMIN Katalon Admin']/parent::*</value>
+      <webElementGuid>ec9521cc-e00d-47ca-b729-524c2c6d177f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>a2b5decb-eb90-4930-86c5-6e81dcbb0d7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
