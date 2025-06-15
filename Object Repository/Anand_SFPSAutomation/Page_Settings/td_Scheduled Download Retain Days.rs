@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Scheduled Download Retain Days</name>
+   <tag></tag>
+   <elementGuidId>137db614-5789-4681-82af-140b913fa9f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Scheduled Download Retain Days' or . = 'Scheduled Download Retain Days')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#R307838823214507554_ig_grid_vc_cur</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Row 3, Column 3.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4abef56a-573e-4c1a-bb1b-a4fa03ff5ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>e52acfb0-264d-4a28-b639-fd468df1f801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b5d25c56-7e41-4714-923e-20717e7aab08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tC is-readonly is-focused</value>
+      <webElementGuid>fee72b8f-f110-4511-aadf-667b6a3df57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>R307838823214507554_ig_grid_vc_ctx C153814212621916549_HDR R307838823214507554_ig_grid_vc_cur</value>
+      <webElementGuid>a1eedb82-4df8-4658-b569-adc857cae358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>R307838823214507554_ig_grid_vc_cur</value>
+      <webElementGuid>21eb4011-24b1-4996-8618-908f8305239c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scheduled Download Retain Days</value>
+      <webElementGuid>f751690d-99a4-4166-b323-ad01e81a3712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R307838823214507554_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>68716b75-8da6-481e-97f4-59b157742e40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Scheduled Download Retain Days' or . = 'Scheduled Download Retain Days')]</value>
+      <webElementGuid>02fb4fc7-ce70-4571-a29e-af9812aa72b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='R307838823214507554_ig_grid_vc_cur']</value>
+      <webElementGuid>bbb98ef5-a696-487e-9814-60bbb2845a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R307838823214507554_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>260734b4-dfe8-4ba1-847e-61dd38837c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Settings'])[4]/following::td[2]</value>
+      <webElementGuid>293532b9-151d-4b88-bb66-d45a1178777e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUMBER'])[1]/following::td[4]</value>
+      <webElementGuid>fa2204ac-3ca5-4bb9-a1a4-af7769e50dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUMBER'])[2]/preceding::td[2]</value>
+      <webElementGuid>23e955cb-937d-4f51-b6c8-f665b0de8aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This parameter specifies the number of days before a scheduled download is purged'])[1]/preceding::td[3]</value>
+      <webElementGuid>9bbef642-3d24-4a6d-ae07-ea1d6c118c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scheduled Download Retain Days']/parent::*</value>
+      <webElementGuid>f8d06a30-c9bf-4085-a8b2-5efb1af0c603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]</value>
+      <webElementGuid>e3e0fe96-f522-4332-b8fc-ff54cc6791cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

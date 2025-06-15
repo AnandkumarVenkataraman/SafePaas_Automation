@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_SFTP User</name>
+   <tag></tag>
+   <elementGuidId>57053725-aa78-417f-bb35-ad74159283e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'SFTP User' or . = 'SFTP User')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P15_OS_USER_LABEL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SFTP User&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>cc538692-b029-4fc1-9673-94305c99e4d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P15_OS_USER</value>
+      <webElementGuid>d94afca3-6c93-4ac1-82e2-625e5cdfb209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P15_OS_USER_LABEL</value>
+      <webElementGuid>09d4798d-960d-4706-a354-00e2c2189e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-label</value>
+      <webElementGuid>48ab0de1-00c8-40e4-9590-6ac7a03f4f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SFTP User</value>
+      <webElementGuid>ab0dca8e-9718-4f1f-a196-ab674477caf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P15_OS_USER_LABEL&quot;)</value>
+      <webElementGuid>f7d854b9-15f9-4106-815d-71cf47eaf7bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'SFTP User' or . = 'SFTP User')]</value>
+      <webElementGuid>438f4fa2-ab9f-4f4b-9664-bc19041a9806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='P15_OS_USER_LABEL']</value>
+      <webElementGuid>18932885-eb59-4798-9628-3b8c1875ed76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P15_OS_USER_CONTAINER']/div/label</value>
+      <webElementGuid>0a273983-943c-4a71-ac7a-755ebc4c6fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iAccess'])[1]/following::label[1]</value>
+      <webElementGuid>bcc0dbba-2a06-4fc7-af61-acdd10ded6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SafeInsight'])[1]/following::label[2]</value>
+      <webElementGuid>bdd44f9c-528c-47a1-b98e-d85cf85ceeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katdataadm'])[1]/preceding::label[1]</value>
+      <webElementGuid>7e0540b4-25f5-4a46-bb9f-e1e48ed4fcb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SSH Public Keys'])[1]/preceding::label[1]</value>
+      <webElementGuid>5e81dd7c-840b-4e91-a881-0e43e0a4ea42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SFTP User']/parent::*</value>
+      <webElementGuid>653aa28d-6bc1-4568-a3dc-73432f7bb799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/div/label</value>
+      <webElementGuid>f7289d0e-6124-453c-8d6b-be2399398a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
