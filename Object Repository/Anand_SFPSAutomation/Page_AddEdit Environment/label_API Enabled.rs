@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_API Enabled</name>
+   <tag></tag>
+   <elementGuidId>cae8a333-a76e-4160-b2c8-0da3c92f46a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'API Enabled' or . = 'API Enabled')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_API_ENABLED_LABEL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;API Enabled&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>945a5981-a32f-499a-ae35-ac5b7065ddc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P13_API_ENABLED</value>
+      <webElementGuid>81fa8dc5-fba2-4485-8d5e-150d3e053392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P13_API_ENABLED_LABEL</value>
+      <webElementGuid>0f1c61c6-b3d3-4ccc-8ac2-103ca5c5c8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-label</value>
+      <webElementGuid>7305a9b5-e911-4772-961b-d1298af46388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>API Enabled</value>
+      <webElementGuid>74ff79a6-d574-435f-ac89-530f3af7a35c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_API_ENABLED_LABEL&quot;)</value>
+      <webElementGuid>40da9285-a1d7-41d9-925a-650f982bf717</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'API Enabled' or . = 'API Enabled')]</value>
+      <webElementGuid>fd6c72a5-f1df-45ae-ba8f-ef6e1de32867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='P13_API_ENABLED_LABEL']</value>
+      <webElementGuid>525348a4-60ec-4568-a56e-c27e6b469d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P13_API_ENABLED_CONTAINER']/div/label</value>
+      <webElementGuid>33399a07-3684-44cd-9f9c-111ac3dc489f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request'])[1]/following::label[1]</value>
+      <webElementGuid>d7716c7a-7386-44a9-80f2-949965804308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::label[2]</value>
+      <webElementGuid>9b63e6d1-0135-4495-90a6-e40a9aa34db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Configuration'])[1]/preceding::label[2]</value>
+      <webElementGuid>8e6730e2-ee0a-444c-a4bc-8e6ee15ae8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::label[2]</value>
+      <webElementGuid>4cd5e795-f245-4b07-81e8-a59e6147a866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='API Enabled']/parent::*</value>
+      <webElementGuid>437c96aa-6fcc-4037-a580-c89123b3a6a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/label</value>
+      <webElementGuid>2f20583d-332b-438b-89e3-bef63c45ca9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
