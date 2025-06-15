@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Role Group Secondary Owner</name>
+   <tag></tag>
+   <elementGuidId>83f99728-688f-40cd-92d5-40a48a072c53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Role Group Secondary Owner' or . = 'Role Group Secondary Owner')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Role Group Secondary Owner&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e3a42f05-94d5-4f59-b919-debf2ed65039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Report-cell</value>
+      <webElementGuid>41c6c2f3-d957-4615-b51b-c8b4efa1cc0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>APPROVAL_ROLE</value>
+      <webElementGuid>ef1c5527-c71d-429a-a7fc-33bca250854c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role Group Secondary Owner</value>
+      <webElementGuid>58f2f5e5-9c5c-4726-8b36-bbe7ae33446f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_R158203823986183430&quot;)/div[@class=&quot;t-Report-wrap&quot;]/div[@class=&quot;t-Report-tableWrap&quot;]/table[@class=&quot;t-Report-report&quot;]/tbody[1]/tr[3]/td[@class=&quot;t-Report-cell&quot;]</value>
+      <webElementGuid>a1c776bb-7540-4557-bf12-de6c66904b91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Role Group Secondary Owner' or . = 'Role Group Secondary Owner')]</value>
+      <webElementGuid>38fc585a-c4c1-4753-9533-38ff1714d5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_R158203823986183430']/div/div/table/tbody/tr[3]/td[4]</value>
+      <webElementGuid>a9a10fbe-2b25-481f-988c-81b033ad8ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary'])[3]/following::td[1]</value>
+      <webElementGuid>3755f913-69f7-4037-b23a-2a3e9dca40b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[4]/following::td[5]</value>
+      <webElementGuid>6ae040e9-2043-4d13-8474-c5f2148d4451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[3]/preceding::td[1]</value>
+      <webElementGuid>445a882e-1f7d-4067-92a8-c34c5194691d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y'])[3]/preceding::td[2]</value>
+      <webElementGuid>9469eb2b-1e36-40fa-b89e-b6e634e57e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Role Group Secondary Owner']/parent::*</value>
+      <webElementGuid>cfecc1cf-04f6-463d-b02f-fba6220d119c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]</value>
+      <webElementGuid>94fac102-50bf-4387-84fc-2d173d9f6532</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
