@@ -237,6 +237,28 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/button_concat(Row text contains , , KATADMI_68d78e'))
 
+//Security Positions
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/a_Manage Security Positions'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS1'),
+	'POS1')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS1'),
+	'POS1')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_Company'),
+	'Company')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS2'),
+	'POS2')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS2'),
+	'POS2')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_Environment'),
+	'Environment')
+
 //Platform
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/span_Setup_a-TreeView-toggle'))
 
