@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enterprise iAccess</name>
+   <tag></tag>
+   <elementGuidId>1d3f0e93-7f1c-4bf0-80c2-3efadcad4032</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Enterprise iAccess' or . = 'Enterprise iAccess')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Products&quot;i >> div >> internal:has-text=&quot;Enterprise iAccess&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>251ab2a0-6008-41a3-bcc1-b45356407dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-item-option</value>
+      <webElementGuid>0ff8e8ed-d389-4705-af6b-569397fe4981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enterprise iAccess</value>
+      <webElementGuid>568d3b2a-f875-4df2-bd85-59b6a056796d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P15_LICENSE_PRODUCTS&quot;)/div[@class=&quot;apex-item-option&quot;]</value>
+      <webElementGuid>43177ead-97b0-4cb5-812e-247219772eea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enterprise iAccess' or . = 'Enterprise iAccess')]</value>
+      <webElementGuid>20c58103-0cb7-4b86-9ec2-be99136bf0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P15_LICENSE_PRODUCTS']/div[13]</value>
+      <webElementGuid>43e744ab-8845-4688-88ec-62984aff3e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Risk Manager'])[1]/following::div[1]</value>
+      <webElementGuid>0152fab0-cc81-40b5-8169-6df786cf5327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Monitor'])[2]/following::div[2]</value>
+      <webElementGuid>297ef5b3-b68a-4d40-90b7-02a69ea61dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise iCatalog'])[1]/preceding::div[1]</value>
+      <webElementGuid>8c283871-3833-4713-ad50-73d1bceb698c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div[2]/div/div/div[13]</value>
+      <webElementGuid>c3f0bd55-1465-41ed-ad23-a4edb16c6731</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
