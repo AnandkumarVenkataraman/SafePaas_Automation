@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Access to Self Service for ZA Employees f_0d95e8</name>
+   <tag></tag>
+   <elementGuidId>119431c8-9217-4973-afe6-fbbeed3ec41f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#instanceName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '#' and (text() = 'Access to Self Service for ZA Employees for Maria11
+Brum11' or . = 'Access to Self Service for ZA Employees for Maria11
+Brum11')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;N/A EIA - Create User and Access Request WF - Level 2 Access to Self Service for ZA Employees for Maria11
+Brum11 Completed Rejected by: KATADMIN Kat Admin 16-JUN-2025 05:36:33 FITADMIN KATADMIN 16-JUN-2025 05:38:51&quot;i] >> #instanceName</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eeb4a9ee-3d63-435e-b223-0f4432e2983f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>00aa5b53-a6b0-4753-aaa8-04f4f65fd382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>instanceName</value>
+      <webElementGuid>42583919-24e0-49db-ab25-375a748fd6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-instance</name>
+      <type>Main</type>
+      <value>CUAR 3925 - Level 2</value>
+      <webElementGuid>8e43bec3-cc99-43c0-858f-4f0a9453befb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-groupid</name>
+      <type>Main</type>
+      <value>5888</value>
+      <webElementGuid>7566ac25-b358-4965-a57b-0844b1c90f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Access to Self Service for ZA Employees for Maria11
+Brum11</value>
+      <webElementGuid>4676842e-a001-463d-b1ea-5cca6ce5cfc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;97388373399089016_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[@id=&quot;instanceName&quot;]</value>
+      <webElementGuid>78bfe242-74e0-426e-8e71-e472ac57455d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Access to Self Service for ZA Employees for Maria11
+Brum11' or . = 'Access to Self Service for ZA Employees for Maria11
+Brum11')]</value>
+      <webElementGuid>0bf41890-4cf5-46e9-9229-3519af554f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='instanceName']</value>
+      <webElementGuid>cf9f8790-8053-491f-b43f-831a06574ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[4]/a</value>
+      <webElementGuid>e0779f97-51e4-40f8-a38c-3c2a2a06961b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Access to Self Service for ZA Employees for Maria11
+Brum11')]</value>
+      <webElementGuid>0e9ade3b-5ecb-4320-8f6f-27dbe4a3249b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EIA - Create User and Access Request WF - Level 2'])[1]/following::a[1]</value>
+      <webElementGuid>1a4a32c6-fb02-447c-a8a6-ced2b668c9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/following::a[2]</value>
+      <webElementGuid>37ecadf6-a0bd-44c8-a26c-e4aa5ae02511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc56219c-7cee-451b-b723-f67ae5e08150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected by: KATADMIN Kat Admin'])[1]/preceding::a[1]</value>
+      <webElementGuid>80557c4c-c5cf-4331-88af-e68c383302e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>89807240-20be-40ad-a34c-009235ee4a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>53bd329b-7337-484c-a207-c62831b1b661</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

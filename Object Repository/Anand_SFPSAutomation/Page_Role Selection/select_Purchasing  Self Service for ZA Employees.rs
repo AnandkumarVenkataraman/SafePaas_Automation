@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Purchasing  Self Service for ZA Employees</name>
+   <tag></tag>
+   <elementGuidId>0e862372-e3ba-4098-8eed-57e27c84846e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P5_ENTRY_REQUEST_LEFT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@title = 'Move from' and (text() = 'Purchasing | Self Service for ZA Employees' or . = 'Purchasing | Self Service for ZA Employees')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Move from&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>70e81c2b-e449-4714-8954-a29a8c613f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Move from</value>
+      <webElementGuid>2bc42d85-1848-4738-861b-fe3765fe291d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>30b62001-7945-4950-b529-95478bc251cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P5_ENTRY_REQUEST_LEFT</value>
+      <webElementGuid>f5b95792-4de5-4787-a417-12e1370447f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>f8d74e5d-b24f-402f-bc59-0b5e728827ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shuttle_left apex-item-select</value>
+      <webElementGuid>385fb8fe-6764-4c30-837d-ba0bd943ec30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Purchasing | Self Service for ZA Employees</value>
+      <webElementGuid>95866f57-785a-4ac9-95d9-9f0414e50f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P5_ENTRY_REQUEST_LEFT&quot;)</value>
+      <webElementGuid>58232ffe-ef43-4883-b577-f89ac21ddab8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Move from' and (text() = 'Purchasing | Self Service for ZA Employees' or . = 'Purchasing | Self Service for ZA Employees')]</value>
+      <webElementGuid>99429ef2-5da0-4de6-aff2-c4bacf4d047e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P5_ENTRY_REQUEST_LEFT']</value>
+      <webElementGuid>e5c6220e-7c41-489e-a259-bd6df4c2082d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P5_ENTRY_REQUEST']/table/tbody/tr/td/select</value>
+      <webElementGuid>c207b938-1499-47a1-a439-08e60486f8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Group | Role'])[1]/following::select[1]</value>
+      <webElementGuid>52a60be0-6983-4ff2-81f3-0e52acf87f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::select[1]</value>
+      <webElementGuid>8dbfefb4-b520-4ae3-9b6d-b0d0536daae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[2]</value>
+      <webElementGuid>ed883654-f86e-4e1d-aeb9-95647292eee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[2]</value>
+      <webElementGuid>077ce80b-b226-439a-8926-afc49abcc345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>60cd3c32-51f1-44ba-af4f-276da97f2010</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

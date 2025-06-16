@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_MARIAB11 - Maria11 Brum11</name>
+   <tag></tag>
+   <elementGuidId>f42d0a07-be2b-4bc4-ac35-9dbadb41ae59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.a-IconList-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'MARIAB11 - Maria11 Brum11' or . = 'MARIAB11 - Maria11 Brum11')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;MARIAB11 - Maria11 Brum11&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ebb253bc-837e-45f2-ae5c-b8e7ca45e7a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>MARIAB11</value>
+      <webElementGuid>e13ee085-0472-46ae-8683-ff4690704575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IconList-item</value>
+      <webElementGuid>ceda3bc8-42f6-4cc9-9dc5-7a28af8054b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>f06ee320-b299-449b-bd9e-0b605d9af920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f48c0187-ec7f-44dc-bf74-f1414b4801c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MARIAB11 - Maria11 Brum11</value>
+      <webElementGuid>384e3513-fd7f-4303-bed4-72b668e4eb81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_114_P114_USER_LIST_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]</value>
+      <webElementGuid>4e50369b-8b5b-4af0-a83a-4bb2c1e331ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'MARIAB11 - Maria11 Brum11' or . = 'MARIAB11 - Maria11 Brum11')]</value>
+      <webElementGuid>12b330af-3df2-42a5-b6a6-4e61b1501467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_114_P114_USER_LIST_dlg']/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>1948b13c-e68a-42ac-8656-8c7839faec23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select List 1 rows. Use arrow keys'])[1]/following::li[1]</value>
+      <webElementGuid>158303cd-1023-45c3-896b-331954cf3521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[1]/following::li[1]</value>
+      <webElementGuid>f27b3e30-b007-4584-9454-e5ec8806396c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More Rows'])[1]/preceding::li[1]</value>
+      <webElementGuid>f27e3467-063c-48b5-9dd8-ae14c86d6b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='- Maria11 Brum11']/parent::*</value>
+      <webElementGuid>2dc22047-90db-4a18-bf01-7e3ee88fb2ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>07999992-a2bb-4e3e-9c12-b8455c311048</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

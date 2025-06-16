@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SSHR V4 for ZA Employees</name>
+   <tag></tag>
+   <elementGuidId>7a8254ad-ff86-472e-ada2-0aa5a04f2973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_ACCESS_DESCRIPTION</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'SSHR V4 for ZA Employees' or . = 'SSHR V4 for ZA Employees')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SSHR V4 for ZA Employees&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d1e11cf-c831-4aa6-89cb-9a9063caf049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_ACCESS_DESCRIPTION</value>
+      <webElementGuid>c92e09d0-3e01-4e7a-8ff9-7e267829d6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>a4f855b8-43c5-4415-ad97-835f37a1c1f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ce9d33b2-1268-4ae4-92ed-15be88a100ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SSHR V4 for ZA Employees</value>
+      <webElementGuid>cd975d90-d2ba-46a7-a6a6-83c8e7fdcb59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_ACCESS_DESCRIPTION&quot;)</value>
+      <webElementGuid>a90bdfb9-a17e-420e-b477-1cb6ec69acbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SSHR V4 for ZA Employees' or . = 'SSHR V4 for ZA Employees')]</value>
+      <webElementGuid>7fde9547-5c51-44e1-abca-59eafe0378fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P23_ACCESS_DESCRIPTION']</value>
+      <webElementGuid>06badf89-5683-42d9-aab4-15e83774d199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_ACCESS_DESCRIPTION_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>84c50b5c-c172-4c9f-a529-a7be5d9216c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Description'])[1]/following::span[1]</value>
+      <webElementGuid>a11ab298-4ae5-4970-bd75-d6bca56b8e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Service for ZA Employees'])[1]/following::span[2]</value>
+      <webElementGuid>e3fcce8e-2db8-4cb6-8aee-dd736d2c547c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Context Details'])[1]/preceding::span[2]</value>
+      <webElementGuid>881afd7b-b10b-42cf-9e16-828978a8f169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/preceding::span[2]</value>
+      <webElementGuid>1ddb19b0-c503-44fe-8975-5993600ae9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SSHR V4 for ZA Employees']/parent::*</value>
+      <webElementGuid>2c888333-e8f2-4c72-b4a8-0e001c4a334a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/span</value>
+      <webElementGuid>ec8d6ee7-36b6-42e0-bb5a-27d83c80594a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

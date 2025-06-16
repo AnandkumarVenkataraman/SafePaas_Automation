@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Maria11 Brum11 - MARIAB11</name>
+   <tag></tag>
+   <elementGuidId>f4bbdff3-7c9a-4628-a5a2-aa19d7398cf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_TO_USER</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Maria11 Brum11 - MARIAB11' or . = 'Maria11 Brum11 - MARIAB11')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Maria11 Brum11 - MARIAB11&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f08ac323-9cd0-4258-a48f-5a66ec8a4c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_TO_USER</value>
+      <webElementGuid>5dee41a1-6404-492e-9a74-b0a24d0c8889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>1a26efe3-fa0c-4a09-b77c-f8e84e0fd150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3f021275-3043-470e-8252-bb09589639f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maria11 Brum11 - MARIAB11</value>
+      <webElementGuid>bfc5d6ce-d98a-40fc-a6f7-e8a9bdda7187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_TO_USER&quot;)</value>
+      <webElementGuid>da621711-c211-4b5b-9886-4a673c47c4c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Maria11 Brum11 - MARIAB11' or . = 'Maria11 Brum11 - MARIAB11')]</value>
+      <webElementGuid>6fdcdca1-9fab-469b-9f4e-d805e0b3eb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P23_TO_USER']</value>
+      <webElementGuid>4314ac9d-a683-4e76-a02b-71d5ad6f4d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_TO_USER_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>bc2bc011-0015-4f51-97e0-c117920d959c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requested for User'])[1]/following::span[1]</value>
+      <webElementGuid>99a0aae8-be4a-46a1-9b39-255928509277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[1]/following::span[2]</value>
+      <webElementGuid>23e16ad2-9749-4144-8517-05fda2d8865f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Requested'])[1]/preceding::span[2]</value>
+      <webElementGuid>a8d59d0e-cc8e-44b4-ada7-3241c71e7013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Service for ZA Employees'])[1]/preceding::span[2]</value>
+      <webElementGuid>dcddce1b-9ab2-4f08-92bc-02de3af821d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maria11 Brum11 - MARIAB11']/parent::*</value>
+      <webElementGuid>1f0ad8e6-aa34-4925-bdb3-505cd12e1627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/span</value>
+      <webElementGuid>e695e708-6e85-4658-9033-c74979cc43f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
