@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MonitorPaaS</name>
+   <tag></tag>
+   <elementGuidId>ca6ab43e-9e53-4e89-b775-69ef87113a54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'MonitorPaaS' or . = 'MonitorPaaS')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Products&quot;i >> div >> internal:has-text=&quot;MonitorPaaS&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5dc295b-0272-4d3a-b4c4-a993e34307e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-item-option</value>
+      <webElementGuid>eb1a0007-69be-41bd-885f-b7f5ca7dd801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MonitorPaaS</value>
+      <webElementGuid>efdb295c-ca36-4530-8079-77bff827c1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P15_LICENSE_PRODUCTS&quot;)/div[@class=&quot;apex-item-option&quot;]</value>
+      <webElementGuid>1de8615c-2294-4a98-9df1-1884bdae38d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MonitorPaaS' or . = 'MonitorPaaS')]</value>
+      <webElementGuid>121490cd-ad9a-4a7b-94a2-6d1391c93195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P15_LICENSE_PRODUCTS']/div[20]</value>
+      <webElementGuid>5bb11600-2d1a-4e03-a615-710231ee9107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key Risk Indicator'])[1]/following::div[1]</value>
+      <webElementGuid>23d07e89-7612-4261-8841-6af12978c6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incident Monitor'])[1]/following::div[2]</value>
+      <webElementGuid>a1caea13-9993-4a03-a3d3-af4e034d1cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[2]/preceding::div[1]</value>
+      <webElementGuid>0d3ab174-0774-4b35-a07a-f82fb33f2c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]</value>
+      <webElementGuid>d7388a5d-f680-43ff-af01-4126ba322fdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

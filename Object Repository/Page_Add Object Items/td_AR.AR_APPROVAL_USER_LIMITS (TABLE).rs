@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AR.AR_APPROVAL_USER_LIMITS (TABLE)</name>
+   <tag></tag>
+   <elementGuidId>236ac76a-0e28-4239-8807-b7b846e17477</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#oItemsDatabaseIg_ig_grid_vc_cur</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'AR.AR_APPROVAL_USER_LIMITS (TABLE)' or . = 'AR.AR_APPROVAL_USER_LIMITS (TABLE)')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 5.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>976e01c6-d114-4f62-9c68-dae43770b70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>ce750b35-9db0-4186-90b0-8473cbbd41c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>acff58f5-77c8-4903-a945-2bb1d176728d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-focused</value>
+      <webElementGuid>95968458-e697-4d6d-9aee-08be25399033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>oItemsDatabaseIg_ig_grid_vc_ctx DB_TAB_ID_HDR oItemsDatabaseIg_ig_grid_vc_cur</value>
+      <webElementGuid>b07f49ae-34fc-4016-a09b-0c5809a793b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>oItemsDatabaseIg_ig_grid_vc_cur</value>
+      <webElementGuid>36789387-b63c-4a7b-966b-99545d7adfb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AR.AR_APPROVAL_USER_LIMITS (TABLE)</value>
+      <webElementGuid>c3827b12-a3ed-452d-aac8-457d3e605542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oItemsDatabaseIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>87340ec7-cb9e-45f7-bdfc-8df34b4ff470</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'AR.AR_APPROVAL_USER_LIMITS (TABLE)' or . = 'AR.AR_APPROVAL_USER_LIMITS (TABLE)')]</value>
+      <webElementGuid>0d8b14dd-81a3-4d7a-9eeb-e1fcef8eefdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='oItemsDatabaseIg_ig_grid_vc_cur']</value>
+      <webElementGuid>40967b7d-d70a-4296-964f-0963bd6605be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oItemsDatabaseIg_ig_grid_vc']/div[2]/div[4]/table/tbody/tr/td[4]</value>
+      <webElementGuid>cd7ae5c8-e688-4b13-8a39-8313b33b2549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key'])[2]/following::td[4]</value>
+      <webElementGuid>cfdc0ad1-b622-480c-8f49-3c42dca30e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Query'])[2]/following::td[4]</value>
+      <webElementGuid>be35b9f0-726b-44dd-bc85-2ac160b86240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMOUNT_FROM'])[1]/preceding::td[2]</value>
+      <webElementGuid>f7a9a2a0-3d72-4d4d-81d2-46161060c868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From Amount'])[1]/preceding::td[3]</value>
+      <webElementGuid>8c23f77d-ddcb-4649-88a6-08efd821d8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AR.AR_APPROVAL_USER_LIMITS (TABLE)']/parent::*</value>
+      <webElementGuid>64b40723-6e6e-4ff6-becb-9c466565bbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>b505b350-bf43-435e-9483-e7580bd1c396</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

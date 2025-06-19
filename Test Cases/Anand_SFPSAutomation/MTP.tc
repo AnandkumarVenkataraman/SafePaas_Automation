@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MonitorPaaS</description>
+   <name>MTP</name>
+   <tag>MTP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb1ab009-f5bb-4afc-afb5-a1f4cf64118c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_AR Approval Limits</name>
+   <tag></tag>
+   <elementGuidId>2901f23e-6ee0-4ca4-af05-8c7327bb54b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;361691&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[(text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Move to&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>1be5369a-ca13-4859-9a96-2e8b768df2be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>361691</value>
+      <webElementGuid>870fa760-2752-4479-9599-64ebc6a84355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AR Approval Limits</value>
+      <webElementGuid>5b79af33-ba0d-4d08-b32f-02bea8ade981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P18_OBJECTS_NAME_RIGHT&quot;)/option[3]</value>
+      <webElementGuid>5bfc2b2c-71bb-4ee2-b8a2-5453b6ad4c44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = 'AR Approval Limits' or . = 'AR Approval Limits')]</value>
+      <webElementGuid>9c693acb-5373-4d1b-aa16-d6ba5395c65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='361691']</value>
+      <webElementGuid>5c156e63-c9d5-4306-b040-82bff73f2962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='P18_OBJECTS_NAME_RIGHT']/option[3]</value>
+      <webElementGuid>84c0b010-479e-4183-94b0-3e66dc1828e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Objects name'])[1]/following::option[4]</value>
+      <webElementGuid>310a7659-ab7b-45c3-836d-7c39627b0973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataProbe'])[3]/following::option[4]</value>
+      <webElementGuid>d3e3b23e-4a41-4a29-8c77-6c3dc94dea6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Objects'])[1]/preceding::option[2]</value>
+      <webElementGuid>95563e2c-2fc8-4e5e-a6c6-0b4f85fc9f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::option[2]</value>
+      <webElementGuid>4e17fae2-b8d3-4a72-a5e8-14681308db98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AR Approval Limits']/parent::*</value>
+      <webElementGuid>235ade56-368f-4b16-b2db-18ae727e154b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//option[3]</value>
+      <webElementGuid>67e01320-345e-4250-8ba2-8113de8a372c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
