@@ -6,12 +6,12 @@
    <elementGuidId>cd498c35-391a-4f0b-8a04-56e0b2961122</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage Workflow')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1001:37:5164269808579:::37::&amp;cs=3j9lULNEQAzv9tzaDKijMW5qbOyoYrkk8QIVcaE_aOjV8QuA-O6vHnoq-8pg5fuVUhVaXugAERafOkrC9LgtsBQ' and (text() = 'Manage Workflow' or . = 'Manage Workflow')]</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7984c3aa-1d98-4b3e-940a-ac1d2a5dd9f9</webElementGuid>
+      <webElementGuid>d60cd672-5f2c-4e1b-8699-9b92d56758d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>95e284f9-b8f9-4081-82cf-cc59012f3c63</webElementGuid>
+      <webElementGuid>8f19df7b-2220-431b-b551-405bbeb00fc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>d25079ad-300f-4dc9-9cc9-2805b932ee96</webElementGuid>
+      <webElementGuid>c495b4c7-b78d-4916-b387-03d6004cc072</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>b1f76c56-20d2-4214-9690-975c1720217f</webElementGuid>
+      <webElementGuid>5981385a-0a4b-4dd1-8901-67fee5fdd199</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:37:5164269808579:::37::&amp;cs=3j9lULNEQAzv9tzaDKijMW5qbOyoYrkk8QIVcaE_aOjV8QuA-O6vHnoq-8pg5fuVUhVaXugAERafOkrC9LgtsBQ</value>
-      <webElementGuid>f29a3e55-b878-471b-ac41-c984cb5c1e32</webElementGuid>
+      <webElementGuid>ab199b38-913e-4a61-a591-4ebd6b0685b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>3de9c735-52c8-4409-9fa9-133acaf22045</webElementGuid>
+      <webElementGuid>cb4b32a0-d252-4259-be9a-7abeab56cb90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>da549ef3-6411-4d89-9801-7014d374f165</webElementGuid>
+      <webElementGuid>449e92a6-49bb-4559-b558-fb59ce2d8b5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Workflow</value>
-      <webElementGuid>03577b09-4c03-403f-99f7-6bb33abb5833</webElementGuid>
+      <webElementGuid>25772c7c-d4c8-406c-a242-37d426215b67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_9&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>430b2bcc-b2f6-45e3-92d9-fdabc44f488f</webElementGuid>
+      <webElementGuid>c89ad956-7e72-4a83-b224-8b7d46e74ddc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:37:5164269808579:::37::&amp;cs=3j9lULNEQAzv9tzaDKijMW5qbOyoYrkk8QIVcaE_aOjV8QuA-O6vHnoq-8pg5fuVUhVaXugAERafOkrC9LgtsBQ' and (text() = 'Manage Workflow' or . = 'Manage Workflow')]</value>
-      <webElementGuid>e9059d4a-8bd1-45a1-8717-5df83be17b1a</webElementGuid>
+      <webElementGuid>9f466241-44bd-4513-a515-a9112d3af1ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_9']/div[2]/a</value>
-      <webElementGuid>93c2a5e3-b523-4c9f-a497-2cbe09f8c803</webElementGuid>
+      <webElementGuid>cfd8fc7b-55df-4160-9895-b01a6e8736ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Workflow')]</value>
-      <webElementGuid>630ddb8e-02ab-4e62-ba35-04b5ade8f50c</webElementGuid>
+      <webElementGuid>8cf47fe3-53c4-46d4-ad52-271561967be7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduler'])[1]/following::a[1]</value>
-      <webElementGuid>ea0d97db-3efa-4037-923d-a5ba6ae512d9</webElementGuid>
+      <webElementGuid>d228f84c-d626-4798-b63d-664504c95e87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/following::a[2]</value>
-      <webElementGuid>058ede07-5aee-4352-af90-17c3de950c12</webElementGuid>
+      <webElementGuid>77ae95ae-b914-42fd-b507-ecdf26baf79a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled Downloads'])[1]/preceding::a[1]</value>
-      <webElementGuid>9b3eab0c-ad89-4a43-9bbe-bf6f4ae3f32e</webElementGuid>
+      <webElementGuid>f4aacc8c-a672-46cc-806b-6b631cb79d70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Report'])[1]/preceding::a[2]</value>
-      <webElementGuid>b5e499b0-771f-437c-8241-c2413366d55e</webElementGuid>
+      <webElementGuid>d2f6fd48-d45a-4963-8f09-11958c47e411</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Workflow']/parent::*</value>
-      <webElementGuid>a747eb03-ee82-4dd2-b308-7c395500b851</webElementGuid>
+      <webElementGuid>3b113b32-a2e2-4fd0-886b-e439c5008f84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:37:5164269808579:::37::&amp;cs=3j9lULNEQAzv9tzaDKijMW5qbOyoYrkk8QIVcaE_aOjV8QuA-O6vHnoq-8pg5fuVUhVaXugAERafOkrC9LgtsBQ')]</value>
-      <webElementGuid>b4775dc5-76c9-4e98-ab87-dadb9522831b</webElementGuid>
+      <webElementGuid>7758aea0-2a5b-41a7-8c5e-be7dbeb10393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div[2]/a</value>
-      <webElementGuid>a268247e-791f-4921-a557-6dff9915f34d</webElementGuid>
+      <webElementGuid>7993ee5c-27ae-4a85-9382-01a2e79dee3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

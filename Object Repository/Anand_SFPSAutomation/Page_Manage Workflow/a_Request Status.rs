@@ -6,12 +6,12 @@
    <elementGuidId>1eae06b6-7da9-44c4-87f4-2ee92fbe403d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Request Status')])[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1200:18:5164269808579:::18::' and (text() = 'Request Status' or . = 'Request Status')]</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4912ad0f-9984-4edc-a5b4-d966bb285c64</webElementGuid>
+      <webElementGuid>5538048e-4db6-4374-ac63-e194e15c1ee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>efcc8356-10ca-4f92-a1db-22c3b3919d45</webElementGuid>
+      <webElementGuid>563a8950-8b01-4be1-ab95-54ea383b0440</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>bc2d8e75-f179-4dab-b4ef-4aa925184114</webElementGuid>
+      <webElementGuid>ae9bb987-4513-4f54-9827-709513a1dd48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>62ff6c2f-0129-4554-941e-e70d914569e2</webElementGuid>
+      <webElementGuid>05ed14a1-0cea-4ee3-8fca-906ecb85931a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1200:18:5164269808579:::18::</value>
-      <webElementGuid>8a2d3730-2147-4158-9723-5202bb18a3d0</webElementGuid>
+      <webElementGuid>cddeceac-21e8-4f5c-b892-52276c8f4cce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>32e48513-b5e2-482e-954c-bef6dd840200</webElementGuid>
+      <webElementGuid>e125c7c3-36c1-438f-acd9-ee2fd487f142</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b352ebf1-8945-42d8-b329-490bd5355393</webElementGuid>
+      <webElementGuid>9b1ced78-ecaa-449c-a859-d4dcec66ff1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Request Status</value>
-      <webElementGuid>f044975b-fd3c-49ab-a537-57ab2b085fa1</webElementGuid>
+      <webElementGuid>689959df-62df-4c31-afdd-728efb04c1bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_203&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>714e2f10-a900-4683-9f38-28d2393ab31b</webElementGuid>
+      <webElementGuid>5f1e87c3-1a99-452d-ba4e-9e60e0b7df50</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1200:18:5164269808579:::18::' and (text() = 'Request Status' or . = 'Request Status')]</value>
-      <webElementGuid>417fa44c-d21d-4631-981e-285fd657f712</webElementGuid>
+      <webElementGuid>31e7e4eb-89cb-407e-88f6-fd6edf151110</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_203']/div[2]/a</value>
-      <webElementGuid>e7d3b9e6-8bb3-4b39-b3fa-e3f1bcca3af8</webElementGuid>
+      <webElementGuid>a5cfa01f-1838-45d1-8a99-9d19631a9411</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Request Status')])[2]</value>
-      <webElementGuid>19bb158e-aa9b-455e-9533-0389a9a30221</webElementGuid>
+      <webElementGuid>8c4d387b-d328-4020-9365-1d0bb5309a61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[7]/following::a[1]</value>
-      <webElementGuid>8d1d1a85-80ba-468f-b628-cdf704324eca</webElementGuid>
+      <webElementGuid>cfc17ca4-5f75-4d87-bac8-1989558c6e2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise iAccess'])[1]/following::a[2]</value>
-      <webElementGuid>b2b6f243-b336-49ba-8cbf-fef215e9182d</webElementGuid>
+      <webElementGuid>ee6651fa-31c1-4492-b23f-89c2120d860e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Check Status'])[1]/preceding::a[1]</value>
-      <webElementGuid>f96553aa-5a7e-4dae-b843-5de934f65bdd</webElementGuid>
+      <webElementGuid>0a811a53-b0c2-4fef-8c8e-99f08ad4580e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage My Access'])[1]/preceding::a[2]</value>
-      <webElementGuid>f8dcd4c2-7237-45c2-be69-4f97048ec713</webElementGuid>
+      <webElementGuid>a3ad8608-a280-4a6d-b917-42e3d6256a98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1200:18:5164269808579:::18::')]</value>
-      <webElementGuid>cb1094fa-5c23-46d7-89c0-492503084bec</webElementGuid>
+      <webElementGuid>00d500da-0d80-4195-803d-71108319653b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +165,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li[5]/ul/li/ul/li/div[2]/a</value>
-      <webElementGuid>80ae8e0e-a104-4d96-9e95-f7fdad3c2601</webElementGuid>
+      <webElementGuid>149de175-946c-42c3-8986-0259f61fbf55</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

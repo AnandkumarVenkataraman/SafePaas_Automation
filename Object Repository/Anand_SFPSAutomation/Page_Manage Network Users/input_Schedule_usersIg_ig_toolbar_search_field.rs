@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@title = 'Search: All Text Columns' and @type = 'text' and @placeholder = 'Search: All Text Columns']</value>
+         <value>//input[@id='usersIg_ig_toolbar_search_field']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>52467903-0d9b-42cb-be1d-6d6aad2ef930</webElementGuid>
+      <webElementGuid>266ee385-8450-44f1-94fd-4e42de56e1f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>usersIg_ig_toolbar_search_field</value>
-      <webElementGuid>9fbe4f19-63a6-431f-a6f1-5c0c1451545a</webElementGuid>
+      <webElementGuid>3084418d-a95b-45a6-bf4e-787ef79a0aa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Toolbar-input a-Toolbar-inputText a-Toolbar-item</value>
-      <webElementGuid>649434f5-d586-4bad-aaa0-0d946923f17a</webElementGuid>
+      <webElementGuid>b508294b-2ef2-4b01-b224-b4e19a1cca6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search: All Text Columns</value>
-      <webElementGuid>fa23cc16-3470-44f0-9c0c-9af32c62c8b1</webElementGuid>
+      <webElementGuid>a5c0f63d-0556-48ac-afe8-1b8b544170fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>84625541-7c42-4657-b519-206e73136c69</webElementGuid>
+      <webElementGuid>5d8daf44-d91e-4dc8-a1b0-f5568e9e77f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>size</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>b9b5f92f-ab42-4d58-9694-427c36a32179</webElementGuid>
+      <webElementGuid>02550edf-4252-4501-8b23-2b88be90f9bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>8eb38328-f164-45ab-9dba-e260707d2b98</webElementGuid>
+      <webElementGuid>c4fe206e-0a11-4e99-9383-0a6f1df0c6df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-enter-action</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>204992a8-c57f-46f1-bd2c-d555a2cc8f53</webElementGuid>
+      <webElementGuid>aba683da-28b7-452f-9cab-02ae688bb362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search: All Text Columns</value>
-      <webElementGuid>95c7ba7c-c7ff-40e3-ab52-6469f157cc52</webElementGuid>
+      <webElementGuid>27b002af-a1a4-40ac-8d7c-2ee9bdb4dd31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;usersIg_ig_toolbar_search_field&quot;)</value>
-      <webElementGuid>74359cea-bdf3-4ef4-a0ff-0217a79fcf65</webElementGuid>
+      <webElementGuid>b07738de-3710-4c9c-8b10-d435aca4f6b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@title = 'Search: All Text Columns' and @type = 'text' and @placeholder = 'Search: All Text Columns']</value>
-      <webElementGuid>ff8c07a1-5158-41b7-9d1d-c2c397244964</webElementGuid>
+      <webElementGuid>1409f387-1b29-4529-bf97-d137fb04d6c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='usersIg_ig_toolbar_search_field']</value>
-      <webElementGuid>17dc81fe-7c79-4d3b-afad-eacf91b3c197</webElementGuid>
+      <webElementGuid>000c4e10-dc57-4296-8dab-e92a732b1d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='usersIg_ig_toolbar']/div/div/input</value>
-      <webElementGuid>534878ff-5e7b-46c9-a20b-f9ee207eb336</webElementGuid>
+      <webElementGuid>52942b26-c540-438f-ab4c-63afd724be32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/input</value>
-      <webElementGuid>ce493695-900c-4715-b5e4-1f1a564d145c</webElementGuid>
+      <webElementGuid>2eafc5b7-b7d7-4ad8-8b3e-54145a47f019</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

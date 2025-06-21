@@ -6,12 +6,11 @@
    <elementGuidId>3f9d3b85-7f19-4c99-82a4-2a75ee8a7634</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[5]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = 'Completed' or . = 'Completed')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>70c855bc-7744-41ea-b9ec-2d2fbdae0ef6</webElementGuid>
+      <webElementGuid>dcd7abfa-e028-4701-999c-5c9107d755a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value> u-tL</value>
-      <webElementGuid>4e0645d8-d263-42e3-8aad-4ed946dcf44d</webElementGuid>
+      <webElementGuid>621f6bef-3a9d-41ac-b21f-39f8ab27f954</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>headers</name>
       <type>Main</type>
       <value>statusCol</value>
-      <webElementGuid>47119a51-f770-493b-be98-c668f3164e0c</webElementGuid>
+      <webElementGuid>bdc3bb35-1d9d-4f79-82e5-2e2b3896c996</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Completed</value>
-      <webElementGuid>7022fdb3-dea5-4691-8a44-06f42917f67c</webElementGuid>
+      <webElementGuid>a6a6261e-83a2-4f80-817e-e465b9e1d595</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;97388373399089016_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
-      <webElementGuid>73e69bf0-ef96-4eac-be48-2d15fbecbf60</webElementGuid>
+      <webElementGuid>50cee6d6-d8b8-43db-b218-267ad70ecb41</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Completed' or . = 'Completed')]</value>
-      <webElementGuid>fd9d4bc4-a820-4641-a58b-c7d4e00bdd21</webElementGuid>
+      <webElementGuid>18d1723d-3e64-461c-a6bd-4595cd596df9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[5]</value>
-      <webElementGuid>0a5499f7-73da-40c0-bcbc-bbec8093ee38</webElementGuid>
+      <webElementGuid>e6420acb-4977-48a6-8afb-648821e1511f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EIA - Create User and Access Request WF - Level 2'])[1]/following::td[2]</value>
-      <webElementGuid>7ebdc528-cd03-4e7b-9515-ead2b4ea0cb9</webElementGuid>
+      <webElementGuid>ceddc7a6-c08d-497b-817f-2cdb27ff05ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/following::td[4]</value>
-      <webElementGuid>3f0e9e01-8c0f-489c-a402-60fc0b667d91</webElementGuid>
+      <webElementGuid>1c12d40f-88ff-4541-b229-47a6fc5d3fa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected by: KATADMIN Kat Admin'])[1]/preceding::td[1]</value>
-      <webElementGuid>5f4d9979-da65-4e70-9c77-172f39f27802</webElementGuid>
+      <webElementGuid>355464b6-d4d3-49a8-a5b0-eb1a280c092e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FITADMIN'])[1]/preceding::td[3]</value>
-      <webElementGuid>685a36a8-ac2f-4fc6-9096-8ad7529dd517</webElementGuid>
+      <webElementGuid>ee7745fd-dab5-4eda-98fe-8e9375ec0ce1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Completed']/parent::*</value>
-      <webElementGuid>7b597b73-606f-4175-b190-5a4602e688fe</webElementGuid>
+      <webElementGuid>ec0fbe78-f2b1-4054-b5f3-c11cffe20956</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +124,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]</value>
-      <webElementGuid>b97dcfb2-48d5-4f37-8cc4-82ddd240fd20</webElementGuid>
+      <webElementGuid>e5b1577c-e1c3-47d8-a263-7ab515be9cef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

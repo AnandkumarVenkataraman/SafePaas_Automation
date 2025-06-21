@@ -6,12 +6,12 @@
    <elementGuidId>3307fbd3-75af-4eab-9564-83f11c3073bf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R163105974055422926_search_field</value>
+         <key>XPATH</key>
+         <value>//input[@id='R163105974055422926_search_field']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@title = 'Search Report' and @type = 'search']</value>
+         <key>CSS</key>
+         <value>#R163105974055422926_search_field</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>03cd30f4-ba57-4239-bf68-7a0a7b2e32f8</webElementGuid>
+      <webElementGuid>7338d48e-5cb0-4ebc-b483-b0925588da37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-search-field</value>
-      <webElementGuid>8ed19be6-3b65-40fd-86a7-e9794ef48299</webElementGuid>
+      <webElementGuid>a7715207-4632-4cab-b578-205b160fc567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R163105974055422926_search_field</value>
-      <webElementGuid>06622b9e-c9b5-4fa6-b83e-47697273fc97</webElementGuid>
+      <webElementGuid>09d98aa6-3338-419f-9257-85532150e53a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search Report</value>
-      <webElementGuid>402468ac-4786-4da2-85ee-0953c9ebb342</webElementGuid>
+      <webElementGuid>f27d7ea6-9a14-4b05-acc6-6bb02aa55665</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>c789d209-2817-4cc7-a53e-20cb0c522c92</webElementGuid>
+      <webElementGuid>1713859c-851a-4f08-a44e-ddb1391026d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>size</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>0c31f4d0-6763-4a9a-802d-40b302f7187b</webElementGuid>
+      <webElementGuid>f75c3c0e-c9a6-4ee5-be0c-99019277c287</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>5c3a0bcb-9e70-4b2f-bee2-58dddef04a81</webElementGuid>
+      <webElementGuid>b419441a-70e5-4d63-bd94-21ee64ffce35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R163105974055422926_search_field&quot;)</value>
-      <webElementGuid>a716406a-018e-47d8-ae0d-a48bb6791b7d</webElementGuid>
+      <webElementGuid>fedbb604-a3af-4b2b-b658-01af89d8a6ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@title = 'Search Report' and @type = 'search']</value>
-      <webElementGuid>74d13e81-7cf7-420c-b055-d6eecedbfae7</webElementGuid>
+      <webElementGuid>ae921063-3b4f-4961-bf74-509bce41608a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='R163105974055422926_search_field']</value>
-      <webElementGuid>d8a718e3-dcac-4661-929c-c15399601fe0</webElementGuid>
+      <webElementGuid>bb8d50ca-2946-4265-a59f-d0d10dcdc897</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R163105974055422926_toolbar_controls']/div/div/div[2]/input</value>
-      <webElementGuid>64ba974e-a3a4-4afb-bc13-82b1054ac41f</webElementGuid>
+      <webElementGuid>303b423d-a074-4f39-934a-ad5ede5aa956</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>9a504b1f-e102-4055-a172-c67606139b7d</webElementGuid>
+      <webElementGuid>67affb53-72b7-458b-8269-1e48860208e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>8929615f-81dc-47c2-a6a6-65c71c0f451e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a:nth-of-type(2)</value>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1200:23:5164269808579::NO::P23_URLC:A925B12840BB8C79A53DF84000A3CB69' and (text() = 'The user creation and access requests for the user &quot;Maria11 Brum11 (MARIAB11)&quot; have been submitted for approval.' or . = 'The user creation and access requests for the user &quot;Maria11 Brum11 (MARIAB11)&quot; have been submitted for approval.')]</value>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e13d1938-fcf8-4b1f-ac2c-cbc3664323b3</webElementGuid>
+      <webElementGuid>d438bdaa-edb8-4f22-9857-a6b4db9b1bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1200:23:5164269808579::NO::P23_URLC:A925B12840BB8C79A53DF84000A3CB69</value>
-      <webElementGuid>4139a2ba-548a-4098-80a2-be51b4f93103</webElementGuid>
+      <webElementGuid>a3ec3250-c47f-48ba-934f-88216c9ab5cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The user creation and access requests for the user &quot;Maria11 Brum11 (MARIAB11)&quot; have been submitted for approval.</value>
-      <webElementGuid>a636f71f-501a-4aa4-b55f-3ac01fd4815d</webElementGuid>
+      <webElementGuid>f0986a62-ce72-4df0-a400-7783231ea8b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[2]</value>
-      <webElementGuid>24528161-4d2c-474c-bc8c-4f1fbaa6c465</webElementGuid>
+      <webElementGuid>25e8cf01-c362-477a-84b6-a69f9e1b1550</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1200:23:5164269808579::NO::P23_URLC:A925B12840BB8C79A53DF84000A3CB69' and (text() = 'The user creation and access requests for the user &quot;Maria11 Brum11 (MARIAB11)&quot; have been submitted for approval.' or . = 'The user creation and access requests for the user &quot;Maria11 Brum11 (MARIAB11)&quot; have been submitted for approval.')]</value>
-      <webElementGuid>925545e9-d6ec-4c75-8268-1ffe3d7168bd</webElementGuid>
+      <webElementGuid>1b8ca884-d382-4d27-b5ce-43ff6ca5fea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a[2]</value>
-      <webElementGuid>f56df5e0-a308-4ac2-92c1-b22fef8aab73</webElementGuid>
+      <webElementGuid>451e3e00-030f-41d8-bf2a-94b05ed0611c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'The user creation and access requests for the user &quot;Maria11 Brum11 (MARIAB11)&quot; have been submitted for approval.')]</value>
-      <webElementGuid>a902be3b-abe4-4d70-92c5-2275b8357786</webElementGuid>
+      <webElementGuid>aa485356-547e-4e2c-8be9-c6914e77b970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/following::a[2]</value>
-      <webElementGuid>f38b53bd-0624-49e4-9492-dd86ec6f8bbf</webElementGuid>
+      <webElementGuid>5171f659-21bf-4939-90be-165a2d37708c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create User and Access Request'])[1]/following::a[2]</value>
-      <webElementGuid>f72e9b20-cf54-45b7-ba99-3d53c08e2742</webElementGuid>
+      <webElementGuid>6dec49c4-0171-4f36-9b81-a673eb97b15c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
-      <webElementGuid>7341d4f6-749e-4c9c-aa99-11244d09d4fa</webElementGuid>
+      <webElementGuid>94fbd6c1-9ab1-4fc4-af49-c4d1580c7ad9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::a[1]</value>
-      <webElementGuid>8616b7b3-d63a-4ba9-a5c1-e9d27f467782</webElementGuid>
+      <webElementGuid>d5ec7c09-f78c-41fa-b946-6b5d93df8742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='The user creation and access requests for the user &quot;Maria11 Brum11 (MARIAB11)&quot; have been submitted for approval.']/parent::*</value>
-      <webElementGuid>4ffc0bec-7ed5-41b7-b266-b2710381591a</webElementGuid>
+      <webElementGuid>8a48cc29-55c7-41db-bcf2-3d133013b450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1200:23:5164269808579::NO::P23_URLC:A925B12840BB8C79A53DF84000A3CB69')]</value>
-      <webElementGuid>836899d9-9dfd-45fb-b1e6-ed849b5c1ac6</webElementGuid>
+      <webElementGuid>caa9b6a8-f577-4078-acd6-4b109be96360</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>44db793c-647b-4463-bccf-2c625a35b153</webElementGuid>
+      <webElementGuid>e4966189-f880-4ec4-90f4-ecacc8b90323</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
