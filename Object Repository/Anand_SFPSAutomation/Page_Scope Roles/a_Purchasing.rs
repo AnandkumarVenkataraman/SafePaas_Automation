@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3572,Purchasing' and (text() = 'Purchasing' or . = 'Purchasing')]</value>
+         <value>//a[contains(text(),'Purchasing')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a058570f-d51f-4ecb-8ffa-42f11a167b60</webElementGuid>
+      <webElementGuid>f713b468-33af-482a-913a-000e87ce12d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3572,Purchasing</value>
-      <webElementGuid>96d75000-4cdb-46e3-89d8-59404d0a099a</webElementGuid>
+      <webElementGuid>8b3301a4-cf77-469b-aefa-e81737e66693</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Purchasing</value>
-      <webElementGuid>e816270e-0c6d-436e-9b2b-db81ce742b4c</webElementGuid>
+      <webElementGuid>1917bf1c-1b0a-4675-9e08-90e74df05239</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;160504461553363437_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]</value>
-      <webElementGuid>aaa1aafa-1291-4d47-aadd-505d386c6863</webElementGuid>
+      <webElementGuid>20648a9c-9d0c-4a4c-a839-8d41f641c31b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3572,Purchasing' and (text() = 'Purchasing' or . = 'Purchasing')]</value>
-      <webElementGuid>d51d32e5-5cbd-4425-bda1-c2df982eac3e</webElementGuid>
+      <webElementGuid>5cfd5eed-03e4-4e7e-8f5a-a654d8c70c66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='160504461553363437_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>6ddfc80f-4a51-4a8f-bd28-a0513aa3bd3e</webElementGuid>
+      <webElementGuid>d554cf1e-f789-4dbd-a90d-467b684958ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Purchasing')]</value>
-      <webElementGuid>7507d8e4-aa7f-4e07-ad75-e7871e57954f</webElementGuid>
+      <webElementGuid>57bf96fe-cb71-408c-b0e1-23bcc53ad3bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last update date'])[1]/following::a[7]</value>
-      <webElementGuid>fce3dd1a-4471-45b2-9cfc-641a47a1c671</webElementGuid>
+      <webElementGuid>9a54191f-b537-4943-931e-3f822133afa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last updated by'])[1]/following::a[8]</value>
-      <webElementGuid>b61fbb65-0cf1-4956-b8e4-67f6ccc33957</webElementGuid>
+      <webElementGuid>a88e96a6-5168-40a7-9c97-b2ab4a5123ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchasing'])[3]/preceding::a[1]</value>
-      <webElementGuid>820d8ef0-2c5f-4c6f-9340-25e971d831cc</webElementGuid>
+      <webElementGuid>260b1969-854f-406b-a2d0-8807fb6bfb41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[1]/preceding::a[1]</value>
-      <webElementGuid>6257366f-fc94-435b-9b23-04ffc2cbe697</webElementGuid>
+      <webElementGuid>ff964930-7423-4b87-9372-16f8a50bbd51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3572,Purchasing')]</value>
-      <webElementGuid>5449c182-e930-451b-9279-7593874b47e5</webElementGuid>
+      <webElementGuid>d4f5940a-552f-4272-b879-83a9454b12b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>b46b7c19-df38-4812-afad-797377579961</webElementGuid>
+      <webElementGuid>d0b1b7ab-0c05-4765-a4de-52b48ea1173f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

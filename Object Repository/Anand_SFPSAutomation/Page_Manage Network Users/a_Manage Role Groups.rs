@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1200:12:8667137350622:::12::' and (text() = 'Manage Role Groups' or . = 'Manage Role Groups')]</value>
+         <value>//a[contains(text(),'Manage Role Groups')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4ab3a13e-1dcf-4012-923c-cca3b2ca7f92</webElementGuid>
+      <webElementGuid>ad80de13-5aa9-402a-9dcd-5174e48b88d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>1f07b099-e384-418a-9496-84984e591c76</webElementGuid>
+      <webElementGuid>ebbd6dca-8b34-45f1-9fa6-ccc6126c3065</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>6297cb8c-6395-4233-bbeb-e7fdab0d7086</webElementGuid>
+      <webElementGuid>3397df2c-58b5-45cc-bc06-40c1a37beb97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>71aa5f5d-8114-4d4f-9d4f-9e9c26b4f191</webElementGuid>
+      <webElementGuid>649a3583-901d-4d91-93d4-2ad0e919b7a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1200:12:8667137350622:::12::</value>
-      <webElementGuid>e9fa51a9-2180-48c9-86b5-d092ad84b865</webElementGuid>
+      <webElementGuid>816fee07-896d-4cca-9a74-dcd515ca8379</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>a29ea8dd-b5e6-4482-82da-8cbfd70cd784</webElementGuid>
+      <webElementGuid>323f4af1-5a70-46ad-a980-b784a582d890</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3f5a0544-1118-457f-9dbb-6d7e160425e5</webElementGuid>
+      <webElementGuid>f84ec622-7e0a-4f35-8ddc-7af6a91ebeec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Role Groups</value>
-      <webElementGuid>8dab23a2-6af6-4fda-b238-3fc60f8eb53b</webElementGuid>
+      <webElementGuid>6065c4a0-2886-4684-8441-8a5dede95f67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_206&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>07681c6f-0c79-4de4-8160-bb8f544c7658</webElementGuid>
+      <webElementGuid>963f0ff6-4707-403b-960a-7fcd2216494a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1200:12:8667137350622:::12::' and (text() = 'Manage Role Groups' or . = 'Manage Role Groups')]</value>
-      <webElementGuid>1f1647e9-b2a4-446e-86cf-bde3b378a23f</webElementGuid>
+      <webElementGuid>7967f8d6-3d11-4feb-850e-fad81815e912</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_206']/div[2]/a</value>
-      <webElementGuid>2eed8bf4-c520-4fc7-9d72-d61c6f0dbd35</webElementGuid>
+      <webElementGuid>4da5cec8-5214-46f1-ae94-359c0e537ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Role Groups')]</value>
-      <webElementGuid>2e6d7cf9-5fc6-4c6d-975d-31a0785b818c</webElementGuid>
+      <webElementGuid>9130c318-cb0f-4fac-a39e-27d322faec64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Network Users'])[4]/following::a[1]</value>
-      <webElementGuid>f24f7d75-8720-4522-88b7-4d1bcb154c80</webElementGuid>
+      <webElementGuid>43b3b0b4-6d45-43c5-91f8-755c2bcc7ba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[5]/following::a[2]</value>
-      <webElementGuid>675854c5-8880-4daa-981e-7dbfa340f8cd</webElementGuid>
+      <webElementGuid>13f39999-07d9-49f3-97a8-997f0ccd4d92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Scope Roles'])[1]/preceding::a[1]</value>
-      <webElementGuid>3397fdb7-0745-4299-9d22-065d985dae1a</webElementGuid>
+      <webElementGuid>a8091300-a647-4eaf-ae7a-1bfd91071da3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments'])[2]/preceding::a[2]</value>
-      <webElementGuid>f0af9a37-da1f-4315-9c31-1897b714b6a6</webElementGuid>
+      <webElementGuid>5a0a8c42-f523-46ae-98d4-ef00cfc3c10f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Role Groups']/parent::*</value>
-      <webElementGuid>788d3578-6913-4997-920b-48120fc99bed</webElementGuid>
+      <webElementGuid>60c774fb-558f-48ec-a7fb-efb74dbe148e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1200:12:8667137350622:::12::')]</value>
-      <webElementGuid>7482f851-0f39-4240-9441-5bb371d7fcaa</webElementGuid>
+      <webElementGuid>94af6493-bab3-48ef-a1cd-9c2f1c687027</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>9d63b6e5-aa30-4a52-9164-f78f00cf848e</webElementGuid>
+      <webElementGuid>1a32385b-014f-4ac7-8b73-54d72c85dea8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

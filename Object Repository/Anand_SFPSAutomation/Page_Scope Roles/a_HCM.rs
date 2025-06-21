@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3571,HCM' and (text() = 'HCM' or . = 'HCM')]</value>
+         <value>//a[contains(text(),'HCM')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ade1892a-ad1f-40ac-a8c0-2aae3d58d407</webElementGuid>
+      <webElementGuid>0f94b91f-3729-413d-bb25-6e9d7a8dcc0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3571,HCM</value>
-      <webElementGuid>37888477-f3e9-466e-9660-f80933cdaa68</webElementGuid>
+      <webElementGuid>b02357d1-dfaf-41c1-ab06-fddd4b10ae57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>HCM</value>
-      <webElementGuid>06cffe16-6f19-4bd3-82f7-0d90c1fea88d</webElementGuid>
+      <webElementGuid>ac95235f-697f-4780-8c37-8df98fdf2c19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;160504461553363437_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]</value>
-      <webElementGuid>40b2fa88-e620-4e7c-bf67-d08ea69fe482</webElementGuid>
+      <webElementGuid>a4fa6178-19c6-43fe-a5ce-5d85fd84481a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3571,HCM' and (text() = 'HCM' or . = 'HCM')]</value>
-      <webElementGuid>0fa9c60d-88a4-42d2-bbda-da05b1139410</webElementGuid>
+      <webElementGuid>61d961b3-f9f3-4913-843c-c118721242d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='160504461553363437_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>9766a4d6-7be0-4111-83ef-9e929265ed33</webElementGuid>
+      <webElementGuid>ab1defbf-7eee-44ca-81fd-65288c5e3b3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'HCM')]</value>
-      <webElementGuid>379fe4f7-ca8a-4c50-ad66-56c18ff4385a</webElementGuid>
+      <webElementGuid>a01d5962-074f-44f8-b3bb-93967bff2b41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last update date'])[1]/following::a[7]</value>
-      <webElementGuid>0f29b1be-ae29-4cf6-8674-548016a47f7c</webElementGuid>
+      <webElementGuid>75c983c4-60f5-49a7-bb1e-11e33829ddb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last updated by'])[1]/following::a[8]</value>
-      <webElementGuid>46165e39-ad1b-4773-9a46-bf98436b4bef</webElementGuid>
+      <webElementGuid>36902580-bad7-4d8c-977d-ca503a2218d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HCM'])[3]/preceding::a[1]</value>
-      <webElementGuid>ae409e42-cd7b-4039-8b82-064ccdb0410c</webElementGuid>
+      <webElementGuid>a7127332-6ec8-4471-a3c6-b487bdf9e416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[1]/preceding::a[1]</value>
-      <webElementGuid>7198db53-5eb0-4283-9164-250469e7d521</webElementGuid>
+      <webElementGuid>0047debc-9e35-4b05-88da-a2870e22c768</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1200:50:8667137350622:::RP,50:P0_APPLICATION_ID,P0_APPLICATION_NAME:3571,HCM')]</value>
-      <webElementGuid>1f484bac-54f4-4b50-a8d3-4b232eaf247a</webElementGuid>
+      <webElementGuid>5168bb9c-b145-4a76-99d9-741047b0995f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>b7593b1e-6fa2-4221-97fb-8d7bda96f569</webElementGuid>
+      <webElementGuid>3b468f79-2b01-42f6-8bb3-1e3970e9bf10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

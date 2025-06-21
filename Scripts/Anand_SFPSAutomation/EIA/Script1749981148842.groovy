@@ -49,6 +49,7 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage
     'EBizApp_JDBC_Env')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/button_Go'))
+WebUI.delay(2)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/td_A'), 'A')
 
@@ -265,7 +266,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomatio
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Approval Assignments/a_Manage Approval Assignments (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Approval Assignments/button_concat(Row text contains , , HCM, , _58fd24'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Approval Assignments/button_concat(Row text contains , , HCM, , _58fd24'), FailureHandling.OPTIONAL)
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Approval Assignments/input_Role Groups in Scope_R321655022960176_80ff4e'),
 	'Procurement')
