@@ -396,7 +396,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/button_Submit'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/h2_Request Submitted.  The approval process_582058'),
-	'Request Submitted. The approval process has been initiated.')
+	30)
+
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/h2_Request Submitted.  The approval process_582058'),
+//	'Request Submitted. The approval process has been initiated.')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Request Submitted.The approval proce_743d42'))
 

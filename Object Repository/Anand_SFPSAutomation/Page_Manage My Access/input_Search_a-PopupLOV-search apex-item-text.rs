@@ -6,12 +6,12 @@
    <elementGuidId>89bebb69-2e3f-48d6-a015-72d19bc659c1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.a-PopupLOV-search.apex-item-text</value>
+         <key>XPATH</key>
+         <value>//input[@type='text' and @aria-label='Search']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@value=''])[6]</value>
+         <key>CSS</key>
+         <value>input.a-PopupLOV-search.apex-item-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4fa0526c-2233-438a-b62b-f2a4359e824b</webElementGuid>
+      <webElementGuid>d522788a-745f-4949-ab22-42ab77eef0ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7f49fadd-d37d-4142-bbe5-8ff14eda22be</webElementGuid>
+      <webElementGuid>b4f7ddb7-f994-4464-8243-c57bd3f008e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>43b05155-9d53-47ad-8a3b-bb5507e5995e</webElementGuid>
+      <webElementGuid>601b4542-cc7d-4e77-ac4a-7d5969cbbc0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>9f77757b-d38b-4439-be49-cd42162bba85</webElementGuid>
+      <webElementGuid>2d275d3f-2f53-4548-a594-77e52bdcfc53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-PopupLOV-search apex-item-text</value>
-      <webElementGuid>8b025ce2-f4e6-4996-9ff2-482b94ab2ec2</webElementGuid>
+      <webElementGuid>a87ddade-b504-4be6-95f6-40abdd4f0702</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PopupLov_114_P114_USER_LIST_dlg&quot;)/div[@class=&quot;a-PopupLOV-searchBar&quot;]/input[@class=&quot;a-PopupLOV-search apex-item-text&quot;]</value>
-      <webElementGuid>4995cc9a-118f-42be-8a20-8a4b553b9bd5</webElementGuid>
+      <webElementGuid>38896e94-4d29-439b-9559-fbd38896e0a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,15 +77,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>b1314ff6-ea09-4387-a658-a786d4b04d6a</webElementGuid>
+      <webElementGuid>5028c21c-b6ba-4d17-a7a1-55648955f128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@value=''])[6]</value>
-      <webElementGuid>3ab10973-27be-4bc3-a39d-d68af4d63c2a</webElementGuid>
+      <value>//input[@type='text' and @aria-label='Search']</value>
+      <webElementGuid>fb79d23a-70dd-49e8-bc41-46b8ab17d0ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PopupLov_114_P114_USER_LIST_dlg']/div/input</value>
-      <webElementGuid>665989aa-6418-46ba-830a-79006c595684</webElementGuid>
+      <webElementGuid>d748ea9f-0d33-4327-8eb6-630034f3d1cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/input</value>
-      <webElementGuid>4d803c7b-88e0-4740-ab20-0b5b25789efe</webElementGuid>
+      <webElementGuid>08b90cae-dd11-4ac1-93fa-f161ec6d33cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
