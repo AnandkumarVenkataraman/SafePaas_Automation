@@ -561,3 +561,74 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/a_Inbox'))
 
 //Security
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_AccessPaaS_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage MonitorPaaS Roles'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage MonitorPaaS Roles/td_All_Access'), 'All_Access')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage MonitorPaaS Roles/td_MTP_ReadAccess'), 'MTP_ReadAccess')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage MonitorPaaS Roles/img_Actions_apex-edit-page'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_CreateEdit Role/button_Cancel'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage MonitorPaaS Roles/img_Actions_apex-edit-page'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_CreateEdit Role/button_Cancel'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage MonitorPaaS Roles/a_Assign MonitorPaaS Roles'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Assign MonitorPaaS Roles/input_Create_R609463236754029062_search_field'),
+	'ANANDK1')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Assign MonitorPaaS Roles/button_Go'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Assign MonitorPaaS Roles/td_MTP_ReadAccess'), 'MTP_ReadAccess')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Assign MonitorPaaS Roles/img_ANANDK1_apex-edit-page'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_User Assign Roles/label_MTP_ReadAccess'), 0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Assign Roles/button_Cancel'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Assign MonitorPaaS Roles/button_concat(Row text contains , , ANANDK1_5922d3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Assign MonitorPaaS Roles/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_katadmin'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Logout (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Spring 2025_P101_COMPANY (3)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (3)'), 'ANANDK1')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (3)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_AccessPaaS_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Monitors'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a'),
+	'AccountsPayable', true)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Monitors/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_anandk1 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Logout_1'))
+
+WebUI.closeBrowser()
