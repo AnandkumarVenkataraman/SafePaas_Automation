@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AP Employee Signing LimitsAP Employe_096c2f</name>
+   <tag></tag>
+   <elementGuidId>685cf57b-6190-45fe-82cb-32a048d0ffc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@title = 'Move from' and (text() = 'AP Employee Signing LimitsAP Employee Signing Limits V2AR Approval LimitsPR &amp; PO Created By Same User' or . = 'AP Employee Signing LimitsAP Employee Signing Limits V2AR Approval LimitsPR &amp; PO Created By Same User')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_MULTI_OBJECT_ID_LEFT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Object (Value Required)&quot;i >> internal:attr=[title=&quot;Move from&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>65568a84-ce7a-42fb-b199-8809f2e1adeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Move from</value>
+      <webElementGuid>591e5676-e0db-4149-8161-50c454334586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>6f07780e-73b0-4733-ab0a-2e79fff673ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_MULTI_OBJECT_ID_LEFT</value>
+      <webElementGuid>1368483f-3044-4b8f-a2f4-0b5ac2bfd746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>7f27cf80-f1c9-4733-a4af-38513da637fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shuttle_left apex-item-select</value>
+      <webElementGuid>4691d479-d6d5-49ff-b2be-c689b1463fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AP Employee Signing LimitsAP Employee Signing Limits V2AR Approval LimitsPR &amp; PO Created By Same User</value>
+      <webElementGuid>2b942d3f-f0bf-45ff-9069-553a9a9f1853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_MULTI_OBJECT_ID_LEFT&quot;)</value>
+      <webElementGuid>4bf68de2-3f8b-4161-b4ed-46c35f68031b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Move from' and (text() = 'AP Employee Signing LimitsAP Employee Signing Limits V2AR Approval LimitsPR &amp; PO Created By Same User' or . = 'AP Employee Signing LimitsAP Employee Signing Limits V2AR Approval LimitsPR &amp; PO Created By Same User')]</value>
+      <webElementGuid>4acc221a-3e9f-49a7-ba55-490b04729187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_MULTI_OBJECT_ID_LEFT']</value>
+      <webElementGuid>73b44a93-3cb7-46e6-90f5-c9709e631b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_MULTI_OBJECT_ID']/table/tbody/tr/td/select</value>
+      <webElementGuid>fb2e53bb-d147-40a8-9de8-47d25d3bc4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[5]/following::select[1]</value>
+      <webElementGuid>ab260700-3ef0-49c1-a1dc-4bc53f8860b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Run Monitor'])[1]/preceding::select[2]</value>
+      <webElementGuid>68327a3b-eb45-4d8f-996e-c62b577068e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Run Automatic SOD Test'])[1]/preceding::select[2]</value>
+      <webElementGuid>07b26473-eaf8-47ea-bd3a-a7e4f8d674dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/select</value>
+      <webElementGuid>9262774c-07d8-4a45-9bbd-c7e3cc33d2aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
