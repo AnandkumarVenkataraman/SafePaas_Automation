@@ -484,7 +484,52 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Inbox'))
 
+//Verify in Snapshots tab and Result set tab
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (2)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Monitors (1)'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a (1)'),
+	'AccountsPayable', true)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/input_Deploy_mngMonitos_search_field (1)'),
+	'AR Approval Limits')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Go (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_AR Approval Limits (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/div_Consolidated Level'),
+	20)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/span_Occurrence'),
+	20)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/span_Snapshots'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Report/select_Select any One(SS)MTP_22062025032659_e96733'),
+	1)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Report/span_ResultSets'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/select_Select any OneMTP_22062025032659_202_86ac26'),
+	1)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/a_Manage Monitors'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_concat(Row text contains , , AR Appr_08c992 (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_Inbox'))
+
 //Approver
 
 //Reviewer
 
+//Analytics
+
+//Security
