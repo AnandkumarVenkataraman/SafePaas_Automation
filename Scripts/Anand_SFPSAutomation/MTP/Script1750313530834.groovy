@@ -16,6 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
@@ -396,10 +400,10 @@ def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 
 def currentDateTime = dateFormat.format(new Date())
 
-def dateTimeString = 'MTP_' + currentDateTime
+def mtpJob1 = 'MTP_' + currentDateTime
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (1)'),
-	dateTimeString)
+	mtpJob1)
 	//'MTP_220625_v2')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Create (1)'))
@@ -412,3 +416,75 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomatio
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Result Set/button_Snapshot successfully submitted_t-Bu_ba886c'))
 
 //WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Result Set/a_Manage Monitors'))
+
+
+//Verify in DataProbe > Manage Snapshot
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Result Set/span_Setup_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Result Set/a_Manage Snapshot'))
+WebUI.delay(2)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/select_Select any oneAccountsPayableCERP_Ob_d1baf4 (1)'),
+	1)
+
+WebUI.delay(2)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/label_Auto Refresh_u-checkbox'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field (1)'),
+//	'MTP_220620250251')
+	mtpJob1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (1)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed'), 'Completed')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/a_Log id'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/button_Documentation_a-Button a-IRR-button _ce8d41'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/a_Level'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/div_LevelInfoWarningError'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/span_No data found'),
+	20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/span_Assign MonitorPaaS Roles_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/a_Manage Snapshot'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_(SS)MTP_22062025021450_20250622021454'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Snapshot/span_Snapshot Details'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Details/select_Select any oneAR Approval Limits'),
+	1)
+WebUI.takeScreenshot()
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Details/td_-1000'), 20)
+//
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Details/td_5555'), 20)
+//
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Details/td_-'), 20)
+//
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Details/td_USD'), 20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Details/a_Manage Snapshot'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_concat(Row text contains , , mtp_220_1e386a'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Inbox'))
+
+//Approver
+
+//Reviewer
+
