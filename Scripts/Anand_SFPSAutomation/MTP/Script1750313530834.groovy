@@ -486,9 +486,9 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 //Verify in Snapshots tab and Result set tab
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (2)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Monitors (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Monitors (1)'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a (1)'),
 	'AccountsPayable', true)
@@ -496,9 +496,9 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/input_Deploy_mngMonitos_search_field (1)'),
 	'AR Approval Limits')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Go (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Go (1)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_AR Approval Limits (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_AR Approval Limits (1)'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/div_Consolidated Level'),
 	20)
@@ -506,25 +506,25 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomatio
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/span_Occurrence'),
 	20)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/span_Snapshots'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/span_Snapshots'))
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Report/select_Select any One(SS)MTP_22062025032659_e96733'),
 	1)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Report/span_ResultSets'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Snapshot Report/span_ResultSets'))
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/select_Select any OneMTP_22062025032659_202_86ac26'),
 	1)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/a_Manage Monitors'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/a_Manage Monitors'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_concat(Row text contains , , AR Appr_08c992 (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_concat(Row text contains , , AR Appr_08c992 (1)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_Inbox'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_Inbox'))
 
 //Approver
 
@@ -532,25 +532,25 @@ WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage M
 
 //Analytics
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (3)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (3)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_ConfigCompare_a-TreeView-toggle'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_ConfigCompare_a-TreeView-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Open Incidents'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Open Incidents'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a'),
 	'AccountsPayable', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_AR Approval Limits'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_AR Approval Limits'))
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/select_- Select -MTP_22062025032659_20250622032703'),
 	1)
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/button_Schedule Download_t-Button t-Button-_3f5374'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/button_Schedule Download_t-Button t-Button-_3f5374'))
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/button_Schedule Download_t-Button t-Button-_3f5374_1'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/button_Schedule Download_t-Button t-Button-_3f5374_1'))
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/select_- Select -MTP_22062025032659_20250622032703'),
 	0)
@@ -558,6 +558,6 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a'),
 	0)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/a_Inbox'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Resultset/a_Inbox'))
 
 //Security
