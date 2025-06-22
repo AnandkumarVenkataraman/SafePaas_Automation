@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Popup Calendar Start Date</name>
+   <tag></tag>
+   <elementGuidId>d4e2a6e0-d225-4f45-bf77-396c242624f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Popup Calendar: Start Date' or . = 'Popup Calendar: Start Date')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-datepicker-trigger.a-Button.a-Button--calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Popup Calendar: Start Date&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad3d1996-82c2-43c2-a290-aeeacb0d69cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b1ebe7c8-a432-451f-aa69-c4e52d6b72f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker-trigger a-Button a-Button--calendar</value>
+      <webElementGuid>79c62c7f-d438-4efb-bad7-04da5c3b0b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Popup Calendar: Start Date</value>
+      <webElementGuid>e873294d-ebcf-45b5-b7ec-6128b16d4571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_START_DATE_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-10&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]/button[@class=&quot;ui-datepicker-trigger a-Button a-Button--calendar&quot;]</value>
+      <webElementGuid>ae05c0a5-c2e7-49b5-8c14-3835e590d87e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Popup Calendar: Start Date' or . = 'Popup Calendar: Start Date')]</value>
+      <webElementGuid>e7984d9c-088d-4655-95ca-950349346bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>4383c0ff-4c93-4cc2-af0e-1907d8ebbdde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_START_DATE_CONTAINER']/div[2]/div/button</value>
+      <webElementGuid>f2a758fc-ae56-4f95-b99e-4b0af83bdc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::button[1]</value>
+      <webElementGuid>81ba9287-335e-4180-9949-30c991a7f3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::button[1]</value>
+      <webElementGuid>90028cec-e428-4aeb-97c2-da40ca40aed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected format: DD-MON-YYYY'])[1]/preceding::button[1]</value>
+      <webElementGuid>f486ca04-e15f-4c3f-989b-d222ba372d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>407cd0d7-e987-4b41-816e-3ce11386827b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
