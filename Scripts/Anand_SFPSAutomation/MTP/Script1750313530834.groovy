@@ -39,7 +39,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Administrat
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Company (2)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Company/div_MonitorPaaS'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Company/div_MonitorPaaS'), 25)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Company/a_Manage Environment'))
 
@@ -82,108 +82,108 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_AddEdit Object De
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AMOUNT_FROM'), 'AMOUNT_FROM')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AMOUNT_TO'), 'AMOUNT_TO')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_REASON_CODE'), 'REASON_CODE')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_CURRENCY_CODE'), 'CURRENCY_CODE')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_LAST_UPDATE_DATE'), 'LAST_UPDATE_DATE')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_CREATION_DATE'), 'CREATION_DATE')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_LAST_UPDATED_BY'), 'LAST_UPDATED_BY')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 //WebUI.rightClick(findTestObject('Object Repository/Page_Add Object Items/label'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_CREATED_BY'), 'CREATED_BY')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_USER_ID'), 'USER_ID')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_DOCUMENT_TYPE'), 'DOCUMENT_TYPE')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_AR.AR_APPROVAL_USER_LIMITS (TABLE)'), 
     'AR.AR_APPROVAL_USER_LIMITS (TABLE)')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Add Object Items/label'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Object Items/td_PRIMARY_FLAG'), 'PRIMARY_FLAG')
 
@@ -204,7 +204,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/a_A
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_AddEdit Objectset/span_EBS R12.2'), 'EBS R12.2')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_AddEdit Objectset/div_MonitorPaaS'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_AddEdit Objectset/div_MonitorPaaS'), 25)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_AddEdit Objectset/option_AR Approval Limits'), 'AR Approval Limits')
 

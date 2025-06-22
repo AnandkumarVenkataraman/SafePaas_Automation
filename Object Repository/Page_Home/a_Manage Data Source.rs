@@ -6,12 +6,12 @@
    <elementGuidId>19869b1f-56b6-4aa8-8825-f5817e254331</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage Data Source')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1120:2:13424215192994:::2::' and (text() = 'Manage Data Source' or . = 'Manage Data Source')]</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bb79ca5d-6727-4abc-8f97-fa8376671f5a</webElementGuid>
+      <webElementGuid>6227c1b2-8faa-44c6-bbb0-42ad24936372</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>549ab557-9a18-4eb1-a25d-349ad3c74f27</webElementGuid>
+      <webElementGuid>246f582f-c76d-4084-ab16-81a230df7bb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>ddbeec54-56dc-4f48-af8e-06470fdd0ffb</webElementGuid>
+      <webElementGuid>0987be4f-5ce3-4161-8dbe-aba2ccaf6a54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>da96002d-0303-4874-bbec-836136476ce1</webElementGuid>
+      <webElementGuid>436f84dc-e0d3-4979-b756-5fcf77086d28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:2:13424215192994:::2::</value>
-      <webElementGuid>45203ae7-ae9d-4e92-b084-4b63f36cbd60</webElementGuid>
+      <webElementGuid>6b214a78-325f-48c0-bbca-6a35468d5ddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>7e04e1fd-7f2f-479b-afea-cacf528ecf88</webElementGuid>
+      <webElementGuid>e3420841-bb55-47cc-a6a3-28dd789a332e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f9310c35-7e95-4a9a-9587-a9bf6bf012eb</webElementGuid>
+      <webElementGuid>0f4423af-a5e4-4c20-bc7d-669cabdcfa81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Data Source</value>
-      <webElementGuid>fa4d36a6-bdc5-4adc-8af4-0ddb8552ed2a</webElementGuid>
+      <webElementGuid>58b35539-c4a3-4f36-960a-865a581dc8fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_8&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>0e6575ea-2ee2-4973-8635-a1e7593d22c8</webElementGuid>
+      <webElementGuid>01f22c63-d1c5-4410-ba05-211ca37dcb7f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:2:13424215192994:::2::' and (text() = 'Manage Data Source' or . = 'Manage Data Source')]</value>
-      <webElementGuid>a1dd91ee-be13-4460-a158-32a2a3183827</webElementGuid>
+      <webElementGuid>77b6e262-b37d-4ec6-9c64-abf739206012</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
-      <webElementGuid>b34a7b33-4256-4be6-baf5-32badf34e85a</webElementGuid>
+      <webElementGuid>802ffcfd-eb09-41d9-9e78-430ec9b4fd8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Data Source')]</value>
-      <webElementGuid>1da3477f-8a11-44b6-9380-81f169bfdc97</webElementGuid>
+      <webElementGuid>77e41542-014e-457c-be15-2cc4ecd73e38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/following::a[1]</value>
-      <webElementGuid>cfbd3e97-d867-455f-a1d2-6d42731d5581</webElementGuid>
+      <webElementGuid>677225e6-28cf-4208-a6ee-e606410b918e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP File Explorer'])[1]/following::a[1]</value>
-      <webElementGuid>6d4deca1-4191-4f33-9f80-059706ae79e9</webElementGuid>
+      <webElementGuid>c00c82fa-de1b-4940-97d6-d5ff6029cea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Object'])[1]/preceding::a[1]</value>
-      <webElementGuid>20d08e0a-dd15-4af5-b817-5bf60357c042</webElementGuid>
+      <webElementGuid>2dde3e2c-f9b0-4090-91ae-253782c7e711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Object Set'])[1]/preceding::a[2]</value>
-      <webElementGuid>e903cc92-44d1-4a70-9fe1-bbef487b4a5d</webElementGuid>
+      <webElementGuid>3df8a38c-049b-41cd-b8e3-69b310172ef9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Data Source']/parent::*</value>
-      <webElementGuid>d71e8ac5-9dd7-43ea-8d8b-b6d93660c6d0</webElementGuid>
+      <webElementGuid>db7c5820-e995-47d0-ac46-4a0121ae3713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:2:13424215192994:::2::')]</value>
-      <webElementGuid>c73407bf-495e-4b81-b926-96a34fa5b8f7</webElementGuid>
+      <webElementGuid>4dd74792-fab2-431e-9246-1bbb14b03a91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[3]/ul/li/div[2]/a</value>
-      <webElementGuid>065d46cb-9751-4ce7-979a-ded201ea9f62</webElementGuid>
+      <webElementGuid>90bcee6f-5ece-467f-9b12-4f0c91ef77b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

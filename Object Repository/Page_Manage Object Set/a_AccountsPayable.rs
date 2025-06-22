@@ -6,12 +6,12 @@
    <elementGuidId>277c823a-3b0b-4612-82ea-cb46fb7a488e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td.u-tL > a</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='AccountsPayable'])[3]/preceding::a[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1120:18:13424215192994:::18:P18_OBJECT_SET_ID:5496' and (text() = 'AccountsPayable' or . = 'AccountsPayable')]</value>
+         <key>CSS</key>
+         <value>td.u-tL > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>75144faa-cce2-4fca-a2b8-f6350714cc19</webElementGuid>
+      <webElementGuid>fdb3c486-d7b4-4e23-96aa-3d738bd18c12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:18:13424215192994:::18:P18_OBJECT_SET_ID:5496</value>
-      <webElementGuid>89f926b7-e878-4ce5-950d-43e7523b1a0e</webElementGuid>
+      <webElementGuid>d39ba8a3-e9ee-4005-bf8f-0134c2a91c5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AccountsPayable</value>
-      <webElementGuid>b20c432a-a4b7-4dcc-a99b-f6b15e695868</webElementGuid>
+      <webElementGuid>be9717a9-78b4-4fba-8099-3cab41bc4a67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;139654309731596916_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>1e10100a-db97-493e-894c-2d9d150b02c6</webElementGuid>
+      <webElementGuid>cc6744ad-b249-467b-ad31-e6fe06dee945</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:18:13424215192994:::18:P18_OBJECT_SET_ID:5496' and (text() = 'AccountsPayable' or . = 'AccountsPayable')]</value>
-      <webElementGuid>8346895f-77e4-4c5e-8f8c-95f6db117d46</webElementGuid>
+      <webElementGuid>d56309a7-3bdf-4511-b299-c846c250789a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='139654309731596916_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>4352b44a-71bd-48b6-a2e9-b0117d56d685</webElementGuid>
+      <webElementGuid>ac74e17e-16d2-48ba-a493-5b7104a3655e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'AccountsPayable')]</value>
-      <webElementGuid>018862cb-3e5a-4c2c-a382-bb594344d4d1</webElementGuid>
+      <webElementGuid>dd802537-b6d9-4f55-a314-4ae3ca2d149f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated By'])[1]/following::a[10]</value>
-      <webElementGuid>01da1b37-7b68-4eb0-a326-e21dcc5f0e05</webElementGuid>
+      <webElementGuid>9320e029-72f4-41f7-bd1f-fff41639d4f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update Date'])[1]/following::a[11]</value>
-      <webElementGuid>53013fff-0e64-4c11-80f0-39b53d1af499</webElementGuid>
+      <webElementGuid>acc21dc8-b15d-42b5-80eb-76e441e25b42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AccountsPayable'])[3]/preceding::a[1]</value>
-      <webElementGuid>e521953d-6039-4229-b930-eb3e9946e3a6</webElementGuid>
+      <webElementGuid>d4c057d9-1d0b-4384-abfe-7012cb9cc281</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MTP'])[1]/preceding::a[1]</value>
-      <webElementGuid>e1e69265-7aa5-4b53-9027-a9291c299e9f</webElementGuid>
+      <webElementGuid>fd31e4de-1e69-4a7f-b899-ebe765cb2f6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:18:13424215192994:::18:P18_OBJECT_SET_ID:5496')]</value>
-      <webElementGuid>1c1fc598-0ba5-47f2-893e-38b92dc878eb</webElementGuid>
+      <webElementGuid>b3393415-b2da-490a-b85c-8300c9e6aad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/a</value>
-      <webElementGuid>eaa8f434-d495-427b-8543-96ae6b0c0fd0</webElementGuid>
+      <webElementGuid>47fa009f-9d99-4588-ba68-c83f4b4b9a15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

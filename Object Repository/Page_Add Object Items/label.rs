@@ -6,12 +6,12 @@
    <elementGuidId>fa6f58c5-116e-4e75-97e9-5fce3d797756</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ig-simple-checkbox.checkbox_group.apex-item-checkbox > label</value>
+         <key>XPATH</key>
+         <value>//td[3]/div/label</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='oItemsDatabaseIg_ig_grid_vc_cur']/div/label</value>
+         <key>CSS</key>
+         <value>div.ig-simple-checkbox.checkbox_group.apex-item-checkbox > label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>516a451a-664c-4b1b-9958-40bae27e1c20</webElementGuid>
+      <webElementGuid>9eae27d5-2a66-4bbf-92d5-33dbb41c3c1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>C122164066322507540_1_0</value>
-      <webElementGuid>1e574f14-2b32-4353-a2fc-10398ea9cd57</webElementGuid>
+      <webElementGuid>4f799fc8-c843-4ae6-9d5b-4aee98842651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oItemsDatabaseIg_ig_grid_vc_cur&quot;)/div[@class=&quot;ig-simple-checkbox checkbox_group apex-item-checkbox&quot;]/label[1]</value>
-      <webElementGuid>850f0690-9b44-489a-ba96-fa928143ceb2</webElementGuid>
+      <webElementGuid>7f863d45-0ba8-4138-a305-b5621809d6c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='oItemsDatabaseIg_ig_grid_vc_cur']/div/label</value>
-      <webElementGuid>1c8eb54d-5119-4c7a-b92e-2953f566ee18</webElementGuid>
+      <webElementGuid>134119b6-b965-4b89-ae43-cacf416c2854</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/div/label</value>
-      <webElementGuid>67ee95dd-1813-469e-ac5b-a744d6fe27fb</webElementGuid>
+      <webElementGuid>fe3850d3-a80a-4ef9-a995-e7ac845abd73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
