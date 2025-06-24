@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select -MTP_24062025002338_20250624002343</name>
+   <tag></tag>
+   <elementGuidId>7982b5e6-d7de-4b8d-a46f-554323146c49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P61_ANALYTICS</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P61_ANALYTICS' and (text() = '- Select -
+MTP_24062025002338_20250624002343
+' or . = '- Select -
+MTP_24062025002338_20250624002343
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Result Sets&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9b37bae8-a349-4cc0-a8a5-0fd497565d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P61_ANALYTICS</value>
+      <webElementGuid>e4ca1107-15c1-453a-9651-79e3d0155128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P61_ANALYTICS</value>
+      <webElementGuid>352efd7a-6dc5-460e-bbb6-5ef929f254a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>dfe18630-51d9-4521-b320-60e2fcfc30ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0aa1d6e0-81a4-4b83-81f1-ce2ec3fcd100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6f51820d-8282-47ca-88a9-a4f9c016f2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P61_ANALYTICS');</value>
+      <webElementGuid>6963eabf-866d-43f2-86f9-078c95ccc5a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select -
+MTP_24062025002338_20250624002343
+</value>
+      <webElementGuid>8852c420-ccff-48f3-aa35-46a0b424d02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P61_ANALYTICS&quot;)</value>
+      <webElementGuid>044f253a-7dc7-4ce3-8a95-d80da5644b23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P61_ANALYTICS' and (text() = '- Select -
+MTP_24062025002338_20250624002343
+' or . = '- Select -
+MTP_24062025002338_20250624002343
+')]</value>
+      <webElementGuid>92613d6c-0394-47e7-9312-3bbe7af6cb90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P61_ANALYTICS']</value>
+      <webElementGuid>d7a17509-9d9d-44d7-9ed6-76c7776f1459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P61_ANALYTICS_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>2960a65f-c15a-4d20-9e2e-03e1deb1c6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Sets'])[1]/following::select[1]</value>
+      <webElementGuid>92f4704c-dd6e-4ba5-bd0b-1f7c9d85a205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBS122'])[1]/following::select[1]</value>
+      <webElementGuid>c7c2b2e2-e0a0-4415-adb4-06af0fe90e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Download'])[1]/preceding::select[1]</value>
+      <webElementGuid>97a4134b-73ac-4129-8694-51e943f509c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>eb1d3224-2406-4675-ab42-9c5fa6df6d4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
