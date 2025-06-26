@@ -11,11 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@name = 'P61_ANALYTICS' and (text() = '- Select -
-MTP_24062025002338_20250624002343
-' or . = '- Select -
-MTP_24062025002338_20250624002343
-')]</value>
+         <value>//select[@id='P61_ANALYTICS']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +29,7 @@ MTP_24062025002338_20250624002343
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>9b37bae8-a349-4cc0-a8a5-0fd497565d8f</webElementGuid>
+      <webElementGuid>57736255-879d-4e9d-9897-e83e22337a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +37,7 @@ MTP_24062025002338_20250624002343
       <name>id</name>
       <type>Main</type>
       <value>P61_ANALYTICS</value>
-      <webElementGuid>e4ca1107-15c1-453a-9651-79e3d0155128</webElementGuid>
+      <webElementGuid>0ce18c75-3600-4298-997f-f8d8692511eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +45,7 @@ MTP_24062025002338_20250624002343
       <name>name</name>
       <type>Main</type>
       <value>P61_ANALYTICS</value>
-      <webElementGuid>352efd7a-6dc5-460e-bbb6-5ef929f254a6</webElementGuid>
+      <webElementGuid>e660b004-10af-43a8-ad11-94447900de17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +53,7 @@ MTP_24062025002338_20250624002343
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>dfe18630-51d9-4521-b320-60e2fcfc30ed</webElementGuid>
+      <webElementGuid>951a38fc-1e6d-44e0-8ba9-23b1486dd78b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +61,7 @@ MTP_24062025002338_20250624002343
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0aa1d6e0-81a4-4b83-81f1-ce2ec3fcd100</webElementGuid>
+      <webElementGuid>daa0c211-0923-4cc8-acf8-6df27691294b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +69,7 @@ MTP_24062025002338_20250624002343
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>6f51820d-8282-47ca-88a9-a4f9c016f2d5</webElementGuid>
+      <webElementGuid>ce8df7e0-337c-41d1-96af-b48e0c784659</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +77,7 @@ MTP_24062025002338_20250624002343
       <name>onchange</name>
       <type>Main</type>
       <value>apex.submit('P61_ANALYTICS');</value>
-      <webElementGuid>6963eabf-866d-43f2-86f9-078c95ccc5a1</webElementGuid>
+      <webElementGuid>65502b37-51d9-45d2-88a4-1369b075f569</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -91,7 +87,7 @@ MTP_24062025002338_20250624002343
       <value>- Select -
 MTP_24062025002338_20250624002343
 </value>
-      <webElementGuid>8852c420-ccff-48f3-aa35-46a0b424d02a</webElementGuid>
+      <webElementGuid>c9240eaa-d6c9-4e3c-9d65-5d03d1ffdf79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +95,7 @@ MTP_24062025002338_20250624002343
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P61_ANALYTICS&quot;)</value>
-      <webElementGuid>044f253a-7dc7-4ce3-8a95-d80da5644b23</webElementGuid>
+      <webElementGuid>1c9100ce-5747-4294-a526-d286a4295eb8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +107,7 @@ MTP_24062025002338_20250624002343
 ' or . = '- Select -
 MTP_24062025002338_20250624002343
 ')]</value>
-      <webElementGuid>92613d6c-0394-47e7-9312-3bbe7af6cb90</webElementGuid>
+      <webElementGuid>fac3e001-b7f5-4298-a6ad-3f2e0340ea7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +115,7 @@ MTP_24062025002338_20250624002343
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P61_ANALYTICS']</value>
-      <webElementGuid>d7a17509-9d9d-44d7-9ed6-76c7776f1459</webElementGuid>
+      <webElementGuid>ba805936-14c8-4ecf-91e2-69e5e6285883</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +123,7 @@ MTP_24062025002338_20250624002343
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P61_ANALYTICS_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>2960a65f-c15a-4d20-9e2e-03e1deb1c6f6</webElementGuid>
+      <webElementGuid>e297688a-e4d2-4b59-acae-90641a27599b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +131,7 @@ MTP_24062025002338_20250624002343
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Sets'])[1]/following::select[1]</value>
-      <webElementGuid>92f4704c-dd6e-4ba5-bd0b-1f7c9d85a205</webElementGuid>
+      <webElementGuid>2b18b812-3a89-4cd1-80f2-14d4fd2ef674</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +139,7 @@ MTP_24062025002338_20250624002343
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EBS122'])[1]/following::select[1]</value>
-      <webElementGuid>c7c2b2e2-e0a0-4415-adb4-06af0fe90e05</webElementGuid>
+      <webElementGuid>3a73185f-c325-42d0-b281-7d54d2270f6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +147,7 @@ MTP_24062025002338_20250624002343
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Download'])[1]/preceding::select[1]</value>
-      <webElementGuid>97a4134b-73ac-4129-8694-51e943f509c3</webElementGuid>
+      <webElementGuid>ea878d42-f60e-4d24-827a-7212ecad6086</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,6 +155,6 @@ MTP_24062025002338_20250624002343
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/select</value>
-      <webElementGuid>eb1d3224-2406-4675-ab42-9c5fa6df6d4c</webElementGuid>
+      <webElementGuid>a428d02e-8799-44b8-9db4-e6169f4639db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
