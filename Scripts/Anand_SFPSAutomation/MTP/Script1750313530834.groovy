@@ -765,6 +765,35 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 //Datasource Synchronization
 
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data Source (1)'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_2c3357'),
+	'KTLNEBS_MonitorPaaS', true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Data Source/input_Create_R119140564844328612_search_field'),
+	'KTLNEBS_MonitorPaaS_Vision122_DS')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Go'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/input_Run script_f01'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Synchronization'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Data Source/h2_Syncronization processing in the background'),
+	20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Syncronization processing in the bac_84b2b2'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Row text contains , , KTLNEBS_3f831f'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Data Source/span_Running'), 20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_Inbox'))
+
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katalon_admin (1)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout_1 (1)'))
