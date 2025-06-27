@@ -66,8 +66,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File E
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data Source'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_bcbb9d'), 
-    9)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_bcbb9d'), 
+    'KTLNEBS_MonitorPaaS', true)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Data Source/a_Completed'), 'Completed')
 
@@ -346,7 +346,8 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/select_Select any OneApproverReviewer'),
 	'Approver', true)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/button_Popup Calendar Start Date'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/button_Popup Calendar Start Date'))
+WebUI.setText(findTestObject('Object Repository/Page_Rule Approver/input_Start Date_P35_START_DATE'), '22-Jun-2025')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/a_22'))
 
@@ -358,7 +359,8 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/select_Select any OneApproverReviewer'),
 	'Reviewer', true)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/button_Popup Calendar Start Date'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/button_Popup Calendar Start Date'))
+WebUI.setText(findTestObject('Object Repository/Page_Rule Approver/input_Start Date_P35_START_DATE'), '22-Jun-2025')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Approver/a_22'))
 
@@ -771,9 +773,10 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File E
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data Source (1)'))
 
+WebUI.delay(2)
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_2c3357'),
 	'KTLNEBS_MonitorPaaS', true)
-
+WebUI.delay(2)
 WebUI.setText(findTestObject('Object Repository/Page_Manage Data Source/input_Create_R119140564844328612_search_field'),
 	'KTLNEBS_MonitorPaaS_Vision122_DS')
 

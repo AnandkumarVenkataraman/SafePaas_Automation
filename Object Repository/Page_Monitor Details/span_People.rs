@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Select a valueChange TrackerOccurrence</name>
+   <name>span_People</name>
    <tag></tag>
-   <elementGuidId>770638be-bf1a-4a4d-9dd1-bd0d5ec3cbcf</elementGuidId>
+   <elementGuidId>adb8083f-bc51-4046-84c8-5f741c088b97</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P21_TYPE_CONTAINER > div.t-Form-inputContainer.col.col-10 > div.t-Form-itemWrapper</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='P21_TYPE_CONTAINER']/div[2]/div</value>
+         <value>//span[(text() = 'People' or . = 'People')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#P21_TYPE_CONTAINER div >> nth=2</value>
+         <value>internal:role=link[name=&quot;People&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,96 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>cdf31c34-6f01-43f3-af12-337c9cf24155</webElementGuid>
+      <value>span</value>
+      <webElementGuid>2dd7d43f-11c9-46bf-b480-ac177de72dec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Form-itemWrapper</value>
-      <webElementGuid>8cc22a15-5b1a-4a89-8b47-d829deb9ad0b</webElementGuid>
+      <value>t-Tabs-label</value>
+      <webElementGuid>bde35b5f-ecba-4e34-8396-ff0bf62c9808</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Select a value
-Change Tracker
-Occurrence
-</value>
-      <webElementGuid>0db10285-3d82-44cc-80fe-cfafe47a8f8d</webElementGuid>
+      <value>People</value>
+      <webElementGuid>fe616022-51dc-4a13-a4e5-8e0094dba8c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P21_TYPE_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-10&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]</value>
-      <webElementGuid>cc34a432-6ed7-4c65-8bfe-f7e1b0c73306</webElementGuid>
+      <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto t-Tabs--simple&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
+      <webElementGuid>7eb149aa-bcd2-460d-8d7f-10ab6c2c8ad7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Select a value
-Change Tracker
-Occurrence
-' or . = 'Select a value
-Change Tracker
-Occurrence
-')]</value>
-      <webElementGuid>6906b2e0-79f3-4273-89e5-c1baa4aebee3</webElementGuid>
+      <value>//span[(text() = 'People' or . = 'People')]</value>
+      <webElementGuid>85d92c5c-3167-49f3-8609-1914d7c79c57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P21_TYPE_CONTAINER']/div[2]/div</value>
-      <webElementGuid>d3029217-641e-4019-91ff-75b7a4ba5f25</webElementGuid>
+      <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[3]/a/span[2]</value>
+      <webElementGuid>a206baa8-ea28-4de7-8c9a-f7dd903aafa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::div[2]</value>
-      <webElementGuid>2a2bdabd-982b-4b9f-8e00-32eb2beb4374</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Logic'])[1]/following::span[2]</value>
+      <webElementGuid>1422580b-9135-4b8c-b8a9-bbc0acb9eb47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consolidated Level'])[1]/following::div[6]</value>
-      <webElementGuid>fd233a54-0066-432c-a6cb-5299923a4995</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitor'])[2]/following::span[4]</value>
+      <webElementGuid>0b304843-5d93-42fb-bf2c-6a638a72a4d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Details DB'])[1]/preceding::div[4]</value>
-      <webElementGuid>a15b306f-56e7-43e1-a233-a9f19561f3bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snapshots'])[1]/preceding::span[2]</value>
+      <webElementGuid>843d268c-3c4a-46a0-b122-ee38e0b419ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::div[14]</value>
-      <webElementGuid>cb2d4874-47b4-4840-b2c1-a53ed99eb5f4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ResultSets'])[1]/preceding::span[4]</value>
+      <webElementGuid>48bd7544-ca77-4566-88b4-6ac4961e8aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='People']/parent::*</value>
+      <webElementGuid>84401971-0da9-46b9-b0ee-17b2672dc3e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/div[2]/div</value>
-      <webElementGuid>0b7ca867-f928-4a9c-b452-a58c53b9c1d6</webElementGuid>
+      <value>//li[3]/a/span[2]</value>
+      <webElementGuid>62db3e68-01a5-4b1a-a3f7-7bbb20335cda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
