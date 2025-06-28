@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>MTP_v2</description>
-   <name>MTP_v2</name>
+   <name>MTP_v2_Ignore</name>
    <tag>MTP</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

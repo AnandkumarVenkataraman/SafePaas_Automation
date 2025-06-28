@@ -6,12 +6,11 @@
    <elementGuidId>c9665ca5-15e6-4648-83ad-9f32a5ff76a5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Completed')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1001:10:13424215192994:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:5390,Y' and (text() = 'Completed' or . = 'Completed')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0e424d48-5f0e-4c92-ac96-2ee96a6ad104</webElementGuid>
+      <webElementGuid>5cdd4822-42a4-4676-a4ef-9740fdd67610</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:10:13424215192994:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:5390,Y</value>
-      <webElementGuid>92ae8d12-e5f1-462c-b36d-6615b4aa990d</webElementGuid>
+      <webElementGuid>a850506b-6ea8-4ad7-a39a-cf4d2d54fb3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Completed</value>
-      <webElementGuid>254f64a6-39cd-4ea8-8601-8a5cc51f69e8</webElementGuid>
+      <webElementGuid>42b98bf7-0642-4945-8e38-1076c6aecb91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;119140694016328613_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>482221f4-8ddf-4985-9fcd-c104aa32f0f3</webElementGuid>
+      <webElementGuid>fbb2c6ef-3aa9-4947-89cf-d85010bdcfb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:10:13424215192994:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:5390,Y' and (text() = 'Completed' or . = 'Completed')]</value>
-      <webElementGuid>e9b4c234-3630-457c-96ba-df810194eb28</webElementGuid>
+      <webElementGuid>1193f65a-2c96-448a-bd90-afa26f5f2469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='119140694016328613_orig']/tbody/tr[2]/td[7]/a</value>
-      <webElementGuid>3895ba71-b3ef-4304-84c8-cf12a449552e</webElementGuid>
+      <webElementGuid>3f6c22fc-b971-4008-bd88-01a1c1dfaa34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Completed')]</value>
-      <webElementGuid>d2ef538b-05d5-4239-aa97-42d6da5bbec5</webElementGuid>
+      <webElementGuid>36819b0e-8349-4164-83b5-3b6abb5a8b58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EBSDB'])[1]/following::a[1]</value>
-      <webElementGuid>aa5b5a27-4d76-4b24-a6f8-f5571aba8bb2</webElementGuid>
+      <webElementGuid>6bc35d71-8042-4e5a-9794-4a8ecc55f322</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='APPS'])[1]/following::a[1]</value>
-      <webElementGuid>725173b0-a633-4431-885d-4448f8df9b47</webElementGuid>
+      <webElementGuid>d473e239-a7b9-4842-8de3-0bc4d8f672aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
-      <webElementGuid>0958629c-6979-4310-98ba-be66d1b921e0</webElementGuid>
+      <webElementGuid>cdde66f8-bc39-47c9-8eaf-b22e7ee5dd4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::a[1]</value>
-      <webElementGuid>97558a6b-6c30-46fe-852b-719440c1c155</webElementGuid>
+      <webElementGuid>465dc1fe-c04e-44ea-8f7a-dca48c6121a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Completed']/parent::*</value>
-      <webElementGuid>74b78284-94d4-43ee-bb9e-6f8910da0a8c</webElementGuid>
+      <webElementGuid>5dd460b2-565b-4f88-b504-97f18b17ed31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:10:13424215192994:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:5390,Y')]</value>
-      <webElementGuid>c8a6735d-d663-45bd-a0cc-8bef7a989622</webElementGuid>
+      <webElementGuid>d2f7c9dc-fe76-4867-bf8b-e49191873cca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +132,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/a</value>
-      <webElementGuid>0081e716-a6f4-467d-b1e5-efda58764fc5</webElementGuid>
+      <webElementGuid>eebe96c4-fbd9-45a0-a81e-1a2ccb069c04</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

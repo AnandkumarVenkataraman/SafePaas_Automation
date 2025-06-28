@@ -60,17 +60,21 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/bu
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/a_Inbox (1)'))
 
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File Explorer_a-TreeView-toggle'))
 
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data Source'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_bcbb9d'), 
-    'KTLNEBS_MonitorPaaS', true)
+WebUI.delay(2)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_bcbb9d'), 
+    9)
+WebUI.delay(2)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Data Source/a_Completed'), 'Completed')
-
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_Manage Object'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e'), 
@@ -224,8 +228,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Monitors'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a'),
-	'AccountsPayable', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a'),
+	36)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Deploy'))
 
@@ -774,8 +778,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File E
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data Source (1)'))
 
 WebUI.delay(2)
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_2c3357'),
-	'KTLNEBS_MonitorPaaS', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_2c3357'),
+	9)
 WebUI.delay(2)
 WebUI.setText(findTestObject('Object Repository/Page_Manage Data Source/input_Create_R119140564844328612_search_field'),
 	'KTLNEBS_MonitorPaaS_Vision122_DS')
