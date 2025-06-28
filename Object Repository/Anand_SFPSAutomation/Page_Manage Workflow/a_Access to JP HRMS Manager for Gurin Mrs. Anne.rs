@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage Company (4)</name>
+   <name>a_Access to JP HRMS Manager for Gurin Mrs. Anne</name>
    <tag></tag>
-   <elementGuidId>28be28e3-b398-4270-afd7-1d55af28d85b</elementGuidId>
+   <elementGuidId>b05b5f73-dc9f-413e-9253-1269e0c002db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Company')]</value>
+         <value>//a[@id='instanceName']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.a-TreeView-label</value>
+         <value>#instanceName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage Company&quot;i]</value>
+         <value>internal:role=link[name=&quot;Access to JP HRMS Manager for Guérin Mrs. Anne&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,150 +29,142 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3ee4fbd3-cfdc-4806-891d-b69d1adb70f3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>0bdaa56c-c069-45cc-9161-06a9cf6389c1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>treeitem</value>
-      <webElementGuid>5f0842f9-2dab-4d02-bc93-53d5958854bb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>a-TreeView-label</value>
-      <webElementGuid>174f25cd-d83f-4ff7-af33-85bbba52bb55</webElementGuid>
+      <webElementGuid>36ac73d3-8364-41c1-bb72-1b66e8adb6c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:15:9877708959613:::15:P15_COMPANY_ID:71843</value>
-      <webElementGuid>522eb294-7ac3-4dc2-b306-d76a671f4db7</webElementGuid>
+      <value>#</value>
+      <webElementGuid>7659d22c-2e49-43a6-9e37-cd378f33091f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-level</name>
+      <name>id</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>b0e45080-7d56-44e6-8de6-8f90f58ba8fa</webElementGuid>
+      <value>instanceName</value>
+      <webElementGuid>250db4cc-787e-420a-9922-91822da05131</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-selected</name>
+      <name>data-instance</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>7d4ff32b-508b-4c09-b5b1-96ef963e283d</webElementGuid>
+      <value>AR 3984</value>
+      <webElementGuid>288aa281-cce0-4e69-9f6b-0ee78232fe37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-groupid</name>
+      <type>Main</type>
+      <value>5888</value>
+      <webElementGuid>06672e94-398a-4c4f-86cc-45e4a1d48685</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Company</value>
-      <webElementGuid>683e4000-6b64-4500-b580-8105639bfa45</webElementGuid>
+      <value>Access to JP HRMS Manager for Guérin Mrs. Anne</value>
+      <webElementGuid>15dc04c1-4696-421c-a8ed-c4e41e588d3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_8&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>e1fda601-24dd-4dbf-aecc-877a132ada14</webElementGuid>
+      <value>id(&quot;97388373399089016_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[@id=&quot;instanceName&quot;]</value>
+      <webElementGuid>e9d9a2f7-a0e2-4cab-8d16-b201e61b9406</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:15:9877708959613:::15:P15_COMPANY_ID:71843' and (text() = 'Manage Company' or . = 'Manage Company')]</value>
-      <webElementGuid>2ed87937-8ebb-49e4-b953-2664ec36f8c2</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Access to JP HRMS Manager for Guérin Mrs. Anne' or . = 'Access to JP HRMS Manager for Guérin Mrs. Anne')]</value>
+      <webElementGuid>fd4d248b-06ca-44ad-b559-d1a9a2791441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='instanceName']</value>
+      <webElementGuid>fb63188d-14c9-4ee2-af29-3e5041a9ad77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
-      <webElementGuid>881e8387-0544-4782-b002-92bd962f6175</webElementGuid>
+      <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[4]/a</value>
+      <webElementGuid>ac817c79-bc79-4bd4-aa61-6f6731ba826f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Manage Company')]</value>
-      <webElementGuid>c28bf41d-cdfa-49d8-a703-41b49a0a2358</webElementGuid>
+      <value>//a[contains(text(),'Access to JP HRMS Manager for Guérin Mrs. Anne')]</value>
+      <webElementGuid>ba7ea620-b0aa-4fb0-8f09-1a34f5cc37cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Settings'])[1]/following::a[1]</value>
-      <webElementGuid>2df72ab9-4257-4f14-9c6d-fe4b930bba59</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EIA - Access Request WF - Update Access'])[1]/following::a[1]</value>
+      <webElementGuid>2b9660e6-d1f0-4319-8cb7-a7ae054554fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::a[1]</value>
-      <webElementGuid>6c7e5853-9f9f-484a-af33-1ccc8b1c20ca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/following::a[2]</value>
+      <webElementGuid>a68db494-ad01-4859-9939-2b632d817228</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Environment'])[1]/preceding::a[1]</value>
-      <webElementGuid>d6dac51a-0703-429b-a7e8-c30a39ccc3b4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelled'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a4f7dc2-ec41-4618-aec7-70da779d70f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cross Data Sources'])[1]/preceding::a[2]</value>
-      <webElementGuid>ab167124-b983-47a2-a32f-6f49ce95f66e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canceled at approval level: 2'])[1]/preceding::a[1]</value>
+      <webElementGuid>9de80ed0-5600-4edc-a26f-ee326b385a84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage Company']/parent::*</value>
-      <webElementGuid>67dced1e-6be6-4bbf-b8c4-7ea12c107255</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Access to JP HRMS Manager for Guérin Mrs. Anne']/parent::*</value>
+      <webElementGuid>8a8acf93-ba93-4b98-b2a6-945bca90524f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:15:9877708959613:::15:P15_COMPANY_ID:71843')]</value>
-      <webElementGuid>4dd29ae8-8140-4d12-8103-b56fa3883f61</webElementGuid>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>1a1ffa20-9a1e-46dc-ad3b-7140afff116a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div[2]/a</value>
-      <webElementGuid>f5206f9f-5872-4345-88fa-3e1d04a4926d</webElementGuid>
+      <value>//td[4]/a</value>
+      <webElementGuid>8f1b7a3a-0537-45fb-983c-eaeaf07bdc5a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

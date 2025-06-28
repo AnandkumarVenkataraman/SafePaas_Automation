@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage Environment</name>
+   <name>td_JP HRMS Manager</name>
    <tag></tag>
-   <elementGuidId>c882e308-4335-40fd-b5aa-474669a8ce15</elementGuidId>
+   <elementGuidId>5c296502-8fcd-40a3-96bc-ce4ed9b83430</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[contains(text(),'Manage Environment')])[2]</value>
+         <key>CSS</key>
+         <value>#grid_ig_grid_vc_cur</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//td[(text() = 'JP HRMS Manager' or . = 'JP HRMS Manager')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage Environment&quot;i]</value>
+         <value>internal:label=&quot;Column 2.&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,143 +28,135 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>12316546-2258-4f83-90a3-abc113f157e2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>fbac91ea-6044-496f-8296-2b92e503b7c0</webElementGuid>
+      <value>td</value>
+      <webElementGuid>62de0841-2334-4b02-8e80-3ab4e2c78de0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>treeitem</value>
-      <webElementGuid>8cd88c85-d3f6-49a4-b36d-fc1e9e5d2be1</webElementGuid>
+      <value>gridcell</value>
+      <webElementGuid>715a713a-5662-4dd1-b892-dc51cd1ca8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e954c986-d6dc-4026-bd62-49f15f9a6bde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-TreeView-label</value>
-      <webElementGuid>be459ae1-082f-4fd6-ab8b-2314287727f7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>f?p=1001:12:9877708959613:::12::</value>
-      <webElementGuid>46d0fd86-5a73-4f71-a60d-1dda7506638e</webElementGuid>
+      <value>a-GV-cell u-tC is-readonly is-focused</value>
+      <webElementGuid>26b5cf1b-36d6-48d2-b390-248479886ab1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-level</name>
+      <name>aria-labelledby</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>2404aa45-51d8-4400-9af1-01f8f0d50104</webElementGuid>
+      <value>grid_ig_grid_vc_ctx C161485184769320307_HDR grid_ig_grid_vc_cur</value>
+      <webElementGuid>8c1209be-5f0f-4536-bcd3-cca0c5819543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-selected</name>
+      <name>id</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>8e6b441d-16f5-4c87-9f26-aeca53002f7f</webElementGuid>
+      <value>grid_ig_grid_vc_cur</value>
+      <webElementGuid>640c5d4c-27fc-4983-b93a-1992cc66f300</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Environment</value>
-      <webElementGuid>b874a572-c965-4fd8-8afe-d7ddb1bf7c3b</webElementGuid>
+      <value>JP HRMS Manager</value>
+      <webElementGuid>ac1b8f55-7afc-40bb-93a5-0f7780f6ff41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_247&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>96db128e-63b5-4645-8089-e648e1fe369c</webElementGuid>
+      <value>id(&quot;grid_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>d68d9da9-2183-4f97-9dc5-a5c1a1b245b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:12:9877708959613:::12::' and (text() = 'Manage Environment' or . = 'Manage Environment')]</value>
-      <webElementGuid>39a7349b-aa06-4953-a15e-dd26a547a2ef</webElementGuid>
+      <value>//td[(text() = 'JP HRMS Manager' or . = 'JP HRMS Manager')]</value>
+      <webElementGuid>62c89080-5c1f-40dd-b9d1-0871ab8378e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='grid_ig_grid_vc_cur']</value>
+      <webElementGuid>5ce406c0-ffb2-43ce-8e8a-0d3886c45905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_247']/div[2]/a</value>
-      <webElementGuid>1ebac4b8-4d27-47ad-85c6-4e30ee31b155</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>(//a[contains(text(),'Manage Environment')])[2]</value>
-      <webElementGuid>5015588c-a3f6-48cd-8163-f720d692a986</webElementGuid>
+      <value>//div[@id='grid_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[2]</value>
+      <webElementGuid>17753dbe-c068-4cde-bab6-f681ed296fdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Company'])[1]/following::a[1]</value>
-      <webElementGuid>9ce93319-9d5b-4784-988d-755826263ef6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGUERIN - Anne Guérin'])[1]/following::td[1]</value>
+      <webElementGuid>41b4d414-acc1-458c-9b95-bb3c9e4174ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Settings'])[1]/following::a[2]</value>
-      <webElementGuid>18d1d376-e2a0-418c-8080-acc8af45e379</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[2]/following::td[2]</value>
+      <webElementGuid>4c49abe2-0cf4-4a4e-80ac-5b20c05f023a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cross Data Sources'])[1]/preceding::a[1]</value>
-      <webElementGuid>22349bb8-8fc5-4728-8446-575f230c5e4c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[1]</value>
+      <webElementGuid>9262aa7b-66fa-4ae7-bcf3-894a14fcad15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Security Positions'])[1]/preceding::a[2]</value>
-      <webElementGuid>ee1f9a42-f2d2-45bf-b28a-1174d5806c14</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[5]</value>
+      <webElementGuid>71c6a690-7cd1-4d48-9750-d0b99a386cc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:12:9877708959613:::12::')]</value>
-      <webElementGuid>2f2a57b0-301f-40d4-bd75-8cce31fbaa7f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='JP HRMS Manager']/parent::*</value>
+      <webElementGuid>654fb19d-d2d3-4f14-8f3e-9d5780c84572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/ul/li/ul/li[2]/div[2]/a</value>
-      <webElementGuid>fce3613b-22d0-4dde-86a9-bb1899a9d37b</webElementGuid>
+      <value>//td[2]</value>
+      <webElementGuid>800ed1bd-c192-473b-9b4d-bd22b031d041</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

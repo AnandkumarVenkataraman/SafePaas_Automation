@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_The cancellation process has been initia_605824</name>
+   <tag></tag>
+   <elementGuidId>ba40135f-0b30-4fb8-af88-188f4ae83c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.t-Alert-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[(text() = 'The cancellation process has been initiated for this access request.You can expect to see the changes reflected within the next few minutes' or . = 'The cancellation process has been initiated for this access request.You can expect to see the changes reflected within the next few minutes')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;The cancellation process has been initiated for this access request. You can expect to see the changes reflected within the next few minutes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4a68e643-1538-4426-b862-74d8b163cc96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Alert-title</value>
+      <webElementGuid>84062c80-2b44-4c50-9908-e4b1b779b389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The cancellation process has been initiated for this access request.You can expect to see the changes reflected within the next few minutes</value>
+      <webElementGuid>2d15d7d5-21fe-4353-b7ca-b85d52d9fc98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
+      <webElementGuid>caab9d56-efd4-4fb0-a14d-923904993012</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'The cancellation process has been initiated for this access request.You can expect to see the changes reflected within the next few minutes' or . = 'The cancellation process has been initiated for this access request.You can expect to see the changes reflected within the next few minutes')]</value>
+      <webElementGuid>08107aea-fdca-4d5f-a734-b90fe78bd0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      <webElementGuid>8cf588c9-d03c-4896-a68e-12b490644d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumbs'])[1]/following::h2[1]</value>
+      <webElementGuid>4e47e6d9-1796-4305-b293-09f5d6145553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Workflow'])[3]/following::h2[1]</value>
+      <webElementGuid>07f738eb-c0dc-4fef-9e19-ea4be0c02e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workflow Filter'])[1]/preceding::h2[1]</value>
+      <webElementGuid>d44a0c92-0a58-412b-8186-0af5e925e5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The cancellation process has been initiated for this access request.']/parent::*</value>
+      <webElementGuid>a79ff478-4d42-4b28-b98b-e00430779afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>09335f29-97b4-483a-a3af-862ffce23541</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

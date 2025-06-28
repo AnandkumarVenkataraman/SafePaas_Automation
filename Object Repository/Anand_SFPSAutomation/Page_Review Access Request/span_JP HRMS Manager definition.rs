@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_JP HRMS Manager definition</name>
+   <tag></tag>
+   <elementGuidId>f479a41c-a7ea-4403-ad1c-ec27f24ee539</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_ACCESS_DESCRIPTION</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'JP HRMS Manager definition' or . = 'JP HRMS Manager definition')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;JP HRMS Manager definition&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64c477f3-db47-4134-a76b-0ea23ba2d82e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_ACCESS_DESCRIPTION</value>
+      <webElementGuid>a7e642bd-3a26-4a13-9564-a1cd311fe076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>57c6daa8-678e-42ef-a517-eaddab9298fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e96e6a81-589f-44a4-8697-b5cc8bb0bf1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JP HRMS Manager definition</value>
+      <webElementGuid>e62ab4c9-8714-428d-9f33-3dfff06d1291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_ACCESS_DESCRIPTION&quot;)</value>
+      <webElementGuid>4fb5d733-f13c-4553-8d07-438d45c037f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'JP HRMS Manager definition' or . = 'JP HRMS Manager definition')]</value>
+      <webElementGuid>c43512b5-328c-49a6-a71c-d81f8e9eb92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P23_ACCESS_DESCRIPTION']</value>
+      <webElementGuid>fa32d186-b469-4d38-8b7f-847005ea0f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_ACCESS_DESCRIPTION_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>cc47baaf-5274-4812-a4dc-9d18632f881b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Description'])[1]/following::span[1]</value>
+      <webElementGuid>2b05b33f-fbcb-422c-84b7-133349fd6234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JP HRMS Manager'])[1]/following::span[2]</value>
+      <webElementGuid>ebab8211-6624-40b9-891e-020e840564db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Context Details'])[1]/preceding::span[2]</value>
+      <webElementGuid>04de9085-74bc-4896-93ce-efc6f615beed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/preceding::span[2]</value>
+      <webElementGuid>a565efdc-eb2a-43fe-8c11-a4dbfb610168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JP HRMS Manager definition']/parent::*</value>
+      <webElementGuid>df8ffd79-55bb-43b9-8152-9dcf4ef664ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/span</value>
+      <webElementGuid>a220c012-51dd-47e3-8ea2-bba8f8c07811</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

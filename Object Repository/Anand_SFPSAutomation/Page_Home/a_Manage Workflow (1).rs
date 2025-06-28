@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage Company (4)</name>
+   <name>a_Manage Workflow (1)</name>
    <tag></tag>
-   <elementGuidId>28be28e3-b398-4270-afd7-1d55af28d85b</elementGuidId>
+   <elementGuidId>4a6c0e13-92ea-4240-948f-63107161c777</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Company')]</value>
+         <value>//a[contains(text(),'Manage Workflow')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.a-TreeView-label</value>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage Company&quot;i]</value>
+         <value>internal:role=treeitem[name=&quot;Manage Workflow&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3ee4fbd3-cfdc-4806-891d-b69d1adb70f3</webElementGuid>
+      <webElementGuid>9d7b687e-d13d-4f93-8b2b-9baff661ec79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>0bdaa56c-c069-45cc-9161-06a9cf6389c1</webElementGuid>
+      <webElementGuid>c77ff93e-728b-4bbe-9912-785c0b899fec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>5f0842f9-2dab-4d02-bc93-53d5958854bb</webElementGuid>
+      <webElementGuid>5995d212-9cd7-4492-bd91-c6bc7a00e79e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>174f25cd-d83f-4ff7-af33-85bbba52bb55</webElementGuid>
+      <webElementGuid>aad2b5a8-66b7-40fc-a33c-f764366ad307</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1001:15:9877708959613:::15:P15_COMPANY_ID:71843</value>
-      <webElementGuid>522eb294-7ac3-4dc2-b306-d76a671f4db7</webElementGuid>
+      <value>f?p=1001:37:9634308672555:::37::&amp;cs=3SiLbKd2HogMkqqMVaY1E8Cr53S5SF7IgxLtP7L60I7GHNXSC6qLamhCUosJQBLt99GrfZm2eWgKHj0m0vCVdQw</value>
+      <webElementGuid>08a12754-08c6-4af2-95a2-8365512fd411</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>b0e45080-7d56-44e6-8de6-8f90f58ba8fa</webElementGuid>
+      <webElementGuid>c71a2c6c-4b8d-4aca-a9d0-9f448e094c0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,102 +77,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7d4ff32b-508b-4c09-b5b1-96ef963e283d</webElementGuid>
+      <webElementGuid>09845011-fb1b-4b05-b12a-c1264a26a389</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Company</value>
-      <webElementGuid>683e4000-6b64-4500-b580-8105639bfa45</webElementGuid>
+      <value>Manage Workflow</value>
+      <webElementGuid>b7c6ae9a-a9d3-4584-8432-2c7285c710d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_8&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>e1fda601-24dd-4dbf-aecc-877a132ada14</webElementGuid>
+      <value>id(&quot;t_TreeNav_9&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>2d0b14af-8fd9-4a3d-b09a-f23c194e6f94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1001:15:9877708959613:::15:P15_COMPANY_ID:71843' and (text() = 'Manage Company' or . = 'Manage Company')]</value>
-      <webElementGuid>2ed87937-8ebb-49e4-b953-2664ec36f8c2</webElementGuid>
+      <value>//a[@href = 'f?p=1001:37:9634308672555:::37::&amp;cs=3SiLbKd2HogMkqqMVaY1E8Cr53S5SF7IgxLtP7L60I7GHNXSC6qLamhCUosJQBLt99GrfZm2eWgKHj0m0vCVdQw' and (text() = 'Manage Workflow' or . = 'Manage Workflow')]</value>
+      <webElementGuid>7a63dc14-6fdd-4b12-9525-2ae2c50a33fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
-      <webElementGuid>881e8387-0544-4782-b002-92bd962f6175</webElementGuid>
+      <value>//li[@id='t_TreeNav_9']/div[2]/a</value>
+      <webElementGuid>891201bc-6363-40c8-9f7e-171aaf498edc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Manage Company')]</value>
-      <webElementGuid>c28bf41d-cdfa-49d8-a703-41b49a0a2358</webElementGuid>
+      <value>//a[contains(text(),'Manage Workflow')]</value>
+      <webElementGuid>5ee238b4-412b-4488-b8c7-2063e61d877c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Settings'])[1]/following::a[1]</value>
-      <webElementGuid>2df72ab9-4257-4f14-9c6d-fe4b930bba59</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduler'])[1]/following::a[1]</value>
+      <webElementGuid>341fed90-ee4e-40ae-b72a-364c61f0349c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::a[1]</value>
-      <webElementGuid>6c7e5853-9f9f-484a-af33-1ccc8b1c20ca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/following::a[2]</value>
+      <webElementGuid>ef3a5b06-ee53-436a-af60-edbee79c87ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Environment'])[1]/preceding::a[1]</value>
-      <webElementGuid>d6dac51a-0703-429b-a7e8-c30a39ccc3b4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled Downloads'])[1]/preceding::a[1]</value>
+      <webElementGuid>363d1b11-d03d-4e8b-bacb-634b16bf229b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cross Data Sources'])[1]/preceding::a[2]</value>
-      <webElementGuid>ab167124-b983-47a2-a32f-6f49ce95f66e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Report'])[1]/preceding::a[2]</value>
+      <webElementGuid>a09e2084-878c-4f6a-9ca0-b5c4017a0dbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage Company']/parent::*</value>
-      <webElementGuid>67dced1e-6be6-4bbf-b8c4-7ea12c107255</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Manage Workflow']/parent::*</value>
+      <webElementGuid>a30e8a37-5cb8-41ea-9a3e-c0f3e3954b86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1001:15:9877708959613:::15:P15_COMPANY_ID:71843')]</value>
-      <webElementGuid>4dd29ae8-8140-4d12-8103-b56fa3883f61</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1001:37:9634308672555:::37::&amp;cs=3SiLbKd2HogMkqqMVaY1E8Cr53S5SF7IgxLtP7L60I7GHNXSC6qLamhCUosJQBLt99GrfZm2eWgKHj0m0vCVdQw')]</value>
+      <webElementGuid>13b41b46-7dbb-4e26-ad1f-da868949517d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div[2]/a</value>
-      <webElementGuid>f5206f9f-5872-4345-88fa-3e1d04a4926d</webElementGuid>
+      <value>//li[2]/div[2]/a</value>
+      <webElementGuid>240c9874-9c7c-4cc7-8443-a09b7466b7bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

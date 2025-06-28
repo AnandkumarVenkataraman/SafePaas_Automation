@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select one -Coupa_Env1EBizA_d51d0f</name>
+   <tag></tag>
+   <elementGuidId>5501b1ab-b875-4ad4-86ab-f0c95b589f87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P37_ENVIRONMENT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P37_ENVIRONMENT' and (text() = '- Please select one -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+MAJUL_EBS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+SAP_ECC
+SAP_S4HANA
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+' or . = '- Please select one -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+MAJUL_EBS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+SAP_ECC
+SAP_S4HANA
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Environment (Value Required)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c1b95d0d-8d12-411d-bd64-af043a4b9ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P37_ENVIRONMENT</value>
+      <webElementGuid>e4c4656c-91d0-49db-971f-158ce37d81d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P37_ENVIRONMENT</value>
+      <webElementGuid>e1033ef2-d2c7-4c48-a214-f0cfc147122f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>9ab03e81-da80-4bb2-bce5-8aab3deaba41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6802fdfa-0144-4a6e-8685-6369deea9d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c7e5dce4-f52e-4010-9a46-f5aaebbad400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select one -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+MAJUL_EBS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+SAP_ECC
+SAP_S4HANA
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+</value>
+      <webElementGuid>8dec10d6-8249-411c-9782-294867006171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P37_ENVIRONMENT&quot;)</value>
+      <webElementGuid>52bb4ce2-246d-44e7-ae0a-3de73681ef84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P37_ENVIRONMENT' and (text() = '- Please select one -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+MAJUL_EBS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+SAP_ECC
+SAP_S4HANA
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+' or . = '- Please select one -
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+KTLN_DEV22
+MAJUL_EBS
+McD_GRM_ENV
+NEW_CLOUDERP
+SailPoint_Env
+SailPoint_ENV2
+SAP_ECC
+SAP_S4HANA
+TEST_DEV1_ENV
+TEST_JDE92_ENV
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDay_Env
+')]</value>
+      <webElementGuid>0a4082ef-3759-42eb-83a3-900f564eb4e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P37_ENVIRONMENT']</value>
+      <webElementGuid>00463d1b-d81b-4181-8d2b-20287c86e968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P37_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>6cb950f3-9454-43ee-8991-8fc0c051f42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::select[1]</value>
+      <webElementGuid>c4add532-a0c3-4b45-828f-637984f9971b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[1]</value>
+      <webElementGuid>32a7c9f4-1e23-4411-b3e7-098c19fe2446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Screen Reader Mode On'])[1]/preceding::select[1]</value>
+      <webElementGuid>531ae83e-4cbb-4530-b87f-1647b08bb54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/select</value>
+      <webElementGuid>7c96cc54-d7b6-4d22-8ced-66f4873a9185</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

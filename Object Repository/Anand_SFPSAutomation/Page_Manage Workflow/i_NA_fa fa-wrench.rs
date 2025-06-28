@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_NA_fa fa-wrench</name>
+   <tag></tag>
+   <elementGuidId>45b351c3-3c6d-46eb-87be-11a13c0083f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-wrench</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;N/A EIA - Access Request WF - Update Access Access to JP HRMS Manager for Guérin Mrs. Anne Open Current approver: KATADMIN Kat Admin 28-JUN-2025 01:22:18 AGUERIN AGUERIN 28-JUN-2025 01:22:18&quot;i] >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>787ec297-a0d2-4a15-9f04-0f146a378cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-wrench</value>
+      <webElementGuid>c82148ff-531b-457b-a95f-b5832ee59e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3c0e567d-fd46-48b6-8f20-34ba78a95335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;97388373399089016_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/i[@class=&quot;fa fa-wrench&quot;]</value>
+      <webElementGuid>35fea4a1-e224-4c55-a5c3-5d9505aef80d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='97388373399089016_orig']/tbody/tr[2]/td[2]/a/i</value>
+      <webElementGuid>a80d0939-8364-4d86-ac02-c0d114b94914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>7646be11-5b16-42ad-8865-88ceef04f05c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
