@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MARIAB1 - Maria Brum</name>
+   <tag></tag>
+   <elementGuidId>3fbfb079-c709-4984-9360-d69c2e3c0609</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#unassignRoleGroupIg_ig_grid_vc_cur</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'MARIAB1 - Maria Brum' or . = 'MARIAB1 - Maria Brum')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 7.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d2e31a92-8363-451f-821b-c7e5922b02a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>d5fed58b-0b77-426a-8562-e63aed2e6cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>afb3f7ec-2ba1-44fd-ba41-1ce29cdad559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-readonly is-focused</value>
+      <webElementGuid>9f28c752-759a-4cea-a209-d1a654eb719f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>unassignRoleGroupIg_ig_grid_vc_ctx C236655341297315045_HDR unassignRoleGroupIg_ig_grid_vc_cur</value>
+      <webElementGuid>b4e885fb-9e3a-4c64-9f8f-477f695b08f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>unassignRoleGroupIg_ig_grid_vc_cur</value>
+      <webElementGuid>deedb1ec-d8a6-4cb5-b02b-74922d9e44e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MARIAB1 - Maria Brum</value>
+      <webElementGuid>57dec0d5-8c26-4097-a0fc-2d019e035f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;unassignRoleGroupIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>dba1da22-2bec-427a-92f1-56c536903642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'MARIAB1 - Maria Brum' or . = 'MARIAB1 - Maria Brum')]</value>
+      <webElementGuid>9bad0d55-01c0-4042-8f11-b08ba91b9487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='unassignRoleGroupIg_ig_grid_vc_cur']</value>
+      <webElementGuid>9559b38e-42a7-42d8-b700-2f515324d51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='unassignRoleGroupIg_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[6]</value>
+      <webElementGuid>720136c7-2e2d-4c02-9e05-d37741d1ddfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANANDK1 - Anand Kumar Venkataraman'])[1]/following::td[1]</value>
+      <webElementGuid>10f6ef4c-ac0f-40f2-9b9e-8eea97fa0b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[2]/following::td[2]</value>
+      <webElementGuid>52523af1-bced-4c1d-a358-8111d738b022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchasing'])[3]/preceding::td[1]</value>
+      <webElementGuid>74200fa4-01a1-4470-be19-aedeb85b37eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[3]/preceding::td[2]</value>
+      <webElementGuid>84be2c11-a5de-4219-b9dd-2b9098e1010c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MARIAB1 - Maria Brum']/parent::*</value>
+      <webElementGuid>350014c1-143d-43ae-b68c-4dc9a17d17e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]</value>
+      <webElementGuid>49f18c3c-95f3-4b22-8046-cec9bc014a9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

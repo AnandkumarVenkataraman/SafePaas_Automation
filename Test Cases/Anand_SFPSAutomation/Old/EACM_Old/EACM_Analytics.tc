@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM_Analytics</description>
+   <name>EACM_Analytics</name>
+   <tag>EACM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03940696-c39c-451c-9fca-a2b67c877be0</testCaseGuid>
+</TestCaseEntity>

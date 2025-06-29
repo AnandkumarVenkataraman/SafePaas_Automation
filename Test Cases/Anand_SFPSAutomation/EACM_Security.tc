@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EACM_Security</description>
-   <name>EACM_Security</name>
-   <tag>EACM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>cce75610-8306-4321-8c07-85b52214772b</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM_Workflow</description>
+   <name>EACM_Workflow</name>
+   <tag>EACM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19305b3d-7dfa-4d26-ae59-fdef4cf45d40</testCaseGuid>
+</TestCaseEntity>

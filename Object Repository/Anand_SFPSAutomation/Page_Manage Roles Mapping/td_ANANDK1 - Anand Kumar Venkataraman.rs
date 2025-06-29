@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ANANDK1 - Anand Kumar Venkataraman</name>
+   <tag></tag>
+   <elementGuidId>5d300c68-743f-4594-92e7-88c876815c15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#unassignRoleGroupIg_ig_grid_vc_cur</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'ANANDK1 - Anand Kumar Venkataraman' or . = 'ANANDK1 - Anand Kumar Venkataraman')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Column 6.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c85259c3-dbd0-4454-916d-9a6fc20a5535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>4061570d-76ff-4ae5-8188-0579ecc14636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>250fd3bf-bd6c-4759-b817-c1fff9402211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS is-readonly is-focused</value>
+      <webElementGuid>1fd58a06-3ff1-4d7e-9557-0ea776eee6d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>unassignRoleGroupIg_ig_grid_vc_ctx C236655245452315044_HDR unassignRoleGroupIg_ig_grid_vc_cur</value>
+      <webElementGuid>1c7b1431-5c3d-44be-ae9c-888e80cc5762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>unassignRoleGroupIg_ig_grid_vc_cur</value>
+      <webElementGuid>b57626a0-7060-4622-b3a4-b283814bfd9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANANDK1 - Anand Kumar Venkataraman</value>
+      <webElementGuid>1ff73843-1668-4a78-ad51-36e4a2ccd1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;unassignRoleGroupIg_ig_grid_vc_cur&quot;)</value>
+      <webElementGuid>d5172518-f30e-4139-a8ca-19db5832091c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ANANDK1 - Anand Kumar Venkataraman' or . = 'ANANDK1 - Anand Kumar Venkataraman')]</value>
+      <webElementGuid>b8f9f91c-3f58-4fd0-b738-9607f9a687bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='unassignRoleGroupIg_ig_grid_vc_cur']</value>
+      <webElementGuid>394f2ea4-93e5-45be-a7ee-d7b989629f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='unassignRoleGroupIg_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[5]</value>
+      <webElementGuid>88652754-76ae-4c22-92ff-cbb631edfc48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[2]/following::td[1]</value>
+      <webElementGuid>bf900d83-3075-4395-8abb-82ab0d43a631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::td[2]</value>
+      <webElementGuid>738c706b-ac29-4477-9c3e-bafc821f05d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MARIAB1 - Maria Brum'])[1]/preceding::td[1]</value>
+      <webElementGuid>db0bb490-2199-403b-bfe1-7302959b8ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchasing'])[3]/preceding::td[2]</value>
+      <webElementGuid>d8ce5f2b-8b8a-4898-b703-d45ad49caaf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ANANDK1 - Anand Kumar Venkataraman']/parent::*</value>
+      <webElementGuid>dec776af-a766-4334-9f23-b98a729dfc76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>72a5bc0b-d056-49c8-867e-88a5dbcba3a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

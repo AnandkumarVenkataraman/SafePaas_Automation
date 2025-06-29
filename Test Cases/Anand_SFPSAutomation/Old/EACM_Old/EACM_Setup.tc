@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM</description>
+   <name>EACM_Setup</name>
+   <tag>EACM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4d6ba39-394d-490a-8518-67fe42f41137</testCaseGuid>
+</TestCaseEntity>
