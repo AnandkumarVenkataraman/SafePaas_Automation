@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'Users' or . = 'Users')]</value>
+         <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[4]/a/span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>39ddf027-dcc4-4618-aeaa-ca721c564466</webElementGuid>
+      <webElementGuid>468fb66f-a288-43bb-a5b5-dd02e66d78ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Tabs-label</value>
-      <webElementGuid>d43ca1ec-88c7-4c46-8a58-7af1fa4618eb</webElementGuid>
+      <webElementGuid>e5d91bbe-9cd2-4d0e-9644-1db767e0cf57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Users</value>
-      <webElementGuid>2d840402-ae56-4d94-bcf6-a95e2fed2ccd</webElementGuid>
+      <webElementGuid>e9d0c3aa-38b8-46cd-9638-c3e3ecc6bf9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
-      <webElementGuid>74c4c574-bc4c-4efe-877d-aabebd0026a7</webElementGuid>
+      <webElementGuid>e008e718-f5fd-4106-b6a7-0d0d92d0daff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Users' or . = 'Users')]</value>
-      <webElementGuid>82d31d42-d7b0-47c5-8d71-b0aa1278e818</webElementGuid>
+      <webElementGuid>1d1df182-df0c-4295-8781-0e6795be8ebc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[4]/a/span[2]</value>
-      <webElementGuid>71424db2-61d1-4114-bf2f-5691a99baa50</webElementGuid>
+      <webElementGuid>12a2cc31-ab1b-4d1f-b6f1-07f5e3c9e96f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Licensed Application'])[1]/following::span[2]</value>
-      <webElementGuid>83da8006-bd91-4819-8e1b-51ca51dc8fc5</webElementGuid>
+      <webElementGuid>53d00f07-69fc-48a6-acf7-0b68052b7aea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[3]/following::span[4]</value>
-      <webElementGuid>b5dfae94-e9e5-45cc-ab91-e534e3d9b775</webElementGuid>
+      <webElementGuid>541d94d3-0933-4c3c-8ca4-53383b893f42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users Access'])[1]/preceding::span[2]</value>
-      <webElementGuid>39e20ede-b129-4c50-9885-71ff2a17c1b1</webElementGuid>
+      <webElementGuid>c29629b3-97c4-4b0f-88b5-dcfb4292ac47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Profile'])[1]/preceding::span[4]</value>
-      <webElementGuid>20f8064e-696a-4b26-ab76-4a6a66c04974</webElementGuid>
+      <webElementGuid>67732e88-b4e2-4ca4-9103-c36b1ce532e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Users']/parent::*</value>
-      <webElementGuid>c36e98ff-12fe-479e-996a-fa4a263f4ee0</webElementGuid>
+      <webElementGuid>0639a268-c7a2-4a3b-8bcb-9b1829c50742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span[2]</value>
-      <webElementGuid>0bf6cf9e-8c3e-49d0-98a6-7e6226d59f54</webElementGuid>
+      <webElementGuid>d359fbaa-5c88-4b8c-9c53-da443b1f03af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

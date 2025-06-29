@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
+         <value>//li[@id='menu_L14205299837764170_1']/div/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>50fcb767-2e6b-40d1-bfcf-5497b1ea908b</webElementGuid>
+      <webElementGuid>6bdf7f98-a7d5-4a2e-86a9-a689d73ec1de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Menu-labelContainer</value>
-      <webElementGuid>9a59711d-6b86-456b-99dd-2b47a37c9192</webElementGuid>
+      <webElementGuid>9248f330-d283-43ea-a8f1-2197495ebe00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>204fe6b9-cbaa-4e98-9a7a-9299dca8201b</webElementGuid>
+      <webElementGuid>30919c3e-b528-4b9c-99bc-2e1efa75c77f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu_L14205299837764170_1&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]</value>
-      <webElementGuid>3c31534b-843a-4ede-b3bb-1441824ae99b</webElementGuid>
+      <webElementGuid>6a160ad9-94c6-422d-bf9e-a947a78b87db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>9f563078-f457-412b-a5f7-626154984851</webElementGuid>
+      <webElementGuid>51d6e9c5-fa93-4ef0-9c68-6709a807a40a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='menu_L14205299837764170_1']/div/span</value>
-      <webElementGuid>0706337e-f8a6-4a2a-970a-02fcc4f979a6</webElementGuid>
+      <webElementGuid>851a4cf3-8785-4161-93e0-ee959167cc3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/following::span[3]</value>
-      <webElementGuid>d6bc7ca1-97e0-4eb5-a75d-62ddc5798c88</webElementGuid>
+      <webElementGuid>82c2dc8c-b430-4b93-9a12-74dab01a71bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Redirect home'])[1]/following::span[7]</value>
-      <webElementGuid>3e2833b2-4bd2-47f3-96dd-97fcbb89eef4</webElementGuid>
+      <webElementGuid>0e5019c2-5648-46cb-9d90-fd0485729060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/preceding::span[5]</value>
-      <webElementGuid>25107c9e-e621-4e91-9029-e2d5aa5becdd</webElementGuid>
+      <webElementGuid>dc1df9af-38d9-4600-8535-43d85d3a2edd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div/div/ul/li[2]/div/span</value>
-      <webElementGuid>c06175ea-7271-499b-ae97-ee31f531e012</webElementGuid>
+      <webElementGuid>13b9b6bf-f3af-4b41-ab28-07c522db8c25</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,11 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = '
-      katadmin
-  ' or . = '
-      katadmin
-  ')]</value>
+         <value>//button[@id='L14205299837764170']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -33,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51533b25-813e-4a6a-847c-83bbf9ec000c</webElementGuid>
+      <webElementGuid>cac8ffa1-f7a9-49e9-b3c5-a036e251d623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--icon t-Button t-Button--header t-Button--navBar js-menuButton</value>
-      <webElementGuid>8e84f34d-7ddb-4b2d-a406-69061e12ee79</webElementGuid>
+      <webElementGuid>4f4f08cf-a6a5-4277-be4e-f94a37e47e3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4c01470a-242f-4810-8c90-b524efaee535</webElementGuid>
+      <webElementGuid>5b2dc29a-3362-491d-a30e-11605190c838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>L14205299837764170</value>
-      <webElementGuid>b8dbd66c-351c-4ff2-9c0f-935efa68f1a0</webElementGuid>
+      <webElementGuid>c14fdc92-17a5-451e-8254-5a0686861f2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +61,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>menu_L14205299837764170</value>
-      <webElementGuid>45c419e3-5515-40c7-81d0-690aae77a82f</webElementGuid>
+      <webElementGuid>2a7e901d-9f17-4dec-ba1d-717a5c0ed162</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +69,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>13819144-1710-48d9-9ce1-4c8c63223ff5</webElementGuid>
+      <webElementGuid>48ac72cb-83cd-49c6-863f-676518994d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -83,7 +79,7 @@
       <value>
       katadmin
   </value>
-      <webElementGuid>8cbdc65c-8a59-4b95-945b-71b03e9def33</webElementGuid>
+      <webElementGuid>e22830ca-0bfa-4391-9f08-15ca2281c854</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;L14205299837764170&quot;)</value>
-      <webElementGuid>50b24c41-1002-4aab-afe0-d1f66b80d647</webElementGuid>
+      <webElementGuid>6012c9e1-c44e-409c-a8d3-d452193d38e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +99,7 @@
   ' or . = '
       katadmin
   ')]</value>
-      <webElementGuid>1bf95cae-bba2-4b67-859d-d69a52284806</webElementGuid>
+      <webElementGuid>4e7ecf87-726b-4fee-abe2-54eb1ce48469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +107,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='L14205299837764170']</value>
-      <webElementGuid>fd619f34-6991-4db7-b1b1-da5049f76b54</webElementGuid>
+      <webElementGuid>e515528c-a276-4911-abb3-4edae07e66a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +115,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='14205299837764168']/li[2]/button</value>
-      <webElementGuid>e36afb4f-9f19-44f0-b1b1-e9440f0fda9f</webElementGuid>
+      <webElementGuid>55530845-b39f-48c0-8727-757c9d6d5066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/following::button[1]</value>
-      <webElementGuid>885d376a-3b4b-4e28-83fe-10d6e21181e7</webElementGuid>
+      <webElementGuid>ea8e2bff-87c5-4dfa-96ea-81891bc92ca5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::button[1]</value>
-      <webElementGuid>2c27596d-8067-4cc1-a582-70e03276a5f9</webElementGuid>
+      <webElementGuid>09a360f3-f9b3-4bcd-83f3-da8dd86acd54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +139,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/button</value>
-      <webElementGuid>4eace253-3548-4022-b959-ea76edad6b75</webElementGuid>
+      <webElementGuid>57b4ea47-9aed-473e-a1c6-f20bb700e3a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Users</name>
+   <name>span_Users (1)</name>
    <tag></tag>
-   <elementGuidId>883b84ce-d3ab-467c-a3bc-7b1f421c2720</elementGuidId>
+   <elementGuidId>9a72a3e2-2558-4f60-ac0d-21ca880c078c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[4]/a/span[2]</value>
+         <value>//span[(text() = 'Users' or . = 'Users')]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>972f33fd-b135-4812-bda2-0a3f59840c97</webElementGuid>
+      <webElementGuid>fe04242c-419d-4e2c-a133-cbbbf09a59f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Tabs-label</value>
-      <webElementGuid>e78f12f9-87e4-432e-a32c-5eaf28170106</webElementGuid>
+      <webElementGuid>d5b23381-7cdb-488d-b7d8-3460c68c39bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Users</value>
-      <webElementGuid>42ee5685-37dc-4254-b680-b0dd0ba9ba4b</webElementGuid>
+      <webElementGuid>7f2e580e-7a7e-4986-b9e1-ed8e58d3bcfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
-      <webElementGuid>ac18ef6e-0bdd-4e62-8833-7bb616630474</webElementGuid>
+      <webElementGuid>f9e508bc-6ea5-4101-a3ba-26364c9944ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Users' or . = 'Users')]</value>
-      <webElementGuid>f4219daf-0c90-4c94-8d67-414e92e648ea</webElementGuid>
+      <webElementGuid>87f6207c-3a7b-46e3-b6b8-b6327dff16b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[4]/a/span[2]</value>
-      <webElementGuid>f555ad7a-34fa-49a0-a6e5-69e915e6ecc4</webElementGuid>
+      <webElementGuid>52d393f1-6ee3-4839-b4c4-917b0819c761</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Licensed Application'])[1]/following::span[2]</value>
-      <webElementGuid>2872958d-69af-4579-8768-ee133908825a</webElementGuid>
+      <webElementGuid>495a28e2-786b-4749-9f84-b21c7b14f048</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::span[4]</value>
-      <webElementGuid>3ebcd7e7-1611-401b-94f3-7b96be6d82c8</webElementGuid>
+      <webElementGuid>f828c488-ec10-4f81-a06a-64afb9243177</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users Access'])[1]/preceding::span[2]</value>
-      <webElementGuid>28ba4806-007d-44a4-bade-4a6184eefc34</webElementGuid>
+      <webElementGuid>eb061636-47f7-427e-9134-0281dd6f5d92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Profile'])[1]/preceding::span[4]</value>
-      <webElementGuid>0655bcf0-ce56-4c3b-954a-cffebdf3230b</webElementGuid>
+      <webElementGuid>93d2a2c8-58ae-485a-b4c1-a43558bee7e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Users']/parent::*</value>
-      <webElementGuid>d9ffce64-4353-4f64-8536-9fa3b9e98cf3</webElementGuid>
+      <webElementGuid>60aba334-a288-4c3d-acfd-ab42eeb311ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +117,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span[2]</value>
-      <webElementGuid>223f5a0f-a2f1-478d-a07b-3b74e5812275</webElementGuid>
+      <webElementGuid>689587e2-cd30-404d-9cef-5ed8c3a34b63</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

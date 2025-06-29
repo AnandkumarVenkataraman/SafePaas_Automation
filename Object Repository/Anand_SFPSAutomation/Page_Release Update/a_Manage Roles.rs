@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA' and (text() = 'Manage Roles' or . = 'Manage Roles')]</value>
+         <value>//a[contains(text(),'Manage Roles')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6036d2d8-bf5f-4506-a84c-2427df199660</webElementGuid>
+      <webElementGuid>f249f7e7-ef31-42a7-8150-f1d963a535b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>7c84fd3b-853a-4d2d-8209-ad5aead379d7</webElementGuid>
+      <webElementGuid>ad1eea9b-acb1-4316-bf27-557b858e9c52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>ea223ac2-43a4-4627-b6e3-3d8a1b765f73</webElementGuid>
+      <webElementGuid>fd2f2d14-eb10-4771-b083-51bc2d532eff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>ce0bddef-6b5a-4d02-af11-062c016209ea</webElementGuid>
+      <webElementGuid>986c33bc-92a8-4d98-bd71-956d8add2360</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA</value>
-      <webElementGuid>c401216b-a93b-439a-9bfc-716da24a9eb6</webElementGuid>
+      <webElementGuid>0c446014-9131-4a58-9e49-4b246821ea48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>a3c21522-e34c-4faa-8c2b-08efef942a6f</webElementGuid>
+      <webElementGuid>a113b272-9680-4f43-b480-6523d3854b16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>768b7e4f-a727-41b7-bb81-82daf9f32d8d</webElementGuid>
+      <webElementGuid>4962f5b5-b35d-4d9f-bee8-e3aa6ec3c554</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Roles</value>
-      <webElementGuid>32c6a03b-3856-41a5-a7be-7baba2ea1b8d</webElementGuid>
+      <webElementGuid>f53b7185-e18a-47d3-9382-db8b4cd43058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_263&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>e07c4abd-09ac-4469-8ebe-896acbeee49f</webElementGuid>
+      <webElementGuid>c3dc75f4-fd93-480a-8d6c-9db86d4afc9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA' and (text() = 'Manage Roles' or . = 'Manage Roles')]</value>
-      <webElementGuid>f1af092e-c048-4c73-8452-9efa09a22913</webElementGuid>
+      <webElementGuid>3289d83e-9395-4c26-a699-fdc8c22ea590</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_263']/div[2]/a</value>
-      <webElementGuid>bacb7621-ca3c-42fc-afe0-de421f519e32</webElementGuid>
+      <webElementGuid>18c693b8-727a-4865-b4d8-377910a75d11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Roles')]</value>
-      <webElementGuid>d813ca6c-1f23-4907-99ba-e7842b46e84a</webElementGuid>
+      <webElementGuid>4f6ea43e-249f-43a4-bb19-b2cf04874104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[10]/following::a[1]</value>
-      <webElementGuid>084f2f5f-b684-42e1-9640-84ea949349a5</webElementGuid>
+      <webElementGuid>d809a691-bada-47cd-8edc-cc51b484bb2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Update'])[2]/following::a[1]</value>
-      <webElementGuid>83d03fb4-469a-4e3c-b4ea-155995f1239d</webElementGuid>
+      <webElementGuid>187b85d5-3d04-4fa2-9d5e-c0f8ef8e987f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Roles'])[1]/preceding::a[1]</value>
-      <webElementGuid>514609f5-67d3-45bb-b1ab-d5658fcf4850</webElementGuid>
+      <webElementGuid>1490a1c0-c95e-4e80-950f-0fe4fbf84626</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[2]/preceding::a[2]</value>
-      <webElementGuid>8734a312-7d06-48c0-b27a-48ba1cba354f</webElementGuid>
+      <webElementGuid>0161241f-7cd3-48ca-92da-58e22971c253</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Roles']/parent::*</value>
-      <webElementGuid>2aa3322b-be38-4daa-b2df-2c10c246a300</webElementGuid>
+      <webElementGuid>af25494a-4bfd-4a63-a6e9-9db5afb569a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:36:1830595356136:::36::&amp;cs=3LjFIBtJfyqkoiwZwrh2VhvGxO_LZ62MCXMQljuszrhLl-_nC-qgFGmkj9MjxIHRrftGt_hi4uDiBquNDCZYskA')]</value>
-      <webElementGuid>82a1f464-49ed-4ba5-b17b-b656d2cf8f2e</webElementGuid>
+      <webElementGuid>2bcd3e62-ce4b-4543-ac92-86a4b576528a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]/ul/li/div[2]/a</value>
-      <webElementGuid>d2e97608-6942-4eda-ab14-69b5fe7d4ab5</webElementGuid>
+      <webElementGuid>56d7f7e4-6e28-45e1-bd61-cba9a888c691</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

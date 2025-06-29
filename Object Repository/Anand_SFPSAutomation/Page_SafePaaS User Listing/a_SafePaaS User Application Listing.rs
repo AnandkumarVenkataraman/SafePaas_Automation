@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1001:11:3962767147523:::11::' and (text() = 'SafePaaS User Application Listing' or . = 'SafePaaS User Application Listing')]</value>
+         <value>//a[contains(text(),'SafePaaS User Application Listing')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>28d6eb14-5705-4cbb-a6c0-7c5aefa76a10</webElementGuid>
+      <webElementGuid>2c590384-0ee3-4024-8165-700b43eda896</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>12fd8cf5-ad00-472b-b22d-9b10168077f8</webElementGuid>
+      <webElementGuid>e841db46-2123-4f0f-8320-d8e2f954438f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>4ae52aee-866b-423e-81a4-e35e4504f6e9</webElementGuid>
+      <webElementGuid>af9b900b-741f-4509-89ec-3c1ec7a487c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>11a31d1c-9519-4464-807a-fbcdaa6c0b40</webElementGuid>
+      <webElementGuid>a3659184-5125-4035-8047-61f9a6e4d4c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:11:3962767147523:::11::</value>
-      <webElementGuid>43e5b290-3fe3-4ec2-b0c3-907cfa3f5c3b</webElementGuid>
+      <webElementGuid>270f8112-179f-4caa-b8cf-79f88c2f4f0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>2ea8cd07-002e-4d2d-a47e-9b26b451a009</webElementGuid>
+      <webElementGuid>dbbadc75-eb49-4b35-a063-5689b3284650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a650c196-a4df-4e6d-8009-52f4a5cb5638</webElementGuid>
+      <webElementGuid>98632764-668c-4885-b05b-1bd46b612745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SafePaaS User Application Listing</value>
-      <webElementGuid>a8e2b461-f62a-425c-8b77-8695a10b9ab4</webElementGuid>
+      <webElementGuid>d1ed72b7-250b-4800-86e5-564e85ab46e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_251&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>2ffc6859-91c4-43c6-8cc1-a6c98fca5d06</webElementGuid>
+      <webElementGuid>136d7f56-b7e6-4b1b-8c97-dd4d46f18c67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:11:3962767147523:::11::' and (text() = 'SafePaaS User Application Listing' or . = 'SafePaaS User Application Listing')]</value>
-      <webElementGuid>cc2a747d-3f5e-45f0-b034-7c76d2219913</webElementGuid>
+      <webElementGuid>a7a99329-8e14-49ec-ae3c-9de188651669</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_251']/div[2]/a</value>
-      <webElementGuid>ef50d7b5-bf12-47ba-a1c8-9af7a81770c3</webElementGuid>
+      <webElementGuid>0b2874b4-1906-4064-befd-4bf8d2bf5787</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SafePaaS User Application Listing')]</value>
-      <webElementGuid>f09a2fcb-448a-4801-88b8-a5b92860acf2</webElementGuid>
+      <webElementGuid>ca0a4ef4-2724-4486-bc8a-d3d4e8a5057c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SafePaaS User Listing'])[2]/following::a[1]</value>
-      <webElementGuid>79906654-2b20-4361-92c9-d0ed65cc3884</webElementGuid>
+      <webElementGuid>89092e7f-d048-4ae6-b0bc-cb24989f7e54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Security Positions'])[1]/following::a[2]</value>
-      <webElementGuid>6269fa35-2c04-4d65-aeaa-321496080d5d</webElementGuid>
+      <webElementGuid>208ddf5e-2355-4196-b1ef-bcbc9733c265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[9]/preceding::a[1]</value>
-      <webElementGuid>0c4737e8-47dd-4905-8d52-0d931b49ef79</webElementGuid>
+      <webElementGuid>5ca8cd8d-a1aa-4d0c-b9c9-c68bd73d7b9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/preceding::a[1]</value>
-      <webElementGuid>3ff27e33-e619-476f-a621-41343b6e0608</webElementGuid>
+      <webElementGuid>e3b21c56-e5f6-4b95-a5b5-1bb95d69c814</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SafePaaS User Application Listing']/parent::*</value>
-      <webElementGuid>9cba61c2-6a83-451f-ac88-76cfad47ce8d</webElementGuid>
+      <webElementGuid>c1c652a0-c8f9-43d8-b4ec-c9aaa9fe12f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:11:3962767147523:::11::')]</value>
-      <webElementGuid>bcd366f9-69e4-4b1e-bdee-17ddeba6702d</webElementGuid>
+      <webElementGuid>a8186832-2116-4759-a584-f6b27301632c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li/ul/li[6]/div[2]/a</value>
-      <webElementGuid>66f9a629-46d7-429d-986c-edfa22471ef8</webElementGuid>
+      <webElementGuid>f58424bc-8a36-4f9d-aafa-60d7bec46b47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

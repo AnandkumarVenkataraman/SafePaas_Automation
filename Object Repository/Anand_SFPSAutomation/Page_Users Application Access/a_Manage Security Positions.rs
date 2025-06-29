@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g' and (text() = 'Manage Security Positions' or . = 'Manage Security Positions')]</value>
+         <value>//a[contains(text(),'Manage Security Positions')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>01f269fd-8336-4620-b46a-2a08f7f01b45</webElementGuid>
+      <webElementGuid>67a93e92-70c0-45d8-879b-e6c137a004b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c9277cad-79cd-4862-8a92-33f109f03dbb</webElementGuid>
+      <webElementGuid>33f186f7-f79f-4093-b98b-9eb3a816a395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>30df795b-e92e-4a46-9409-5f4c64f6c23c</webElementGuid>
+      <webElementGuid>e53985a7-9fe3-429b-8b43-18bc1fe18444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>aae3f099-d03e-4289-882a-24b6c32ba37e</webElementGuid>
+      <webElementGuid>212c42d7-993a-424e-b966-ee8d33f5ba51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g</value>
-      <webElementGuid>845b4be3-a7c3-4b04-acfd-fe59c8a47612</webElementGuid>
+      <webElementGuid>387bf6d8-df03-4a24-aeff-e4a67cf28998</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>16d89037-ec7d-4532-aa81-8a167d71d61f</webElementGuid>
+      <webElementGuid>aa8a79d8-28b5-4731-be95-e3f076323c1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>63fd8795-8b27-4900-9800-531e5f747592</webElementGuid>
+      <webElementGuid>419c9484-90c5-43e1-a9e1-2d0c054ed402</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Security Positions</value>
-      <webElementGuid>d8c7f922-648a-4d92-9074-6517575c8899</webElementGuid>
+      <webElementGuid>0df33dcc-56f4-4e0b-b2ea-385536e763d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_249&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>0f75d1db-84d5-4255-add3-d9110d4fb818</webElementGuid>
+      <webElementGuid>9171c56b-cdb1-4331-b829-64f167c747a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g' and (text() = 'Manage Security Positions' or . = 'Manage Security Positions')]</value>
-      <webElementGuid>96b31418-bdf0-4955-b48b-884e2dea8e08</webElementGuid>
+      <webElementGuid>c7d520e5-374a-466e-9ad4-33fc95be0961</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_249']/div[2]/a</value>
-      <webElementGuid>5c82c56a-552d-41a6-acf7-b78f101ad32b</webElementGuid>
+      <webElementGuid>eac3d0d3-14a9-4abf-bf14-5e487a74cfdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Security Positions')]</value>
-      <webElementGuid>d0771697-1ecf-4ae4-ae69-d5054e902431</webElementGuid>
+      <webElementGuid>7a23fbb5-9d43-4323-aa1c-60d3870fa8c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cross Data Sources'])[1]/following::a[1]</value>
-      <webElementGuid>aed729ee-257d-4a33-bb2f-23967b220462</webElementGuid>
+      <webElementGuid>85640687-af07-4ed5-8b8d-b8d0095c9361</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Environment'])[2]/following::a[2]</value>
-      <webElementGuid>95fd1f6b-6a22-4c80-9590-b4f60bee6261</webElementGuid>
+      <webElementGuid>b413611d-8d6a-46c7-905d-44668b164a03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SafePaaS User Listing'])[1]/preceding::a[1]</value>
-      <webElementGuid>fe860296-50cc-4d8b-9be2-77de8a8f754f</webElementGuid>
+      <webElementGuid>8850efab-9975-46d7-9a6b-8e126013eaa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SafePaaS User Application Listing'])[1]/preceding::a[2]</value>
-      <webElementGuid>b2d2f410-0a6e-4682-b4ea-ccca63e1d0b6</webElementGuid>
+      <webElementGuid>4f8dcd79-a961-40b0-8b9b-d5d3ccae1c51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Security Positions']/parent::*</value>
-      <webElementGuid>483f10c4-3319-44d3-b3e1-622391b0a71d</webElementGuid>
+      <webElementGuid>070f9cc7-804f-46f2-b232-b49b0c8d8e24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:46:17259480378044:::46::&amp;cs=3HFF8IxCjkPPoI5SSbJVnK1JukhlchzF-WjrwERmSO-6CqQe6bI9goirzlSeZqMnwFmvRPeASH0Quyc0gYdkf5g')]</value>
-      <webElementGuid>5a592950-9233-4c11-8b91-842e639b62cf</webElementGuid>
+      <webElementGuid>7c9bd044-334f-4b43-83a3-432c7dc7de74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li/ul/li[4]/div[2]/a</value>
-      <webElementGuid>afc7f840-c3f9-4cb5-8f97-cdf878015e80</webElementGuid>
+      <webElementGuid>ce57d612-e05d-414e-a1d3-fc67f1e7332a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_anandk1 (1)</name>
+   <name>button_Login (16)</name>
    <tag></tag>
-   <elementGuidId>67f232a8-8906-47f4-b01c-d018dd494944</elementGuidId>
+   <elementGuidId>4701da6d-2614-4ade-8397-fcf3d3f3c88c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='L14205299837764170']</value>
+         <value>//button[@type = 'button' and (text() = 'Login' or . = 'Login')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#L14205299837764170</value>
+         <value>#loginBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; anandk1 &quot;i]</value>
+         <value>internal:role=button[name=&quot;Login&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4c788441-b430-4d53-ac32-5963f71efb87</webElementGuid>
+      <webElementGuid>cbcbd2e1-62e4-4c28-bec5-5bb4e8362db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>normalLogin();</value>
+      <webElementGuid>ef85eec2-73bd-41f2-b81b-7858069cf7de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button t-Button--icon t-Button t-Button--header t-Button--navBar js-menuButton</value>
-      <webElementGuid>e9d6c008-357b-4e7a-87d6-12ce3521c117</webElementGuid>
+      <value>t-Button v-btn-logins</value>
+      <webElementGuid>3b75b046-36b0-49fb-bb13-eb9be2b4982d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,100 +53,86 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>857f8d29-db85-4ab0-9059-a29ef2eeb8fe</webElementGuid>
+      <webElementGuid>a7b4285d-bb23-41fc-9e12-1c92591ae140</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>L14205299837764170</value>
-      <webElementGuid>8bb50938-613f-48b6-ac63-93af927fc612</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-menu</name>
-      <type>Main</type>
-      <value>menu_L14205299837764170</value>
-      <webElementGuid>096f965d-8e47-4eff-991f-3df12572e9fe</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-haspopup</name>
-      <type>Main</type>
-      <value>menu</value>
-      <webElementGuid>63868b7e-ac5e-41fa-80ff-f716e43b7d92</webElementGuid>
+      <value>loginBtn</value>
+      <webElementGuid>514d38ae-65ae-49de-93dc-771536ec17a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-      anandk1
-  </value>
-      <webElementGuid>2aa872f8-2e94-4be9-b1ca-332aed3630c6</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>e699f130-5147-4269-84cc-0b6703bbe6a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;L14205299837764170&quot;)</value>
-      <webElementGuid>9e5b6cf8-dd21-49ff-84d0-19265e639b35</webElementGuid>
+      <value>id(&quot;loginBtn&quot;)</value>
+      <webElementGuid>16c442fb-2159-491c-986c-5e141a3596aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = '
-      anandk1
-  ' or . = '
-      anandk1
-  ')]</value>
-      <webElementGuid>5c190107-e1fd-49e2-b06e-799498aed587</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>a4324530-4cbc-43f1-9445-f8e1d73ed5bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='L14205299837764170']</value>
-      <webElementGuid>d973ec0e-2feb-4fe9-a44e-bb5c25d02e83</webElementGuid>
+      <value>//button[@id='loginBtn']</value>
+      <webElementGuid>be050de9-f884-4035-9456-29504ae8f087</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='14205299837764168']/li[2]/button</value>
-      <webElementGuid>4af34f76-e682-4640-bc9c-c476ad1faf1c</webElementGuid>
+      <value>//div[@id='R400296469189235574']/div/table/tbody/tr/td/button</value>
+      <webElementGuid>958a0776-7bd5-42c0-a912-f8e67aeb07fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/following::button[1]</value>
-      <webElementGuid>e1c7da28-c20e-4283-8a7a-16eef9cc690e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::button[1]</value>
+      <webElementGuid>d933726d-8cc2-41ff-bb22-c86a5facf651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::button[1]</value>
-      <webElementGuid>f6113ebe-22e2-41a8-9875-1881fe34dbaa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caps lock is ON'])[1]/following::button[1]</value>
+      <webElementGuid>88f47bc1-0fc1-4c15-a36e-23c4ed2042a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Registration'])[1]/preceding::button[1]</value>
+      <webElementGuid>cf7b12ba-db90-4f83-b6a8-df81b813f52e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/button</value>
-      <webElementGuid>d739999a-b4a5-4bea-bc4e-2c03b0b92a84</webElementGuid>
+      <value>//td/button</value>
+      <webElementGuid>c2afab7f-ca6d-4f3c-a320-67f227dd6806</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

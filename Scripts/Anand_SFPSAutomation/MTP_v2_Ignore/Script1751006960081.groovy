@@ -70,3 +70,34 @@ WebUI.click(findTestObject('Object Repository/Page_Rule Approver/button_Add Anot
 
 WebUI.closeBrowser()
 
+//Ignore
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (17)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (17)'),
+	'ANANDK1')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (17)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (16)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (2)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle (5)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Company (5)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_Users (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/a_Inbox (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_anandk1 (3)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (6)'))
+
+WebUI.closeBrowser()
