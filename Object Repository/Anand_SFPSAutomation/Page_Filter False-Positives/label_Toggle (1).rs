@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[(text() = 'Toggle' or . = 'Toggle')]</value>
+         <value>//div[@id='a_Collapsible3_aRep_control_panel_content']/ul/li/span/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>690e686c-310d-4d8b-b5aa-988280fb847c</webElementGuid>
+      <webElementGuid>950a9182-dfca-4ca3-9e4f-570f78a7ca3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>control_601078808348362653</value>
-      <webElementGuid>cf870ab4-b64f-4864-bbce-007409138976</webElementGuid>
+      <webElementGuid>8fecb7ec-beed-4949-ad36-a35bef8b19cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-controlsCheckboxLabel</value>
-      <webElementGuid>8c1210ac-f834-4a00-abca-9cbcb7549847</webElementGuid>
+      <webElementGuid>4153a024-7f65-40d3-bd84-9bf18748d97d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Toggle</value>
-      <webElementGuid>93e52708-2d4f-4c91-8c23-909e02cb69df</webElementGuid>
+      <webElementGuid>46c66f69-bb87-4d0d-b2c7-fa9c07263e64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;a_Collapsible3_aRep_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]/span[@class=&quot;a-IRR-controls-cell&quot;]/label[@class=&quot;a-IRR-controlsCheckboxLabel&quot;]</value>
-      <webElementGuid>d5a6a479-d886-418b-b7af-88d077b17d83</webElementGuid>
+      <webElementGuid>0372561e-2d00-4fc4-80aa-df93caa986cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Toggle' or . = 'Toggle')]</value>
-      <webElementGuid>86fe9a69-e18f-4042-b3ca-dc61efee7a4d</webElementGuid>
+      <webElementGuid>5a3f280d-778f-432b-ad93-b6b760020329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='a_Collapsible3_aRep_control_panel_content']/ul/li/span/label</value>
-      <webElementGuid>517b3c51-972e-455e-b2fe-1ad7cbdb8b08</webElementGuid>
+      <webElementGuid>e84d28c6-164d-4612-b495-3595001e07c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Settings'])[1]/following::label[1]</value>
-      <webElementGuid>5b829c62-b2e8-4674-b844-077e91beb2a7</webElementGuid>
+      <webElementGuid>139ec757-8ca7-4c5c-a83e-30a91b742449</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclude / Unexclude All'])[1]/following::label[1]</value>
-      <webElementGuid>18c66e0d-ffab-491b-8172-831fdb0c5186</webElementGuid>
+      <webElementGuid>8a0742a6-0e2a-4cae-a978-4a23f157f7b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::label[1]</value>
-      <webElementGuid>b7d8ef89-143d-42c0-9de4-413c99796c4d</webElementGuid>
+      <webElementGuid>ac550e9b-2b51-4b6f-ba1c-928df542f605</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/label</value>
-      <webElementGuid>bb10ae4a-46ea-4ec6-ba0f-406bdb15eba3</webElementGuid>
+      <webElementGuid>7dfbee72-088c-4e8b-ac7b-d486db4beb15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[(text() = 'View AP Reports' or . = 'View AP Reports')]</value>
+         <value>//table[@id='165934090082227139_orig']/tbody/tr[2]/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>3f13d74d-f681-4a50-86c7-5d8f32931c17</webElementGuid>
+      <webElementGuid>94da22a8-244a-431d-81d2-40e84b472cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value> u-tL</value>
-      <webElementGuid>1cd97b1b-a1da-4ce1-8eec-0b18d1864943</webElementGuid>
+      <webElementGuid>dc7b5759-d0f6-4869-b664-a908360501d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>headers</name>
       <type>Main</type>
       <value>C165934124695227140</value>
-      <webElementGuid>8eafc237-6afe-4a42-9d23-8cbeee6cf3b1</webElementGuid>
+      <webElementGuid>1bd5adf6-fa30-454c-af84-3bd989ef5a6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View AP Reports</value>
-      <webElementGuid>16171b42-498d-4ae6-9ba5-cfe349fb0cb8</webElementGuid>
+      <webElementGuid>7bb8c7b6-88e1-427e-b9ab-fc11fc16228b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;165934090082227139_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
-      <webElementGuid>367e2ea7-7b9e-4f61-90f9-43dd4edb6918</webElementGuid>
+      <webElementGuid>d75177f2-cd3d-4ac4-b02f-08b955c00d1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Anand_SFPSAutomation/Page_Activity Entries/iframe</value>
-      <webElementGuid>3518b598-c0d0-4b2b-99fc-2aff21c5c050</webElementGuid>
+      <webElementGuid>38686528-01e3-42e2-99c2-cb0f334ef9f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'View AP Reports' or . = 'View AP Reports')]</value>
-      <webElementGuid>3e193004-bf30-4585-8963-14b3e531f768</webElementGuid>
+      <webElementGuid>a83a80ba-6a38-46a5-902c-3e6602b687a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='165934090082227139_orig']/tbody/tr[2]/td</value>
-      <webElementGuid>d7579070-6ee2-4203-8ad9-12c56123fd8d</webElementGuid>
+      <webElementGuid>3df15953-3be1-465f-98fb-2fb33b935e7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated Date'])[1]/following::td[1]</value>
-      <webElementGuid>e9af13fc-e15c-4418-9e94-3778333a4a33</webElementGuid>
+      <webElementGuid>643daa34-b39a-4373-b9f1-883bd69d3af8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment Name'])[1]/following::td[1]</value>
-      <webElementGuid>8fd8b6c0-0cc6-4eeb-aa09-ec77bb076a4c</webElementGuid>
+      <webElementGuid>93d903fb-a1d5-41c9-8060-113f80a04502</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View AP Reports'])[2]/preceding::td[1]</value>
-      <webElementGuid>0b27a726-ce20-4189-83f3-7b403d7850d6</webElementGuid>
+      <webElementGuid>424a5222-0301-4e68-8f67-403e48edcd63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View AP Reports'])[3]/preceding::td[2]</value>
-      <webElementGuid>bff97c23-2731-4df4-9bf5-321c58acfcba</webElementGuid>
+      <webElementGuid>f03ecbdb-8d8b-409f-981b-c91cafa161a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View AP Reports']/parent::*</value>
-      <webElementGuid>b01b75b7-3718-49ee-b920-1c8edc75c0d2</webElementGuid>
+      <webElementGuid>7d0a45d9-b6a7-4984-9844-1ceabfad4f34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td</value>
-      <webElementGuid>83099eae-e763-47a8-883c-40bf985972ad</webElementGuid>
+      <webElementGuid>d1606890-ea72-4754-9c9a-d18424180e65</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

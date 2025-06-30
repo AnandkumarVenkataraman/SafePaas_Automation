@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'Unassign Roles' or . = 'Unassign Roles')]</value>
+         <value>//li[@id='SR_unassignRoleGroupIg_tab']/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b57a6a96-da9c-45f1-bf29-2a34f5c0bde9</webElementGuid>
+      <webElementGuid>297357eb-79f5-4b1c-9f3e-960fc32a7e09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Unassign Roles</value>
-      <webElementGuid>67fc9af8-438f-4a10-923d-96cc6c3af16b</webElementGuid>
+      <webElementGuid>ec1270ee-a400-40fc-a221-6ff19f3bd2f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;SR_unassignRoleGroupIg_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
-      <webElementGuid>acba2c93-94f8-4580-9652-2020c1183db4</webElementGuid>
+      <webElementGuid>95854e98-2d08-47b0-aaad-c90db96a11f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Unassign Roles' or . = 'Unassign Roles')]</value>
-      <webElementGuid>87098b8a-fb4d-43bd-a13e-905038ccbd7f</webElementGuid>
+      <webElementGuid>a61a2dbd-e74a-4f29-8cd6-ddda1767e4f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='SR_unassignRoleGroupIg_tab']/a/span</value>
-      <webElementGuid>aad2e48b-4140-4aa8-9611-3f8d7d4adf09</webElementGuid>
+      <webElementGuid>ace0626b-f41a-4b08-bd99-eda622510bdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Role Groups'])[1]/following::span[1]</value>
-      <webElementGuid>af2c2f8b-ebac-4dd5-b646-383443dd64ac</webElementGuid>
+      <webElementGuid>7395831a-f191-4292-ae99-05edd24d2589</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::span[5]</value>
-      <webElementGuid>29ce7253-fdaf-49e5-be6b-5ce7da100b4b</webElementGuid>
+      <webElementGuid>0030b0c4-089a-4c54-b2e1-ce1de0b063d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Role Groups'])[2]/preceding::span[1]</value>
-      <webElementGuid>84a7f77f-4456-4357-8853-da15ff66bab5</webElementGuid>
+      <webElementGuid>c7270986-186d-42d8-ba32-ea82159c579f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Changes'])[1]/preceding::span[1]</value>
-      <webElementGuid>1ac04f12-6fee-49bd-a9c6-af0bdbf36c8a</webElementGuid>
+      <webElementGuid>23b6b452-18f7-4e5a-9695-2850dd4cbb0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Unassign Roles']/parent::*</value>
-      <webElementGuid>4f6967f8-697a-4a1a-97c8-3b899f0be3ec</webElementGuid>
+      <webElementGuid>b13bb42a-e72b-4a7d-a1d6-9293253584c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/span</value>
-      <webElementGuid>bd244341-f931-46e4-a922-d680af941577</webElementGuid>
+      <webElementGuid>6d101e01-5b6d-4292-913a-69912bb2d8b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

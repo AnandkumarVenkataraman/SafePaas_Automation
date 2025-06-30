@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Filter False - Positives' or . = 'Filter False - Positives')]</value>
+         <value>//button[@id='B237699209801060311']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e191046a-cc4d-4b56-b09d-52bafe0994af</webElementGuid>
+      <webElementGuid>c64ba3bd-02e0-438d-b96e-1b72c52b886b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.submit({request:'FILTER-FALSE_POSITIVE',validate:true});</value>
-      <webElementGuid>7315b583-19f5-4baf-824a-f517a9053dcd</webElementGuid>
+      <webElementGuid>d0454b52-df92-4245-9a32-6bf45cc793ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>05e19279-bf9d-4a34-a610-2c74747eb706</webElementGuid>
+      <webElementGuid>24da3b16-883b-4bc1-9c9d-364fdc684091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cf84f7e6-53c2-4c2d-afbe-c0a3a28cc659</webElementGuid>
+      <webElementGuid>a2502eef-49dc-4dd3-b602-7ae63d3155c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B237699209801060311</value>
-      <webElementGuid>e5a0d4b9-3737-4086-950a-e0e1dcb24292</webElementGuid>
+      <webElementGuid>0474ecf8-73c7-4e71-aa91-1ba755cfca5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter False - Positives</value>
-      <webElementGuid>82f9fd2b-d74d-41f9-ae6c-8e7103f3c5b1</webElementGuid>
+      <webElementGuid>a846ef8b-223a-4c07-8d40-7cb7e7bb2f50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B237699209801060311&quot;)</value>
-      <webElementGuid>aee823d5-f6cd-4ae8-9781-ca21debbfb51</webElementGuid>
+      <webElementGuid>3ae17aaf-7dcc-4cf1-9c11-da3561af871c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Filter False - Positives' or . = 'Filter False - Positives')]</value>
-      <webElementGuid>a9d206ea-d3c3-403e-a0f5-bccf037cd4c6</webElementGuid>
+      <webElementGuid>1b934dcb-141a-472f-b0c8-545c2be7c3eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B237699209801060311']</value>
-      <webElementGuid>92692bc8-0354-4f29-a17f-544a691e2b30</webElementGuid>
+      <webElementGuid>1c448b79-78ef-4475-bfd5-72b2b205ff18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R247793226539899118']/div/div[2]/button[2]</value>
-      <webElementGuid>16185c44-6b01-4fb8-be0d-9ccf58af7a79</webElementGuid>
+      <webElementGuid>184ea387-ccaf-4d18-a129-b07036b55562</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Rules'])[1]/following::button[1]</value>
-      <webElementGuid>35f0cc90-6e24-4f2d-bbd0-bb3bc0752cf4</webElementGuid>
+      <webElementGuid>b51de279-02a8-4a07-99a5-5d1ef88d58e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rules'])[5]/following::button[2]</value>
-      <webElementGuid>4b239f69-c122-459c-82e9-42702c60c340</webElementGuid>
+      <webElementGuid>765af181-2adf-4898-854b-1c0a23932729</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Rule'])[1]/preceding::button[1]</value>
-      <webElementGuid>a0c5fc0e-4e8c-4962-a88c-df74701f6125</webElementGuid>
+      <webElementGuid>656791f1-94f9-4295-867c-d3714cb5d683</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>7354e8ed-43d1-45fe-9721-6b71ff95421e</webElementGuid>
+      <webElementGuid>00bcf76e-c86e-4f35-9cb8-4de3ccf5abbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1180:119:13795354091421:::119::' and (text() = 'Manage Remediation Plan' or . = 'Manage Remediation Plan')]</value>
+         <value>(//a[contains(text(),'Manage Remediation Plan')])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>adba4af7-f555-4082-9d52-cfad70a89fb6</webElementGuid>
+      <webElementGuid>0448f762-db56-4483-bc22-885ad0370452</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>4bb9a667-15da-41ec-ba8a-2209f6a46cc5</webElementGuid>
+      <webElementGuid>17f10c6d-f07a-4d08-821f-625665772bd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>4411bfa2-8c6e-476b-9e13-c80967a2b3b5</webElementGuid>
+      <webElementGuid>47e9fb78-7508-4e51-a755-49b092b6a410</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>057190f0-e87b-4f69-a118-a019fc124551</webElementGuid>
+      <webElementGuid>c0823414-5a10-4a8f-84b9-297bb02c550c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:119:13795354091421:::119::</value>
-      <webElementGuid>ae5b55fb-38f4-4dcf-a5fa-0add42038df3</webElementGuid>
+      <webElementGuid>e5657ada-8133-463d-907d-513ebf9196ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>bfd6da88-96da-412e-a0b8-e7da662e9f76</webElementGuid>
+      <webElementGuid>9f9f01db-b4e4-4122-a982-a689e80b998d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>77d4446f-4bcd-4e21-9424-934ae1307b4d</webElementGuid>
+      <webElementGuid>0e50bf20-d721-4c07-bfde-670bf1d971da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Remediation Plan</value>
-      <webElementGuid>374c5a33-f847-4f3e-a01a-8d4efe643335</webElementGuid>
+      <webElementGuid>35a054e5-736f-4ed6-94b3-9018e289b135</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_169&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>73e4033d-c299-4cd7-a5cb-892eadbed7d9</webElementGuid>
+      <webElementGuid>a28c202d-e4e4-42ad-9bca-02320ff56d03</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:119:13795354091421:::119::' and (text() = 'Manage Remediation Plan' or . = 'Manage Remediation Plan')]</value>
-      <webElementGuid>4ccee883-cbce-447d-9edd-5ab9e1ee404e</webElementGuid>
+      <webElementGuid>e6c08d07-f711-4baf-a480-0ae63301db13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_169']/div[2]/a</value>
-      <webElementGuid>566a9925-5c37-45fb-a963-6789345080ec</webElementGuid>
+      <webElementGuid>fb29cc8c-31aa-490c-b0a8-c3ba87432ab9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Manage Remediation Plan')])[2]</value>
-      <webElementGuid>c510c987-22a8-4d51-9032-d312649b07d8</webElementGuid>
+      <webElementGuid>99af3afa-f5a6-4b98-8cb5-cc20a71aa758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception Type'])[1]/following::a[1]</value>
-      <webElementGuid>ca2e159f-e576-4383-a443-fd54d337b933</webElementGuid>
+      <webElementGuid>9a320df8-0399-4df8-91df-5b1649621384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rule Tags'])[1]/following::a[2]</value>
-      <webElementGuid>1879066d-ad45-4609-b1f1-8214d4ceb591</webElementGuid>
+      <webElementGuid>4a9847b0-dc1d-4621-9852-5e02f18d0a18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Mitigations'])[1]/preceding::a[1]</value>
-      <webElementGuid>fb1d6d4f-6f1f-45a7-aa9c-443af733ea7a</webElementGuid>
+      <webElementGuid>9f76a2b6-4c60-46ca-8acb-7eb8def66a70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage EAM Roles'])[1]/preceding::a[2]</value>
-      <webElementGuid>4e6197e8-4878-4d93-87ed-a502144b538b</webElementGuid>
+      <webElementGuid>d28fabde-3d49-4cf4-a54d-efbf0093e55e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:119:13795354091421:::119::')]</value>
-      <webElementGuid>96c2f02e-babc-4f49-9e92-bc867dd8b1b2</webElementGuid>
+      <webElementGuid>6fd296e7-b7df-4eb3-ad8f-8aba93d9b26c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +165,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/ul/li[7]/div[2]/a</value>
-      <webElementGuid>ed00a810-a31c-44e0-a537-ade10e400ddd</webElementGuid>
+      <webElementGuid>312cca57-03ac-47a5-a05b-a21e194386aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

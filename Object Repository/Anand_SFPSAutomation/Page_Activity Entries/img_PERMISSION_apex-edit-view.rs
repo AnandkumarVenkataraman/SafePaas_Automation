@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//img[@src = '/i/app_ui/img/icons/apex-edit-view.png']</value>
+         <value>//table[@id='172136552679540725_orig']/tbody/tr[2]/td[4]/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a87e06de-74a4-4bda-a567-f0fe7ff3c72e</webElementGuid>
+      <webElementGuid>ded8b7b3-2c05-47f7-8fbe-8f5bc4b4a432</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/i/app_ui/img/icons/apex-edit-view.png</value>
-      <webElementGuid>6a12fa14-fff1-4ead-bb56-a8cef913d334</webElementGuid>
+      <webElementGuid>03819019-473e-4d30-a4e3-7fb081844886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-edit-view</value>
-      <webElementGuid>701ea15d-54d2-4bc4-a5a6-0025fc339876</webElementGuid>
+      <webElementGuid>1cc75d80-6836-4de2-8ec4-71ff6900ba87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;172136552679540725_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/img[@class=&quot;apex-edit-view&quot;]</value>
-      <webElementGuid>d0c64afb-7db7-4a01-8146-08f382b5b8be</webElementGuid>
+      <webElementGuid>4304cab1-06a2-4400-bbcb-78dbce623eef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/i/app_ui/img/icons/apex-edit-view.png']</value>
-      <webElementGuid>9fa916fb-3bdb-42aa-b742-52c6fb535213</webElementGuid>
+      <webElementGuid>e47c581c-3c34-491f-a133-6f898925e9da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='172136552679540725_orig']/tbody/tr[2]/td[4]/a/img</value>
-      <webElementGuid>14835bbb-59e4-4021-ac12-efd4740a8f7b</webElementGuid>
+      <webElementGuid>2f0fde8b-14dd-49ea-b85d-01c66829278f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/img</value>
-      <webElementGuid>b2684c9a-eee0-4e0c-80e2-6165cc54ab97</webElementGuid>
+      <webElementGuid>bc08d0f8-4c3b-4af2-a76e-4069921d05e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

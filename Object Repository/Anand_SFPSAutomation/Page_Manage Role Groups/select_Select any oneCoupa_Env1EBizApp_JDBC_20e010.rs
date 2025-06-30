@@ -11,59 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@name = 'P0_ENVIRONMENT' and (text() = 'Select any one
-Coupa_Env1
-EBizApp_JDBC_Env
-EBiz_SFTP
-GRM_CERP_ENV2_Cloud
-GRM_CERP_ENV2_GRM
-JDE_Env
-JDE_TEST
-KTLNCloud_MonitorPaaS
-KTLNEBS_MonitorPaaS
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-KTLN_DEV22
-MAJUL_EBS
-McD_GRM_ENV
-NEW_CLOUDERP
-SailPoint_Env
-SailPoint_ENV2
-SAP_ECC
-SAP_S4HANA
-TEST_DEV1_ENV
-TEST_JDE92_ENV
-TririgaDB_Env
-Tririga_Env
-Tririga_OS
-WorkDay_Env
-' or . = 'Select any one
-Coupa_Env1
-EBizApp_JDBC_Env
-EBiz_SFTP
-GRM_CERP_ENV2_Cloud
-GRM_CERP_ENV2_GRM
-JDE_Env
-JDE_TEST
-KTLNCloud_MonitorPaaS
-KTLNEBS_MonitorPaaS
-KTLN_CloudERP
-KTLN_CloudERP_EACM
-KTLN_DEV22
-MAJUL_EBS
-McD_GRM_ENV
-NEW_CLOUDERP
-SailPoint_Env
-SailPoint_ENV2
-SAP_ECC
-SAP_S4HANA
-TEST_DEV1_ENV
-TEST_JDE92_ENV
-TririgaDB_Env
-Tririga_Env
-Tririga_OS
-WorkDay_Env
-')]</value>
+         <value>//select[@id='P0_ENVIRONMENT']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -81,7 +29,7 @@ WorkDay_Env
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b282f3e9-5862-48fc-a419-833523de3d37</webElementGuid>
+      <webElementGuid>2516772b-0c0b-475a-975f-ea9189253523</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +37,7 @@ WorkDay_Env
       <name>id</name>
       <type>Main</type>
       <value>P0_ENVIRONMENT</value>
-      <webElementGuid>e45a454a-8dce-46e9-8442-9cc14ba016d5</webElementGuid>
+      <webElementGuid>1d785c6c-834b-41d9-9c71-3d21fed441ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -97,7 +45,7 @@ WorkDay_Env
       <name>name</name>
       <type>Main</type>
       <value>P0_ENVIRONMENT</value>
-      <webElementGuid>dcef0367-9bfc-4167-8fc8-daea90aa66f5</webElementGuid>
+      <webElementGuid>f828ba40-3cd4-48ad-b6cc-8a60ef67aaf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -105,7 +53,7 @@ WorkDay_Env
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>a35002d2-ae3d-45f9-b6dc-8da75c9b98b9</webElementGuid>
+      <webElementGuid>f6f6c2a6-9d47-4362-b1df-bc9591c82c0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -113,7 +61,7 @@ WorkDay_Env
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fa94847e-c63b-43df-b045-9fca176f165e</webElementGuid>
+      <webElementGuid>cf15a3d3-5edd-49f2-b3e7-81bd395f0701</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -121,7 +69,7 @@ WorkDay_Env
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>df843ac9-3b02-4c38-a9b9-f2e1bed940fc</webElementGuid>
+      <webElementGuid>29d7a864-e738-4a79-bd9d-ecc73ecef7bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -129,7 +77,7 @@ WorkDay_Env
       <name>onchange</name>
       <type>Main</type>
       <value>apex.submit('P0_ENVIRONMENT');</value>
-      <webElementGuid>e08679f2-0fb7-4e7a-9300-edfdf17ad187</webElementGuid>
+      <webElementGuid>a12fdd71-8be3-49bb-b67c-dcbacc28259a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -163,7 +111,7 @@ Tririga_Env
 Tririga_OS
 WorkDay_Env
 </value>
-      <webElementGuid>b5d51651-601f-4fc5-b8f2-ad70fe3e4e9a</webElementGuid>
+      <webElementGuid>783b75a5-52b1-4113-8522-dfea9bf59516</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -171,7 +119,7 @@ WorkDay_Env
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
-      <webElementGuid>1e42c062-4938-4600-a422-4a58711593ba</webElementGuid>
+      <webElementGuid>d660e338-bb0a-46ee-802e-5bb306f595fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -231,7 +179,7 @@ Tririga_Env
 Tririga_OS
 WorkDay_Env
 ')]</value>
-      <webElementGuid>4f38ff5e-504b-40b0-9f34-4177ca7135f5</webElementGuid>
+      <webElementGuid>5bcef345-bb2b-4976-b0f9-a7aa583fb04b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -239,7 +187,7 @@ WorkDay_Env
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P0_ENVIRONMENT']</value>
-      <webElementGuid>e4b00606-7e53-4f01-9646-394de903d3b1</webElementGuid>
+      <webElementGuid>29e164ef-e38b-4ea5-903e-88ca8bf807b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -247,7 +195,7 @@ WorkDay_Env
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>88000bd8-5b31-47da-a3b4-3f99c8f0ba68</webElementGuid>
+      <webElementGuid>2e290e91-0e2c-4c5a-b7ab-dadd18bd749d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -255,7 +203,7 @@ WorkDay_Env
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[1]</value>
-      <webElementGuid>d56df3fe-3b30-4aac-8c66-2cce4dc6cc30</webElementGuid>
+      <webElementGuid>98ee87df-dad4-4680-8d8c-c8f7381b15f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -263,7 +211,7 @@ WorkDay_Env
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumbs'])[1]/following::select[1]</value>
-      <webElementGuid>df56abf7-9766-4ee7-9238-1c02cf19e675</webElementGuid>
+      <webElementGuid>330fc4a6-3d2a-4b0d-b0dc-8590e0224606</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -271,7 +219,7 @@ WorkDay_Env
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[1]</value>
-      <webElementGuid>8bc62ea4-f92a-4381-aaa7-7ee778ced5cf</webElementGuid>
+      <webElementGuid>bf0dbe50-b4c0-4159-bd98-4960ccc69b0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -279,7 +227,7 @@ WorkDay_Env
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Screen Reader Mode On'])[1]/preceding::select[1]</value>
-      <webElementGuid>af2a9cb2-1e55-47f4-a32a-b5655a2fd564</webElementGuid>
+      <webElementGuid>7f9f4b56-bcfd-405d-b028-2087191c9621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -287,6 +235,6 @@ WorkDay_Env
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>e5d8e855-86b0-48f8-a73c-79f2d0b589da</webElementGuid>
+      <webElementGuid>9ffa0ece-4521-424b-9f7d-5f259c8d42aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

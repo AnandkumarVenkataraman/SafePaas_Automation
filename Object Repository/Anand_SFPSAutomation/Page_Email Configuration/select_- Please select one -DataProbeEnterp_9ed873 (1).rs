@@ -11,19 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@name = 'P34_PRODUCT' and (text() = '- Please select one -
-DataProbe
-Enterprise Access Certification
-Enterprise Access Monitor
-Enterprise iAccess
-MonitorPaaS
-' or . = '- Please select one -
-DataProbe
-Enterprise Access Certification
-Enterprise Access Monitor
-Enterprise iAccess
-MonitorPaaS
-')]</value>
+         <value>//select[@id='P34_PRODUCT']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -41,7 +29,7 @@ MonitorPaaS
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f75213a3-ea96-4562-b405-0e9239e46764</webElementGuid>
+      <webElementGuid>dcf97572-8ae9-4cbc-bd64-0224c026e675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +37,7 @@ MonitorPaaS
       <name>id</name>
       <type>Main</type>
       <value>P34_PRODUCT</value>
-      <webElementGuid>813fe3b4-0636-4d86-b571-40c76dedf363</webElementGuid>
+      <webElementGuid>004e115d-3d0c-461a-bf6e-2190778597cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +45,7 @@ MonitorPaaS
       <name>name</name>
       <type>Main</type>
       <value>P34_PRODUCT</value>
-      <webElementGuid>a0c35eb6-c43d-4430-8e9e-1427b1989f00</webElementGuid>
+      <webElementGuid>c9ff172f-ce87-41bf-b751-f3c69158c10a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +53,7 @@ MonitorPaaS
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>d1418b00-4bcd-42df-be58-57d3baef6ab2</webElementGuid>
+      <webElementGuid>f50f3935-ef4f-4fd0-ac14-c3962e0ab10b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +61,7 @@ MonitorPaaS
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>59bb9fc8-d524-4e43-847b-151d2a19bb99</webElementGuid>
+      <webElementGuid>de973d63-532b-4dcf-97ab-733eb97102f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +69,7 @@ MonitorPaaS
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>d16c3058-cc35-4110-b439-31cee6f5bd65</webElementGuid>
+      <webElementGuid>d478fab2-fe9f-4640-aff0-3460a55f2199</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +83,7 @@ Enterprise Access Monitor
 Enterprise iAccess
 MonitorPaaS
 </value>
-      <webElementGuid>0f808239-3019-4691-8f5d-6f118c30d2f1</webElementGuid>
+      <webElementGuid>51a39334-fde6-40fd-ac94-f411f0186fe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +91,7 @@ MonitorPaaS
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P34_PRODUCT&quot;)</value>
-      <webElementGuid>f6a6a988-71da-46e5-af3e-eea465457cce</webElementGuid>
+      <webElementGuid>039aa2a1-eb85-4759-8be1-764ff6ed74d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -123,7 +111,7 @@ Enterprise Access Monitor
 Enterprise iAccess
 MonitorPaaS
 ')]</value>
-      <webElementGuid>a6c99963-d464-4cf9-b050-2272fdb3a59c</webElementGuid>
+      <webElementGuid>f85aa1fb-ff5d-427d-84ef-77b95f3e538d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +119,7 @@ MonitorPaaS
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P34_PRODUCT']</value>
-      <webElementGuid>51456679-e120-4574-9506-0702640f40ea</webElementGuid>
+      <webElementGuid>1a2b2f2c-1962-48a8-84c6-0120f4e141de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +127,7 @@ MonitorPaaS
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P34_PRODUCT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>2be67cb6-bfed-4b48-8f9c-06b926e2edb1</webElementGuid>
+      <webElementGuid>933d01f7-381f-441b-9770-b04e8dbbd04d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +135,7 @@ MonitorPaaS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::select[1]</value>
-      <webElementGuid>3be95a78-3f38-43d4-8de3-33d87b811ccc</webElementGuid>
+      <webElementGuid>85d7f71b-9154-4b44-be93-fbd3328bbc19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,7 +143,7 @@ MonitorPaaS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Template'])[1]/following::select[1]</value>
-      <webElementGuid>b2da1a64-55bb-4f9d-ae7c-0dde43577326</webElementGuid>
+      <webElementGuid>6e6f3cd4-100c-4380-92df-06988841cb51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -163,7 +151,7 @@ MonitorPaaS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Category'])[1]/preceding::select[1]</value>
-      <webElementGuid>8111e97a-541f-4b7e-8e62-d2be400cf02a</webElementGuid>
+      <webElementGuid>6245b8ca-c492-4801-be28-dc672abbccfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -171,7 +159,7 @@ MonitorPaaS
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Template Name'])[1]/preceding::select[2]</value>
-      <webElementGuid>8e974481-3afa-407f-aae9-4ccdb39867fc</webElementGuid>
+      <webElementGuid>33bc533c-94a2-4eec-a004-b0ed339fcaa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -179,6 +167,6 @@ MonitorPaaS
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>a45e8fd5-44e5-46e2-aaf3-b4bb0fd4a571</webElementGuid>
+      <webElementGuid>8710ee79-1d24-4688-8f29-f5dfcc21ac71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

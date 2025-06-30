@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1001:15:13795354091421:::15:P15_COMPANY_ID:71843' and (text() = 'Manage Company' or . = 'Manage Company')]</value>
+         <value>//a[contains(text(),'Manage Company')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>04b22307-7aed-47c6-980b-4f354d5671e8</webElementGuid>
+      <webElementGuid>c425702f-4e74-4e2a-97ee-91b4189d6057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>6e339250-d36d-4929-96b8-08277f7fb336</webElementGuid>
+      <webElementGuid>74445a79-2f6a-4e07-b1e9-af1d709fd33e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>2921f586-bb48-41bc-a09d-e0b9f4b9adec</webElementGuid>
+      <webElementGuid>cc48ece9-731d-4e3b-9d03-1ea4d5bdb47d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>14b5eb66-cabd-4eeb-8c71-1342720e29e0</webElementGuid>
+      <webElementGuid>c60f379d-d94e-4eb0-ab59-9973f8df0a41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:15:13795354091421:::15:P15_COMPANY_ID:71843</value>
-      <webElementGuid>3e0a0688-55ba-481c-8f16-2cbbb59c00fb</webElementGuid>
+      <webElementGuid>16a2a53b-fa96-49fb-a804-e47586ddec84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>a491a49b-b515-4120-88d6-a655c7ad87ac</webElementGuid>
+      <webElementGuid>ec66e6c3-4681-4da5-ae91-eeda85848353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>53cbc202-7e0c-44f8-8e43-6c2f8f8772b2</webElementGuid>
+      <webElementGuid>581f80be-6dbe-4625-92bd-946f9f43cfea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Company</value>
-      <webElementGuid>8310e771-ecfa-4411-a9b1-23f7e4122801</webElementGuid>
+      <webElementGuid>e9a92005-46fc-4cbc-bf05-2f204dd183b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_8&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>7369babc-e21c-4c18-bb01-5703ef1d9ca8</webElementGuid>
+      <webElementGuid>2bf865f3-dc74-4927-a70b-68b953925dbf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:15:13795354091421:::15:P15_COMPANY_ID:71843' and (text() = 'Manage Company' or . = 'Manage Company')]</value>
-      <webElementGuid>cd555f56-4951-4363-8258-a00f797e4155</webElementGuid>
+      <webElementGuid>d33919a5-f86e-408e-88cc-6c54f5eff0c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_8']/div[2]/a</value>
-      <webElementGuid>d6ba5f4c-0d5e-473e-b39d-f683638a7e01</webElementGuid>
+      <webElementGuid>8bf081a8-e09b-447f-a4d4-57cb96a7ac02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Company')]</value>
-      <webElementGuid>31f7b5e4-ac99-4ba5-920e-7ad3b1dec934</webElementGuid>
+      <webElementGuid>cfbf112a-6260-44d0-b4da-b6124a42755b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Settings'])[1]/following::a[1]</value>
-      <webElementGuid>b2c0ce3b-c97b-4d6c-8ff5-109420dfb3f7</webElementGuid>
+      <webElementGuid>884e1189-833a-4501-9741-54aec7cec2fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::a[1]</value>
-      <webElementGuid>37615485-8bd6-4aa7-a2bf-8887dde2eb54</webElementGuid>
+      <webElementGuid>5101f729-338c-4bc7-8c18-2dfa780e7a56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Environment'])[1]/preceding::a[1]</value>
-      <webElementGuid>0a69fcb0-109d-4a81-a1d4-a31f822e2027</webElementGuid>
+      <webElementGuid>6ac5be8c-cdb1-4b60-a59e-ec8928bdd041</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Cross Data Sources'])[1]/preceding::a[2]</value>
-      <webElementGuid>48b21b4c-d6a5-4850-b92d-7fb6b54e45a2</webElementGuid>
+      <webElementGuid>710e2047-942e-4e26-be39-b9ce77b60c10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Company']/parent::*</value>
-      <webElementGuid>ff27fdcc-33f2-4a09-87c0-640a03a58241</webElementGuid>
+      <webElementGuid>d55829ac-f1c1-46d2-9ec1-3fa54460833f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:15:13795354091421:::15:P15_COMPANY_ID:71843')]</value>
-      <webElementGuid>8bdb52dc-a0ef-4e6f-9c98-d088736fdffd</webElementGuid>
+      <webElementGuid>31f4cac5-89ec-427e-9c7f-a63525d58140</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div[2]/a</value>
-      <webElementGuid>6cecf3bc-b705-4de0-9db2-9f11fc0b23cd</webElementGuid>
+      <webElementGuid>96f17bb9-0947-425f-b79c-54ed37300298</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

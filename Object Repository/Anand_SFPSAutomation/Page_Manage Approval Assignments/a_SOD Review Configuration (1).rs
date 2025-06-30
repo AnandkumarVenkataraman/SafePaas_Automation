@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1001:130:13795354091421:::130::' and (text() = 'SOD Review Configuration' or . = 'SOD Review Configuration')]</value>
+         <value>//a[contains(text(),'SOD Review Configuration')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9b8fdf5e-4860-4ab3-a36d-104c9de18817</webElementGuid>
+      <webElementGuid>9553a975-a7e7-4b3a-b097-3755fb70b346</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>ebb49cd9-4d4f-41b6-9950-3a25756f7b9b</webElementGuid>
+      <webElementGuid>b6f079b1-f106-4e27-b957-7098865a33cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>64777128-0b05-4d45-a42c-22240adf280b</webElementGuid>
+      <webElementGuid>d1f4d42b-5acc-487b-9e8c-454b92cfe498</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>8b7d5c41-8816-48f2-a060-59abf10be786</webElementGuid>
+      <webElementGuid>4dab490b-687d-4dec-87b5-450fafb3a5f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:130:13795354091421:::130::</value>
-      <webElementGuid>9830a657-cb76-4962-b9a4-3b3bd236ff84</webElementGuid>
+      <webElementGuid>822078d0-000d-4025-8af1-188ba4100d4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>73ba1b85-fbbe-4309-970f-7287d6f3a318</webElementGuid>
+      <webElementGuid>9f600c8e-8d99-4988-8dfa-2c5a200767b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4d95ec77-e5fc-4909-a799-273a8424831f</webElementGuid>
+      <webElementGuid>4ba03c5e-1de9-480d-a6ef-ad6514c03527</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SOD Review Configuration</value>
-      <webElementGuid>98f1bc78-66c8-4f38-acb5-905ac03c17ba</webElementGuid>
+      <webElementGuid>ac41770d-c81d-412e-9cb8-4ca45698f8fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_256&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>a92740bb-ef2e-4279-ae1c-a04f04c65aec</webElementGuid>
+      <webElementGuid>1708375f-7e51-4384-aed2-1ee25207b7fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:130:13795354091421:::130::' and (text() = 'SOD Review Configuration' or . = 'SOD Review Configuration')]</value>
-      <webElementGuid>8d9a8d3d-70f0-46e8-acf7-c5504dcdaa0a</webElementGuid>
+      <webElementGuid>3221f649-796a-4562-ab46-85cab1fa8ece</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_256']/div[2]/a</value>
-      <webElementGuid>feea9157-384f-4022-8fac-ad5b995d261b</webElementGuid>
+      <webElementGuid>9d568579-78ed-447f-bf1d-e4067e94ef82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'SOD Review Configuration')]</value>
-      <webElementGuid>49b06f8b-20f2-450a-892f-65f2306be80a</webElementGuid>
+      <webElementGuid>2035ac4d-c886-470b-ae9c-63c82fdcc881</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Workflow'])[2]/following::a[1]</value>
-      <webElementGuid>fce22711-3af5-42b8-a5e7-c3f4a994438b</webElementGuid>
+      <webElementGuid>e7516fef-e1d6-4ff8-8513-fb38d465e94a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments'])[4]/following::a[2]</value>
-      <webElementGuid>2569753d-43d7-4054-af88-49a4c83123f4</webElementGuid>
+      <webElementGuid>f3830b39-aa11-47c0-b682-eba331d66b0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/preceding::a[1]</value>
-      <webElementGuid>8f01f44e-7381-4a15-a3b2-ed9d02744c43</webElementGuid>
+      <webElementGuid>4d88c418-e048-4cf3-b9d5-3eefa342ff6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[10]/preceding::a[1]</value>
-      <webElementGuid>7fdc4f0e-0a19-4267-93d7-400fa683d4ba</webElementGuid>
+      <webElementGuid>6d39b6cc-8266-4eb6-b7bc-0f643d88f1f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SOD Review Configuration']/parent::*</value>
-      <webElementGuid>f55c0f32-db41-468e-8eef-ef0ca67c9d47</webElementGuid>
+      <webElementGuid>eee5b346-241e-45a4-a516-3bcb40e8faac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:130:13795354091421:::130::')]</value>
-      <webElementGuid>876fd8d2-ce8e-48fc-88ac-c322b673496e</webElementGuid>
+      <webElementGuid>1ce1401a-9496-4644-b70b-acf7f2812d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li/ul/li[7]/ul/li[4]/div[2]/a</value>
-      <webElementGuid>168d4718-9a5a-4c17-9a72-cc754f95b598</webElementGuid>
+      <webElementGuid>d53c1bf7-5beb-41ff-a2d4-072c9b05753b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

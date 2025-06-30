@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = 'f?p=1180:3:13795354091421:::::' and (text() = 'Manage Activity' or . = 'Manage Activity')]</value>
+         <value>(//a[contains(text(),'Manage Activity')])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>db42192f-978a-440d-b397-b56ed1eebc02</webElementGuid>
+      <webElementGuid>9412c9bc-c016-4bbc-9467-b1fd320a7b90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:3:13795354091421:::::</value>
-      <webElementGuid>2e19f3cb-38fb-4c51-9f28-dca4cc9f5aab</webElementGuid>
+      <webElementGuid>7af3c4c2-972d-4b6d-b1b1-de9aee67a475</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Breadcrumb-label</value>
-      <webElementGuid>869b0d38-74b4-46dc-b8e7-36b919ffb9a0</webElementGuid>
+      <webElementGuid>5d1f10e0-859e-4449-9505-5d306d2baaa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Activity</value>
-      <webElementGuid>c5dfb2df-1706-48d9-827d-0647253a0b95</webElementGuid>
+      <webElementGuid>961f300f-feab-44f0-8c82-7f6bdfc5d087</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R240791628227405174&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
-      <webElementGuid>a2ff434f-dfae-4b48-a394-17b2882db896</webElementGuid>
+      <webElementGuid>5cad04cf-4a93-4e2b-b36e-eb8f6c5ce37e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:3:13795354091421:::::' and (text() = 'Manage Activity' or . = 'Manage Activity')]</value>
-      <webElementGuid>d6f93f1f-ef58-450e-b667-4414652392cc</webElementGuid>
+      <webElementGuid>8ca6a29b-40e7-4cae-a92b-a782a3f39be7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R240791628227405174']/div/div/ul/li[4]/a</value>
-      <webElementGuid>a486ebb8-ae4c-4c66-930f-e087858d9222</webElementGuid>
+      <webElementGuid>22551687-27c0-42c0-a226-c3f2c638f3b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Manage Activity')])[3]</value>
-      <webElementGuid>d64a76df-d6a3-443e-b457-4887d9dbe5f1</webElementGuid>
+      <webElementGuid>c4f7cff1-6d03-454a-823c-bfa80695ed75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[4]/following::a[1]</value>
-      <webElementGuid>b0bd1eed-c954-43e4-8843-066ca14ddbc3</webElementGuid>
+      <webElementGuid>a5000095-cf92-4596-92cb-0a59ae80744a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Monitor'])[2]/following::a[2]</value>
-      <webElementGuid>4f1ad852-983b-43a5-b63b-f35ae0aad02d</webElementGuid>
+      <webElementGuid>ae5e9776-847b-4f70-a6b9-666980a6063f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry'])[1]/preceding::a[1]</value>
-      <webElementGuid>205dd719-0950-4a3f-a5fd-f9b5084e4058</webElementGuid>
+      <webElementGuid>a969c892-d132-4d3d-bce1-1c2e3a59d074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/preceding::a[1]</value>
-      <webElementGuid>52439659-91d3-4980-ae7d-175aa33148c5</webElementGuid>
+      <webElementGuid>b7cb9f11-11bc-4535-8c62-5d172b1cd426</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:3:13795354091421:::::')]</value>
-      <webElementGuid>17913074-6a9c-46a8-8f64-d3dbfc1a8e75</webElementGuid>
+      <webElementGuid>06aa5cc8-a5ba-4853-8619-ecc7c400d241</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +132,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>f92cba12-4cac-4575-ab18-c5c9feabd243</webElementGuid>
+      <webElementGuid>22503e90-677a-4d6e-82e9-94d1ea34919f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
