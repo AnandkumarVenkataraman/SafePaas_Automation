@@ -397,6 +397,329 @@ WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SOD Review Configuration/a_Inbox (1)'))
 
 //SOD Test
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (12)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (8)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (5)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rules (3)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Select any oneCoupa_Env1EBizApp_JDBC_20e010 (1)'),
+	'9028', true)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Approval Status'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Approved'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Coupa_Rule1a'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Coupa_Rule1a'), 'Coupa_Rule#1a')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_HIGH'), 'HIGH')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Procure to Pay'), 'Procure to Pay')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Incompatible Sets'),
+	'Incompatible Sets')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_SOD Detective'), 'SOD Detective')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Coupa_3'), 'Coupa_3')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Coupa_4a'), 'Coupa_4a')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_ALL'), 'ALL')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Coupa'), 'Coupa')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Coupa_4b'), 'Coupa_4b')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Coupa_3'), 'Coupa_3')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Approved'), 'Approved')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_SOD Detective'), 'SOD Detective')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Incompatible Sets'),
+	'Incompatible Sets')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_AM'), 'AM')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_HIGH'), 'HIGH')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/td_Coupa_Rule1b'), 'Coupa_Rule#1b')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Coupa_Rule1b'), 0)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Import Rules_R247793226539899118_sear_84acb9 (1)'),
+	'Coupa_Rule#1a')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Go (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Coupa_Rule1a'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Rules'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Rule Attributes'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Activities'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Exceptions'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_People'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_History'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Corrective Actions'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/a_Manage Rules'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_concat(Row text contains , , Coupa_R_b9b430'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_concat(Row text contains , , Coupa_R_b9b430'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/span_Manage ERP Snapshot_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Manage SOD Test'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Create'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_-- Select any one ---- Local File --'),
+	'0', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_Restricted AccessSOD DetectiveSOD Pr_810bc4'),
+	'DT', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_1456471471_RAALL CERP RULESAR_Adjust_d84f42'),
+	'All', true)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_1456471471_RAALL CERP RULESAR_Adjust_d5569a'),
+	'Coupa', true)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (2)'),
+	'SODTest_Jul2_v1')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS'),
+	'SODTest_Jul2_v1')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Create (2)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/h2_Job initiated SODTEST_JUL2_V1_2025070201_5b498a'),
+	0)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Job initiated SODTEST_JUL2_V1_202507_bec54b'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/input_Create_R169645132708451655_search_field'),
+	'SODTest_Jul2_v1')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Go'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/a_Test Log'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/a_Log id (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/button_Documentation_a-Button a-IRR-button _ce8d41 (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/a_Level (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/div_LevelInfoWarningError (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (1)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/span_No data found (1)'),
+	'No data found.')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/a_Inbox'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (12)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (8)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Define Scope_a-TreeView-toggle (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Violation (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/select_Select any oneCoupa_Env1EBizApp_JDBC_20e010'),
+	'9028', true)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/input_(Value Required)_P74_REQUEST_NAME'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'),
+	'SODTest_Jul2_v1')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_SODTEST_JUL2_V1'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/input_Submit_search_search_field'),
+	'Coupa_Rule#1a')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/button_Go'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_RequesterRequester'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Submit purchase requests'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_PERMISSION'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Create Purchase RequestsCreate Purchase _83ec4a'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Create Purchase Requests'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_ROLE  Requester-PERMISSION  Create Purch_05ec33'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_OPEN (1)'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_1 (1)'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Coupa_3'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Brittany.Gornick'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Brittany Gornick'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_- (1)'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_INTER'), 0)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/button_concat(Row text contains , , Coupa_R_b9b430'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_Dashboard_a-TreeView-toggle (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_Analytics_a-TreeView-toggle (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/a_Violations by User Report (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/select_Select any oneCoupa_Env1EBizApp_JDBC_20e010'),
+	'9028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/select_Select any OneSODTEST_JUL2_V1SODTEST_5e39c7'),
+	'12619', true)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Schedule_uvrReport_search_field'),
+	'Coupa_Rule#1a')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_Go'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_Procure to Pay'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_SET (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_Brittany.Gornick'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_Brittany Gornick'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_ROLE'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_RequesterRequester'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_Submit purchase requests'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_PERMISSION'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_Create Purchase RequestsCreate Purchase _83ec4a'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_Create Purchase Requests'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_ROLE  Requester-PERMISSION  Create Purch_05ec33'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_- (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_OPEN (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_2'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_Coupa_4a'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_- (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_- (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_- (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_- (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_- (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_OPEN (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_OPEN (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_- (1)'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/td_INTER'),
+	0)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_concat(Row text contains , , Coupa_R_b9b430'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/a_Violation Matrix by User (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Violation Matrix by User/select_Select any oneCoupa_Env1EBizApp_JDBC_20e010'),
+	'9028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Violation Matrix by User/select_Select any OneSODTEST_JUL2_V1SODTEST_5e39c7'),
+	'12619', true)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Violation Matrix by User/a_Intra Role Violation Details Report (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/select_Select any oneCoupa_Env1EBizApp_JDBC_20e010'),
+	'9028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/select_Select any oneSODTEST_JUL2_V1SODTEST_81219f'),
+	'12619', true)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/a_Aggregate Violations by User'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/select_Select any oneCoupa_Env1EBizApp_JDBC_20e010'),
+	'9028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/select_Select any oneSODTEST_JUL2_V1SODTEST_81219f'),
+	'12619', true)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/a_Inbox'))
 
 //WebUI.closeBrowser()
 
