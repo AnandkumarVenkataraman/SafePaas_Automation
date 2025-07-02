@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneSODTEST_JUL2_V1SODTEST_5e39c7</name>
+   <tag></tag>
+   <elementGuidId>79743ccd-9d12-4d69-8eef-9fea78422e09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name = 'P86_TEST_NAME' and (text() = 'Select any One
+SODTEST_JUL2_V1
+SODTEST_JUL01_V1
+SODTEST_JUN23_V2
+SODTEST_JUN23_V1
+SODTEST_JUN20_V1
+SODTEST_2905_V2
+SODTEST_2905_V1
+' or . = 'Select any One
+SODTEST_JUL2_V1
+SODTEST_JUL01_V1
+SODTEST_JUN23_V2
+SODTEST_JUN23_V1
+SODTEST_JUN20_V1
+SODTEST_2905_V2
+SODTEST_2905_V1
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P86_TEST_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Test Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c8df23cf-653f-4dc9-b3ca-06989c351f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P86_TEST_NAME</value>
+      <webElementGuid>bcadef9e-b25c-42a7-a1af-613b7472a428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P86_TEST_NAME</value>
+      <webElementGuid>59758581-6d90-483c-867e-617464984954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>d7a0bad9-1802-49de-b206-004d44a76b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>86c2873e-cbab-46a3-bda0-b295f27e5681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>69bf3979-49ca-4fdf-94d9-ae4d21f5f160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P86_TEST_NAME');</value>
+      <webElementGuid>9a6810be-5aa4-4b9a-a324-4e0ddd38abf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+SODTEST_JUL2_V1
+SODTEST_JUL01_V1
+SODTEST_JUN23_V2
+SODTEST_JUN23_V1
+SODTEST_JUN20_V1
+SODTEST_2905_V2
+SODTEST_2905_V1
+</value>
+      <webElementGuid>db026b5e-cd7f-452a-b4ba-c8702080c2af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P86_TEST_NAME&quot;)</value>
+      <webElementGuid>518884a3-adb8-4404-bbf8-9e6198be5965</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'P86_TEST_NAME' and (text() = 'Select any One
+SODTEST_JUL2_V1
+SODTEST_JUL01_V1
+SODTEST_JUN23_V2
+SODTEST_JUN23_V1
+SODTEST_JUN20_V1
+SODTEST_2905_V2
+SODTEST_2905_V1
+' or . = 'Select any One
+SODTEST_JUL2_V1
+SODTEST_JUL01_V1
+SODTEST_JUN23_V2
+SODTEST_JUN23_V1
+SODTEST_JUN20_V1
+SODTEST_2905_V2
+SODTEST_2905_V1
+')]</value>
+      <webElementGuid>024cb9a5-5a1e-412d-80d5-35d7938c5049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P86_TEST_NAME']</value>
+      <webElementGuid>a4db8e89-61ec-4c9b-95c9-d796359dab3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P86_TEST_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>1a0d783b-818e-4f89-aa91-dd271d52aff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Name'])[1]/following::select[1]</value>
+      <webElementGuid>6a5a7ab1-21f2-42c6-a62f-ee81f51fadf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>80336bba-c3e4-4d8a-9813-01098734732b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Violation Report'])[2]/preceding::select[1]</value>
+      <webElementGuid>4e3830a7-aaf3-4b53-bda1-b703eac6b27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>cab8fb22-ce0c-4043-8238-4995f21b611a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>e7f206cc-912a-46c8-ab12-3b3ff7f9ad17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
