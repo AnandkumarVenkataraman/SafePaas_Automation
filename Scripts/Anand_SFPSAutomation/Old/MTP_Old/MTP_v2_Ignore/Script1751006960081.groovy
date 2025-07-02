@@ -21,83 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_Spring 2025_P101_COMPANY (4)'), 'KAT')
+WebUI.click(findTestObject('Object Repository/Page_Remediation Plan/a_Inbox (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (4)'), 'KATADMIN')
+WebUI.click(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (4)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (4)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+WebUI.click(findTestObject('Object Repository/Page_Home/span_Administration_a-TreeView-toggle (4)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Login/button_Login (4)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home/span_AccessPaaS_a-TreeView-toggle (2)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home/a_Manage Monitors (1)'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Monitors/select_Select any OneWorkDay_Env_ObjSetTrir_f73a9a (1)'), 
-    '5496', true)
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Monitors/a_AR Approval Limits'))
-
-WebUI.click(findTestObject('Object Repository/Page_Monitor Details/span_People'))
-
-WebUI.click(findTestObject('Object Repository/Page_Rule Approver/a_Manage Monitors'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Monitors/button_Deploy'))
-
-WebUI.click(findTestObject('Object Repository/Page_Move Process/input_EBS R12.2_f01'))
-
-WebUI.click(findTestObject('Object Repository/Page_Move Process/button_Deploy Objects'))
-
-WebUI.click(findTestObject('Object Repository/Page_Move Process/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Monitors/a_AR Approval Limits_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Monitor Details/span_People'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Rule Approver/select_Select any One1164301711814158119098_a4add3'), 
-    '66812854', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Rule Approver/select_Select any OneApproverReviewer'), 
-    '101', true)
-
-WebUI.setText(findTestObject('Object Repository/Page_Rule Approver/input_Start Date_P35_START_DATE'), '22-Jun-2025')
-
-WebUI.setText(findTestObject('Object Repository/Page_Rule Approver/input_End Date_P35_END_DATE'), '')
-
-WebUI.click(findTestObject('Object Repository/Page_Rule Approver/input_End Date_P35_END_DATE'))
-
-WebUI.click(findTestObject('Object Repository/Page_Rule Approver/button_Add Another'))
+WebUI.click(findTestObject('Object Repository/Page_Home/a_Manage Role Groups (1)'))
 
 WebUI.closeBrowser()
 
-//Ignore
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (17)'), 'KAT')
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (17)'),
-	'ANANDK1')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (17)'),
-	'Ioqy8emDrxi5mkiNQATzxQ==')
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (16)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (2)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle (5)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Company (5)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_Users (1)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/a_Inbox (1)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_anandk1 (3)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (6)'))
-
-WebUI.closeBrowser()

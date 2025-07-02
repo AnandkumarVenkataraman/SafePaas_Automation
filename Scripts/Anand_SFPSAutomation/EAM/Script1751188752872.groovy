@@ -16,6 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
@@ -316,6 +320,15 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomatio
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/button_concat(Row text contains , , Coupa_S_c8259a'), FailureHandling.OPTIONAL)
 
+//Click Inbox
+WebUI.click(findTestObject('Object Repository/Page_Remediation Plan/a_Inbox (1)'))
+
+//WebUI.click(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (4)'))
+//
+//WebUI.click(findTestObject('Object Repository/Page_Home/span_Administration_a-TreeView-toggle (4)'))
+//
+//WebUI.click(findTestObject('Object Repository/Page_Home/a_Manage Role Groups (1)'))
+//End clicking Inbox
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/span_DataPaaS_a-TreeView-toggle'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/span_Administration_a-TreeView-toggle'))
@@ -382,6 +395,8 @@ WebUI.takeScreenshot()
 WebUI.delay(2)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SOD Review Configuration/a_Inbox (1)'))
+
+//SOD Test
 
 //WebUI.closeBrowser()
 
