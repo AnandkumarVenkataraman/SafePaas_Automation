@@ -21,13 +21,40 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.click(findTestObject('Object Repository/Page_Remediation Plan/a_Inbox (1)'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Coupa_Env1EBizA_d51d0f (1)'), 
+    '- Please select one -', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (4)'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Enterprise Acce_bd443d (3)'), 
+    '- Please select one -', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Home/span_Administration_a-TreeView-toggle (4)'))
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Breadcrumbs_t-Button t-Button--noUI _fee11d (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_Manage Role Groups (1)'))
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/a_Inbox'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (13)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7 (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise iAccess_a-TreeView-toggle'))
 
 WebUI.closeBrowser()
 
+//Request status
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Coupa_Env1EBizA_d51d0f (1)'),
+	0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Enterprise Acce_bd443d (3)'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Breadcrumbs_t-Button t-Button--noUI _fee11d (1)'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (13)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise iAccess_a-TreeView-toggle'))
+
+WebUI.closeBrowser()

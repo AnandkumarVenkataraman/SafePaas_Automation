@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'SSHR V4 for ZA Employees' or . = 'SSHR V4 for ZA Employees')]</value>
+         <value>//span[@id='P23_ACCESS_DESCRIPTION']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7d1e11cf-c831-4aa6-89cb-9a9063caf049</webElementGuid>
+      <webElementGuid>8f977a46-775f-4bc3-b58f-2f46c67048da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P23_ACCESS_DESCRIPTION</value>
-      <webElementGuid>c92e09d0-3e01-4e7a-8ff9-7e267829d6f2</webElementGuid>
+      <webElementGuid>57ac3558-d699-4cf0-9c1f-d8a3cd74cdcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>display_only apex-item-display-only</value>
-      <webElementGuid>a4f855b8-43c5-4415-ad97-835f37a1c1f8</webElementGuid>
+      <webElementGuid>1b364454-adb8-4b3a-9db7-3150c888e3e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-escape</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ce9d33b2-1268-4ae4-92ed-15be88a100ca</webElementGuid>
+      <webElementGuid>38f1b7d7-4e05-4d81-9f14-860791d47090</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SSHR V4 for ZA Employees</value>
-      <webElementGuid>cd975d90-d2ba-46a7-a6a6-83c8e7fdcb59</webElementGuid>
+      <webElementGuid>f36d35ea-8ce1-485d-a9d9-5c49fbc019f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P23_ACCESS_DESCRIPTION&quot;)</value>
-      <webElementGuid>a90bdfb9-a17e-420e-b477-1cb6ec69acbd</webElementGuid>
+      <webElementGuid>66800f06-2917-417c-816f-44533adb80ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'SSHR V4 for ZA Employees' or . = 'SSHR V4 for ZA Employees')]</value>
-      <webElementGuid>7fde9547-5c51-44e1-abca-59eafe0378fe</webElementGuid>
+      <webElementGuid>57255b58-2887-485c-9a98-83fa1c21dd6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='P23_ACCESS_DESCRIPTION']</value>
-      <webElementGuid>06badf89-5683-42d9-aab4-15e83774d199</webElementGuid>
+      <webElementGuid>a9820b71-aed8-432b-8d38-e3bc6565094a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P23_ACCESS_DESCRIPTION_CONTAINER']/div[2]/div/span</value>
-      <webElementGuid>84c50b5c-c172-4c9f-a529-a7be5d9216c6</webElementGuid>
+      <webElementGuid>55b81501-52b8-4cfd-befb-e48d284d0c9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Description'])[1]/following::span[1]</value>
-      <webElementGuid>a11ab298-4ae5-4970-bd75-d6bca56b8e76</webElementGuid>
+      <webElementGuid>89a21d6d-5df6-4470-ac15-ced2a0785505</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Service for ZA Employees'])[1]/following::span[2]</value>
-      <webElementGuid>e3fcce8e-2db8-4cb6-8aee-dd736d2c547c</webElementGuid>
+      <webElementGuid>c199c152-bcfa-40f8-b00f-dfd4b7377862</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Context Details'])[1]/preceding::span[2]</value>
-      <webElementGuid>881afd7b-b10b-42cf-9e16-828978a8f169</webElementGuid>
+      <webElementGuid>060357ea-f302-4b18-905b-5ab0539fbabd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/preceding::span[2]</value>
-      <webElementGuid>1ddb19b0-c503-44fe-8975-5993600ae9bb</webElementGuid>
+      <webElementGuid>d099b3b9-cd41-4723-9496-b3b950b12bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SSHR V4 for ZA Employees']/parent::*</value>
-      <webElementGuid>2c888333-e8f2-4c72-b4a8-0e001c4a334a</webElementGuid>
+      <webElementGuid>a67beb8c-5ffa-4a0d-ab24-d8393a587980</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/div[2]/div/span</value>
-      <webElementGuid>ec8d6ee7-36b6-42e0-bb5a-27d83c80594a</webElementGuid>
+      <webElementGuid>88795342-0814-485a-8d3e-84ca421df7bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'Self Service for ZA Employees' or . = 'Self Service for ZA Employees')]</value>
+         <value>//span[@id='P23_ACCESS_NAME']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>615ba015-aece-4fbf-a598-78e354684eaf</webElementGuid>
+      <webElementGuid>13b2e97d-676b-4576-951e-5b78319e1a83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P23_ACCESS_NAME</value>
-      <webElementGuid>5a24bb07-2f81-44a0-a588-dfe785fa2943</webElementGuid>
+      <webElementGuid>e10bf2c2-08a3-486c-9b51-aaf5cca6d05f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>display_only apex-item-display-only</value>
-      <webElementGuid>f2869b7d-1726-4f10-982d-cd4a80ea3c7b</webElementGuid>
+      <webElementGuid>86bdfc31-8a8a-488f-a5c8-1e9387f19914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-escape</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>104f3114-663d-4365-bad4-02dcd66fcb7a</webElementGuid>
+      <webElementGuid>d6cfa6ce-657c-423c-b409-d4b21636a63c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Self Service for ZA Employees</value>
-      <webElementGuid>66786628-86c8-41ac-b999-f607d46b3d1a</webElementGuid>
+      <webElementGuid>1a1d8da7-280c-4ac7-909b-ae530fc63c88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P23_ACCESS_NAME&quot;)</value>
-      <webElementGuid>d8f777aa-f183-4f94-b5fb-c9701c003caf</webElementGuid>
+      <webElementGuid>fee7c521-7d96-4bba-9b32-5ef0bbf7b16a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Self Service for ZA Employees' or . = 'Self Service for ZA Employees')]</value>
-      <webElementGuid>52e82cf9-f871-47e6-850b-607cbfdc4cbc</webElementGuid>
+      <webElementGuid>69e9e366-ef79-4278-9d88-09515af0c02b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='P23_ACCESS_NAME']</value>
-      <webElementGuid>0edc15ae-26de-47b3-875d-c8e6ad21a8bf</webElementGuid>
+      <webElementGuid>8899f3a7-54aa-4f19-8d11-8772ea0f42ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P23_ACCESS_NAME_CONTAINER']/div[2]/div/span</value>
-      <webElementGuid>b35a89a0-2022-4285-ac4d-3a662bb75b0e</webElementGuid>
+      <webElementGuid>b5fc6f85-ada9-4b03-a12b-5b40c0ebb49d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Requested'])[1]/following::span[1]</value>
-      <webElementGuid>e93d8bdc-ff31-4536-894d-f65fd49b663c</webElementGuid>
+      <webElementGuid>940322c1-b433-48cc-a15b-993c38d0ccd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Maria11 Brum11 - MARIAB11'])[1]/following::span[2]</value>
-      <webElementGuid>b0a0c308-f25d-4c6d-9aa9-975e95c22410</webElementGuid>
+      <webElementGuid>364d434e-491e-4d8b-a3ae-2c51bbe1f8fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Description'])[1]/preceding::span[2]</value>
-      <webElementGuid>153a0dad-8fad-4bfb-853c-c15eaeb2a442</webElementGuid>
+      <webElementGuid>f4c87e89-c888-43b3-8663-f5a526ddfd04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SSHR V4 for ZA Employees'])[1]/preceding::span[2]</value>
-      <webElementGuid>e981a800-85f5-4533-bcd2-8a17dec2455d</webElementGuid>
+      <webElementGuid>5a329480-cb80-4435-8eba-3410f4e8a1ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Self Service for ZA Employees']/parent::*</value>
-      <webElementGuid>65602568-e4df-40bc-a8ad-778e3de01271</webElementGuid>
+      <webElementGuid>10caedef-5a57-4934-b8b4-5f16e3085ad7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/div[2]/div/span</value>
-      <webElementGuid>30ea274b-9607-4efc-a473-e1b7ff2f2557</webElementGuid>
+      <webElementGuid>c93fcb13-c27f-40d8-bc9b-91cf53a4d85d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

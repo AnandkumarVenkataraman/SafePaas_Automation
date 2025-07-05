@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[(text() = 'Maria11 Brum11' or . = 'Maria11 Brum11')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='MARIAB11 - Maria11 Brum11'])[1]/following::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>8e2d8408-a91a-4b8e-b871-dc194d676532</webElementGuid>
+      <webElementGuid>d27bf176-6f7b-404a-8830-3b87c12987b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>6cceebf8-054e-45fa-aad4-6145c3c4e33a</webElementGuid>
+      <webElementGuid>2a0f6dde-3be7-4dcf-9fec-e8606ad28148</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ac852789-13bd-4461-9514-634af78e715d</webElementGuid>
+      <webElementGuid>c9491b7b-fe78-426f-8a20-675c6886f6e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tC is-readonly is-focused</value>
-      <webElementGuid>93b5762c-102f-4a8a-9847-e3f8ecad9cd5</webElementGuid>
+      <webElementGuid>460e9cdc-0fde-4818-b349-1d143a7f23f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_ctx C252344459907124038_HDR grid_ig_grid_vc_cur</value>
-      <webElementGuid>3eb817a7-67a7-43a8-9155-e6f34cdece12</webElementGuid>
+      <webElementGuid>87d33fe0-f507-4b50-a504-e186e0c22a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_cur</value>
-      <webElementGuid>0a4eedda-2d14-45d2-a768-b6c9d7d0b363</webElementGuid>
+      <webElementGuid>7c2d6c2d-3981-45c1-9d3a-1ba13b69f280</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Maria11 Brum11</value>
-      <webElementGuid>26b8d516-c8b3-4c6d-828d-e48f12aec98e</webElementGuid>
+      <webElementGuid>b656abe0-2f81-43b8-9b30-e4b137fb2be0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>dcac88e0-c504-4ae1-a4de-18ba500752fb</webElementGuid>
+      <webElementGuid>9660e559-e4dc-4153-a1dc-30834a4b8826</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Maria11 Brum11' or . = 'Maria11 Brum11')]</value>
-      <webElementGuid>952ca0c8-e3e1-41b4-a49e-b0dce001ac1a</webElementGuid>
+      <webElementGuid>182d9669-8b34-4f49-a200-8709d875ec7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='grid_ig_grid_vc_cur']</value>
-      <webElementGuid>97fa99c2-79e2-48ac-a5e1-3c9c26444ffc</webElementGuid>
+      <webElementGuid>8e0652c8-11a0-4d09-8ee0-1e53eb4ec3ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[2]</value>
-      <webElementGuid>f9845bc1-3d31-4c44-86d2-86544b7a855e</webElementGuid>
+      <webElementGuid>e351ba67-bfa3-46b2-9167-22ff2e008645</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MARIAB11 - Maria11 Brum11'])[1]/following::td[1]</value>
-      <webElementGuid>115fdb01-c377-423f-a256-bc3ce2378e21</webElementGuid>
+      <webElementGuid>3972c55c-cde4-47d5-b855-75149502816e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[2]/following::td[2]</value>
-      <webElementGuid>a41c974f-c55e-47ba-9190-d64e86e1c9ba</webElementGuid>
+      <webElementGuid>14df9ff8-3247-48c4-af85-21acd7e43f1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Service for ZA Employees'])[1]/preceding::td[1]</value>
-      <webElementGuid>267495ec-8619-4ac0-87c2-5ad0b5100c96</webElementGuid>
+      <webElementGuid>8b487c4d-f6c8-41a9-8f98-191eb8abef5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[2]</value>
-      <webElementGuid>11832c0e-6d44-47ae-9c7b-5b1ebf941ca6</webElementGuid>
+      <webElementGuid>8c90755b-8444-4db4-a4ec-52c98768633d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Maria11 Brum11']/parent::*</value>
-      <webElementGuid>c45235fc-47bf-4c6a-808f-1f11aa7965ea</webElementGuid>
+      <webElementGuid>80c2b1a6-6911-4243-857e-e3f982296cb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]</value>
-      <webElementGuid>39460989-aa39-4240-966b-283a2d7fc29d</webElementGuid>
+      <webElementGuid>8916787c-21c1-4353-b821-4e5dcb6a71de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

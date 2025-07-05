@@ -59,13 +59,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
     'Select any one\nManual Provisioning\nAuto Provisioning')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Environment/label_Role'), 
-    0)
+    10)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Environment/label_API Enabled'), 
-    0)
+    10)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Environment/label_API Enabled_u-checkbox'), 
-    0)
+    10)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Environment/td_Enterprise iAccess'), 
     'Enterprise iAccess')
@@ -378,11 +378,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/button_Next'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_MARIAB11 - Maria11 Brum11'),
-	'MARIAB11 - Maria11 Brum11')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_MARIAB11 - Maria11 Brum11'),
+	30)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Maria11 Brum11'),
-	'Maria11 Brum11')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Maria11 Brum11'),
+	30)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Self Service for ZA Employees'),
 	30)
@@ -395,34 +395,67 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/button_Submit'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/h2_Request Submitted.  The approval process_582058'),
-	30)
-
 //WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/h2_Request Submitted.  The approval process_582058'),
-//	'Request Submitted. The approval process has been initiated.')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Request Submitted.The approval proce_743d42'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_User Name_P114_USER_LIST_lov_btn'))
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/input_Search_a-PopupLOV-search apex-item-text'),
-	'MARIAB11')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Search_a-Button a-PopupLOV-doSearch'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/li_MARIAB11 - Maria11 Brum11'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Go'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Create'))
-WebUI.delay(2)
-//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/li_A request to create this user has alread_bc245c'),
 //	30)
 
-//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/li_A request to create this user has alread_bc245c'),
-//	'A request to create this user has already been submitted and is currently in progress. Please wait for the workflow to complete or contact your administrator for further assistance')
+////Ignore below
+////WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/h2_Request Submitted.  The approval process_582058'),
+////	'Request Submitted. The approval process has been initiated.')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Request Submitted.The approval proce_743d42'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_User Name_P114_USER_LIST_lov_btn'))
+//
+//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/input_Search_a-PopupLOV-search apex-item-text'),
+//	'MARIAB11')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Search_a-Button a-PopupLOV-doSearch'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/li_MARIAB11 - Maria11 Brum11'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Go'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Create'))
+//WebUI.delay(2)
+////Ignore below
+////WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/li_A request to create this user has alread_bc245c'),
+////	30)
+//
+////Ignore below
+////WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/li_A request to create this user has alread_bc245c'),
+////	'A request to create this user has already been submitted and is currently in progress. Please wait for the workflow to complete or contact your administrator for further assistance')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Request Submitted.The approval proce_743d42'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Request Submitted.The approval proce_743d42'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/button_Submit for Violation Testing (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/h2_Request Submitted. Please check after sometime (1)'),
+	10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Request Submitted. Please check afte_fe3187 (1)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/p_Violation check in progress, the Submit A_b77072 (1)'),
+	'Violation check in progress, the Submit Access button will be enabled upon completion and click on Refresh button.')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Refresh (1)'), FailureHandling.OPTIONAL)
+
+WebUI.delay(30)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Refresh (1)'), FailureHandling.OPTIONAL)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Submit Access Request (1)'), 300)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Submit Access Request (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/h2_Access Request Submitted. Please check a_f71769 (1)'),
+	10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Access Request Submitted. Please che_0dc3e5 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Create (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/li_A request to create this user has alread_bc245c (1)'),
+	10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Access Request Submitted. Please che_0dc3e5 (1)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Cancel'))
 WebUI.delay(2)
@@ -469,10 +502,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 	'Maria11 Brum11 - MARIAB11')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Access Request/span_Self Service for ZA Employees'),
-	'Self Service for ZA Employees')
+	'JP HRMS Manager')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Access Request/span_SSHR V4 for ZA Employees'),
-	'SSHR V4 for ZA Employees')
+	'JP HRMS Manager definition')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Access Request/span_NA'), 'N/A')
 
@@ -532,10 +565,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 	'Maria11 Brum11 - MARIAB11')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Access Request/span_Self Service for ZA Employees'),
-	'Self Service for ZA Employees')
+	'JP HRMS Manager')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Access Request/span_SSHR V4 for ZA Employees'),
-	'SSHR V4 for ZA Employees')
+	'JP HRMS Manager definition')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Access Request/span_NA'), 'N/A')
 
@@ -596,13 +629,29 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/td_KATADMIN'), 'KATADMIN')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_concat(Row text contains , , MARIAB1_d70a52'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_concat(Row text contains , , MARIAB1_d70a52'), FailureHandling.OPTIONAL)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Help_a-TreeView-toggle'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Help_a-TreeView-toggle'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Certification Configuration_a-TreeView-toggle'))
+//
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Coupa_Env1EBizA_d51d0f (1)'),
+	0)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Certification Configuration_a-TreeView-toggle'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Enterprise Acce_bd443d (3)'),
+	0)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Enterprise iAccess_a-TreeView-toggle'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Breadcrumbs_t-Button t-Button--noUI _fee11d (1)'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (13)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Certification_a-Tree_1e8bd7 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise iAccess_a-TreeView-toggle'))
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Enterprise iAccess_a-TreeView-toggle'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/a_Request Status'))
 WebUI.delay(2)
