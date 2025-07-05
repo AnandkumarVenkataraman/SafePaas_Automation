@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@title = 'Move from' and (text() = 'Purchasing | JP HRMS Manager' or . = 'Purchasing | JP HRMS Manager')]</value>
+         <value>//select[@id='P5_ENTRY_REQUEST_LEFT']/option</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>6ed39579-6f10-48c0-babc-61e47e54bcf8</webElementGuid>
+      <webElementGuid>d0443fe2-ca99-4fde-ba39-16e7469d428f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Move from</value>
-      <webElementGuid>a580b1c7-d047-4f79-a82e-d271bbd90ad0</webElementGuid>
+      <webElementGuid>4013a79a-3030-4d78-8511-26507a825c07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>multiple</name>
       <type>Main</type>
       <value>multiple</value>
-      <webElementGuid>50bf1eb3-28f4-466f-9ce7-df9f0f60763b</webElementGuid>
+      <webElementGuid>71700b6a-965f-470d-943d-4a150bb84366</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P5_ENTRY_REQUEST_LEFT</value>
-      <webElementGuid>e6a59547-5385-41ce-afa0-aef4a395df7a</webElementGuid>
+      <webElementGuid>2793969e-294e-45ef-bb84-b586d7cac351</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>size</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>1a9b9d86-a15c-4f0b-9539-07abe191bda4</webElementGuid>
+      <webElementGuid>bfad96a0-6684-463a-a1e0-e95ea227b779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shuttle_left apex-item-select</value>
-      <webElementGuid>6d11b2b2-5caf-4cf1-b9fb-819312aafa28</webElementGuid>
+      <webElementGuid>c324ee8a-bd41-453e-8227-9e1e5bea9f1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Purchasing | JP HRMS Manager</value>
-      <webElementGuid>42ce4604-8118-4239-92a0-52a8c563d257</webElementGuid>
+      <webElementGuid>5c04e78f-40fa-4631-a005-a67c83184758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P5_ENTRY_REQUEST_LEFT&quot;)</value>
-      <webElementGuid>6fdcced6-1996-49fd-a508-c730648ab352</webElementGuid>
+      <webElementGuid>b2512cb2-dc55-4f73-9939-cabf8095020e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,15 +93,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@title = 'Move from' and (text() = 'Purchasing | JP HRMS Manager' or . = 'Purchasing | JP HRMS Manager')]</value>
-      <webElementGuid>96ff4869-eb5f-44c6-8c34-c0441b5c089d</webElementGuid>
+      <webElementGuid>e3f97780-3afa-43f9-bab2-070b54e136fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P5_ENTRY_REQUEST_LEFT']</value>
-      <webElementGuid>5d7213c6-6473-46ed-8bf2-8ab5bee87f0c</webElementGuid>
+      <value>//select[@id='P5_ENTRY_REQUEST_LEFT']/option</value>
+      <webElementGuid>16f29447-e5f6-4145-8cfe-e53fed5dde14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P5_ENTRY_REQUEST']/table/tbody/tr/td/select</value>
-      <webElementGuid>cd311382-9b51-45b1-b725-239cf41d8ea2</webElementGuid>
+      <webElementGuid>2c86334b-295f-47b7-b2fb-2f764df78865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Group | Role'])[1]/following::select[1]</value>
-      <webElementGuid>684f80d5-e843-42d6-a55a-f26ad787a5d8</webElementGuid>
+      <webElementGuid>629cc661-637b-42cb-b8f1-529c3673b96c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::select[1]</value>
-      <webElementGuid>b2d11d05-7c32-4312-bfb6-d7323c376d0c</webElementGuid>
+      <webElementGuid>22265a3c-843f-4bae-b5f7-9c228c1ee2d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[2]</value>
-      <webElementGuid>193dc4f0-6f1b-465b-b4c7-f84dda9671bd</webElementGuid>
+      <webElementGuid>512e4f37-c48e-4a94-b6c1-e570b576d92b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[2]</value>
-      <webElementGuid>fb91383b-c72a-4290-9130-1416e45c7f15</webElementGuid>
+      <webElementGuid>929f987b-6768-4d90-b987-9a52a9f3cc99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>a258b772-3cfc-43a6-b340-87a9a7e3e8bf</webElementGuid>
+      <webElementGuid>963e0e1d-f5f6-4ec6-bcce-eaf1def83bd2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

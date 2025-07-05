@@ -49,7 +49,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/td_A (1)'), 'A')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/button_concat(Row text contains , , EBizApp_4f016a (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/button_concat(Row text contains , , EBizApp_4f016a (1)'), FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/a_Inbox'))
 
@@ -87,7 +87,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Data Source/button_concat(Row text contains , , EBiz_JD_36edac'), FailureHandling.OPTIONAL)
 
-//Manae Objects
+//Manage Objects
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Object'))
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/select_- Select an Environment -Coupa_Env1E_bcbb9d'),

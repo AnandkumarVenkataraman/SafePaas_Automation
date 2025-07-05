@@ -6,12 +6,12 @@
    <elementGuidId>c2a4867d-e06f-4ac8-a955-cc8052e8a97c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#P35_ACTION_COMMENTS</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//textarea[@name = 'P35_ACTION_COMMENTS']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_ACTION_COMMENTS</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

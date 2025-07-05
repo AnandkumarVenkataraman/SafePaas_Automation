@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[(text() = 'Self Service for ZA Employees' or . = 'Self Service for ZA Employees')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>d2ba79af-396b-4377-9b7c-8c8e4ce2b733</webElementGuid>
+      <webElementGuid>f815613d-e91c-4592-9685-e829e1be897a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>5ddfe660-52ec-489c-91b3-213b50414aef</webElementGuid>
+      <webElementGuid>1422b5ac-dd0d-482c-b602-7f69f3735df6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cec44338-d79f-4ae2-804b-e81cbf9ee3f5</webElementGuid>
+      <webElementGuid>4531dc6c-d291-409d-8320-df502447a11b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tC is-readonly is-focused</value>
-      <webElementGuid>9d66db86-1ac4-404a-a3fd-e1ebaa0d6526</webElementGuid>
+      <webElementGuid>78de674a-b213-45ef-a285-f867f273a2f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_ctx C252344553161124039_HDR grid_ig_grid_vc_cur</value>
-      <webElementGuid>d5a431f5-3615-4b3a-b510-6a0e358a1631</webElementGuid>
+      <webElementGuid>0c45c185-5356-48c2-beba-6108dd859abd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_cur</value>
-      <webElementGuid>87bcf1a5-8872-4a50-8d70-cee9a5ef5fbf</webElementGuid>
+      <webElementGuid>248b5825-9564-4797-8a9a-66d2ed9574c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Self Service for ZA Employees</value>
-      <webElementGuid>d5979505-bb05-41b0-88f2-49f1b2bcd985</webElementGuid>
+      <webElementGuid>358e911c-ef00-44fd-a126-85c6b8934190</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>d43706c9-13ad-4103-8605-bf3c4b7b0ebf</webElementGuid>
+      <webElementGuid>54ac769f-b79d-4940-b2f0-3e17db742174</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Self Service for ZA Employees' or . = 'Self Service for ZA Employees')]</value>
-      <webElementGuid>f8118ecf-0af6-48c1-b4f7-5e0aa0c3e269</webElementGuid>
+      <webElementGuid>4053009f-3a08-4f13-9110-792539a374b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='grid_ig_grid_vc_cur']</value>
-      <webElementGuid>17120b50-5670-4e11-9288-c2ce71cd7fa1</webElementGuid>
+      <webElementGuid>bac406cf-789f-407c-9b43-fef83d4ebd4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[3]</value>
-      <webElementGuid>3ab3574e-1f7f-438e-b836-f95a90316e56</webElementGuid>
+      <webElementGuid>2402eed2-2aa0-4e0b-8d68-4f2d094d89bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Maria11 Brum11'])[1]/following::td[1]</value>
-      <webElementGuid>ab9a16d6-7061-46ee-a7a0-678c909beb26</webElementGuid>
+      <webElementGuid>93c1d716-9f76-492e-b205-ef1c6f385acb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MARIAB11 - Maria11 Brum11'])[1]/following::td[2]</value>
-      <webElementGuid>97b563c7-5e82-439a-8cdd-fa26d8818d3d</webElementGuid>
+      <webElementGuid>875e73ab-11ef-478e-880a-2cbdff5592b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[1]</value>
-      <webElementGuid>5e96ee65-5319-4fed-ab4b-5d82fb93e6f4</webElementGuid>
+      <webElementGuid>6454d71b-501f-48fd-a11f-fb44eda47632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[5]</value>
-      <webElementGuid>c79776f6-8810-4898-9dcc-d28b450b54dc</webElementGuid>
+      <webElementGuid>8d9128b5-235b-42db-818a-5e24a6b659cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Self Service for ZA Employees']/parent::*</value>
-      <webElementGuid>d79c22d1-7806-47c0-bf0f-8f1bc0f01c10</webElementGuid>
+      <webElementGuid>1afa8831-17d3-47e2-a346-33abefdd5395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]</value>
-      <webElementGuid>3e57eee9-7bcd-42f2-a60e-cf932cf80277</webElementGuid>
+      <webElementGuid>88758bd2-7013-46cd-9c30-a6ecb87f84fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[(text() = 'Responsibility' or . = 'Responsibility')]</value>
+         <value>//*[(text() = 'Responsibility' or . = 'Responsibility')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>2fa41b33-ff34-4fbc-8d87-d6cdd2d74ff8</webElementGuid>
+      <webElementGuid>ff7c625b-d5d9-4454-ab8c-90f428c17f07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>8185e217-14ac-4d3d-8d29-bcbbcbe45bd8</webElementGuid>
+      <webElementGuid>462c3b47-8a9b-4019-945d-4af41d96c451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>96792f1e-232f-4eb8-9cac-6531b758e62a</webElementGuid>
+      <webElementGuid>0603c9ec-cced-4663-b6e8-dc03ac91d7f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tC is-readonly is-focused</value>
-      <webElementGuid>8ebfd444-b69b-4060-80bd-3f6ccfd39a9c</webElementGuid>
+      <webElementGuid>a875b9a2-2463-4f68-a68b-105cf256c04c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_ctx C161485253291320308_HDR grid_ig_grid_vc_cur</value>
-      <webElementGuid>bf1febe6-89ba-4afa-91ed-7c6ff1645123</webElementGuid>
+      <webElementGuid>f9e7cecd-8f24-4f7e-a3de-bf929eff96b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_cur</value>
-      <webElementGuid>de519439-f5e9-4d27-bc6d-dcc806421fd2</webElementGuid>
+      <webElementGuid>1ac5c6f0-9fa7-4693-a646-84e71ce170da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Responsibility</value>
-      <webElementGuid>a3316b1d-6be6-4a2d-89fa-88e190677acb</webElementGuid>
+      <webElementGuid>de1f1b81-61a2-448e-a251-779375fd3dbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>2e2b84c5-7db6-4c72-9416-7cadd89f7866</webElementGuid>
+      <webElementGuid>7d764ce9-cd0d-44e0-8eb3-c35b0623c294</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Responsibility' or . = 'Responsibility')]</value>
-      <webElementGuid>c0ad4054-0da6-4f1d-b3b4-ce69e347a70d</webElementGuid>
+      <webElementGuid>abe51e08-fd68-4552-aed1-5aeeaaeb6598</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='grid_ig_grid_vc_cur']</value>
-      <webElementGuid>663e2134-478a-446e-86d7-ffc2a73a310d</webElementGuid>
+      <webElementGuid>a933a099-663e-48bb-9f0c-3ea2378c34a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[3]</value>
-      <webElementGuid>c84089e6-9b0c-4827-9bf4-29d8cb29211c</webElementGuid>
+      <webElementGuid>2fcb1dcb-dc77-487a-b95f-50df95d2be74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JP HRMS Manager'])[1]/following::td[1]</value>
-      <webElementGuid>7822c79f-56d4-4f25-a55b-3f472aab3fee</webElementGuid>
+      <webElementGuid>3f0dbb32-ea9a-4948-8392-5298e65adbbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AGUERIN - Anne Guérin'])[1]/following::td[2]</value>
-      <webElementGuid>2f2e4a3c-7569-4214-b54a-df95b8672440</webElementGuid>
+      <webElementGuid>4fede15e-c68b-4f49-931f-b2681b034515</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[4]</value>
-      <webElementGuid>36942db1-f1a2-4f03-bcd8-217f95840f91</webElementGuid>
+      <webElementGuid>aa5a8904-634f-4c1b-8a8a-df0381af6f40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Page rows'])[1]/preceding::td[5]</value>
-      <webElementGuid>dfd674d9-fc39-4a5a-a8c8-b84a704754d7</webElementGuid>
+      <webElementGuid>fe884ac1-b4ac-4a22-a388-5080544b0983</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Responsibility']/parent::*</value>
-      <webElementGuid>23877a36-0a70-4979-9db6-856dbc022294</webElementGuid>
+      <webElementGuid>3118f080-125a-4bd6-a6b9-10be26e0afe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]</value>
-      <webElementGuid>b6c1ffb5-f187-4c51-b18c-47415dfd446d</webElementGuid>
+      <webElementGuid>346ce04a-fd80-441d-bbcb-48ed90a542e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

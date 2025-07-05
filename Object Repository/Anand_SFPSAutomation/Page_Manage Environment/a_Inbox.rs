@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='23044099412869863']/li/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='katadmin'])[1]/preceding::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>14214196-5da4-4aee-ba78-9c9ce0f72ad0</webElementGuid>
+      <webElementGuid>452cfdf8-433e-4ee1-89db-268ea959dda9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--icon t-Button--header t-Button--navBar </value>
-      <webElementGuid>3bacc001-c5f4-4a0e-b8cc-af8c1c0c0661</webElementGuid>
+      <webElementGuid>5e8b0710-ebfa-4982-9725-a9d55bbe62de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1000:1:10695608191800:::::</value>
-      <webElementGuid>8f351c0d-34b1-4d37-8194-8888ee25d2ac</webElementGuid>
+      <webElementGuid>3b657498-a5c6-47ac-aa9e-12eb14c5eb5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1ceea68d-7f27-48ea-b996-17cfb74878d4</webElementGuid>
+      <webElementGuid>408b440f-0639-4c56-a571-3a0081dba845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
     Inbox
       
   </value>
-      <webElementGuid>7787778b-ccfc-49b9-8b4c-1a81ad2fa5a6</webElementGuid>
+      <webElementGuid>786f045d-22b2-4ec2-a0d5-014e6eb76c91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;23044099412869863&quot;)/li[@class=&quot;t-NavigationBar-item 0&quot;]/a[@class=&quot;t-Button t-Button--icon t-Button--header t-Button--navBar&quot;]</value>
-      <webElementGuid>3f3ea267-72a0-47db-80c0-a0679430a277</webElementGuid>
+      <webElementGuid>0bee8b49-ed57-4369-97a7-b8df0e2ec1b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
     Inbox
       
   ')]</value>
-      <webElementGuid>3479f54d-d8b1-427f-9b80-63c2704b6838</webElementGuid>
+      <webElementGuid>91143508-efc9-4958-b4a7-1d57530bc255</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='23044099412869863']/li/a</value>
-      <webElementGuid>9b1aff02-e9ab-4df8-94de-e55719f6a6e9</webElementGuid>
+      <webElementGuid>aed65067-a291-4c57-aaa3-97e2a1559d7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='katadmin'])[1]/preceding::a[1]</value>
-      <webElementGuid>4e623c7e-158b-4dae-84b4-19a82a3a8586</webElementGuid>
+      <webElementGuid>55043c40-2060-4463-90aa-0f77bede6d35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1000:1:10695608191800:::::')]</value>
-      <webElementGuid>21a29e27-a0f4-4f94-ba70-d0925b7e3cb5</webElementGuid>
+      <webElementGuid>2c8363c2-30f2-4450-9389-a97010bdb2fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>34e6cde6-52e1-4b7d-bf3b-81f6536d7512</webElementGuid>
+      <webElementGuid>3ef40ac4-440c-442d-b39c-ba05560c5064</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

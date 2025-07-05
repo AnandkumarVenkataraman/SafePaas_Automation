@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[(text() = 'JP HRMS Manager' or . = 'JP HRMS Manager')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='AGUERIN - Anne Guérin'])[1]/following::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>62de0841-2334-4b02-8e80-3ab4e2c78de0</webElementGuid>
+      <webElementGuid>1eed7e7d-d469-4184-aa61-23e5cf3448cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>715a713a-5662-4dd1-b892-dc51cd1ca8c6</webElementGuid>
+      <webElementGuid>f5c40341-5e7f-4861-9229-01bd065937e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e954c986-d6dc-4026-bd62-49f15f9a6bde</webElementGuid>
+      <webElementGuid>1d99df00-804c-4d27-9ce9-5068e3d08a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-GV-cell u-tC is-readonly is-focused</value>
-      <webElementGuid>26b5cf1b-36d6-48d2-b390-248479886ab1</webElementGuid>
+      <webElementGuid>2bed2231-4a33-41da-9f7c-bfa51058f5dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_ctx C161485184769320307_HDR grid_ig_grid_vc_cur</value>
-      <webElementGuid>8c1209be-5f0f-4536-bcd3-cca0c5819543</webElementGuid>
+      <webElementGuid>04af29e8-4540-408d-ad84-c1e75678221b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>grid_ig_grid_vc_cur</value>
-      <webElementGuid>640c5d4c-27fc-4983-b93a-1992cc66f300</webElementGuid>
+      <webElementGuid>029305e3-5786-4837-90ec-eb153c863455</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>JP HRMS Manager</value>
-      <webElementGuid>ac1b8f55-7afc-40bb-93a5-0f7780f6ff41</webElementGuid>
+      <webElementGuid>6820f46e-cf76-4d04-9f95-8f55c382d4bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>d68d9da9-2183-4f97-9dc5-a5c1a1b245b1</webElementGuid>
+      <webElementGuid>02c40c7b-adf5-4f5a-931a-1b094e2afec9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'JP HRMS Manager' or . = 'JP HRMS Manager')]</value>
-      <webElementGuid>62c89080-5c1f-40dd-b9d1-0871ab8378e0</webElementGuid>
+      <webElementGuid>060e729a-1784-4fbe-a8f3-3205c10983c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='grid_ig_grid_vc_cur']</value>
-      <webElementGuid>5ce406c0-ffb2-43ce-8e8a-0d3886c45905</webElementGuid>
+      <webElementGuid>a337e41a-eee1-4016-9f8c-0e7f00137d28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td[2]</value>
-      <webElementGuid>17753dbe-c068-4cde-bab6-f681ed296fdf</webElementGuid>
+      <webElementGuid>f522e56a-1ca8-4634-9e65-c00692e4bd1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AGUERIN - Anne Guérin'])[1]/following::td[1]</value>
-      <webElementGuid>41b4d414-acc1-458c-9b95-bb3c9e4174ad</webElementGuid>
+      <webElementGuid>4d8255b0-d900-48f7-ab01-24ec557e8fcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[2]/following::td[2]</value>
-      <webElementGuid>4c49abe2-0cf4-4a4e-80ac-5b20c05f023a</webElementGuid>
+      <webElementGuid>9c0d96a6-8d96-41d8-9f5b-14855b620671</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[1]</value>
-      <webElementGuid>9262aa7b-66fa-4ae7-bcf3-894a14fcad15</webElementGuid>
+      <webElementGuid>e92f5f53-07ed-4a9b-a0fb-34cdf517ae16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[5]</value>
-      <webElementGuid>71c6a690-7cd1-4d48-9750-d0b99a386cc8</webElementGuid>
+      <webElementGuid>cd03540e-861c-49c7-b4af-ebbc75309c37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='JP HRMS Manager']/parent::*</value>
-      <webElementGuid>654fb19d-d2d3-4f14-8f3e-9d5780c84572</webElementGuid>
+      <webElementGuid>2556d39d-5e49-4f16-aa13-661d4852a64d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]</value>
-      <webElementGuid>800ed1bd-c192-473b-9b4d-bd22b031d041</webElementGuid>
+      <webElementGuid>1a49f702-7d5c-4c82-8c60-50b1ff17787f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

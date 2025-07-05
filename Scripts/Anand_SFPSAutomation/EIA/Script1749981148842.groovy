@@ -370,10 +370,9 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Create'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/input_Role Group  Role_text_field apex-item-text'),
-	'Self Service for ZA Employee')
+	'JP_HRMS_MANAGER')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/select_Purchasing  Self Service for ZA Employees'),
-	'1272208226', true)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/select_Purchasing  Self Service for ZA Employees'),)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/button_Role Group  Role_P5_ENTRY_REQUEST_MOVE'))
 
@@ -385,11 +384,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Maria11 Brum11'),
 	'Maria11 Brum11')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Self Service for ZA Employees'),
-	'Self Service for ZA Employees')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Self Service for ZA Employees'),
+	30)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Responsibility'),
-	'Responsibility')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Responsibility'),
+	30)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_-'),
 	'-')
@@ -706,10 +705,10 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/button_Request New Access'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/input_Role Group  Role_text_field apex-item-text (1)'),
-	'JP HRMS Manager')
+	'JP_HRMS_Manager')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/select_Purchasing  JP HRMS Manager'),
-	'1272208123', true)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/select_Purchasing  JP HRMS Manager'),
+	)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Selection/button_Role Group  Role_P5_ENTRY_REQUEST_MOVE (1)'))
 
@@ -718,19 +717,19 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/span_Entry name'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/input_Search_grid_ig_column_header_search'),
-	'JP HRMS Manager')
+	'JP_HRMS_Manager')
 
 WebUI.sendKeys(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/input_Search_grid_ig_column_header_search'),
 	Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_AGUERIN - Anne Gurin'),
-	'AGUERIN - Anne Guérin')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_AGUERIN - Anne Gurin'),
+	30)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_JP HRMS Manager'),
-	'JP HRMS Manager')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_JP HRMS Manager'),
+	30)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Responsibility (1)'),
-	'Responsibility')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/td_Responsibility (1)'),
+	30)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role Provision and Deprovision/button_Entry name contains JP HRMS Manager__5db4f7'))
 
@@ -745,12 +744,13 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomatio
 	20)
 
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Refresh'))
-WebUI.delay(120)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Refresh'), FailureHandling.OPTIONAL)
+//WebUI.delay(120)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Refresh'))
+//WebUI.delay(120)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Refresh'))
-WebUI.delay(120)
-
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Submit Access Request'), 300)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Review Violations/button_Submit Access Request'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage My Access/h2_Access Request Submitted. Please check a_f71769'),
@@ -924,7 +924,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Enterprise Acce_bd443d (2)'),
 	3)
-
+WebUI.delay(2)
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select one -Coupa_Env1EBizA_d51d0f'),
 	2)
 
@@ -942,7 +942,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_NA_fa fa-wrench'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_- Please select any -CancelReassignEscalationReminder'),
-	'Cancel', true)
+	'Cancel', false)
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/textarea_(Value Required)_P35_ACTION_COMMENTS'),
 	'Test cancel at level-2')

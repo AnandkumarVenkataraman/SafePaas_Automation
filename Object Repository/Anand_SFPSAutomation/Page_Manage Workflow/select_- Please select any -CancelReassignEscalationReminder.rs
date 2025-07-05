@@ -6,12 +6,12 @@
    <elementGuidId>99c92be3-f796-4b11-9f45-2ad391a26419</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='New Approver'])[1]/preceding::select[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#P35_ACTIONS_AVAILABLE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f3b581bd-a22c-4a9c-89a0-fc9b1cef8c06</webElementGuid>
+      <webElementGuid>4b901c02-35ac-40c1-9846-6858a60e6f2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P35_ACTIONS_AVAILABLE</value>
-      <webElementGuid>9f5144f4-8b80-4baa-abc4-cd0b0f9e26b1</webElementGuid>
+      <webElementGuid>226e9a2d-640c-44ed-a73d-d0f50fa6beb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P35_ACTIONS_AVAILABLE</value>
-      <webElementGuid>38fc5ccf-19c0-44e9-af77-f7501b105158</webElementGuid>
+      <webElementGuid>81163d71-52f4-4ac2-a10d-bed32e7ea881</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>1a611367-fa88-4c54-b703-8572c819a77e</webElementGuid>
+      <webElementGuid>4b425a5c-1426-45b7-aae9-a323992a6e56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bf73674f-00ea-421f-a67a-ec4056a8c002</webElementGuid>
+      <webElementGuid>d4e1910d-1cde-465c-b9cf-e55f30dc9112</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>d156f6c1-a276-44f4-b372-9bd07d1a18f6</webElementGuid>
+      <webElementGuid>489e0791-165c-43ca-b1aa-084674aaf7b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@ Reassign
 Escalation
 Reminder
 </value>
-      <webElementGuid>1d7a88d4-6b3f-4e6e-ae43-399f7ea73dbf</webElementGuid>
+      <webElementGuid>95ea11cb-e266-4b25-8477-d3121ed8b526</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@ Reminder
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P35_ACTIONS_AVAILABLE&quot;)</value>
-      <webElementGuid>eb948b57-00e5-447b-b3a1-fe59375a5ef9</webElementGuid>
+      <webElementGuid>67876ca4-83fe-4730-bfb0-aad0df91b60e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -98,7 +98,7 @@ Reminder
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/iframe (1)</value>
-      <webElementGuid>0a47d5c9-2115-4bc4-838d-2ec0ac957917</webElementGuid>
+      <webElementGuid>2f045995-3c26-463d-ba64-c5054b7f9e9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -116,7 +116,7 @@ Reassign&#xd;
 Escalation&#xd;
 Reminder&#xd;
 ')]</value>
-      <webElementGuid>15182433-527d-4c4b-b17d-a74575a507c1</webElementGuid>
+      <webElementGuid>cc6388ec-0f1c-4d7a-be73-dcac953d8237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@ Reminder&#xd;
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='P35_ACTIONS_AVAILABLE']</value>
-      <webElementGuid>5dce9f26-3248-4526-a027-644b951ec687</webElementGuid>
+      <webElementGuid>6df6ee21-e116-45f3-bb40-2e09f5d4fd93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@ Reminder&#xd;
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P35_ACTIONS_AVAILABLE_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>07260193-617f-447e-8440-fc9abcc43dce</webElementGuid>
+      <webElementGuid>e029c682-a3b1-47c1-87c4-dd374a4c79a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@ Reminder&#xd;
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::select[1]</value>
-      <webElementGuid>884fdc9f-d37f-4b76-8560-f66d78957009</webElementGuid>
+      <webElementGuid>1fef8d60-fdc1-4779-9ad4-a8af481ac98b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@ Reminder&#xd;
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Original Approver'])[1]/preceding::select[1]</value>
-      <webElementGuid>37f9ec90-0e50-4621-9dc1-a9834ead39f2</webElementGuid>
+      <webElementGuid>c97bace7-d42e-4781-a52e-dadf36036ab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@ Reminder&#xd;
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Approver'])[1]/preceding::select[2]</value>
-      <webElementGuid>42f2c0f0-692b-48a9-87fe-00175e7b03b3</webElementGuid>
+      <webElementGuid>f0c85ddd-c98a-4c00-8563-335625fd5737</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,6 +164,6 @@ Reminder&#xd;
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>8d0e0fbf-9f12-4e20-b117-de4c3f9446af</webElementGuid>
+      <webElementGuid>3a7bbfe1-dce4-4516-a4e7-688127d10893</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
