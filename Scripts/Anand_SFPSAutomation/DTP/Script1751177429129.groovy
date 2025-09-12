@@ -1390,3 +1390,334 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation
 
 //WebUI.closeBrowser()
 
+//Object set
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_SFTP File Explorer_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Object Set'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/input_Create_R137674426230792379_search_field'),
+	'EBizApp_JDBC_ObjSet')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/button_Go'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/a_EBizApp_JDBC_ObjSet'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/span_EBS R12.2'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/div_Enterprise Access Monitor'),
+	0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_10'), '10')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Users'), 'Users')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_User_JDBC'),
+	'EBiz_User_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Role'), 'Role')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_LocalRoles_JDBC'),
+	'EBiz_Entry_LocalRoles_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Menu'), 'Menu')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Menu_JDBC'),
+	'EBiz_Entry_Menu_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Grant'), 'Grant')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Grant_JDBC'),
+	'EBiz_Entry_Grant_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Function'), 'Function')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Form_Functions_JDBC'),
+	'EBiz_Entry_Form_Functions_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Concurrent Program'),
+	'Concurrent Program')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Concurrent_Program_JDBC'),
+	'EBiz_Entry_Concurrent_Program_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Responsibility'),
+	'Responsibility')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Responsibility_JDBC'),
+	'EBiz_Entry_Responsibility_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Request Group'),
+	'Request Group')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Request_Group_JDBC'),
+	'EBiz_Entry_Request_Group_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_30'), '30')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Attribute'), 'Attribute')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Attribute_JDBC'),
+	'EBiz_Attribute_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_40'), '40')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_User to Entry'),
+	'User to Entry')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_UserEntry_JDBC'),
+	'EBiz_UserEntry_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_50'), '50')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Entry Hierarchy'),
+	'Entry Hierarchy')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_EntryHierarchy_JDBC'),
+	'EBiz_EntryHierarchy_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_60'), '60')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Entry Attribute'),
+	'Entry Attribute')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_EntryAttribute_JDBC'),
+	'EBiz_EntryAttribute_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_70'), '70')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_User Entry Attribute'),
+	'User Entry Attribute')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_User_Entry_Attribute_JDBC'),
+	'EBiz_User_Entry_Attribute_JDBC')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/button_Cancel'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/button_concat(Row text contains , , EBizApp_af7ab9'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/a_Inbox'))
+
+//Object set
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_SFTP File Explorer_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Object Set'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/input_Create_R137674426230792379_search_field'),
+	'EBizApp_JDBC_ObjSet')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/button_Go'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/a_EBizApp_JDBC_ObjSet'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/span_EBS R12.2'),
+	0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/div_Enterprise Access Monitor'),
+	0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_10'), '10')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Users'), 'Users')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_User_JDBC'),
+	'EBiz_User_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Role'), 'Role')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_LocalRoles_JDBC'),
+	'EBiz_Entry_LocalRoles_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Menu'), 'Menu')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Menu_JDBC'),
+	'EBiz_Entry_Menu_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Grant'), 'Grant')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Grant_JDBC'),
+	'EBiz_Entry_Grant_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Function'), 'Function')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Form_Functions_JDBC'),
+	'EBiz_Entry_Form_Functions_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Concurrent Program'),
+	'Concurrent Program')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Concurrent_Program_JDBC'),
+	'EBiz_Entry_Concurrent_Program_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Responsibility'),
+	'Responsibility')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Responsibility_JDBC'),
+	'EBiz_Entry_Responsibility_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_20'), '20')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Request Group'),
+	'Request Group')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Entry_Request_Group_JDBC'),
+	'EBiz_Entry_Request_Group_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_30'), '30')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Attribute'), 'Attribute')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_Attribute_JDBC'),
+	'EBiz_Attribute_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_40'), '40')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_User to Entry'),
+	'User to Entry')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_UserEntry_JDBC'),
+	'EBiz_UserEntry_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_50'), '50')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Entry Hierarchy'),
+	'Entry Hierarchy')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_EntryHierarchy_JDBC'),
+	'EBiz_EntryHierarchy_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_60'), '60')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_Entry Attribute'),
+	'Entry Attribute')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_EntryAttribute_JDBC'),
+	'EBiz_EntryAttribute_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_70'), '70')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_User Entry Attribute'),
+	'User Entry Attribute')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/td_EBiz_User_Entry_Attribute_JDBC'),
+	'EBiz_User_Entry_Attribute_JDBC')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Objectset/button_Cancel'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/button_concat(Row text contains , , EBizApp_af7ab9'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Object Set/a_Inbox'))
+
+//Snapshot Extract
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Snapshot'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/select_Select any oneAccountsPayableCERP_Ob_d1baf4'),
+	7)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Extract Data'))
+
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_-- Select any one ---- Local File --_84239e'),
+//    3)
+//
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/div_Security'), 0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_KTLNEBS_MonitorPaaS_Vision122_DSSFTP_41615f'),
+	3)
+
+WebUI.rightClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Attribute_JDBC'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Attribute_JDBC'),
+	'EBiz_Attribute_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_EntryAttribute_JDBC'),
+	'EBiz_EntryAttribute_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_EntryHierarchy_JDBC'),
+	'EBiz_EntryHierarchy_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Entry_Concurrent_Program_JDBC'),
+	'EBiz_Entry_Concurrent_Program_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Entry_Form_Functions_JDBC'),
+	'EBiz_Entry_Form_Functions_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Entry_Grant_JDBC'),
+	'EBiz_Entry_Grant_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Entry_LocalRoles_JDBC'),
+	'EBiz_Entry_LocalRoles_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Entry_Menu_JDBC'),
+	'EBiz_Entry_Menu_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Entry_Request_Group_JDBC'),
+	'EBiz_Entry_Request_Group_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_Entry_Responsibility_JDBC'),
+	'EBiz_Entry_Responsibility_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_UserEntry_JDBC'),
+	'EBiz_UserEntry_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_User_Entry_Attribute_JDBC'),
+	'EBiz_User_Entry_Attribute_JDBC')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_EBiz_User_JDBC'), 'EBiz_User_JDBC')
+
+//Enter the Snapshot Extract's job name in the format -> KTLN_DDMMYYYY_HHSS
+//def formatter = new SimpleDateFormat("ddMMyyyy_HHmm")
+//def timestamp = formatter.format(new Date())
+//println("Dynamic timestamp: " + timestamp)
+//def fileName = "KTLN_" + timestamp
+//WebUI.comment(fileName)
+
+//def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
+//def currentDateTime = dateFormat..format(new Date())
+//def fileName = 'DTP_' + currentDateTime
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME'),
+	EBS_08302025_V1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Create'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Snapshot successfully submitted_t-Bu_ba886c'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'),
+	fileName)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go'))
+//Wait for a max. of 1.5 hrs, and verify the Snapshot extract is completed
+
+//Verify the logs

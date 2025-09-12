@@ -29,8 +29,8 @@ TestObject userIDTextbox = findTestObject('Object Repository/Anand_SFPSAutomatio
 TestObject pwdTextbox = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD')
 
 WebUI.setText(companyTextbox, GlobalVariable.companyLogin)
-WebUI.setText(userIDTextbox, GlobalVariable.userIDLogin)
-WebUI.setEncryptedText(pwdTextbox, GlobalVariable.pwdLogin)
+WebUI.setText(userIDTextbox, GlobalVariable.USER_IDLogin)
+WebUI.setEncryptedText(pwdTextbox, GlobalVariable.PWDLogin)
 
 //click on Login, verify the page title
 TestObject loginButton = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login')

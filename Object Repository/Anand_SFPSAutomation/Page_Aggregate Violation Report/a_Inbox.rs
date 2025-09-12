@@ -6,18 +6,12 @@
    <elementGuidId>08594ab8-6d79-4a3d-bff0-84a70265f6df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@href = 'f?p=1000:1:282701339417:::::' and (text() = '
-    Inbox
-      
-  ' or . = '
-    Inbox
-      
-  ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.t-Button.t-Button--icon.t-Button--header.t-Button--navBar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='29085486908535151']/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -35,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>813d6e42-ad35-4397-877a-736e3e6a4cd6</webElementGuid>
+      <webElementGuid>dccfd0a3-7e6c-42be-9b50-44e17e30a336</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--icon t-Button--header t-Button--navBar </value>
-      <webElementGuid>dcb31760-9e73-4f42-aa69-4e9f6952cc6c</webElementGuid>
+      <webElementGuid>7ec5ccf0-bf14-469d-a4e4-235b190dd8d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1000:1:282701339417:::::</value>
-      <webElementGuid>a459e6d0-a40d-49d9-8005-8369de20e07f</webElementGuid>
+      <webElementGuid>4d78be44-cda3-4157-9ce1-9339d980673f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7bc86bde-0fca-4ce4-a65b-257d310fce83</webElementGuid>
+      <webElementGuid>5979f8f8-7ca1-42a9-8ae1-63ba3e260341</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +64,7 @@
     Inbox
       
   </value>
-      <webElementGuid>370bc222-a48b-41d6-a510-b03b48619321</webElementGuid>
+      <webElementGuid>088b62f8-6cbc-4436-92e0-c8c1bde37e85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;29085486908535151&quot;)/li[@class=&quot;t-NavigationBar-item 0&quot;]/a[@class=&quot;t-Button t-Button--icon t-Button--header t-Button--navBar&quot;]</value>
-      <webElementGuid>71d13473-6071-45ba-b968-652275c107fe</webElementGuid>
+      <webElementGuid>5e63bd83-23dc-4919-affb-e4be101c4164</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +86,7 @@
     Inbox
       
   ')]</value>
-      <webElementGuid>4fec0601-a504-475b-850f-79dccf8a7b29</webElementGuid>
+      <webElementGuid>210a10ff-6ed9-4402-b4f2-037887553ab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='29085486908535151']/li/a</value>
-      <webElementGuid>5bd254f2-67de-46d4-a0b3-cc2aa45171ef</webElementGuid>
+      <webElementGuid>976c7889-5f59-4233-8a09-100f5262fd3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='katadmin'])[1]/preceding::a[1]</value>
-      <webElementGuid>33e883c7-513e-4047-bd8b-872577dad59d</webElementGuid>
+      <webElementGuid>2e690f47-0950-40dd-8f5d-d9ca66e91611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1000:1:282701339417:::::')]</value>
-      <webElementGuid>c53ca78a-e75d-467b-8598-dfd8480eae5c</webElementGuid>
+      <webElementGuid>31d5451b-3a04-4842-beff-707b7ec603a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +118,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>8f6a05f7-0fe8-430c-ae6e-5b0345c9a9c4</webElementGuid>
+      <webElementGuid>d5c8a344-c727-423e-ac3b-7b5d20a7cb36</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

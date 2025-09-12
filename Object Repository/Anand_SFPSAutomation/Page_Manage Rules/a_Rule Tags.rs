@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_AGUERIN - Anne Gurin</name>
+   <name>a_Rule Tags</name>
    <tag></tag>
-   <elementGuidId>4fa0a860-282e-4b6e-a023-1bf80c9bba87</elementGuidId>
+   <elementGuidId>58f88bde-6743-4c99-8625-ab3360366067</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#grid_ig_grid_vc_cur</value>
+         <key>XPATH</key>
+         <value>//a[@href = '#' and (text() = 'Rule Tags' or . = 'Rule Tags')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='JP HRMS Manager'])[1]/preceding::td[1]</value>
+         <key>CSS</key>
+         <value>#C173115810551329502 > a.a-IRR-headerLink</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Row 1, Column 1.&quot;i</value>
+         <value>internal:role=link[name=&quot;Rule Tags&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,135 +28,127 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>145740e8-a754-43a4-8255-304758b9c2d0</webElementGuid>
+      <value>a</value>
+      <webElementGuid>cf387951-ce38-4903-9627-86d497557086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>aria-haspopup</name>
       <type>Main</type>
-      <value>gridcell</value>
-      <webElementGuid>d23cda06-fdf3-486c-b827-5ba8587fbb54</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>d0885ba9-0e66-452e-b8a5-cff47fe5bc49</webElementGuid>
+      <value>dialog</value>
+      <webElementGuid>c8347c48-585f-40cd-8665-023fc199d17b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-GV-cell u-tC is-readonly is-focused</value>
-      <webElementGuid>68030b3f-3a42-40c4-9da8-059e0de0b09c</webElementGuid>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>419dfbfd-5330-4c15-82e4-33b077e152fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-labelledby</name>
+      <name>data-column</name>
       <type>Main</type>
-      <value>grid_ig_grid_vc_ctx C161485034837320305_HDR grid_ig_grid_vc_cur</value>
-      <webElementGuid>0d2ef44e-9143-462a-9103-59f78eb470b9</webElementGuid>
+      <value>173115810551329502</value>
+      <webElementGuid>68cd5497-1e20-40a1-8a35-910859ebfbbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>grid_ig_grid_vc_cur</value>
-      <webElementGuid>00856492-395f-4a0f-bbdc-986d1859fba7</webElementGuid>
+      <value>#</value>
+      <webElementGuid>7cae046e-4bb9-4b6d-9c78-f781f1938966</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>AGUERIN - Anne Guérin</value>
-      <webElementGuid>d7c50ce5-3ebf-4703-aa93-41f58ab6c9c4</webElementGuid>
+      <value>Rule Tags</value>
+      <webElementGuid>65b33c95-6939-45a9-b655-9238c2f86c56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;grid_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>638ddcab-a4f1-4f0a-9210-652584906e9e</webElementGuid>
+      <value>id(&quot;C173115810551329502&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>73713c9b-c849-4e88-81ba-dc6eaddb1d53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = 'AGUERIN - Anne Guérin' or . = 'AGUERIN - Anne Guérin')]</value>
-      <webElementGuid>74b4c090-fd5c-433a-8935-4b682e8df048</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//td[@id='grid_ig_grid_vc_cur']</value>
-      <webElementGuid>3386efc7-3fda-4fa5-b32b-86eeb6930199</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Rule Tags' or . = 'Rule Tags')]</value>
+      <webElementGuid>9ae65c57-9594-4ae1-b36e-557271e41c08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='grid_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td</value>
-      <webElementGuid>77bd0be7-cf78-4a15-bd0e-35d86b6524a5</webElementGuid>
+      <value>//th[@id='C173115810551329502']/a</value>
+      <webElementGuid>4ba9139b-77ab-4fa0-8774-cec09f7e3e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Rule Tags')]</value>
+      <webElementGuid>da4310e9-3a4a-43f5-a25e-c34437eb7352</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[2]/following::td[1]</value>
-      <webElementGuid>b950d92c-8bde-4832-b111-61146717bd58</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Status'])[1]/following::a[17]</value>
+      <webElementGuid>6d3c2154-f3ef-43f0-8ccc-6ba3a41c64dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start date'])[2]/following::td[1]</value>
-      <webElementGuid>26de3a71-d713-4895-b178-0f191370e3e9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP_Rule4'])[1]/preceding::a[1]</value>
+      <webElementGuid>6042a2bf-f8da-4d80-90f9-d7b4332ee83f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JP HRMS Manager'])[1]/preceding::td[1]</value>
-      <webElementGuid>43ebb260-d8c3-485d-8db2-692a56c42fd0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP_Rule4'])[2]/preceding::a[2]</value>
+      <webElementGuid>8f2d0231-d60c-403e-8546-7bf30988023c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[2]</value>
-      <webElementGuid>e4dea7d8-ef57-4e61-ac5b-00aa7a8fd612</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Rule Tags']/parent::*</value>
+      <webElementGuid>5d5ab61f-67be-4aeb-9a66-e7e565957f98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='AGUERIN - Anne Guérin']/parent::*</value>
-      <webElementGuid>8897775a-787e-4b19-86d3-ee8404c8f920</webElementGuid>
+      <value>(//a[contains(@href, '#')])[19]</value>
+      <webElementGuid>ee15bb05-5592-4234-ace8-1d731353a693</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td</value>
-      <webElementGuid>27947bbe-5062-4958-bbdd-2488fb179236</webElementGuid>
+      <value>//th[17]/a</value>
+      <webElementGuid>c2a175a1-4db1-4778-a2b4-43f2536b15ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

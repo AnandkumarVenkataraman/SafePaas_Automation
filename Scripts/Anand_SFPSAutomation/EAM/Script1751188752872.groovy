@@ -397,9 +397,9 @@ WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SOD Review Configuration/a_Inbox (1)'))
 
 //SOD Test
-WebUI.openBrowser('')
+////WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+//WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (12)'))
 
@@ -723,3 +723,4 @@ WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregat
 
 //WebUI.closeBrowser()
 
+//EBS

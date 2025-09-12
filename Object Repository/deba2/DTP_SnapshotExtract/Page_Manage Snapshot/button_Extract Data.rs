@@ -11,10 +11,11 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'B135207553892711001' and (text() = 'Extract Data' or . = 'Extract Data')]</value>
+         <value>//div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2b557928-b1fd-488d-90f0-4b267166e5ec</webElementGuid>
+      <webElementGuid>f4ee314e-42a2-464d-8f88-b25d99f41bf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>apex.navigation.redirect('f?p=1001:30:2587658533008:::RP,30:P30_COMPONENT,P30_OBJECT_ID,P30_READONLY,P30_REDIRECT_APP,P30_REDIRECT_PAGE:ES,5359,Y,1120,19');</value>
-      <webElementGuid>bd021345-1ae7-45d4-a6ff-604fc12ea4d7</webElementGuid>
+      <webElementGuid>177e1d1b-088f-49ec-9749-ff34658fa058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button </value>
-      <webElementGuid>afb2823b-c98a-443e-bff7-34852d74af19</webElementGuid>
+      <webElementGuid>e8ad2bde-4bdf-4d96-97a3-2dfa5b7d03fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4f858557-969a-48cf-8148-667685f54a12</webElementGuid>
+      <webElementGuid>ea5247e8-78e1-4cea-932c-9a8f0d47a79e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>B135207553892711001</value>
-      <webElementGuid>88d3b871-09e5-4f4b-b5cf-9b0cc4ad8d3b</webElementGuid>
+      <webElementGuid>10735130-7e9c-4f2d-ab25-de463cf56073</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Extract Data</value>
-      <webElementGuid>ecd63253-fa6c-4aa8-9dcd-ffa0532493db</webElementGuid>
+      <webElementGuid>4eb3d292-8bd0-487f-b770-1d845ae9fe03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;B135207553892711001&quot;)</value>
-      <webElementGuid>2a6519df-12b6-4d57-9dab-d507eb9c6c6f</webElementGuid>
+      <webElementGuid>da697b7b-a6b2-4991-bab7-f5e6f3eccea6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='B135207553892711001']</value>
-      <webElementGuid>5e448e5d-8dcd-406c-858b-be67cae8f8ae</webElementGuid>
+      <webElementGuid>2fce0f20-9fa7-4fe8-8755-92648a2614a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mngSnap']/div/div[2]/button</value>
-      <webElementGuid>f8c5fe54-7761-4e4b-a419-0f072c20be61</webElementGuid>
+      <webElementGuid>9e8ef873-bad9-48d9-aa0d-66824a697c19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>d9bcf125-c19a-43dc-b693-d6605e12b169</webElementGuid>
+      <webElementGuid>dbef8ae0-e11a-43ec-989d-fa44c0c99061</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'B135207553892711001' and (text() = 'Extract Data' or . = 'Extract Data')]</value>
-      <webElementGuid>e536da13-232d-44e7-baa7-7ab7f6913b76</webElementGuid>
+      <webElementGuid>61551970-2126-400e-99c7-8a4dfbce9676</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

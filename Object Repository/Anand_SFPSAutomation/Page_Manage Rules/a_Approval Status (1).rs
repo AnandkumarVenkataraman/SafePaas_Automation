@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_AGUERIN - Anne Gurin</name>
+   <name>a_Approval Status (1)</name>
    <tag></tag>
-   <elementGuidId>4fa0a860-282e-4b6e-a023-1bf80c9bba87</elementGuidId>
+   <elementGuidId>0139a55e-5ee2-464e-ab8e-e47c02905cb7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#grid_ig_grid_vc_cur</value>
+         <key>XPATH</key>
+         <value>//a[@href = '#' and (text() = 'Approval Status' or . = 'Approval Status')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='JP HRMS Manager'])[1]/preceding::td[1]</value>
+         <key>CSS</key>
+         <value>#APPROVAL_STATUS > a.a-IRR-headerLink</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Row 1, Column 1.&quot;i</value>
+         <value>internal:role=link[name=&quot;Approval Status&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,135 +28,135 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>145740e8-a754-43a4-8255-304758b9c2d0</webElementGuid>
+      <value>a</value>
+      <webElementGuid>ea487e77-9808-420f-a3ba-4d135de36a5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>aria-haspopup</name>
       <type>Main</type>
-      <value>gridcell</value>
-      <webElementGuid>d23cda06-fdf3-486c-b827-5ba8587fbb54</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>d0885ba9-0e66-452e-b8a5-cff47fe5bc49</webElementGuid>
+      <value>dialog</value>
+      <webElementGuid>1a1a7ac8-df61-45a1-8200-1ea9fade48af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-GV-cell u-tC is-readonly is-focused</value>
-      <webElementGuid>68030b3f-3a42-40c4-9da8-059e0de0b09c</webElementGuid>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>5deb9dc0-8615-4c28-845b-87ae40f22ae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-labelledby</name>
+      <name>data-column</name>
       <type>Main</type>
-      <value>grid_ig_grid_vc_ctx C161485034837320305_HDR grid_ig_grid_vc_cur</value>
-      <webElementGuid>0d2ef44e-9143-462a-9103-59f78eb470b9</webElementGuid>
+      <value>247794814295899128</value>
+      <webElementGuid>f1a93d3c-c73b-45b7-a123-ca7519140f46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>grid_ig_grid_vc_cur</value>
-      <webElementGuid>00856492-395f-4a0f-bbdc-986d1859fba7</webElementGuid>
+      <value>#</value>
+      <webElementGuid>b2992e5b-0a51-4129-8410-eb15d99f2f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>AGUERIN - Anne Guérin</value>
-      <webElementGuid>d7c50ce5-3ebf-4703-aa93-41f58ab6c9c4</webElementGuid>
+      <value>Approval Status</value>
+      <webElementGuid>98ddb4c2-0f0f-487a-a213-1b199366ed24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;grid_ig_grid_vc_cur&quot;)</value>
-      <webElementGuid>638ddcab-a4f1-4f0a-9210-652584906e9e</webElementGuid>
+      <value>id(&quot;APPROVAL_STATUS&quot;)/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>69ea2871-bb24-4e0b-8feb-6a4274979f2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = 'AGUERIN - Anne Guérin' or . = 'AGUERIN - Anne Guérin')]</value>
-      <webElementGuid>74b4c090-fd5c-433a-8935-4b682e8df048</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//td[@id='grid_ig_grid_vc_cur']</value>
-      <webElementGuid>3386efc7-3fda-4fa5-b32b-86eeb6930199</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Approval Status' or . = 'Approval Status')]</value>
+      <webElementGuid>2f10bd7a-c2a2-4204-92b9-c1f0dc9484d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='grid_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/td</value>
-      <webElementGuid>77bd0be7-cf78-4a15-bd0e-35d86b6524a5</webElementGuid>
+      <value>//th[@id='APPROVAL_STATUS']/a</value>
+      <webElementGuid>1f4ff63c-3389-4c1f-b466-1694182fc69f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Approval Status')]</value>
+      <webElementGuid>a859f0af-d332-4d4b-b8d9-f82aba0a6202</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[2]/following::td[1]</value>
-      <webElementGuid>b950d92c-8bde-4832-b111-61146717bd58</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/following::a[7]</value>
+      <webElementGuid>ba66bd28-447f-465d-834e-10a03e89d8b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start date'])[2]/following::td[1]</value>
-      <webElementGuid>26de3a71-d713-4895-b178-0f191370e3e9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::a[7]</value>
+      <webElementGuid>8b964408-0266-44a0-ac2a-94ab23231d73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JP HRMS Manager'])[1]/preceding::td[1]</value>
-      <webElementGuid>43ebb260-d8c3-485d-8db2-692a56c42fd0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP_Rule4'])[1]/preceding::a[11]</value>
+      <webElementGuid>a3e3de65-3b68-4626-a037-796f320ab446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[2]</value>
-      <webElementGuid>e4dea7d8-ef57-4e61-ac5b-00aa7a8fd612</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP_Rule4'])[2]/preceding::a[12]</value>
+      <webElementGuid>b72779a3-3c22-413f-95e7-d774fa4db492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='AGUERIN - Anne Guérin']/parent::*</value>
-      <webElementGuid>8897775a-787e-4b19-86d3-ee8404c8f920</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Approval Status']/parent::*</value>
+      <webElementGuid>8e905731-81e9-4d25-91f0-ff7f64a6640e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>b50575d3-4eab-4597-a0e3-6e6fcd0bab86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td</value>
-      <webElementGuid>27947bbe-5062-4958-bbdd-2488fb179236</webElementGuid>
+      <value>//th[7]/a</value>
+      <webElementGuid>3591b2eb-c49a-492d-aceb-4231c9840111</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

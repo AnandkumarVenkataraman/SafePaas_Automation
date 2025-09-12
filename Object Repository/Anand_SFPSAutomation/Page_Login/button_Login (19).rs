@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Refresh (1)</name>
+   <name>button_Login (19)</name>
    <tag></tag>
-   <elementGuidId>9f3ab662-783d-447e-96d3-f9727bb3714e</elementGuidId>
+   <elementGuidId>cc696785-4d8c-48ee-b890-3c963f2a15cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#B162772706518928170</value>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Login' or . = 'Login')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Refresh' or . = 'Refresh')]</value>
+         <key>CSS</key>
+         <value>#loginBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Refresh&quot;i]</value>
+         <value>internal:role=button[name=&quot;Login&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6db3f6ad-e817-4f57-8636-802aad9d3807</webElementGuid>
+      <webElementGuid>8dbd9e3b-4876-48e1-8de4-1296dfb092c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>apex.submit({request:'REFRESH',validate:true});</value>
-      <webElementGuid>de50916e-9dec-48ed-995f-e936bb43fdc6</webElementGuid>
+      <value>normalLogin();</value>
+      <webElementGuid>da161145-6a58-4f17-ab3b-33b96da0c2d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button </value>
-      <webElementGuid>8b615e78-dc6b-44b1-a332-13bc18826134</webElementGuid>
+      <value>t-Button v-btn-logins</value>
+      <webElementGuid>f43faebe-15bd-4871-9122-976051cf7a34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,86 +53,86 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2288bb9c-42e1-4687-b2de-e30c2238b1df</webElementGuid>
+      <webElementGuid>22ab42b0-ef5e-4846-9c93-acead38824fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>B162772706518928170</value>
-      <webElementGuid>ee838a2e-2dec-46c7-9bfc-993b9bd7ef7c</webElementGuid>
+      <value>loginBtn</value>
+      <webElementGuid>872ef9bd-fc85-47bb-9f41-4b5f2af1ced9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Refresh</value>
-      <webElementGuid>86f37a4d-fa84-4e2a-ba7e-555c1303e7fd</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>5bc7d741-97e8-4372-9b34-8c9d7433b73d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;B162772706518928170&quot;)</value>
-      <webElementGuid>cdce5b2e-174b-4663-ba64-9b802232afe6</webElementGuid>
+      <value>id(&quot;loginBtn&quot;)</value>
+      <webElementGuid>c8e9d54e-ac2d-4a4e-be0b-9229319bb0d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Refresh' or . = 'Refresh')]</value>
-      <webElementGuid>3f5a23d3-9881-417b-8829-d365f766e2bc</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>f1146355-09fb-47c4-b819-6f1935d2eb5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='B162772706518928170']</value>
-      <webElementGuid>fbdf9fe7-b004-48e1-9651-9c11cbab614e</webElementGuid>
+      <value>//button[@id='loginBtn']</value>
+      <webElementGuid>0f8dbdc6-6e73-476a-a972-bcea2c6a8029</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='R162772252661928166']/div/div[2]/button</value>
-      <webElementGuid>1a4549c8-5b7a-4550-bf9d-1c87bfcfa38f</webElementGuid>
+      <value>//div[@id='R400296469189235574']/div/table/tbody/tr/td/button</value>
+      <webElementGuid>b6ecb501-4bff-4ecd-9445-c1994d9c9f40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 4 of 4 - Violations Review'])[1]/following::button[1]</value>
-      <webElementGuid>2589de71-131d-494b-9ad3-f2cd5d7f48f5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::button[1]</value>
+      <webElementGuid>98cbea92-12c2-496e-bd2f-0e3b5c875e55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBizApp_JDBC_Env'])[1]/following::button[1]</value>
-      <webElementGuid>2aa68051-fc6f-46c4-bdc9-be4c21c2f256</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caps lock is ON'])[1]/following::button[1]</value>
+      <webElementGuid>e8fddb38-9853-4bb1-a869-2e32dcff77f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::button[2]</value>
-      <webElementGuid>2f76bff4-80b4-468d-88c4-b29cc1e4edc0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Registration'])[1]/preceding::button[1]</value>
+      <webElementGuid>c48b90eb-0746-41a6-95d8-09b0be2fac38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>f534bae0-4645-4d26-aa54-e783b2650b1d</webElementGuid>
+      <value>//td/button</value>
+      <webElementGuid>e74ba596-9edd-46c6-89b6-aa999d721dcb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SafePaaS_logo</name>
+   <tag></tag>
+   <elementGuidId>27709f55-bdab-4046-99dc-822003c50e07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P101_LOGO_LEFT_CONTAINER']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.t-Form-itemWrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#P101_LOGO_LEFT_CONTAINER div >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5f5b9b9-b023-48e2-a42d-7cbdf1135595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Form-itemWrapper</value>
+      <webElementGuid>d0e88c21-e6a4-480a-8cda-b60c85db0a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P101_LOGO_LEFT_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-null&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]</value>
+      <webElementGuid>8e118a81-8ddf-4c57-be56-c2e05968dae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P101_LOGO_LEFT_CONTAINER']/div[2]/div</value>
+      <webElementGuid>58ac84c1-066f-4f25-b14a-35f932fb5d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo left'])[1]/following::div[2]</value>
+      <webElementGuid>0638aa62-823e-4cb8-9b8e-24c49f02800c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::div[1]</value>
+      <webElementGuid>9524a70f-49d3-45e6-b4d8-cd2d7f9aaaa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo left'])[2]/preceding::div[5]</value>
+      <webElementGuid>65238d98-f662-441e-a91c-cd7640ba7c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>674715e5-0c5d-41ea-bb17-38d8c6e54f17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

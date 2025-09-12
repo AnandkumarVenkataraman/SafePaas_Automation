@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM_EBS</description>
+   <name>SFP_1021 - Add SOD Test submission from the Scheduler</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40b0144e-729a-4339-abd6-46f1b9f4a6d7</testCaseGuid>
+</TestCaseEntity>

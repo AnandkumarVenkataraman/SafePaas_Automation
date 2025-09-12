@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Last 30 daysLast 60 daysLast 90 days_5f1203</name>
+   <name>button_concat(Rule Tags contains , , sftp, _127162</name>
    <tag></tag>
-   <elementGuidId>4dab2a69-39e3-46ad-9b67-5bc4236a7af4</elementGuidId>
+   <elementGuidId>e23cb894-5576-4461-8c7b-77eebfd8d868</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P29_JOB_TIME']</value>
+         <value>//button[@title = 'Remove Filter' and @type = 'button']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#P29_JOB_TIME</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Job Time&quot;i</value>
+         <value>internal:label=&quot;Rule Tags contains 'sftp'&quot;i >> internal:label=&quot;Remove Filter&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,142 +28,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
-      <webElementGuid>9f65a429-5677-428c-add3-ede0a47a6293</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>P29_JOB_TIME</value>
-      <webElementGuid>dacf0a8f-4987-49ae-af39-89d63d9cc786</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>P29_JOB_TIME</value>
-      <webElementGuid>ccc9c1bc-b3c1-4bdc-af03-7402b9a4547a</webElementGuid>
+      <value>button</value>
+      <webElementGuid>ee9bf3e2-74b8-45f2-b716-f22c883f7022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>selectlist apex-item-select</value>
-      <webElementGuid>3c223db9-fb85-4475-ad8c-32140876f14d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-native-menu</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>f27de572-cd2c-46ab-82e5-62b97bbd4e5a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>size</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>e78ce878-14bb-482b-9a07-eba20c4e3d20</webElementGuid>
+      <value>a-Button a-IRR-button a-Button--noUI a-IRR-button--remove</value>
+      <webElementGuid>656411ed-fcd3-45e8-b49d-27bcce8737ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>title</name>
       <type>Main</type>
-      <value>Last 30 days
-Last 60 days
-Last 90 days
-Last 180 days
-Last 365 days
-</value>
-      <webElementGuid>2f0b1828-9d76-44fe-a69a-0ba87f2147bf</webElementGuid>
+      <value>Remove Filter</value>
+      <webElementGuid>dc438775-835c-4634-aa39-0691a3625d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Remove Filter</value>
+      <webElementGuid>7450704b-01fe-436c-885a-698b1f019de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4f7f97d-c8f4-4c20-9631-9a0d5f572ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-setting</name>
+      <type>Main</type>
+      <value>filter</value>
+      <webElementGuid>051909a6-9704-4835-be32-86f43ee5a8ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-filter-id</name>
+      <type>Main</type>
+      <value>676383938828407731</value>
+      <webElementGuid>b65c5875-8a52-4073-9387-b0c7ff414125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P29_JOB_TIME&quot;)</value>
-      <webElementGuid>5db6e084-7105-4824-8378-99e24eb1e741</webElementGuid>
+      <value>id(&quot;a_Collapsible1_R247793226539899118_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--filter&quot;]/span[@class=&quot;a-IRR-controls-cell a-IRR-controls-cell--remove&quot;]/button[@class=&quot;a-Button a-IRR-button a-Button--noUI a-IRR-button--remove&quot;]</value>
+      <webElementGuid>887b623b-3f5e-4600-8f06-2fd4ffa3b8f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@name = 'P29_JOB_TIME' and (text() = 'Last 30 days
-Last 60 days
-Last 90 days
-Last 180 days
-Last 365 days
-' or . = 'Last 30 days
-Last 60 days
-Last 90 days
-Last 180 days
-Last 365 days
-')]</value>
-      <webElementGuid>a4a7f217-1789-4f45-90b0-748684a29112</webElementGuid>
+      <value>//button[@title = 'Remove Filter' and @type = 'button']</value>
+      <webElementGuid>f54d5699-95dc-4464-978c-d0376cecb2fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P29_JOB_TIME']</value>
-      <webElementGuid>d9cdad68-885f-4f69-be8c-72432071d36b</webElementGuid>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>49f2f458-023f-4c63-945e-030adc6800c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P29_JOB_TIME_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>58320476-38e8-476b-838d-23542b0f1636</webElementGuid>
+      <value>//div[@id='a_Collapsible1_R247793226539899118_control_panel_content']/ul/li[2]/span[4]/button</value>
+      <webElementGuid>6b14bc73-ffab-4aad-bc14-b2c93540f61d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Time'])[1]/following::select[1]</value>
-      <webElementGuid>eb2c8a77-1091-4776-85cf-a32e19c8b096</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::button[1]</value>
+      <webElementGuid>52ddd621-4018-477a-8d1b-67fc09a1fe93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::select[1]</value>
-      <webElementGuid>fc2bc274-fb71-456d-8c72-8683148e0546</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Status, Rule Tags'])[1]/preceding::button[1]</value>
+      <webElementGuid>6bca9445-39f7-4a12-900b-590e302bdbde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
-      <webElementGuid>e3dfcf85-a1d0-4dc5-84eb-2be36e26c70d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[3]/preceding::select[1]</value>
-      <webElementGuid>bcfca2f4-dee0-4ab3-9124-58e9e8843714</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP_Rule4'])[1]/preceding::button[1]</value>
+      <webElementGuid>57bdca8d-e9c1-4c81-b73d-4a9db649dfc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>1c20c3e3-314a-4863-b716-cc54979bf372</webElementGuid>
+      <value>//li[2]/span[4]/button</value>
+      <webElementGuid>0dc20270-8093-4a8e-8594-205674fba290</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
