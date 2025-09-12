@@ -267,6 +267,15 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 //Platform
 WebUI.delay(2)
 
+WebUI.click(findTestObject('Object Repository/Page_Manage Security Position/a_Inbox'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (5)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home/span_Company Settings_a-TreeView-toggle'))
+
+//WebUI.click(findTestObject('Object Repository/Page_Manage Security Position/div_Security Positions    Submit           _2b4ddf'))
+
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/a_Scheduler'))
 
 WebUI.delay(10)
@@ -337,7 +346,13 @@ WebUI.takeScreenshot()
 WebUI.delay(2)
 
 //Security
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Release Update/span_Release Update_a-TreeView-toggle'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Release Update/span_Release Update_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Page_Release Update/a_Inbox'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (6)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home/span_Platform_a-TreeView-toggle'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Release Update/a_Manage Roles'))
 
