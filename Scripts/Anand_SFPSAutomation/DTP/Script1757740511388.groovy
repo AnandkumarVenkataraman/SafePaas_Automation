@@ -31,6 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P1
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (6)'))
 
+//Datasource
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (4)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (4)'))
@@ -69,6 +70,29 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data So
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Active contains , , Yes, , )__d41043'), FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Active contains , , Yes, , )__d41043'), FailureHandling.OPTIONAL)
+
+//Manage Objects
+//Attribute
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_Manage Object (2)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Objects/select_- All -MonitorPaaSEnterprise Access _717d25'),
+	2)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (1)'),
+	'EBiz_Attribute_JDBC')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_Go (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Attribute_JDBC'))
+WebUI.delay(1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (1)'))
+WebUI.delay(1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , EBiz_At_3448eb'), FailureHandling.OPTIONAL)
 
 //WebUI.closeBrowser()
 
