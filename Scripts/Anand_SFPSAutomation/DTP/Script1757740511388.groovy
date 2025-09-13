@@ -441,10 +441,39 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_Inbox_
 
 //Synchronization
 
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Setup_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_Environment_P100_ENVIRONMENT'),
+	2)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Data Source/input_Create_R119140564844328612_search_field (3)'),
+	'EBiz_JDBC_DS')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Create_R119140564844328612_search_button'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/input_Run script_f01 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Manage Data Source_B117273309101097005'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Data Source/h2_Breadcrumb_t-Alert-title'), 'Synchronization processing in the background.', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Data Source/span'), 'Running', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Synchronization processing in the ba_b153f5'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Row text contains , , EBiz_JD_36edac (1)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_Environment_P100_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
 //Security
 
-//Login as user with Function-read access
-//and verify that Extract Data button is not available
 
 //WebUI.closeBrowser()
 
