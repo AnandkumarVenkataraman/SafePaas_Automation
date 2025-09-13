@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>DTP</description>
-   <name>DTP</name>
+   <description>DataProbe</description>
+   <name>DTP - Copy</name>
    <tag>DTP</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3f375fd7-4b56-4d90-9a1e-896d204e40de</testCaseGuid>
+   <testCaseGuid>f8a6a7a4-bf35-4fd2-bf84-e6d4b34c2827</testCaseGuid>
 </TestCaseEntity>

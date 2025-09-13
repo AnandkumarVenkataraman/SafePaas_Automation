@@ -16,21 +16,23 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (18)'), 'KAT')
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Spring 2025_P101_COMPANY (2)'), 'KAT')
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (18)'), 
-    'KATADMIN')
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (2)'), 'KATADMIN')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (18)'), 
-    'Ioqy8emDrxi5mkiNQATzxQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (2)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (17)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (2)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (6)'))
 

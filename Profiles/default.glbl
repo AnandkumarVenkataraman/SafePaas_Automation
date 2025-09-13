@@ -8,195 +8,234 @@
       <description>KTLN_SODTest_Mar28_V3</description>
       <initValue>'KTLN_SODTest_Mar28_V3'</initValue>
       <name>SOD_Test</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>JustificationRole_Mar28_V1</description>
       <initValue>'JustificationRole_Mar28_V1'</initValue>
       <name>Justification_Role_Local</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>JustificationPrivilege_Mar28_V1</description>
       <initValue>'JustificationPrivilege_Mar28_V1'</initValue>
       <name>Justification_Privilege_Global</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>AllUsersViolation_Mar28_V1</description>
       <initValue>'AllUsersViolation_Mar28_V1'</initValue>
       <name>Justification_AllUsersViolation</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Selected_Mar28_V1</description>
       <initValue>'Selected_Mar28_V1'</initValue>
       <name>Justification_Selected</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>AllUsersRoleViolation_Mar28_V1</description>
       <initValue>'AllUsersRoleViolation_Mar28_V1'</initValue>
       <name>Justification_AllUsersRoleViolation</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_SODTest_Mar28_v1</description>
       <initValue>'KTLN_SODTest_Mar28_v1'</initValue>
       <name>SOD_Testnew</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_SODReview_Mar28_V1</description>
       <initValue>'KTLN_SODReview_Mar28_V1'</initValue>
       <name>SODSurveyName_ViolationLevel</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar28_V1</description>
       <initValue>'KTLN Test Justification for SOD Review_Violation Level- KTLN_SODReview_Mar28_V1'</initValue>
       <name>Justification_ViolationLevel</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_SODReview_Mar28_V2</description>
       <initValue>'KTLN_SODReview_Mar28_V2'</initValue>
       <name>SODSurveyName_AggregatedLevel</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Mar28_V1</description>
       <initValue>'KTLN Test Justification for SOD Review_Aggregated Level- KTLN_SODReview_Mar28_V1'</initValue>
       <name>Justification_AggregatedLevel</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_RulesReview_DEV22_Mar28_V1</description>
       <initValue>'KTLN_RulesReview_DEV22_Mar28_V1'</initValue>
       <name>RulesReviewName</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Maintain Customer Master vs. Maintain Supplier Master_Mar28_V1</description>
       <initValue>'Maintain Customer Master vs. Maintain Supplier Master_Mar28_V1'</initValue>
       <name>AddRule_Name</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLNAutomation_ImportFile_Oct25_Maintain Customer Master vs. Maintain Supplier Master_Mar28_V1</description>
       <initValue>'KTLNAutomation_ImportFile_Mar28_Maintain Customer Master vs. Maintain Supplier Master_Oct25_V1'</initValue>
       <name>ImportRule_Name</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V1_2</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V1_2'</initValue>
       <name>EACM_SurveyName_Verified</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V2</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V2'</initValue>
       <name>EACM_SurveyName_TerminateAccess</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V3</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V3'</initValue>
       <name>EACM_SurveyName_AutomaticPOST</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V4</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V4'</initValue>
       <name>EACM_Schedule_SurveyName</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V5</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V5'</initValue>
       <name>EACM_SendReminder_Survey</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V6</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V6'</initValue>
       <name>EACM_Delegation</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V7</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V7'</initValue>
       <name>EACM_SurveyName_ManageWorkflow</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_ARLimit_Mar10_V1</description>
       <initValue>'KTLN_ARLimit_Mar10_V1'</initValue>
       <name>MTP_EBS_SSName</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>STP_FCPM_Dec9_V1</description>
       <initValue>'STP_FCPM_Dec26_V1'</initValue>
       <name>MTP_CloudERP_SSName</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Test reassignment-Dec26_V1</description>
       <initValue>'Test reassignment-Dec26_V1'</initValue>
       <name>ReassignRequestor_Comment</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Test ticket #Dec26_V1</description>
       <initValue>'Test ticket #Dec26_V1'</initValue>
       <name>ReassignRequestor_Ticketno</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Test Justification # Dec26_V1</description>
       <initValue>'Test Justification # Dec26_V1'</initValue>
       <name>ReassignRequestor_Justification</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>CloudERP_SS_Jan31_V1</description>
       <initValue>'CloudERP_SS_Jan31_V1'</initValue>
       <name>DTP_CloudERP_SSName</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>JDBC_Extract_Apr11_v1</description>
       <initValue>'JDBC_Extract_Apr11_v1'</initValue>
       <name>DTP_JDBC_SSName</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>SODTest_CrossApp_Mar28_v2</description>
       <initValue>'SODTest_CrossApp_Mar28_v2'</initValue>
       <name>SOD_CrossApp</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_Survey_Apr19_V1</description>
       <initValue>'KTLN_EACM_Survey_Apr19_V1'</initValue>
       <name>EACM_InitiateSurvey_Reassignment</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>TRIRIGA_OS_CERT_Apr19_V8</description>
       <initValue>'TRIRIGA_OS_CERT_Apr19_V8'</initValue>
       <name>EACM_Identity_Management</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>SODTest_Mar28_ARProcAgnt1</description>
       <initValue>'SODTest_Mar28_ARProcAgnt2'</initValue>
       <name>SODTest_Procu_Adj</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>KTLN_EACM_CancelSurvey_Apr19_V10</description>
       <initValue>'KTLN_EACM_CancelSurvey_Apr19_V10'</initValue>
       <name>EACM_SurveyName_Cancel</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>EACM_Survey_Apr19_V11</description>
       <initValue>'EACM_Survey_Apr19_V11'</initValue>
       <name>EACM_SecurityContext</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>TRI_OSEXTRACT_Jan31_V2</description>
       <initValue>'TRI_OSEXTRACT_Jan31_V2'</initValue>
       <name>DTP_OS_SSName</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://us21n.safepaas.com/monitor/f?p=1000:101::::::'</initValue>
       <name>baseUrl_IQA</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'KAT'</initValue>
       <name>companyLogin</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'KATADMIN'</initValue>
       <name>userIDLogin</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'Ioqy8emDrxi5mkiNQATzxQ=='</initValue>
       <name>pwdLogin</name>
+      <protected>false</protected>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

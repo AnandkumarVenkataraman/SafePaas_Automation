@@ -70,7 +70,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data So
 
 WebUI.delay(2)
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_bcbb9d'), 
-    9)
+    10)
 WebUI.delay(2)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Data Source/a_Completed'), 'Completed')
