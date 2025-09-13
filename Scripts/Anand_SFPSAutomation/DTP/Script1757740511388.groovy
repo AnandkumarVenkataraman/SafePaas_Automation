@@ -284,12 +284,30 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Objects
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , EntryAt_e48873'), FailureHandling.OPTIONAL)
 
 //Object Set
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/a_Manage Object Set (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Object Set/input_Create_R137674426230792379_search_field (1)'),
+	'EBizApp_JDBC_ObjSet')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/button_Go (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/a_EBizApp_JDBC_ObjSet'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Objectset/button_Cancel (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/button_concat(Row text contains , , EBizApp_af7ab9'), FailureHandling.OPTIONAL)
+
 
 //Snapshot Extract
 
 //Synchronization
 
 //Security
+
+//Login as user with Function-read access
+//and verify that Extract Data button is not available
 
 //WebUI.closeBrowser()
 
