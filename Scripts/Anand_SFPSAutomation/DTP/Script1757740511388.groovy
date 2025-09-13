@@ -345,6 +345,100 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/butto
 
 //Analytics
 
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Dashboard_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Violation Report_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Application Access Report_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Listing/select_Environment_P0_ENVIRONMENT'), 2)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Listing/a_User Listing and access_a-TreeView-label'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Entry Access Listing/a_User Entry Access Listing_a-TreeView-label'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Entry Attribute Access Listing/a_User Entry Attribute Access Listing_a-Tre_258751'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 1)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 2)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 3)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 4)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 5)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 6)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 7)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Entry Listing/a_Entry Listing_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Entry Attributes/button_Entry Type_a-Button a-IRR-button a-B_36387a'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Entry Attributes/button_Entry Type_a-Button a-IRR-button a-B_36387a'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Entry Attributes/button_Entry Type_a-Button a-IRR-button a-B_36387a'), FailureHandling.OPTIONAL)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Entry Attributes/a_Entry Attributes_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Access Hierarchy/button_Access Type_P13_RESPONSIBILITY_lov_btn'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Access Hierarchy/input_Search_a-PopupLOV-search apex-item-text'), 'General Ledger Super User')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Access Hierarchy/button_Search_a-Button a-PopupLOV-doSearch'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Access Hierarchy/li_Select List 20 rows. Use arrow keys_a-Ic_89dcca'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Access Hierarchy/button_Access Type_P13_GO'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Access Hierarchy/span_SOD Review Survey_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Access Hierarchy/a_Define Scope_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/button_Export Rules_B237699209801060311'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Filter False-Positives/label_Report Settings_a-IRR-controlsCheckboxLabel'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Filter False-Positives/label_Report Settings_a-IRR-controlsCheckboxLabel'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Filter False-Positives/button_Submit_B245973424258406093'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
 //Synchronization
 
 //Security
