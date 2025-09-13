@@ -113,7 +113,106 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Add Object Items/a_Ma
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , EBiz_JD_2458d0'), FailureHandling.OPTIONAL)
 
 
-//Concurrent Program
+//Concurrent Program, Menu, Grants, Functions, Responsibility, Roles and Request Groups
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (3)'),
+	'Concurrent_Program')
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_Go (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Entry_Concurrent_Program_JDBC'))
+
+WebUI.click(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , Concurr_8ac5e6'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (3)'),
+	'Form_Functions')
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_Go (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Entry_Form_Functions_JDBC'))
+
+WebUI.click(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , Concurr_8ac5e6'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (3)'),
+	'LocalRoles')
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_Go (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Entry_LocalRoles_JDBC'))
+
+WebUI.click(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , Concurr_8ac5e6'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (3)'),
+	'Grant')
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_Go (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Entry_Grant_JDBC'))
+
+WebUI.click(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , Concurr_8ac5e6'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (3)'),
+	'Menu_JDBC')
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_Go (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Entry_Menu_JDBC'))
+
+WebUI.click(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , Concurr_8ac5e6'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (3)'),
+	'Request_Group')
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_Go (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Entry_Request_Group_JDBC'))
+
+WebUI.click(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , Concurr_8ac5e6'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (3)'),
+	'Responsibility')
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_Go (3)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Objects/td_XXSP_ENTRY_RESP_EBSAPPL_V'), 0, FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_Entry_Responsibility_JDBC'))
+
+WebUI.takeScreenshot()
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_AddEdit Object Details/label_JDBC (2)'), 0, FailureHandling.OPTIONAL)
+WebUI.takeScreenshot()
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , Concurr_8ac5e6'), FailureHandling.OPTIONAL)
 
 //WebUI.closeBrowser()
 
