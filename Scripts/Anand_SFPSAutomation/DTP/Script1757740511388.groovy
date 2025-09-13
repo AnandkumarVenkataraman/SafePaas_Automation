@@ -474,7 +474,47 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_
 
 //Security
 
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (7)'))
 
-//WebUI.closeBrowser()
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Object Set_a-TreeView-label'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage DataProbe Roles/input_Create_R637454319923923464_search_field'),
+	'admin')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage DataProbe Roles/button_Create_R637454319923923464_search_button'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage DataProbe Roles/img_admin_apex-edit-page'))
+WebUI.takeScreenshot()
+WebUI.delay(1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_CreateEdit Role/button_Security_B171632388479850263'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage DataProbe Roles/button_concat(Row text contains , , admin, _30fb6d'), FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage DataProbe Roles/input_Create_R637454319923923464_search_field'),
+	'readonly')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage DataProbe Roles/button_Create_R637454319923923464_search_button'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage DataProbe Roles/img_admin_apex-edit-page'))
+WebUI.takeScreenshot()
+WebUI.delay(1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_CreateEdit Role/button_Security_B171632388479850263'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage DataProbe Roles/button_concat(Row text contains , , admin, _30fb6d'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage DataProbe Roles/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14205299837764170'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_My Profile_menu_L14205299837764170_1i'))
+
+WebUI.closeBrowser()
+
+//Login as the user with read-only role and verify
+//This will be added later
 
 
