@@ -94,5 +94,26 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Add Object Items/a_Ma
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , EBiz_At_3448eb'), FailureHandling.OPTIONAL)
 
+//User
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , EBiz_JD_2458d0'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (2)'),
+	'EBiz_User_JDBC')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_Go (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/a_EBiz_User_JDBC'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_AddEdit Object Details/label_JDBC (1)'), 0, FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Object Details/span_Object Items (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Add Object Items/a_Manage Objects (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , EBiz_JD_2458d0'), FailureHandling.OPTIONAL)
+
+
+//Concurrent Program
+
 //WebUI.closeBrowser()
 
