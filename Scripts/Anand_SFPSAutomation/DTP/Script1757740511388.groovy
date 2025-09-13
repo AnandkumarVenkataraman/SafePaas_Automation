@@ -299,8 +299,51 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Objectset/but
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/button_concat(Row text contains , , EBizApp_af7ab9'), FailureHandling.OPTIONAL)
 
-
 //Snapshot Extract
+//def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
+//def currentDateTime = dateFormat.format(new Date())
+//def dtpEBSJob1 = 'DTPEBS_' + currentDateTime
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/a_DataProbe_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Snapshot/select_Object Set_P100_OBJECT_SET'), 7)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_Auto Refresh_B135207553892711001'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID'), 3)
+
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID_1'), '4170',
+//	true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME'), 'DTPEBS_Sept13_v2')
+
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS'), 'DTPEBS_Sept13_v2')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245'))
+WebUI.delay(8)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), 'DTPEBS_Sept13_v2')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_Upload Data_mngSnap_search_button'))
+WebUI.delay(900)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), 'PARENT')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_Upload Data_mngSnap_search_button'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/a'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_DataProbe_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_concat(Row text contains , , PARENT,_dbb688'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_concat(Row text contains , , DTPEBS__269b5d'), FailureHandling.OPTIONAL)
+
+//Analytics
 
 //Synchronization
 
