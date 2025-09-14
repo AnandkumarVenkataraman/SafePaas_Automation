@@ -226,12 +226,84 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/a_Se
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_concat(Row text contains , , SFTP_1,_aaf103'), FailureHandling.OPTIONAL)
 
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/a_Manage Activity_a-TreeView-label'))
+WebUI.delay(1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Business Process/a_Manage Business Process_a-TreeView-label'))
+WebUI.delay(1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Attribute Grouping/a_Manage Attribute Groups_a-TreeView-label'))
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/input_Create_R189436115360253186_search_field (2)'),
+	'SFTP')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/button_Create_R189436115360253186_search_button'))
+WebUI.delay(1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/button_concat(Row text contains , , SFTP, ,_bafa7b'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/a_Manage Rule Tags_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Environment_P0_ENVIRONMENT'),
+	3)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/a_Manage Exception Type_a-TreeView-label'))
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/input_Create_R327963090047660484_search_field (1)'),
+	'EBS_REM')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/button_Create_R327963090047660484_search_button'))
+WebUI.delay(1)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL'), 'Selected', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_Selected_u-tL'),
+	'Single Notification', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL_1'), 'Selected', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_Selected_u-tL_1'),
+	'SOD Review', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL_2'), 'All User Violations', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_All User Violations_u-tL'),
+	'Multiple Notifications', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL_3'), 'All User Responsibilities Violations', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_All User Responsibilities Violations_u-tL'),
+	'Multiple Notifications', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM1_u-tC'),
+	'Y', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM2_u-tC'),
+	'Y', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM3_u-tC'),
+	'Y', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM4_u-tC'),
+	'Y', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/button_concat(Row text contains , , EBS_REM_ee440d'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
 
 //SOD Test
 
 //Analytics
 
 //Exception
+
+//Mass Update Exception
 
 //Remediation
 
