@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Change Organization_u-tL</name>
+   <tag></tag>
+   <elementGuidId>2439f2c7-90d0-4fa5-9b8c-9cfe5c23291c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='259198704773637840']/tbody/tr[2]/td[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Responsibility : Chef->Menu : CLR_TOP_MENU->Menu : FND_OTHER 4.0->Function : Change Organization - MRP&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>798f79fe-b9c1-4b1d-bd2e-3285292f570f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>5ec6f71b-5840-4cf7-8d4d-f494c630b1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C29376970314545445</value>
+      <webElementGuid>53cb148d-1d27-43df-bb0f-a86df9c9be49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responsibility : Chef->Menu : CLR_TOP_MENU->Menu : FND_OTHER 4.0->Function : Change Organization - MRP</value>
+      <webElementGuid>ccc57eb0-e557-4339-aca9-a585b219de40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;259198704773637840&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>96334465-18e6-4309-bbee-da41594d5168</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='259198704773637840']/tbody/tr[2]/td[13]</value>
+      <webElementGuid>a5af0d74-a49a-46a7-a4fd-059bf7dd6f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Organization'])[1]/following::td[1]</value>
+      <webElementGuid>77bfd61f-46cb-42c9-a2d1-55f097216e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Organization - MRP[MRPCHORG]'])[1]/following::td[2]</value>
+      <webElementGuid>3a4685ed-ca4e-4266-b473-f9b38b380139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[1]</value>
+      <webElementGuid>110b013f-c749-43ab-9b1f-76b5b72c44e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP_1'])[1]/preceding::td[3]</value>
+      <webElementGuid>53c52e91-ffdd-4c92-8665-3ee6ad242b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Responsibility : Chef->Menu : CLR_TOP_MENU->Menu : FND_OTHER 4.0->Function : Change Organization - MRP']/parent::*</value>
+      <webElementGuid>404e2d8c-daec-473f-bbbb-8aaa5dce1178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[13]</value>
+      <webElementGuid>5daec6a9-57ff-438f-8c16-b7b2137dcff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Responsibility : Chef->Menu : CLR_TOP_MENU->Menu : FND_OTHER 4.0->Function : Change Organization - MRP' or . = 'Responsibility : Chef->Menu : CLR_TOP_MENU->Menu : FND_OTHER 4.0->Function : Change Organization - MRP')]</value>
+      <webElementGuid>30cbecd8-5f54-43a2-8be6-44d6aadf44c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
