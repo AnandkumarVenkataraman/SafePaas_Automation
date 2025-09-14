@@ -324,6 +324,155 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/a_
 
 //SOD Test
 
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Define Scope_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (1)'), 3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_1'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_2'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (1)'), 0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Manage SOD Test_B169646823131451684'))
+WebUI.delay(10)
+
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID (1)'), 4)
+
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_COMPONENT'), 2)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_SOD Objective_P30_TEST_TYPE_CODE'), 1)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/select_Rule Tags_P30_RULE_TAG_LEFT'), 'SFTP',
+	true)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE'))
+
+//Set the run-time variable here, based on Date and Time, later
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (1)'), 'SODTest_Sept14_v3')
+
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (1)'), 'SODTest_Sept14_v3')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/h2_Breadcrumb_t-Alert-title'), 'Job initiated: SODTEST_SEPT14_V2_202509140442.SOD Test initiated successfully.', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Job initiated SODTEST_SEPT14_V2_2025_3bd077'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (8)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Company Settings_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Platform_a-TreeView-label'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field'), 'SODTest_Sept14_v3')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button'))
+WebUI.delay(1)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_concat(Row text contains , , SODTEST_44645a'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 3)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage SOD Test/input_Create_R169645132708451655_search_field'), 'SODTest_Sept14_v3')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_-_u-tL'), 'Running', FailureHandling.OPTIONAL)
+WebUI.delay(300)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_SOD Detective_u-tL'), 'Closed')
+
+//Verify the logs
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_concat(Row text contains , , SODTest_c4f3ac'), FailureHandling.OPTIONAL)
+
 //Analytics
 
 //Exception
