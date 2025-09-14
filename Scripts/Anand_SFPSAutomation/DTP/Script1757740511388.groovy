@@ -315,14 +315,14 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/sele
 //WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID_1'), '4170',
 //	true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME'), 'DTPEBS_Sept13_v2')
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME'), 'DTPEBS_Sept13_v3')
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS'), 'DTPEBS_Sept13_v2')
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS'), 'DTPEBS_Sept13_v3')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245'))
 WebUI.delay(8)
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), 'DTPEBS_Sept13_v2')
+WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), 'DTPEBS_Sept13_v3')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_Upload Data_mngSnap_search_button'))
 WebUI.delay(900)
@@ -512,9 +512,36 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_My Profile_menu_L14205299837764170_1i'))
 
-WebUI.closeBrowser()
-
 //Login as the user with read-only role and verify
-//This will be added later
 
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (2)'), 'KAT')
 
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (7)'), 'ANANDK1')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (7)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (8)'))
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_DataProbe_a-TreeView-label (1)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Snapshot/select_Object Set_P100_OBJECT_SET (1)'),
+	7)
+WebUI.delay(1)
+WebUI.takeScreenshot()
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/h1_DataProbe_t-Breadcrumb-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Snapshot/select_Object Set_P100_OBJECT_SET (1)'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14205299837764170 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_My Profile_menu_L14205299837764170_1i (1)'))
+
+WebUI.closeBrowser()

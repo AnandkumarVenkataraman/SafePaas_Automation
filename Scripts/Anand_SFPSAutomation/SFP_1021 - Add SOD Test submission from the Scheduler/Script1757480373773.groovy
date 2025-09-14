@@ -65,5 +65,29 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_concat(Rule Tags contains , , sftp, _127162'), FailureHandling.OPTIONAL)
 
+//EAM Setup
+
+//SOD Test
+
+//Analytics
+
+//Exception
+
+//Remediation
+
+//Dashboard
+
+//Mitigations
+
+//Restricted Access SOD
+
+//CrossApp SOD
+
+//Security
+
+//SOD Review Survey
+
+//Rules Review
+
 //WebUI.closeBrowser()
 
