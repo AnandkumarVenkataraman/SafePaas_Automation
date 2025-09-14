@@ -533,6 +533,77 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/a_In
 
 //Analytics
 
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Dashboard_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review Actions Details_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT'),
+	3)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME'),
+	1)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/span_-_a-IRR-pagination-label'), '1 - 41 of 41')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Violations by User Report_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Violation Matrix by User/select_Environment_P73_ENVIRONMENT'),
+	3)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Violation Matrix by User/select_Test Name_P73_TEST_NAME'),
+	1)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Violation Matrix by User/a_Violation Matrix by User_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Environment_P98_ENVIRONMENT'),
+	3)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Test Name_P98_TEST_NAME'),
+	1)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Intra Role Violation Details Report/span_Open_a-IRR-pagination-label'),
+	'1 - 25 of 41')
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Intra Role Violation Details Report/a_Intra Role Violation Details Report_a-Tre_fca8d0'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Aggregate Violation Report/select_Environment_P136_ENVIRONMENT'),
+	3)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Aggregate Violation Report/select_Test Name_P136_TEST_NAME'),
+	1)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Aggregate Violation Report/span_ChefCHEF CULINAIR_a-IRR-pagination-label'),
+	'1 - 7 of 7')
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Aggregate Violation Report/span_Rules Report_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Aggregate Violation Report/a_Application Test Environment Reports_a-Tr_da745a'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Security Snapshot Details/select_Environment_P0_ENVIRONMENT'),
+	2)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Security Snapshot Details/a_Security Snapshot Details_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Test Environment Status Summary/select_Environment_P0_ENVIRONMENT'),
+	3)
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+
 //Exception
 
 //Mass Update Exception
