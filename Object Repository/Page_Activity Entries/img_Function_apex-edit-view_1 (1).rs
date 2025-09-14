@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Function_apex-edit-view_1 (1)</name>
+   <tag></tag>
+   <elementGuidId>2f176420-d083-43d8-a114-b120b5779aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='172136552679540725_orig']/tbody/tr[3]/td[4]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td.u-tC > a > img.apex-edit-view</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;MRPCHORG Function 11-JUL-25 KATADMIN 11-JUL-25 KATADMIN&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b0a8c300-263e-43cc-beae-2c17732723cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/i/app_ui/img/icons/apex-edit-view.png</value>
+      <webElementGuid>ccf84b13-73ca-4b29-a65e-c76f6e118185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-edit-view</value>
+      <webElementGuid>3b111ce2-0be1-400b-afc8-fc800dec8180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;172136552679540725_orig&quot;)/tbody[1]/tr[3]/td[@class=&quot;u-tC&quot;]/a[1]/img[@class=&quot;apex-edit-view&quot;]</value>
+      <webElementGuid>f11cfd80-040f-4cca-87fb-5e8cfd8d9e64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='172136552679540725_orig']/tbody/tr[3]/td[4]/a/img</value>
+      <webElementGuid>8b50547c-bb29-42ca-b024-cc2af70c4224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/a/img</value>
+      <webElementGuid>42c79161-457b-437d-b936-1651f8d59ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/i/app_ui/img/icons/apex-edit-view.png']</value>
+      <webElementGuid>877e7ddd-96b3-4310-8347-4e866bce6793</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
