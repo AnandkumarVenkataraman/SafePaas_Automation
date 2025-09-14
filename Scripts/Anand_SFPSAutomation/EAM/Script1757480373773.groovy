@@ -470,8 +470,66 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/butto
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_SOD Detective_u-tL'), 'Closed')
 
 //Verify the logs
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_concat(Row text contains , , SODTest_c4f3ac'), FailureHandling.OPTIONAL)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_concat(Row text contains , , SODTest_c4f3ac'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a'))
+
+//WebUI.doubleClick(findTestObject('Object Repository/Page_Log Report/ul_Report Settings_a-IRR-controls'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/a_Description_a-IRR-headerLink'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/button_Documentation_a-Button a-IRR-button _ce8d41'))
+WebUI.delay(2)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/a_Record Count_a-IRR-headerLink'))
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/div_Error_row'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Level_u-checkbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Info_u-checkbox'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Log Report/span_Request_a-IRR-noDataMsg-text'), 'No data found.')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Info_u-checkbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Level_u-checkbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label (1)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_concat(Row text contains , , sodtest_4b92e9'), FailureHandling.OPTIONAL)
+
+//Verify in Manage Violations
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a_Manage SOD Test_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Violation/select_Environment_P74_ENVIRONMENT'),
+	3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'), 'SODTEST_SEPT14_V3')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'),
+	Keys.chord(Keys.ENTER))
+
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Violation/td_Change Organization_u-tL'), 'Responsibility : Chef->Menu : CLR_TOP_MENU->Menu : FND_OTHER 4.0->Function : Change Organization - MRP', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Violation/span_INTRA_a-IRR-pagination-label'), '1 - 15 of 41')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
 //Analytics
 
