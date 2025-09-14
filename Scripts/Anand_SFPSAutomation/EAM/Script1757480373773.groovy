@@ -296,6 +296,31 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Administration_a-TreeView-toggle (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Company Settings_a-TreeView-label'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Company/div_Enterprise Access Certification_apex-it_ee9767'),
+	0, FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Company/a_Manage Company_a-TreeView-label'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (2)'),
+	'EBiz_SFTP')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environment/td_-_u-tC'), 'A', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environment/td_A_u-tC'), 'EBS R12.2', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environment/td_EBS R12.2_u-tL'), 'Operations', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_concat(Row text contains , , EBiz_SF_00c342'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
 //SOD Test
 

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enterprise Access Certification_apex-it_ee9767</name>
+   <tag></tag>
+   <elementGuidId>2b9dfc2b-d4fc-45ea-b2e7-259ae8acb320</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P15_LICENSE_PRODUCTS']/div[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Products&quot;i >> div >> internal:has-text=&quot;Enterprise Access Monitor&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>951e0450-9264-470e-99ce-195f39e689d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-item-option</value>
+      <webElementGuid>31f8ca18-a845-471a-8318-86c6f709d1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enterprise Access Monitor</value>
+      <webElementGuid>6a9f61c6-d1c9-4afd-9a93-ade6ed7d6de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P15_LICENSE_PRODUCTS&quot;)/div[@class=&quot;apex-item-option&quot;]</value>
+      <webElementGuid>4e1a477e-0512-4a31-aad6-6711c15d1e41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P15_LICENSE_PRODUCTS']/div[11]</value>
+      <webElementGuid>2f47d1ef-1725-4a78-b830-89ec86461a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Certification'])[2]/following::div[1]</value>
+      <webElementGuid>0b595824-3dee-46a8-92e9-dd34a8a693c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataProbe'])[2]/following::div[2]</value>
+      <webElementGuid>2d36ca71-19d3-4b54-bf17-41866c7a882d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Risk Manager'])[1]/preceding::div[1]</value>
+      <webElementGuid>e9fb9e87-94c7-40df-879d-2b3f34547306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div[2]/div/div/div[11]</value>
+      <webElementGuid>96695a0b-1958-4ece-b57f-8fb003ab9d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enterprise Access Monitor' or . = 'Enterprise Access Monitor')]</value>
+      <webElementGuid>aacd09d6-30ae-43b0-8f92-fd82660cc32c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
