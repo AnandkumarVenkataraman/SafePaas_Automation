@@ -603,10 +603,73 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Test Environmen
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Test Environment Status Summary/select_Environment_P0_ENVIRONMENT (1)'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Test Environment Status Summary/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
 //Exception
 
-//Mass Update Exception
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Violation_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Exception/select_Environment_P43_ENVIRONMENT'),
+	1)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Exception/td_-_u-tL'), 'PERMISSION')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Exception/td_-_u-tL_1'), 'Approved')
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Exception/select_Environment_P43_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Exception/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Dashboard_a-TreeView-toggle (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review Actions Details_a-TreeView-label (1)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
+	1)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
+	1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Attribute(s)_a-IRR-headerLink'))
+
+WebUI.setText(findTestObject('Object Repository/Page_User Violation Report/input_Search_uvrReport_sort_widget_search_field'),
+	'PERMISSION')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_User Violation Report/input_Search_uvrReport_sort_widget_search_field'),
+	Keys.chord(Keys.ENTER))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL'), 'PERMISSION')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL_1'), 'PERMISSION')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/button_concat(Exception Status contains , ,_28a539'), FailureHandling.OPTIONAL)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
+	0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+
+//Mass Update Exception. This will be added later
 
 //Remediation
 
@@ -623,6 +686,8 @@ WebUI.takeScreenshot()
 //SOD Review Survey
 
 //Rules Review
+
+//ERM
 
 //WebUI.closeBrowser()
 
