@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Open_a-IRR-pagination-label</name>
+   <tag></tag>
+   <elementGuidId>347d779c-dbdb-46fe-bd07-eb20d4666723</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-IRR-pagination-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R295529046230734880_data_panel']/div[2]/ul/li[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1 - 25 of 41&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f798588-4c8c-4538-9c06-48212938af2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-pagination-label</value>
+      <webElementGuid>e290e01c-daa7-4d9b-94ae-aa2c3745006a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                   1 -                   25 of                   41</value>
+      <webElementGuid>7ae6b226-cfda-4091-b178-396baefafb00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R295529046230734880_data_panel&quot;)/div[@class=&quot;a-IRR-paginationWrap a-IRR-paginationWrap--bottom&quot;]/ul[@class=&quot;a-IRR-pagination&quot;]/li[@class=&quot;a-IRR-pagination-item&quot;]/span[@class=&quot;a-IRR-pagination-label&quot;]</value>
+      <webElementGuid>1f2e9317-e25f-4f0d-984c-e58e1b92b172</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R295529046230734880_data_panel']/div[2]/ul/li[2]/span</value>
+      <webElementGuid>e5e77b8e-c3b4-40a9-a4bc-51b9c387099f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[25]/following::span[1]</value>
+      <webElementGuid>5627d1a8-f653-4c26-9e74-6d4da8e4398f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[25]/following::span[1]</value>
+      <webElementGuid>d2145ce5-9893-45f5-a1f9-fb8572a448c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::span[2]</value>
+      <webElementGuid>41022c7d-3cef-4fed-b4f8-23a6678c39b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::span[2]</value>
+      <webElementGuid>ffbd697b-62f2-4d7d-846c-1ac7944a7dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/span</value>
+      <webElementGuid>f77f9ef6-9723-4f65-a117-5e5d4e9a5279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '                   1 -                   25 of                   41' or . = '                   1 -                   25 of                   41')]</value>
+      <webElementGuid>722205d1-9898-47a8-94da-c226fd59f05c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ChefCHEF CULINAIR_a-IRR-pagination-label</name>
+   <tag></tag>
+   <elementGuidId>619ce266-6a12-4ac8-b246-054e6055f41a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-IRR-pagination-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R272187989255351422_data_panel']/div[2]/ul/li[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1 - 7 of 7&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe3c3a0f-5155-4658-b6d2-aa6d7fc77b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-pagination-label</value>
+      <webElementGuid>710de1d0-9c8b-4932-a929-1b24d4fbc3a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                   1 -                    7 of                    7</value>
+      <webElementGuid>595dcb53-bb70-4d12-ab7d-8cddcfc7a510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R272187989255351422_data_panel&quot;)/div[@class=&quot;a-IRR-paginationWrap a-IRR-paginationWrap--bottom&quot;]/ul[@class=&quot;a-IRR-pagination&quot;]/li[@class=&quot;a-IRR-pagination-item&quot;]/span[@class=&quot;a-IRR-pagination-label&quot;]</value>
+      <webElementGuid>2b4fa297-e452-49b7-8a11-d33a6795d08f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R272187989255351422_data_panel']/div[2]/ul/li[2]/span</value>
+      <webElementGuid>f6881264-0133-40fc-baef-997ac701d5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chef[CHEF CULINAIR]'])[4]/following::span[1]</value>
+      <webElementGuid>26d2f3db-8e17-4405-997e-073b9284c447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[14]/following::span[1]</value>
+      <webElementGuid>65116e13-78d9-4846-988b-f7e8fd1ae3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::span[1]</value>
+      <webElementGuid>3ddb6720-6366-47ca-9036-c21abfbdb444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::span[1]</value>
+      <webElementGuid>483801f0-1880-4b2c-8695-0ca379bd71d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/span</value>
+      <webElementGuid>31d2afe6-c9fe-4886-894b-b9509f2c6793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '                   1 -                    7 of                    7' or . = '                   1 -                    7 of                    7')]</value>
+      <webElementGuid>0b158936-6456-414b-92fa-2d882523591d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
