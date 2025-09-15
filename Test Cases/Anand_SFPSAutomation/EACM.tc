@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DTP1104</description>
+   <name>EACM</name>
+   <tag>Env. Rearchitecture</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b717f1d-0cdf-4471-a39e-553af990fa24</testCaseGuid>
+</TestCaseEntity>

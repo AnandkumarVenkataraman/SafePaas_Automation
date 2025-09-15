@@ -16,6 +16,12 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
@@ -418,17 +424,24 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/sele
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE'))
 
 //Set the run-time variable here, based on Date and Time, later
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (1)'), 'SODTest_Sept14_v3')
+def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
+def currentDateTime = dateFormat.format(new Date())
+def sodTST = 'SODTST_' + currentDateTime
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (1)'), 'SODTest_Sept14_v3')
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (1)'), sodTST)
+
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (1)'), sodTST)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245 (1)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3'))
 
+//Update this verification [lines 442 & 444 below] later,
+//to handle the SOD Test's jobname dynamically during run time,
+//based on the value that was set for sodTST
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/h2_Breadcrumb_t-Alert-title'), 'Job initiated: SODTEST_SEPT14_V2_202509140442.SOD Test initiated successfully.', FailureHandling.OPTIONAL)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Job initiated SODTEST_SEPT14_V2_2025_3bd077'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Job initiated SODTEST_SEPT14_V2_2025_3bd077'), FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
@@ -438,7 +451,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Company Set
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Platform_a-TreeView-label'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field'), 'SODTest_Sept14_v3')
+WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field'), sodTST)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button'))
 WebUI.delay(1)
@@ -458,7 +471,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violati
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 3)
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage SOD Test/input_Create_R169645132708451655_search_field'), 'SODTest_Sept14_v3')
+WebUI.setText(findTestObject('Object Repository/Page_Manage SOD Test/input_Create_R169645132708451655_search_field'), sodTST)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 
@@ -517,7 +530,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Violatio
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'), 'SODTEST_SEPT14_V3')
+WebUI.setText(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'), sodTST)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'),
 	Keys.chord(Keys.ENTER))
@@ -673,13 +686,13 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report
 
 //Remediation
 
-//Dashboard
+//Dashboard. This will be added as part of SFP-1016
 
-//Mitigations
+//Mitigations. This will be added as part of EAM-1070
 
 //Restricted Access SOD
 
-//CrossApp SOD
+//CrossApp SOD. This will be added as part of DTP-1104 [Env. Re-arch]
 
 //Security
 
