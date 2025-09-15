@@ -121,7 +121,9 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Email Configura
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Email Configuration/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
-//Add code to verify pop-up later
+//Verify pop-up
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
+WebUI.delay(2)
 
 //Manage Env.
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (10)'))
@@ -130,12 +132,12 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Administrat
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Company_a-TreeView-label'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'),
-	'EBizApp_JDBC')
+//WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'),
+//	'EBizApp_JDBC')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_concat(Row text contains , , EBizApp_824ca1'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_concat(Row text contains , , EBizApp_824ca1'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'),
 	'Test_Environment')
@@ -176,3 +178,4 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/bu
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
 
+//EACM Setups
