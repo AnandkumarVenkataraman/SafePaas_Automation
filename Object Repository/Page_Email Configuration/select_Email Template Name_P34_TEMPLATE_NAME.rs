@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Email Template Name_P34_TEMPLATE_NAME</name>
+   <tag></tag>
+   <elementGuidId>2b2c97b2-512c-4b9f-bf84-c88c61c347b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P34_TEMPLATE_NAME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P34_TEMPLATE_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Email Template Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>29457d1e-3669-4fa9-8c8c-96b5daee0f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P34_TEMPLATE_NAME</value>
+      <webElementGuid>9879504d-11b0-4013-9944-14ec24d8c52d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P34_TEMPLATE_NAME</value>
+      <webElementGuid>069a4491-d3c0-4bc4-9acc-30288055b474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>fa7485e5-af89-4ba3-8eb5-83deb82f9e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>303929cb-be46-4387-aabd-395277dccee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d1b825a3-5bba-4720-b3bf-90e48cd2d7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select a template OR create a new one -
+DEFAULT</value>
+      <webElementGuid>20c9fee0-b7ed-404a-9af0-7efcc86266c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P34_TEMPLATE_NAME&quot;)</value>
+      <webElementGuid>dff9f066-b341-4ef1-8565-d2681550b0b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P34_TEMPLATE_NAME']</value>
+      <webElementGuid>2fa8151f-84b5-4a6b-bf3d-cb8f400ab761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P34_TEMPLATE_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>0f80a80d-0c09-4ada-9f2f-4b71c5adf379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Template Name'])[1]/following::select[1]</value>
+      <webElementGuid>ba0e4853-a339-4303-bf3c-61094a67adc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Category'])[1]/following::select[2]</value>
+      <webElementGuid>dd2dfca6-ee04-4dcb-a015-12f371a3e425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email From'])[1]/preceding::select[1]</value>
+      <webElementGuid>708cc943-6422-4035-bebf-0efab522d8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Subject'])[1]/preceding::select[1]</value>
+      <webElementGuid>d70eac3f-3732-4d6a-b97c-1cd396e68ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>e07caa55-0885-4fff-94d9-094509b18c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P34_TEMPLATE_NAME' and @name = 'P34_TEMPLATE_NAME' and (text() = '- Select a template OR create a new one -
+DEFAULT' or . = '- Select a template OR create a new one -
+DEFAULT')]</value>
+      <webElementGuid>365631e0-70cd-4ef2-b768-70d78386d515</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
