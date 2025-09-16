@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_5</name>
+   <tag></tag>
+   <elementGuidId>df981e0b-44a2-473d-a2b5-e7213dd1d068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SR_R190559864186926632_tab > a.t-Tabs-link > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SR_R190559864186926632_tab']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Assign Identity Owners&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a116335-92fa-4c74-af6c-2457b75d030e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assign Identity Owners</value>
+      <webElementGuid>f0363e1b-30e4-4506-81cd-1d84899e82f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR_R190559864186926632_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
+      <webElementGuid>44145c55-e563-4741-b141-f61d33f371f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SR_R190559864186926632_tab']/a/span</value>
+      <webElementGuid>9fc73608-c256-4cfa-ba76-3f419d20bc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Identity Groups Owners'])[1]/following::span[1]</value>
+      <webElementGuid>e8797849-a04d-4f4f-8de0-0b4d4a16ae03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BU1'])[1]/following::span[5]</value>
+      <webElementGuid>0be9c5cd-75ab-4815-8cba-5f9a40d3c4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Identity Groups Owners'])[2]/preceding::span[1]</value>
+      <webElementGuid>0bf28964-cf76-44df-bad5-3383d65d635b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
+      <webElementGuid>62a18876-bbd0-4399-9471-4b3ecfe05a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Assign Identity Owners']/parent::*</value>
+      <webElementGuid>b4375313-ffcb-4e00-8ffa-ae418ff48a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>5a5c22a5-abc2-4b31-bee6-79ffa92fafd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Assign Identity Owners' or . = 'Assign Identity Owners')]</value>
+      <webElementGuid>071b4c01-815d-4256-a9d5-aedf09881ccb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

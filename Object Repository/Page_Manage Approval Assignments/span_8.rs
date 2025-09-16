@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_8</name>
+   <tag></tag>
+   <elementGuidId>04571add-db3c-47a9-b29e-c913a1ae9c17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.t-Tabs-link > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SR_R325277008001686906_tab']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Assign Role Groups Owners&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8979977-169f-461a-bca8-4bb3a93494fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assign Role Groups Owners</value>
+      <webElementGuid>78a064e4-9a53-4f4a-952d-3730dfae7d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR_R325277008001686906_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
+      <webElementGuid>ae7e0b02-8c29-45d1-9a0e-914279275a1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SR_R325277008001686906_tab']/a/span</value>
+      <webElementGuid>b4476c79-dfa3-422b-9703-8f8c5b19f380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP'])[1]/following::span[4]</value>
+      <webElementGuid>e85e1c2e-b149-4a88-8a53-57c44e0a075a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Group'])[1]/following::span[5]</value>
+      <webElementGuid>9fc168ce-a9fe-47ff-8964-c5abbe274289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Role Owners'])[2]/preceding::span[1]</value>
+      <webElementGuid>57c86102-720e-4592-b5e3-336a2162e2db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Role Groups Owners'])[2]/preceding::span[2]</value>
+      <webElementGuid>01f2296f-cf49-4562-8b33-2396395dfacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Assign Role Groups Owners']/parent::*</value>
+      <webElementGuid>263e4a85-ee87-4507-83c5-113c04a7dc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li/a/span</value>
+      <webElementGuid>c28b226a-4ca7-45b2-a3ca-4e036cfeee65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Assign Role Groups Owners' or . = 'Assign Role Groups Owners')]</value>
+      <webElementGuid>b9ae1b31-f7ec-45ac-9d34-61a57852d853</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

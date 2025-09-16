@@ -179,3 +179,187 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/bu
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
 
 //EACM Setups
+
+WebUI.click(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (8)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home/span_Access Certification_a-TreeView-toggle'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home/a_Setup_a-TreeView-label (2)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Network Users/select_Environment_P0_ENVIRONMENT'),
+	'9148', true)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Network Users/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Network Users/a_Manage Network Users_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
+	'9028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
+	'5888', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
+	'8028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
+	'7408', true)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Access Groups/a_Manage Access Groups_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
+	'9028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
+	'5888', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
+	'8028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
+	'7408', true)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/a_Manage Access Groups Category Mapping_a-T_716809'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '9028',
+	true)
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Access/a'))
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Roles/span_AP_t-Tabs-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '5888',
+	true)
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Access/a_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Roles/span_AP_t-Tabs-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '8028',
+	true)
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Access/a_2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Identity/span_BU1_t-Tabs-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '7408',
+	true)
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Access/a_3'))
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Roles/span_AP_t-Tabs-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_Scope Access/a_Scope Access_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
+	'9028', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Scope Access_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
+	'5888', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Scope Access_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
+	'8028', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_3'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_4'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_5'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_6'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Scope Access_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
+	'7408', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_3'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_7'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_8'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Scope Access_a-TreeView-label'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/span_1'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Manage Approval Assignments_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
+	'5888', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
+	'7408', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
+	'9028', true)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Risk Levels/a_Assign EACM Roles_a-TreeView-label'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
+	'9028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
+	'5888', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
+	'8028', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
+	'7408', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Certification Configuration/span'))
+
+WebUI.click(findTestObject('Object Repository/Page_Certification Configuration/span_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Certification Configuration/span_2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Certification Configuration/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.acceptAlert(FailureHandling.OPTIONAL)

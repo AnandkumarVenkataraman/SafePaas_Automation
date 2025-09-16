@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_4</name>
+   <tag></tag>
+   <elementGuidId>77844377-2de2-48df-ad35-3c86a7aa864f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SR_R190303298785205231_tab > a.t-Tabs-link > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SR_R190303298785205231_tab']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Identity Groups in Scope - Current Status&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32b952ce-539e-46cd-8a29-a04dad0ce176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Identity Groups in Scope - Current Status</value>
+      <webElementGuid>0245cc20-7f57-4ab9-98b3-2b9aa3ed819f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR_R190303298785205231_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
+      <webElementGuid>9f5c2183-d908-4f31-9b18-3d0ca222692a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SR_R190303298785205231_tab']/a/span</value>
+      <webElementGuid>b9f12abf-c503-455c-8c13-1ddafbcd3c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary Owner'])[6]/following::span[3]</value>
+      <webElementGuid>8e5e4fbb-e792-409d-a351-ef4a54624d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Owner'])[6]/following::span[4]</value>
+      <webElementGuid>e2c1d7f5-c4bb-441a-a07d-01ca92f52c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identity Groups in Scope with Entire History'])[1]/preceding::span[1]</value>
+      <webElementGuid>701a100f-602d-4580-b539-ee2ab94c9e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identity Groups in Scope - Current Status'])[2]/preceding::span[2]</value>
+      <webElementGuid>db0d54d8-4941-43d0-8781-225027d7de8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Identity Groups in Scope - Current Status']/parent::*</value>
+      <webElementGuid>3eb208e1-84eb-4bef-8be6-27fd598251c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li/a/span</value>
+      <webElementGuid>5fab1545-1bdc-4981-83ce-1846ecaf1bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Identity Groups in Scope - Current Status' or . = 'Identity Groups in Scope - Current Status')]</value>
+      <webElementGuid>589e7947-3eb4-4516-a12e-389b29b7d8e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2</name>
+   <tag></tag>
+   <elementGuidId>95c3e897-f851-4652-8897-91698964a69d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SR_R134136923578779043_tab > a.t-Tabs-link > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SR_R134136923578779043_tab']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Role Groups in Scope with Entire History&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d789e875-9736-4ce4-ad6c-20bf5a59eb9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role Groups in Scope with Entire History</value>
+      <webElementGuid>d1f724a9-625f-4fe0-bf6d-135792d8e3e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR_R134136923578779043_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
+      <webElementGuid>fbae9e63-1b43-4143-be95-a9e7530298a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SR_R134136923578779043_tab']/a/span</value>
+      <webElementGuid>6278fdf3-48dd-4f11-ad41-2b7f91d8b7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Groups in Scope - Current Status'])[1]/following::span[1]</value>
+      <webElementGuid>6a3515de-c374-44b1-8505-557e02abd8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Description'])[3]/following::span[4]</value>
+      <webElementGuid>8c59f568-6fbf-4820-9702-ae0f7060ce67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviewers for Exceptions'])[1]/preceding::span[1]</value>
+      <webElementGuid>dd7dafbc-548c-455c-af17-33be18cd94d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Groups in Scope - Current Status'])[2]/preceding::span[2]</value>
+      <webElementGuid>5911b986-a9ca-4a4b-8ff2-1ec71e7e629f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Role Groups in Scope with Entire History']/parent::*</value>
+      <webElementGuid>7fabc7ae-ddd6-40cb-a12a-13bba86c24b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>e8e0f6b9-99a8-4676-b4ca-7697e6949021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Role Groups in Scope with Entire History' or . = 'Role Groups in Scope with Entire History')]</value>
+      <webElementGuid>f787fd22-4d20-4e0f-8eee-391bdbd85651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
