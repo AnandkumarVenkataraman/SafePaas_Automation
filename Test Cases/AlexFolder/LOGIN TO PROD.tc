@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LOGIN TO PROD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90ba5207-11dc-43f9-85e2-2f9b6b577ce1</testCaseGuid>
+</TestCaseEntity>

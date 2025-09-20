@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>V1</description>
+   <name>EIA-322</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c102b7b-a5ce-4a1e-81e1-16283e7783c6</testCaseGuid>
+</TestCaseEntity>

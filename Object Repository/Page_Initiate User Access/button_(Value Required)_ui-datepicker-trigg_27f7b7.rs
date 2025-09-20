@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_(Value Required)_ui-datepicker-trigg_27f7b7</name>
+   <tag></tag>
+   <elementGuidId>327eaaf8-7643-4ae0-9f7e-0b6bbfdb23b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P10_END_DATE_CONTAINER > div.t-Form-inputContainer.col.col-10 > div.t-Form-itemWrapper > button.ui-datepicker-trigger.a-Button.a-Button--calendar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Popup Calendar: End Date&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4a2db285-a06f-4525-a78b-a27d2ff5043a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0ac83f3-b436-43a6-90f0-fbd2762be71f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker-trigger a-Button a-Button--calendar</value>
+      <webElementGuid>45043f3b-fc38-4370-b409-7a4e2a0e60c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Popup Calendar: End Date</value>
+      <webElementGuid>3678af97-f5b1-438d-bdfa-0977c74e3643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_END_DATE_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-10&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]/button[@class=&quot;ui-datepicker-trigger a-Button a-Button--calendar&quot;]</value>
+      <webElementGuid>3cb4390e-b1ab-4a47-bbe3-b46c2bf09723</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>74abefd1-8680-406a-b048-604129cd32c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P10_END_DATE_CONTAINER']/div[2]/div/button</value>
+      <webElementGuid>f18462cf-8e22-4787-8b6b-c26bda411bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[5]/following::button[1]</value>
+      <webElementGuid>d2706abb-34cb-493d-b535-20b16feb525b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected format: DD-MON-YYYY HH:MI AM'])[2]/preceding::button[1]</value>
+      <webElementGuid>ace4d152-413c-4929-b98c-62cbfa66c264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/button</value>
+      <webElementGuid>a9f229a2-aac6-44d8-8686-2b0c67e564c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Popup Calendar: End Date' or . = 'Popup Calendar: End Date')]</value>
+      <webElementGuid>a3e07fbf-9775-4f8f-9ff7-1ea0cf4fb6d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
