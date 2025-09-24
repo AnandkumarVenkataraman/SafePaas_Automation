@@ -262,6 +262,22 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Roles/span_AP_t
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), 0)
 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT (1)'), '5888',
+	true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Scope Access/input_Role Groups in Scope_R324291159469100_620fa9'),
+	'Application Object Library')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/button_Role Groups in Scope_R32429115946910_511a2b'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/a (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Roles/span_Application Object Library_t-Tabs-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/button_concat(Row text contains , , Applica_3bf12f'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT (1)'), 0)
+
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/a_Scope Access_a-TreeView-label'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
