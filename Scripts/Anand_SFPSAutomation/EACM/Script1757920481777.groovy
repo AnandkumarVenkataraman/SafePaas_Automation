@@ -493,6 +493,24 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/bu
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
+//Verify in Scheduler
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (11)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Company Settings_a-TreeView-toggle (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Platform_a-TreeView-label (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field (1)'), actualUACId)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button (1)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Scheduler/td_-_u-tL'), 'SUCCEEDED')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_concat(Row text contains , , 21670, _9215fa'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+
 //Multi Env. UAR, and Analytics, & Workflow
 
 //Single Env. UAR -> Identity-based grouping, and Analytics, & Workflow
