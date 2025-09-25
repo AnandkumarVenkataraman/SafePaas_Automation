@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_EAM_POST_apex-edit-pencil</name>
+   <tag></tag>
+   <elementGuidId>f0d057a6-a151-455e-a814-69be76d99e87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='294020738399545337_orig']/tbody/tr[3]/td/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td.a-IRR-linkCol.u-tC > a > img.apex-edit-pencil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Enterprise Access Certification EACM_GET EACM_POST 1&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c075793c-2d1d-4949-ad1a-b9bc6fadb170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/i/app_ui/img/icons/apex-edit-pencil.png</value>
+      <webElementGuid>2cf63c26-1a7a-4b98-8ed9-ab4fe3b5945c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-edit-pencil</value>
+      <webElementGuid>d53ccdce-1330-43bb-8fcc-60053460750c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;294020738399545337_orig&quot;)/tbody[1]/tr[3]/td[@class=&quot;a-IRR-linkCol u-tC&quot;]/a[1]/img[@class=&quot;apex-edit-pencil&quot;]</value>
+      <webElementGuid>c09c1513-32ec-4fe5-a767-228e34824bfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='294020738399545337_orig']/tbody/tr[3]/td/a/img</value>
+      <webElementGuid>0e951572-5e1f-422b-b3c5-92bfc48792a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/a/img</value>
+      <webElementGuid>b2a42036-9dae-4e56-97d3-5033c60f70f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/i/app_ui/img/icons/apex-edit-pencil.png']</value>
+      <webElementGuid>083bb5fd-1496-4fca-a0df-844d56d37272</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
