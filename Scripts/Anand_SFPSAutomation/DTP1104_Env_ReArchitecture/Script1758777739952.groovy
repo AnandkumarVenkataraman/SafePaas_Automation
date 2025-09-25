@@ -16,6 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+//import static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+//import com.kms.katalon.core.model.FailureHandling as FailureHandling
 
 WebUI.openBrowser('')
 
@@ -89,14 +91,6 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/a_App Type Version_a-IRR-headerLink'))
 
-//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/input_Search_R258165063082313757_sort_widge_49344e'), 
-//    'Peopple')
-//
-//WebUI.sendKeys(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/input_Search_R258165063082313757_sort_widge_49344e'), 
-//    Keys.chord(Keys.ENTER))
-//
-//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/button_concat(App Type Category contains , _fcdddd'))
-//
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/a_App Type Version_a-IRR-headerLink'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/input_Search_R258165063082313757_sort_widge_49344e'), 
@@ -125,5 +119,14 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Environment/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
 //SFP-1009
+//Verify Cross Application SOD is not available under Manage Company
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (10)'))
 
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle (9)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Company Settings_a-TreeView-label'))
+
+WebUI.verifyTextNotPresent("Cross Application SOD", false, FailureHandling.STOP_ON_FAILURE)
+WebUI.comment('Cross Application SOD not found, as expected')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
