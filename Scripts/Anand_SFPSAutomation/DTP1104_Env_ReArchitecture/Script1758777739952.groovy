@@ -196,4 +196,59 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_concat(Row text contains , , ITSM, ,_599747'), FailureHandling.OPTIONAL)
 
+//SFP-1036 - Enterprise IT Map - Operations to Identity Source mapping
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/input_Mappings Report_R275422977080048150_s_4fdaf0 (1)'),
+	'Test_Environment')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_Mappings Report_R275422977080048150__6d4728 (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/input_Mappings Report_R275422977080048150_s_4fdaf0 (1)'),
+	'Identity Source')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_Mappings Report_R275422977080048150__6d4728 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/img_Join Condition_apex-edit-page (1)'))
+
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/select_User_f02'),
+//	'USER_NAMEFIRST_NAMELAST_NAMEDISPLAY_NAMEEMAIL_ADDRESSTYPEORIG_ID')
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/select__f03'),
+//	'IDENTITY_IDFIRST_NAMELAST_NAMEEMPLOYEE_IDEMAIL_IDMANAGER_IDMGR_FIRST_NAMEMGR_LAST_NAMEMANAGER_EMAILMANAGER_FLAGDEPARTMENTBUSINESS_UNITACCESS_GROUP_NAME')
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/option'), 'MANAGER_ID')
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/option_1'), 'MGR_FIRST_NAME')
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/option_2'), 'MGR_LAST_NAME')
+
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/button_Breadcrumbs_B289855795379879713 (1)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/td_Join Condition_u-tL (1)'),
+	'Test_Environment')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/td_Test_Environment_u-tL (1)'),
+	'Operations')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/td_Operations_u-tL (1)'),
+	'Test_IDM')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/td_Test_IDM_u-tL'),
+	'Identity Source')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/td_Identity Source_u-tL'),
+	'Users')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/td_Users_u-tL'), 'FSOD.FSOD_USER_ALL.USER_NAME = FSOD.FSOD_NETWORK_USERS.IDENTITY_ID')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_concat(Row text contains , , Test_En_29b6c0'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_concat(Row text contains , , Identit_3d68c8'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+//SFP-1036 - Enterprise IT Map - Operations to Access Management mapping
+//This will be automated, once an Access Mgmt. Env. is available
 
