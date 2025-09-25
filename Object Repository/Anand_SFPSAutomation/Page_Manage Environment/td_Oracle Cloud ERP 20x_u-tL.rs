@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Oracle Cloud ERP 20x_u-tL</name>
+   <tag></tag>
+   <elementGuidId>799f599a-48bc-4267-b34d-d00ee0a1f358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='258165466626313757_orig']/tbody/tr[22]/td[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(22) > td.u-tL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tr:nth-child(22) > .u-tL</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5a13cd21-efb0-405f-b536-cf0fb3a2aaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>755b5fdf-92e1-4ba3-8a07-1cebf0bc35f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C284163506813469726</value>
+      <webElementGuid>f2c99657-3904-470c-b9e5-35dc3feb11f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operations</value>
+      <webElementGuid>cdb51571-764f-41e9-9945-1a0b3e5a94e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;258165466626313757_orig&quot;)/tbody[1]/tr[22]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>4667d784-3068-4788-8167-279c1bb58c96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='258165466626313757_orig']/tbody/tr[22]/td[8]</value>
+      <webElementGuid>57ca8db7-96a3-4281-8dff-1a523c3508a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle Cloud ERP 20x'])[8]/following::td[1]</value>
+      <webElementGuid>0711f3dd-8248-4681-8d23-f9c5c97bd729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[15]/following::td[2]</value>
+      <webElementGuid>d28db9fe-3641-4b86-b75b-2e606e959cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[21]/preceding::td[1]</value>
+      <webElementGuid>1610d2a9-6b9a-455b-a6d3-3783df76187b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[14]/preceding::td[3]</value>
+      <webElementGuid>ca2e3c09-25d5-49e7-9cb1-74ec1d8b99a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[22]/td[8]</value>
+      <webElementGuid>2f7689c6-a025-4670-bd44-46018a986175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Operations' or . = 'Operations')]</value>
+      <webElementGuid>89568e12-5948-4900-9428-c8c026f8aa40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
