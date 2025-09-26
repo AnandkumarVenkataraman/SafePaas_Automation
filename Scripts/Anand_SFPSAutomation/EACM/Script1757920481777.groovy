@@ -563,7 +563,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (2)'), 'KAT')
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (22)'),
-	'MARIAB')
+	'ANANDK')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (22)'),
 	'Ioqy8emDrxi5mkiNQATzxQ==')
@@ -571,14 +571,14 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Pa
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Reset Password_loginBtn (1)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/input_My Certifications_R97799695751099620__683988 (1)'),
-	singleEnvUAR1)
+	'EBS_UAR_26092025')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_My Certifications_R97799695751099620_3d9625'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_concat(Row text contains , , EBS_UAR_574070'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/input_My Certifications_R97799695751099620__683988 (1)'),
-	singleEnvUAR1)
+	'EBS_UAR_26092025')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_My Certifications_R97799695751099620_3d9625'))
 
@@ -594,14 +594,14 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.doubleClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/td_Internet Expenses Vision Netherlands  Ne_ea2b76'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/select_Internet Expenses Vision Netherlands_99e0c8'),
-	'N', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/select_Internet Expenses Vision Netherlands_99e0c8'),
+	0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/select_Internet Expenses Vision Netherlands_99e0c8'),
-	'J', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/select_Internet Expenses Vision Netherlands_99e0c8'),
+	2)
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/input_Justification for Mass Update_P4_JUST_30273f'),
-	singleEnvUAR1)
+	'EBS_UAR_26092025')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Terminate All_B328275567060222744'))
 
@@ -611,8 +611,18 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/a_MARIAB_t-Button t-Button--icon t-Button--header'))
+WebUI.delay(2)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3_1'))
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
+
+WebUI.switchToFrame(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3_1'), 0)
+
+//WebUI.sendKeys(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3_1'), Keys.SPACE)
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3_1'), FailureHandling.OPTIONAL)
+
+WebUI.delay(2)
+WebUI.switchToDefaultContent(FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_concat(Row text contains , , EBS_UAR_574070'))
 
@@ -658,7 +668,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (2)'), 'KAT')
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (22)'),
-	'ANANDK')
+	'MARIAB')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (22)'),
 	'Ioqy8emDrxi5mkiNQATzxQ==')
