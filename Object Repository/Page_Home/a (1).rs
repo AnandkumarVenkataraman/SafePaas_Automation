@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a (1)</name>
+   <tag></tag>
+   <elementGuidId>7a5a99d5-76a6-4647-93cd-ae108ba146bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;A new access request for user \&quot;PMARTIN\&quot; has been sent for your approval.&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>887c15cb-2216-4077-80a5-94a447e68e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1200:23:1565382253034::::P23_URLC:7CBEEE6D64847477461E623BC54A58C6</value>
+      <webElementGuid>7ca99ae5-610f-40df-9dbb-c8fe7f4079cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A new access request for user &quot;PMARTIN&quot; has been sent for your approval.</value>
+      <webElementGuid>61b1e630-75cd-4df9-b6b0-6384157130f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[2]</value>
+      <webElementGuid>999b030d-c57a-443e-8841-f4a0e9c4ba73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a[2]</value>
+      <webElementGuid>8d0facdd-18a4-4b85-adc2-923a191ef8c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'A new access request for user &quot;PMARTIN&quot; has been sent for your approval.')]</value>
+      <webElementGuid>53af503c-989e-4825-babc-6d3c1f7591e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Owner'])[1]/following::a[2]</value>
+      <webElementGuid>fe30fce7-83d4-4881-9d66-7ac90beb00fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Request'])[1]/following::a[2]</value>
+      <webElementGuid>80fd13fe-034f-48e6-ac6b-89edff7d3662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
+      <webElementGuid>83bb5fb5-4623-4ef5-9328-54f4f2209821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::a[1]</value>
+      <webElementGuid>b987c3c3-3cdf-40cd-825b-530aef1412ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A new access request for user &quot;PMARTIN&quot; has been sent for your approval.']/parent::*</value>
+      <webElementGuid>968e1780-9668-414f-a2a2-c6cfeff90402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1200:23:1565382253034::::P23_URLC:7CBEEE6D64847477461E623BC54A58C6')]</value>
+      <webElementGuid>133762bb-34e5-4d92-96eb-164343bc6192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>640c2e1c-9654-4ffe-adc6-e2b09ea95840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1200:23:1565382253034::::P23_URLC:7CBEEE6D64847477461E623BC54A58C6' and (text() = 'A new access request for user &quot;PMARTIN&quot; has been sent for your approval.' or . = 'A new access request for user &quot;PMARTIN&quot; has been sent for your approval.')]</value>
+      <webElementGuid>7fe50675-3fd1-48f0-a84c-68b83e70f0fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

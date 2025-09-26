@@ -6,19 +6,19 @@
    <elementGuidId>c79833e4-bf70-40ba-b5a3-f8ff75d94010</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#L14205299837764170</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='L14205299837764170']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#L14205299837764170</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; katadmin &quot;i]</value>
+         <value>internal:role=button[name=&quot; jcarey &quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>da50897f-e275-4f09-a532-91d7d8bed936</webElementGuid>
+      <webElementGuid>0dcb430e-0aaf-43d7-9a78-ce967baf2887</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--icon t-Button t-Button--header t-Button--navBar js-menuButton</value>
-      <webElementGuid>be609a4e-fbfb-47d9-9b20-ac4c87b1583f</webElementGuid>
+      <webElementGuid>04fe804c-460c-4ce9-bf9e-d1b9196cae91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dc4a7bc0-d7d9-4f2f-9251-fe58192e67e6</webElementGuid>
+      <webElementGuid>22353ba6-fdee-45c7-876f-231d1c46f9b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>L14205299837764170</value>
-      <webElementGuid>53ed9b7b-746d-44d3-b9bb-df777bcce6f4</webElementGuid>
+      <webElementGuid>074e160a-7f13-40f3-b150-716f82732b9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>menu_L14205299837764170</value>
-      <webElementGuid>9f59cba4-9c89-4944-95a2-9595c60b181a</webElementGuid>
+      <webElementGuid>27a51ea4-a9c9-4a5e-a2a5-e8d7e77fb0df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>ee860058-85cd-478c-9f25-d4341880ddfd</webElementGuid>
+      <webElementGuid>839a4d86-d0e3-46d2-b9af-d91143424130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,9 +77,9 @@
       <name>text</name>
       <type>Main</type>
       <value>
-      katadmin
+      jcarey
   </value>
-      <webElementGuid>61b71402-1509-425c-ae30-7dfccdfcf7bc</webElementGuid>
+      <webElementGuid>75532122-7f51-4198-8772-e6f1b52a1b46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;L14205299837764170&quot;)</value>
-      <webElementGuid>15417cb1-bd36-4432-bc72-cbe6d0b334fd</webElementGuid>
+      <webElementGuid>cc79fbdf-b48b-4e34-8c16-6294296e8ff8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='L14205299837764170']</value>
-      <webElementGuid>24502e15-d5a3-467d-aa3b-d0482799f5de</webElementGuid>
+      <webElementGuid>eee2b0c6-2623-49e5-a415-701ba1bf15d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='14205299837764168']/li[2]/button</value>
-      <webElementGuid>37b89cc2-b11f-4124-b95e-92c1986bcc69</webElementGuid>
+      <webElementGuid>d002c7c8-748c-495d-9515-1b42905b5288</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/following::button[1]</value>
-      <webElementGuid>5559593b-7ee5-41e7-b86c-829bd21ba2d1</webElementGuid>
+      <webElementGuid>4d2b65ae-041d-4e3a-91d7-02d4e377a9bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::button[1]</value>
-      <webElementGuid>bc837159-88bb-450f-b3e4-f90dc608796b</webElementGuid>
+      <webElementGuid>4c9775b2-9c2e-4167-b665-48683d913bdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,19 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/button</value>
-      <webElementGuid>4ce3a7ab-4202-4739-8308-c37e6a6e2f82</webElementGuid>
+      <webElementGuid>ab8af667-be22-40b1-af4f-1fbf2c2c7f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'L14205299837764170' and (text() = '
+      jcarey
+  ' or . = '
+      jcarey
+  ')]</value>
+      <webElementGuid>690a1b90-baf8-48fe-83b5-2227f95dc349</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

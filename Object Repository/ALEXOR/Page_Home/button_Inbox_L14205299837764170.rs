@@ -6,19 +6,19 @@
    <elementGuidId>2af4881e-e2f0-451c-8865-79489f9ebcfd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#L14205299837764170</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='L14205299837764170']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#L14205299837764170</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; katalon_admin &quot;i]</value>
+         <value>internal:role=button[name=&quot; jcarey &quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c06f11fa-5df9-4ece-ae7a-73ff6840b11e</webElementGuid>
+      <webElementGuid>49bcd070-1ae7-4e82-8788-880b856e5557</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--icon t-Button t-Button--header t-Button--navBar js-menuButton</value>
-      <webElementGuid>03a885df-ca4e-405a-9bbf-059c178adc66</webElementGuid>
+      <webElementGuid>8ea5c614-9c96-40c3-af41-e8ca45e073bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0c7053c8-0bd7-4310-8fe5-35236d42201f</webElementGuid>
+      <webElementGuid>c70c60ab-2e84-489b-bf32-a0bc7104cf34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>L14205299837764170</value>
-      <webElementGuid>e6265faf-27c7-4714-a7f0-0304aabaa43a</webElementGuid>
+      <webElementGuid>9031c737-97a9-40fe-b738-6c00d60de31e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>menu_L14205299837764170</value>
-      <webElementGuid>a4c8129d-ab9e-4fbe-943c-94ccfedffbaf</webElementGuid>
+      <webElementGuid>b7b38892-903f-450a-820b-95e681af6d49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>fbbfa38f-acc2-4278-8f4c-08575579b023</webElementGuid>
+      <webElementGuid>f81ee497-7664-445d-9434-6bd7565e998b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,9 +77,9 @@
       <name>text</name>
       <type>Main</type>
       <value>
-      katalon_admin
+      jcarey
   </value>
-      <webElementGuid>fbeb337b-d83c-4035-808e-79546ae5c21f</webElementGuid>
+      <webElementGuid>04d2cc53-643e-43cf-a8a4-4b76f933f4bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;L14205299837764170&quot;)</value>
-      <webElementGuid>0e18dd04-287f-4ecb-885c-e37f50644729</webElementGuid>
+      <webElementGuid>acb62584-880b-46ff-81f3-e266e5dc0ff3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='L14205299837764170']</value>
-      <webElementGuid>694aab58-17c1-4add-9260-5b4200e65deb</webElementGuid>
+      <webElementGuid>412919cf-9080-42a3-bc8c-742445fb86d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='14205299837764168']/li[2]/button</value>
-      <webElementGuid>cf2fdf88-b215-41d4-9cd6-2068b98474bc</webElementGuid>
+      <webElementGuid>66e1b98f-ab44-447a-b442-9d5b310bb1eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/following::button[1]</value>
-      <webElementGuid>20e5cdc4-a702-4c18-9d6e-9fdd3a5a3da9</webElementGuid>
+      <webElementGuid>f15edc2f-23a3-4d02-854d-07a5c5c4ea60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::button[1]</value>
-      <webElementGuid>3eb69ad8-a4e3-4fdf-bd28-66148330e6be</webElementGuid>
+      <webElementGuid>c0d199ae-8020-4101-bd7b-1e52eb6e26e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/button</value>
-      <webElementGuid>4b93464e-82cd-4d3c-a0ce-4fd12942b997</webElementGuid>
+      <webElementGuid>d40f230c-9eff-40f0-94a6-6c731bbc1015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,10 +135,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'L14205299837764170' and (text() = '
-      katalon_admin
+      jcarey
   ' or . = '
-      katalon_admin
+      jcarey
   ')]</value>
-      <webElementGuid>3cd10b76-3ecf-4fd5-95dc-386d6b0427f9</webElementGuid>
+      <webElementGuid>5e89e952-57b1-4c07-a728-dc8839572b0c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
