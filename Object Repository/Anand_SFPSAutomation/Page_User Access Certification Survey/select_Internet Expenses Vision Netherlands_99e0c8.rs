@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Internet Expenses Vision Netherlands_99e0c8</name>
+   <tag></tag>
+   <elementGuidId>08357742-23e4-448f-8c27-0c4f59d981e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='C484081257635932120']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C484081257635932120</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Verified&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>285e9ead-0c40-43cf-b3c0-9ea970344770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>C484081257635932120</value>
+      <webElementGuid>5ab94da3-ffd8-416b-b617-dd2573d5aadd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>484081257635932120</value>
+      <webElementGuid>25463d63-a192-45fb-8ee7-99ce78c18daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>afc99e16-a954-4978-a692-af4367f69f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2d6f7f98-1d6f-4ac4-9f1a-75ccb0170f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f3ddc62c-950d-48ca-b1a1-d8bee871d5d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ff7aa3a7-446e-4be1-9cfa-ccb1c53d8d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>C484081257635932120_HDR</value>
+      <webElementGuid>a6fa1706-4530-4ca1-aec6-c83944a9ddf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not Verified
+Verified
+Terminate Access
+</value>
+      <webElementGuid>8bbae681-8b24-41c4-adce-cd35c5cefc1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;C484081257635932120&quot;)</value>
+      <webElementGuid>0a5121de-f26d-4e4e-b8e2-e29f8a3f860b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='C484081257635932120']</value>
+      <webElementGuid>5926dba8-c883-44db-a591-1922d73a600d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='uacReport_ig_grid_vc_cur']/div/select</value>
+      <webElementGuid>2ce7fb52-450b-4dd7-8a1c-f9670df65749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internet Expenses Vision Netherlands | New UI respon for NL'])[1]/following::select[1]</value>
+      <webElementGuid>b57225d3-9937-4083-beb4-23ea531f4089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Object Library'])[1]/following::select[1]</value>
+      <webElementGuid>e3894b77-9d8b-47a0-b938-0c9b4bce7dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::select[1]</value>
+      <webElementGuid>8394e2c4-a276-4291-8f8c-d4e4f582bf43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MARIAB - Maria B'])[1]/preceding::select[1]</value>
+      <webElementGuid>00278532-f9f7-4afd-998f-6e78203dc6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/select</value>
+      <webElementGuid>c8af2a6d-3a84-4eaf-8667-8d61cbe0e246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'C484081257635932120' and @name = '484081257635932120' and (text() = 'Not Verified
+Verified
+Terminate Access
+' or . = 'Not Verified
+Verified
+Terminate Access
+')]</value>
+      <webElementGuid>f27f735a-a566-4b6e-b809-9fb832945c18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

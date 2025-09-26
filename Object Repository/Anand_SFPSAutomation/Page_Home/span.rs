@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>685db791-9919-4f88-a400-ff4066835fcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SR_dashboardTab_tab']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SR_dashboardTab_tab > a.t-Tabs-link > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;My Dashboard&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80d2dfe7-199e-4cb4-95d9-1ecfcc27c046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Dashboard</value>
+      <webElementGuid>09480f36-e51f-4979-9731-4bc532a091df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR_dashboardTab_tab&quot;)/a[@class=&quot;t-Tabs-link&quot;]/span[1]</value>
+      <webElementGuid>a4a7f150-265f-4348-a53c-fe2858c9509c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SR_dashboardTab_tab']/a/span</value>
+      <webElementGuid>f9ca971b-ad5d-45b0-8e33-fcacd0fa99dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Inbox'])[1]/following::span[1]</value>
+      <webElementGuid>781708ea-85d2-4b01-9cb4-5e84c85d47b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataProbe'])[1]/following::span[6]</value>
+      <webElementGuid>100bc430-249d-4775-a785-b7540ae16ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Inbox'])[2]/preceding::span[1]</value>
+      <webElementGuid>cee1f504-d5ec-4ae0-925d-2abef73af9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::span[2]</value>
+      <webElementGuid>9a5a5583-b1b9-4b8b-ba70-ca103d6bf740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Dashboard']/parent::*</value>
+      <webElementGuid>13d23730-230d-4a41-a602-dea38b3ebd89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>b5715532-c771-4069-b56e-e38cc0499ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Dashboard' or . = 'My Dashboard')]</value>
+      <webElementGuid>f49ebd7c-f87e-4431-a9f0-5036abbf4f9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

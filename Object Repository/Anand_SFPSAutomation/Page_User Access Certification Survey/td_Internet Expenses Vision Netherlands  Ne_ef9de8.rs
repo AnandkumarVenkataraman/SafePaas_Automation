@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Internet Expenses Vision Netherlands  Ne_ef9de8</name>
+   <tag></tag>
+   <elementGuidId>2373858b-5d06-4820-8503-cecf27d677d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uacReport_ig_grid_vc']/div[2]/div[4]/table/tbody/tr/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td:nth-child(5) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c4963138-07d5-474f-b931-426e1f7164be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>56fc601e-ef2e-4e44-96f5-76a41cf6a3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>af879f9e-51d6-4194-ad51-1fa17306d1c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tS</value>
+      <webElementGuid>990b70ad-3f52-4168-bb65-8cc9242f7dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verified</value>
+      <webElementGuid>7f24f105-5fe0-4579-bfce-6ac60a7d249d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uacReport_ig_grid_vc&quot;)/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table&quot;]/tbody[1]/tr[@class=&quot;a-GV-row is-selected is-hover&quot;]/td[@class=&quot;a-GV-cell u-tS&quot;]</value>
+      <webElementGuid>b2c21662-2dce-44c7-88e0-b5ff02d8f184</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uacReport_ig_grid_vc']/div[2]/div[4]/table/tbody/tr/td[5]</value>
+      <webElementGuid>2117dc4a-1078-4726-8dbd-3007407b8374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internet Expenses Vision Netherlands | New UI respon for NL'])[1]/following::td[1]</value>
+      <webElementGuid>42377d7a-da88-41a2-96ea-f758902b8b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Object Library'])[1]/following::td[2]</value>
+      <webElementGuid>d865f244-2372-40c0-8252-e31601d1f1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[1]</value>
+      <webElementGuid>8b9cad24-eec8-4089-93cd-5f9225de01e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MARIAB - Maria B'])[1]/preceding::td[2]</value>
+      <webElementGuid>98c3c9a6-62ae-4c77-87f3-6b284408b023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>a794f1fc-3c83-4640-a294-43399186039d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Verified' or . = 'Verified')]</value>
+      <webElementGuid>227198f4-dcd0-4a27-840e-e31772ce5abe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
