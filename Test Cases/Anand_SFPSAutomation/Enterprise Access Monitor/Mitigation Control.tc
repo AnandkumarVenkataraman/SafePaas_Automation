@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mitigation Control</description>
+   <name>Mitigation Control</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>453f82eb-f024-4ccc-981a-d7d64e45ee84</testCaseGuid>
+</TestCaseEntity>

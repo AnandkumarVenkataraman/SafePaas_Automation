@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SOD RestrictedAccess</description>
+   <name>SOD RestrictedAccess</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f765277-014b-4f32-a11a-53affc0f2b95</testCaseGuid>
+</TestCaseEntity>
