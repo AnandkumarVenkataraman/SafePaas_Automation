@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM_Copy</description>
+   <name>EACM_Copy</name>
+   <tag>EACM_Copy</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c529c5f-447a-451f-8d4c-5372b1e55f3a</testCaseGuid>
+</TestCaseEntity>

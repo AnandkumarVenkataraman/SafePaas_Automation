@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>SFP-1021</description>
-   <name>SODTest_Scheduler</name>
+   <description>Exceptions</description>
+   <name>Exceptions</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>be5c45ad-7dbd-4034-a04c-7bbe3b993a96</testCaseGuid>
+   <testCaseGuid>0b9d3766-4a86-4503-9ec0-5a093aef7cae</testCaseGuid>
 </TestCaseEntity>
