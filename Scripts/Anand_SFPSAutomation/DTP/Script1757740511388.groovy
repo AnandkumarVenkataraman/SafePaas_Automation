@@ -331,7 +331,7 @@ WebUI.delay(8)
 WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), dtpEBSJob1)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_Upload Data_mngSnap_search_button'))
-WebUI.delay(900)
+WebUI.delay(1800)
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), 'PARENT')
 
