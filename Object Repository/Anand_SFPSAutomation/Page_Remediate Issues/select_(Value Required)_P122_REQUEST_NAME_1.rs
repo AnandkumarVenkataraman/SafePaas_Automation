@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_(Value Required)_P122_REQUEST_NAME_1</name>
+   <tag></tag>
+   <elementGuidId>fbafd8e9-089c-4028-8be2-295b1e5d173a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P122_REQUEST_NAME</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P122_REQUEST_NAME']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Request Name (Value Required)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e56aa040-8435-45e2-bb0c-804ffe1efffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P122_REQUEST_NAME</value>
+      <webElementGuid>357e2bac-bfe9-43bc-8eca-20d3154eac2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P122_REQUEST_NAME</value>
+      <webElementGuid>e24d7491-efb2-46f3-b38a-92f435e83788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>3809a690-d2cc-45ab-952d-84c6fa586449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5f50fafc-d5a8-4ec8-bf15-44d1c0c2cbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>fed4cd19-d484-44a2-8525-0353793d7d68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+SODTEST_06102025
+SODTEST_0710_V12
+SODTEST_07102025_V4
+SODTEST_07102025_V3
+SODTEST_07102025_V2
+SODTEST_07102025
+SOD_RA_27092025133126_V1
+SODTEST_2709_V12_V1
+SODTEST_1209_V1
+SODTEST_SODDECT_V1
+SODTEST_JUL12_V8
+SODTEST_JUL12_V7
+SODTEST_JUL12_V6
+SODTEST_JUL12_V5
+SODTEST_JUL12_V4
+SODTEST_JUL12_V3
+SODTEST_JUL12_V2
+SODTEST_JUL12_V1
+SODTEST_JUL11_V1
+SODTEST_JUL2_V8
+SODTEST_JUL2_V7
+SODTEST_JUL2_V6
+SODTEST_JUL2_V5
+SODTEST_JUL2_V4
+SODTEST_JUL2_V3
+SODTEST_JUL2_V2
+SODTEST_JUL2_V1
+SODTEST_EAM471_V2
+SODTEST_EAM471_V1
+SODTEST_JUN23_V1
+SODTEST_JUN20_V3
+SODTEST_JUN20_V2
+SODTEST_JUN20_V1
+SODTest_26SEP24
+SODTest_26AUG24
+SODTest_21AUG24
+SODTest_20AUG24
+SODTest_01_JUL_2024
+SODTest_Jun13_v1
+NOVA_ERM_SODTest_Jun11_v1
+SODTest_Jun4_v1
+SODTest_May24_v1
+</value>
+      <webElementGuid>a383a95a-142c-41e0-855a-3dffcccd7953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P122_REQUEST_NAME&quot;)</value>
+      <webElementGuid>c779bdeb-3a82-4bd7-a483-9cbb74f1aa8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P122_REQUEST_NAME']</value>
+      <webElementGuid>1342a44f-de98-49cc-af71-088ad70e2470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P122_REQUEST_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>a90d0b5c-df7f-43c6-9c5d-c836dc725666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/following::select[1]</value>
+      <webElementGuid>36eb5507-8d86-4b77-a572-721197ad2ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/preceding::select[1]</value>
+      <webElementGuid>eefa60bd-45e8-42f6-824f-e55fde8fcd7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule'])[1]/preceding::select[1]</value>
+      <webElementGuid>27cbfd68-d234-46a5-bb81-7735c441101b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/select</value>
+      <webElementGuid>c6f942da-5a61-4465-aaa4-b782c3d3fc86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P122_REQUEST_NAME' and @name = 'P122_REQUEST_NAME' and (text() = 'Select any One
+SODTEST_06102025
+SODTEST_0710_V12
+SODTEST_07102025_V4
+SODTEST_07102025_V3
+SODTEST_07102025_V2
+SODTEST_07102025
+SOD_RA_27092025133126_V1
+SODTEST_2709_V12_V1
+SODTEST_1209_V1
+SODTEST_SODDECT_V1
+SODTEST_JUL12_V8
+SODTEST_JUL12_V7
+SODTEST_JUL12_V6
+SODTEST_JUL12_V5
+SODTEST_JUL12_V4
+SODTEST_JUL12_V3
+SODTEST_JUL12_V2
+SODTEST_JUL12_V1
+SODTEST_JUL11_V1
+SODTEST_JUL2_V8
+SODTEST_JUL2_V7
+SODTEST_JUL2_V6
+SODTEST_JUL2_V5
+SODTEST_JUL2_V4
+SODTEST_JUL2_V3
+SODTEST_JUL2_V2
+SODTEST_JUL2_V1
+SODTEST_EAM471_V2
+SODTEST_EAM471_V1
+SODTEST_JUN23_V1
+SODTEST_JUN20_V3
+SODTEST_JUN20_V2
+SODTEST_JUN20_V1
+SODTest_26SEP24
+SODTest_26AUG24
+SODTest_21AUG24
+SODTest_20AUG24
+SODTest_01_JUL_2024
+SODTest_Jun13_v1
+NOVA_ERM_SODTest_Jun11_v1
+SODTest_Jun4_v1
+SODTest_May24_v1
+' or . = 'Select any One
+SODTEST_06102025
+SODTEST_0710_V12
+SODTEST_07102025_V4
+SODTEST_07102025_V3
+SODTEST_07102025_V2
+SODTEST_07102025
+SOD_RA_27092025133126_V1
+SODTEST_2709_V12_V1
+SODTEST_1209_V1
+SODTEST_SODDECT_V1
+SODTEST_JUL12_V8
+SODTEST_JUL12_V7
+SODTEST_JUL12_V6
+SODTEST_JUL12_V5
+SODTEST_JUL12_V4
+SODTEST_JUL12_V3
+SODTEST_JUL12_V2
+SODTEST_JUL12_V1
+SODTEST_JUL11_V1
+SODTEST_JUL2_V8
+SODTEST_JUL2_V7
+SODTEST_JUL2_V6
+SODTEST_JUL2_V5
+SODTEST_JUL2_V4
+SODTEST_JUL2_V3
+SODTEST_JUL2_V2
+SODTEST_JUL2_V1
+SODTEST_EAM471_V2
+SODTEST_EAM471_V1
+SODTEST_JUN23_V1
+SODTEST_JUN20_V3
+SODTEST_JUN20_V2
+SODTEST_JUN20_V1
+SODTest_26SEP24
+SODTest_26AUG24
+SODTest_21AUG24
+SODTest_20AUG24
+SODTest_01_JUL_2024
+SODTest_Jun13_v1
+NOVA_ERM_SODTest_Jun11_v1
+SODTest_Jun4_v1
+SODTest_May24_v1
+')]</value>
+      <webElementGuid>4022cb0c-977b-452a-b264-e887b7dff58f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>EAM Security</description>
-   <name>EAM Security</name>
+   <description>Mitigation Control</description>
+   <name>Mitigations</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>34c202df-a0db-4e3e-bb88-fc2a934c3d6f</testCaseGuid>
+   <testCaseGuid>453f82eb-f024-4ccc-981a-d7d64e45ee84</testCaseGuid>
 </TestCaseEntity>
