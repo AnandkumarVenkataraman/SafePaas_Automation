@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>EACM_Survey</description>
-   <name>EACM_Survey</name>
+   <description>EACM_Security</description>
+   <name>Security</name>
    <tag>EACM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>4198d9f7-ae30-4ddc-81db-e1f73a0de274</testCaseGuid>
+   <testCaseGuid>cce75610-8306-4321-8c07-85b52214772b</testCaseGuid>
 </TestCaseEntity>

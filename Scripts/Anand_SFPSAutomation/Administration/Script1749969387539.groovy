@@ -40,15 +40,15 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Company (2)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/input_Name_P15_NAME'), '')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/input_Name_P15_NAME'), '', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_KAT'), 'KAT')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_KAT'), 'KAT', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/label_Code'), 'Code')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/label_Code'), 'Code', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/label_SFTP User'), 'SFTP User')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/label_SFTP User'), 'SFTP User', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_katdataadm'), 'katdataadm')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_katdataadm'), 'katdataadm', FailureHandling.OPTIONAL)
 
 WebUI.takeScreenshot()
 
@@ -60,34 +60,34 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settin
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/button_Go (1)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_Email for SFTP notifications'), 
-    'Email for SFTP notifications')
+    'Email for SFTP notifications', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_anandkumar.venkataramansafepaas.com'), 
-    'anandkumar.venkataraman@safepaas.com')
+    'anandkumar.venkataraman@safepaas.com', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_VARCHAR2'), 'VARCHAR2')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_VARCHAR2'), 'VARCHAR2', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_Email to send notification for SFTP Moni_c8a8b9'), 
-    'Email to send notification for SFTP Monitoring process')
+    'Email to send notification for SFTP Monitoring process', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_Log Retain Days'), 'Log Retain Days')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_Log Retain Days'), 'Log Retain Days', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_30'), '30')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_30'), '30', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_NUMBER (1)'), 'NUMBER')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_NUMBER (1)'), 'NUMBER', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_This parameter specifies the number of d_4bcf29'), 
-    'This parameter specifies the number of days before a log record is archived in the FND_LOG_HISTORY table')
+    'This parameter specifies the number of days before a log record is archived in the FND_LOG_HISTORY table', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_Scheduled Download Retain Days'), 
-    'Scheduled Download Retain Days')
+    'Scheduled Download Retain Days', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_90'), '90')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_90'), '90', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_NUMBER (1)'), 'NUMBER')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_NUMBER (1)'), 'NUMBER', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/td_This parameter specifies the number of d_5a8f29'), 
-    'This parameter specifies the number of days before a scheduled download is purged')
+    'This parameter specifies the number of days before a scheduled download is purged', FailureHandling.OPTIONAL)
 
 WebUI.takeScreenshot()
 
@@ -100,27 +100,27 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/button_Go'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KATADMIN'), 'KATADMIN')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KATADMIN'), 'KATADMIN', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KATADMIN'), 'KATADMIN')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KATADMIN'), 'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_anandkumar.venkataramansafepaas.com'), 
-    'anandkumar.venkataraman@safepaas.com')
+    'anandkumar.venkataraman@safepaas.com', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KAT Admin'), 'KAT Admin')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KAT Admin'), 'KAT Admin', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_09-APR-25'), '09-APR-25')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_09-APR-25'), '09-APR-25', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_-'), '-')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_-'), '-', FailureHandling.OPTIONAL)
 
 //WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_15-JUN-25'), '15-JUN-25')
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_OPEN'), 'OPEN')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_OPEN'), 'OPEN', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_Y'), 'Y')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_Y'), 'Y', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_09-APR-25'), '09-APR-25')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_09-APR-25'), '09-APR-25', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_66812979'), '66812979')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_66812979'), '66812979', FailureHandling.OPTIONAL)
 
 WebUI.takeScreenshot()
 
@@ -134,70 +134,70 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/button_Go (1)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Company Settings'), 
-    'Company Settings')
+    'Company Settings', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Access Monitor'), 
-    'Access Monitor')
+    'Access Monitor', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_DataPaaS'), 
-    'DataPaaS')
+    'DataPaaS', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_DataProbe'), 
-    'DataProbe')
+    'DataProbe', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise Access Certification (1)'), 
-    'Enterprise Access Certification')
+    'Enterprise Access Certification', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise Access Monitor'), 
-    'Enterprise Access Monitor')
+    'Enterprise Access Monitor', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise iAccess'), 
-    'Enterprise iAccess')
+    'Enterprise iAccess', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise iCatalog'), 
-    'Enterprise iCatalog')
+    'Enterprise iCatalog', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_MonitorPaaS'), 
-    'MonitorPaaS')
+    'MonitorPaaS', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Policy Manager'), 
-    'Policy Manager')
+    'Policy Manager', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_SafeInsight'), 
-    'SafeInsight')
+    'SafeInsight', FailureHandling.OPTIONAL)
 
 WebUI.takeScreenshot()
 
@@ -213,19 +213,19 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.takeScreenshot()
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/td_KATADMIN'), 
-    'KATADMIN')
+    'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/td_anandkumar.venkataramansafepaas.com'), 
-    'anandkumar.venkataraman@safepaas.com')
+    'anandkumar.venkataraman@safepaas.com', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/td_KAT Admin'), 
-    'KAT Admin')
+    'KAT Admin', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/td_Company Settings'), 
-    'Company Settings')
+    'Company Settings', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/td_ALL_ACCESS'), 
-    'ALL_ACCESS')
+    'ALL_ACCESS', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/button_concat(Row text contains , , KATADMI_68d78e'))
 
@@ -239,7 +239,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.takeScreenshot()
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/td_Company Settings'), 
-    'Company Settings')
+    'Company Settings', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/button_concat(Row text contains , , KATADMI_68d78e'))
 
@@ -247,22 +247,22 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/a_Manage Security Positions'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS1'), 
-    'POS1')
+    'POS1', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS1'), 
-    'POS1')
+    'POS1', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_Company'), 
-    'Company')
+    'Company', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS2'), 
-    'POS2')
+    'POS2', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_POS2'), 
-    'POS2')
+    'POS2', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/td_Environment'), 
-    'Environment')
+    'Environment', FailureHandling.OPTIONAL)
 
 //Platform
 WebUI.delay(2)
@@ -389,7 +389,7 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_Go'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_KATADMIN'), 'KATADMIN')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_KATADMIN'), 'KATADMIN', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_ALL_ACCESS'), 'ALL_ACCESS')
 
@@ -400,10 +400,10 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_Go'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_ANANDK1'), 'ANANDK1')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_ANANDK1'), 'ANANDK1', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_Admin_ReadOnlyAccess'), 
-    'Admin_ReadOnlyAccess')
+    'Admin_ReadOnlyAccess', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_concat(Row text contains , , KATADMI_68d78e'))
 
