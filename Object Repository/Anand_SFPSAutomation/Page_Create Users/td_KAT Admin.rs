@@ -6,12 +6,11 @@
    <elementGuidId>9d3f9e8d-a4d6-4c54-9509-49a540096257</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = 'KAT Admin' or . = 'KAT Admin')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//table[@id='23213810039438815']/tbody/tr[2]/td[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>a4ece78d-ebb0-4ddf-98fd-35a6ddcf3879</webElementGuid>
+      <webElementGuid>e4653986-3fb0-4595-ac5b-eba7ba8535f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value> u-tL</value>
-      <webElementGuid>feef22db-3e36-4c21-a5c5-03821a166078</webElementGuid>
+      <webElementGuid>8f72e101-269d-422f-897e-add335667729</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>headers</name>
       <type>Main</type>
       <value>DESCRIPTION</value>
-      <webElementGuid>c7c158e8-a527-4594-b5ee-4de0a03c8ad2</webElementGuid>
+      <webElementGuid>9b657cbb-09ba-4437-9dac-5dafd0024489</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>KAT Admin</value>
-      <webElementGuid>c5da7765-82be-4cb6-92a3-6df129761741</webElementGuid>
+      <webElementGuid>b0eb1712-0e9b-4882-b753-d1a9c23b84ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;23213810039438815&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
-      <webElementGuid>a968714c-1e3f-455d-b4c9-49eed3f81907</webElementGuid>
+      <webElementGuid>1027b9fe-229c-4590-8fea-6a3d6c50f531</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'KAT Admin' or . = 'KAT Admin')]</value>
-      <webElementGuid>4ab3d2e3-3019-4c33-92ef-5131785e7f67</webElementGuid>
+      <webElementGuid>4b4b4526-7dd1-4c9d-9bf6-796e0d4ab9a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='23213810039438815']/tbody/tr[2]/td[5]</value>
-      <webElementGuid>302f4a39-48c0-40a7-9c80-bc41677d9d89</webElementGuid>
+      <webElementGuid>12c44093-f225-4b91-b0ed-5fcb9d0853d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='anandkumar.venkataraman@safepaas.com'])[1]/following::td[1]</value>
-      <webElementGuid>6c7a8a6e-5b07-4cfc-8f5c-78b1a85071eb</webElementGuid>
+      <webElementGuid>3e58081d-dbad-462d-8372-0e84b055dc44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[3]/following::td[2]</value>
-      <webElementGuid>f1c2b7db-4fc2-401a-9c4b-0e47044f6c9a</webElementGuid>
+      <webElementGuid>aa391a66-3bd8-431a-a8d4-8e5426a9ffa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[2]</value>
-      <webElementGuid>7a5094f5-5e82-4c54-9de5-8d6344917098</webElementGuid>
+      <webElementGuid>5d1d210a-b444-4486-96b2-135833d63527</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[6]</value>
-      <webElementGuid>66fad0b3-325e-4f08-a48f-310023edb884</webElementGuid>
+      <webElementGuid>7016005f-12e5-42c4-9453-234eddd83b21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='KAT Admin']/parent::*</value>
-      <webElementGuid>3d41eb47-5cce-456e-8880-2129d48aec67</webElementGuid>
+      <webElementGuid>2e243285-c464-4ee0-abde-b9b1927b1584</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +124,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]</value>
-      <webElementGuid>e9b18203-b8ea-4e81-bb8d-f1d97073925f</webElementGuid>
+      <webElementGuid>849d9462-150e-411f-b8f9-d9a8e9803c6c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

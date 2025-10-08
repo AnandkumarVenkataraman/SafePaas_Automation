@@ -6,12 +6,12 @@
    <elementGuidId>f5088e5d-7864-4336-805f-ee75e07242d6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = 'KATADMIN' or . = 'KATADMIN')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td.u-tL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='23213810039438815']/tbody/tr[2]/td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>a9dbdc48-aeac-4bca-be74-ef0fa086703c</webElementGuid>
+      <webElementGuid>a1662950-18ab-4761-8dc2-9d58563ef620</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value> u-tL</value>
-      <webElementGuid>50d5991b-8374-4880-af43-3ed89e899b63</webElementGuid>
+      <webElementGuid>f9f8f684-f0bd-4d52-9765-36031d528d19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>headers</name>
       <type>Main</type>
       <value>USER_NAME</value>
-      <webElementGuid>af46930a-6ede-4e9a-be82-d3fbd58cbbd9</webElementGuid>
+      <webElementGuid>6ddf100a-bd4f-4759-a710-0dcb523e7185</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>KATADMIN</value>
-      <webElementGuid>73ae7967-73b9-4127-84dd-f819adfc2ce1</webElementGuid>
+      <webElementGuid>44f7e7ca-5df8-4a58-849e-67a2ff21e9c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;23213810039438815&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
-      <webElementGuid>aeb62d46-b1e6-493a-9b80-3e8ef7eb50a1</webElementGuid>
+      <webElementGuid>749c2872-321b-4e56-ba87-244a0535256e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'KATADMIN' or . = 'KATADMIN')]</value>
-      <webElementGuid>ee913b49-14bb-499d-8af5-f1b400b89d84</webElementGuid>
+      <webElementGuid>68e567b9-cc3b-41b2-abee-c1f63f4f0eef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='23213810039438815']/tbody/tr[2]/td[2]</value>
-      <webElementGuid>8abbb1d8-edd7-4bfa-a5be-38ed8ecb4c0b</webElementGuid>
+      <webElementGuid>07779e3f-9773-4f5d-abe0-8b1d0eb67905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[1]/following::td[2]</value>
-      <webElementGuid>a3a8d552-94ee-437f-adbd-e34ad835563e</webElementGuid>
+      <webElementGuid>4c4d9004-29fd-478c-a55c-c4bc248c0ed4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[3]/preceding::td[1]</value>
-      <webElementGuid>47ec3b96-e4e4-4c0d-a99b-794e65b2b9ae</webElementGuid>
+      <webElementGuid>d5f9707b-dd48-4878-a4a4-b5e48e396d07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='anandkumar.venkataraman@safepaas.com'])[1]/preceding::td[2]</value>
-      <webElementGuid>5834c0e8-78f3-4372-902c-ad017cfd173f</webElementGuid>
+      <webElementGuid>687140f6-c131-4d4b-976b-ab9cadcf396e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]</value>
-      <webElementGuid>37c8e85e-2502-4096-ab0c-fd1e3458f9c5</webElementGuid>
+      <webElementGuid>0a9a8532-0aeb-4e8f-b2b4-b11d9593a649</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
