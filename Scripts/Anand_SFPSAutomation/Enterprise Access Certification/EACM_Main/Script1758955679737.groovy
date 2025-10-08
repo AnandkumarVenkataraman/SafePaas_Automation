@@ -10,7 +10,7 @@ import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
-import com.kms.katalon.core.testobject.ConditionType
+import com.kms.katalon.core.testobject.ConditionType as ConditionType
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
@@ -25,6 +25,7 @@ import java.time.format.DateTimeFormatter as DateTimeFormatter
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
 WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (3)'), 'KAT')
@@ -49,9 +50,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Company/span_Company_
 WebUI.setText(findTestObject('Object Repository/Page_Settings/input_Settings_R307838823214507554_ig_toolb_058319'), 'Enterprise Access Certification')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/button_Settings_a-Button a-Toolbar-item'))
+
 WebUI.takeScreenshot()
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/button_concat(Search for , , Enterprise Acc_57ba07'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/button_concat(Search for , , Enterprise Acc_57ba07'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/span_Subscription_t-Tabs-label'))
 
@@ -124,6 +127,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Email Configuration/a
 
 //Verify pop-up
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
+
 WebUI.delay(2)
 
 //Manage Env.
@@ -135,13 +139,10 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Company
 
 //WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'),
 //	'EBizApp_JDBC')
-
 //WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button (1)'))
-
 //WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_concat(Row text contains , , EBizApp_824ca1'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'),
-	'Test_Environment')
+WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'), 
+    'Test_Environment')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button (1)'))
 
@@ -153,8 +154,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environmen
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_concat(Row text contains , , EBizApp_824ca1'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'),
-	'JDE_Env')
+WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'), 
+    'JDE_Env')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button (1)'))
 
@@ -164,8 +165,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environmen
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_concat(Row text contains , , EBizApp_824ca1'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'),
-	'EBizApp_JDBC_Env')
+WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (3)'), 
+    'EBizApp_JDBC_Env')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button (1)'))
 
@@ -180,7 +181,6 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/bu
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
 
 //EACM Setups
-
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (8)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle'))
@@ -189,72 +189,73 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Cert
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Setup_a-TreeView-label (2)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Network Users/select_Environment_P0_ENVIRONMENT'),
-	'9148', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Network Users/select_Environment_P0_ENVIRONMENT'), 
+    '9148', true)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Network Users/select_Environment_P0_ENVIRONMENT'),
-	0)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Network Users/select_Environment_P0_ENVIRONMENT'), 
+    0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Network Users/a_Manage Network Users_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	'9028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'), 
+    '9028', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	'5888', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'), 
+    '5888', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	'8028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'), 
+    '8028', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	'7408', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'), 
+    '7408', true)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	0)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'), 
+    0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Access Groups/a_Manage Access Groups_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'9028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'), 
+    '9028', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'5888', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'), 
+    '5888', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'8028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'), 
+    '8028', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'7408', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'), 
+    '7408', true)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	0)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'), 
+    0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/a_Manage Access Groups Category Mapping_a-T_716809'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '9028',
-	true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '9028', 
+    true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/a'))
+
 WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Roles/span_AP_t-Tabs-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '5888',
-	true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '5888', 
+    true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/a_1'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Roles/span_AP_t-Tabs-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '8028',
-	true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '8028', 
+    true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/a_2'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Identity/span_BU1_t-Tabs-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '7408',
-	true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), '7408', 
+    true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/a_3'))
 
@@ -262,11 +263,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Roles/span_AP_t
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT'), 0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT (1)'), '5888',
-	true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Scope Access/select_Environment_P0_ENVIRONMENT (1)'), '5888', 
+    true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Scope Access/input_Role Groups in Scope_R324291159469100_620fa9'),
-	'Application Object Library')
+WebUI.setText(findTestObject('Object Repository/Page_Scope Access/input_Role Groups in Scope_R324291159469100_620fa9'), 
+    'Application Object Library')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/button_Role Groups in Scope_R32429115946910_511a2b'))
 
@@ -280,8 +281,8 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Scope Access/se
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Scope Access/a_Scope Access_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
-	'9028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'), 
+    '9028', true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/span'))
 
@@ -295,8 +296,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assig
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Scope Access_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
-	'5888', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'), 
+    '5888', true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/span_2'))
 
@@ -308,8 +309,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assig
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Scope Access_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
-	'8028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'), 
+    '8028', true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/span_3'))
 
@@ -323,8 +324,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assig
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Scope Access_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
-	'7408', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'), 
+    '7408', true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/a_3'))
 
@@ -340,36 +341,36 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assig
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/span_1'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'),
-	0)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Approval Assignments/select_Environment_P0_ENVIRONMENT'), 
+    0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Approval Assignments/a_Manage Approval Assignments_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
-	'5888', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'), 
+    '5888', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
-	'7408', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'), 
+    '7408', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
-	'9028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'), 
+    '9028', true)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'),
-	0)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Risk Levels/select_Environment_P0_ENVIRONMENT'), 
+    0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Risk Levels/a_Assign EACM Roles_a-TreeView-label'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
-	'9028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'), 
+    '9028', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
-	'5888', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'), 
+    '5888', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
-	'8028', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'), 
+    '8028', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'),
-	'7408', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Certification Configuration/select_Environment_P41_ENVIRONMENT_AG'), 
+    '7408', true)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Certification Configuration/span'))
 
@@ -381,8 +382,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Certification Configu
 
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
-//Single Env. UAR, and Analytics, & Workflow
-
+//Single Env. UAR, and Analytics
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (9)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (1)'))
@@ -417,18 +417,21 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/
 //dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
 //
 //WebUI.enhancedClick(dynamicDateObject)
+String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern('d'))
 
-String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern("d"))
-WebUI.comment("Target Day: " + dayString)
-String dynamicXPath = "//a[@href='#' and normalize-space(text())='" + dayString + "']"
-WebUI.comment("Dynamic XPath: " + dynamicXPath)
+WebUI.comment('Target Day: ' + dayString)
 
-TestObject dynamicDateObject = new TestObject("dynamicDate")
-dynamicDateObject.addProperty("xpath", ConditionType.EQUALS, dynamicXPath)
+String dynamicXPath = ('//a[@href=\'#\' and normalize-space(text())=\'' + dayString) + '\']'
+
+WebUI.comment('Dynamic XPath: ' + dynamicXPath)
+
+TestObject dynamicDateObject = new TestObject('dynamicDate')
+
+dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
+
 WebUI.enhancedClick(dynamicDateObject)
 
 //WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/a_Sa_ui-state-default ui-state-hover'))
-
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Sa_ui-datepicker-close ui-state-defa_3b90c3'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/label_Terminate Access_u-radio'))
@@ -438,6 +441,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/input_Role Group_f01'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Cancel_B284164618569469737'))
+
 WebUI.delay(2)
 
 //WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Certification/h2_Breadcrumb_t-Alert-title'), 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21636 at Administration -> Platform -> Scheduler')
@@ -450,7 +454,8 @@ WebUI.waitForElementVisible(successMsgObj, 20, FailureHandling.STOP_ON_FAILURE)
 
 String uacID = WebUI.getText(successMsgObj)
 
-WebUI.comment("Certification job message: " + uacID)
+WebUI.comment('Certification job message: ' + uacID)
+
 WebUI.delay(1)
 
 //WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/h2_Certification job was initiated successf_3b953f'))
@@ -459,22 +464,22 @@ def matcher = uacID =~ '(FSOD_[A-Z0-9_]+)'
 String actualUACId = matcher ? (matcher[0])[1] : null
 
 WebUI.comment('Extracted UAC ID: ' + actualUACId)
+
 WebUI.delay(300)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Certification/button_Breadcrumb_t-Button t-Button--noUI t_c90c1f'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Certification/a_Manage Certification_a-TreeView-label'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage User Access/input_User Access_userAccessReport_search_field'),
-	singleEnvUAR1)
-
+WebUI.setText(findTestObject('Object Repository/Page_Manage User Access/input_User Access_userAccessReport_search_field'), 
+    singleEnvUAR1)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/button_User Access_userAccessReport_search_button'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Environment Name_reportLink'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_EBS_UAR_SEPT172025_V1_t-Report-cell'),
-	'Open')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_EBS_UAR_SEPT172025_V1_t-Report-cell'), 
+    'Open')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Open_t-Report-cell'), '0')
 
@@ -484,8 +489,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Valid
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Maria B_t-Report-cell'), 'Open')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Anandkumar Venkataraman_t-Report-cell'),
-	'Open')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Anandkumar Venkataraman_t-Report-cell'), 
+    'Open')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Access Validation/a_Access Certification_t-Breadcrumb-label'))
 
@@ -494,25 +499,44 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/bu
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
 //Verify in Scheduler
-
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (11)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Company Settings_a-TreeView-toggle (2)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Platform_a-TreeView-label (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field (1)'), actualUACId)
+WebUI.delay(20)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button (1)'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Job Time_P29_JOB_TIME'), 
+    1)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Scheduler/td_-_u-tL'), 'SUCCEEDED')
+WebUI.delay(20)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_concat(Row text contains , , 21670, _9215fa'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Job Time_P29_JOB_TIME'), 
+    0)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+WebUI.delay(20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field (1)'), actualUACId, 
+    FailureHandling.OPTIONAL)
+
+WebUI.delay(20)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button (1)'), 
+    FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Scheduler/td_-_u-tL'), 'SUCCEEDED', 
+    FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_concat(Row text contains , , 21670, _9215fa'), 
+    FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'), 
+    FailureHandling.OPTIONAL)
 
 //Send reminder emails from Manage User Access
-
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (15)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (2)'))
@@ -523,8 +547,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1400:11:11290823382912:::11::')
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/input_User Access_userAccessReport_search_field (1)'),
-	singleEnvUAR1)
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/input_User Access_userAccessReport_search_field (1)'), 
+    singleEnvUAR1)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/button_User Access_userAccessReport_search_button'))
 
@@ -534,8 +558,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/button_Open_B163976659956487332'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/h2_Breadcrumb_t-Alert-title'),
-	'Email reminder has been sent')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/h2_Breadcrumb_t-Alert-title'), 
+    'Email reminder has been sent')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/button_Email reminder has been sent_t-Butto_8b503d (1)'))
 
@@ -543,8 +567,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/button_Open_B163976659956487332'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/h2_Breadcrumb_t-Alert-title'),
-	'Email reminder has been sent')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/h2_Breadcrumb_t-Alert-title'), 
+    'Email reminder has been sent')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/button_Email reminder has been sent_t-Butto_8b503d (1)'))
 
@@ -558,15 +582,5 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i'))
 
-//Launch the survey; certify the records, and verify the Dashboard as well
-//for old code, refer to EACM_Copy from line no. 34 to 275
-
-
-//Analytics for a single Env. UAR ->
-//This will be tested, once EACM-899 is fixed
-
-//Multi Env. UAR, and Analytics, & Workflow
-//Call DTP1104_Env_ReArchitecture script here
-
-//Single Env. UAR -> Identity-based grouping, and Analytics, & Workflow
+WebUI.closeBrowser()
 

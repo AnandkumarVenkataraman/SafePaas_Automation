@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
-
-WebUI.delay(10)
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/a_My Certifications'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
+//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
+//
+//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
+//
+//WebUI.delay(10)
+//
+//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
+//
+//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/a_My Certifications'))
+//
+//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
 
 //WebUI.closeBrowser()
 
@@ -273,3 +273,18 @@ WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Acc
 //WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Certification/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
 //End of EACM Old
+
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Job Time_P29_JOB_TIME'),
+	1)
+WebUI.delay(20)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Job Time_P29_JOB_TIME'),
+	0)
+WebUI.delay(20)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/div_Refresh_P29_JOB_TIME_CONTAINER'))
+
+
+
+
