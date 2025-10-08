@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FilterFalsePositives</description>
+   <name>FilterFalsePositives</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6f7c144-2b02-43c5-9b25-3a6d29487286</testCaseGuid>
+</TestCaseEntity>

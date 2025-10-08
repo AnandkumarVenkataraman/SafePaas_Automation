@@ -681,26 +681,5 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation 
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
-
-//Mass Update Exception. This will be added later
-
-//Remediation
-
-//Dashboard. This will be added as part of SFP-1016
-
-//Mitigations. This will be added as part of EAM-1070
-
-//Restricted Access SOD
-
-//CrossApp SOD. This will be added as part of DTP-1104 [Env. Re-arch]
-
-//Security
-
-//SOD Review Survey
-
-//Rules Review
-
-//ERM
-
-//WebUI.closeBrowser()
+WebUI.closeBrowser()
 

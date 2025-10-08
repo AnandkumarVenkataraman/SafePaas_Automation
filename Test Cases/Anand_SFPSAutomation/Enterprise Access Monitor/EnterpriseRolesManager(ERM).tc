@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EnterpriseRolesManager(ERM)</description>
+   <name>EnterpriseRolesManager(ERM)</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11c35624-4bd5-4971-b62f-e598c1907b18</testCaseGuid>
+</TestCaseEntity>
