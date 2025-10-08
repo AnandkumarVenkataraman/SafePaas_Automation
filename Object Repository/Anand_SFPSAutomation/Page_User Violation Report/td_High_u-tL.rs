@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_High_u-tL</name>
+   <tag></tag>
+   <elementGuidId>bdd0fa48-8d94-48c4-b2d6-094aa68855d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;MCD Project Business Analyst[MCD_PJF_PROJECTS_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>95b75f22-2d9d-4f13-81e9-826f430b2e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>cdf268b9-ede8-4538-9405-ba9dd237328d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C338895941151725710</value>
+      <webElementGuid>3aac9153-ce88-4193-8531-046f199964d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MCD Project Business Analyst[MCD_PJF_PROJECTS_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]</value>
+      <webElementGuid>bb7787f4-324d-488f-ba41-3102fb9e3d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;154256958746258637_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>1d6555ed-3aaa-4c64-bff8-9e5d69241d9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td[5]</value>
+      <webElementGuid>dc636833-6be8-473f-b64a-5d2cc38e0506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High'])[1]/following::td[1]</value>
+      <webElementGuid>0641c7c5-5dc2-4a01-b5e7-00fe17b45413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SET'])[1]/following::td[2]</value>
+      <webElementGuid>3d13d770-25b3-4cec-a7e4-8cc094515c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[2]</value>
+      <webElementGuid>f24d6d41-03a7-4b45-b541-3b0514e60beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[3]</value>
+      <webElementGuid>ac95baa7-a9ef-4ce7-8445-8aba40830fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MCD Project Business Analyst[MCD_PJF_PROJECTS_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]']/parent::*</value>
+      <webElementGuid>2537c49b-d98a-46d5-b6b1-f91ac050f481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>f767d77f-5f03-46b8-8d02-ddd17bcde9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'MCD Project Business Analyst[MCD_PJF_PROJECTS_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]' or . = 'MCD Project Business Analyst[MCD_PJF_PROJECTS_APPLICATION_ADMINISTRATOR_JOB_CUSTOM1]')]</value>
+      <webElementGuid>be047e96-4035-4440-9956-cd5cc24651c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

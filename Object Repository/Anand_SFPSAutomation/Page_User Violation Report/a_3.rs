@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_3</name>
+   <tag></tag>
+   <elementGuidId>16287eef-75b0-4644-9ef6-7825a3a52f71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Test Rule 3&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18548fda-50a1-4523-9cc1-1ad2c2f7b0f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:apex.navigation.dialog('f?p=1180:197:13206546905430::::P197_RULE_ID,P197_REQUEST_ID,P197_ENVIRONMENT,P197_RULE_NAME,P197_RULE_TYPE,P197_F_EXC_STATUS,P197_F_REM_STATUS,P197_F_USER_ID,P197_F_RISK_LEVEL:24787,14910,7408,Test\u002520Rule\u0025203,SET,,,,\u0026p_dialog_cs=ykZe9FoUhYqIrrc4LuwQOFefRq6HcHc2zAwmiN11hRAZGanu2XBkZqVuP4y-A5yFt5xixeHomtltW7WO5x5UMw',{title:'Rule Mind Map',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#uvrReport'));</value>
+      <webElementGuid>fed8676c-72c2-47d0-9f7b-9fbf3348bd3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Rule 3</value>
+      <webElementGuid>f819e1fe-63ab-48c4-aec0-130c7a6d20df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;154256958746258637_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>7b5a4725-a984-4e6e-9f69-539069421ea6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>e7e287e0-c448-45b4-88cd-f7b04a5811e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test Rule 3')]</value>
+      <webElementGuid>f4b96d7f-b3f4-4751-ab63-526209afe2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='svcerpintgusr'])[1]/following::a[1]</value>
+      <webElementGuid>c8e3b8fb-9cfc-47ab-9ad9-4fe41b2853f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute Group Code'])[1]/following::a[12]</value>
+      <webElementGuid>1ba6045e-9c71-4327-a291-96e958003a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SET'])[1]/preceding::a[1]</value>
+      <webElementGuid>2afe9ae1-2a25-411b-949c-4dba5a4252e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High'])[1]/preceding::a[1]</value>
+      <webElementGuid>e57f19a3-8ee9-404f-86d4-6846b15ff1ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test Rule 3']/parent::*</value>
+      <webElementGuid>8432c1c9-3d13-4481-9a47-c7de2ea413b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:apex.navigation.dialog('f?p=1180:197:13206546905430::::P197_RULE_ID,P197_REQUEST_ID,P197_ENVIRONMENT,P197_RULE_NAME,P197_RULE_TYPE,P197_F_EXC_STATUS,P197_F_REM_STATUS,P197_F_USER_ID,P197_F_RISK_LEVEL:24787,14910,7408,Test\u002520Rule\u0025203,SET,,,,\u0026p_dialog_cs=ykZe9FoUhYqIrrc4LuwQOFefRq6HcHc2zAwmiN11hRAZGanu2XBkZqVuP4y-A5yFt5xixeHomtltW7WO5x5UMw',{title:'Rule Mind Map',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#uvrReport'));&quot;)]</value>
+      <webElementGuid>bbed8592-86f6-43ae-8f3e-a1b28f9ebd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>093f53af-e533-4307-a8e7-be76fe310e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1180:197:13206546905430::::P197_RULE_ID,P197_REQUEST_ID,P197_ENVIRONMENT,P197_RULE_NAME,P197_RULE_TYPE,P197_F_EXC_STATUS,P197_F_REM_STATUS,P197_F_USER_ID,P197_F_RISK_LEVEL:24787,14910,7408,Test\u002520Rule\u0025203,SET,,,,\u0026p_dialog_cs=ykZe9FoUhYqIrrc4LuwQOFefRq6HcHc2zAwmiN11hRAZGanu2XBkZqVuP4y-A5yFt5xixeHomtltW7WO5x5UMw&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;Rule Mind Map&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#uvrReport&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'Test Rule 3' or . = 'Test Rule 3')]</value>
+      <webElementGuid>76316330-78e8-4b44-99c0-8e45cb577e25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
