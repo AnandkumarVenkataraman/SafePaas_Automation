@@ -17,26 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//Security ->
-//Verify the Function-read access and Function-write access
-
-//Setup ->
-//Verify the Mitigation Control setup
-
-//Create Assignments
-
-//Manage Assignments
-
-//SOD Test with Exclude Mitigated Violations checked
-
-//Verify in Manage Violations -> there should not be any records
-
-//Verify in Analytics ->
-//Violations by User report -> there should not be any records
-
-//Exclude Mitigated Violations report ->
-//Records should be rendered for the selected rule + user combination
-
-//SOD Review
-
-//Send email to Engineering, to void the data
+//pls. note -> this script will be retro-fitted
+//as part of Env. re-architecture

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SFP-1021</description>
+   <name>Scheduler</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be5c45ad-7dbd-4034-a04c-7bbe3b993a96</testCaseGuid>
+</TestCaseEntity>

@@ -17,4 +17,129 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//this will be retro-fitted as part of Env. re-architecture
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (3)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (8)'), 'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (8)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn (1)'))
+
+//First, initiate a new UAR
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (9)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Access Certification_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Certification/button_Manage Certification_B167126276549450183'))
+
+def dateFormat = new SimpleDateFormat('ddMMyyyy_HHmmss')
+
+def currentDateTime = dateFormat.format(new Date())
+
+def singleEnvUAR_WF = 'EBS_UAR_' + currentDateTime
+
+WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/input_(Value Required)_P10_NAME'), singleEnvUAR_WF)
+
+WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), singleEnvUAR_WF)
+
+WebUI.delay(2)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_(Value Required)_ui-datepicker-trigg_27f7b7'))
+
+//LocalDate futureDate = LocalDate.now().plusDays(2)
+//
+//String dayString = futureDate.format(DateTimeFormatter.ofPattern('d'))
+//WebUI.comment(dayString)
+//
+//String dynamicXPath = "//a[@href = '#' and (text() = '$dayString' or . = '$dayString')]"
+//WebUI.comment(dynamicXPath)
+//TestObject dynamicDateObject = new TestObject()
+//
+//dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
+//
+//WebUI.enhancedClick(dynamicDateObject)
+
+String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern("d"))
+WebUI.comment("Target Day: " + dayString)
+String dynamicXPath = "//a[@href='#' and normalize-space(text())='" + dayString + "']"
+WebUI.comment("Dynamic XPath: " + dynamicXPath)
+
+TestObject dynamicDateObject = new TestObject("dynamicDate")
+dynamicDateObject.addProperty("xpath", ConditionType.EQUALS, dynamicXPath)
+WebUI.delay(2)
+WebUI.enhancedClick(dynamicDateObject)
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/a_Sa_ui-state-default ui-state-hover'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Sa_ui-datepicker-close ui-state-defa_3b90c3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/label_Terminate Access_u-radio'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Initiate User Access Certification_B_c29e18'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/input_Role Group_f01'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Cancel_B284164618569469737'))
+WebUI.delay(2)
+
+//WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Certification/h2_Breadcrumb_t-Alert-title'), 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21636 at Administration -> Platform -> Scheduler')
+//String uacID = WebUI.getText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/h2_Certification job was initiated successf_3b953f'))
+//
+//WebUI.comment('UAC ID is : ' + uacID)
+def successMsgObj = findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/h2_Certification job was initiated successf_3b953f')
+
+WebUI.waitForElementVisible(successMsgObj, 20, FailureHandling.STOP_ON_FAILURE)
+
+String uacID = WebUI.getText(successMsgObj)
+
+WebUI.comment("Certification job message: " + uacID)
+WebUI.delay(1)
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/h2_Certification job was initiated successf_3b953f'))
+def matcher = uacID =~ '(FSOD_[A-Z0-9_]+)'
+
+String actualUACId = matcher ? (matcher[0])[1] : null
+
+WebUI.comment('Extracted UAC ID: ' + actualUACId)
+WebUI.delay(300)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Certification/button_Breadcrumb_t-Button t-Button--noUI t_c90c1f'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Certification/a_Manage Certification_a-TreeView-label'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage User Access/input_User Access_userAccessReport_search_field'),
+	singleEnvUAR_WF)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/button_User Access_userAccessReport_search_button'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Environment Name_reportLink'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_EBS_UAR_SEPT172025_V1_t-Report-cell'),
+	'Open')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Open_t-Report-cell'), '0')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Open_t-Report-cell_1'), '2')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Open_t-Report-cell_2'), '0')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Maria B_t-Report-cell'), 'Open')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Access Validation/td_Anandkumar Venkataraman_t-Report-cell'),
+	'Open')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_User Access Validation/a_Access Certification_t-Breadcrumb-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/button_concat(Row text contains , , EBS_UAR_923da7'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))

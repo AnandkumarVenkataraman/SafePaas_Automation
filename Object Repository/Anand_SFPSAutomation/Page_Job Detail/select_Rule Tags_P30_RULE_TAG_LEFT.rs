@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Rule Tags_P30_RULE_TAG_LEFT</name>
+   <tag></tag>
+   <elementGuidId>54f2d7a8-d161-47f6-9639-fa7774d423b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_RULE_TAG_LEFT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_RULE_TAG_LEFT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Move from&quot;i] >> internal:attr=[title=&quot;Move from&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>016f6560-af36-4449-8c5d-f309bb982f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Move from</value>
+      <webElementGuid>0f59cf1a-81d2-4f1b-a937-5696fdce52d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>659c902a-f364-4a99-8bbd-528df00e4a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_RULE_TAG_LEFT</value>
+      <webElementGuid>19b61540-3642-4ef6-af52-6e1a5c479e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>be349468-9e8f-48e8-ac45-785d9dbe754d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shuttle_left apex-item-select</value>
+      <webElementGuid>68e38a0b-ccc8-4456-bdac-a450c2282af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+1456
+471
+471_3
+471_RA
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+Coupa
+CrossApp
+DEV22
+EBizRule
+ENVREARCH
+KTLN_TEST
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+RiskExposure
+SAP_RULES
+SAP_RULES_CROSS
+SFTP
+SFTP_Env2
+</value>
+      <webElementGuid>5dabbd09-7d7e-4dec-88a4-d5d663306f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_RULE_TAG_LEFT&quot;)</value>
+      <webElementGuid>838cdd5f-0b80-4853-923c-c79e6eeaadc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_RULE_TAG_LEFT']</value>
+      <webElementGuid>46a8f334-a72f-4104-9ae5-fabf9ba0bd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_RULE_TAG']/table/tbody/tr/td/select</value>
+      <webElementGuid>f3fd2639-889d-4ce0-ac5f-81b2c04863ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Tags'])[1]/following::select[1]</value>
+      <webElementGuid>872fb5ca-2f90-4c11-81b4-fdd3a6f003c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOD Objective'])[1]/following::select[2]</value>
+      <webElementGuid>c30774b2-de97-4f2b-97c5-5013b82105bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclude Mitigated Violations'])[1]/preceding::select[2]</value>
+      <webElementGuid>5f9461e4-9551-49e8-8913-2647aefd8e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Objects'])[1]/preceding::select[2]</value>
+      <webElementGuid>80ab89e4-3c45-43f9-95b3-7fad6be35592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div[2]/div/div/table/tbody/tr/td/select</value>
+      <webElementGuid>3575eaf5-6501-4edf-b588-e4e1ba300794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Move from' and @id = 'P30_RULE_TAG_LEFT' and (text() = '
+1456
+471
+471_3
+471_RA
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+Coupa
+CrossApp
+DEV22
+EBizRule
+ENVREARCH
+KTLN_TEST
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+RiskExposure
+SAP_RULES
+SAP_RULES_CROSS
+SFTP
+SFTP_Env2
+' or . = '
+1456
+471
+471_3
+471_RA
+ALL CERP RULES
+AR_AdjustmentProfile
+All
+Coupa
+CrossApp
+DEV22
+EBizRule
+ENVREARCH
+KTLN_TEST
+NOVA
+NOVA_ERM
+New
+NoEntryHierarchyforCrossApp
+PO_AP
+ProcurementAgent
+RA
+RiskExposure
+SAP_RULES
+SAP_RULES_CROSS
+SFTP
+SFTP_Env2
+')]</value>
+      <webElementGuid>b9a13df4-8ac5-484e-8f2b-ff892e67cca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

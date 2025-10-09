@@ -423,7 +423,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/sele
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE'))
 
-//Set the run-time variable here, based on Date and Time, later
+//Set the run-time variable here, based on Date and Time
 def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 def currentDateTime = dateFormat.format(new Date())
 def sodTST = 'SODTST_' + currentDateTime

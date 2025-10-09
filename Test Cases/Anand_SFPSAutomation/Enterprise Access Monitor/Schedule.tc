@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Schedule</description>
+   <name>Schedule</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9bad93e-75f9-4c31-8516-4c13231e1f10</testCaseGuid>
+</TestCaseEntity>
