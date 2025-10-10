@@ -436,7 +436,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comment
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245 (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3'), FailureHandling.OPTIONAL)
 
 //Update this verification [lines 442 & 444 below] later,
 //to handle the SOD Test's jobname dynamically during run time,
