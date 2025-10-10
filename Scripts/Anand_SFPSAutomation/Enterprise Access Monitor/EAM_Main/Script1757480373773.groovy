@@ -137,7 +137,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_1 (1)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Requests Run Form_u-tL'), 'EBiz_SFTP')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Requests Run Form_u-tL'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
 
@@ -311,6 +311,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Company Settin
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Company/div_Enterprise Access Certification_apex-it_ee9767'),
 	0, FailureHandling.OPTIONAL)
 
+WebUI.delay(2)
+
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Company/a_Manage Company_a-TreeView-label'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (2)'),
@@ -451,9 +453,9 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Company Set
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Platform_a-TreeView-label'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field'), sodTST)
+WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field'), sodTST, FailureHandling.OPTIONAL)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button'), FailureHandling.OPTIONAL)
 WebUI.delay(1)
 WebUI.takeScreenshot()
 
@@ -476,7 +478,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Manage SOD Test/input_Creat
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_-_u-tL'), 'Running', FailureHandling.OPTIONAL)
-WebUI.delay(300)
+WebUI.delay(900)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 

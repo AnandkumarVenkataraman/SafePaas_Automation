@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ab757fc5-1fa6-4186-9d39-1f540dc4ab08</webElementGuid>
+      <webElementGuid>36f63828-5989-4962-ac61-e0d8ae292cec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-icon ui-icon ui-icon-closethick</value>
-      <webElementGuid>7adaac93-49bc-41e7-bace-42f799bf94d3</webElementGuid>
+      <webElementGuid>0cff42a3-8613-490b-bd59-0b45af9931a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog--apex t-Dialog-page--standard ui-draggable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle&quot;]/button[@class=&quot;ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close&quot;]/span[@class=&quot;ui-button-icon ui-icon ui-icon-closethick&quot;]</value>
-      <webElementGuid>8cb2d1b1-7c47-495e-a356-92eebe221658</webElementGuid>
+      <webElementGuid>60b1de7f-903f-4df7-9f65-898fd45b2e40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[7]/div/button/span</value>
-      <webElementGuid>5e0c7bd9-85a7-477c-9931-f2d15851b590</webElementGuid>
+      <webElementGuid>11fa5f95-9c1b-4b9a-8a10-fa5add6949f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/button/span</value>
-      <webElementGuid>7673303a-7ad8-41f9-ad2a-c0981b9802d1</webElementGuid>
+      <webElementGuid>b1d599b4-e248-41fd-979f-8acdc9146e0e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
