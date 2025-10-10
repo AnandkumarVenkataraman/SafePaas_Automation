@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select List 3 rows. Use arrow keys_pop_ed2a57</name>
+   <tag></tag>
+   <elementGuidId>5b4ebd92-c736-4ef8-9a44-ec73778b8e20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.popup-lov-highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PopupLov_1_P1_TEST_dlg']/div[3]/div/div[3]/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;SODTST_09102025074354&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1641e318-cdc7-4ea7-8488-9ca2e43c95c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-lov-highlight</value>
+      <webElementGuid>61df42ec-2f92-4b4b-ade7-610a39a83513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SODTST_</value>
+      <webElementGuid>6705b296-6705-4ae2-8f46-a6b9ccb2f0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_1_P1_TEST_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]/span[@class=&quot;popup-lov-highlight&quot;]</value>
+      <webElementGuid>e0ae453a-9511-4c16-97b9-5078fa947216</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_1_P1_TEST_dlg']/div[3]/div/div[3]/ul/li/span</value>
+      <webElementGuid>ca66be10-34e0-4e6a-bca4-09ee57e0fab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select List 3 rows. Use arrow keys'])[1]/following::span[1]</value>
+      <webElementGuid>0200bef1-94da-41da-a7fd-b0d44b53ca84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[1]/following::span[4]</value>
+      <webElementGuid>52c8029f-01d7-47e4-a369-cbbe5c98399b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SODTST_'])[2]/preceding::span[1]</value>
+      <webElementGuid>b5a3540a-2d3b-4b65-ada5-376561590e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SODTST_'])[3]/preceding::span[2]</value>
+      <webElementGuid>d3ad2d74-6aef-4c89-b064-506de7e78741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SODTST_']/parent::*</value>
+      <webElementGuid>b83e621d-b66f-4d47-a1cb-9b74f02b5aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/span</value>
+      <webElementGuid>13483de8-891b-4310-9d5d-fb2e93407a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SODTST_' or . = 'SODTST_')]</value>
+      <webElementGuid>22dd321e-28fe-4776-8ce6-bed46759f2f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
