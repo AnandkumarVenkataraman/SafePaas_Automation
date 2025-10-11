@@ -1,21 +1,27 @@
 {
-  "keywordFileContentHash": "267FCA580663972066CDDEF730558F82",
+  "keywordFileContentHash": "0E84D18974D077DBF31E1C18E9F31596",
   "keywordClasses": [
     {
       "name": "Helper",
       "keywordMethods": [
         {
+          "name": "getCurrentDate",
+          "parameters": []
+        },
+        {
+          "name": "getDateAfterTwoDays",
+          "parameters": []
+        },
+        {
           "name": "enterDatePlusTwo",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "login",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
