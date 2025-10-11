@@ -10,6 +10,7 @@ import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
@@ -59,7 +60,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/input_
 
 WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), singleEnvUAR_WF)
 
-WebUI.delay(2)
+WebUI.delay(10)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_(Value Required)_ui-datepicker-trigg_27f7b7'))
 
@@ -75,17 +76,10 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/
 //dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
 //
 //WebUI.enhancedClick(dynamicDateObject)
+TestObject dynamicDateObject = CustomKeywords.'Helper.enterDatePlusTwo'()
 
-String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern("d"))
-WebUI.comment("Target Day: " + dayString)
-String dynamicXPath = "//a[@href='#' and normalize-space(text())='" + dayString + "']"
-WebUI.comment("Dynamic XPath: " + dynamicXPath)
-
-TestObject dynamicDateObject = new TestObject("dynamicDate")
-dynamicDateObject.addProperty("xpath", ConditionType.EQUALS, dynamicXPath)
-WebUI.delay(2)
 WebUI.enhancedClick(dynamicDateObject)
-
+WebUI.comment("clickedOnElement")
 //WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/a_Sa_ui-state-default ui-state-hover'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Sa_ui-datepicker-close ui-state-defa_3b90c3'))
@@ -97,7 +91,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/input_Role Group_f01'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Cancel_B284164618569469737'))
-WebUI.delay(2)
+WebUI.delay(100)
 
 //WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Certification/h2_Breadcrumb_t-Alert-title'), 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21636 at Administration -> Platform -> Scheduler')
 //String uacID = WebUI.getText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/h2_Certification job was initiated successf_3b953f'))

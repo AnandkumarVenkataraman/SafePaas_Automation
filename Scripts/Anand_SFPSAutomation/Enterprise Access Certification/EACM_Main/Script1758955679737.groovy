@@ -417,17 +417,23 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/
 //dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
 //
 //WebUI.enhancedClick(dynamicDateObject)
-String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern('d'))
 
-WebUI.comment('Target Day: ' + dayString)
+//Replacing below code with method
+//String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern('d'))
+//
+//WebUI.comment('Target Day: ' + dayString)
+//
+//String dynamicXPath = ('//a[@href=\'#\' and normalize-space(text())=\'' + dayString) + '\']'
+//
+//WebUI.comment('Dynamic XPath: ' + dynamicXPath)
+//
+//TestObject dynamicDateObject = new TestObject('dynamicDate')
+//
+//dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
 
-String dynamicXPath = ('//a[@href=\'#\' and normalize-space(text())=\'' + dayString) + '\']'
+//End of Replacing below code with method
 
-WebUI.comment('Dynamic XPath: ' + dynamicXPath)
-
-TestObject dynamicDateObject = new TestObject('dynamicDate')
-
-dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
+TestObject dynamicDateObject = CustomKeywords.'Helper.enterDatePlusTwo'()
 
 WebUI.enhancedClick(dynamicDateObject)
 
@@ -442,7 +448,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Cancel_B284164618569469737'))
 
-WebUI.delay(2)
+WebUI.delay(100)
 
 //WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Certification/h2_Breadcrumb_t-Alert-title'), 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21636 at Administration -> Platform -> Scheduler')
 //String uacID = WebUI.getText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/h2_Certification job was initiated successf_3b953f'))
