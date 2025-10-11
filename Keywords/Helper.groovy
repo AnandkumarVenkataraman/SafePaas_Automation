@@ -20,13 +20,27 @@ import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-
+import java.text.SimpleDateFormat
+import java.util.Date
 import internal.GlobalVariable
 
 public class Helper {
-@Keyword
-	def static enterDatePlusTwo()
-	{
+	@Keyword
+	def String getCurrentDate() {
+		SimpleDateFormat sdf = new SimpleDateFormat("dd-MMM-yyyy")
+		Date currentDate = new Date()
+		return sdf.format(currentDate)
+   }
+   @Keyword
+   def String getDateAfterTwoDays() {
+	   SimpleDateFormat sdf = new SimpleDateFormat("dd-MMM-yyyy")
+	   Calendar cal = Calendar.getInstance()
+	   cal.setTime(new Date())
+	   cal.add(Calendar.DATE, 2)
+	   return sdf.format(cal.getTime())
+   }
+	@Keyword
+	def static enterDatePlusTwo() {
 		String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern("d"))
 		WebUI.comment("Target Day: " + dayString)
 		String dynamicXPath = "//a[@href='#' and normalize-space(text())='" + dayString + "']"
@@ -35,7 +49,7 @@ public class Helper {
 		WebUI.delay(2)
 		dynamicDateObject.addProperty("xpath", ConditionType.EQUALS, dynamicXPath)
 		WebUI.delay(2)
-return dynamicDateObject
+		return dynamicDateObject
 	}
 	@Keyword
 	def static login() {
