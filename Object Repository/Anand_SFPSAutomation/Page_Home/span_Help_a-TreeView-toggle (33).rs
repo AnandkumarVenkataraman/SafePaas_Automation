@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Help_a-TreeView-toggle (33)</name>
+   <tag></tag>
+   <elementGuidId>91983737-b8f7-46b5-b2bc-10e14eb9575a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_0']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-TreeView-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;AccessPaaS&quot;i >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>712b1d32-1b1d-4c3c-8534-3df6f8ba1d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-toggle</value>
+      <webElementGuid>f1f20d0a-cfc2-4f41-93d0-d2f8b6378572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_0&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      <webElementGuid>24646d07-ca1d-49c1-a021-456264211781</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_0']/span</value>
+      <webElementGuid>63d12b65-97a6-4c57-b538-9663fe41e05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>80b40891-34d8-4a7a-8650-70fa78cd4cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

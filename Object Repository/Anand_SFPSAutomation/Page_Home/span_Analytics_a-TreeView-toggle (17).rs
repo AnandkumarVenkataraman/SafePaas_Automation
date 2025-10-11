@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Analytics_a-TreeView-toggle (17)</name>
+   <tag></tag>
+   <elementGuidId>8ee44699-c259-49b0-b594-b3272d8b77f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_12']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#t_TreeNav_12 > span.a-TreeView-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=/^Define Scope$/ >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c683478-0023-49ba-925e-079fcd250523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-toggle</value>
+      <webElementGuid>d6557e5a-2718-45ca-84ef-1bbb513513ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_12&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      <webElementGuid>300e513d-084b-4b46-9492-c92ba41b35b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_12']/span</value>
+      <webElementGuid>5791fcb2-1b9c-4c27-9acf-58730f6b6b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[3]/span</value>
+      <webElementGuid>8d457658-77a3-4943-b0ca-5f741ea71649</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
