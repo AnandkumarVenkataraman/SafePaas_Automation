@@ -1,9 +1,14 @@
 {
-  "keywordFileContentHash": "F5B84AEA387E3DDEE6EE25ECA06A9F65",
+  "keywordFileContentHash": "267FCA580663972066CDDEF730558F82",
   "keywordClasses": [
     {
       "name": "Helper",
       "keywordMethods": [
+        {
+          "name": "enterDatePlusTwo",
+          "parameters": [],
+          "javadoc": ""
+        },
         {
           "name": "login",
           "parameters": [],
