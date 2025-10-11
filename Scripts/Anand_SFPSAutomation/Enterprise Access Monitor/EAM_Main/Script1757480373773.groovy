@@ -478,7 +478,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Manage SOD Test/input_Creat
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_-_u-tL'), 'Running', FailureHandling.OPTIONAL)
-WebUI.delay(900)
+WebUI.delay(300)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 
@@ -534,8 +534,10 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/butt
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'), sodTST)
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'),
-	Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_Select List 1 rows. Use arrow keys_pop_e9b563 (1)'))
+
+//WebUI.sendKeys(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'),
+//	Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 WebUI.takeScreenshot()
