@@ -84,7 +84,17 @@ WebUI.comment("clickedOnElement")
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Sa_ui-datepicker-close ui-state-defa_3b90c3'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/label_Terminate Access_u-radio'))
+//select Terminate Access and Automatic POST
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/label_Terminate Access_u-radio'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/label_(Value Required)_u-radio'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/label_Ticket Creation_u-radio'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/a_Ticket Creation_infot'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_Close_js-confirmBtn ui-button ui-cor_5ef4b5'))
+
+//End -> selection of Terminate Access and Automatic POST
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Initiate User Access Certification_B_c29e18'))
 
@@ -144,3 +154,5 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_User Access Validatio
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/button_concat(Row text contains , , EBS_UAR_923da7'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+//Workflow Actions
