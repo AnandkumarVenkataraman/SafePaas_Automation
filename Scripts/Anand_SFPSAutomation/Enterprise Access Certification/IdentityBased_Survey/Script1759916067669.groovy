@@ -161,3 +161,143 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_User Access Validatio
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/button_concat(Row text contains , , EBS_UAR_923da7'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+//Launch the Identity UAR and certify the records
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.ConditionType as ConditionType
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
+
+//This is Workflow for a Single Env.
+//For multi-Env's Workflow, pls. refer to -> Env_ReArchitecture
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (13)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (13)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (20)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (40)'),
+	'MARIAB')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (40)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Reset Password_loginBtn (18)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/input_My Certifications_R97799695751099620__683988 (4)'),
+	'Identity_UAR')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_My Certifications_R97799695751099620_3d9625 (2)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a (2)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/input_Justification for Mass Update_P4_JUST_30273f (1)'),
+	'Test Justification')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All_B167565025735587903 (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3 (2)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/h2_My Certifications_t-Alert-title (2)'),
+	'All access terminated')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All access terminated_t-Button t-But_d6984e (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Save Changes_B328275908856222745 (2)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification has been closed/h2_My Certifications_R183515302298730869_heading (2)'),
+	'User Access Certification has been Completed')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification has been closed/a_MARIAB_t-Button t-Button--icon t-Button--header'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification has been closed/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3 (2)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span (2)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_concat(Row text contains , , Identit_5bea5a'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170_1 (3)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i_1 (3)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (20)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (40)'),
+	'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (40)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Reset Password_loginBtn (18)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (35)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (8)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (18)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Certification_a-TreeView-label (3)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/input_User Access_userAccessReport_search_field (3)'),
+	'Identity_UAR')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/button_User Access_userAccessReport_search_button (2)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/td_Terminate Access_u-tC'),
+	'Completed')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/a_Environment Name_reportLink (3)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/td_This is an Identity based UAR, initiated_bb2445'),
+	'Completed')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/td_Anandkumar Venkataraman_t-Report-cell (2)'),
+	'Completed')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/td_Maria B_t-Report-cell (2)'),
+	'Completed')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/td_Completed_t-Report-cell (2)'),
+	'JDE_Env')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/td_Completed_t-Report-cell_1 (2)'),
+	'JDE_Env')
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/a_Access Certification_t-Breadcrumb-label (3)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/button_concat(Row text contains , , Identit_5bea5a'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (2)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (13)'))
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i_2 (1)'))
+
+WebUI.closeBrowser()
+
+//Analytics
