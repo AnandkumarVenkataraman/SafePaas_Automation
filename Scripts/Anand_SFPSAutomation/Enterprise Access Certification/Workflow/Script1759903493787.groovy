@@ -156,3 +156,115 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/bu
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
 //Workflow Actions
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (16)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Company Settings_a-TreeView-toggle (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Scheduler_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P37_MODULE'),
+	1)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P37_EACM_REQUEST'),
+	1)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P37_ENVIRONMENT_EACM'),
+	2)
+WebUI.delay(10) //delay of 10 seconds, in order for the Workflow to load
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Last Update Date_fa fa-search (1)'))
+WebUI.delay(10) //delay of 10 seconds, in order for Level-1 and Level-2 to render
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/td_Last Update Date_u-tL'),
+	'EACM - Level 1 - Certification WF')
+WebUI.delay(2)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/td_Last Updated By_u-tL'),
+	'EACM - Level 2 - Role Group WF')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/span_Last Updated By_fa fa-search (1)'))
+WebUI.delay(10) //delay of 10 seconds, in order for Level-3 to render
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/td_NA_u-tL'), 'EACM - Level 3 - User Access WF')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench (1)'))
+WebUI.delay(5)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P35_ACTIONS_AVAILABLE'),
+	1)
+WebUI.delay(5)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_Original Approver_P35_ORIG_APPROVER'),
+	1)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/input_Manager Name_P35_MANAGER_NAME'),
+	'Test Escalation for Primary from QA Automation')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/input_Manager Email_P35_MANAGER_EMAIL'),
+	'anandkumar.venkataraman@safepaas.com')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel_B97669297740057722'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/h2_Breadcrumbs_t-Alert-title'),
+	'Escalation sent successfully')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Escalation sent successfully_t-Butto_d00ca4'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench (1)'))
+WebUI.delay(10)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P35_ACTIONS_AVAILABLE'),
+	1)
+WebUI.delay(5)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_Original Approver_P35_ORIG_APPROVER'),
+	2)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/input_Manager Name_P35_MANAGER_NAME'),
+	'Test Escalation for Secondary from QA Automation')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/input_Manager Email_P35_MANAGER_EMAIL'),
+	'anandkumar.venkataraman@safepaas.com')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel_B97669297740057722'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/h2_Breadcrumbs_t-Alert-title'),
+	'Escalation sent successfully')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Escalation sent successfully_t-Butto_d00ca4'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench (1)'))
+WebUI.delay(5)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P35_ACTIONS_AVAILABLE (2)'),
+	3)
+WebUI.delay(5)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_Original Approver_P35_ORIG_APPROVER (2)'),
+	1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel_B97669297740057722 (2)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/h2_Breadcrumbs_t-Alert-title_1'),
+	'Reminder sent successfully')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Escalation sent successfully_t-Butto_d00ca4'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench (1)'))
+WebUI.delay(5)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P35_ACTIONS_AVAILABLE (3)'),
+	3)
+WebUI.delay(5)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_Original Approver_P35_ORIG_APPROVER (3)'),
+	2)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel_B97669297740057722 (3)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/h2_Breadcrumbs_t-Alert-title_1'),
+	'Reminder sent successfully')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Escalation sent successfully_t-Butto_d00ca4'))
+
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
