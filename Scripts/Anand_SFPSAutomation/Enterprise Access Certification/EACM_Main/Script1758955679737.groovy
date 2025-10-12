@@ -401,7 +401,7 @@ def singleEnvUAR1 = 'EBS_UAR_' + currentDateTime
 
 WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/input_(Value Required)_P10_NAME'), singleEnvUAR1)
 
-WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), singleEnvUAR1)
+WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), 'This is a Role-group based UAR; for a single Env., initiated by QA Automation')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_(Value Required)_ui-datepicker-trigg_27f7b7'))
 

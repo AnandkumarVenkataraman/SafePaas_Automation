@@ -10,13 +10,21 @@ import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
+//This is Workflow for a Single Env.
+//For multi-Env's Workflow, pls. refer to -> Env_ReArchitecture
 
 WebUI.openBrowser('')
 
@@ -46,13 +54,13 @@ def dateFormat = new SimpleDateFormat('ddMMyyyy_HHmmss')
 
 def currentDateTime = dateFormat.format(new Date())
 
-def singleEnvUAR_WF = 'EBS_UAR_' + currentDateTime
+def singleEnvUAR_ID = 'Identity_UAR_' + currentDateTime
 
-WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/input_(Value Required)_P10_NAME'), singleEnvUAR_WF)
+WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/input_(Value Required)_P10_NAME'), singleEnvUAR_ID)
 
-WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), singleEnvUAR_WF)
+WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), 'This is an Identity based UAR, initiated by QA Automation')
 
-WebUI.delay(2)
+WebUI.delay(10)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_(Value Required)_ui-datepicker-trigg_27f7b7'))
 
@@ -68,29 +76,39 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/
 //dynamicDateObject.addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
 //
 //WebUI.enhancedClick(dynamicDateObject)
+TestObject dynamicDateObject = CustomKeywords.'Helper.enterDatePlusTwo'()
 
-String dayString = LocalDate.now().plusDays(2).format(DateTimeFormatter.ofPattern("d"))
-WebUI.comment("Target Day: " + dayString)
-String dynamicXPath = "//a[@href='#' and normalize-space(text())='" + dayString + "']"
-WebUI.comment("Dynamic XPath: " + dynamicXPath)
-
-TestObject dynamicDateObject = new TestObject("dynamicDate")
-dynamicDateObject.addProperty("xpath", ConditionType.EQUALS, dynamicXPath)
-WebUI.delay(2)
 WebUI.enhancedClick(dynamicDateObject)
-
+WebUI.comment("clickedOnElement")
 //WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/a_Sa_ui-state-default ui-state-hover'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Sa_ui-datepicker-close ui-state-defa_3b90c3'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/label_Terminate Access_u-radio'))
+//select Terminate Access and Automatic POST
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/label_Terminate Access_u-radio'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/label_(Value Required)_u-radio'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/label_Ticket Creation_u-radio'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/a_Ticket Creation_infot'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_Close_js-confirmBtn ui-button ui-cor_5ef4b5'))
+
+//End -> selection of Terminate Access and Automatic POST
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Initiate User Access Certification_B_c29e18'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/input_Role Group_f01'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/input_Role Group_f01'))
+//Select JDE_Env. for Identity based survey
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_Access Certification - Select Environ_956008'),
+	'JDE_Env')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_Access Certification - Select Enviro_177a03'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_Identity Group_f01'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Cancel_B284164618569469737'))
-WebUI.delay(2)
+WebUI.delay(100)
 
 //WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Certification/h2_Breadcrumb_t-Alert-title'), 'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21636 at Administration -> Platform -> Scheduler')
 //String uacID = WebUI.getText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/h2_Certification job was initiated successf_3b953f'))
@@ -118,7 +136,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Certification/
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Certification/a_Manage Certification_a-TreeView-label'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage User Access/input_User Access_userAccessReport_search_field'),
-	singleEnvUAR_WF)
+	singleEnvUAR_ID)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/button_User Access_userAccessReport_search_button'))
 

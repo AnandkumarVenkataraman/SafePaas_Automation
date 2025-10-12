@@ -17,23 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
 //
 //WebUI.delay(10)
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/a_My Certifications'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/a_My Certifications'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
-
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
 //WebUI.closeBrowser()
-
 //EACM Old Code for launching the survey and certifying the records
 //can be ignored
-
 //WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (2)'), 'KAT')
 //
 //WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (22)'),
@@ -59,11 +56,11 @@ import org.openqa.selenium.Keys as Keys
 //
 ////NEW CODE
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
 //
 //
 //// END NEW CODE
@@ -271,10 +268,7 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Certification/button_concat(Row text contains , , EBS_UAR_1afdf6'))
 //
 //WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Certification/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
-
 //End of EACM Old
-
-
 //WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Job Time_P29_JOB_TIME'),
 //	1)
 //WebUI.delay(20)
@@ -283,19 +277,18 @@ import org.openqa.selenium.Keys as Keys
 //	0)
 //WebUI.delay(20)
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/div_Refresh_P29_JOB_TIME_CONTAINER'))
-
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/div_Refresh_P29_JOB_TIME_CONTAINER'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
 //
 //WebUI.delay(10)
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/a_My Certifications'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/a_My Certifications'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
 //WebUI.closeBrowser()
 //EACM Old Code for launching the survey and certifying the records
 //can be ignored
@@ -324,11 +317,11 @@ import org.openqa.selenium.Keys as Keys
 //
 ////NEW CODE
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_Verify All (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_OK (1)'))
 //
-//WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Survey/button_All records verified_t-Button t-Butt_37ec13 (1)'))
 //
 //
 //// END NEW CODE
@@ -537,17 +530,17 @@ import org.openqa.selenium.Keys as Keys
 //
 //WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Certification/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 //End of EACM Old
-
 //select terminate access
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/label_(Value Required)_u-radio'))
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/label_Ticket Creation_u-radio'))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_Access Certification - Select Environ_956008'), 
+    'JDE_Env')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/a_Ticket Creation_infot'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_Access Certification - Select Enviro_177a03'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_Close_js-confirmBtn ui-button ui-cor_5ef4b5'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_Identity Group_f01'))
 
-
-
+WebUI.closeBrowser()
 

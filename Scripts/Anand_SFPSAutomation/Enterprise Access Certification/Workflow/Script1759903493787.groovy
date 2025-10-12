@@ -54,11 +54,11 @@ def dateFormat = new SimpleDateFormat('ddMMyyyy_HHmmss')
 
 def currentDateTime = dateFormat.format(new Date())
 
-def singleEnvUAR_WF = 'EBS_UAR_' + currentDateTime
+def singleEnvUAR_WF = 'WF_UAR_' + currentDateTime
 
 WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/input_(Value Required)_P10_NAME'), singleEnvUAR_WF)
 
-WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), singleEnvUAR_WF)
+WebUI.setText(findTestObject('Object Repository/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION'), 'This UAR is initiated by QA Automation; to test the Workflow, for a single Env.')
 
 WebUI.delay(10)
 
@@ -211,7 +211,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Escalation sent successfully_t-Butto_d00ca4'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench (1)'))
-WebUI.delay(10)
+WebUI.delay(5)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P35_ACTIONS_AVAILABLE'),
 	1)
@@ -232,6 +232,29 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 	'Escalation sent successfully')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Escalation sent successfully_t-Butto_d00ca4'))
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench (1)'))
+//WebUI.delay(10)
+//
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_(Value Required)_P35_ACTIONS_AVAILABLE'),
+//	1)
+//WebUI.delay(5)
+//
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/select_Original Approver_P35_ORIG_APPROVER'),
+//	2)
+//
+//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/input_Manager Name_P35_MANAGER_NAME'),
+//	'Test Escalation for Secondary from QA Automation')
+//
+//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/input_Manager Email_P35_MANAGER_EMAIL'),
+//	'anandkumar.venkataraman@safepaas.com')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Cancel_B97669297740057722'))
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/h2_Breadcrumbs_t-Alert-title'),
+//	'Escalation sent successfully')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/button_Escalation sent successfully_t-Butto_d00ca4'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Workflow/i_Last Updated By_fa fa-wrench (1)'))
 WebUI.delay(5)
