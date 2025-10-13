@@ -535,12 +535,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_Access Certification - Select Environ_956008'), 
-    'JDE_Env')
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Access Groups/button_Map Roles (CSV)_B149605989596714417'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_Access Certification - Select Enviro_177a03'))
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/button_Cancel_B149607375770714431'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_Identity Group_f01'))
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/span_Actions_a-IRR-noDataMsg-text'), 
+    'No data found for the current selection', FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/button_Previous_B149608377236714441'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/span_Actions_a-IRR-noDataMsg-text_1'), 
+    'No data found for the current selection', FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/a_Setup_t-Breadcrumb-label'))
 
 WebUI.closeBrowser()
 
