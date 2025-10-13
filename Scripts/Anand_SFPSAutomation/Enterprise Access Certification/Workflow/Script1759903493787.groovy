@@ -39,7 +39,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P1
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn (1)'))
 
-//First, initiate a new UAR
+//First, initiate a new UAR, for Identity based grouping Env.
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (9)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (1)'))

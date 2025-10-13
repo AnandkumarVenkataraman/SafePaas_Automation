@@ -187,8 +187,6 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 
-//This is Workflow for a Single Env.
-//For multi-Env's Workflow, pls. refer to -> Env_ReArchitecture
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
