@@ -147,7 +147,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 //Set the run-time variable here, based on Date and Time
 def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 def currentDateTime = dateFormat.format(new Date())
-def sodRVW_V = 'SODRVW_V_' + currentDateTime
+def sodRVW_V = 'SODRVW_ViolationLevel_' + currentDateTime
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Violation Survey/input_(Value Required)_P181_NAME'), 
     sodRVW_V)
@@ -171,9 +171,122 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initia
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Violation Survey/button_Initiate User Violation Survey_B8581_9ffd07'))
 WebUI.delay(5)
 
-//Manage Review Status
+//Manage Review Status and Scheduler -> for Violation Level
 
-//Scheduler
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Actions/h2_Breadcrumb_t-Alert-title'),
+	'SOD Review survey job was initiated successfullyEmail will be sent to appropriate Role-Owner(s) (and Manager(s)), upon successful completion of the jobYou can check the status of the job FSOD_INITIATE_MRA_21632 at Administration -> Platform -> Scheduler', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Actions/button_Breadcrumb_t-Button t-Button--noUI t_c90c1f'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Actions/a_Manage Review Actions_a-TreeView-label'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/input_Manage Review Status_R249123015355222_0c2ff8'),
+	sodRVW_V)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_Manage Review Status_R24912301535522_f83c6f'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/a'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/td_SODREVIEW_OCT14_V1_t-Report-cell'),
+	'Open')
+WebUI.delay(120) //giving a delay of 2min., in order for the survey to be generated
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_User Access_B92130881232458609'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/a'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/td_Send E-mail Reminder_t-Report-cell'),
+	'ANANDK1')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/td_ANANDK1_t-Report-cell'),
+	'Open')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/td_Open_t-Report-cell'),
+	'MARIAB1')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/td_MARIAB1_t-Report-cell'),
+	'Open')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/td_SODREVIEW_OCT14_V1_t-Report-cell_1'),
+	'SODTST_09102025074354', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_User Access_B92130881232458609'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_concat(Row text contains , , SODREVI_6b6b00'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (18)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Company Settings_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Platform_a-TreeView-label (1)'))
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/input_Job Time_SCHEDULER_search_field (1)'),
+	'FSOD_INITIATE_MRA_', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/button_Job Time_SCHEDULER_search_button'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/td_-_u-tL'), 'SUCCEEDED', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/button_concat(Row text contains , , FSOD_IN_172907'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (36)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (24)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Detect Violations_a-TreeView-toggle (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Manage Corrective Action_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Review Actions_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/select_Environment_P0_ENVIRONMENT'),
+	2)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/input_Manage Review Status_R249123015355222_0c2ff8'),
+	sodRVW_V)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_Manage Review Status_R24912301535522_f83c6f'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/a'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/input_Send E-mail Reminder_f01'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_Open_B86115754532464026'))
+WebUI.delay(3)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/h2_Breadcrumb_t-Alert-title'),
+	'Email reminder has been sent')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_Email reminder has been sent_t-Butto_8b503d'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/input_Open_f01'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_Open_B86115754532464026'))
+WebUI.delay(3)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/h2_Breadcrumb_t-Alert-title'),
+	'Email reminder has been sent')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_Email reminder has been sent_t-Butto_8b503d'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_User Access_B92130881232458609'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/button_concat(Row text contains , , SODREVI_6b6b00'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+//Launch the SOD Review survey and remediate
 
 //WebUI.closeBrowser()
 
