@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close_ui-button-icon ui-icon ui-icon-c_9c474c</name>
+   <tag></tag>
+   <elementGuidId>7fea7aee-72aa-4a0a-a06f-b4bbb9bb710b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='t_PageBody']/div[9]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon.ui-icon.ui-icon-closethick</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Close&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>401bf779-6f75-4038-b2eb-e50c209056fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon ui-icon ui-icon-closethick</value>
+      <webElementGuid>6420a14a-3236-49b6-972d-9825239803cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog--apex t-Dialog-page--standard ui-draggable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle&quot;]/button[@class=&quot;ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close&quot;]/span[@class=&quot;ui-button-icon ui-icon ui-icon-closethick&quot;]</value>
+      <webElementGuid>8bee050d-c7a0-4652-8645-0fe05a8428a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='t_PageBody']/div[9]/div/button/span</value>
+      <webElementGuid>cd73e2b2-eb31-4bae-bc0f-e1ad4da2fdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/button/span</value>
+      <webElementGuid>2dc363dc-8106-4cdb-bdbf-69a5c7f17295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

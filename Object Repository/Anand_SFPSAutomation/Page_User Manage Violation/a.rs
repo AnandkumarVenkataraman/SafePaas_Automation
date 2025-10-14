@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>daa64151-1224-4a86-84fc-09986f134d43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='130017252170652436_orig']/tbody/tr[2]/td[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tL > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Applications Administration&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b93e487c-2434-454b-8a71-3f7e391bd5cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:apex.navigation.dialog('f?p=1550:5:1888271613407::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5888,1277903752,21634,66805900,26212,EBiz_3\u0026cs=1B9FDD9246306FCB67787559A5AD03343\u0026p_dialog_cs=Z3x3qGoshcmP16t-aXuBk1aagMGINcCbFUNk5QR-WOHjFOed0uUy7fvszJOhRyhMV2zCpSYU0BEgoqkXHPcG1g',{title:'Role-Privileges',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R130017182606652435'));</value>
+      <webElementGuid>c5e6d431-4e5e-4fa9-9fad-9f53e622e212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applications Administration</value>
+      <webElementGuid>b619959e-3fd9-42d1-8ffb-7cab23b5b789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;130017252170652436_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>ea33893a-b47c-48e4-898d-5205bd372d9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='130017252170652436_orig']/tbody/tr[2]/td[7]/a</value>
+      <webElementGuid>a502a532-3c60-4162-bcb5-cc647a13f060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Applications Administration')]</value>
+      <webElementGuid>19b7f27e-0f03-41a4-b8f8-934b2981b552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[51]/following::a[1]</value>
+      <webElementGuid>7a45b1b3-8c50-48cd-b37b-9fc3ccb16a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz_3'])[30]/following::a[1]</value>
+      <webElementGuid>f37b4fb3-fa5c-43f0-84a6-18dda9f5e79a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INTRA'])[49]/preceding::a[1]</value>
+      <webElementGuid>670ff633-5082-4572-9b86-4e1f3eb99a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz_4'])[22]/preceding::a[1]</value>
+      <webElementGuid>b5834d27-0883-4871-9d09-663d84a04f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:apex.navigation.dialog('f?p=1550:5:1888271613407::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5888,1277903752,21634,66805900,26212,EBiz_3\u0026cs=1B9FDD9246306FCB67787559A5AD03343\u0026p_dialog_cs=Z3x3qGoshcmP16t-aXuBk1aagMGINcCbFUNk5QR-WOHjFOed0uUy7fvszJOhRyhMV2zCpSYU0BEgoqkXHPcG1g',{title:'Role-Privileges',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#R130017182606652435'));&quot;)]</value>
+      <webElementGuid>b8257bce-d689-4883-95d6-46d2b8919c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+      <webElementGuid>e87bfc53-835a-4bbd-9658-46867d617092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1550:5:1888271613407::::P5_GROUP_ID,P5_START_ENTRY_ID,P5_UAC_ID,P5_USER_ID,P5_RULE_REV_ID,P5_ACTIVITY:5888,1277903752,21634,66805900,26212,EBiz_3\u0026cs=1B9FDD9246306FCB67787559A5AD03343\u0026p_dialog_cs=Z3x3qGoshcmP16t-aXuBk1aagMGINcCbFUNk5QR-WOHjFOed0uUy7fvszJOhRyhMV2zCpSYU0BEgoqkXHPcG1g&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;Role-Privileges&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#R130017182606652435&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'Applications Administration' or . = 'Applications Administration')]</value>
+      <webElementGuid>ce729f55-80f6-4d19-9615-34309dfb489b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
