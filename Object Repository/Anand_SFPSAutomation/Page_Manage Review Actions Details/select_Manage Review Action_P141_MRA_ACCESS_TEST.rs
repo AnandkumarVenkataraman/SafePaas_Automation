@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Manage Review Action_P141_MRA_ACCESS_TEST</name>
+   <tag></tag>
+   <elementGuidId>14e7e0c4-8b5f-405a-84a6-669949a6f810</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P141_MRA_ACCESS_TEST']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P141_MRA_ACCESS_TEST</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Manage Review Action&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bbee8c37-c560-49e8-b712-18ff98cf8d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P141_MRA_ACCESS_TEST</value>
+      <webElementGuid>5dcfb045-95f2-4362-911a-bd5319850cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P141_MRA_ACCESS_TEST</value>
+      <webElementGuid>3d7dca75-90fc-4990-b6c2-073a6b4d8141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>b24c3e69-050a-4ea0-8497-1ac41efd2c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0b23df13-c78a-43e3-88c8-170a1d07615f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d0ba1129-ea4d-4345-9a24-185b09299852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P141_MRA_ACCESS_TEST');</value>
+      <webElementGuid>472585f6-e277-4fae-aba3-3c355ef58850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+SODRVW_ViolationLevel_14102025050822
+SODRVW_ViolationLevel_14102025034957
+SODRVW_ViolationLevel_14102025002428
+SODRVW_ViolationLevel_14102025003002
+SODRVW_ViolationLevel_14102025002427
+SODREVIEW_OCT14_V1
+SODRVW_V_13102025235757
+SODREVIEW_OCT11_V2
+SODREVIEW_OCT11_V1
+EBiz_SODReview_10102025252534346678787878
+SODReview_Jul01_v1
+SODReview_May23_v2
+SODReview_May23_v1
+</value>
+      <webElementGuid>58688781-5c96-475f-80e1-c4100490292e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P141_MRA_ACCESS_TEST&quot;)</value>
+      <webElementGuid>c5b89fa3-9ed6-42bf-901d-35f7856177ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P141_MRA_ACCESS_TEST']</value>
+      <webElementGuid>f743326d-fde5-421a-8a40-71b600c69094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P141_MRA_ACCESS_TEST_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b1d87fc8-37b7-48ed-bc80-5083b849b12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Action'])[1]/following::select[1]</value>
+      <webElementGuid>e804d6aa-3898-406c-a408-f2a0a7462189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>6acd4a0e-4ac0-4fc9-8015-9037f076c15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[1]</value>
+      <webElementGuid>2f6d3a77-c571-42f5-baf1-05f689456034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[1]</value>
+      <webElementGuid>cae07410-588e-4690-b6cc-781f9b2e2f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>0442760d-6e47-4e64-b938-a0e15b5ddb29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P141_MRA_ACCESS_TEST' and @name = 'P141_MRA_ACCESS_TEST' and (text() = 'Select any one
+SODRVW_ViolationLevel_14102025050822
+SODRVW_ViolationLevel_14102025034957
+SODRVW_ViolationLevel_14102025002428
+SODRVW_ViolationLevel_14102025003002
+SODRVW_ViolationLevel_14102025002427
+SODREVIEW_OCT14_V1
+SODRVW_V_13102025235757
+SODREVIEW_OCT11_V2
+SODREVIEW_OCT11_V1
+EBiz_SODReview_10102025252534346678787878
+SODReview_Jul01_v1
+SODReview_May23_v2
+SODReview_May23_v1
+' or . = 'Select any one
+SODRVW_ViolationLevel_14102025050822
+SODRVW_ViolationLevel_14102025034957
+SODRVW_ViolationLevel_14102025002428
+SODRVW_ViolationLevel_14102025003002
+SODRVW_ViolationLevel_14102025002427
+SODREVIEW_OCT14_V1
+SODRVW_V_13102025235757
+SODREVIEW_OCT11_V2
+SODREVIEW_OCT11_V1
+EBiz_SODReview_10102025252534346678787878
+SODReview_Jul01_v1
+SODReview_May23_v2
+SODReview_May23_v1
+')]</value>
+      <webElementGuid>dab0e8bd-6bac-447e-ac76-e41060cb6579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
