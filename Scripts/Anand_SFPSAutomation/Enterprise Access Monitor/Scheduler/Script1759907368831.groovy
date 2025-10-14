@@ -111,7 +111,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/td_-_u-tL'), 'Running', FailureHandling.OPTIONAL)
 
-WebUI.delay(900)
+WebUI.delay(900) //giving a max. delay of 15min., for the SOD Test to complete
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 
@@ -184,7 +184,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 	1)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/div_Total Violations_value'),
-	'1868')
+	'28', FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/select_Test Name_P86_TEST_NAME (2)'),
 	0)

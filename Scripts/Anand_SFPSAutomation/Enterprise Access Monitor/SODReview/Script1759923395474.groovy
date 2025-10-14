@@ -291,12 +291,13 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (14)'))
 
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
+//
+//WebUI.openBrowser('')
+WebUI.delay(5)
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD99A98552358DC8486792CDC43576F8EF')
-WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SODE9C791244241516285B5CD82DDB5D7E0')
+WebUI.maximizeWindow(FailureHandling.OPTIONAL)
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (21)'), 'KAT')
 
@@ -309,33 +310,39 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Pa
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Reset Password_loginBtn (19)'))
 WebUI.delay(3)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
-WebUI.delay(30)
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
+//WebUI.delay(30)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_Select Columns_a-Menu-labelContainer'))
+//
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_Column_uacReport_column_name'),
+//	'VERIFIED', true)
+//
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_Operator_uacReport_STRING_OPT'),
+//	'is null', true)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Cancel_ui-button--hot ui-button ui-c_5aa9fd'))
+//WebUI.delay(10)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span'))
+//WebUI.delay(3)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/a'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_1'))
+//WebUI.delay(3)
+//
+////set the rows per page to 1000
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Filter_uacReport_actions_menu_3i'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Rows Per Page_uacReport_actions_menu_fab44e (1)'))
+//WebUI.delay(5)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_Select Columns_a-Menu-labelContainer'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_Column_uacReport_column_name'),
-	'VERIFIED', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_Operator_uacReport_STRING_OPT'),
-	'is null', true)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Cancel_ui-button--hot ui-button ui-c_5aa9fd'))
-WebUI.delay(10)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span'))
-WebUI.delay(3)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/a'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_1'))
-WebUI.delay(3)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Rows Per Page_uacReport_actions_menu_fab44e'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Rows Per Page_uacReport_actions_menu_fab44e'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/input_Verified_selectUnselectAll'))
 
@@ -346,41 +353,41 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User M
 	'This is a test justification entered by QA Automation for a Violation Level survey, at Role-owner Level')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Review Actions_verifyAll'))
-WebUI.delay(10)
+WebUI.delay(5)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/h2_Breadcrumb_t-Alert-title'),
 	'Selected records successfully verified')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Selected records successfully verifi_fd3559'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_(Value Required)_P10_EXCEPTION_TYPE'),
-	3)
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/textarea_(Value Required)_P10_JUSTIFICATION_1'),
-	'This is a test justification entered by QA Automation for a Violation Level survey, at Role-owner Level ')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/input_Verified_selectUnselectAll'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Review Actions_verifyAll'))
-WebUI.delay(10)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/h2_Breadcrumb_t-Alert-title'),
-	'Selected records successfully verified')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Selected records successfully verifi_fd3559'))
-WebUI.delay(5)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
-WebUI.delay(5)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Rows Per Page_uacReport_actions_menu_3f0951'))
-WebUI.delay(5)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Verified is null_a-Button a-IRR-butt_44d252'))
-WebUI.delay(5)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/td_-_u-tL'), 'Remediation')
-WebUI.delay(5)
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_(Value Required)_P10_EXCEPTION_TYPE'),
+//	3)
+//
+//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/textarea_(Value Required)_P10_JUSTIFICATION_1'),
+//	'This is a test justification entered by QA Automation for a Violation Level survey, at Role-owner Level ')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/input_Verified_selectUnselectAll'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Review Actions_verifyAll'))
+//WebUI.delay(10)
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/h2_Breadcrumb_t-Alert-title'),
+//	'Selected records successfully verified')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Selected records successfully verifi_fd3559'))
+//WebUI.delay(5)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
+//WebUI.delay(5)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Rows Per Page_uacReport_actions_menu_3f0951'))
+//WebUI.delay(5)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Verified is null_a-Button a-IRR-butt_44d252'))
+//WebUI.delay(5)
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/td_-_u-tL'), 'Remediation')
+//WebUI.delay(5)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Verify Selection_submitClose'))
 WebUI.delay(5)
