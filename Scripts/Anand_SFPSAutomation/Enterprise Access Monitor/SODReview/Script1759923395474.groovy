@@ -286,7 +286,111 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Status/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
-//Launch the SOD Review survey and remediate
+//Launch the SOD Review survey [at Violation Level] as Role-owner, and remediate
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (14)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (14)'))
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD99A98552358DC8486792CDC43576F8EF')
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (21)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (41)'),
+	'ANANDK1')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (41)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Reset Password_loginBtn (19)'))
+WebUI.delay(3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
+WebUI.delay(30)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_Select Columns_a-Menu-labelContainer'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_Column_uacReport_column_name'),
+	'VERIFIED', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_Operator_uacReport_STRING_OPT'),
+	'is null', true)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Cancel_ui-button--hot ui-button ui-c_5aa9fd'))
+WebUI.delay(10)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span'))
+WebUI.delay(3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/a'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/span_1'))
+WebUI.delay(3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Rows Per Page_uacReport_actions_menu_fab44e'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/input_Verified_selectUnselectAll'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_(Value Required)_P10_EXCEPTION_TYPE'),
+	3)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/textarea_(Value Required)_P10_JUSTIFICATION'),
+	'This is a test justification entered by QA Automation for a Violation Level survey, at Role-owner Level')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Review Actions_verifyAll'))
+WebUI.delay(10)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/h2_Breadcrumb_t-Alert-title'),
+	'Selected records successfully verified')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Selected records successfully verifi_fd3559'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/select_(Value Required)_P10_EXCEPTION_TYPE'),
+	3)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/textarea_(Value Required)_P10_JUSTIFICATION_1'),
+	'This is a test justification entered by QA Automation for a Violation Level survey, at Role-owner Level ')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/input_Verified_selectUnselectAll'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Review Actions_verifyAll'))
+WebUI.delay(10)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/h2_Breadcrumb_t-Alert-title'),
+	'Selected records successfully verified')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Selected records successfully verifi_fd3559'))
+WebUI.delay(5)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Go_uacReport_actions_button'))
+WebUI.delay(5)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Rows Per Page_uacReport_actions_menu_3f0951'))
+WebUI.delay(5)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Verified is null_a-Button a-IRR-butt_44d252'))
+WebUI.delay(5)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/td_-_u-tL'), 'Remediation')
+WebUI.delay(5)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Manage Violation/button_Verify Selection_submitClose'))
+WebUI.delay(5)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Thank You and Manage Review Action sen_69f61f/h2_Breadcrumb_R371469424557094181_heading'),
+	'Thank You and Manage Review Action sent to Rule Owners')
+
+WebUI.closeBrowser()
+
+//Rule-owner
 
 //WebUI.closeBrowser()
 
