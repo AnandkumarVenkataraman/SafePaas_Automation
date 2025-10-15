@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SODReview_AggregateLevel_Analytics</description>
+   <name>SODReview_AggregateLevel_Analytics</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87819638-1d04-4785-974b-5ff36d8c6ab4</testCaseGuid>
+</TestCaseEntity>

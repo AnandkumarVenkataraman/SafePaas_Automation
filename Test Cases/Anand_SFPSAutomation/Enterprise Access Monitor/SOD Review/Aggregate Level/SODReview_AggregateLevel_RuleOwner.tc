@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SODReview_AggregateLevel_RuleOwner</description>
+   <name>SODReview_AggregateLevel_RuleOwner</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe42cecb-470b-4696-9267-c26a193816d3</testCaseGuid>
+</TestCaseEntity>
