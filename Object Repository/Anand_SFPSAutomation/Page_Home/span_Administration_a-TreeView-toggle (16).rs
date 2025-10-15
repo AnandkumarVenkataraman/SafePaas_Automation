@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Detect Violations_a-TreeView-toggle (2)</name>
+   <name>span_Administration_a-TreeView-toggle (16)</name>
    <tag></tag>
-   <elementGuidId>919fa4ae-338b-4de3-b6b8-46e01606e326</elementGuidId>
+   <elementGuidId>324e5ed0-0efc-4447-996e-9146db0d58c0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#t_TreeNav_14 > span.a-TreeView-toggle</value>
+         <value>#t_TreeNav_6 > span.a-TreeView-toggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[3]/ul/li[5]/span</value>
+         <value>//li[@id='t_TreeNav_6']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>li >> internal:has-text=/^Remediate Violations$/ >> span >> nth=0</value>
+         <value>li >> internal:has-text=/^Company Settings$/ >> span >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>099499ad-f9ec-4d74-b0ab-c5f621f4120a</webElementGuid>
+      <webElementGuid>d882cf4f-e026-4159-965a-43f169a91295</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,30 +37,30 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>21f3a7f2-9568-438e-9750-be0aae42b047</webElementGuid>
+      <webElementGuid>c34b6875-7510-40d4-8dd6-395808fd1d6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_14&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>ed7ba4f6-ba89-4320-b506-48a5ff6a4531</webElementGuid>
+      <value>id(&quot;t_TreeNav_6&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      <webElementGuid>cf608e90-8b1d-47d2-b978-d6764b0fc5ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_14']/span</value>
-      <webElementGuid>314b57dd-55a5-44c1-a192-807daf5a4ec6</webElementGuid>
+      <value>//li[@id='t_TreeNav_6']/span</value>
+      <webElementGuid>2beb5bbd-1af9-4e3b-b85e-25dae2ed0498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li[5]/span</value>
-      <webElementGuid>988b57ae-f62b-4fb4-85dd-dc78bc062765</webElementGuid>
+      <value>//li[6]/ul/li/span</value>
+      <webElementGuid>f9d310fc-928f-4272-b183-d11ee46476fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>bba1042d-887f-4116-8537-13c936a8bc91</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_162']/div[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Manage Review Status')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fc695fd3-6048-4957-a001-02d9dccfdfc9</webElementGuid>
+      <webElementGuid>f9742ee3-ee31-47db-90da-515983d11a13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>f7a4ffc9-1721-40ec-92f8-a7eaaca2c3d2</webElementGuid>
+      <webElementGuid>4ceb2aa8-de07-410a-a052-11237b6d945a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>f50738bf-6e74-493c-811d-49105d48a158</webElementGuid>
+      <webElementGuid>c00ac9d5-883b-446c-a401-3bbbe43aca2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>e8324069-08e3-4ffd-b8f8-e91ada1e2473</webElementGuid>
+      <webElementGuid>70936881-cd07-495a-9d32-a00794a9e9f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:185:7983313205038:::185::</value>
-      <webElementGuid>5485493f-e7b3-4b01-a6b5-5542a909b54c</webElementGuid>
+      <webElementGuid>9cf48043-6868-450f-8861-6800ff5485cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>4aee13e2-5c72-49fc-b8b5-944f0477de8a</webElementGuid>
+      <webElementGuid>333d9b18-62c6-46ac-b1ef-d0377c9aea35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>39612067-5a71-4f8b-9c83-9666747f7e69</webElementGuid>
+      <webElementGuid>4271f830-6450-4779-bebf-db754cc7cad7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Review Status</value>
-      <webElementGuid>5838d9f1-f321-4db5-9bfb-1070012dc50f</webElementGuid>
+      <webElementGuid>229490a4-f40a-4f95-baec-96c3572fbc28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_162&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>e7bdc770-9e2f-4ad1-8e14-9dc0b8c7de24</webElementGuid>
+      <webElementGuid>9d6aa51f-3b6d-4e5a-b152-c6efb775eed0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_162']/div[2]/a</value>
-      <webElementGuid>f628acb5-32e5-4eee-81d1-525daef8566f</webElementGuid>
+      <webElementGuid>9bb92b5f-869d-4f6c-bcc8-7062e50be1b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Review Status')]</value>
-      <webElementGuid>92e1d6bc-ceaa-47b8-a264-d90786f0db39</webElementGuid>
+      <webElementGuid>877eda1d-1443-494c-bc3e-b2b629e15b2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Actions'])[2]/following::a[1]</value>
-      <webElementGuid>af3f1390-1434-4919-88cc-9362f20ca483</webElementGuid>
+      <webElementGuid>3ede7ee8-df9f-4b13-8a15-da0112973387</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage SOD Review'])[1]/following::a[2]</value>
-      <webElementGuid>39b4ac31-3d26-457a-8ab0-d9c869de2a07</webElementGuid>
+      <webElementGuid>618e7eaf-bbfe-4250-a9be-4df04f20e8c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigate Violations'])[1]/preceding::a[1]</value>
-      <webElementGuid>ac80c2ac-d92f-47c0-9980-4715dc1cef0d</webElementGuid>
+      <webElementGuid>1377b9d1-3e10-44b9-889c-48cb082add6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles Manager'])[1]/preceding::a[1]</value>
-      <webElementGuid>8effe739-1e75-4cec-8a2a-af982d965f05</webElementGuid>
+      <webElementGuid>d0c266b3-6266-47e3-aada-8d528e67cf3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Review Status']/parent::*</value>
-      <webElementGuid>37610c0b-d41c-4ca4-97a3-deb12975f65a</webElementGuid>
+      <webElementGuid>cfc6f9be-507b-4892-8e8e-eef87ff7c7cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:185:7983313205038:::185::')]</value>
-      <webElementGuid>07ec2232-b1c1-4333-99df-c9ecd2729479</webElementGuid>
+      <webElementGuid>36c273ec-a6ee-4ea5-a7df-04c14629cb08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[3]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>56c6883c-29ac-439d-b485-bd88b0f49320</webElementGuid>
+      <webElementGuid>5c47ef9d-1668-475b-8826-06c9e4e5f0ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:185:7983313205038:::185::' and (text() = 'Manage Review Status' or . = 'Manage Review Status')]</value>
-      <webElementGuid>7c157cbe-39c0-4f0b-a600-0be1da2e3123</webElementGuid>
+      <webElementGuid>ae60544d-8c5a-42e8-90d4-dd36b8c227d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

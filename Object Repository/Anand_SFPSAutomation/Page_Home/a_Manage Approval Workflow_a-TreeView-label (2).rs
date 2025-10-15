@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage SOD Review_a-TreeView-label</name>
+   <name>a_Manage Approval Workflow_a-TreeView-label (2)</name>
    <tag></tag>
-   <elementGuidId>4d7151dc-e033-47fc-ae69-a6463dfec075</elementGuidId>
+   <elementGuidId>4ac67ae3-2862-4279-83bb-93174e382465</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Review Actions')]</value>
+         <value>//li[@id='t_TreeNav_20']/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage Review Actions&quot;i]</value>
+         <value>internal:role=treeitem[name=&quot;SOD Review Configuration&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>52367b73-8fae-4c13-b752-5ebb678cde7a</webElementGuid>
+      <webElementGuid>dc37fac7-e414-49fe-a01b-234b155f2398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>8d4a9e51-f83d-4422-aac9-865c52242143</webElementGuid>
+      <webElementGuid>0215b2d1-759b-4896-ba87-79006b539b25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>5947507c-cd96-42d6-bfed-d232cc035450</webElementGuid>
+      <webElementGuid>fd007065-663d-476a-b43c-9755bc902694</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,23 +53,23 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>293caed3-e9dc-4940-b322-6b0af17ed4dd</webElementGuid>
+      <webElementGuid>6e240b33-8934-46f4-875b-c9751eb61261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1180:180:8711415124851:::180::</value>
-      <webElementGuid>8e277463-f476-4c9d-ad3f-43341988a073</webElementGuid>
+      <value>f?p=1001:130:8609579062898:::130::</value>
+      <webElementGuid>270818f0-4925-46d6-bbe6-9bff3fd37acf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-level</name>
       <type>Main</type>
-      <value>5</value>
-      <webElementGuid>0e200102-309f-430d-8f2e-ec09f65d6f95</webElementGuid>
+      <value>4</value>
+      <webElementGuid>b2c64bb2-ae63-4267-9c42-b466fd6f4057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,102 +77,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9393f04e-627d-4702-bfaa-a978f7fd75db</webElementGuid>
+      <webElementGuid>ad420bd0-f183-43d0-af4d-05f5f8426315</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Review Actions</value>
-      <webElementGuid>0912b8ae-f7e2-4d9f-8c4b-ac87eb52f79c</webElementGuid>
+      <value>SOD Review Configuration</value>
+      <webElementGuid>200317d9-f841-4aa1-92d0-6f7ab3825cdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_21&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>a37eb353-ad4b-4c7d-82d3-6d795804b0ed</webElementGuid>
+      <value>id(&quot;t_TreeNav_20&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>72f5ae89-c8c0-4a86-9e54-4fdc727f78dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_21']/div[2]/a</value>
-      <webElementGuid>10c328d8-6bea-48b0-bc60-a2334e9ac310</webElementGuid>
+      <value>//li[@id='t_TreeNav_20']/div[2]/a</value>
+      <webElementGuid>6811b091-e608-43db-b57d-a07e2dff1b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Manage Review Actions')]</value>
-      <webElementGuid>b035453d-3fd8-4810-9c8d-f5f89f5a5007</webElementGuid>
+      <value>//a[contains(text(),'SOD Review Configuration')]</value>
+      <webElementGuid>eaa1ef3f-50ec-46c5-a19d-5a4c51ec716a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage SOD Review'])[1]/following::a[1]</value>
-      <webElementGuid>4d61ba26-6285-4a98-b4fe-46ae792f4b16</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Workflow'])[1]/following::a[1]</value>
+      <webElementGuid>c776e829-7a6f-4a71-8b69-0de49a03469b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Corrective Action'])[1]/following::a[1]</value>
-      <webElementGuid>5f23e7f2-db10-41e8-89cc-0eacc65dfa26</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments'])[1]/following::a[2]</value>
+      <webElementGuid>38bec6d5-b6a0-4c10-9b5e-3b926464d638</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Status'])[1]/preceding::a[1]</value>
-      <webElementGuid>551a1543-7d1c-45b1-871f-8c067e9b2dca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/preceding::a[1]</value>
+      <webElementGuid>ecbd2f6d-b1fb-40f4-9ba1-673aa6a628b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitigate Violations'])[1]/preceding::a[2]</value>
-      <webElementGuid>c965625d-cff7-477b-aa55-ae54aa516a7c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[2]/preceding::a[1]</value>
+      <webElementGuid>7140cb1d-2e87-4282-9af1-02c43d4e4db2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage Review Actions']/parent::*</value>
-      <webElementGuid>e708f04b-b152-40a7-9e56-2733851dbc00</webElementGuid>
+      <value>//*/text()[normalize-space(.)='SOD Review Configuration']/parent::*</value>
+      <webElementGuid>8f84ff3d-1327-4e35-a45c-8f7544bc2b0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1180:180:8711415124851:::180::')]</value>
-      <webElementGuid>f36740b5-0226-4d08-bce3-9ee60f729c89</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1001:130:8609579062898:::130::')]</value>
+      <webElementGuid>ef7e81cd-014b-416e-b28c-c1b59bc6eda1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/ul/li[3]/ul/li/div[2]/a</value>
-      <webElementGuid>c28dad2b-eb85-4102-a3df-22d9224bb948</webElementGuid>
+      <value>//li[8]/ul/li[4]/div[2]/a</value>
+      <webElementGuid>51f59f96-2897-4d70-8d7e-7a244ba477c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1180:180:8711415124851:::180::' and (text() = 'Manage Review Actions' or . = 'Manage Review Actions')]</value>
-      <webElementGuid>c7632441-3449-4158-bb88-5b4756b7e143</webElementGuid>
+      <value>//a[@href = 'f?p=1001:130:8609579062898:::130::' and (text() = 'SOD Review Configuration' or . = 'SOD Review Configuration')]</value>
+      <webElementGuid>ffdaf3e3-0a66-41b7-8aad-13362fe3b166</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
