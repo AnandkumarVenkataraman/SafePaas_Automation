@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Rules Reviews - Read only access to R_637490 (1)</name>
+   <tag></tag>
+   <elementGuidId>0a5a3a97-98a3-4aeb-8253-d50aaf4e6d21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P26_FUNCTION_READ_ACCESS']/div[51]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Create Assignments - Read only access for Create Mitigation Assignments&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>308e8b25-daf7-49c5-8c9f-38753bf1ff8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>7b3853dc-cecf-4cd8-8f52-6ac7c874b608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_READ_ACCESS_50</value>
+      <webElementGuid>5b00df13-b32e-4780-9d0c-671cf09392f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Assignments - Read only access for Create Mitigation Assignments</value>
+      <webElementGuid>668483e1-82ab-4dc8-86e2-5a85c7762b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_READ_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>d1c0a640-1cae-481f-8ffe-d21e072ae11a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_READ_ACCESS']/div[51]/label</value>
+      <webElementGuid>8792948a-3a24-42ac-a012-71d7ec0aa066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rules Reviews - Read only access to Rules Reviews report'])[1]/following::label[1]</value>
+      <webElementGuid>bbae7da6-9ab8-4fd1-b3e7-1b25bf72029a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rules Review - Read only access to Manage Rules Review'])[1]/following::label[2]</value>
+      <webElementGuid>615894da-0655-40d8-86f1-ef52ad4b624e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Assignments - Read only access for Manage Mitigation Assignments'])[1]/preceding::label[1]</value>
+      <webElementGuid>6a57fbea-8167-433a-ba64-a997c213a514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Function Write Access'])[1]/preceding::label[2]</value>
+      <webElementGuid>79a32d11-330d-42df-8546-5caf426f9012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Assignments - Read only access for Create Mitigation Assignments']/parent::*</value>
+      <webElementGuid>8cc251df-7ca6-484b-99ae-db04ddc5ef73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[51]/label</value>
+      <webElementGuid>64696eeb-840e-4d4b-a43f-e116fd50493e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Create Assignments - Read only access for Create Mitigation Assignments' or . = 'Create Assignments - Read only access for Create Mitigation Assignments')]</value>
+      <webElementGuid>f3ffcfac-7bca-4321-af9c-f40ae28a9c1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

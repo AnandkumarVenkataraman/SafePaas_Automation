@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Manage Business Process - Enables edi_a0ef8a (1)</name>
+   <tag></tag>
+   <elementGuidId>e6c821bd-eda5-4b16-90b6-e845bd46c08b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P26_FUNCTION_WRITE_ACCESS']/div[8]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Mitigations - Enables edit capabilities for Manage Mitigations&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9e020d08-f7af-4bee-bd96-f551f5dce6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>2c0e9a8f-0a36-4532-b9d6-d812a8cb256c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P26_FUNCTION_WRITE_ACCESS_7</value>
+      <webElementGuid>c67c279d-b32c-4974-a007-5ab4eba429aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Mitigations - Enables edit capabilities for Manage Mitigations</value>
+      <webElementGuid>2494634e-18f8-4afc-af73-4dd3323e4eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P26_FUNCTION_WRITE_ACCESS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>a9781703-feab-4f63-b23b-d428422ccc7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P26_FUNCTION_WRITE_ACCESS']/div[8]/label</value>
+      <webElementGuid>26437aef-5947-41e4-8f9b-e036fe733d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Business Process - Enables edit capabilities for Manage Business Process'])[1]/following::label[1]</value>
+      <webElementGuid>c2880609-4c36-40d6-a2a0-decc77d01582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Hierarchy Attribute - View-only access to Entry Hierarchy Attribute Report'])[2]/following::label[2]</value>
+      <webElementGuid>525d13ad-5cd7-417d-be0b-eda67fbb5f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Violations by User Report - Able to view and export all violations'])[1]/preceding::label[1]</value>
+      <webElementGuid>e1369b6f-96d1-40a0-aedf-625db80b3935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Matrix by User - View-only access to Violation Matrix by User'])[2]/preceding::label[2]</value>
+      <webElementGuid>0588e7d2-0d44-41e4-8799-c3f859749e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Mitigations - Enables edit capabilities for Manage Mitigations']/parent::*</value>
+      <webElementGuid>cf1f6beb-c255-4018-9243-66aa23861d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div/div[8]/label</value>
+      <webElementGuid>e756fc05-dade-4f0b-8c48-fe6a019dd068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Manage Mitigations - Enables edit capabilities for Manage Mitigations' or . = 'Manage Mitigations - Enables edit capabilities for Manage Mitigations')]</value>
+      <webElementGuid>97cc1642-713e-4ffc-ba24-16666ae81257</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EAM-1070-Reverse</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>699aa670-6b78-4eaf-ac2b-ddeb3af9fc5d</testCaseGuid>
+</TestCaseEntity>

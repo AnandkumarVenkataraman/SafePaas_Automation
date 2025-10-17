@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Target role_P109_TARGET_ROLE</name>
+   <tag></tag>
+   <elementGuidId>acf8e3a5-4d52-4ff9-a1d5-504b68eb0c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P109_TARGET_ROLE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P109_TARGET_ROLE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Target role&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ac8a10c0-114a-4f79-b3e7-4d86aafa6fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P109_TARGET_ROLE</value>
+      <webElementGuid>3daa9759-2c19-4563-8303-1b3378036f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P109_TARGET_ROLE</value>
+      <webElementGuid>fba6f4fb-bedc-4211-bc7a-9a04d8984425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>68fd9bfa-66d2-4bed-851d-09308589b175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d78ba3dd-a176-4fc9-8933-10ef177b6e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6d39f6b9-4469-4b67-b628-e17c83439a9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P109_TARGET_ROLE');</value>
+      <webElementGuid>77ec41df-ddf9-4f39-9392-f6ae2c113f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any -
+Test_APSpecialist_v1
+</value>
+      <webElementGuid>8dcc1596-e5c6-41c7-9062-6c23d813c39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P109_TARGET_ROLE&quot;)</value>
+      <webElementGuid>f17c2160-f5a0-440f-a8c5-f26594c3ba1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P109_TARGET_ROLE']</value>
+      <webElementGuid>59030a64-36a5-4fb7-b25b-8fdda1248a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P109_TARGET_ROLE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b6008dbc-f4f7-4940-b6e5-92dcf9e14e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target role'])[1]/following::select[1]</value>
+      <webElementGuid>e9555af9-b4ba-45ec-a8b3-f0d0690d9afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Target Role'])[1]/following::select[1]</value>
+      <webElementGuid>a30b5675-f1d0-4981-8cf8-5cd0de27a652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles Report'])[4]/preceding::select[1]</value>
+      <webElementGuid>e5dc73d2-c5fd-40c8-b01a-050449ec41c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>18709df2-ed86-4cf5-93d1-7e6083ed1732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>74899d39-e08b-4e68-b3cb-9dd75b7bc500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P109_TARGET_ROLE' and @name = 'P109_TARGET_ROLE' and (text() = '- Please select any -
+Test_APSpecialist_v1
+' or . = '- Please select any -
+Test_APSpecialist_v1
+')]</value>
+      <webElementGuid>059eb96f-9ee8-4f2f-a721-697f114eae12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

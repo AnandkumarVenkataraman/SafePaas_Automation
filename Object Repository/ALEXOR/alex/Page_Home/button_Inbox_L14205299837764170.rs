@@ -6,19 +6,19 @@
    <elementGuidId>71ccd794-b0aa-4e9f-aeb7-78ed58782e44</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='L14205299837764170']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#L14205299837764170</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='L14205299837764170']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; jcarey &quot;i]</value>
+         <value>internal:role=button[name=&quot; katadmin &quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f93c0e7f-99fd-485e-b40f-525ad873b9ab</webElementGuid>
+      <webElementGuid>10de31b0-70b5-4775-be46-69b89a400c88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>t-Button t-Button--icon t-Button t-Button--header t-Button--navBar js-menuButton</value>
-      <webElementGuid>049c736c-3553-48c5-9fc2-d99682cb1e7a</webElementGuid>
+      <webElementGuid>6a54c9db-c07f-4c7e-a23e-9b7724e57236</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1b646cf8-33ff-45db-b073-7be845f4f9f4</webElementGuid>
+      <webElementGuid>38c07949-1d72-410d-8cdb-328ed31064bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>L14205299837764170</value>
-      <webElementGuid>bdc250d3-2a50-430f-bb34-80c39dd9e1a9</webElementGuid>
+      <webElementGuid>a86cc22b-5c53-4522-baec-ff68ba53a043</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-menu</name>
       <type>Main</type>
       <value>menu_L14205299837764170</value>
-      <webElementGuid>2efc8532-4681-4c90-82cd-a479e407301b</webElementGuid>
+      <webElementGuid>3f0092b2-322c-475c-af51-10b638df6a8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>4a6e1775-d30b-4d61-8323-f25454330d53</webElementGuid>
+      <webElementGuid>85efc011-64d8-4ad2-81e5-57b305100083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,9 +77,9 @@
       <name>text</name>
       <type>Main</type>
       <value>
-      jcarey
+      katadmin
   </value>
-      <webElementGuid>473d5a47-f28b-4539-8fb2-d2303a2f81da</webElementGuid>
+      <webElementGuid>ec16020b-5fc4-491b-a7c1-dc918c329d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;L14205299837764170&quot;)</value>
-      <webElementGuid>20bc6fdf-3980-4985-81ca-27668a052cb0</webElementGuid>
+      <webElementGuid>bcff5fe3-0f66-4ae5-b32f-97033fb650cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='L14205299837764170']</value>
-      <webElementGuid>d35ede69-35db-4b93-8692-b72de58e7f8c</webElementGuid>
+      <webElementGuid>bde9a8e6-5864-44ea-951f-4f5f0d9a7af4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='14205299837764168']/li[2]/button</value>
-      <webElementGuid>c16992fe-3c17-4e7c-bceb-1aef0f2eb01e</webElementGuid>
+      <webElementGuid>e71c0213-f8cf-4016-ad29-21032d779592</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbox'])[1]/following::button[1]</value>
-      <webElementGuid>1662d146-0e5e-49f6-b057-1ee32a56f1ae</webElementGuid>
+      <webElementGuid>7d06fc2e-64ed-4d81-b5f5-869a8bd5047a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::button[1]</value>
-      <webElementGuid>d17a6ffe-d730-4037-9a92-c3f974324744</webElementGuid>
+      <webElementGuid>fc11e686-efb4-43a6-97cc-5545bd670c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/button</value>
-      <webElementGuid>31683420-3375-459b-a9da-3f15dd8fa621</webElementGuid>
+      <webElementGuid>b6be6d31-2e6b-4a49-b0d3-c191fe0fa6ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,10 +135,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'L14205299837764170' and (text() = '
-      jcarey
+      katadmin
   ' or . = '
-      jcarey
+      katadmin
   ')]</value>
-      <webElementGuid>215e1a55-7a56-4396-8b74-b4190f24eb2b</webElementGuid>
+      <webElementGuid>d3a20874-8fdd-4a2b-93b0-98cf101e9502</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
