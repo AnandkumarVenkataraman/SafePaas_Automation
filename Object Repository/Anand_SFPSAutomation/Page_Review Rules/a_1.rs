@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1</name>
+   <tag></tag>
+   <elementGuidId>b44c8a15-bd84-4943-9648-1dc905edd7fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='173864579298281939_orig']/tbody/tr[3]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td.u-tL > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Depreciation vs. Inventory Rule2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3a61af96-c735-459c-a365-caa638e23cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:25071,26269,144</value>
+      <webElementGuid>c39e6e99-acd5-4ead-a6f8-322cd70e1a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Depreciation vs. Inventory Rule2</value>
+      <webElementGuid>23cd45c5-c69e-41c1-b550-5464690c6b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939_orig&quot;)/tbody[1]/tr[3]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>4f89867a-6aca-4497-b2a8-91e5d40efa35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='173864579298281939_orig']/tbody/tr[3]/td[2]/a</value>
+      <webElementGuid>be5ca271-a5d3-4deb-bcdd-3fdb9c3a6a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Depreciation vs. Inventory Rule2')]</value>
+      <webElementGuid>8ff8a8b5-09f8-4474-8614-f42c5e930c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[4]/following::a[1]</value>
+      <webElementGuid>1ba3a408-f37c-47c6-955d-e4b3659192c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::a[1]</value>
+      <webElementGuid>2123b50b-c24f-4733-afb5-231080d91243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Depreciation vs. Inventory Rule2'])[2]/preceding::a[1]</value>
+      <webElementGuid>8c5c4ca4-ddda-499c-901a-e1fdcbd9751d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[1]/preceding::a[1]</value>
+      <webElementGuid>0a51faee-d385-45a4-82a0-9f0608f97063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Depreciation vs. Inventory Rule2']/parent::*</value>
+      <webElementGuid>66832926-bd4e-4088-8fcb-d68840893b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:25071,26269,144')]</value>
+      <webElementGuid>58ed6672-af30-4c61-9684-b16675bc011a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/a</value>
+      <webElementGuid>002baa30-9dca-40d3-aef5-2a5dfb3626cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:25071,26269,144' and (text() = 'Depreciation vs. Inventory Rule2' or . = 'Depreciation vs. Inventory Rule2')]</value>
+      <webElementGuid>bae1a455-f64e-46a6-b2a1-b36f045ddb1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

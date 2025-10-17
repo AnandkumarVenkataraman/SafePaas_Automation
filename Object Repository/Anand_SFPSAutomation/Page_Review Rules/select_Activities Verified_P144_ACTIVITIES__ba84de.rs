@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Activities Verified_P144_ACTIVITIES__ba84de</name>
+   <tag></tag>
+   <elementGuidId>8408f3c1-aee9-48b1-8ca8-4a7f96ae15ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P144_ACTIVITIES_VERIFIED']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P144_ACTIVITIES_VERIFIED</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Activities Verified&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8e713993-3d33-4e2a-b805-7c9d86e1ef6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P144_ACTIVITIES_VERIFIED</value>
+      <webElementGuid>abf74ce7-6dc1-4025-ba50-3f5e9c32d367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P144_ACTIVITIES_VERIFIED</value>
+      <webElementGuid>59481625-0f30-4210-8fd5-80f5941a15d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select reviewItem</value>
+      <webElementGuid>6ba86f9d-1a19-4948-aaa3-a83a6deeacf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6cca8f36-8ac4-43de-ba2a-f4acc19c50f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1a329582-5dc1-4a11-9aef-b2ca0dc3a809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select a value -
+No
+Yes
+</value>
+      <webElementGuid>181f6d93-a85e-491a-9e29-c74c30b7a964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P144_ACTIVITIES_VERIFIED&quot;)</value>
+      <webElementGuid>607c7935-dc23-4c67-8e0e-da694026d911</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P144_ACTIVITIES_VERIFIED']</value>
+      <webElementGuid>99d4a5f4-8b69-4d3c-b4dc-6b92fa386eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P144_ACTIVITIES_VERIFIED_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>da5551c5-78de-48f0-8160-ccdbe64e25b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities Verified'])[1]/following::select[1]</value>
+      <webElementGuid>bd426583-80ea-4eb7-a002-eb81c71a16d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule In Scope'])[1]/following::select[2]</value>
+      <webElementGuid>7e6ea48d-5523-4319-b9c9-f4ecae2eb59f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptions Verified'])[1]/preceding::select[1]</value>
+      <webElementGuid>a19a8210-d0de-4c5c-853e-d59a431a1676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/select</value>
+      <webElementGuid>dfa46124-d725-4c93-94b2-eb0a2533f4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P144_ACTIVITIES_VERIFIED' and @name = 'P144_ACTIVITIES_VERIFIED' and (text() = '- Select a value -
+No
+Yes
+' or . = '- Select a value -
+No
+Yes
+')]</value>
+      <webElementGuid>4c8c5f1e-6f0d-407e-98f4-9678831e3f48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

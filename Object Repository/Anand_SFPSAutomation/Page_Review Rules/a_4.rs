@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_4</name>
+   <tag></tag>
+   <elementGuidId>a015e4ff-3de0-4bf6-8b5a-e06c5ae3ccd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='173864579298281939_orig']/tbody/tr[6]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(6) > td.u-tL > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;EBiz Roles Rules1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6d521318-d529-4812-8028-eba9c60a8837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21296,26208,144</value>
+      <webElementGuid>018fe04f-c82a-4eb6-88bd-59f38a87246d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EBiz Roles Rules1</value>
+      <webElementGuid>86035246-5c4e-4e53-b7b6-05547c5c103a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939_orig&quot;)/tbody[1]/tr[6]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>2fe8f4d6-3283-4bdb-a195-793df6111a8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='173864579298281939_orig']/tbody/tr[6]/td[2]/a</value>
+      <webElementGuid>a6053e16-3e46-4271-aa0f-546f65fa134d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'EBiz Roles Rules1')]</value>
+      <webElementGuid>39331ea9-756b-464a-a800-42522bb7acd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[17]/following::a[1]</value>
+      <webElementGuid>00252a9d-3abb-4a8b-ada6-6b1fe2f9bf0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[16]/following::a[1]</value>
+      <webElementGuid>f8caac7e-fb86-4bfb-adec-efff2498cf28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz Roles Rules1'])[2]/preceding::a[1]</value>
+      <webElementGuid>b7f29387-f095-4f33-b477-fd56ac22327e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEDIUM'])[3]/preceding::a[1]</value>
+      <webElementGuid>60997d9b-7957-41e9-bb71-9b57551682e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EBiz Roles Rules1']/parent::*</value>
+      <webElementGuid>9634ac9d-674a-4bca-8d03-888aafa7a677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21296,26208,144')]</value>
+      <webElementGuid>d96d48d1-7979-41fa-a563-97e21ea58116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/a</value>
+      <webElementGuid>e6f957e6-1b7c-47ea-9807-44c00e779b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21296,26208,144' and (text() = 'EBiz Roles Rules1' or . = 'EBiz Roles Rules1')]</value>
+      <webElementGuid>da06299b-1395-4564-8a11-a0c3242df451</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

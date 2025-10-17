@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_7</name>
+   <tag></tag>
+   <elementGuidId>eb1a7d8d-832b-4c26-8a2b-bb9dbcc58d73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='173864579298281939_orig']/tbody/tr[9]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(9) > td.u-tL > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Inventory vs. Procurement Cards Rule&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>efe3cf57-9666-43f5-bd00-0acdd8ba72d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21294,26211,144</value>
+      <webElementGuid>feb674dc-02a1-4a22-ac4e-c66bc5d0acec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inventory vs. Procurement Cards Rule</value>
+      <webElementGuid>775e1026-1318-43c5-9727-af31cdb02b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939_orig&quot;)/tbody[1]/tr[9]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>506fc26d-b45b-4360-aa5b-e2a9c358c35f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='173864579298281939_orig']/tbody/tr[9]/td[2]/a</value>
+      <webElementGuid>d5add3b6-3ea3-43ce-ac6d-2c4e4a69eb87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Inventory vs. Procurement Cards Rule')]</value>
+      <webElementGuid>c822c643-71b1-4dbd-b42b-189925d6fdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[29]/following::a[1]</value>
+      <webElementGuid>e14ff246-e7c3-40ff-a158-909caeadf8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[28]/following::a[1]</value>
+      <webElementGuid>9f7f6a84-4e85-40e0-ae4c-bafe4a533da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventory vs. Procurement Cards Rule'])[2]/preceding::a[1]</value>
+      <webElementGuid>d4c63ef2-ebcf-47b9-ba74-773b0e62fa7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[2]/preceding::a[1]</value>
+      <webElementGuid>1b474a6f-8460-4877-9ea7-feaf64fdb0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inventory vs. Procurement Cards Rule']/parent::*</value>
+      <webElementGuid>2c91eac2-dfd6-4c9a-8988-c80120c6e9a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21294,26211,144')]</value>
+      <webElementGuid>a52eee32-ca3f-44ce-886a-ef247fa5784d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[2]/a</value>
+      <webElementGuid>7e530aeb-97d1-4ca4-baab-11516f3517fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21294,26211,144' and (text() = 'Inventory vs. Procurement Cards Rule' or . = 'Inventory vs. Procurement Cards Rule')]</value>
+      <webElementGuid>ce9e7ed7-754d-462e-9c50-6c99313ca6d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

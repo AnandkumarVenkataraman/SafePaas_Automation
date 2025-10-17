@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_3</name>
+   <tag></tag>
+   <elementGuidId>6f2d059c-2fef-44b0-91cf-45b55471f8ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='173864579298281939_orig']/tbody/tr[5]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td.u-tL > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;EBIZ JDBC - SREL 380&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee626942-55ac-4064-992c-8aa8be33a415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:24702,26207,144</value>
+      <webElementGuid>835acd3b-9f6e-4acf-aab4-516866ae51e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EBIZ JDBC - SREL 380</value>
+      <webElementGuid>a29f65f2-7384-451a-9bd1-8bd7c1c5e778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939_orig&quot;)/tbody[1]/tr[5]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>cc590755-a34e-465f-b61a-1aa9c754720f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='173864579298281939_orig']/tbody/tr[5]/td[2]/a</value>
+      <webElementGuid>bd9b81e0-4f15-4327-971a-ab1f8df87723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'EBIZ JDBC - SREL 380')]</value>
+      <webElementGuid>885b4f44-bfa5-4ab7-8e12-98cc2fe624b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[12]/following::a[1]</value>
+      <webElementGuid>11a39597-0277-4d4e-9c5d-19e68bdd1f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[11]/following::a[1]</value>
+      <webElementGuid>35a3f2c9-5826-47bc-bb5d-08e673798430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[13]/preceding::a[1]</value>
+      <webElementGuid>16c4d1dd-44d2-4fa9-a76f-1aa547961dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEDIUM'])[2]/preceding::a[1]</value>
+      <webElementGuid>02f76250-3a94-41bf-896a-efe015823062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EBIZ JDBC - SREL 380']/parent::*</value>
+      <webElementGuid>5dbd3418-4c94-40a8-b5d0-26ba88c78ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:24702,26207,144')]</value>
+      <webElementGuid>8d67a5c2-3b52-4616-820e-fbb54e0ddcae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/a</value>
+      <webElementGuid>e2de5726-6006-4732-b192-e2e944ebdff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:24702,26207,144' and (text() = 'EBIZ JDBC - SREL 380' or . = 'EBIZ JDBC - SREL 380')]</value>
+      <webElementGuid>9c85ce30-dca8-4ef7-9f4b-1737014425f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

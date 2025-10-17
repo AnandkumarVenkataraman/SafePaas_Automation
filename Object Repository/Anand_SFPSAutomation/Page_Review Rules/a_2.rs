@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2</name>
+   <tag></tag>
+   <elementGuidId>f1a9e381-5964-4419-acd6-f11711890cf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='173864579298281939_orig']/tbody/tr[4]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td.u-tL > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Depreciation vs. Procurement Cards Rule&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e0871d5-2195-4e6c-b02e-4ad69d47806c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21292,26266,144</value>
+      <webElementGuid>8716fd3e-3caf-4c4b-9649-1a7940163b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Depreciation vs. Procurement Cards Rule</value>
+      <webElementGuid>21f5a069-0e15-42d7-a184-c9c65ab4a252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;173864579298281939_orig&quot;)/tbody[1]/tr[4]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>7f8ef547-b0f2-46b7-b666-233c2193d71f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='173864579298281939_orig']/tbody/tr[4]/td[2]/a</value>
+      <webElementGuid>aefd5347-bc80-4305-9196-8aed406f60c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Depreciation vs. Procurement Cards Rule')]</value>
+      <webElementGuid>3ee8ff8a-4fbf-4f8b-b17d-52a6407a3e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[8]/following::a[1]</value>
+      <webElementGuid>712011a1-faa3-4f3e-8a7f-cd712724309b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/following::a[1]</value>
+      <webElementGuid>ad5a36ef-1437-4a15-89f2-f2ae7650b93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Depreciation vs. Procurement Cards Rule'])[2]/preceding::a[1]</value>
+      <webElementGuid>60f81a74-3f1b-43f6-9670-136aec9524aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEDIUM'])[1]/preceding::a[1]</value>
+      <webElementGuid>d4507a73-268e-43fb-bc4f-d119bc5f54bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Depreciation vs. Procurement Cards Rule']/parent::*</value>
+      <webElementGuid>e3aa767d-2bed-45cf-a5cb-411aecb9ab37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21292,26266,144')]</value>
+      <webElementGuid>d0148c76-84aa-4d5b-9417-4ad9b6cc1291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/a</value>
+      <webElementGuid>28a56150-6c30-4926-b6ad-95a3aab87eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:1042716422022::::P9_RULE_ID,P9_RULE_REV_ID,P9_FROM:21292,26266,144' and (text() = 'Depreciation vs. Procurement Cards Rule' or . = 'Depreciation vs. Procurement Cards Rule')]</value>
+      <webElementGuid>d1e40a56-cbcb-4c22-be6e-8c5d8908b961</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

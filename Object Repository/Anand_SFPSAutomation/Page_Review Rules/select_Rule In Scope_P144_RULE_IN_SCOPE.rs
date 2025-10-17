@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Rule In Scope_P144_RULE_IN_SCOPE</name>
+   <tag></tag>
+   <elementGuidId>fae97ac4-1a3b-40c0-b550-7cc1b4abdf5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P144_RULE_IN_SCOPE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P144_RULE_IN_SCOPE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Rule In Scope&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dcb49836-f65b-4ce2-a3f3-8bb50b6d7aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P144_RULE_IN_SCOPE</value>
+      <webElementGuid>9ce8273f-391c-47ac-b129-97b6ce3ab70c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P144_RULE_IN_SCOPE</value>
+      <webElementGuid>62978e21-9506-433e-9a65-c13755462fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select reviewItem</value>
+      <webElementGuid>8acaed7e-5e10-4e62-9842-010e668f0bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>94f8c8a9-a7fd-4ca7-8197-7b850bbf98aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>92297740-00aa-4169-b964-8bf46f3649cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select a value -
+No
+Yes
+</value>
+      <webElementGuid>8658c6a0-ab5b-4668-9e89-a23a50b8ab8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P144_RULE_IN_SCOPE&quot;)</value>
+      <webElementGuid>526802ee-74b7-4e2d-ad6d-74873f95fe82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P144_RULE_IN_SCOPE']</value>
+      <webElementGuid>03a98a83-bf72-44cb-b0c6-fcc7419128a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P144_RULE_IN_SCOPE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>fffc2d0c-fc80-4cf9-862e-8aba9d526e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule In Scope'])[1]/following::select[1]</value>
+      <webElementGuid>861091bd-b030-427e-8575-da6cff1a5cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Review'])[1]/following::select[1]</value>
+      <webElementGuid>09620836-112a-42b8-add6-2e6ad0851308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities Verified'])[1]/preceding::select[1]</value>
+      <webElementGuid>e8cbe7c6-4776-4ab2-9b40-6a32346d2e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptions Verified'])[1]/preceding::select[2]</value>
+      <webElementGuid>2a2786aa-757d-447e-9ba2-7037282a407e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ba8462f8-b7da-4506-807b-46cb97079985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P144_RULE_IN_SCOPE' and @name = 'P144_RULE_IN_SCOPE' and (text() = '- Select a value -
+No
+Yes
+' or . = '- Select a value -
+No
+Yes
+')]</value>
+      <webElementGuid>efbe6ade-2a4c-4cec-a280-191257d7cb2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

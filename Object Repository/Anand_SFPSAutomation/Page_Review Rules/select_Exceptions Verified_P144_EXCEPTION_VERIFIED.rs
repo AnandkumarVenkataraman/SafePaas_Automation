@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Exceptions Verified_P144_EXCEPTION_VERIFIED</name>
+   <tag></tag>
+   <elementGuidId>01454c2b-0bb3-4a27-b652-a197a4b29de1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P144_EXCEPTION_VERIFIED']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P144_EXCEPTION_VERIFIED</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Exceptions Verified&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e07ed414-8f8d-4408-a0d2-e7afa955f57d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P144_EXCEPTION_VERIFIED</value>
+      <webElementGuid>aeda5043-42cb-4102-8c28-71700734a9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P144_EXCEPTION_VERIFIED</value>
+      <webElementGuid>46cdb989-ada4-4df0-a48d-e42f2769aa11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select reviewItem</value>
+      <webElementGuid>6359678b-1386-476c-a7cb-ab21bd4a9755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e55a550b-2031-48c0-9f09-ba14b7ae62c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>554e7a89-44c4-4f0e-9a2f-fb64522a60f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select a value -
+No
+Yes
+</value>
+      <webElementGuid>698ea3d9-d017-4741-a99e-6529cfed1e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P144_EXCEPTION_VERIFIED&quot;)</value>
+      <webElementGuid>87f9f316-04f7-40a6-9e97-7ea79b307640</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P144_EXCEPTION_VERIFIED']</value>
+      <webElementGuid>5163c976-1320-4bab-9d21-ea195621a45a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P144_EXCEPTION_VERIFIED_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>91960d25-e1b2-4000-b0ca-d193b6db55fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptions Verified'])[1]/following::select[1]</value>
+      <webElementGuid>d54ca100-b281-445a-8bd4-6886a5fb8434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities Verified'])[1]/following::select[2]</value>
+      <webElementGuid>9149798b-a0f3-4fd7-bfdd-c93c3f6e9993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/preceding::select[1]</value>
+      <webElementGuid>e488917a-57f1-4d35-b74b-1eb29f6d4db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/select</value>
+      <webElementGuid>e80cdd91-ba6e-403b-9cd7-4353a3a8c6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P144_EXCEPTION_VERIFIED' and @name = 'P144_EXCEPTION_VERIFIED' and (text() = '- Select a value -
+No
+Yes
+' or . = '- Select a value -
+No
+Yes
+')]</value>
+      <webElementGuid>86d2a41e-453b-40bc-9110-199708d48b5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
