@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Review_P145_REVIEW</name>
+   <tag></tag>
+   <elementGuidId>205207bf-4d45-4f6b-a570-751feff1aa1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P145_REVIEW']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P145_REVIEW</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Review&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>509c8443-076e-4855-9d29-281f40cd25fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P145_REVIEW</value>
+      <webElementGuid>7df2e176-3234-4764-9aa0-ae69d2badde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P145_REVIEW</value>
+      <webElementGuid>3496724b-1013-41b8-9ca3-86452ce949c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>87d9643d-4571-4a85-a5d2-ae6b643b0fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9bc324f1-d631-4c35-bcb9-95c1d3625c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>9aebe314-f477-4488-ad0b-3b0749203f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P145_REVIEW');</value>
+      <webElementGuid>eb6024fc-75c3-410c-935c-cd0f334ab9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+KTLN_RR_Jun14_v1
+KTLN_RR_Jun14_v2
+KTLN_RR_Jun14_v3
+KTLN_RR_V1
+KTLN_RulesReview_OCT17_V1
+</value>
+      <webElementGuid>10bec12b-03a6-4180-b970-fa8fe2ef59dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P145_REVIEW&quot;)</value>
+      <webElementGuid>224f117f-9633-4443-bb1f-56fc466a27d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P145_REVIEW']</value>
+      <webElementGuid>25e929dd-e4af-46a9-9ef9-f8df1e9a7f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P145_REVIEW_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>46955501-2caa-4361-8c3a-ce05fd3e79e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review'])[1]/following::select[1]</value>
+      <webElementGuid>861288a9-2120-4a5d-8dca-acff91f5ef08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>6b91fe9c-6bd6-4a5a-9ada-0e09ca79ce5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rules Review'])[1]/preceding::select[1]</value>
+      <webElementGuid>76711367-c614-4d0f-a369-cb1de184f510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>556315b4-f088-4f5d-938c-002e3c1418cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>69f540f2-234a-45e0-a21e-f8c454c69005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P145_REVIEW' and @name = 'P145_REVIEW' and (text() = 'Select any one
+KTLN_RR_Jun14_v1
+KTLN_RR_Jun14_v2
+KTLN_RR_Jun14_v3
+KTLN_RR_V1
+KTLN_RulesReview_OCT17_V1
+' or . = 'Select any one
+KTLN_RR_Jun14_v1
+KTLN_RR_Jun14_v2
+KTLN_RR_Jun14_v3
+KTLN_RR_V1
+KTLN_RulesReview_OCT17_V1
+')]</value>
+      <webElementGuid>f4e80c22-b6ce-4ef1-8030-a47acaf8f476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
