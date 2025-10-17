@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Inbox_oj-datepicker-prev-icon oj-disabled_d9796f</name>
+   <tag></tag>
+   <elementGuidId>e374a5cf-9314-40e6-b1b3-b17f54d933bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='3_oj-datepicker-div']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.oj-datepicker-prev-icon.oj-disabled.oj-component-icon.oj-clickable-icon-nocontext.oj-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Previous&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ba9b8f0c-cd6d-4fab-91dd-318d243c5034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oj-datepicker-prev-icon oj-disabled oj-component-icon oj-clickable-icon-nocontext oj-hover</value>
+      <webElementGuid>bed93004-b4ab-4c2c-af75-fdbddfa27997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Previous</value>
+      <webElementGuid>c682490e-7ba8-4277-8fb0-59a695f9ebe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3_oj-datepicker-div&quot;)/div[@class=&quot;oj-datepicker-wrapper&quot;]/div[@class=&quot;oj-datepicker-header oj-enabled oj-default&quot;]/a[@class=&quot;oj-datepicker-prev-icon oj-disabled oj-component-icon oj-clickable-icon-nocontext oj-hover&quot;]</value>
+      <webElementGuid>b289c648-cfa5-4574-8687-93baaef800f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3_oj-datepicker-div']/div/div/a</value>
+      <webElementGuid>b42341a7-2c9c-4897-8a34-9e594d860c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>46043f50-c8ab-48ee-aa46-553e866654ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Previous']</value>
+      <webElementGuid>33d5bfc6-9cab-4dfd-af25-6d358d230089</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

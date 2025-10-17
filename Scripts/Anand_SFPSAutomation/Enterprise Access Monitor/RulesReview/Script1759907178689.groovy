@@ -50,27 +50,43 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
     2)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/button_Manage Rules Review_B169333222925788909'))
-//
+
+//Get sysdate and enter the Rules Review Survey's name, accordingly
 def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 def currentDateTime = dateFormat.format(new Date())
 def rrSurvey = 'KTLN_RulesReviewSurvey_' + currentDateTime
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/input_Name_P138_NAME'), 
     rrSurvey)
-//
+
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/textarea_Description_P138_DESCRIPTION'), 
     'This is a test Rules Review survey, initiated by QA Automation')
 
+//Enter Start date and End date for the Rules Review survey
+Date todaysDate = new Date()
+def rrStartDate = todaysDate.format("dd-MMM-yyyy")
+
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/input_Start Date_P138_START_DATEinput'), 
-    '17-Oct-2025')
+    rrStartDate)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/div_Cancel_t-Region-body'))
+Date todaysDate2 = new Date()
+def rrEndDate = todaysDate2.plus(2)
+def rrEndDate2 = rrEndDate.format("dd-MMM-yyyy")
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/a_Inbox_oj-enabled oj-selected oj-hover oj-focus'))
+//SimpleDateFormat sdf = new SimpleDateFormat(“dd-MMM-yyyy”);
+//Calendar c = Calendar.getInstance();
+//def rrEndDate = c.add(Calendar.DATE, 2); //Adds # of days
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/span_End Date_oj-inputdatetime-calendar-ico_3eb258'))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/input_End Date_P138_END_DATEinput'),
+	rrEndDate2)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/a_Inbox_oj-enabled oj-hover oj-focus'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/div_Cancel_t-Region-body'))
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/a_Inbox_oj-enabled oj-selected oj-hover oj-focus'))
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/span_End Date_oj-inputdatetime-calendar-ico_3eb258'))
+
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/a_Inbox_oj-enabled oj-hover oj-focus'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate Rules Review/button_Initate Rules Review_B169333442274788911'))
 
@@ -110,7 +126,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (17)'))
 
 //Launch the Rules Review as Rule owner and verify
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_entrypoint?URLC=44424A9CA56442008439774F784E4FB4&P_SURVEY=RR')
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (25)'), 'KAT')
 
@@ -184,5 +200,82 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (18)'))
 
 //Verify the reports
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
-//WebUI.closeBrowser()
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (26)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (46)'),
+	'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (46)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Reset Password_loginBtn (24)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (40)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (28)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Dashboard_a-TreeView-toggle (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Application Access Report_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Rules Summary By Exceptions_a-TreeView-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Reviews/select_Environment_P0_ENVIRONMENT'),
+	2)
+
+//select the last value in the LoV
+int totalOptions = WebUI.getNumberOfTotalOption(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Reviews/select_Review_P145_REVIEW'))
+int lastOptionIndex = totalOptions - 1
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Reviews/select_Review_P145_REVIEW'),
+	lastOptionIndex)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Reviews/select_Review_P145_REVIEW'),
+	0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Reviews/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Reviews/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (41)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (29)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (21)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rules_a-TreeView-label (1)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/select_Environment_P0_ENVIRONMENT (1)'),
+	2)
+
+//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/input_Create_R169332929667788906_search_field'),
+//	'17102025')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/button_Create_R169332929667788906_search_button'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/button_concat(Row text contains , , 1710202_2bfa80'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/a (1)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Review Status/td_This is a test Rules Review survey, init_dd1a4f'),
+	'Completed')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Review Status/td_Kat Admin_t-Report-cell'),
+	'Completed')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rules Review Status/a_Define Scope_t-Breadcrumb-label'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/select_Environment_P0_ENVIRONMENT (1)'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules Review/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (19)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (19)'))
+
+WebUI.closeBrowser()
+
