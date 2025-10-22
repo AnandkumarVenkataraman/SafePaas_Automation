@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Detect Violations_a-TreeView-label (1)</name>
+   <name>a_Define Scope_a-TreeView-label (6)</name>
    <tag></tag>
-   <elementGuidId>fa025826-6d89-4b9e-8c75-7472039c2c4a</elementGuidId>
+   <elementGuidId>7687e75b-057f-420e-972d-087402107820</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_17']/div[2]/a</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Manage SOD Test')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage SOD Test&quot;i]</value>
+         <value>internal:role=treeitem[name=&quot;Manage Rules&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e8c74761-7923-4ac8-aaf1-ad5b140e3057</webElementGuid>
+      <webElementGuid>c2ebc47b-04fe-49de-b6b5-b8cbcd3cc548</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>9f4bc5c5-03ab-4e69-a11b-40a953d06135</webElementGuid>
+      <webElementGuid>42c47639-9378-44da-a12b-bf3df1270951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>161a4ffb-090e-4adb-8313-eb1a99453724</webElementGuid>
+      <webElementGuid>66a762c9-4c7d-4a53-9706-befbaea26a09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>0e3c3968-c57e-4f94-b80a-af22d9681611</webElementGuid>
+      <webElementGuid>f102309d-3778-40ee-bb7d-72f73d8b4e5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1180:34:15012215213279:::34::</value>
-      <webElementGuid>68e28e3f-d754-4f99-a7d1-8a0104fcf06f</webElementGuid>
+      <value>f?p=1180:7:5383965245351:::7::</value>
+      <webElementGuid>ab6680e4-c709-496d-a61e-ddbece6642ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>d5a1a7d3-a6d0-4b35-b76a-b119cb30ff7d</webElementGuid>
+      <webElementGuid>ad2cbcec-f37a-472f-9bea-9696b87e7d55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,47 +77,39 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d2b6205e-c008-4d49-91b5-94462fe60442</webElementGuid>
+      <webElementGuid>092f5a90-2c10-4878-a8d5-911abc284cd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage SOD Test</value>
-      <webElementGuid>d6f95876-e7c1-48ba-a6a6-00cd3c735969</webElementGuid>
+      <value>Manage Rules</value>
+      <webElementGuid>854e612e-e5a9-48b1-8de6-bffe2c5477dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_18&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>ff8ea742-f0e1-4e6e-b301-03a32d750976</webElementGuid>
+      <value>id(&quot;t_TreeNav_17&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>6cb9b7cc-270d-4fac-9ba1-b5c87d4129e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_18']/div[2]/a</value>
-      <webElementGuid>e8e2536f-88ab-4c2c-8fdb-2931e9cc5520</webElementGuid>
+      <value>//li[@id='t_TreeNav_17']/div[2]/a</value>
+      <webElementGuid>a817e177-b3f2-4e99-bf98-b7b1f07f678c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Manage SOD Test')]</value>
-      <webElementGuid>8cc3701f-461e-4378-8a32-71e6139d5e2b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detect Violations'])[1]/following::a[1]</value>
-      <webElementGuid>348542b5-5ddb-4f33-97de-de88e2e46d65</webElementGuid>
+      <value>//a[contains(text(),'Manage Rules')]</value>
+      <webElementGuid>200f148e-fb3c-4fca-9a02-f882b5b5c066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,54 +117,62 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Define Scope'])[1]/following::a[1]</value>
-      <webElementGuid>179be94a-a029-468d-876f-82c4b5069ef2</webElementGuid>
+      <webElementGuid>741804ce-2965-4bc2-b822-b73611383529</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Violation'])[1]/preceding::a[1]</value>
-      <webElementGuid>d5d49715-b0fd-4699-ab77-c1986f406a03</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/following::a[1]</value>
+      <webElementGuid>30f692cd-6aa4-492f-8771-b6f3e910519c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception'])[1]/preceding::a[2]</value>
-      <webElementGuid>ccfbbee0-c465-4b75-bfc6-414aff3a35f2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rules Review'])[1]/preceding::a[1]</value>
+      <webElementGuid>f12543db-38cc-4bdf-bc94-b7a0fb58add5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage SOD Test']/parent::*</value>
-      <webElementGuid>8d0a8e52-94fe-4add-8e89-188afb8a5f08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage ERP Snapshot'])[1]/preceding::a[2]</value>
+      <webElementGuid>bfc4a25d-ec39-49f4-9bc0-049c1f9cfe7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Rules']/parent::*</value>
+      <webElementGuid>703ad90d-6da0-4eb8-9e6b-77d81a363e79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1180:34:15012215213279:::34::')]</value>
-      <webElementGuid>99817638-7216-433e-8e39-27d9a2eb648b</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1180:7:5383965245351:::7::')]</value>
+      <webElementGuid>e5a6f8a0-20e3-4211-89a9-99c687513a1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/ul/li/div[2]/a</value>
-      <webElementGuid>927d65e1-d49e-4457-9050-7d08d33e816a</webElementGuid>
+      <value>//li[3]/ul/li[3]/ul/li/div[2]/a</value>
+      <webElementGuid>f48d918b-11fc-4de2-987c-1cc65cbdefca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1180:34:15012215213279:::34::' and (text() = 'Manage SOD Test' or . = 'Manage SOD Test')]</value>
-      <webElementGuid>46a14939-fed9-42c0-bb81-2961b198a795</webElementGuid>
+      <value>//a[@href = 'f?p=1180:7:5383965245351:::7::' and (text() = 'Manage Rules' or . = 'Manage Rules')]</value>
+      <webElementGuid>3a252f35-6c50-49cb-a559-17dd0cf594de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
