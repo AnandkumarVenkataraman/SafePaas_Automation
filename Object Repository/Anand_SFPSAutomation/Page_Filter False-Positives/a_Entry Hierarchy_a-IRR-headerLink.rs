@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Entry Hierarchy_a-IRR-headerLink</name>
+   <tag></tag>
+   <elementGuidId>62abf0bb-8811-410e-8c2e-77444f2c8f52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C145576899191330215']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C145576899191330215 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\31 45575447502330201&quot;] >> internal:text=&quot;Entry Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>309a5a66-14e5-41a4-97ad-4cd3e1175e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>3ff2ab40-5929-4616-88bb-0c0c8bda9530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>145576899191330215</value>
+      <webElementGuid>1021f159-c0d7-4f94-8627-d62c776bc8d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>00bc0ce6-4d87-4ff4-8c02-1d995f9ca6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entry Name</value>
+      <webElementGuid>9173b15a-760f-4d69-9182-53575e18be45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;145575447502330201&quot;)/tr[1]/th[@id=&quot;C145576899191330215&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>8f34078f-cf59-479a-bf77-ed0a07601343</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C145576899191330215']/a</value>
+      <webElementGuid>baa46807-82fb-4cf4-9e90-47401acf375c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Entry Name')]</value>
+      <webElementGuid>82c7135e-4f82-4ce9-ba50-d1533e416b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Hierarchy'])[1]/following::a[1]</value>
+      <webElementGuid>b6fa8050-5668-43e2-bea4-6411b3081b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Name'])[3]/following::a[2]</value>
+      <webElementGuid>02288e58-c442-4e36-81f1-f6743bcbd42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Type'])[1]/preceding::a[1]</value>
+      <webElementGuid>fad5246f-c1e6-48d5-b075-632c36a0ace6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oracle eBusiness Suite'])[2]/preceding::a[7]</value>
+      <webElementGuid>b3d6892c-06bd-4b92-ad41-79039115cab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entry Name']/parent::*</value>
+      <webElementGuid>77dfc6be-72cb-4236-8f08-9fbb5c469f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]/div[6]/div/div/div/table/tr/th[4]/a</value>
+      <webElementGuid>149dc836-f2cd-4da9-8e63-60ebbbbc1028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Entry Name' or . = 'Entry Name')]</value>
+      <webElementGuid>cdc2f59a-489d-4760-9c1d-c12a67e5b368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
