@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Administration_t-Tabs t-Tabs--simple a-Tabs</name>
+   <tag></tag>
+   <elementGuidId>4def946f-9964-4f3f-8166-2e8eb8d8d8c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.t-Tabs.t-Tabs--simple.a-Tabs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabContainer']/div/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;My InboxMy Dashboard&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>fbe8a5a6-d180-425c-83bb-687eef4b567f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Tabs t-Tabs--simple a-Tabs</value>
+      <webElementGuid>14f48d7c-1ab2-49ed-8b58-74ecec9edb76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tablist</value>
+      <webElementGuid>10d4c582-ab5a-4338-869d-969698c8d882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My InboxMy Dashboard</value>
+      <webElementGuid>5aee92dc-a68a-4cbf-aad1-6e2524d4bee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabContainer&quot;)/div[@class=&quot;t-TabsRegion-items&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple a-Tabs&quot;]</value>
+      <webElementGuid>ab610d6c-19e7-4e48-b94c-19f5ddf7368c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabContainer']/div/ul</value>
+      <webElementGuid>d07dd479-02d9-4a4e-af25-afc5ef54d052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::ul[1]</value>
+      <webElementGuid>de34dc49-28d1-4b4e-8246-fc8856949613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataPaaS'])[1]/following::ul[1]</value>
+      <webElementGuid>8c1b9585-b076-4cb1-9005-37ac421f425f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/ul</value>
+      <webElementGuid>ac8df096-02c8-426d-9115-c57add514837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'My InboxMy Dashboard' or . = 'My InboxMy Dashboard')]</value>
+      <webElementGuid>c23de107-63aa-4c66-b4ff-a9209fa06b81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
