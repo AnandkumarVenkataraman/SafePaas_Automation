@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_GL_RUSSIA_TAX_u-tL</name>
+   <tag></tag>
+   <elementGuidId>85d76162-41dc-4290-9077-0320cf105fc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='250949831633399639_orig']/tbody/tr[2]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;General Ledger Tax, Vision Russia&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>432c4252-798c-4e20-92e8-d951b6a625f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>45b2573b-243b-4e52-931d-04c264312b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C337963997767834815</value>
+      <webElementGuid>7334eed1-0521-4963-b66f-b24bbe2778c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Ledger Tax, Vision Russia</value>
+      <webElementGuid>c0ade159-a8be-4eea-a8a8-9cba1eecc9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;250949831633399639_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>7be436c5-55ad-4e9e-a19e-39252fd49115</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='250949831633399639_orig']/tbody/tr[2]/td[2]</value>
+      <webElementGuid>5508b990-ae06-4de8-9ad1-550446538786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GL_RUSSIA_TAX'])[1]/following::td[1]</value>
+      <webElementGuid>a442e18f-b7c2-4356-a793-25ff9e2010ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request status'])[1]/following::td[2]</value>
+      <webElementGuid>0ed2c3e1-3952-4822-a6d7-8c1133ca7242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[1]/preceding::td[1]</value>
+      <webElementGuid>b6f1b65d-18d9-43ee-b879-6f08126b1ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[2]</value>
+      <webElementGuid>b3836ac5-77a4-470b-b548-3d07ae8d761e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Ledger Tax, Vision Russia']/parent::*</value>
+      <webElementGuid>a71d481d-360d-4958-addc-9a8873572c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>c05649c5-8958-488a-b952-6936f4d82497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'General Ledger Tax, Vision Russia' or . = 'General Ledger Tax, Vision Russia')]</value>
+      <webElementGuid>0338fc38-e0ee-40f0-b117-b0591557138e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

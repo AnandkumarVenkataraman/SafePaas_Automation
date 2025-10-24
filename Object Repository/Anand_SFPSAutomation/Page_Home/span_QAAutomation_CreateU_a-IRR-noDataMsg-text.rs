@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_QAAutomation_CreateU_a-IRR-noDataMsg-text</name>
+   <tag></tag>
+   <elementGuidId>44951d5c-3c79-440b-a75d-cddedb273e23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R163105974055422926_data_panel']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-IRR-noDataMsg-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;No data found.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4348595-b421-4cef-a88c-17a4b0cf6fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-noDataMsg-text</value>
+      <webElementGuid>08dcc2de-70de-4ec2-a85c-32b24365b991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No data found.</value>
+      <webElementGuid>d6ca07d6-a3f1-4794-a256-3cbb5ff18b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R163105974055422926_data_panel&quot;)/div[@class=&quot;a-IRR-noDataMsg&quot;]/span[@class=&quot;a-IRR-noDataMsg-text&quot;]</value>
+      <webElementGuid>2325afcb-336d-43d0-ae95-57072604a1d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R163105974055422926_data_panel']/div/span</value>
+      <webElementGuid>a3e7c3e3-59c3-4947-902e-97ef6a86bdfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QAAutomation_CreateU...'])[1]/following::span[2]</value>
+      <webElementGuid>21003680-c9de-412d-9d5a-ddae7d0170a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[2]/preceding::span[1]</value>
+      <webElementGuid>1c26fbd4-c7dd-4816-81dc-cf0b4ee00f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/preceding::span[2]</value>
+      <webElementGuid>f3abf6af-fd52-402e-add1-4960415e125b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No data found.']/parent::*</value>
+      <webElementGuid>25de253c-1044-441d-a3b3-770e7db9fb5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span</value>
+      <webElementGuid>baf6c422-02fa-4707-8838-8f96cf30cb5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No data found.' or . = 'No data found.')]</value>
+      <webElementGuid>d9cf1f4f-719b-470c-a5e7-036d9bb2b1eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

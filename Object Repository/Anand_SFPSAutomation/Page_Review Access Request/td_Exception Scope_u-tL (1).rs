@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Exception Scope_u-tL (1)</name>
+   <tag></tag>
+   <elementGuidId>7fa9aaa6-8bae-4db2-8a0e-807ba281f124</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='269805163791047643_orig']/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.u-tL >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f150e606-03a5-4fd8-831f-89ca699a2863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>99b0d0ca-7dc3-452f-ad0c-ffed0067e0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C269805292579047644</value>
+      <webElementGuid>87c8e587-0eb0-4092-b90b-201796000ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QAAutomation CreateUser</value>
+      <webElementGuid>88a16f05-e01f-43e2-96e7-9d791a7975a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;269805163791047643_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>83bb325f-4258-4fa0-b9e3-4507dc32c60c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='269805163791047643_orig']/tbody/tr[2]/td</value>
+      <webElementGuid>b9cf2d6e-ac68-4198-944a-8cf521b1cbcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exception Scope'])[1]/following::td[1]</value>
+      <webElementGuid>d0fc8d8b-2cf8-4131-92f0-6dfc80b7ceeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Status'])[1]/following::td[1]</value>
+      <webElementGuid>ca776fa7-8896-4e9e-8678-f20d3c0bf0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule4'])[1]/preceding::td[1]</value>
+      <webElementGuid>c7d57661-91cd-4c79-b907-b3ec51d030d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SET'])[1]/preceding::td[2]</value>
+      <webElementGuid>90c7dfaf-e3ae-47fe-9a41-26001cbde641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='QAAutomation CreateUser']/parent::*</value>
+      <webElementGuid>cba94b71-9727-45c4-aa8b-4146a2466cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>c7bcbafe-2796-4c60-bd47-1e560dfb5f8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'QAAutomation CreateUser' or . = 'QAAutomation CreateUser')]</value>
+      <webElementGuid>967525c2-22be-46d5-b64e-04d44646de93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

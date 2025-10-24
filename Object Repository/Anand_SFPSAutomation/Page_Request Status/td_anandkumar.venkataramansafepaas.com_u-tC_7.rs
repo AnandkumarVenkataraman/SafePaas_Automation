@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_anandkumar.venkataramansafepaas.com_u-tC_7</name>
+   <tag></tag>
+   <elementGuidId>77a24da3-c100-405a-8774-f7119a35e9ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='162629096711491038_orig']/tbody/tr[4]/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Request Approved&quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4c5c61d7-6220-43b1-a0f2-c9b4387b364a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tC</value>
+      <webElementGuid>641b1630-7f06-4796-b913-afca0c09e595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C162629602814491044</value>
+      <webElementGuid>67667667-bfca-47a4-9639-1eb542042538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Request Approved</value>
+      <webElementGuid>75f71fab-a64c-4856-b58a-39d258b93f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;162629096711491038_orig&quot;)/tbody[1]/tr[4]/td[@class=&quot;u-tC&quot;]</value>
+      <webElementGuid>d3cee5c1-8cc6-4e9d-8435-24b371bb950a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='162629096711491038_orig']/tbody/tr[4]/td[6]</value>
+      <webElementGuid>71444744-82e4-4487-b312-15ee2d1fcf03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anandkumar.venkataraman@safepaas.com'])[5]/following::td[1]</value>
+      <webElementGuid>ec2014fc-a885-400d-a595-f79a6b116f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QAAutomation CreateUser'])[3]/following::td[2]</value>
+      <webElementGuid>cc325d48-fd6b-4952-b2a4-f5121e4a1dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[3]/preceding::td[2]</value>
+      <webElementGuid>e75f6745-654c-4885-8c0f-111fefbbd18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GL_RUSSIA_TAX'])[3]/preceding::td[3]</value>
+      <webElementGuid>39b22286-e466-4090-9a98-0cfdfeeda458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[6]</value>
+      <webElementGuid>891dcf85-1c39-45f4-b11a-df5836ae0435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Request Approved' or . = 'Request Approved')]</value>
+      <webElementGuid>a94cd1e8-e666-4b7c-b575-1a8fd7392862</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

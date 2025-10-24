@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Profile User Values_u-tL</name>
+   <tag></tag>
+   <elementGuidId>d52db2ab-b382-46ae-8639-b74a552ac210</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='269805163791047643_orig']/tbody/tr[2]/td[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Responsibility : General Ledger Tax, Vision Russia->Menu : GL_SUPERUSER->Menu : GL_SU_MANAGER->Function : Profile User Values&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>94b3b3cf-e9e8-4147-b21e-1757c46fe299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>fc7df918-f9ea-491e-8e22-c4b92f005830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C312124759068047102</value>
+      <webElementGuid>29fa9e70-d8cb-44cd-a09b-e8062a388c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responsibility : General Ledger Tax, Vision Russia->Menu : GL_SUPERUSER->Menu : GL_SU_MANAGER->Function : Profile User Values</value>
+      <webElementGuid>2c33d825-d819-4b32-8694-2c555b45f252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;269805163791047643_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>3575a3b9-7fdc-4d66-8f1e-d9bd5bb512e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='269805163791047643_orig']/tbody/tr[2]/td[9]</value>
+      <webElementGuid>e8ca62ed-7764-41a1-bf22-f264087d1dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile User Values'])[1]/following::td[1]</value>
+      <webElementGuid>1efa8328-7eb7-4555-b30c-9ddd7abcdd3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FND_FNDPOMSV'])[1]/following::td[2]</value>
+      <webElementGuid>e0f50440-5587-44bd-8ba0-e3c88d23404f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[1]</value>
+      <webElementGuid>17f82dcb-539a-4a95-9d35-73f905ac6f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QAAutomation CreateUser'])[2]/preceding::td[3]</value>
+      <webElementGuid>6124798d-9484-44c4-a27d-62fe05d2e161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Responsibility : General Ledger Tax, Vision Russia->Menu : GL_SUPERUSER->Menu : GL_SU_MANAGER->Function : Profile User Values']/parent::*</value>
+      <webElementGuid>d37b7444-180a-4990-8534-85600a613b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]</value>
+      <webElementGuid>4a31e358-e87d-45e0-a06d-507667735640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Responsibility : General Ledger Tax, Vision Russia->Menu : GL_SUPERUSER->Menu : GL_SU_MANAGER->Function : Profile User Values' or . = 'Responsibility : General Ledger Tax, Vision Russia->Menu : GL_SUPERUSER->Menu : GL_SU_MANAGER->Function : Profile User Values')]</value>
+      <webElementGuid>7db9b283-8de9-4c4c-aabe-e48a8c8992a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

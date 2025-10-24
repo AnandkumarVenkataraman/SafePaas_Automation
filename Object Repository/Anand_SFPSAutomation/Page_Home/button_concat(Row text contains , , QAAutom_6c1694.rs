@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_concat(Row text contains , , QAAutom_6c1694</name>
+   <tag></tag>
+   <elementGuidId>e809dfcd-2cae-4839-bc08-7cb17c49c0a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-Button.a-IRR-button.a-Button--noUI.a-IRR-button--remove</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Remove Filter&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4823d31d-33ce-4618-8e6d-97ad736a213f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Button a-IRR-button a-Button--noUI a-IRR-button--remove</value>
+      <webElementGuid>47187d43-f14e-4597-b5e1-aafe8866f98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove Filter</value>
+      <webElementGuid>fc6f06fa-ed96-43a2-bf95-8986e9b754b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Remove Filter</value>
+      <webElementGuid>3b86cebb-6e22-40e7-ad60-93ebf5586738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c987253-aea1-475c-93a6-1989d7e7f600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-setting</name>
+      <type>Main</type>
+      <value>filter</value>
+      <webElementGuid>4d083d7d-d787-4bcb-be55-ce283bff8922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-filter-id</name>
+      <type>Main</type>
+      <value>700646001811710858</value>
+      <webElementGuid>b34d911d-0cdf-4a19-a00a-ddde72e0c15d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a_Collapsible2_R163105974055422926_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--search&quot;]/span[@class=&quot;a-IRR-controls-cell a-IRR-controls-cell--remove&quot;]/button[@class=&quot;a-Button a-IRR-button a-Button--noUI a-IRR-button--remove&quot;]</value>
+      <webElementGuid>29e53461-e5c8-45a7-813f-37c72a8a3d80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>627da4e2-b347-4635-9533-77e8f6f50fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible2_R163105974055422926_control_panel_content']/ul/li/span[4]/button</value>
+      <webElementGuid>10710050-028d-47fc-9375-ee2ce5c441d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/following::button[1]</value>
+      <webElementGuid>067a10a0-22ce-462b-9cc4-6864073282f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QAAutomation_CreateU...'])[1]/preceding::button[1]</value>
+      <webElementGuid>733b34d1-765f-42e7-ae80-a319cff86aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[1]/preceding::button[1]</value>
+      <webElementGuid>0260d8a2-326d-41a8-84ff-09243157687f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/button</value>
+      <webElementGuid>5ad1d798-8dae-4f32-8bd9-f453c6386853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Remove Filter' and @type = 'button']</value>
+      <webElementGuid>4ef51eac-286f-4671-a5e2-24238f0f00f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

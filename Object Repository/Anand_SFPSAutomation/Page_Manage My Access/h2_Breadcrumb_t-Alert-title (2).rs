@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Breadcrumb_t-Alert-title (2)</name>
+   <tag></tag>
+   <elementGuidId>960e9ce9-2e3c-46bb-84c9-6ed4a0e10f32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.t-Alert-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Access Request Submitted. Please check after sometime&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5b2cd739-56f8-4b37-b6da-f1e8e428c58f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Alert-title</value>
+      <webElementGuid>ee9abba0-30a4-4d75-a83b-4a7e89abcf8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Access Request Submitted. Please check after sometime</value>
+      <webElementGuid>2c46d612-3b7a-4826-8cfb-89e0c657a04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
+      <webElementGuid>cc8716c9-e29f-4818-a1c8-164264aa6552</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      <webElementGuid>fdea37f6-b90f-4230-b76e-467a19cf82ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::h2[1]</value>
+      <webElementGuid>b4e22741-b345-4cfb-8a48-3946079f77d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage My Access'])[3]/following::h2[1]</value>
+      <webElementGuid>8101330c-03a5-4451-9af0-5c8a04fbfca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/preceding::h2[1]</value>
+      <webElementGuid>716457ef-fee5-473f-9e41-7409d1b3bebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User'])[1]/preceding::h2[1]</value>
+      <webElementGuid>34adeaf9-887e-4dbe-ac1a-aadaadd7341d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Access Request Submitted. Please check after sometime']/parent::*</value>
+      <webElementGuid>66860be0-cff5-4b76-b983-b269803ef4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f3a26c31-0909-4861-a36f-39263ad0a6ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Access Request Submitted. Please check after sometime' or . = 'Access Request Submitted. Please check after sometime')]</value>
+      <webElementGuid>04a2b630-d522-445f-8ec9-7ccc9afe3bc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

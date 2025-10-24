@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_QAAutomation_CreateUser_u-tC</name>
+   <tag></tag>
+   <elementGuidId>af23dc67-5338-4b9b-9294-5c29dcb3fe6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='162629096711491038_orig']/tbody/tr[2]/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;QAAutomation CreateUser&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1371d0cc-4177-454c-b4dd-f00e3fe01f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tC</value>
+      <webElementGuid>3ae1d9a7-4cae-496a-8b24-6860a952a491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C312126585182047120</value>
+      <webElementGuid>24507c34-c219-4b08-9c48-830cedd8b9fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QAAutomation CreateUser</value>
+      <webElementGuid>0484b067-2800-4965-bb6b-33be803c2534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;162629096711491038_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]</value>
+      <webElementGuid>6e74846f-80cf-4daf-aca1-f7db5005905e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='162629096711491038_orig']/tbody/tr[2]/td[4]</value>
+      <webElementGuid>d22aabc0-51ac-4dcd-b9dd-5311e0ad4023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QAAutomation_CreateUser'])[1]/following::td[1]</value>
+      <webElementGuid>570e4179-1882-46b0-aa7f-5b646e27e7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Type'])[1]/following::td[4]</value>
+      <webElementGuid>705e6926-b881-4da9-9d38-b68058e5ecd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anandkumar.venkataraman@safepaas.com'])[1]/preceding::td[1]</value>
+      <webElementGuid>75c917da-dca3-4b42-be71-48f430125ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[2]</value>
+      <webElementGuid>e20150d9-2855-4b16-8d65-8c50be6a72d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='QAAutomation CreateUser']/parent::*</value>
+      <webElementGuid>971536ab-6605-4311-87e4-8d4e0713faf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>fb02d329-7e27-41c3-b7ec-33ce9fb05308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'QAAutomation CreateUser' or . = 'QAAutomation CreateUser')]</value>
+      <webElementGuid>1be31930-8e82-4395-9055-2305bfeccc82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

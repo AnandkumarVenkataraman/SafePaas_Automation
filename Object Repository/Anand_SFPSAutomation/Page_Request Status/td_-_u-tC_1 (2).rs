@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_-_u-tC_1 (2)</name>
+   <tag></tag>
+   <elementGuidId>f71aec6d-9bad-4c70-800c-894cffc2d239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='162629096711491038_orig']/tbody/tr[3]/td[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;KATADMIN&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2fcaf788-9bdd-4f53-a011-e2ef96bbf9fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tC</value>
+      <webElementGuid>13c5b0ad-a79a-46d9-8dab-b8705ead4077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C162629851498491046</value>
+      <webElementGuid>25880bb3-7332-433f-a0c4-a27decca219b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KATADMIN</value>
+      <webElementGuid>dc529b1d-bc25-4f08-a2c8-22dd3342c293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;162629096711491038_orig&quot;)/tbody[1]/tr[3]/td[@class=&quot;u-tC&quot;]</value>
+      <webElementGuid>1acaf3d9-4864-4695-b665-519433891ecc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='162629096711491038_orig']/tbody/tr[3]/td[8]</value>
+      <webElementGuid>8878de27-75a5-4499-bb0b-56261cf1cbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::td[2]</value>
+      <webElementGuid>84033a49-3f9a-4a5f-be1f-77022ad778f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anandkumar.venkataraman@safepaas.com'])[3]/following::td[3]</value>
+      <webElementGuid>d4208e89-774d-48e7-8f04-e6933ea539f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GL_RUSSIA_TAX'])[2]/preceding::td[1]</value>
+      <webElementGuid>45d466a8-35c0-4c90-9fcf-b03309499d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger Tax, Vision Russia'])[2]/preceding::td[2]</value>
+      <webElementGuid>cefb4196-016f-4c43-af59-e8c4a05742fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[8]</value>
+      <webElementGuid>80c06e6d-2f2e-4096-9af0-7cf772734bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'KATADMIN' or . = 'KATADMIN')]</value>
+      <webElementGuid>f1940db1-2e82-4f3b-84b8-8c1ed1402917</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

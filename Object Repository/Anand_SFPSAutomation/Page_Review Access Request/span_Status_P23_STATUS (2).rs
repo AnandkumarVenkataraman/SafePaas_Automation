@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Status_P23_STATUS (2)</name>
+   <tag></tag>
+   <elementGuidId>9667f946-1337-46d4-a1f6-ad13031adfd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='P23_STATUS']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_STATUS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;In Approval Progress&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c938526e-6d5a-43b5-8bc6-a1803a7f251e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_STATUS</value>
+      <webElementGuid>999b696b-0da7-494b-b9f3-d1eac68a6d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>787469cb-6e1c-4401-b79f-5a6b10898567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ff2ef765-7c16-490d-a455-0a4c8dee8437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In Approval Progress</value>
+      <webElementGuid>577e2337-e416-441e-9018-151d8d106d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_STATUS&quot;)</value>
+      <webElementGuid>82051b74-e75b-4cb3-b117-91a1c3589ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P23_STATUS']</value>
+      <webElementGuid>0b9314d2-83bb-4937-bff2-3b6b6d07d195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_STATUS_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>2a8c0fef-d8e5-4b75-8320-69f48431c9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[1]</value>
+      <webElementGuid>051e67a8-9a7b-4702-884e-c7acfa48cfbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/following::span[2]</value>
+      <webElementGuid>1c1b59ce-919c-4507-a4b1-450584fc9469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Response'])[1]/preceding::span[2]</value>
+      <webElementGuid>704cf1d4-e156-4ee7-a921-d8754af615d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/preceding::span[3]</value>
+      <webElementGuid>1538e8e3-a94c-45ff-bde4-9878ea0a25f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='In Approval Progress']/parent::*</value>
+      <webElementGuid>f8842a03-52f4-4bd7-b7fd-d6861c11f489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/div/span</value>
+      <webElementGuid>2f6b6f99-3aab-4bd0-9ae2-d1f15428ae13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'P23_STATUS' and (text() = 'In Approval Progress' or . = 'In Approval Progress')]</value>
+      <webElementGuid>a90b3f73-2c57-4f17-84a3-a882eb6af419</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

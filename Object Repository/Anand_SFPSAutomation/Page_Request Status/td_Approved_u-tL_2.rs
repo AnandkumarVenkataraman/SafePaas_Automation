@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Approved_u-tL_2</name>
+   <tag></tag>
+   <elementGuidId>0c9c1fe3-353e-4635-9a5f-508648663411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='162629096711491038_orig']/tbody/tr[4]/td[21]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td.u-tL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;This is a test approval for Create User by Level-3 Secondary&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>73d2512e-04b4-4139-9dcb-d85718e30c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>0b31ee95-55c3-4eda-be83-669681e82451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C261115838182191906</value>
+      <webElementGuid>d8fc3cdf-8f34-4eb7-ae3c-ea06e1b5f9aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a test approval for Create User by Level-3 Secondary</value>
+      <webElementGuid>663970b6-a895-43bf-ab43-7c42257e450f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;162629096711491038_orig&quot;)/tbody[1]/tr[4]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>83108399-fe9a-4696-b19e-f29b47aab7ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='162629096711491038_orig']/tbody/tr[4]/td[21]</value>
+      <webElementGuid>deb38bfc-0bc2-4d14-b826-11255f3af647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[3]/following::td[1]</value>
+      <webElementGuid>cce7e10a-d01b-4155-9912-ed34e7877898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anandkumar.venkataraman@safepaas.com'])[6]/following::td[2]</value>
+      <webElementGuid>b124c2b2-f7e4-42af-8134-d70cf12efd5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::td[3]</value>
+      <webElementGuid>8517e28d-0860-4e53-8aee-6f3653ff5260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Executed'])[3]/preceding::td[4]</value>
+      <webElementGuid>dd4e952d-bd8c-4b7a-a83b-475043e2bea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This is a test approval for Create User by Level-3 Secondary']/parent::*</value>
+      <webElementGuid>b1aecfec-1f9d-4d74-82ea-89f23e513df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[21]</value>
+      <webElementGuid>5349aad2-b6b7-4a16-8b20-2f5f57aeb367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'This is a test approval for Create User by Level-3 Secondary' or . = 'This is a test approval for Create User by Level-3 Secondary')]</value>
+      <webElementGuid>b2b0e5d7-9cc7-4605-a79b-2fae0a38b6fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

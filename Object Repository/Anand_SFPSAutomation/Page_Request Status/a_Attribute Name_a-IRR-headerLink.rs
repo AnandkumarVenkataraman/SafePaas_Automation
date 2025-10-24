@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Attribute Name_a-IRR-headerLink</name>
+   <tag></tag>
+   <elementGuidId>642be2e6-9cba-48ff-9ae5-ce94a1e71baa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='C163416083433329702']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#C163416083433329702 > a.a-IRR-headerLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\31 62629096711491038&quot;] >> internal:text=&quot;Approval level&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>80492f55-f10f-4f02-9ba6-0eb5e146ae6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-headerLink</value>
+      <webElementGuid>c3973959-202d-4e6c-a8ee-39cc3fb95fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column</name>
+      <type>Main</type>
+      <value>163416083433329702</value>
+      <webElementGuid>0b040b1d-562a-408c-a3a3-6737d35ae619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fht-column-idx</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>109de963-3961-4e53-96fb-2b684f45557b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval level</value>
+      <webElementGuid>062321d8-ce84-4d6f-ab44-e0932cc793d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;162629096711491038&quot;)/tr[1]/th[@id=&quot;C163416083433329702&quot;]/a[@class=&quot;a-IRR-headerLink&quot;]</value>
+      <webElementGuid>a43ec4fd-17f6-4e46-aaa8-abd694fd051f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='C163416083433329702']/a</value>
+      <webElementGuid>78f213b2-9baf-4662-a26c-8501d39c4e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Approval level')]</value>
+      <webElementGuid>4b7129cf-a531-4ca3-9655-c304b7125d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute Name'])[1]/following::a[1]</value>
+      <webElementGuid>a97cceba-2881-4862-9b51-a5babf8ac396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute Type'])[1]/following::a[2]</value>
+      <webElementGuid>fed643ee-d0c7-4e76-8346-e6faa9b1db94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval type'])[1]/preceding::a[1]</value>
+      <webElementGuid>75427fd2-37fe-4b1d-b292-5abc5c3b098b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval role'])[1]/preceding::a[2]</value>
+      <webElementGuid>56f5a278-70c5-4e13-a97c-95f9dab4aefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approval level']/parent::*</value>
+      <webElementGuid>a8871ea3-2ec0-410f-ac0f-2ea6bc6d8d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[13]/a</value>
+      <webElementGuid>3b81aaa5-8688-4846-be32-bde99877c907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Approval level' or . = 'Approval level')]</value>
+      <webElementGuid>b847de2a-71fc-4793-8f3d-b726dc8b9086</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

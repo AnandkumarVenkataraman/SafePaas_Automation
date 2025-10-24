@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Documentation_a-Button a-IRR-button _1a154e</name>
+   <tag></tag>
+   <elementGuidId>b028ec3a-0e22-40b4-bf58-1714c60158e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-Button.a-IRR-button.a-IRR-sortWidget-button.is-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Sort Descending&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4a6f5b9e-6df2-44ef-ac39-e5a6e316d0e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Button a-IRR-button a-IRR-sortWidget-button is-active</value>
+      <webElementGuid>9cd36c0e-2fd4-41fd-b29c-cb224f345e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7bc77ea-1fdf-46dd-a4df-1c08025f59d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sort Descending</value>
+      <webElementGuid>17ed7607-5eb2-4188-8b20-f71dd63a9227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sort Descending</value>
+      <webElementGuid>83736c7b-de6e-4396-8173-036f1c7c8d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>3f01b0e5-9db8-4968-a5df-b28e3b28910d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R162628977986491037_sort_widget_action_down&quot;)/button[@class=&quot;a-Button a-IRR-button a-IRR-sortWidget-button is-active&quot;]</value>
+      <webElementGuid>52bfd9b7-51f0-4020-952b-21b85b77d00e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>8b5bc98a-b6cb-447d-a83d-436043904b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='R162628977986491037_sort_widget_action_down']/button</value>
+      <webElementGuid>2696d4fb-8e60-4a8f-9219-4fc2f7389b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::button[2]</value>
+      <webElementGuid>bf89d106-18e1-4ab3-aa33-55ce247d7a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::button[2]</value>
+      <webElementGuid>cf16215f-973f-4cd3-ba28-47ebdbe725e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::button[5]</value>
+      <webElementGuid>62f03b41-adda-44cf-a2c5-4812d4274ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li[2]/button</value>
+      <webElementGuid>dc957e4b-71fa-42ef-8efc-e95e3bdf21fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Sort Descending']</value>
+      <webElementGuid>c7f61f7d-47f5-4cef-9024-280774b240f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

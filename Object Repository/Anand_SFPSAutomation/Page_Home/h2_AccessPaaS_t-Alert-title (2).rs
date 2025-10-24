@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_AccessPaaS_t-Alert-title (2)</name>
+   <tag></tag>
+   <elementGuidId>408ef173-dc0a-492e-a905-697895658bac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.t-Alert-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;User Access Request Review Success!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>08c7c997-cd97-4cb1-a5e9-b26c2b930c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Alert-title</value>
+      <webElementGuid>7af85541-5037-411b-bdef-4a6785a4b00f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Access Request Review Success!</value>
+      <webElementGuid>428c8fed-dc8a-493f-9a3d-a8f20d526a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
+      <webElementGuid>b8b103fd-06f9-4a09-89e4-fe06e186a7ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      <webElementGuid>70eb5525-8704-4995-8d01-05af85475cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AccessPaaS'])[1]/following::h2[1]</value>
+      <webElementGuid>3733a17c-ae4a-4edc-a38d-479c7b688192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::h2[1]</value>
+      <webElementGuid>c53ea0f2-3903-4eca-8e3c-b698b4b5a7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Inbox'])[1]/preceding::h2[1]</value>
+      <webElementGuid>063f6484-fe45-4f6f-b81b-e4b359041b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2c128528-5753-4c11-81b3-fddc3b85fd5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User Access Request Review Success!']/parent::*</value>
+      <webElementGuid>a334832b-e028-4e75-86ee-253aed2fecca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>821a8ff8-c396-4bcd-97c1-b9e708034939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'User Access Request Review Success!' or . = 'User Access Request Review Success!')]</value>
+      <webElementGuid>a503d8c9-fd03-41ae-a939-ea133152128d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

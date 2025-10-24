@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Requested for User_P23_TO_USER (2)</name>
+   <tag></tag>
+   <elementGuidId>8fdc04e7-614f-43b2-b5f6-4fa2cd3d9726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='P23_TO_USER']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_TO_USER</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;QAAutomation CreateUser - QAAutomation_CreateUser&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14929fd7-7aa1-4199-a111-c754a6cd3493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_TO_USER</value>
+      <webElementGuid>ae80d2bb-6769-41b7-b7b7-f1e6a55651f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>efaab524-4ebd-46fe-a587-91cec1ba847e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2d7eff1c-60c1-4616-bab8-74a585717b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QAAutomation CreateUser - QAAutomation_CreateUser</value>
+      <webElementGuid>578c8ef0-0193-4a83-8363-01b1ef149b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_TO_USER&quot;)</value>
+      <webElementGuid>00813fad-3bb7-49c9-9d1b-a9307cd51458</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P23_TO_USER']</value>
+      <webElementGuid>c1b7bd41-ce61-4469-b019-74bb86c26043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_TO_USER_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>df23696e-57d1-4265-82ae-2c0f40628e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requested for User'])[1]/following::span[1]</value>
+      <webElementGuid>67d5816a-6085-45fe-8041-0d68e9c30c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATADMIN'])[1]/following::span[2]</value>
+      <webElementGuid>459313f3-7f8b-4938-929e-fd15f0117ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Requested'])[1]/preceding::span[2]</value>
+      <webElementGuid>68b2ffaf-2138-469b-b6df-fa86ee67ebcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger Tax, Vision Russia'])[1]/preceding::span[2]</value>
+      <webElementGuid>2c019c28-2fe1-40ce-a060-59535fd7c0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='QAAutomation CreateUser - QAAutomation_CreateUser']/parent::*</value>
+      <webElementGuid>83ff6a78-024f-44cb-aec6-32e5e9d42032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/span</value>
+      <webElementGuid>7fef61da-ea17-4210-9eef-fe178dc4037d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'P23_TO_USER' and (text() = 'QAAutomation CreateUser - QAAutomation_CreateUser' or . = 'QAAutomation CreateUser - QAAutomation_CreateUser')]</value>
+      <webElementGuid>db7bcbec-ed07-4406-af87-22aaa801b8ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Access Request Submitted. Please che_0dc3e5_1</name>
+   <tag></tag>
+   <elementGuidId>ea11c3b8-902f-4ee0-8d24-1f0d0e428ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#t_Alert_Notification > div.t-Alert-wrap > div.t-Alert-buttons > button.t-Button.t-Button--noUI.t-Button--icon.t-Button--closeAlert</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#t_Alert_Notification >> internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6214b45e-508a-4e5f-aa14-0172648bc7ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Button t-Button--noUI t-Button--icon t-Button--closeAlert</value>
+      <webElementGuid>74a15c42-849a-48fa-b4de-ada9c6eb77dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f255b8da-31c3-4631-802f-1acd6102cf30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>2b8e46b2-3548-4d22-aba2-192005bed234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Notification&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-buttons&quot;]/button[@class=&quot;t-Button t-Button--noUI t-Button--icon t-Button--closeAlert&quot;]</value>
+      <webElementGuid>6fc567db-3fef-4aa1-836d-44f85a0f2a79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>e16fb05c-d99d-40b7-9573-10565f6f5b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Notification']/div/div[3]/button</value>
+      <webElementGuid>7d15b1c1-15a1-44c0-a867-f53142b3deac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Request Submitted. Please check after sometime'])[1]/following::button[2]</value>
+      <webElementGuid>be21175d-4346-4528-aa0a-371040ce7be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::button[2]</value>
+      <webElementGuid>102938e9-53cc-4289-8a20-258410875517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/preceding::button[1]</value>
+      <webElementGuid>f043ad93-8db7-4e34-a0aa-b87c1689fd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User'])[1]/preceding::button[1]</value>
+      <webElementGuid>2b1ecf69-b359-403f-b0a9-84c40276f8ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/div/div/div[3]/button</value>
+      <webElementGuid>df300bd5-48a0-4590-9f89-123ef8c85102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Close']</value>
+      <webElementGuid>94a07bbd-dc78-4afd-bbca-b894ad94bf17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

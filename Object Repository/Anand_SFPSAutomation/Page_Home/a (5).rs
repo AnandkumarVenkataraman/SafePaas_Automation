@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a (5)</name>
+   <tag></tag>
+   <elementGuidId>4c439e8c-1f65-47b0-82af-7c63b97ae8be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;The user creation and access requests for the user \&quot;QAAutomation CreateUser (QAAutomation_CreateUser)\&quot; have been submitted for approval.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>316dc5d3-804d-4e43-9993-0f50865e9d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1200:23:9022503444579::::P23_URLC:6F3F2F3870B53566F99BDB42651B18D1</value>
+      <webElementGuid>045a7601-6c03-45fd-9d60-d118c8ab7cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The user creation and access requests for the user &quot;QAAutomation CreateUser (QAAutomation_CreateUser)&quot; have been submitted for approval.</value>
+      <webElementGuid>98dae8e7-9ad8-4819-8580-30ef538f3ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;163106069659422927&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[2]</value>
+      <webElementGuid>0187334b-4887-4719-b5b2-78a507c4e959</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='163106069659422927']/tbody/tr[2]/td[5]/a[2]</value>
+      <webElementGuid>415e2379-e4bd-43a8-b263-57eb912cede3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The user creation and access requests for the user &quot;QAAutomation CreateUser (QAAutomation_CreateUser)&quot; have been submitted for approval.')]</value>
+      <webElementGuid>4f2034aa-0bf8-4e5e-bc4d-e89c8a0edeb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/following::a[2]</value>
+      <webElementGuid>6946bfba-0e40-4796-9cc2-0e9571454bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create User and Access Request'])[1]/following::a[2]</value>
+      <webElementGuid>60c54d3b-0947-4979-8b9e-f6c79de2ce13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
+      <webElementGuid>1848e56b-3b13-4f8a-89d5-bb55b72c6f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::a[1]</value>
+      <webElementGuid>d21c4b53-4db6-4852-93a2-1248631001b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The user creation and access requests for the user &quot;QAAutomation CreateUser (QAAutomation_CreateUser)&quot; have been submitted for approval.']/parent::*</value>
+      <webElementGuid>8e4129dc-d5bf-4e75-a27e-76ba3bf43323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1200:23:9022503444579::::P23_URLC:6F3F2F3870B53566F99BDB42651B18D1')]</value>
+      <webElementGuid>4ef0f459-dabc-44ac-a356-e00eb57194e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>6b726286-fad8-4dee-b05c-7df2c4b262eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1200:23:9022503444579::::P23_URLC:6F3F2F3870B53566F99BDB42651B18D1' and (text() = 'The user creation and access requests for the user &quot;QAAutomation CreateUser (QAAutomation_CreateUser)&quot; have been submitted for approval.' or . = 'The user creation and access requests for the user &quot;QAAutomation CreateUser (QAAutomation_CreateUser)&quot; have been submitted for approval.')]</value>
+      <webElementGuid>d3341a76-130a-4a26-9e86-90ad8a668bdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

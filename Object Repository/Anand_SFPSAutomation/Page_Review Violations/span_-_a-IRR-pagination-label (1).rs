@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-_a-IRR-pagination-label (1)</name>
+   <tag></tag>
+   <elementGuidId>1e688021-80c1-4022-a11b-11449f1c04ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R162772252661928166_data_panel']/div[2]/ul/li[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-IRR-pagination-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1 - 11&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f89a2e59-142a-4a1d-b2b5-c55318206759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-pagination-label</value>
+      <webElementGuid>a1a3a856-1f57-4fe6-b085-55c170380e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                   1 -                   11</value>
+      <webElementGuid>3120af86-4657-4756-b37d-0746b362313b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R162772252661928166_data_panel&quot;)/div[@class=&quot;a-IRR-paginationWrap a-IRR-paginationWrap--bottom&quot;]/ul[@class=&quot;a-IRR-pagination&quot;]/li[@class=&quot;a-IRR-pagination-item&quot;]/span[@class=&quot;a-IRR-pagination-label&quot;]</value>
+      <webElementGuid>c06e43d9-3e04-4bb7-b5c9-b7a0ccb60cd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R162772252661928166_data_panel']/div[2]/ul/li[2]/span</value>
+      <webElementGuid>0727151c-9af1-4c4f-8be2-94ee622f12e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[11]/following::span[1]</value>
+      <webElementGuid>4212a236-d2f8-41ba-960d-505ad30dacea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[11]/following::span[1]</value>
+      <webElementGuid>d729087a-a487-43f2-8699-f9d10b741187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::span[1]</value>
+      <webElementGuid>c34c4218-c73b-40e5-83d8-92cfb8b29425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::span[1]</value>
+      <webElementGuid>1b710f56-98b1-43e8-a3f5-2fddaea4347b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/span</value>
+      <webElementGuid>ef77a8eb-4e0a-4fe6-ac8d-d7dea124d8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '                   1 -                   11' or . = '                   1 -                   11')]</value>
+      <webElementGuid>2b836db5-6490-4178-818f-dc4065aca7de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

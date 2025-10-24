@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Approval Level_P23_APP_LEVEL_2 (1)</name>
+   <tag></tag>
+   <elementGuidId>89ef3077-4e88-4542-94e5-11432af14df7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='P23_APP_LEVEL']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_APP_LEVEL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;3-Secondary Owner&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ae114a3-98ff-4546-81c4-d463f90d752e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_APP_LEVEL</value>
+      <webElementGuid>f5233336-19a2-4d71-9042-013155476d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>7b119c92-d55a-4e93-96eb-0b5c993a4a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c1613af4-3c17-45f9-8473-a420e446b7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3-Secondary Owner</value>
+      <webElementGuid>7fd2aec0-af68-458a-90f3-ba67e250f0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_APP_LEVEL&quot;)</value>
+      <webElementGuid>5736a27a-291f-40fb-a174-2e05d1be7747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P23_APP_LEVEL']</value>
+      <webElementGuid>e75ce438-284c-472f-b313-f918fc8b367a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_APP_LEVEL_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>5344c075-f3a8-4e24-9888-26e217eb0086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Level'])[1]/following::span[1]</value>
+      <webElementGuid>b2fe5f14-9aaf-45de-8120-0ebd209a21a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::span[2]</value>
+      <webElementGuid>0c3aff4d-c21a-4c9e-9ed4-fee2537632f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level Type'])[1]/preceding::span[2]</value>
+      <webElementGuid>ff2dca94-b46d-417b-836f-7ea409a0adac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary'])[1]/preceding::span[2]</value>
+      <webElementGuid>b8833730-77cf-4174-b2a9-884559ad989d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3-Secondary Owner']/parent::*</value>
+      <webElementGuid>cf45aa58-42bc-4966-9e60-9e5b8e8f0daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/span</value>
+      <webElementGuid>2d2fdf38-c9d0-4376-aef0-e079f14d110d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'P23_APP_LEVEL' and (text() = '3-Secondary Owner' or . = '3-Secondary Owner')]</value>
+      <webElementGuid>953c76fd-5d35-4831-a8dd-15639f5d6e25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

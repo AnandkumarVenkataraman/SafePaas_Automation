@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Access Description_P23_ACCESS_DESCRIPTION (2)</name>
+   <tag></tag>
+   <elementGuidId>9a6318cf-ca31-44ff-8b98-310632e2fada</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='P23_ACCESS_DESCRIPTION']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P23_ACCESS_DESCRIPTION</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;General Ledger Tax Responsibility for Vision Russia&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>468736a2-fd16-4dfb-95c5-b905821f665e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P23_ACCESS_DESCRIPTION</value>
+      <webElementGuid>51bef06a-18ef-4207-808e-85c29f518c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display_only apex-item-display-only</value>
+      <webElementGuid>270932a7-890e-4250-b512-22570707027b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-escape</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>58122d44-1ef5-4feb-bfab-0a45f0a08d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Ledger Tax Responsibility for Vision Russia</value>
+      <webElementGuid>2ffa3142-f5c9-4828-a1a4-f45bad48d2f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_ACCESS_DESCRIPTION&quot;)</value>
+      <webElementGuid>5689a5e1-7374-4143-b167-9f2649368aa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='P23_ACCESS_DESCRIPTION']</value>
+      <webElementGuid>b385f6af-e785-4174-958f-9c4912f39fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P23_ACCESS_DESCRIPTION_CONTAINER']/div[2]/div/span</value>
+      <webElementGuid>79d799f1-42f8-47b3-8712-da4a7111a0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Description'])[1]/following::span[1]</value>
+      <webElementGuid>6e826e3c-5789-4987-95be-0c19f9d0dc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger Tax, Vision Russia'])[1]/following::span[2]</value>
+      <webElementGuid>12a4aaa2-2fc0-433e-a69a-2808ee847418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Context Details'])[1]/preceding::span[2]</value>
+      <webElementGuid>53077f75-7c68-4646-9a11-773ee806d54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/preceding::span[2]</value>
+      <webElementGuid>15679673-5734-453c-b11a-751a814c2621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Ledger Tax Responsibility for Vision Russia']/parent::*</value>
+      <webElementGuid>a7846520-753b-4dbe-b7f4-d352fae3ed68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/span</value>
+      <webElementGuid>69cf22ac-7e2e-4840-a713-0d40219104a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'P23_ACCESS_DESCRIPTION' and (text() = 'General Ledger Tax Responsibility for Vision Russia' or . = 'General Ledger Tax Responsibility for Vision Russia')]</value>
+      <webElementGuid>ea8d04e8-6a10-4786-8460-cf7acd433bee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

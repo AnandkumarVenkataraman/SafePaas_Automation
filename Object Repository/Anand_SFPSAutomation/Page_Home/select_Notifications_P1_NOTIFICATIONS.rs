@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Notifications_P1_NOTIFICATIONS</name>
+   <tag></tag>
+   <elementGuidId>96f3006f-4485-423e-b4e5-1ff76718c097</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P1_NOTIFICATIONS']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P1_NOTIFICATIONS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Notifications&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f1ac83be-1c73-41ae-84cb-7e501a77a1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P1_NOTIFICATIONS</value>
+      <webElementGuid>55a47dc9-80b1-4794-a516-adef0e1e2351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P1_NOTIFICATIONS</value>
+      <webElementGuid>ca1ee91f-07bb-4797-8746-885757f8ed70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>8fa1135e-c467-4620-8ffb-eb8993d94517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d14603c7-99e3-4832-829f-f585112d1259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>61d2fac3-67b5-4815-8770-6af5ebdb696c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P1_NOTIFICATIONS');</value>
+      <webElementGuid>0fe4220e-b49c-4d16-937a-646cff596a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>%
+Open
+Cancelled
+Closed
+</value>
+      <webElementGuid>a74292e2-6e0e-4119-830d-f8fe1965c5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P1_NOTIFICATIONS&quot;)</value>
+      <webElementGuid>c1ea9acf-ad3a-49f2-843d-109c2d1557ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P1_NOTIFICATIONS']</value>
+      <webElementGuid>0688ab69-dad1-4c7c-9d0f-d933594df7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P1_NOTIFICATIONS_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>f09ee0c2-b0d9-4949-9973-0996a32442ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::select[1]</value>
+      <webElementGuid>cf279a8a-d0fa-46bc-bbb5-c2c3751951bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Inbox'])[2]/following::select[1]</value>
+      <webElementGuid>d434b646-9f49-4999-bd71-ccbdde283b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Inbox'])[3]/preceding::select[1]</value>
+      <webElementGuid>4abe4692-6083-41e3-9805-ed789141b8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>6acf802a-99d1-4215-a3e2-c724c3a77256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f7ccb25f-8204-4716-bbb9-6f44ef6e97a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P1_NOTIFICATIONS' and @name = 'P1_NOTIFICATIONS' and (text() = '%
+Open
+Cancelled
+Closed
+' or . = '%
+Open
+Cancelled
+Closed
+')]</value>
+      <webElementGuid>04e0215a-0d14-4179-a504-3092d32cbd6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
