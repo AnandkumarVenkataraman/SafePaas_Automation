@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Extended Depreciation_u-tL</name>
+   <tag></tag>
+   <elementGuidId>1dd6a683-1b07-463e-916c-1e819b271b5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='201857758749624534_orig']/tbody/tr[2]/td[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Responsibility : Assets Progress FR->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e1bd503b-dd29-46eb-9b29-3eaaae58a31c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>5b527d51-c3ef-4fc2-8786-e5d8e8678b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C201858669744624543</value>
+      <webElementGuid>1fd47696-5bb4-49b4-a22c-fefb67c9505d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responsibility : Assets Progress FR->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation</value>
+      <webElementGuid>d61d0382-2ac0-4c8f-adcf-d6d7e7d16442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;201857758749624534_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>671cc2fa-627e-485c-96e0-38ba62e01190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='201857758749624534_orig']/tbody/tr[2]/td[9]</value>
+      <webElementGuid>65f883de-bfb2-4a9f-b9fc-56f45cd9fbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extended Depreciation'])[1]/following::td[1]</value>
+      <webElementGuid>4aac18d4-842c-4d47-9c6e-ec78538515e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAEXDEPR'])[1]/following::td[2]</value>
+      <webElementGuid>ab4e9398-2368-47c4-9f3f-730342dc59e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[1]</value>
+      <webElementGuid>bff0f7cd-88da-47d0-b94b-d5aadebec6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AALLEN'])[3]/preceding::td[3]</value>
+      <webElementGuid>46141c8e-38d5-4cfd-b33b-d93b95b8e02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Responsibility : Assets Progress FR->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation']/parent::*</value>
+      <webElementGuid>3c2753e2-cce0-4ecc-b53f-e3546fa5e855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]</value>
+      <webElementGuid>df4d4a39-1a25-47bb-84f0-ae8b27552dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Responsibility : Assets Progress FR->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation' or . = 'Responsibility : Assets Progress FR->Menu : FA_MAIN->Menu : FA_DEPRN->Function : Extended Depreciation')]</value>
+      <webElementGuid>b0a3c115-1c9c-4a80-800b-df5a254446f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
