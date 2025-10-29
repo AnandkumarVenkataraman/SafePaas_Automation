@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Initiate Multi Env. UAR</description>
+   <name>Initiate Multi Env. UAR</name>
+   <tag>EACM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e07cd52-9132-4c1b-92cf-427489b08c7f</testCaseGuid>
+</TestCaseEntity>

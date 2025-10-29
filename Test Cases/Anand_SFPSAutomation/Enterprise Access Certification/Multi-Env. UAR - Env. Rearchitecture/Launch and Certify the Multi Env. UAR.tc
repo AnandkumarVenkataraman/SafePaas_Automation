@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch and Certify the Multi Env. UAR</description>
+   <name>Launch and Certify the Multi Env. UAR</name>
+   <tag>EACM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72e4e6bd-2245-4051-b815-bbc44ca2f2b7</testCaseGuid>
+</TestCaseEntity>
