@@ -39,7 +39,6 @@ WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/span_Roles M
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/a_Manage Remediation Plan_a-TreeView-label (7)'))
 
-
 WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigations/input_Create_R280401820724216822_search_field (3)'), 
     'TESTQA')
 
@@ -61,7 +60,6 @@ WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigations/a_Manage Mitigations_a-TreeView-label (4)'))
 
-
 WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/input_Create_R296130228590446614_search_field (4)'), 
     'ktl')
 
@@ -70,26 +68,37 @@ WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/img_ktl_apex-edit-page (1)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Read only a_af6758 (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Read only a_af6758 (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Read only a_af6758 (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Read only access to R_637490 (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Read only access to R_637490 (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Read only access to R_637490 (5)'))
 
 WebUI.doubleClick(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Read only access_fa7825 (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Read only access_fa7825 (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/button_Security_B296312419684494474 (5)'))
@@ -97,15 +106,21 @@ WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/b
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/img_EAM_apex-edit-page (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (5)'))
+
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (5)'))
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/button_Security_B296312419684494474 (5)'))
@@ -118,4 +133,7 @@ WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/button_Inbox
 
 WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/a_My Profile_menu_L14205299837764170_1i (22)'))
 
+WebUI.delay(2)
+
 WebUI.closeBrowser()
+

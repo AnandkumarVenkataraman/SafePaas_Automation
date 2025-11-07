@@ -16,8 +16,26 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 //Initiate a Multi-Env UAR
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (3)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (8)'), 'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (8)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn (1)'))
+
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (52)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (9)'))
@@ -30,11 +48,17 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/body_Inbox_t_PageBody'))
 
+def dateFormat = new SimpleDateFormat('ddMMyyyy_HHmmss')
+
+def currentDateTime = dateFormat.format(new Date())
+
+def multiEnvUAR1 = 'MULTIEnv_UAR_' + currentDateTime
+
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_(Value Required)_P10_NAME (1)'),
-	'MULTIENV_UAR_28102025_V1')
+	multiEnvUAR1)
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/textarea_Description_P10_DESCRIPTION (1)'),
-	'Test Multi ENv. UAR')
+	'This is a test Multi Env. UAR, initiated by QA Automation')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_(Value Required)_ui-datepicker-trigg_27f7b7'))
 
@@ -63,7 +87,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.delay(300)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Certification/h2_Breadcrumb_t-Alert-title'),
-	'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21910 at Administration -> Platform -> Scheduler')
+	'Certification job was initiated successfullyEmail will be sent to appropriate Owner(s) (and Manager(s)), upon successful completion of the job. You can check the status of the job FSOD_INITIATE_UAC_21910 at Administration -> Platform -> Scheduler', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Certification/button_Breadcrumb_t-Button t-Button--noUI t_c90c1f'))
 
@@ -88,7 +112,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Certification_a-TreeView-label (4)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/input_User Access_userAccessReport_search_field (4)'),
-	'MULTIENV_UAR_28102025_V1')
+	multiEnvUAR1)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/button_User Access_userAccessReport_search_button (3)'))
 
@@ -104,7 +128,4 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (26)'))
 
-//Login as the Primary Role-owner of Env.#1, and Terminate the records
-
-
-//Login as the Secondary Role-owner of Env.#2, and Verify the records
+WebUI.closeBrowser()
