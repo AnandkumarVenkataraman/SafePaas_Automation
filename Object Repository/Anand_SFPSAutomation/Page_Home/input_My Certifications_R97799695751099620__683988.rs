@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@title = 'Search Report' and @type = 'search'])[2]</value>
+         <value>//input[@id='R97799695751099620_search_field']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cf19f25a-61cc-418e-a9bc-f5dfb7fca289</webElementGuid>
+      <webElementGuid>39d9c992-d89d-4a50-adc0-a48a18d9a9c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-IRR-search-field</value>
-      <webElementGuid>cc9a5daa-7c3d-4e73-bd53-8d82f8db98b5</webElementGuid>
+      <webElementGuid>ad35af09-e089-4445-b5a0-44d9363481a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>R97799695751099620_search_field</value>
-      <webElementGuid>8dfe8332-f358-4670-8c68-df02ffc916c6</webElementGuid>
+      <webElementGuid>ddbb28e2-fcea-47f2-9ebe-adea9980347a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search Report</value>
-      <webElementGuid>86b7f2af-0b08-4931-9283-5a5b68ab2dc0</webElementGuid>
+      <webElementGuid>e5a8be78-0ed6-421c-b08e-42679a4bc499</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>7a5e5391-31aa-4d24-bd38-267552366e0a</webElementGuid>
+      <webElementGuid>290ffa8e-f071-4fc7-b570-9f2b2d4f21f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>size</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>a2277102-1b76-45c5-827f-2174fa2e4c95</webElementGuid>
+      <webElementGuid>80be0c2a-1f80-4f5d-b10c-c7a8008b766f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>4000</value>
-      <webElementGuid>db7994f3-de9a-4c0f-a655-ca28db49a079</webElementGuid>
+      <webElementGuid>b5fc4ac3-4c68-4a45-8a4c-a88d24fa61c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,23 +85,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R97799695751099620_search_field&quot;)</value>
-      <webElementGuid>c75c89f2-ea92-43a4-8841-4a08a3f90ff2</webElementGuid>
+      <webElementGuid>a8ad11f0-2f4d-418d-a52e-390d5c5c1dcb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>(//input[@title = 'Search Report' and @type = 'search'])[2]</value>
-      <webElementGuid>c51b41a1-e55b-42d3-a47e-3d77930f45d7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='R97799695751099620_search_field']</value>
-      <webElementGuid>71a039d5-d90e-453a-a6fc-da2e2b049011</webElementGuid>
+      <webElementGuid>dfe0ae8a-9652-433c-ac65-4dc8ff208a24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R97799695751099620_toolbar_controls']/div/div/div[2]/input</value>
-      <webElementGuid>262ef105-3288-4cc8-bb0f-904b3e49b35b</webElementGuid>
+      <webElementGuid>abdedb85-fd21-4234-b32d-22719967c163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +109,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>a8f23547-3e95-43ce-919e-ea7a3c2f899c</webElementGuid>
+      <webElementGuid>d49bce04-fbab-44d2-9541-86a0fa159f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'R97799695751099620_search_field' and @title = 'Search Report' and @type = 'search']</value>
+      <webElementGuid>bd38f6e5-06fd-40e6-8506-9c3a0ab9f9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>(//input[@title = 'Search Report' and @type = 'search'])[2]</value>
+      <webElementGuid>c51b41a1-e55b-42d3-a47e-3d77930f45d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type = 'text' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
+         <value>//input[@id='P101_USERNAME']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7ef06d9c-21b6-443e-9337-793d0cfac0aa</webElementGuid>
+      <webElementGuid>31119595-f4d8-454a-8030-769f412d531a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d510ab10-2c5b-4a87-b023-ac2e15281957</webElementGuid>
+      <webElementGuid>e6a81c1d-dc46-4532-b224-f7ea1b122581</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>P101_USERNAME</value>
-      <webElementGuid>cee90f80-37a9-405a-9994-67de8d0d38d5</webElementGuid>
+      <webElementGuid>fec1053c-fd12-4b05-9d1a-eb0c226f21df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P101_USERNAME</value>
-      <webElementGuid>3b958022-2168-451f-9330-d478fac05e27</webElementGuid>
+      <webElementGuid>50ee11c6-3be0-4197-b180-7af8d504628f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>8af26d92-38b4-45de-82ea-25b83a21cb9b</webElementGuid>
+      <webElementGuid>f632c464-78cb-4d51-aa52-00893ae7e97f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text_field apex-item-text</value>
-      <webElementGuid>9df0883e-f66b-4e5a-94bc-16f959c6e4c8</webElementGuid>
+      <webElementGuid>46a8f697-f30f-4586-bf6d-3e8bcb59b49b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>size</name>
       <type>Main</type>
       <value>39</value>
-      <webElementGuid>f4a5cfb8-3d85-4301-98a0-4a49388c17af</webElementGuid>
+      <webElementGuid>0b7cdb3a-b2c5-4119-b8ae-13a09c54f713</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>d69f74f4-fb4c-4f67-a9bb-0ce1ae8944e5</webElementGuid>
+      <webElementGuid>2c3124ad-f31c-4a05-8154-9d42c43ca56b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-trim-spaces</name>
       <type>Main</type>
       <value>NONE</value>
-      <webElementGuid>f7969d59-110f-4717-b604-69d9e4a3149a</webElementGuid>
+      <webElementGuid>1e54f76e-1589-420a-aa3a-23fa33ba6291</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,23 +101,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P101_USERNAME&quot;)</value>
-      <webElementGuid>2ed9a7f1-3222-4c1e-aef1-55cf2b42a4f0</webElementGuid>
+      <webElementGuid>c794cc52-fa75-42fd-98a0-8f90c4fd4341</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
-      <webElementGuid>b63bcd54-bb8f-49f8-9422-c072be7e708f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='P101_USERNAME']</value>
-      <webElementGuid>f3de9bcd-45f3-4ba7-a4c3-ea42b4fdec42</webElementGuid>
+      <webElementGuid>a25f58e6-1ffa-47df-9601-817ba4e0c905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P101_USERNAME_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>ba7f0f40-4bd6-4b7a-a5fb-85faab53018c</webElementGuid>
+      <webElementGuid>19f707b6-4d62-45b9-ad4d-220af11059fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +125,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/div/input</value>
-      <webElementGuid>517bbeeb-69b0-4527-99fb-5d4943a8fe91</webElementGuid>
+      <webElementGuid>a46f68c9-c95f-4fee-a430-475bb6802644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'P101_USERNAME' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
+      <webElementGuid>676305d9-c670-4f39-8f7a-b1aa95a74103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
+      <webElementGuid>b63bcd54-bb8f-49f8-9422-c072be7e708f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

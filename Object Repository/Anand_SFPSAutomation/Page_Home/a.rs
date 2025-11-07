@@ -6,19 +6,19 @@
    <elementGuidId>6c591d06-c4da-4b71-9b48-fd87a39d3a50</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='97799724016099621_orig']/tbody/tr[2]/td/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#97799724016099621_orig > tbody > tr:nth-of-type(2) > td.u-tL > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='97799724016099621_orig']/tbody/tr[2]/td/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;EBS_UAR_25092025_232457&quot;i]</value>
+         <value>internal:role=link[name=&quot;MULTIEnv_UAR_06112025_231029&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8767f242-1951-4fa1-af3b-f42e165de71b</webElementGuid>
+      <webElementGuid>1d4c1e04-d664-4a28-9761-df6b9e4d5ad2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1500:4:14119515000336::::P4_INITIAL_LOAD,P4_URLC:Y,2CAA6C4BAB07161646EF4B90B3A1CF76</value>
-      <webElementGuid>83f3252b-c986-40f8-90bb-3f1323aa9e8f</webElementGuid>
+      <value>f?p=1500:4:10417992539626::::P4_INITIAL_LOAD,P4_URLC:Y,F596C5BCBA974D84C9263402C5D3F525</value>
+      <webElementGuid>e8f6646f-cd99-4625-b29a-09b2fdc5eb2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>EBS_UAR_25092025_232457</value>
-      <webElementGuid>96ba8e84-0a65-4ef9-b922-58385c1166f2</webElementGuid>
+      <value>MULTIEnv_UAR_06112025_231029</value>
+      <webElementGuid>2c429d5a-befa-4324-9c7c-ba2f281254d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;97799724016099621_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
-      <webElementGuid>6485792c-b3dd-4a81-9909-20ca3c0c2608</webElementGuid>
+      <webElementGuid>738dee2d-1f0d-4e89-b4b1-465948439ce1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,79 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='97799724016099621_orig']/tbody/tr[2]/td/a</value>
-      <webElementGuid>b59270b6-3be4-4c01-aadc-96631388d9f0</webElementGuid>
+      <webElementGuid>436a9f8b-8cf4-47c9-87a1-b472cd6c104c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MULTIEnv_UAR_06112025_231029')]</value>
+      <webElementGuid>388400d1-2965-403e-9439-c53fca9fd876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed %'])[1]/following::a[10]</value>
+      <webElementGuid>49bde018-31c3-4d2c-b43d-009a579cfa9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::a[11]</value>
+      <webElementGuid>db11f65e-124e-4a56-ab09-1670953da5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a test Multi Env. UAR, initiated by QA Automation'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed2cd1a5-58e3-4b3b-9617-06e5813466da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminate Access'])[1]/preceding::a[1]</value>
+      <webElementGuid>8788e549-58dc-43b4-9b06-bde46e338c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MULTIEnv_UAR_06112025_231029']/parent::*</value>
+      <webElementGuid>58defaa3-37b1-47d9-88f0-2786f90092f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1500:4:10417992539626::::P4_INITIAL_LOAD,P4_URLC:Y,F596C5BCBA974D84C9263402C5D3F525')]</value>
+      <webElementGuid>79799a74-146c-49f6-9e89-387423809a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr[2]/td/a</value>
+      <webElementGuid>60f2752f-2237-4d17-91e8-a1295a8e5fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1500:4:10417992539626::::P4_INITIAL_LOAD,P4_URLC:Y,F596C5BCBA974D84C9263402C5D3F525' and (text() = 'MULTIEnv_UAR_06112025_231029' or . = 'MULTIEnv_UAR_06112025_231029')]</value>
+      <webElementGuid>1179f0a5-151d-46a8-9e2c-273cd91b3ef6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,22 +142,6 @@
       <type>Main</type>
       <value>//a[contains(text(),'EBS_UAR_25092025_232457')]</value>
       <webElementGuid>eac98bf3-75cd-4d73-b615-7a5014bd9d64</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed %'])[1]/following::a[10]</value>
-      <webElementGuid>a36696a7-cf63-4c51-84e4-be52ad57c2c6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::a[11]</value>
-      <webElementGuid>836c0b58-d2b2-4b59-afee-27de26264595</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +174,6 @@
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1500:4:14119515000336::::P4_INITIAL_LOAD,P4_URLC:Y,2CAA6C4BAB07161646EF4B90B3A1CF76')]</value>
       <webElementGuid>017d505d-894c-4370-b2fd-bd414ee45fef</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/table/tbody/tr[2]/td/a</value>
-      <webElementGuid>0d72d742-a57c-40cd-b605-5aff8904548e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

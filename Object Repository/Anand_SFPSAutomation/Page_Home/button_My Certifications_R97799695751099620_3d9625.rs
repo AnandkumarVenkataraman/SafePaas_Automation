@@ -6,19 +6,19 @@
    <elementGuidId>ddbb2f92-a61b-410f-8cc3-c7a2aea16d89</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='R97799695751099620_search_button']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#R97799695751099620_search_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='R97799695751099620_search_button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Go&quot;i]</value>
+         <value>internal:label=&quot;Search bar of My Certifications&quot;i >> internal:role=button[name=&quot;Go&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>226bcda6-4e17-49a8-b23a-a2484f975a77</webElementGuid>
+      <webElementGuid>3cfcf013-c328-4e05-8e07-4c3eacee19ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>R97799695751099620_search_button</value>
-      <webElementGuid>2ad9068e-5bac-469e-844c-92160337e690</webElementGuid>
+      <webElementGuid>9b8dc64b-2066-4670-bf73-bc830c9dc567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-Button a-IRR-button a-IRR-button--search</value>
-      <webElementGuid>f550e1fc-2f0f-4572-999d-363f6297d023</webElementGuid>
+      <webElementGuid>96b1ef5c-7604-4ecf-86e4-6e91ff53acfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7048c95f-31d2-4e00-8d78-a41547d12e7b</webElementGuid>
+      <webElementGuid>e153d441-0190-487c-a049-75f073ee49eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go</value>
-      <webElementGuid>7cd42a1e-99c4-49bc-a93e-886028e98be3</webElementGuid>
+      <webElementGuid>cd723cdf-59f2-4260-b6d0-fe2dd2d6480e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;R97799695751099620_search_button&quot;)</value>
-      <webElementGuid>13395ad8-502a-451d-a90a-3a1ec2b7157d</webElementGuid>
+      <webElementGuid>5f7b8674-8378-4e92-99a0-b07e3e8d19ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='R97799695751099620_search_button']</value>
-      <webElementGuid>7041ff28-241f-4c94-8a82-ecf70e954be6</webElementGuid>
+      <webElementGuid>c8ecf190-59ed-497f-afc3-2694bdca0033</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='R97799695751099620_toolbar_controls']/div/div/div[3]/button</value>
-      <webElementGuid>47f2f892-7076-447b-b08e-d9ddc9b1c142</webElementGuid>
+      <webElementGuid>c5429182-1536-4d35-9b24-59b4cfd02739</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Certifications'])[1]/following::button[2]</value>
-      <webElementGuid>9de0cabf-0652-43c8-92a2-31fc74952690</webElementGuid>
+      <webElementGuid>e3beb6e1-55cc-4c80-8a4d-d8e009df0320</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/following::button[2]</value>
-      <webElementGuid>24f5efab-88ae-4c8e-86e2-68bd2b71dca0</webElementGuid>
+      <webElementGuid>c8f88497-9f65-43bd-956c-fcfe79c3cc64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/preceding::button[1]</value>
-      <webElementGuid>ffd81066-f338-42e1-ba8d-e3f3d64d25dc</webElementGuid>
+      <webElementGuid>cea7dc42-6e76-42d8-bc78-85dff39b7a34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div[3]/button</value>
-      <webElementGuid>25b4dcb3-0122-49f2-bd4f-1e1af243472d</webElementGuid>
+      <webElementGuid>452e92a3-bd59-4cfe-8ee3-a3a9f70f0743</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'R97799695751099620_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
-      <webElementGuid>dfee7629-dde3-4a81-a637-397b5d3ffd72</webElementGuid>
+      <webElementGuid>affc837f-6665-444f-9a93-c2a0d81f8d72</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
