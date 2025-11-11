@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SAP Rules</description>
+   <name>2. Rules</name>
+   <tag>SAP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29b2e82c-667e-4dc0-9d33-d6c8ba227e93</testCaseGuid>
+</TestCaseEntity>
