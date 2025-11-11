@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EAM-1051-P3-ADMOWNERandCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4042bc0-3a4c-4d87-8eae-379fc2822de7</testCaseGuid>
+</TestCaseEntity>

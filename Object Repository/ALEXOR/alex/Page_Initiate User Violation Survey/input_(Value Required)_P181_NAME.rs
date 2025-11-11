@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_OR CONTINUE WITH_P101_USERNAME</name>
+   <name>input_(Value Required)_P181_NAME</name>
    <tag></tag>
-   <elementGuidId>f8ea314b-febc-4b97-b05a-56f84f1e3b59</elementGuidId>
+   <elementGuidId>cd56bd55-f138-4dff-a8bc-304e9d146ffc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P101_USERNAME</value>
+         <value>#P181_NAME</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='P101_USERNAME']</value>
+         <value>//input[@id='P181_NAME']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>internal:label=&quot;Name (Value Required)&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>556df386-c293-4a5c-879b-8367dddd2456</webElementGuid>
+      <webElementGuid>54596d3b-f912-47ce-9f56-823c2ad6e00b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,31 +37,23 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a8ed50c1-3776-4763-9bb7-69902873b45e</webElementGuid>
+      <webElementGuid>8e84bca8-396e-4ee8-910d-f234c7d6a8d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P101_USERNAME</value>
-      <webElementGuid>2d28d140-310f-4979-9e14-bbb04bea4685</webElementGuid>
+      <value>P181_NAME</value>
+      <webElementGuid>f159e0c6-c8b4-4005-9f36-78a0c69af5e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P101_USERNAME</value>
-      <webElementGuid>96d5d9a7-391b-4573-931b-222d3ebaa54a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>0be91832-9a46-460b-a519-86edb4fe6d2f</webElementGuid>
+      <value>P181_NAME</value>
+      <webElementGuid>8995a0e0-1558-4148-8f98-258a572635e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,70 +61,70 @@
       <name>class</name>
       <type>Main</type>
       <value>text_field apex-item-text</value>
-      <webElementGuid>09794e5a-5f72-403e-8621-e59e586ac030</webElementGuid>
+      <webElementGuid>403e425c-467e-4396-85f2-fc91f56a4ddc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>size</name>
       <type>Main</type>
-      <value>39</value>
-      <webElementGuid>24c91421-64c2-46af-9e9c-7135a4debe5c</webElementGuid>
+      <value>60</value>
+      <webElementGuid>4189bfed-83ef-42bd-bdcb-51890c2e5f89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>aria-describedby</name>
       <type>Main</type>
-      <value>100</value>
-      <webElementGuid>ff4162fc-2052-42ee-9358-621eb536a62d</webElementGuid>
+      <value>P181_NAME_error</value>
+      <webElementGuid>58c0699e-4846-4210-960b-f5c532fcfc67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-trim-spaces</name>
+      <name>aria-invalid</name>
       <type>Main</type>
-      <value>NONE</value>
-      <webElementGuid>90fd42b9-7f3d-4097-9347-a134cae7c8de</webElementGuid>
+      <value>true</value>
+      <webElementGuid>99fb000f-326d-466d-a671-47d9a2d26e68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P101_USERNAME&quot;)</value>
-      <webElementGuid>1e45ce98-d9fa-4494-a539-255595806229</webElementGuid>
+      <value>id(&quot;P181_NAME&quot;)</value>
+      <webElementGuid>724948b8-8125-4307-830e-c1fe51a7e1df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='P101_USERNAME']</value>
-      <webElementGuid>103c8778-ad2d-4366-9cd7-b7199146a612</webElementGuid>
+      <value>//input[@id='P181_NAME']</value>
+      <webElementGuid>351fe335-650e-4837-966a-03765c3755ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P101_USERNAME_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>a3153cbe-9223-4e25-b32a-18cbe5d935ff</webElementGuid>
+      <value>//div[@id='P181_NAME_CONTAINER']/div[2]/div/input</value>
+      <webElementGuid>080d48d4-35b1-4a47-a987-556d0ad6d69a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div[2]/div/input</value>
-      <webElementGuid>c40a6466-7715-45cf-aa68-1194dffce81a</webElementGuid>
+      <value>//div[2]/div/div/div[2]/div/input</value>
+      <webElementGuid>203642ef-b18e-48e2-8e1f-e9b4da1c303d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'P101_USERNAME' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
-      <webElementGuid>19f7bf57-7b03-4371-8dbb-af65303a3591</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'P181_NAME' and @name = 'P181_NAME']</value>
+      <webElementGuid>51bb1488-5c89-4291-8d31-612f22aa81bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_(Value Required)_P181_SOD_REQUEST_ID</name>
+   <tag></tag>
+   <elementGuidId>74426c02-4c7e-4f4b-b2df-ef91c325ec6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P181_SOD_REQUEST_ID</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P181_SOD_REQUEST_ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;SOD Test Name (Value Required)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2a87db88-b23d-4a0d-8bbe-d0b8cdcca164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P181_SOD_REQUEST_ID</value>
+      <webElementGuid>449ec371-23eb-4ef5-bfcf-57bdbfaedf10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P181_SOD_REQUEST_ID</value>
+      <webElementGuid>c6e6120a-11b1-4cbf-827f-1be91aec9c55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>acde1b9a-04eb-4467-a256-bb9db69a922f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>097fe15f-9a38-42b5-91ff-51cd8802fe1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b2d1c10d-40ca-4a52-b380-33b0833bd00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>P181_SOD_REQUEST_ID_error</value>
+      <webElementGuid>467ff7ae-d213-4e97-be80-89f30a1c0e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6494451b-28b4-47f3-9198-2ea933e02a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+PJ_PLJB_EAM1495_V5_SOD_TEST
+PJ_PLJB_EAM1495_V4_SOD_TEST
+SODTST_10102025223859
+SODTST_10102025214245
+SODTST_10102025084616
+RA_10102025044504
+RA_10102025_V2
+SODTST_RA_10102025
+SODTST_10102025021903
+SOD_RA_27092025133838_V1
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SOD_KTLNCOMPANY_1809_V1
+SODTEST_1709_V4
+SODTEST_1709_V3
+SODTEST_1709_V2
+SODTEST_1709_V1
+SODTST_15092025153737
+SODTEST_RA_SEPT14_V1
+SODTEST_SEPT14_V3
+SODTEST_SEPT14_V2
+SODTEST_SEPT14_V1
+SODTEST_SEPT06_V1
+SODTEST_AUG27_V3
+SODTEST_AUG27_V2
+SODTEST_AUG27_V1
+SFTP_SNAPSHOT_20250819_045215_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_082837_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_053655_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_031200_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_025014_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SODTEST_V1
+</value>
+      <webElementGuid>60ae8d11-cab8-4afb-adec-bae33648b726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P181_SOD_REQUEST_ID&quot;)</value>
+      <webElementGuid>1f54892e-c6d0-41cf-8700-29cdcd853a52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P181_SOD_REQUEST_ID']</value>
+      <webElementGuid>2027e03d-0dd7-4ffa-81b3-1aa8762e02d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P181_SOD_REQUEST_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>9693b7df-3397-4730-b0d2-e2003853bec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::select[1]</value>
+      <webElementGuid>8d625fc6-5a63-466d-9fd0-4089b6191f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/preceding::select[1]</value>
+      <webElementGuid>e01bd35a-47e3-4cb6-89cf-ac295fdd1e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>659ee291-fdb4-4de2-9900-6b6d05a9bee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P181_SOD_REQUEST_ID' and @name = 'P181_SOD_REQUEST_ID' and (text() = 'Select any one
+PJ_PLJB_EAM1495_V5_SOD_TEST
+PJ_PLJB_EAM1495_V4_SOD_TEST
+SODTST_10102025223859
+SODTST_10102025214245
+SODTST_10102025084616
+RA_10102025044504
+RA_10102025_V2
+SODTST_RA_10102025
+SODTST_10102025021903
+SOD_RA_27092025133838_V1
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SOD_KTLNCOMPANY_1809_V1
+SODTEST_1709_V4
+SODTEST_1709_V3
+SODTEST_1709_V2
+SODTEST_1709_V1
+SODTST_15092025153737
+SODTEST_RA_SEPT14_V1
+SODTEST_SEPT14_V3
+SODTEST_SEPT14_V2
+SODTEST_SEPT14_V1
+SODTEST_SEPT06_V1
+SODTEST_AUG27_V3
+SODTEST_AUG27_V2
+SODTEST_AUG27_V1
+SFTP_SNAPSHOT_20250819_045215_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_082837_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_053655_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_031200_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_025014_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SODTEST_V1
+' or . = 'Select any one
+PJ_PLJB_EAM1495_V5_SOD_TEST
+PJ_PLJB_EAM1495_V4_SOD_TEST
+SODTST_10102025223859
+SODTST_10102025214245
+SODTST_10102025084616
+RA_10102025044504
+RA_10102025_V2
+SODTST_RA_10102025
+SODTST_10102025021903
+SOD_RA_27092025133838_V1
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SODTEST_SCHDL_SEPT19
+SOD_KTLNCOMPANY_1809_V1
+SODTEST_1709_V4
+SODTEST_1709_V3
+SODTEST_1709_V2
+SODTEST_1709_V1
+SODTST_15092025153737
+SODTEST_RA_SEPT14_V1
+SODTEST_SEPT14_V3
+SODTEST_SEPT14_V2
+SODTEST_SEPT14_V1
+SODTEST_SEPT06_V1
+SODTEST_AUG27_V3
+SODTEST_AUG27_V2
+SODTEST_AUG27_V1
+SFTP_SNAPSHOT_20250819_045215_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_082837_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_053655_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_031200_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SNAPSHOT_20250723_025014_LOCAL_EBSDB_23072025_SFTP_OBJSET_SOD_TEST
+SFTP_SODTEST_V1
+')]</value>
+      <webElementGuid>141f2c30-00bd-42e1-91ae-babd5f7e2900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unable to initiate SOD review survey without an SOD test'])[2]/preceding::select[1]</value>
+      <webElementGuid>b1718e7a-e9a8-4b66-8d23-2c41facc6221</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

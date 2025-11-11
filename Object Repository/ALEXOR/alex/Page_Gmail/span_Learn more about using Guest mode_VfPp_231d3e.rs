@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Reset Password_loginBtn</name>
+   <name>span_Learn more about using Guest mode_VfPp_231d3e</name>
    <tag></tag>
-   <elementGuidId>43534a69-bbd6-4767-a745-861714b7d848</elementGuidId>
+   <elementGuidId>55a38b35-ee2b-48b6-be63-75e16274ed4d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#loginBtn</value>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.nCP5yc.AjY5Oe.DuMIQc.LQeN7.BqKGqe.Jskylb.TrZEUc.lw1w4b.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc.VfPpkd-ksKsZd-mWPk3d > span.VfPpkd-vQzf8d</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginBtn']</value>
+         <value>//div[@id='identifierNext']/div/button/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:role=button[name=&quot;Next&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d176d772-5858-417a-ba3d-3d3b6075e44e</webElementGuid>
+      <value>span</value>
+      <webElementGuid>f3c5e80e-3e95-4873-a3c6-6e0439cddf39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>jsname</name>
       <type>Main</type>
-      <value>normalLogin();</value>
-      <webElementGuid>7d471010-8f74-4cf5-aa2d-82f39143a372</webElementGuid>
+      <value>V67aGc</value>
+      <webElementGuid>b76506bf-46b8-44dd-8c56-b6ba93eb1923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button v-btn-logins</value>
-      <webElementGuid>fd2be908-ad06-43b6-8e77-8eed6c858ab4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>6e4698dd-9ad8-4f95-ae8c-274e954bf4a4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>loginBtn</value>
-      <webElementGuid>fdd669e3-d432-4f93-ac45-f8217c4ef1c1</webElementGuid>
+      <value>VfPpkd-vQzf8d</value>
+      <webElementGuid>976ea26a-8a5a-42da-9d1a-6068bcfc5368</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>0e8d3516-0ba1-4605-9907-ae8e7362f276</webElementGuid>
+      <value>Next</value>
+      <webElementGuid>49b50fa4-23d4-4dbe-8c02-47f403f518ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginBtn&quot;)</value>
-      <webElementGuid>8f8bc83b-10fa-42a3-bc8f-c31189090e53</webElementGuid>
+      <value>id(&quot;identifierNext&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d&quot;]/span[@class=&quot;VfPpkd-vQzf8d&quot;]</value>
+      <webElementGuid>7e7c4ceb-945a-464b-b81c-61dde0cd5c6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='loginBtn']</value>
-      <webElementGuid>1ba2cf10-06df-492b-8c45-1f6d286acfba</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='R400296469189235574']/div/table/tbody/tr/td/button</value>
-      <webElementGuid>b773d7a0-e5ca-43b5-9503-cf1b646b95bc</webElementGuid>
+      <value>//div[@id='identifierNext']/div/button/span</value>
+      <webElementGuid>7c812b62-8e9d-432a-ae35-d461e4b70d71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::button[1]</value>
-      <webElementGuid>24c23dd8-e317-4997-80de-2f3b22dc959e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more about using Guest mode'])[1]/following::span[1]</value>
+      <webElementGuid>62748aed-f1d5-434a-a83c-9148fa3c0ee2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caps lock is ON'])[1]/following::button[1]</value>
-      <webElementGuid>513508ab-6235-4d2a-83bb-8475bc2f2f3b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create account'])[1]/preceding::span[1]</value>
+      <webElementGuid>9be27430-685a-4c5d-a7bc-c83de1937f47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Registration'])[1]/preceding::button[1]</value>
-      <webElementGuid>6567e03e-e03d-4bdb-bbd1-c4a18f833646</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For my personal use'])[1]/preceding::span[5]</value>
+      <webElementGuid>10cf1f6a-a905-4c97-be7c-9f3a41b838a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>1050ad21-c1d6-4033-b9a1-9b91bbbcee96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/button</value>
-      <webElementGuid>5cf7e98c-233e-4ef1-afc7-34b9bc3348b2</webElementGuid>
+      <value>//div[3]/div/div/div/div/button/span</value>
+      <webElementGuid>e36fd8e4-957a-48a4-b304-7f042e2234f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'loginBtn' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>2ac9d1f8-09d1-4df7-8d6e-041cb2f975a0</webElementGuid>
+      <value>//span[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>827e1c20-5804-4ac9-bf79-6a8f3821981c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

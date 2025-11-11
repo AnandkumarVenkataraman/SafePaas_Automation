@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EAM-1051-MainScript</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2db2a9e8-928f-4de1-9282-6fdfead615d2</testCaseGuid>
+</TestCaseEntity>

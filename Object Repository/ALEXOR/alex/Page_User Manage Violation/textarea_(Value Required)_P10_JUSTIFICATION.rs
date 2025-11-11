@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_OR CONTINUE WITH_P101_USERNAME</name>
+   <name>textarea_(Value Required)_P10_JUSTIFICATION</name>
    <tag></tag>
-   <elementGuidId>f8ea314b-febc-4b97-b05a-56f84f1e3b59</elementGuidId>
+   <elementGuidId>d3d85c44-964c-4c46-87f6-00bb301ce8c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P101_USERNAME</value>
+         <value>#P10_JUSTIFICATION</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='P101_USERNAME']</value>
+         <value>//textarea[@id='P10_JUSTIFICATION']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>internal:label=&quot;Justification (Value Required)&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>556df386-c293-4a5c-879b-8367dddd2456</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>a8ed50c1-3776-4763-9bb7-69902873b45e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>P101_USERNAME</value>
-      <webElementGuid>2d28d140-310f-4979-9e14-bbb04bea4685</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>f7f58a7f-0682-4001-87a1-ed7dc1b71544</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P101_USERNAME</value>
-      <webElementGuid>96d5d9a7-391b-4573-931b-222d3ebaa54a</webElementGuid>
+      <value>P10_JUSTIFICATION</value>
+      <webElementGuid>09349427-1d24-4613-b092-567e0c15f269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>72ed286c-976c-4c28-b839-7585b336bf43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>60</value>
+      <webElementGuid>d56702a6-c11c-4e04-8476-9f4992c8f2ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>0be91832-9a46-460b-a519-86edb4fe6d2f</webElementGuid>
+      <value>P10_JUSTIFICATION</value>
+      <webElementGuid>a3d7a0ba-9d30-4e25-80c7-57ea89a29844</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text_field apex-item-text</value>
-      <webElementGuid>09794e5a-5f72-403e-8621-e59e586ac030</webElementGuid>
+      <value>textarea apex-item-textarea</value>
+      <webElementGuid>f233c9eb-34fb-4a2d-8374-01d924c500bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>size</name>
+      <name>data-resizable</name>
       <type>Main</type>
-      <value>39</value>
-      <webElementGuid>24c91421-64c2-46af-9e9c-7135a4debe5c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>100</value>
-      <webElementGuid>ff4162fc-2052-42ee-9358-621eb536a62d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-trim-spaces</name>
-      <type>Main</type>
-      <value>NONE</value>
-      <webElementGuid>90fd42b9-7f3d-4097-9347-a134cae7c8de</webElementGuid>
+      <value>true</value>
+      <webElementGuid>5d6ff871-1efe-42d0-9e66-ded6d8565328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P101_USERNAME&quot;)</value>
-      <webElementGuid>1e45ce98-d9fa-4494-a539-255595806229</webElementGuid>
+      <value>id(&quot;P10_JUSTIFICATION&quot;)</value>
+      <webElementGuid>37454035-58a3-4e96-bd41-0b7c8a415818</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='P101_USERNAME']</value>
-      <webElementGuid>103c8778-ad2d-4366-9cd7-b7199146a612</webElementGuid>
+      <value>//textarea[@id='P10_JUSTIFICATION']</value>
+      <webElementGuid>cb62f135-95cb-4693-a95d-fc5b70f500ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P101_USERNAME_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>a3153cbe-9223-4e25-b32a-18cbe5d935ff</webElementGuid>
+      <value>//div[@id='P10_JUSTIFICATION_CONTAINER']/div[2]/div/div/textarea</value>
+      <webElementGuid>724bb438-3b3e-4ab4-8591-ca8698b68fc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div[2]/div/input</value>
-      <webElementGuid>c40a6466-7715-45cf-aa68-1194dffce81a</webElementGuid>
+      <value>//textarea</value>
+      <webElementGuid>0c307e15-e688-4bc8-83c2-e1146b3fc850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'P101_USERNAME' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
-      <webElementGuid>19f7bf57-7b03-4371-8dbb-af65303a3591</webElementGuid>
+      <value>//textarea[@name = 'P10_JUSTIFICATION' and @id = 'P10_JUSTIFICATION']</value>
+      <webElementGuid>38f38b29-0cd6-40af-9ab6-e8b5bdd5847e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>871def80-eda6-4817-a17d-35b9a8d05c0b</webElementGuid>
+      <webElementGuid>972eef92-aedd-44ff-9501-e922f5e215ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>906320a1-0f43-4d29-b252-d9fcf66d7659</webElementGuid>
+      <webElementGuid>7b34d591-5eb4-427c-8471-1533aba5e9f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P101_PASSWORD</value>
-      <webElementGuid>3ba401ff-639c-4e21-b301-5b360902d9d0</webElementGuid>
+      <webElementGuid>10fb7fc5-b5d6-4699-bb7b-e0d72a5576d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>size</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>0025f792-1fca-4747-bfbc-b8e456c1e067</webElementGuid>
+      <webElementGuid>73b7f45e-2482-4754-9ef8-d140a2ffbac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>aba0dc44-5030-4c52-afe7-c6f74c33fafa</webElementGuid>
+      <webElementGuid>7d2290d8-ffea-4d70-9370-aefc57e018ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P101_PASSWORD</value>
-      <webElementGuid>2dec8da9-8781-44d8-b8dc-0fd207bedbe9</webElementGuid>
+      <webElementGuid>76a60094-175e-42c6-bdde-7e5d9548b15c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>00e453c7-f1f7-46fd-a200-b4b860e9e1b2</webElementGuid>
+      <webElementGuid>fefc0dfd-7fea-4742-8195-ff6526a3c33f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>password apex-item-text</value>
-      <webElementGuid>ac6121dd-bb7f-4090-b3e7-8806abb5a173</webElementGuid>
+      <webElementGuid>18efcbaf-6cb6-4cfb-b82a-45a968973181</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>if(event.key === 'Enter') normalLogin();</value>
-      <webElementGuid>f3d3a3d9-92cd-4419-81b0-da3562d6b3fe</webElementGuid>
+      <webElementGuid>c779e3db-a890-41c2-bd72-f28b87c0a7d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P101_PASSWORD&quot;)</value>
-      <webElementGuid>ec8f0e12-dfe9-4385-acc1-2880bb71a232</webElementGuid>
+      <webElementGuid>b9bab1dc-33e2-430d-b4ae-a64552b88bf1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='P101_PASSWORD']</value>
-      <webElementGuid>5e922618-5b9c-4e6e-b5c6-bb2eb1749359</webElementGuid>
+      <webElementGuid>47a730b8-909e-40e3-8f2c-4cf36ae91c37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P101_PASSWORD_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>b711a25e-4f5b-4a84-85dc-d28d9ce82a10</webElementGuid>
+      <webElementGuid>95d8b9f1-0d57-47da-9403-06e17cef89c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div[2]/div/input</value>
-      <webElementGuid>c084eada-0f50-4778-a70e-a9f11d41a13e</webElementGuid>
+      <webElementGuid>add1037f-ccdf-4f76-98bd-77ac0158079d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'P101_PASSWORD' and @id = 'P101_PASSWORD' and @placeholder = 'Password']</value>
-      <webElementGuid>6b2972fa-00d3-4eff-8d9f-f2f06dd0bfde</webElementGuid>
+      <webElementGuid>d409d001-6498-4698-94e4-68224c593b58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

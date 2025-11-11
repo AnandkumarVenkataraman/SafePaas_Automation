@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>EAM-1051-P2-CO-OWNER CICLE</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>8248ffed-c61f-417a-9ba0-a670468e42db</testCaseGuid>
+   <testCaseGuid>93b6fb21-54b2-4cc4-9d3d-a334bc98b59f</testCaseGuid>
 </TestCaseEntity>

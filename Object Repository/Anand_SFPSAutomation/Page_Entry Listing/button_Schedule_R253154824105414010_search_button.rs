@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Reset Password_loginBtn</name>
+   <name>button_Schedule_R253154824105414010_search_button</name>
    <tag></tag>
-   <elementGuidId>43534a69-bbd6-4767-a745-861714b7d848</elementGuidId>
+   <elementGuidId>4c3e228e-6b26-4cfb-988f-db673424975a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#loginBtn</value>
+         <value>#R253154824105414010_search_button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginBtn']</value>
+         <value>//button[@id='R253154824105414010_search_button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:role=button[name=&quot;Go&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d176d772-5858-417a-ba3d-3d3b6075e44e</webElementGuid>
+      <webElementGuid>e6b0306e-c73c-4d42-ab5b-a58423cc0058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>id</name>
       <type>Main</type>
-      <value>normalLogin();</value>
-      <webElementGuid>7d471010-8f74-4cf5-aa2d-82f39143a372</webElementGuid>
+      <value>R253154824105414010_search_button</value>
+      <webElementGuid>cb236645-10a5-48ef-ac69-b086a533fbc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>t-Button v-btn-logins</value>
-      <webElementGuid>fd2be908-ad06-43b6-8e77-8eed6c858ab4</webElementGuid>
+      <value>a-Button a-IRR-button a-IRR-button--search</value>
+      <webElementGuid>c4013100-2b9e-412c-8f60-c62549277a0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,86 +53,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6e4698dd-9ad8-4f95-ae8c-274e954bf4a4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>loginBtn</value>
-      <webElementGuid>fdd669e3-d432-4f93-ac45-f8217c4ef1c1</webElementGuid>
+      <webElementGuid>81528e28-49ac-4c00-a694-79ed887ff4a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>0e8d3516-0ba1-4605-9907-ae8e7362f276</webElementGuid>
+      <value>Go</value>
+      <webElementGuid>48679e11-63d6-4321-90f4-857c6629f7ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginBtn&quot;)</value>
-      <webElementGuid>8f8bc83b-10fa-42a3-bc8f-c31189090e53</webElementGuid>
+      <value>id(&quot;R253154824105414010_search_button&quot;)</value>
+      <webElementGuid>5662c2f3-e02e-4ff7-af9b-100b247afa62</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginBtn']</value>
-      <webElementGuid>1ba2cf10-06df-492b-8c45-1f6d286acfba</webElementGuid>
+      <value>//button[@id='R253154824105414010_search_button']</value>
+      <webElementGuid>b2346c28-16e2-4def-af9d-e7e14f2e7e18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='R400296469189235574']/div/table/tbody/tr/td/button</value>
-      <webElementGuid>b773d7a0-e5ca-43b5-9503-cf1b646b95bc</webElementGuid>
+      <value>//div[@id='R253154824105414010_toolbar_controls']/div/div/div[3]/button</value>
+      <webElementGuid>5c0f70c9-fb0b-41aa-b9f2-d69833ef2f60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::button[1]</value>
-      <webElementGuid>24c23dd8-e317-4997-80de-2f3b22dc959e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/following::button[2]</value>
+      <webElementGuid>f2bc33b7-8329-4e39-a52f-5dd9bb951e7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caps lock is ON'])[1]/following::button[1]</value>
-      <webElementGuid>513508ab-6235-4d2a-83bb-8475bc2f2f3b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Listing'])[4]/following::button[3]</value>
+      <webElementGuid>7c2124a9-c60a-448b-b8a5-02f94147dd3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Registration'])[1]/preceding::button[1]</value>
-      <webElementGuid>6567e03e-e03d-4bdb-bbd1-c4a18f833646</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/preceding::button[1]</value>
+      <webElementGuid>a7b5b4ca-c066-4f36-bef2-45abeb602d40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/button</value>
-      <webElementGuid>5cf7e98c-233e-4ef1-afc7-34b9bc3348b2</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>5568accc-b20c-461e-962f-829459591d07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'loginBtn' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>2ac9d1f8-09d1-4df7-8d6e-041cb2f975a0</webElementGuid>
+      <value>//button[@id = 'R253154824105414010_search_button' and @type = 'button' and (text() = 'Go' or . = 'Go')]</value>
+      <webElementGuid>fa215514-1ad4-46af-8959-8cd46a36e5b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

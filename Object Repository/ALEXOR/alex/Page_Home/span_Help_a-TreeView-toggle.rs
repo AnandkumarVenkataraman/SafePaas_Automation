@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>85178db5-1d84-4c80-bbe2-96f4bc9e16dc</webElementGuid>
+      <webElementGuid>90258718-f20d-43a0-b500-627ca3d49460</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>423e701e-e3e1-48b8-b60c-f83768791452</webElementGuid>
+      <webElementGuid>666a3f96-0e4d-4a98-99b4-f7824b9f565e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_0&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>420d76f9-7b81-410f-a3f0-0f3ae6824264</webElementGuid>
+      <webElementGuid>29798a96-b143-4693-8e28-ebdac15d9ac8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_0']/span</value>
-      <webElementGuid>575edb8a-8cb5-4b8f-a970-a191031db792</webElementGuid>
+      <webElementGuid>60acdbe8-85ec-4e38-834d-70e46ca15412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/span</value>
-      <webElementGuid>78da725c-389e-4ae7-bb47-863ef2b4720f</webElementGuid>
+      <webElementGuid>ad07335b-77d7-436e-a08c-5ba3d5d0cb22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

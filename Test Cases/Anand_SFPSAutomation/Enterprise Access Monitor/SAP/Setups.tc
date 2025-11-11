@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Setups</description>
+   <name>Setups</name>
+   <tag>SAP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdf66993-ab8a-4e3d-ad62-caf77500982a</testCaseGuid>
+</TestCaseEntity>

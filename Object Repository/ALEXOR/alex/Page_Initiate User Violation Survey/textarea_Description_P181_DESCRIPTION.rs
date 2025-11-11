@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_OR CONTINUE WITH_P101_USERNAME</name>
+   <name>textarea_Description_P181_DESCRIPTION</name>
    <tag></tag>
-   <elementGuidId>f8ea314b-febc-4b97-b05a-56f84f1e3b59</elementGuidId>
+   <elementGuidId>c5a4c1e7-a713-46f4-b5de-c2c8d4c0d075</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#P101_USERNAME</value>
+         <value>#P181_DESCRIPTION</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='P101_USERNAME']</value>
+         <value>//textarea[@id='P181_DESCRIPTION']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>internal:label=&quot;Description&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>556df386-c293-4a5c-879b-8367dddd2456</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>a8ed50c1-3776-4763-9bb7-69902873b45e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>P101_USERNAME</value>
-      <webElementGuid>2d28d140-310f-4979-9e14-bbb04bea4685</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>de51c6a4-7138-4c15-8cb5-b4fa379f8c3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P101_USERNAME</value>
-      <webElementGuid>96d5d9a7-391b-4573-931b-222d3ebaa54a</webElementGuid>
+      <value>P181_DESCRIPTION</value>
+      <webElementGuid>8369a8b6-9a37-46cb-bf8d-345dccf1462a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>ac092af5-8321-4a39-9e0c-9c6af9599da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>60</value>
+      <webElementGuid>ae85e1a3-2a6a-4750-994f-703f0b021ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>0be91832-9a46-460b-a519-86edb4fe6d2f</webElementGuid>
+      <value>P181_DESCRIPTION</value>
+      <webElementGuid>4541f580-69c6-495f-9dee-cc405b69b989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text_field apex-item-text</value>
-      <webElementGuid>09794e5a-5f72-403e-8621-e59e586ac030</webElementGuid>
+      <value>textarea apex-item-textarea</value>
+      <webElementGuid>86e9ca30-9a0f-4208-80be-1c1f0e4393e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>size</name>
+      <name>data-resizable</name>
       <type>Main</type>
-      <value>39</value>
-      <webElementGuid>24c91421-64c2-46af-9e9c-7135a4debe5c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>100</value>
-      <webElementGuid>ff4162fc-2052-42ee-9358-621eb536a62d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-trim-spaces</name>
-      <type>Main</type>
-      <value>NONE</value>
-      <webElementGuid>90fd42b9-7f3d-4097-9347-a134cae7c8de</webElementGuid>
+      <value>true</value>
+      <webElementGuid>5968f728-17f6-4069-9163-e4508ff6caba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P101_USERNAME&quot;)</value>
-      <webElementGuid>1e45ce98-d9fa-4494-a539-255595806229</webElementGuid>
+      <value>id(&quot;P181_DESCRIPTION&quot;)</value>
+      <webElementGuid>a765f37f-5298-4c2c-9bee-4fd9298c4fb0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='P101_USERNAME']</value>
-      <webElementGuid>103c8778-ad2d-4366-9cd7-b7199146a612</webElementGuid>
+      <value>//textarea[@id='P181_DESCRIPTION']</value>
+      <webElementGuid>e660f278-19b7-42e0-9318-a3c944e614e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P101_USERNAME_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>a3153cbe-9223-4e25-b32a-18cbe5d935ff</webElementGuid>
+      <value>//div[@id='P181_DESCRIPTION_CONTAINER']/div[2]/div/div/textarea</value>
+      <webElementGuid>2474e779-04c1-4c12-b79a-0b82b4a7028c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div[2]/div/input</value>
-      <webElementGuid>c40a6466-7715-45cf-aa68-1194dffce81a</webElementGuid>
+      <value>//textarea</value>
+      <webElementGuid>6b1470fc-071f-4cfb-8c5b-5b7add34a0a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'P101_USERNAME' and @name = 'P101_USERNAME' and @placeholder = 'Username']</value>
-      <webElementGuid>19f7bf57-7b03-4371-8dbb-af65303a3591</webElementGuid>
+      <value>//textarea[@name = 'P181_DESCRIPTION' and @id = 'P181_DESCRIPTION']</value>
+      <webElementGuid>ae1f7198-d241-4922-8113-b24ea0eb4aca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>b40b680a-532c-4291-b1a6-4be91d9b47b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.asor_b.asor_f > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gs_ars50_0']/table/tbody/tr/td[2]/div/table/tbody/tr/td/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Open mail \&quot;[UAT] | Action Required: SOD Review Reminder Notification12:40 PMme, noreply@safepaas.com\&quot;&quot;i >> internal:text=&quot;Action&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>56adc909-b0af-47fd-b0db-6c98fa2f7d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Action</value>
+      <webElementGuid>098a9c76-71bc-462b-b74c-fa7215ea8ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gs_ars50_0&quot;)/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;gsar_b&quot;]/table[@class=&quot;asor_a&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;asor_b asor_f&quot;]/b[1]</value>
+      <webElementGuid>e352d627-5e13-4dce-ba9d-0e5013106278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gs_ars50_0']/table/tbody/tr/td[2]/div/table/tbody/tr/td/div/b</value>
+      <webElementGuid>698c6e35-81dd-49ec-9e8a-bacd703cf7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From me'])[1]/following::b[1]</value>
+      <webElementGuid>c21d9486-c641-4b07-b73d-1f9f0d5424b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='me, noreply@safepaas.com'])[1]/preceding::b[1]</value>
+      <webElementGuid>8582abf9-8a26-432f-bbe0-2491fa4104c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Action']/parent::*</value>
+      <webElementGuid>104e664d-be50-4789-833c-a3b15e587687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/b</value>
+      <webElementGuid>7c86979f-c332-4d52-924e-10581b856728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Action' or . = 'Action')]</value>
+      <webElementGuid>5c8c258a-a148-4f69-91df-1e4e68dda853</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
