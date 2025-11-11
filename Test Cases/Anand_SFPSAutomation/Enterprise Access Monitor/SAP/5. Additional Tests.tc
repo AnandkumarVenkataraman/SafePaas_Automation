@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Additional Tests</description>
+   <name>5. Additional Tests</name>
+   <tag>SAP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d78223b3-0a4a-4766-bef6-daf9df092195</testCaseGuid>
+</TestCaseEntity>

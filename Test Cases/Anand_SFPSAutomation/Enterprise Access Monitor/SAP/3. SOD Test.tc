@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SOD Test</description>
+   <name>3. SOD Test</name>
+   <tag>SAP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1981697-2605-40cb-b51e-7d4efd7d7cf5</testCaseGuid>
+</TestCaseEntity>
