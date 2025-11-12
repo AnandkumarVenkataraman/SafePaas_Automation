@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Go_a-Toolbar-selectList a-Toolbar-item</name>
+   <tag></tag>
+   <elementGuidId>ad3c81aa-91aa-4e20-9b1e-2b95065b54a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.a-Toolbar-selectList.a-Toolbar-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ruleEntriesIG_ig_toolbar']/div/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Saved Reports&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0e970185-d40b-48c4-a127-c7b49b54ef5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Toolbar-selectList a-Toolbar-item</value>
+      <webElementGuid>34529ea0-f97f-4d09-bec3-43baf39eed40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6b0602ac-eab3-466f-914c-d3cfcca071ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Saved Reports</value>
+      <webElementGuid>35828064-6cd3-4cb0-9945-04115f89dd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Saved Reports</value>
+      <webElementGuid>0b5fd0e7-d0b3-4dbc-9256-993302c5134c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>change-report</value>
+      <webElementGuid>47c977d4-e847-4ca5-8efa-a1e18c702382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Primary ReportControl Break on Activity Sets</value>
+      <webElementGuid>ebb56bfa-5113-4987-8a28-a0915afaa99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleEntriesIG_ig_toolbar&quot;)/div[@class=&quot;a-Toolbar-groupContainer a-Toolbar-groupContainer--start&quot;]/div[@class=&quot;a-Toolbar-group&quot;]/select[@class=&quot;a-Toolbar-selectList a-Toolbar-item&quot;]</value>
+      <webElementGuid>14e7a568-3d89-4054-beb3-dae467e5309e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ruleEntriesIG_ig_toolbar']/div/div[2]/select</value>
+      <webElementGuid>07289f8c-0986-4e90-b41f-971ee7937f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::select[1]</value>
+      <webElementGuid>623fe009-6c05-493e-b6dc-18bad56de204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/preceding::select[1]</value>
+      <webElementGuid>86ea6e1b-e3ad-49fc-82a0-9601ae7dae4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::select[1]</value>
+      <webElementGuid>52a5ffd5-9f44-4cc5-b52b-1a954d18553d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>3b120e72-616e-4546-bc1f-34ed1fc7e04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Saved Reports' and (text() = 'Primary ReportControl Break on Activity Sets' or . = 'Primary ReportControl Break on Activity Sets')]</value>
+      <webElementGuid>8b13be17-244a-4be6-970c-1c738ab257c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

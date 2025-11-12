@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Activity Group Code_a-GV-breakValue</name>
+   <tag></tag>
+   <elementGuidId>180bbe48-1a16-4aef-bb9f-1fe2ccede54d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-GV-breakValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ruleEntriesIG_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/th/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Activity Set 1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cab72d76-8190-4718-a1c8-3858612f6429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-breakValue</value>
+      <webElementGuid>4837cecc-9548-4442-8d7b-5179af17ef05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Activity Set 1</value>
+      <webElementGuid>662fb8eb-4718-4cb2-b63e-841d396def43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleEntriesIG_ig_grid_vc&quot;)/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table a-GV-table--checkbox&quot;]/tbody[1]/tr[@class=&quot;a-GV-controlBreak is-expanded is-hover&quot;]/th[@class=&quot;a-GV-controlBreakHeader a-GV-frozen a-GV-frozen--start1&quot;]/span[@class=&quot;a-GV-controlBreakLabel&quot;]/span[@class=&quot;a-GV-breakValue&quot;]</value>
+      <webElementGuid>78eb70c6-77d9-4e8f-b304-6cb945851ae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ruleEntriesIG_ig_grid_vc']/div[3]/div[4]/table/tbody/tr/th/span/span[2]</value>
+      <webElementGuid>4a845d3c-c245-4d0a-baf3-2d121580429a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Group Code:'])[1]/following::span[1]</value>
+      <webElementGuid>01847004-e803-4b6b-855d-80cb10e41066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sorted Ascending 2'])[2]/following::span[5]</value>
+      <webElementGuid>e1c8442e-45fb-4ba3-9a03-1e254f682379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auth Field_Value'])[1]/preceding::span[3]</value>
+      <webElementGuid>a5c84cb1-f8ca-441a-9242-2c3c9b487e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTVT.*'])[1]/preceding::span[3]</value>
+      <webElementGuid>087abfd5-8b3c-410a-a7fe-22d4c2f60a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Activity Set 1']/parent::*</value>
+      <webElementGuid>e1e65da9-149a-4b7d-a613-bf8285156a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th/span/span[2]</value>
+      <webElementGuid>c78071e6-97a8-415a-be80-6a21f7f4446f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Activity Set 1' or . = ' Activity Set 1')]</value>
+      <webElementGuid>8df97852-392c-4679-ae33-e5456c899af0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

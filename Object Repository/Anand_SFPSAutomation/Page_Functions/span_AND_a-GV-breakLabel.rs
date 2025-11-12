@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AND_a-GV-breakLabel</name>
+   <tag></tag>
+   <elementGuidId>8c9985ec-9ea0-4535-8541-3b5c7ec697d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ruleEntriesIG_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[6]/th/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Activity Group Code:&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1ed92b7-83b7-4020-9d53-26f5caf0b49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-breakLabel</value>
+      <webElementGuid>b663b6b7-66cc-4990-920c-010d5b9580db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Activity Group Code:</value>
+      <webElementGuid>b242b14a-5822-4378-8257-b1e5a7616258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleEntriesIG_ig_grid_vc&quot;)/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table a-GV-table--checkbox&quot;]/tbody[1]/tr[@class=&quot;a-GV-controlBreak is-expanded&quot;]/th[@class=&quot;a-GV-controlBreakHeader a-GV-frozen a-GV-frozen--start1&quot;]/span[@class=&quot;a-GV-controlBreakLabel&quot;]/span[@class=&quot;a-GV-breakLabel&quot;]</value>
+      <webElementGuid>b228f8b8-3173-4785-8750-160f28cd0d6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ruleEntriesIG_ig_grid_vc']/div[3]/div[4]/table/tbody/tr[6]/th/span/span</value>
+      <webElementGuid>4ee7d5b4-843c-4922-80c1-e14795666ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AND'])[5]/following::span[3]</value>
+      <webElementGuid>a2512021-4be7-41f2-b9e0-6ecf9f8bfeb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Condition: Usage/Application Authorization'])[2]/following::span[3]</value>
+      <webElementGuid>b48b0993-0dcf-4f6d-95cc-69b122a38b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Set 2'])[1]/preceding::span[1]</value>
+      <webElementGuid>1eb4e344-7974-4a5d-bda4-51fe82bbcb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auth Field_Value'])[3]/preceding::span[4]</value>
+      <webElementGuid>aec1ca49-49d2-44b0-a4ec-7da8145378b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/th/span/span</value>
+      <webElementGuid>af6f902e-79f1-4eed-a1ce-1dbc2a87b97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Activity Group Code:' or . = 'Activity Group Code:')]</value>
+      <webElementGuid>caebb7ae-6a0c-4896-9802-13f0b4d3e1a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
