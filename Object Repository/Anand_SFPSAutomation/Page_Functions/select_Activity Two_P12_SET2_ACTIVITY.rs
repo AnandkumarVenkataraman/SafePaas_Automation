@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Activity Two_P12_SET2_ACTIVITY</name>
+   <tag></tag>
+   <elementGuidId>9740193c-3c97-4e5b-9445-581263ee6166</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P12_SET2_ACTIVITY</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P12_SET2_ACTIVITY']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Activity Two&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f29c1512-aed6-4d86-be83-948aaa6990ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P12_SET2_ACTIVITY</value>
+      <webElementGuid>025b38ce-8529-4ada-b8df-0a40f2039037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P12_SET2_ACTIVITY</value>
+      <webElementGuid>f405dbd1-d21c-409e-8b85-8a6f7074b4e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>f004a087-d0f6-4b6a-8e2b-d5cf318dbdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4c85d478-0524-47cc-ab09-6f2455671f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f738ef4d-415d-4f00-b515-b8a50bb1b68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+KA_RPT_COMBINED_ACCESS_RISK
+PROJ_OBJ_REV_GEN_RISK
+SAPActivitySet1
+SAPActivitySet1a
+SAPActivitySet2
+SAPActivitySet3
+SAPActivitySet4
+SAPActivitySet4a
+SAPActivitySet5
+SAP_COPA
+SAP_COPA_VALUATION_BASIC
+SAP_CO_FI_ACTION_TRIGGERS
+SAP_CROSSCLIENT_SENSITIVE_OBJECT_ACCESS
+SAP_CROSS_CLIENT_WITH_IC_NO_TABLEGROUPS
+SAP_LINEITEM_ACCESS_WITH_CONFIG_OBJECT_MAINT
+SAP_S_TABU_CLI_SENSITIVE_ACCESS
+</value>
+      <webElementGuid>9bd36b24-d3c9-4c3d-88d3-b77e0af75fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P12_SET2_ACTIVITY&quot;)</value>
+      <webElementGuid>665c3673-0b00-4d01-897a-5c0c68ffcd1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P12_SET2_ACTIVITY']</value>
+      <webElementGuid>4c322278-a428-43f6-9f17-ac180fac9434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P12_SET2_ACTIVITY_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>11c83136-63be-4be4-b8b6-5a23fb30bfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Two'])[1]/following::select[1]</value>
+      <webElementGuid>f61151eb-6b77-4e74-ab99-4e1890fba81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity One'])[1]/following::select[2]</value>
+      <webElementGuid>420d8d6c-b0d5-492e-bfe2-fe3218d09a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Entries'])[1]/preceding::select[1]</value>
+      <webElementGuid>84883853-8a85-480c-8b43-642c30a38af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>0231fe71-a3bf-4f61-96d5-24911cb85419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P12_SET2_ACTIVITY' and @name = 'P12_SET2_ACTIVITY' and (text() = 'Select any One
+KA_RPT_COMBINED_ACCESS_RISK
+PROJ_OBJ_REV_GEN_RISK
+SAPActivitySet1
+SAPActivitySet1a
+SAPActivitySet2
+SAPActivitySet3
+SAPActivitySet4
+SAPActivitySet4a
+SAPActivitySet5
+SAP_COPA
+SAP_COPA_VALUATION_BASIC
+SAP_CO_FI_ACTION_TRIGGERS
+SAP_CROSSCLIENT_SENSITIVE_OBJECT_ACCESS
+SAP_CROSS_CLIENT_WITH_IC_NO_TABLEGROUPS
+SAP_LINEITEM_ACCESS_WITH_CONFIG_OBJECT_MAINT
+SAP_S_TABU_CLI_SENSITIVE_ACCESS
+' or . = 'Select any One
+KA_RPT_COMBINED_ACCESS_RISK
+PROJ_OBJ_REV_GEN_RISK
+SAPActivitySet1
+SAPActivitySet1a
+SAPActivitySet2
+SAPActivitySet3
+SAPActivitySet4
+SAPActivitySet4a
+SAPActivitySet5
+SAP_COPA
+SAP_COPA_VALUATION_BASIC
+SAP_CO_FI_ACTION_TRIGGERS
+SAP_CROSSCLIENT_SENSITIVE_OBJECT_ACCESS
+SAP_CROSS_CLIENT_WITH_IC_NO_TABLEGROUPS
+SAP_LINEITEM_ACCESS_WITH_CONFIG_OBJECT_MAINT
+SAP_S_TABU_CLI_SENSITIVE_ACCESS
+')]</value>
+      <webElementGuid>0a4aba05-0ca5-4192-bcb5-050c2256e98a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
