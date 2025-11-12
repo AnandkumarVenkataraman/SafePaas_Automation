@@ -224,6 +224,74 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
+//Verify other reports in Analytics
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (55)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (37)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Dashboard_a-TreeView-toggle (11)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Violation Report_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Application Access Report_a-TreeView-label'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Listing/select_Environment_P0_ENVIRONMENT'),
+	'SAP_S4HANA', false)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Listing/a_User Listing and access_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Entry Access Listing/a_User Entry Access Listing_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Entry Attribute Access Listing/a_User Entry Attribute Access Listing_a-Tre_258751'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE (1)'),
+	'641', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE (1)'),
+	'643', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE (1)'),
+	'645', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE (1)'),
+	'1245', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE (1)'),
+	'1246', true)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE (1)'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Listing/a_Entry Listing_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Attributes/button_Entry Type_a-Button a-IRR-button a-B_36387a (1)'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Attributes/button_Entry Type_a-Button a-IRR-button a-B_36387a (1)'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Attributes/button_Entry Type_a-Button a-IRR-button a-B_36387a (1)'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Entry Attributes/a_Entry Attributes_a-TreeView-label'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/button_Access Type_P13_RESPONSIBILITY_lov_btn (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/input_Search_a-PopupLOV-search apex-item-text (1)'),
+	'/AIF/ARC_CREATE')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/button_Search_a-Button a-PopupLOV-doSearch (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/li_Select List 1 rows. Use arrow keys_a-Ico_131ab6'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/button_Access Type_P13_GO'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/span_Search_a-TreeView-label is-focused'),
+	'SARA (Transactions)', FailureHandling.OPTIONAL)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/select_Environment_P0_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Access Hierarchy/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+//Logout
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (26)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (27)'))

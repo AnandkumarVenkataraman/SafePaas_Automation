@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Entry Type_P76_ENTRY_TYPE (1)</name>
+   <tag></tag>
+   <elementGuidId>8e3082e6-5219-45d4-93b3-53082c5a8de5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P76_ENTRY_TYPE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P76_ENTRY_TYPE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Entry Type&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>46dc4163-de0b-4d75-9c73-889330ef8767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P76_ENTRY_TYPE</value>
+      <webElementGuid>e3d034b0-4406-41e7-b495-8a986e710247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P76_ENTRY_TYPE</value>
+      <webElementGuid>f0e9844a-5461-4e0c-983f-867bfa3765e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>fef0333d-487f-466a-a9c3-15e8fc1c3a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7667a9ba-df0a-4a8c-8450-0ae8db3cb3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>e72383a2-7c2e-4535-b947-89b21c84c1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P76_ENTRY_TYPE');</value>
+      <webElementGuid>1f6917dc-b849-47ac-8104-3217db02c835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+Role
+Menu
+Transactions
+Authorization Object
+Profile
+Auth Field_Value
+</value>
+      <webElementGuid>7de6db40-05f8-40ef-b093-ff5ffcf99850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P76_ENTRY_TYPE&quot;)</value>
+      <webElementGuid>dec69d1e-43e3-4b4f-9d21-68209de5ba6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P76_ENTRY_TYPE']</value>
+      <webElementGuid>24882813-1cf5-40e0-bc16-f2985178f851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P76_ENTRY_TYPE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>07eff604-d9ae-4972-83c1-1ef698e94a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Type'])[1]/following::select[1]</value>
+      <webElementGuid>9f7b337c-3fc4-4691-8782-d7bed3d49972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>aaa5a3e9-502e-4bde-a2e1-bde6f88783ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entry Listing'])[4]/preceding::select[1]</value>
+      <webElementGuid>fd157c6f-bf28-4998-a583-e3e822655d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/preceding::select[1]</value>
+      <webElementGuid>cc20d677-74e6-4d37-99c0-409da644d743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>498a0352-2174-4028-9baa-df8dfbbded94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P76_ENTRY_TYPE' and @name = 'P76_ENTRY_TYPE' and (text() = 'Select any one
+Role
+Menu
+Transactions
+Authorization Object
+Profile
+Auth Field_Value
+' or . = 'Select any one
+Role
+Menu
+Transactions
+Authorization Object
+Profile
+Auth Field_Value
+')]</value>
+      <webElementGuid>ca776a62-ea53-4819-9b3a-579ce1368c1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
