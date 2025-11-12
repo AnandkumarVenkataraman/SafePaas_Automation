@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Restricted Access</description>
+   <name>5a. Restricted Access</name>
+   <tag>SAP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>181392c9-9868-4fab-ad6a-d35b6323e7a8</testCaseGuid>
+</TestCaseEntity>
