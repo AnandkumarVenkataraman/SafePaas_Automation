@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Report Settings_a-IRR-controls-item a-IR_b12760</name>
+   <tag></tag>
+   <elementGuidId>ea6a2fec-87da-46ff-9a80-b0a5838da52c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.a-IRR-controls-item.a-IRR-controls-item--search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a_Collapsible1_R247793226539899118_control_panel_content']/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Row text contains 'Z_AccessChecks_OR_Rule#2'&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>409d2479-fd9d-4737-9167-302b4a600409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-controls-item a-IRR-controls-item--search</value>
+      <webElementGuid>25382712-81bf-4702-86ce-efdbe7b7f3d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>c52b376d-3297-43dc-9c82-82f7ee25377b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>control_text_709920399851892325</value>
+      <webElementGuid>28aace13-cb05-4b90-8257-daa0b733fae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ToggleRow text contains 'Z_AccessChecks_OR_Rule#2'</value>
+      <webElementGuid>ddbce289-626b-4d14-9072-0acaaac8a973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a_Collapsible1_R247793226539899118_control_panel_content&quot;)/ul[@class=&quot;a-IRR-controls&quot;]/li[@class=&quot;a-IRR-controls-item a-IRR-controls-item--search&quot;]</value>
+      <webElementGuid>edfacbbb-1dc7-4d18-98ff-60f326987ada</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a_Collapsible1_R247793226539899118_control_panel_content']/ul/li</value>
+      <webElementGuid>27f04982-5825-4925-86ac-f282847054cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Settings'])[1]/following::li[1]</value>
+      <webElementGuid>249dd716-ed02-4612-acfa-e909b949e795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/following::li[1]</value>
+      <webElementGuid>88f58514-e022-4862-acf5-47b6ec11454b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li</value>
+      <webElementGuid>306ddb07-4701-498d-b2f4-a97d36d013b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;ToggleRow text contains &quot; , &quot;'&quot; , &quot;Z_AccessChecks_OR_Rule#2&quot; , &quot;'&quot;) or . = concat(&quot;ToggleRow text contains &quot; , &quot;'&quot; , &quot;Z_AccessChecks_OR_Rule#2&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>189918b8-8fc0-46d8-b611-57ff6392a2e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

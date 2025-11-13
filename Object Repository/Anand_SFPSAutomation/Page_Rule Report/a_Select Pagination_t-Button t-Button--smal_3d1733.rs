@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select Pagination_t-Button t-Button--smal_3d1733</name>
+   <tag></tag>
+   <elementGuidId>3c1bb212-9f10-4c6e-9fe9-02cac5df03e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.t-Button.t-Button--small.t-Button--noUI.t-Report-paginationLink.t-Report-paginationLink--next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='report_R248231011536003638']/div/table[2]/tbody/tr/td/table/tbody/tr/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Next &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f40cae8a-8f8a-4e84-8c2f-c424eb74275e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:8133790563542:pg_R_248231011536003638:NO&amp;pg_min_row=16&amp;pg_max_rows=15&amp;pg_rows_fetched=15</value>
+      <webElementGuid>adf40cbb-7793-40d0-b09b-dc435a65d375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Button t-Button--small t-Button--noUI t-Report-paginationLink t-Report-paginationLink--next</value>
+      <webElementGuid>88d04a2d-939b-4813-817d-2a6087c1348b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Next
+</value>
+      <webElementGuid>3fa9f2cd-f3e1-4619-930b-fa3b5b9b6e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_R248231011536003638&quot;)/div[@class=&quot;t-Report-wrap&quot;]/table[@class=&quot;t-Report-pagination t-Report-pagination--bottom&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;pagination&quot;]/a[@class=&quot;t-Button t-Button--small t-Button--noUI t-Report-paginationLink t-Report-paginationLink--next&quot;]</value>
+      <webElementGuid>e6f94228-2a56-4380-aff5-9d4ac572412f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_R248231011536003638']/div/table[2]/tbody/tr/td/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>5944d635-080d-47d1-8644-617ebc6f100f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Next')]</value>
+      <webElementGuid>6e1bae9c-63f1-4bbf-807f-08e0805644a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Pagination'])[1]/following::a[1]</value>
+      <webElementGuid>ddde872b-895e-44be-b5e4-74fb767d1684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[30]/following::a[1]</value>
+      <webElementGuid>c8667301-3429-48f7-a5e2-37e208c3601f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptions'])[3]/preceding::a[1]</value>
+      <webElementGuid>269d787e-f6a7-4b05-9033-52c3c86236e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::a[1]</value>
+      <webElementGuid>c96215d5-1e5f-495f-8219-3033b6c49264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>b53e865d-ecc3-4c8b-91fc-20fed7d3e241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:8133790563542:pg_R_248231011536003638:NO&amp;pg_min_row=16&amp;pg_max_rows=15&amp;pg_rows_fetched=15')]</value>
+      <webElementGuid>02644b5f-bb54-410a-a37e-ba898cf1e09b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>ddb43a5e-5bf3-4547-9680-a57c8d38bef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:8133790563542:pg_R_248231011536003638:NO&amp;pg_min_row=16&amp;pg_max_rows=15&amp;pg_rows_fetched=15' and (text() = '
+  Next
+' or . = '
+  Next
+')]</value>
+      <webElementGuid>561b36ba-cb96-4853-9e84-75be684c17d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

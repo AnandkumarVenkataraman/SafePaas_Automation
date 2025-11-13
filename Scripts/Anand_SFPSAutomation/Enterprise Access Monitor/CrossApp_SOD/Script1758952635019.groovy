@@ -209,6 +209,8 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Create_R169645132708451655_search_button (4)'))
 
+WebUI.delay(300)
+
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/td_Coupa_Env1, SFTP_Env2_u-tL'), 
     'Closed', FailureHandling.OPTIONAL)
 
