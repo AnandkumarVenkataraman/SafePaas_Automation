@@ -53,11 +53,13 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 //Setting the variable from the previous test-case
 //String sapSODTST2 = GlobalVariable.sapSODTEST
 // Reading from JSON
-def jsonContent = new JsonSlurper().parse(jsonFile)
-def sapSODTST1FromJson = jsonContent.sapSODTST
+//def jsonContent = new JsonSlurper().parse(jsonFile)
+//def sapSODTST1FromJson = jsonContent.sapSODTST
+
+String valueSAPSODTEST
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text'), 
-    sapSODTST2)
+    valueSAPSODTEST)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_Select List 1 rows. Use arrow keys_pop_e9b563'))
 

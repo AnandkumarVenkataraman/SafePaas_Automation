@@ -278,10 +278,16 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
     0)
 
 //Write the value of sapSODTST to json
-def sapSODTST1 = sapSODTST
-def jsonFile = new File('path/to/sapSODTST1.json')
-jsonFile.text = JsonOutput.toJson([sapSODTST1: sapSODTST])
+//def sapSODTST1 = sapSODTST
+//def jsonFile = new File('path/to/sapSODTST1.json')
+//jsonFile.text = JsonOutput.toJson([sapSODTST1: sapSODTST])
 
+//Pass the value of sapSODTST to Analytics
+String dynamicSAPSODTEST = sapSODTST
+
+WebUI.callTestCase(findTestCase('Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/SAP/4. Analytics'), [('valueSAPSODTEST'): dynamicSAPSODTEST], FailureHandling.STOP_ON_FAILURE)
+
+//Logout
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (5)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (30)'))
