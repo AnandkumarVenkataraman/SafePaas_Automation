@@ -20,6 +20,8 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
+import groovy.json.JsonSlurper
+import groovy.json.JsonOutput
 
 WebUI.openBrowser('')
 
@@ -98,10 +100,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/td_H_u-tL_1 (1)'), 'DT')
 
-//x
+//Set the SAP's SOD Test name; based on current date & time; i.e., system date & time
 def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 def currentDateTime = dateFormat.format(new Date())
 def sapSODTST = 'SAPSOD_' + currentDateTime
+//GlobalVariable.sapSODTEST = sapSODTST
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (8)'), 
     sapSODTST)
@@ -199,7 +202,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn (6)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text (6)'), 
-    'SAPSODTST_17112025_V1')
+    sapSODTST)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_Select List 1 rows. Use arrow keys_pop_e9b563 (5)'))
 
@@ -273,6 +276,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/select_Environment_P74_ENVIRONMENT (3)'), 
     0)
+
+//Write the value of sapSODTST to json
+def sapSODTST1 = sapSODTST
+def jsonFile = new File('path/to/sapSODTST1.json')
+jsonFile.text = JsonOutput.toJson([sapSODTST1: sapSODTST])
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (5)'))
 

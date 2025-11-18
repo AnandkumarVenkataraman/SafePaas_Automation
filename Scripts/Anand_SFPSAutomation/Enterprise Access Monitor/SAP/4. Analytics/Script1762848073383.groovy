@@ -16,6 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import groovy.json.JsonSlurper
+import groovy.json.JsonOutput
 
 WebUI.openBrowser('')
 
@@ -49,8 +51,13 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_Test Name_P86_TEST_NAME_lov_btn'))
 
 //Setting the variable from the previous test-case
+//String sapSODTST2 = GlobalVariable.sapSODTEST
+// Reading from JSON
+def jsonContent = new JsonSlurper().parse(jsonFile)
+def sapSODTST1FromJson = jsonContent.sapSODTST
+
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text'), 
-    'SAPSOD_17112025')
+    sapSODTST2)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_Select List 1 rows. Use arrow keys_pop_e9b563'))
 
