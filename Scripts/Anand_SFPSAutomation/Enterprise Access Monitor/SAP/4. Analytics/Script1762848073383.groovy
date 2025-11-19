@@ -202,5 +202,38 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 //Aggregate Violations Details report
 
-WebUI.closeBrowser()
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (68)'))
 
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (50)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Dashboard_a-TreeView-toggle (15)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (37)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Intra Role Violation Details Report_a-Tre_fca8d0'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/select_Environment_P136_ENVIRONMENT'),
+	'SAP_S4HANA', false)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/select_Test Name_P136_TEST_NAME'),
+	1)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/span_SAP_CO_PA_PERENDSAP_CO_PA_PEREND_a-IRR_5028c5'),
+	'1 - 9 of 9')
+
+WebUI.takeScreenshot()
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/select_Test Name_P136_TEST_NAME'),
+	0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/select_Environment_P136_ENVIRONMENT'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Aggregate Violation Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+//Logout
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (31)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (32)'))
+
+WebUI.closeBrowser()
