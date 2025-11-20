@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a (1)</name>
+   <tag></tag>
+   <elementGuidId>043ad022-dff0-4f5c-b37b-d6c810b35c0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tL > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;ABAP1&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>435c490d-f474-459e-a6b1-b611e8d90335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:apex.navigation.dialog('f?p=1180:196:15464821076220::::P196_ENVIRONMENT,P196_REQUEST_ID,P196_USER_ID,P196_USER_NAME,P196_F_EXC_STATUS,P196_F_REM_STATUS,P196_F_RISK_LEVEL,P196_F_RULE_ID:9069,15154,77368562,ABAP1,,,,\u0026p_dialog_cs=xeYeCnRjFApAZxhDsIV5C4Az1-8iz1L471yT0WCHWE4inisOgVSMDa3GhiJ4phQ8ds3eQw9N_sI6gE9yMkk7NQ',{title:'User Mind Map',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#uvrReport'));</value>
+      <webElementGuid>261e751b-71f4-41bf-9661-310a79cd1cfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABAP1</value>
+      <webElementGuid>691f572c-075b-43d3-ba13-5ff6fadf0ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;154256958746258637_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>84d52ac8-2f19-4203-91c6-d5a36e8a233a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td/a</value>
+      <webElementGuid>36424f8c-b071-49e5-9553-546d8118cf69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ABAP1')]</value>
+      <webElementGuid>1feb8feb-5da5-4737-a801-c2358b204897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute Group Code'])[1]/following::a[12]</value>
+      <webElementGuid>7c21a28b-f751-476a-85fb-ea18a10c0761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remediation Status'])[2]/following::a[13]</value>
+      <webElementGuid>d5cedbf8-5b55-41f0-bc0d-ec7511f59b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAP Restricted Access Rule#1'])[1]/preceding::a[1]</value>
+      <webElementGuid>c04ef8d3-dbc4-4a48-a4d4-99bc3220a69e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RA'])[1]/preceding::a[2]</value>
+      <webElementGuid>6d7d1690-0eb9-4176-8973-a87a1f60540b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ABAP1']/parent::*</value>
+      <webElementGuid>24c410ff-091a-471f-9df3-3a95bfc25f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:apex.navigation.dialog('f?p=1180:196:15464821076220::::P196_ENVIRONMENT,P196_REQUEST_ID,P196_USER_ID,P196_USER_NAME,P196_F_EXC_STATUS,P196_F_REM_STATUS,P196_F_RISK_LEVEL,P196_F_RULE_ID:9069,15154,77368562,ABAP1,,,,\u0026p_dialog_cs=xeYeCnRjFApAZxhDsIV5C4Az1-8iz1L471yT0WCHWE4inisOgVSMDa3GhiJ4phQ8ds3eQw9N_sI6gE9yMkk7NQ',{title:'User Mind Map',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#uvrReport'));&quot;)]</value>
+      <webElementGuid>177c9120-b9a9-41c9-9eca-f004cbe3465a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>4c41aa5a-0a72-4fa4-ab1c-8ee697f10b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1180:196:15464821076220::::P196_ENVIRONMENT,P196_REQUEST_ID,P196_USER_ID,P196_USER_NAME,P196_F_EXC_STATUS,P196_F_REM_STATUS,P196_F_RISK_LEVEL,P196_F_RULE_ID:9069,15154,77368562,ABAP1,,,,\u0026p_dialog_cs=xeYeCnRjFApAZxhDsIV5C4Az1-8iz1L471yT0WCHWE4inisOgVSMDa3GhiJ4phQ8ds3eQw9N_sI6gE9yMkk7NQ&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;User Mind Map&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#uvrReport&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'ABAP1' or . = 'ABAP1')]</value>
+      <webElementGuid>2dccbb2b-cd9b-412d-aa12-017342908e62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

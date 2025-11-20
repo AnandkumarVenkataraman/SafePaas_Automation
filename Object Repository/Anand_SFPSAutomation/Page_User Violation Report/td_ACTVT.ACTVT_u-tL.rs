@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ACTVT.ACTVT_u-tL</name>
+   <tag></tag>
+   <elementGuidId>36d4e82f-c334-4e79-8b4e-b73645260012</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Role : SAP_PS_RM_PRO_ADMIN->Transactions : RMPS_ACL_STATUS->Authorization Object : S_SRMSY_CL->Profile : T_SD87002500->Auth Field_Value : ACTVT.*&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>44886e12-7473-4a43-988d-2431bc232da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>d4877c7b-5964-46bb-a021-8dc86e68d79c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C154867388214991534</value>
+      <webElementGuid>c78630e2-62fe-408b-9f3a-f110f25b26cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role : SAP_PS_RM_PRO_ADMIN->Transactions : RMPS_ACL_STATUS->Authorization Object : S_SRMSY_CL->Profile : T_SD87002500->Auth Field_Value : ACTVT.*</value>
+      <webElementGuid>37257fa3-dfc6-4bf5-acfa-16603f124f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;154256958746258637_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>bffc9671-5e10-44a7-a1bc-c87c9691b3fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td[7]</value>
+      <webElementGuid>cf781f8e-1efe-4223-bb53-34ec34e0ac9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTVT.*[ACTVT.*]'])[1]/following::td[1]</value>
+      <webElementGuid>397a1318-58f7-4b27-be2f-34c0256d6ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAP_PS_RM_PRO_ADMIN[SAP_PS_RM_PRO_ADMIN]'])[1]/following::td[2]</value>
+      <webElementGuid>1bca35d5-2079-48ac-a67a-64544ac4720a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[1]</value>
+      <webElementGuid>6da108f6-8b1e-44bd-bdae-874fd568ed64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[1]/preceding::td[2]</value>
+      <webElementGuid>00ae6764-a542-49ef-a3af-9abe6a78ba50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Role : SAP_PS_RM_PRO_ADMIN->Transactions : RMPS_ACL_STATUS->Authorization Object : S_SRMSY_CL->Profile : T_SD87002500->Auth Field_Value : ACTVT.*']/parent::*</value>
+      <webElementGuid>f9bbad46-d9c5-4277-a070-aa4958c16829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>a0e28a6f-5227-4b57-a88c-ba0688759d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Role : SAP_PS_RM_PRO_ADMIN->Transactions : RMPS_ACL_STATUS->Authorization Object : S_SRMSY_CL->Profile : T_SD87002500->Auth Field_Value : ACTVT.*' or . = 'Role : SAP_PS_RM_PRO_ADMIN->Transactions : RMPS_ACL_STATUS->Authorization Object : S_SRMSY_CL->Profile : T_SD87002500->Auth Field_Value : ACTVT.*')]</value>
+      <webElementGuid>72884f1c-4c3f-4239-baf1-c0f448ec139a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
