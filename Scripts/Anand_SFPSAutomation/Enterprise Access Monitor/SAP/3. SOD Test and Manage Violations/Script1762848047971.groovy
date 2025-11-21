@@ -104,7 +104,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 def currentDateTime = dateFormat.format(new Date())
 def sapSODTST = 'SAPSOD_' + currentDateTime
-//GlobalVariable.sapSODTEST = sapSODTST
+GlobalVariable.sapSODTEST = sapSODTST
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (8)'), 
     sapSODTST)
@@ -283,9 +283,9 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 //jsonFile.text = JsonOutput.toJson([sapSODTST1: sapSODTST])
 
 //Pass the value of sapSODTST to Analytics
-String dynamicSAPSODTEST = sapSODTST
-
-WebUI.callTestCase(findTestCase('Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/SAP/4. Analytics'), [('valueSAPSODTEST'): dynamicSAPSODTEST], FailureHandling.STOP_ON_FAILURE)
+//String dynamicSAPSODTEST = sapSODTST
+//
+//WebUI.callTestCase(findTestCase('Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/SAP/4. Analytics'), [('valueSAPSODTEST'): dynamicSAPSODTEST], FailureHandling.STOP_ON_FAILURE)
 
 //Logout
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (5)'))

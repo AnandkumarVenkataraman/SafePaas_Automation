@@ -779,87 +779,87 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (11)'),
 	'SAP_S4HANA', false)
-
+WebUI.delay(10)
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Import Rules_R247793226539899118_sear_84acb9 (6)'),
 	'Z_AccessChecks_OR_Rule#3')
-
+WebUI.delay(10)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Import Rules_R247793226539899118_sea_c93c8e (4)'))
-
+WebUI.delay(10)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a (6)'))
-
+WebUI.delay(10)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span (3)'))
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Name_P9_NAME'), 'Z_AccessChecks_OR_Rule#3')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Approval Status_P9_APPROVAL_STATUS'),
 	'Approved')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_Auth Field_Value_t-Report-cell (2)'),
 	'OR')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_Auth Field_Value_t-Report-cell_1 (2)'),
 	'OR')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_Auth Field_Value_t-Report-cell_2 (2)'),
 	'OR')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_Auth Field_Value_t-Report-cell_3 (2)'),
 	'OR')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell (1)'),
 	'1')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell_1 (1)'),
 	'2')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell_2'),
 	'3')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell_3'),
 	'4')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell_4'),
 	'Set2 Activity')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell_5'),
 	'Set2 Activity')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell_6'),
 	'Set2 Activity')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_OR_t-Report-cell_7'),
 	'Set2 Activity')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_Authorization Object_t-Report-cell (2)'),
 	'AND')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_Authorization Object_t-Report-cell_1 (2)'),
 	'AND')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_AND_t-Report-cell (2)'),
 	'3')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_AND_t-Report-cell_1 (2)'),
 	'4')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_AND_t-Report-cell_2 (2)'),
 	'Set1 Activity')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_AND_t-Report-cell_3 (2)'),
 	'Set1 Activity')
-
+WebUI.delay(10)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/a_Select Pagination_t-Button t-Button--smal_3d1733 (1)'))
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_CO_VRGNG.KSPA_t-Report-cell (2)'),
 	'Auth Field_Value')
-
+WebUI.delay(10)
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_CO Inactive Hierarchies_t-Report-cell (2)'),
 	'Authorization Object')
-
+WebUI.delay(10)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/a_Define Scope_t-Breadcrumb-label (3)'))
-
+WebUI.delay(10)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_concat(Row text contains , , Z_Acces_997f1b'), FailureHandling.OPTIONAL)
-
+WebUI.delay(10)
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (11)'),
 	0)
 
