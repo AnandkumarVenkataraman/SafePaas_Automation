@@ -57,10 +57,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 //def jsonContent = new JsonSlurper().parse(jsonFile)
 //def sapSODTST1FromJson = jsonContent.sapSODTST
 
-String valueSAPSODTEST
+//String valueSAPSODTEST
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text'), 
-    GlobalVariable.sapSODTEST)
+	'SAPSOD_18112025025412')
+	//GlobalVariable.sapSODTEST)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_Select List 1 rows. Use arrow keys_pop_e9b563'))
 
