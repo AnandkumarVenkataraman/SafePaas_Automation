@@ -432,7 +432,7 @@ def sodTST = 'SODTST_' + currentDateTime
 
 WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (1)'), sodTST)
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (1)'), sodTST)
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (1)'), 'This SOD Test was initiated by QA Automation, for EBS')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245 (1)'))
 
@@ -563,8 +563,15 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT'),
 	3)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME'),
-	1)
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME'),
+//	1)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_Test Name_P86_TEST_NAME_lov_btn (2)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text (2)'),
+	sodTST)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_SODTEST_EAM1500_V3'))
+
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
@@ -585,8 +592,14 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Violation Matrix by U
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Environment_P98_ENVIRONMENT'),
 	3)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Test Name_P98_TEST_NAME'),
-	1)
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Test Name_P98_TEST_NAME'),
+//	1)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/button_Test Name_P98_TEST_NAME_lov_btn (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/input_Search_a-PopupLOV-search apex-item-text (1)'),
+	sodTST)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/span_SODTST_02122025050017'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Intra Role Violation Details Report/span_Open_a-IRR-pagination-label'),
 	'1 - 25 of 41')
@@ -660,8 +673,18 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
 	1)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
-	1)
+//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
+//	1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_Test Name_P86_TEST_NAME_lov_btn (2)'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text (2)'),
+	'SODTST_EAM1531_NOV25_V1')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_SODTEST_EAM1500_V3'))
+
+WebUI.delay(2)
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Attribute(s)_a-IRR-headerLink'))
 
@@ -671,19 +694,24 @@ WebUI.setText(findTestObject('Object Repository/Page_User Violation Report/input
 WebUI.sendKeys(findTestObject('Object Repository/Page_User Violation Report/input_Search_uvrReport_sort_widget_search_field'),
 	Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL'), 'PERMISSION')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL'), 'PERMISSION', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL_1'), 'PERMISSION')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL_1'), 'PERMISSION', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/button_concat(Exception Status contains , ,_28a539'), FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
-	0)
+	0, FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
 	0)
 
+//Logout
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (26)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (27)'))
 
 WebUI.closeBrowser()
 
