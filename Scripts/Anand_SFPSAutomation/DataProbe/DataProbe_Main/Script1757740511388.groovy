@@ -25,7 +25,7 @@ import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
 WebUI.maximizeWindow()
 
@@ -323,7 +323,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/sele
 
 WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME'), dtpEBSJob1)
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS'), dtpEBSJob1)
+WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS'), 'This DataProbe snapshot extract is triggered by QA Automation')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245'))
 WebUI.delay(8)
@@ -331,7 +331,7 @@ WebUI.delay(8)
 WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), dtpEBSJob1)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_Upload Data_mngSnap_search_button'))
-WebUI.delay(1800)
+WebUI.delay(900)
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Snapshot/input_Upload Data_mngSnap_search_field'), 'PARENT')
 

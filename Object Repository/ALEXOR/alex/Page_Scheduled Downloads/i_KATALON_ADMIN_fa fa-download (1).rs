@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_KATALON_ADMIN_fa fa-download (1)</name>
+   <tag></tag>
+   <elementGuidId>49c2bc52-82f1-4fd9-a3f3-9994e0bbcd50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-download</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='160867000903310713_orig']/tbody/tr[2]/td[10]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;EAM_VUR EAM_VIOLATION_BY_USERS_REPORT_Coupa_Env1_20251127151119.zip Completed Environment -> Coupa_Env1 | Test Name -> undefined 35 1 90 27-NOV-2025 03:11PM KATALON_ADMIN  -&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>654050af-3e81-4403-953f-e7a060d7b927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-download</value>
+      <webElementGuid>56bd28dd-ef0d-42e4-a483-9a6761c84fda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;160867000903310713_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[@class=&quot;download&quot;]/i[@class=&quot;fa fa-download&quot;]</value>
+      <webElementGuid>e4135f26-d931-4756-8555-fb524a42601c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='160867000903310713_orig']/tbody/tr[2]/td[10]/a/i</value>
+      <webElementGuid>78f510a0-c744-413d-8109-94a19491b28f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>0065a1b4-75e4-48c5-ae7f-0d75eb9fbc2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
