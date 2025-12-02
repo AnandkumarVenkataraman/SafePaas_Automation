@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Manage Object')])[2]</value>
+         <value>(//a[contains(text(),'Manage Object')])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f0e188a2-7802-4fb9-8157-3ca6469f327c</webElementGuid>
+      <webElementGuid>04b1f53b-d4d6-451a-aff8-b1a3091e5bef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>4c2498c4-33e7-4cfa-8ddb-f6f2141648dc</webElementGuid>
+      <webElementGuid>ed8b8bfc-9686-4912-b383-6ebe4a0e7a74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>6e70f77e-5bbb-448a-8746-59fda515b5e2</webElementGuid>
+      <webElementGuid>372c0dad-59fb-486f-b6cd-352df706a2ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>d76a0bc2-5fef-4544-b60a-b1c0ed850cfc</webElementGuid>
+      <webElementGuid>ec241a4c-6c59-4480-a5df-42cec73b7a47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1120:9:5563068266440:::9::</value>
-      <webElementGuid>678576fb-ac55-4f6f-acc1-d8c28ed0729a</webElementGuid>
+      <webElementGuid>1b337e15-58db-4cc3-b6b5-ff15f45d50db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>5afa7f27-be6c-435c-8c68-00f12419afb5</webElementGuid>
+      <webElementGuid>bdb6ca05-0f21-41e6-a024-1058b6d46c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>30db5f4f-b1f0-41fe-80cb-826019625934</webElementGuid>
+      <webElementGuid>9e5c6dbb-cbf8-490c-8483-d2625c6042ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Object</value>
-      <webElementGuid>7d511794-d416-4516-86e9-d88f476839ca</webElementGuid>
+      <webElementGuid>0cedc518-0f3b-4d6d-b75c-e03167f20888</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_240&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>aa08b308-94ba-4465-a744-e7eb11f57c2e</webElementGuid>
+      <webElementGuid>14a405f4-ded6-479d-9fff-e87a737b5b2e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1120:9:5563068266440:::9::' and (text() = 'Manage Object' or . = 'Manage Object')]</value>
-      <webElementGuid>5f0d4608-f202-493e-bd0c-7c72c1e7ec4e</webElementGuid>
+      <webElementGuid>3b9b039f-8f76-4139-85cf-99d6c3d1352b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_240']/div[2]/a</value>
-      <webElementGuid>66b77212-25a7-4a15-85af-d334ba094222</webElementGuid>
+      <webElementGuid>c6381f15-90a9-4432-9ca7-a7af7b181fd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Manage Object')])[2]</value>
-      <webElementGuid>c4d59008-e563-4bdc-8b9d-5fbea9863f58</webElementGuid>
+      <webElementGuid>4808551d-5a5b-4e9b-927e-7c4ac6892e83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Data Source'])[2]/following::a[1]</value>
-      <webElementGuid>01252e7e-8698-400e-bbaf-f1ea96b8b489</webElementGuid>
+      <webElementGuid>fa4b6f99-e5bc-4e1e-b732-6f622145c1fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[7]/following::a[2]</value>
-      <webElementGuid>e2a2036e-e2fe-4430-9f26-eb5420b7528b</webElementGuid>
+      <webElementGuid>9f3cacf0-334f-4152-b7a0-01cc058e7651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Object Set'])[1]/preceding::a[1]</value>
-      <webElementGuid>ebc933af-abf0-442f-8475-6ab951c22ae7</webElementGuid>
+      <webElementGuid>7e129dc5-33e6-4c35-9fce-1a24d2d31e36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage DataProbe Roles'])[1]/preceding::a[2]</value>
-      <webElementGuid>c9c50ecb-f96d-49d4-85ff-db45176bf35f</webElementGuid>
+      <webElementGuid>225191e4-7b16-4fed-ab4a-9a84e626ad37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Object']/parent::*</value>
-      <webElementGuid>2263e792-3f02-4685-81cf-5b21f40eaf44</webElementGuid>
+      <webElementGuid>f5a050ce-2a69-478a-990a-6d94b7d9b56c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1120:9:5563068266440:::9::')]</value>
-      <webElementGuid>94505849-664b-496d-93a9-b3caa18b19e7</webElementGuid>
+      <webElementGuid>c3fda229-f4f3-4f6c-b8bf-f617330d3856</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[3]/ul/li[2]/div[2]/a</value>
-      <webElementGuid>0677ab80-eae7-471b-b7cf-cec8f3cf91a1</webElementGuid>
+      <webElementGuid>fa8fcd9a-9701-4142-b9fd-593cccf61fd5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
