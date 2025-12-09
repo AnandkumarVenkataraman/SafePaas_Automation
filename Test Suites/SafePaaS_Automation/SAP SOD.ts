@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description>TS_SFPSAutomation</description>
-   <name>TS_SFPSAutomation</name>
+   <name>SAP SOD</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
