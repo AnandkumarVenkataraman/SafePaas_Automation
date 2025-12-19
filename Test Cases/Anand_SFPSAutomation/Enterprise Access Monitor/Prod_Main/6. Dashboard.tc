@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Dashboard</description>
+   <name>6. Dashboard</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf8763f6-abb3-4b26-8c90-74e491e61b90</testCaseGuid>
+</TestCaseEntity>
