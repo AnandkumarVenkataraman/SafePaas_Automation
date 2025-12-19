@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_DataProbe_a-TreeView-label (1)</name>
+   <name>a_Manage Rule Tags</name>
    <tag></tag>
-   <elementGuidId>30de788c-bc19-4b7d-9a90-274db1e02c13</elementGuidId>
+   <elementGuidId>f89e8e16-fb83-492f-bed2-16fdf336338a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Snapshot')]</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_172']/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage Snapshot&quot;i]</value>
+         <value>internal:role=treeitem[name=&quot;Manage Rule Tags&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b584da1c-abc0-4784-a1de-672ae4cbd855</webElementGuid>
+      <webElementGuid>fd6117c0-3356-49fa-9b24-d008cd9f8cf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c2c858e4-2a06-4aee-8f1c-df6b24399943</webElementGuid>
+      <webElementGuid>8ce3db8a-a296-494a-a622-1ee4ebcd207f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>265bf541-ae5a-4acc-8e6a-4e78584f18d2</webElementGuid>
+      <webElementGuid>e6accf3e-bf76-409f-8ea6-22e425faaa04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,23 +53,23 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>b1645a53-ef2a-4016-8d88-0ccd59edc455</webElementGuid>
+      <webElementGuid>d9585579-0d66-40d5-b454-6c5370f83de2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1120:19:16337070006071:::19::</value>
-      <webElementGuid>a8f1e11d-8005-43a0-8147-66bd29c948c8</webElementGuid>
+      <value>f?p=1180:44:11183696717256:::44::</value>
+      <webElementGuid>219ad365-9ab1-4fab-9b9e-21eb234d118e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-level</name>
       <type>Main</type>
-      <value>2</value>
-      <webElementGuid>59b19eaa-5c5d-4bc1-a027-c7b1165ebb79</webElementGuid>
+      <value>4</value>
+      <webElementGuid>94aeb560-6857-49b3-9e1e-56e2924fe1ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,102 +77,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>aad7ff1d-7740-42eb-8d7d-baa6d33034ee</webElementGuid>
+      <webElementGuid>cf064e6b-e9d1-44e1-92ca-9eb66216e583</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Snapshot</value>
-      <webElementGuid>f2f2b3a8-135f-4719-890e-8db9cae40c58</webElementGuid>
+      <value>Manage Rule Tags</value>
+      <webElementGuid>4ad5ffaf-a126-4ea5-8126-f87b58c4d4db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_4&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>44119ea6-4a2e-4b7c-908f-e4aabf8f3d74</webElementGuid>
+      <value>id(&quot;t_TreeNav_172&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>d6741a65-3481-4979-9633-9fd373dff252</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_4']/div[2]/a</value>
-      <webElementGuid>fc19f24a-5499-41f0-bed1-f79625a9cfb4</webElementGuid>
+      <value>//li[@id='t_TreeNav_172']/div[2]/a</value>
+      <webElementGuid>917fb992-4942-475a-be86-67bda43ff2f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Manage Snapshot')]</value>
-      <webElementGuid>16eaf04a-c486-4a0b-858e-190f472572eb</webElementGuid>
+      <value>//a[contains(text(),'Manage Rule Tags')]</value>
+      <webElementGuid>5988dda5-4d55-4d4e-99ee-03694b3e8727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataProbe'])[1]/following::a[1]</value>
-      <webElementGuid>3372f30d-6242-4043-95e7-fa827bec6065</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Attribute Groups'])[1]/following::a[1]</value>
+      <webElementGuid>b619dae0-e64c-49b9-aae9-78a0184b7c86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MonitorPaaS'])[1]/following::a[1]</value>
-      <webElementGuid>1f348f47-f65e-42d0-94cf-fb9d438d3978</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Business Process'])[1]/following::a[2]</value>
+      <webElementGuid>2c74c60e-7ea4-4f34-9143-df51e26f82e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP File Explorer'])[1]/preceding::a[1]</value>
-      <webElementGuid>7996c1d6-bb87-4a6a-8b0f-e8a0cb3940b1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception Type'])[1]/preceding::a[1]</value>
+      <webElementGuid>38682215-3623-42b1-a6d1-1d82e197f26e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/preceding::a[2]</value>
-      <webElementGuid>bd8a1c98-5b63-4ecd-b747-3f39ddec6ac9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Remediation Plan'])[2]/preceding::a[2]</value>
+      <webElementGuid>216adb88-b4b3-4c67-9028-972e52a7b7d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage Snapshot']/parent::*</value>
-      <webElementGuid>4d921f86-796a-4770-baf3-0071e1dcdde2</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Manage Rule Tags']/parent::*</value>
+      <webElementGuid>0d6a1544-79f0-4e46-8d04-9c5bf95cd21f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1120:19:16337070006071:::19::')]</value>
-      <webElementGuid>b75eea56-be29-4659-a5aa-f48ffe0c1e2e</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1180:44:11183696717256:::44::')]</value>
+      <webElementGuid>0b3163d1-e9b1-4d15-89f8-2eb6be114328</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div[2]/a</value>
-      <webElementGuid>f9644aea-a74d-4c5d-aa78-5e3f850399fe</webElementGuid>
+      <value>//li[8]/ul/li[5]/div[2]/a</value>
+      <webElementGuid>b274b5b0-6e61-4e1f-b548-1da8d1936ce4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1120:19:16337070006071:::19::' and (text() = 'Manage Snapshot' or . = 'Manage Snapshot')]</value>
-      <webElementGuid>58dde842-b2a1-42b2-9a8c-a0444b585e2f</webElementGuid>
+      <value>//a[@href = 'f?p=1180:44:11183696717256:::44::' and (text() = 'Manage Rule Tags' or . = 'Manage Rule Tags')]</value>
+      <webElementGuid>8803b9c4-7e1d-4a4b-8ca1-455ae937b83f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

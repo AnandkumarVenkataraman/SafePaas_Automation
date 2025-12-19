@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Analytics</description>
+   <name>5. Analytics</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b553307-275d-41c0-85b0-99c75236ae1b</testCaseGuid>
+</TestCaseEntity>

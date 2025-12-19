@@ -44,8 +44,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File E
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data Source (4)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_6fdc1f (1)'), 
-    2)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_- Select an Environment -Coupa_Env1E_6fdc1f (1)'), 
+    'EBizApp_JDBC_Env', false)
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Data Source/input_Create_R119140564844328612_search_field (2)'), 
     'EBiz_JDBC_DS')
@@ -82,8 +82,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/bu
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_Manage Object (2)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Objects/select_- All -MonitorPaaSEnterprise Access _717d25'),
-	2)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Objects/select_- All -MonitorPaaSEnterprise Access _717d25'),
+	'Enterprise Access Monitor', false, FailureHandling.OPTIONAL)
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (1)'),
 	'EBiz_Attribute_JDBC')
@@ -312,11 +312,11 @@ def dtpEBSJob1 = 'DTPEBS_' + currentDateTime
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/a_DataProbe_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Snapshot/select_Object Set_P100_OBJECT_SET'), 7)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Snapshot/select_Object Set_P100_OBJECT_SET'), 'EBizApp_JDBC_ObjSet', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/button_Auto Refresh_B135207553892711001'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID'), 3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID'), 'EBiz_JDBC_DS', false)
 
 //WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID_1'), '4170',
 //	true)
@@ -363,7 +363,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Violation R
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Application Access Report_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Listing/select_Environment_P0_ENVIRONMENT'), 2)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_User Listing/select_Environment_P0_ENVIRONMENT'), 'EBizApp_JDBC_Env', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Listing/a_User Listing and access_a-TreeView-label'))
 WebUI.delay(2)
@@ -377,31 +377,31 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_User Entry Attribute 
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 1)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 'Responsibility', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 2)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 'Menu', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 'Function', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 4)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 'Grant', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 5)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 'Concurrent Program', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 6)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 'Role', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 7)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Entry Listing/select_Entry Type_P76_ENTRY_TYPE'), 'Request Group', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
@@ -453,8 +453,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File E
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Setup_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_Environment_P100_ENVIRONMENT'),
-	2)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_Environment_P100_ENVIRONMENT'),
+	'EBizApp_JDBC_Env', false)
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Data Source/input_Create_R119140564844328612_search_field (3)'),
 	'EBiz_JDBC_DS')
@@ -534,8 +534,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_DataProbe_a-TreeView-label (1)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Snapshot/select_Object Set_P100_OBJECT_SET (1)'),
-	7)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Snapshot/select_Object Set_P100_OBJECT_SET (1)'),
+	'EBizApp_JDBC_ObjSet', false)
 WebUI.delay(1)
 WebUI.takeScreenshot()
 

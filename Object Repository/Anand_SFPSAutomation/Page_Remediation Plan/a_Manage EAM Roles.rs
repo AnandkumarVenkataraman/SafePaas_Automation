@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_DataProbe_a-TreeView-label (1)</name>
+   <name>a_Manage EAM Roles</name>
    <tag></tag>
-   <elementGuidId>30de788c-bc19-4b7d-9a90-274db1e02c13</elementGuidId>
+   <elementGuidId>727cd8db-feb5-4591-ab9c-a7fec07f4c4e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Snapshot')]</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_175']/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Manage Snapshot&quot;i]</value>
+         <value>internal:role=treeitem[name=&quot;Manage EAM Roles&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b584da1c-abc0-4784-a1de-672ae4cbd855</webElementGuid>
+      <webElementGuid>ee8024a6-0cf6-40e3-a4f6-5c779ab98d79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c2c858e4-2a06-4aee-8f1c-df6b24399943</webElementGuid>
+      <webElementGuid>951a886a-02b8-4719-af53-2a2e1cc0f333</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>265bf541-ae5a-4acc-8e6a-4e78584f18d2</webElementGuid>
+      <webElementGuid>b437a2dc-90c4-4e1b-96fe-ce879b65146e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,23 +53,23 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>b1645a53-ef2a-4016-8d88-0ccd59edc455</webElementGuid>
+      <webElementGuid>04e08626-005c-4ab8-8290-d638e451e12a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1120:19:16337070006071:::19::</value>
-      <webElementGuid>a8f1e11d-8005-43a0-8147-66bd29c948c8</webElementGuid>
+      <value>f?p=1180:25:11183696717256:::25::</value>
+      <webElementGuid>49f5bf03-f761-4126-a061-ca79d0bdac30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-level</name>
       <type>Main</type>
-      <value>2</value>
-      <webElementGuid>59b19eaa-5c5d-4bc1-a027-c7b1165ebb79</webElementGuid>
+      <value>4</value>
+      <webElementGuid>ae686623-600e-4f3f-8052-216d58de89b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,102 +77,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>aad7ff1d-7740-42eb-8d7d-baa6d33034ee</webElementGuid>
+      <webElementGuid>1333629d-b392-4e2d-83d4-8f0091305a8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Manage Snapshot</value>
-      <webElementGuid>f2f2b3a8-135f-4719-890e-8db9cae40c58</webElementGuid>
+      <value>Manage EAM Roles</value>
+      <webElementGuid>6151b666-69f7-4f2a-9f90-6900bd3acded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_4&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>44119ea6-4a2e-4b7c-908f-e4aabf8f3d74</webElementGuid>
+      <value>id(&quot;t_TreeNav_175&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>54d929eb-7fd5-466b-94a2-b4dbbc2a739a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_4']/div[2]/a</value>
-      <webElementGuid>fc19f24a-5499-41f0-bed1-f79625a9cfb4</webElementGuid>
+      <value>//li[@id='t_TreeNav_175']/div[2]/a</value>
+      <webElementGuid>94c38f82-3782-4992-b5cb-c6529f24335c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Manage Snapshot')]</value>
-      <webElementGuid>16eaf04a-c486-4a0b-858e-190f472572eb</webElementGuid>
+      <value>//a[contains(text(),'Manage EAM Roles')]</value>
+      <webElementGuid>d2cf8b40-0a52-4887-8052-7393b341db45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataProbe'])[1]/following::a[1]</value>
-      <webElementGuid>3372f30d-6242-4043-95e7-fa827bec6065</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Remediation Plan'])[2]/following::a[1]</value>
+      <webElementGuid>4382dcfe-dd26-4133-afbb-06893565aef9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MonitorPaaS'])[1]/following::a[1]</value>
-      <webElementGuid>1f348f47-f65e-42d0-94cf-fb9d438d3978</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception Type'])[1]/following::a[2]</value>
+      <webElementGuid>082870f8-8ba8-41d7-8171-18142736c56d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SFTP File Explorer'])[1]/preceding::a[1]</value>
-      <webElementGuid>7996c1d6-bb87-4a6a-8b0f-e8a0cb3940b1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign EAM Roles'])[1]/preceding::a[1]</value>
+      <webElementGuid>16bf3614-6b96-4c9f-b37c-acebfad72e97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/preceding::a[2]</value>
-      <webElementGuid>bd8a1c98-5b63-4ecd-b747-3f39ddec6ac9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mass Update Exception Justifications'])[1]/preceding::a[2]</value>
+      <webElementGuid>096187f0-1261-452a-9538-bf1b5a5bcbbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Manage Snapshot']/parent::*</value>
-      <webElementGuid>4d921f86-796a-4770-baf3-0071e1dcdde2</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Manage EAM Roles']/parent::*</value>
+      <webElementGuid>3fdebcab-c14e-4411-ac69-afe7f8f80ecf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1120:19:16337070006071:::19::')]</value>
-      <webElementGuid>b75eea56-be29-4659-a5aa-f48ffe0c1e2e</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1180:25:11183696717256:::25::')]</value>
+      <webElementGuid>67e3e12b-81d4-4257-8ba4-7dbdc2593634</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div[2]/a</value>
-      <webElementGuid>f9644aea-a74d-4c5d-aa78-5e3f850399fe</webElementGuid>
+      <value>//li[8]/ul/li[8]/div[2]/a</value>
+      <webElementGuid>432d57fc-7439-4248-a090-cb73876a40b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1120:19:16337070006071:::19::' and (text() = 'Manage Snapshot' or . = 'Manage Snapshot')]</value>
-      <webElementGuid>58dde842-b2a1-42b2-9a8c-a0444b585e2f</webElementGuid>
+      <value>//a[@href = 'f?p=1180:25:11183696717256:::25::' and (text() = 'Manage EAM Roles' or . = 'Manage EAM Roles')]</value>
+      <webElementGuid>1bd62b64-9ff4-4988-bc35-50adc713aa84</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

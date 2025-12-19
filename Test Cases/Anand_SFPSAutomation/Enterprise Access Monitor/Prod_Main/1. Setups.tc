@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Setups</description>
+   <name>1. Setups</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87cea79b-f264-4ef0-8cda-608a48212985</testCaseGuid>
+</TestCaseEntity>

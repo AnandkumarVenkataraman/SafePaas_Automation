@@ -47,8 +47,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rules (4)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Select any oneCoupa_Env1EBizApp_JDBC_a5cb0e'), 
-    3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Select any oneCoupa_Env1EBizApp_JDBC_a5cb0e'), 
+    'EBiz_SFTP', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Approval Status (1)'))
 
@@ -251,8 +251,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/a_Manage Rule Tags_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Environment_P0_ENVIRONMENT'),
-	3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Environment_P0_ENVIRONMENT'),
+	'EBiz_SFTP', false)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Environment_P0_ENVIRONMENT'),
 	0)
@@ -340,7 +340,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Define Scope_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (1)'), 3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (1)'), 'EBiz_SFTP', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a'))
 
@@ -409,7 +409,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scop
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 'EBiz_SFTP', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Manage SOD Test_B169646823131451684'))
 WebUI.delay(10)
@@ -418,7 +418,7 @@ WebUI.delay(10)
 
 //WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_COMPONENT'), 2)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_SOD Objective_P30_TEST_TYPE_CODE'), 1)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_SOD Objective_P30_TEST_TYPE_CODE'), 1)//This indexing is for selecting SOD Detective
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/select_Rule Tags_P30_RULE_TAG_LEFT'), 'SFTP',
 	true)
@@ -471,14 +471,14 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scop
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 'EBiz_SFTP', false)
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage SOD Test/input_Create_R169645132708451655_search_field'), sodTST)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_-_u-tL'), 'Running', FailureHandling.OPTIONAL)
-WebUI.delay(300)
+WebUI.delay(600)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
 
@@ -520,15 +520,15 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scop
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label (1)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 'EBiz_SFTP', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_concat(Row text contains , , sodtest_4b92e9'), FailureHandling.OPTIONAL)
 
 //Verify in Manage Violations
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a_Manage SOD Test_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Violation/select_Environment_P74_ENVIRONMENT'),
-	3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Violation/select_Environment_P74_ENVIRONMENT'),
+	'EBiz_SFTP', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn'))
 
@@ -560,8 +560,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review Actions Details_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT'),
-	3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT'),
+	'EBiz_SFTP', false)
 
 //WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME'),
 //	1)
@@ -579,18 +579,18 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Re
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Violations by User Report_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Violation Matrix by User/select_Environment_P73_ENVIRONMENT'),
-	3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Violation Matrix by User/select_Environment_P73_ENVIRONMENT'),
+	'EBiz_SFTP', false)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Violation Matrix by User/select_Test Name_P73_TEST_NAME'),
-	1)
+	1)//This indexing is for selecting the SOD Test
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Violation Matrix by User/a_Violation Matrix by User_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Environment_P98_ENVIRONMENT'),
-	3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Environment_P98_ENVIRONMENT'),
+	'EBiz_SFTP', false)
 
 //WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Test Name_P98_TEST_NAME'),
 //	1)
@@ -608,11 +608,11 @@ WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Intra Role Violation Details Report/a_Intra Role Violation Details Report_a-Tre_fca8d0'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Aggregate Violation Report/select_Environment_P136_ENVIRONMENT'),
-	3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Aggregate Violation Report/select_Environment_P136_ENVIRONMENT'),
+	'EBiz_SFTP', false)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Aggregate Violation Report/select_Test Name_P136_TEST_NAME'),
-	1)
+	1)//This indexing is for selecting the SOD Test
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Aggregate Violation Report/span_ChefCHEF CULINAIR_a-IRR-pagination-label'),
 	'1 - 7 of 7')
@@ -623,18 +623,18 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Aggregate Violation R
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Aggregate Violation Report/a_Application Test Environment Reports_a-Tr_da745a'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Security Snapshot Details/select_Environment_P0_ENVIRONMENT'),
-	2)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Security Snapshot Details/select_Environment_P0_ENVIRONMENT'),
+	'Coupa_Env1', false)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Security Snapshot Details/a_Security Snapshot Details_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Test Environment Status Summary/select_Environment_P0_ENVIRONMENT'),
-	3)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Test Environment Status Summary/select_Environment_P0_ENVIRONMENT'),
+	'EBiz_SFTP', false)
 WebUI.delay(2)
 WebUI.takeScreenshot()
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Test Environment Status Summary/select_Environment_P0_ENVIRONMENT (1)'),
-	0)
+	0)//This indexing is not for Env. selection
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Test Environment Status Summary/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
@@ -648,15 +648,15 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scop
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Violation_a-TreeView-label'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Exception/select_Environment_P43_ENVIRONMENT'),
-	1)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Exception/select_Environment_P43_ENVIRONMENT'),
+	'Coupa_Env1', false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Exception/td_-_u-tL'), 'PERMISSION')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Exception/td_-_u-tL_1'), 'Approved')
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Exception/select_Environment_P43_ENVIRONMENT'),
-	0)
+	0)//This indexing is not for Env. selection
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Exception/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
@@ -670,8 +670,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review Actions Details_a-TreeView-label (1)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
-	1)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
+	'Coupa_Env1', false)
 
 //WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
 //	1)
@@ -701,10 +701,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Re
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/button_concat(Exception Status contains , ,_28a539'), FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
-	0, FailureHandling.OPTIONAL)
+	0, FailureHandling.OPTIONAL)//This indexing is not for Env. selection
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
-	0)
+	0)//This indexing is not for Env. selection
 
 //Logout
 WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))

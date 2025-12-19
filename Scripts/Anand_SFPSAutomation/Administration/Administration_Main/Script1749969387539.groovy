@@ -279,7 +279,7 @@ WebUI.click(findTestObject('Object Repository/Page_Home/span_Company Settings_a-
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/a_Scheduler'))
 
 WebUI.delay(10)
-
+//Pls. note -> The indexing used here is not related to Env.
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last 30 daysLast 60 daysLast 90 days_5f1203'), 
     1)
 

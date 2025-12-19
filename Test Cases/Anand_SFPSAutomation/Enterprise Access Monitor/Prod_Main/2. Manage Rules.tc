@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Manage Rules</description>
+   <name>2. Manage Rules</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cbe077ca-2399-4dc5-b073-e5bd5227e8ef</testCaseGuid>
+</TestCaseEntity>
