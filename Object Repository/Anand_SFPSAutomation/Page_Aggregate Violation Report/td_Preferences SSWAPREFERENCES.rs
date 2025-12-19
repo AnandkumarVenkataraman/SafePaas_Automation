@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Preferences SSWAPREFERENCES</name>
+   <tag></tag>
+   <elementGuidId>cc379e3b-6a81-46bc-b885-eb871f7ddc09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='272188078893351423_orig']/tbody/tr[7]/td[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tr:nth-child(7) > td:nth-child(7)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>db806975-7ed9-44ea-9ea9-2bcf24f98ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>d2b63104-c01c-426c-a448-a73889cabb11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C250765516024297949</value>
+      <webElementGuid>812ee54f-5fd0-4114-95c3-70a9df039154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Preferences SSWA[PREFERENCES]</value>
+      <webElementGuid>cca6d7c1-efe1-4e69-ad67-23ad97571a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;272188078893351423_orig&quot;)/tbody[1]/tr[7]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>610949b8-ae0a-41f7-b6ff-85bbe26a612f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='272188078893351423_orig']/tbody/tr[7]/td[7]</value>
+      <webElementGuid>200c4b2e-69e8-4764-adcd-e7569389acdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[11]/following::td[1]</value>
+      <webElementGuid>a9310f39-d73f-4da6-a53f-2e51bf25c83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBS_1'])[6]/following::td[2]</value>
+      <webElementGuid>f97a99fe-1531-4362-8bfe-99cfd075a352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBS_2'])[6]/preceding::td[2]</value>
+      <webElementGuid>b51c5b44-d1ed-470f-87f2-bd10ed7eb73f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibility'])[12]/preceding::td[3]</value>
+      <webElementGuid>bb0dafff-f831-4575-9d31-afe4333b6ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[7]</value>
+      <webElementGuid>6b6e30c3-abf8-4058-9dd4-ae9e54ae0aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Preferences SSWA[PREFERENCES]' or . = 'Preferences SSWA[PREFERENCES]')]</value>
+      <webElementGuid>e5d8cc8e-8e8a-471e-b21b-c6ee35fa1c59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
