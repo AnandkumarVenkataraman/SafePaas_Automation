@@ -140,9 +140,9 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job De
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (8)'), 
     'This SOD Test is initiated by QA Automation, for EBS')
-
+WebUI.takeScreenshot()
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Create (3)'))
-
+WebUI.takeScreenshot()
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/h2_Job initiated SODTST_1912_V5_20251219015_4e0cf8'), 
     'Job initiated: SODTST_1912_V5_202512190158.SOD Test initiated successfully.', FailureHandling.OPTIONAL)
 
@@ -158,7 +158,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Company Settings_a-TreeView-toggle (12)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Scheduler'))
-
+WebUI.delay(10)
+WebUI.takeScreenshot()
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/td_SODTST_1912_V5_202512190158'), 
     'SODTST_1912_V5_202512190158', FailureHandling.OPTIONAL)
 
@@ -185,9 +186,9 @@ WebUI.delay(300) //wait for 5 min. for the SOD Test to complete
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Go (1)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/td_Closed'), 'Closed')
-
+WebUI.takeScreenshot()
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/a_Test Log (1)'))
-
+WebUI.takeScreenshot()
 WebUI.delay(45)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/button_Error Gateway Time-out_t-Button t-Bu_6e42e6'), FailureHandling.OPTIONAL)

@@ -50,10 +50,14 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/img_EBS_1_apex-edit-page'))
 
+WebUI.takeScreenshot()
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/td_Asset Inquiry vs. General Ledger Rule2'), 
     0, FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/span_Entry (1)'))
+
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Responsibility_apex-edit-view'))
 
@@ -94,6 +98,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/img_EBS_1_apex-edit-page'))
 
+WebUI.takeScreenshot()
+
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/td_Asset Inquiry vs. General Ledger Rule2'), 
     'Asset Inquiry vs. General Ledger Rule2', FailureHandling.OPTIONAL)
 
@@ -101,6 +107,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
     'EBizApp_JDBC_Env', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/span_Entry (1)'))
+
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Responsibility_apex-edit-view'))
 
@@ -157,11 +165,15 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/img_EBS_1_apex-edit-page'))
 
+WebUI.takeScreenshot()
+
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/td_EBizApp_JDBC_Env'), 
     'EBizApp_JDBC_Env', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/td_Sales Invoicing and AR Receipts2'), 
     'Sales Invoicing and AR Receipts2', FailureHandling.OPTIONAL)
+
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/span_Entry (1)'))
 
@@ -196,6 +208,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/img_EBS_1_apex-edit-page'))
 
+WebUI.takeScreenshot()
+
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/td_EBizApp_JDBC_Env'), 
     'EBizApp_JDBC_Env', FailureHandling.OPTIONAL)
 
@@ -215,6 +229,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
     'Customer Master and Order Entry4', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/span_Entry (1)'))
+
+WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Responsibility_apex-edit-view'))
 
@@ -245,6 +261,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_concat(Row text contains , , EBS_1, _c0584b'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/a_Manage Business Process (1)'))
+
+WebUI.takeScreenshot()
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Business Process/td_AR'), 'AR', FailureHandling.OPTIONAL)
 
@@ -300,6 +318,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Attribute Grouping/a_Manage Rule Tags'))
 
+WebUI.takeScreenshot()
+
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/td_EBiz'), 'EBiz', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/td_EBiz_1'), 'EBiz', FailureHandling.OPTIONAL)
@@ -310,7 +330,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Select any oneCoupa_Env1EBizApp_JDBC_e66b03'), 
     'EBizApp_JDBC_Env', false)
-
+WebUI.takeScreenshot()
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/td_Function (1)'), 'Function', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/td_Exception by Function'), 
@@ -343,7 +363,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
     0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/a_Manage Remediation Plan (2)'))
-
+WebUI.takeScreenshot()
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_REMEDIATION_PLAN3'), 
     'REMEDIATION_PLAN3', FailureHandling.OPTIONAL)
 
@@ -360,7 +380,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
     'MITIGATION_PLAN1', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/a_Manage EAM Roles'))
-
+WebUI.takeScreenshot()
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/td_KTLN_ADMIN_EAM'), 
     'KTLN_ADMIN_EAM', FailureHandling.OPTIONAL)
 
@@ -372,11 +392,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/td_RoleTest1_1'), 'RoleTest1', FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/img_Actions_apex-edit-page'))
-
+WebUI.takeScreenshot()
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Define Security/button_Cancel'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/img_EAM_apex-edit-page'))
-
+WebUI.takeScreenshot()
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Define Security/button_Cancel'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/a_Inbox'))
