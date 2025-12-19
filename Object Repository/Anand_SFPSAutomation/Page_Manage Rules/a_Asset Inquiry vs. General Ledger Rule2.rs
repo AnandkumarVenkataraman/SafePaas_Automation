@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Asset Inquiry vs. General Ledger Rule2</name>
+   <tag></tag>
+   <elementGuidId>42f1a3a1-da8a-4b3e-8776-89fe724ffa6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tL > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='247793320273899118']/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Asset Inquiry vs. General Ledger Rule2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7ec900a-c510-4098-9060-ad0b653f5559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:9:14981579094786::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:31258,31256,7</value>
+      <webElementGuid>01952386-fc29-48ec-8b1e-a08e5324bbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Inquiry vs. General Ledger Rule2</value>
+      <webElementGuid>4d245981-636f-42b2-84fd-58a78b33fcae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;247793320273899118&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>f6011bef-d009-4093-8bcf-21efb5110c8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='247793320273899118']/tbody/tr[2]/td/a</value>
+      <webElementGuid>75094b31-9af3-4f7e-942f-031f54440468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Asset Inquiry vs. General Ledger Rule2')]</value>
+      <webElementGuid>3a7fcb53-92e9-4f3d-bd6e-dbde5b241dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inquiry vs. Ge...'])[1]/following::a[17]</value>
+      <webElementGuid>ac9dd835-5fd7-4fff-842b-77d4ce43fcd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inquiry vs. General Ledger Rule'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5910e57-11fa-4863-88b4-81f4979573de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[1]/preceding::a[1]</value>
+      <webElementGuid>52a10517-a843-49b5-b94a-2210961b1504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset Inquiry vs. General Ledger Rule2']/parent::*</value>
+      <webElementGuid>918245d6-dd24-4e58-9e77-fa9d6708af97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:9:14981579094786::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:31258,31256,7')]</value>
+      <webElementGuid>83d051bc-7ec8-4b45-8ca9-ceb2d0ae2b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>3e626109-b3c2-4ff5-9379-3ca679ade951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:9:14981579094786::::P9_RULE_REV_ID,P9_RULE_ID,P9_FROM:31258,31256,7' and (text() = 'Asset Inquiry vs. General Ledger Rule2' or . = 'Asset Inquiry vs. General Ledger Rule2')]</value>
+      <webElementGuid>f2636999-41d9-48ff-a137-a9a855bae66b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
