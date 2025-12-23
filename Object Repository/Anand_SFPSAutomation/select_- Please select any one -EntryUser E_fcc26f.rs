@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any one -EntryUser E_fcc26f</name>
+   <tag></tag>
+   <elementGuidId>8fe75b79-cc45-4482-bbe9-9fe78d17f8a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;P47_SECONDARY_DS&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P47_SEC_OBJ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Security Object (Value Required)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9e7862b6-2810-432a-a5e9-4b4cd2f2fe28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P47_SEC_OBJ</value>
+      <webElementGuid>7d038567-9dc8-4d66-a4a1-4a958dcea543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P47_SEC_OBJ</value>
+      <webElementGuid>1a5bfdee-c9f5-4f7e-8ae9-f8f146c597f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>393f7c7b-cf5a-41a0-8e94-fabc8a133018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3242d872-b775-4767-be6b-96d2ced8ffe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>cb0b9355-4263-4f5a-9a6b-db6d013b1ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any one -
+Entry
+User Entry Attribute
+Users
+</value>
+      <webElementGuid>9313b49c-25df-4472-9845-30c4fcdd6510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P47_SEC_OBJ&quot;)</value>
+      <webElementGuid>6da1b25b-c28c-4a5c-ae70-fe9aac2bd6d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P47_SEC_OBJ']</value>
+      <webElementGuid>43f36e8e-eb7c-463e-b47e-56620d2b4681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P47_SEC_OBJ_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>764029e8-462f-4acc-b79f-926b26146a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::select[1]</value>
+      <webElementGuid>ee0f3519-e18a-4b48-8676-f91bda58b21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stop Secondary Datasource Hierarchy at Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>0e9aee22-d757-45ee-a39c-ad617a455a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Identity Security Data'])[1]/preceding::select[2]</value>
+      <webElementGuid>c031ffec-b54d-44fe-8385-13a760e462be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>2c61d65c-0749-418d-8ebd-23ffe1acd3d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P47_SEC_OBJ' and @name = 'P47_SEC_OBJ' and (text() = '- Please select any one -
+Entry
+User Entry Attribute
+Users
+' or . = '- Please select any one -
+Entry
+User Entry Attribute
+Users
+')]</value>
+      <webElementGuid>def37e8d-9de4-483d-8846-d4090a266351</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

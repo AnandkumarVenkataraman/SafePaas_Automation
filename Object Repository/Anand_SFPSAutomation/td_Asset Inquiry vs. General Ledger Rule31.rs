@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Asset Inquiry vs. General Ledger Rule31</name>
+   <tag></tag>
+   <elementGuidId>9d608544-9184-4f7f-9ec3-8bf391e16a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td.u-tL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='297855708490470102_orig']/tbody/tr[5]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Asset Inquiry vs. General Ledger Rule31&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5cb312b9-e52e-4931-8b3b-97e762e79fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>0d0babd1-05a7-4013-9915-59e61770c5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C297855860948470103</value>
+      <webElementGuid>0ee94378-be9d-4243-a649-01cb846485ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Inquiry vs. General Ledger Rule31</value>
+      <webElementGuid>de004352-3d34-49d4-b178-a86291550c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;297855708490470102_orig&quot;)/tbody[1]/tr[5]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>170b0e5e-2edf-403a-ae08-e818963ba200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='297855708490470102_orig']/tbody/tr[5]/td</value>
+      <webElementGuid>db295add-1da8-4c53-83d0-ae774c1faa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBiz'])[4]/following::td[1]</value>
+      <webElementGuid>2d16569a-1fd5-4a29-a057-8d0ad0303f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DT'])[3]/following::td[2]</value>
+      <webElementGuid>b2d6ab60-c80f-4f6b-b244-b8070d8db761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inquiry vs. General Ledger Rule'])[2]/preceding::td[1]</value>
+      <webElementGuid>2e939e50-9ee5-4a59-8b64-e24b561c96cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SET'])[4]/preceding::td[4]</value>
+      <webElementGuid>f3ad0f4e-4bcd-4153-968e-93007216bf2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset Inquiry vs. General Ledger Rule31']/parent::*</value>
+      <webElementGuid>0af1ef70-024c-476d-a198-4f4c1b3a651f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>fc9d9a02-83ea-4a73-b4a9-026c1b4d7e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Asset Inquiry vs. General Ledger Rule31' or . = 'Asset Inquiry vs. General Ledger Rule31')]</value>
+      <webElementGuid>77b9e204-6bb6-4bf2-aea0-1ba2ab57e1e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

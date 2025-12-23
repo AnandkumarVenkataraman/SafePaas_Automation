@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select any one -Coupa_Env1EBiz_SFT_11e0a1</name>
+   <tag></tag>
+   <elementGuidId>74c9f6d9-6055-49eb-8521-1a4691919aa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;P47_STOP_HIERARCHY_AT_TYPE_ID&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P47_SECONDARY_DS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Secondary Source (Value Required)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8593d904-84c5-4515-92cb-338f52612b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P47_SECONDARY_DS</value>
+      <webElementGuid>a2fcb463-f76e-4393-abaa-d2c4a416ffa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P47_SECONDARY_DS</value>
+      <webElementGuid>96e27b6d-a56e-4931-a396-4ebc6613fbce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>292d4b96-ce0a-4384-960e-ea9d563b11c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7f321ead-c878-483a-aa0b-3ac3035b20db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b0606c8a-7087-4d32-95ca-76e78a20f892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select any one -
+Coupa_Env1EBiz_SFTPIDM_CoupaJDE_EnvJDE_TESTKTLNEBS_MonitorPaaSKTLN_CloudERPKyriba_Env1MAJUL_EBSMXYZNEW_CLOUDERPOS_IDM_CopySailPoint_EnvSailPoint_ENV2SAP_DEMOSAP_ECCSAP_S4HANAServiceCafe_EnvSFTP_Env2SUCCESSFACTORS_ENVTest_EnvironmentTest_Environment2Test_Environment3_HybrisTest_Environment4_CloudERPTest_IDMTEST_JDE92_ENVTririgaDB_EnvTririga_EnvTririga_OSWorkDayEnv_1WorkDayEnv_3WorkDay_EnvWorkDay_Env2Y_DEV_OS_ENV_CopyZ_AzureZ_EBSR12_2Z_EBS_TestEnv.Z_EBS_XRef1Z_Hybris_EnvZ_ServiceNowZ_SuccessFactorZ_SUCCESSFACTORS_ENV</value>
+      <webElementGuid>59ab9dbb-4e4e-4861-867b-3d18bcf63e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P47_SECONDARY_DS&quot;)</value>
+      <webElementGuid>4c19e1ae-637a-4257-9d17-314823cfa7f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P47_SECONDARY_DS']</value>
+      <webElementGuid>6ef3e51a-b182-4a72-acdc-3020e4f5eb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P47_SECONDARY_DS_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>e0b55bbc-d86a-4343-8537-7694e8b55f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/following::select[1]</value>
+      <webElementGuid>99b8262f-f4ec-4d6d-93c4-8c454b732668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>45c4f65b-0055-41b6-a978-40a49f77f1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>40c2de04-7897-46c0-aab5-a064ecbfb7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P47_SECONDARY_DS' and @name = 'P47_SECONDARY_DS' and (text() = '- Select any one -
+Coupa_Env1EBiz_SFTPIDM_CoupaJDE_EnvJDE_TESTKTLNEBS_MonitorPaaSKTLN_CloudERPKyriba_Env1MAJUL_EBSMXYZNEW_CLOUDERPOS_IDM_CopySailPoint_EnvSailPoint_ENV2SAP_DEMOSAP_ECCSAP_S4HANAServiceCafe_EnvSFTP_Env2SUCCESSFACTORS_ENVTest_EnvironmentTest_Environment2Test_Environment3_HybrisTest_Environment4_CloudERPTest_IDMTEST_JDE92_ENVTririgaDB_EnvTririga_EnvTririga_OSWorkDayEnv_1WorkDayEnv_3WorkDay_EnvWorkDay_Env2Y_DEV_OS_ENV_CopyZ_AzureZ_EBSR12_2Z_EBS_TestEnv.Z_EBS_XRef1Z_Hybris_EnvZ_ServiceNowZ_SuccessFactorZ_SUCCESSFACTORS_ENV' or . = '- Select any one -
+Coupa_Env1EBiz_SFTPIDM_CoupaJDE_EnvJDE_TESTKTLNEBS_MonitorPaaSKTLN_CloudERPKyriba_Env1MAJUL_EBSMXYZNEW_CLOUDERPOS_IDM_CopySailPoint_EnvSailPoint_ENV2SAP_DEMOSAP_ECCSAP_S4HANAServiceCafe_EnvSFTP_Env2SUCCESSFACTORS_ENVTest_EnvironmentTest_Environment2Test_Environment3_HybrisTest_Environment4_CloudERPTest_IDMTEST_JDE92_ENVTririgaDB_EnvTririga_EnvTririga_OSWorkDayEnv_1WorkDayEnv_3WorkDay_EnvWorkDay_Env2Y_DEV_OS_ENV_CopyZ_AzureZ_EBSR12_2Z_EBS_TestEnv.Z_EBS_XRef1Z_Hybris_EnvZ_ServiceNowZ_SuccessFactorZ_SUCCESSFACTORS_ENV')]</value>
+      <webElementGuid>4aa2e36c-2363-43ad-87df-da9bde73c770</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

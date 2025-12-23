@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_FSOD.FSOD_USER_ALL.USER_NAME  FSOD.FSOD__e2754c</name>
+   <tag></tag>
+   <elementGuidId>1065e959-0d0d-42fb-94d0-2f8d4fc17aea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='289854546652879701_orig']/tbody/tr[2]/td[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;FSOD.FSOD_USER_ALL.USER_NAME = FSOD.FSOD_USER_ALL.USER_NAME&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>fd02509d-4e14-4c0d-b629-e4532d288174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>d3551c6a-db8c-44b4-a91b-14b009b35440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C289855169262879707</value>
+      <webElementGuid>31a7da24-6a7f-4e7c-bae8-bcbeadd7e38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FSOD.FSOD_USER_ALL.USER_NAME = FSOD.FSOD_USER_ALL.USER_NAME</value>
+      <webElementGuid>8b58a88c-b9ca-4e91-8132-e190c868ea23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;289854546652879701_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>f74b5563-08c4-4a4b-acac-97ce24a9be68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='289854546652879701_orig']/tbody/tr[2]/td[7]</value>
+      <webElementGuid>9e3f67ac-dfff-4875-a327-7b765813174b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::td[1]</value>
+      <webElementGuid>2dfdd8a7-a3d7-4beb-9a43-bb036c8f4638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operations'])[2]/following::td[2]</value>
+      <webElementGuid>db907260-c993-4922-839d-cf2027f78bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::td[1]</value>
+      <webElementGuid>0e81aa9c-233f-45ac-94e3-bc6dfa4d8166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Screen Reader Mode On'])[1]/preceding::td[1]</value>
+      <webElementGuid>5e8ab89d-959e-468a-9c9c-85f1ba06f45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FSOD.FSOD_USER_ALL.USER_NAME = FSOD.FSOD_USER_ALL.USER_NAME']/parent::*</value>
+      <webElementGuid>a9523e42-4615-4132-8793-399e00bdb49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>3ca28958-67ec-4a60-8b62-07121ca8192e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'FSOD.FSOD_USER_ALL.USER_NAME = FSOD.FSOD_USER_ALL.USER_NAME' or . = 'FSOD.FSOD_USER_ALL.USER_NAME = FSOD.FSOD_USER_ALL.USER_NAME')]</value>
+      <webElementGuid>96018bd3-9f77-453a-b1b0-ccada3c52538</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

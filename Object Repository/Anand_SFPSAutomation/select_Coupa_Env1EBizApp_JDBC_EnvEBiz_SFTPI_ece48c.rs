@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Coupa_Env1EBizApp_JDBC_EnvEBiz_SFTPI_ece48c</name>
+   <tag></tag>
+   <elementGuidId>6e19178c-1265-4142-9a4e-9c9e6c1fb85a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_CROSS_ENVIRONMENTS_LEFT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_CROSS_ENVIRONMENTS_LEFT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Cross Environments&quot;i] >> internal:attr=[title=&quot;Move from&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dc9712f4-35a8-4a67-a7dc-8869bda40f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Move from</value>
+      <webElementGuid>9645fbbc-0c8b-43aa-816b-6d3fb074f66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>30681873-fc0c-4f74-8efc-136b1b88f9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_CROSS_ENVIRONMENTS_LEFT</value>
+      <webElementGuid>12f7e104-e1d8-4fa2-b017-9300f579d7d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>5d30b82a-8715-4710-a7ae-84e7b3ee4d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shuttle_left apex-item-select</value>
+      <webElementGuid>3541104a-a2f8-48ae-a2d1-62294f838f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+IDM_Coupa
+JDE_Env
+JDE_TEST
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+Kyriba_Env1
+MAJUL_EBS
+MXYZ
+NEW_CLOUDERP
+OS_IDM_Copy
+SAP_DEMO
+SAP_ECC
+SAP_S4HANA
+SFTP_Env2
+SUCCESSFACTORS_ENV
+SailPoint_ENV2
+SailPoint_Env
+ServiceCafe_Env
+TEST_JDE92_ENV
+Test_Environment
+Test_Environment2
+Test_Environment3_Hybris
+Test_Environment4_CloudERP
+Test_IDM
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDayEnv_1
+WorkDayEnv_3
+WorkDay_Env
+WorkDay_Env2
+Y_DEV_OS_ENV_Copy
+Z_Azure
+Z_EBSR12_2
+Z_EBS_TestEnv.
+Z_EBS_XRef1
+Z_Hybris_Env
+Z_SUCCESSFACTORS_ENV
+Z_ServiceNow
+Z_SuccessFactor
+</value>
+      <webElementGuid>0fe68589-9913-4c2c-88e9-55e8445b2f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_CROSS_ENVIRONMENTS_LEFT&quot;)</value>
+      <webElementGuid>85772a4a-571d-47e5-93a2-9d48fdb6c081</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_CROSS_ENVIRONMENTS_LEFT']</value>
+      <webElementGuid>702b8e85-fef0-4393-bfc9-2f13ff60204a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_CROSS_ENVIRONMENTS']/table/tbody/tr/td/select</value>
+      <webElementGuid>e9882f83-2650-4e1f-a840-737b864d4ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cross Environments'])[1]/following::select[1]</value>
+      <webElementGuid>cbbe6800-1664-4e9b-a20f-adaa90a2a255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Tags'])[1]/following::select[3]</value>
+      <webElementGuid>37e5a5d0-0156-4bca-9896-6b527a189031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclude Mitigated Violations'])[1]/preceding::select[2]</value>
+      <webElementGuid>51c386b5-761c-46ab-b763-99f42300ce87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Objects'])[1]/preceding::select[2]</value>
+      <webElementGuid>b2d50612-ed0f-44dc-9800-741c577d776f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[2]/div/div/table/tbody/tr/td/select</value>
+      <webElementGuid>6706860f-aba2-4e96-8f9f-14666468f2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Move from' and @id = 'P30_CROSS_ENVIRONMENTS_LEFT' and (text() = '
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+IDM_Coupa
+JDE_Env
+JDE_TEST
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+Kyriba_Env1
+MAJUL_EBS
+MXYZ
+NEW_CLOUDERP
+OS_IDM_Copy
+SAP_DEMO
+SAP_ECC
+SAP_S4HANA
+SFTP_Env2
+SUCCESSFACTORS_ENV
+SailPoint_ENV2
+SailPoint_Env
+ServiceCafe_Env
+TEST_JDE92_ENV
+Test_Environment
+Test_Environment2
+Test_Environment3_Hybris
+Test_Environment4_CloudERP
+Test_IDM
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDayEnv_1
+WorkDayEnv_3
+WorkDay_Env
+WorkDay_Env2
+Y_DEV_OS_ENV_Copy
+Z_Azure
+Z_EBSR12_2
+Z_EBS_TestEnv.
+Z_EBS_XRef1
+Z_Hybris_Env
+Z_SUCCESSFACTORS_ENV
+Z_ServiceNow
+Z_SuccessFactor
+' or . = '
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+IDM_Coupa
+JDE_Env
+JDE_TEST
+KTLNEBS_MonitorPaaS
+KTLN_CloudERP
+Kyriba_Env1
+MAJUL_EBS
+MXYZ
+NEW_CLOUDERP
+OS_IDM_Copy
+SAP_DEMO
+SAP_ECC
+SAP_S4HANA
+SFTP_Env2
+SUCCESSFACTORS_ENV
+SailPoint_ENV2
+SailPoint_Env
+ServiceCafe_Env
+TEST_JDE92_ENV
+Test_Environment
+Test_Environment2
+Test_Environment3_Hybris
+Test_Environment4_CloudERP
+Test_IDM
+TririgaDB_Env
+Tririga_Env
+Tririga_OS
+WorkDayEnv_1
+WorkDayEnv_3
+WorkDay_Env
+WorkDay_Env2
+Y_DEV_OS_ENV_Copy
+Z_Azure
+Z_EBSR12_2
+Z_EBS_TestEnv.
+Z_EBS_XRef1
+Z_Hybris_Env
+Z_SUCCESSFACTORS_ENV
+Z_ServiceNow
+Z_SuccessFactor
+')]</value>
+      <webElementGuid>4e30df37-a464-4afa-baf6-af495defd141</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

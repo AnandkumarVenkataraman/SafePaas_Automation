@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test Log</name>
+   <tag></tag>
+   <elementGuidId>54f95469-4a42-4593-97e0-b4a23b8ddc13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='169645300712451664']/tbody/tr[2]/td[12]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Test Log&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>41718987-4ab2-4f25-8376-00b56fe548cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1001:10:2949949737046:::RP,RIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:12968,Y</value>
+      <webElementGuid>c2d197e9-2da2-41d7-b763-5582e949dede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Log</value>
+      <webElementGuid>56dd20e6-5b7e-480c-b07b-769a9d0e8878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;169645300712451664&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>959af7e1-8d87-4921-beaa-d9a4c6e6accd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='169645300712451664']/tbody/tr[2]/td[12]/a</value>
+      <webElementGuid>5230d9e0-90e2-4fe9-80cd-86f9c621b4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test Log')]</value>
+      <webElementGuid>65e550e2-a5e6-46f8-90c4-4ec0d2b30914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KATALON_ADMIN'])[1]/following::a[1]</value>
+      <webElementGuid>9a5ab5a2-a79b-4404-b8a1-9190d787b779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed'])[1]/following::a[1]</value>
+      <webElementGuid>8a971fbe-5526-4e8c-b32d-7d54343915aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::a[1]</value>
+      <webElementGuid>b428ddfa-7580-4d76-aed4-981af221c21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::a[1]</value>
+      <webElementGuid>d4569064-c016-441e-ba04-e80bac189f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test Log']/parent::*</value>
+      <webElementGuid>bfa43e10-acb0-4e89-b79e-81a4c5bebfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1001:10:2949949737046:::RP,RIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:12968,Y')]</value>
+      <webElementGuid>442131e1-0623-4a22-99bb-e32ecc88c291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/a</value>
+      <webElementGuid>8f1e90d0-7c8e-4f29-a915-0c941dcf34e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1001:10:2949949737046:::RP,RIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:12968,Y' and (text() = 'Test Log' or . = 'Test Log')]</value>
+      <webElementGuid>e4cb196a-03af-4882-b9b0-2d15b3f82df5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
