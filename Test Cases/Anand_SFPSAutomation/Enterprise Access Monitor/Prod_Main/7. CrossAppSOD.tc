@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. CrossAppSOD</description>
+   <name>7. CrossAppSOD</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca23c442-9257-4e4a-926d-745e7f31e011</testCaseGuid>
+</TestCaseEntity>
