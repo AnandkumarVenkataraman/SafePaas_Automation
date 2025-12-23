@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Administration</description>
-   <name>Administration_Main</name>
-   <tag>Administration</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>87a9328b-77a6-4d96-b9aa-e6623cf6fc70</testCaseGuid>
-</TestCaseEntity>

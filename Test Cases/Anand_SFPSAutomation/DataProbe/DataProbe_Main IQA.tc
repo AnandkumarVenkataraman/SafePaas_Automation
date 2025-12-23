@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DTP</description>
+   <name>DataProbe_Main IQA</name>
+   <tag>DTP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f375fd7-4b56-4d90-9a1e-896d204e40de</testCaseGuid>
+</TestCaseEntity>

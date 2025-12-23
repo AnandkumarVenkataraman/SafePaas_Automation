@@ -6,12 +6,12 @@
    <elementGuidId>05133663-1138-4c49-9e39-4974aaa04c5d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#P101_COMPANY</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='P101_COMPANY']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P101_COMPANY</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4cee67f5-2f4d-4495-8c61-c305c8dafadf</webElementGuid>
+      <webElementGuid>18cac053-5f70-411c-bca0-c3cac5201b38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>88c35fb6-9d8c-4c3b-bb58-014d927750b0</webElementGuid>
+      <webElementGuid>e9f41e25-de5c-4046-b121-40df252c7c10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>P101_COMPANY</value>
-      <webElementGuid>9a23eaa9-6107-4be7-9b1c-9ed27c2345f2</webElementGuid>
+      <webElementGuid>dfb220b1-fe3d-4103-a905-facb3d85a59f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>P101_COMPANY</value>
-      <webElementGuid>500a1f9b-787a-4793-98ed-61574224c345</webElementGuid>
+      <webElementGuid>d9799e48-8ba7-4cee-9d9e-26f6fc031b05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Company</value>
-      <webElementGuid>7cbdea1b-3e36-4e12-96eb-3d9e1a88876f</webElementGuid>
+      <webElementGuid>ddbe2686-6c94-446e-a1a8-16cce7bbd343</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text_field apex-item-text apex-item-has-icon</value>
-      <webElementGuid>463c3b40-27f8-4273-8eb3-84462714bc05</webElementGuid>
+      <webElementGuid>5dad34a2-4943-4c60-a371-d9801f35ac69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>size</name>
       <type>Main</type>
       <value>39</value>
-      <webElementGuid>2be23e9d-a9fb-4591-903c-e0023ac66801</webElementGuid>
+      <webElementGuid>4e2a58e3-6f38-45f7-ae60-31b06d06fd92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>2000</value>
-      <webElementGuid>0539ed8a-fc70-446b-8ef5-b7458c5b99bc</webElementGuid>
+      <webElementGuid>eefc9344-5940-4e7b-bd82-59639264383c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-trim-spaces</name>
       <type>Main</type>
       <value>NONE</value>
-      <webElementGuid>a091ba3f-a09c-4d74-8c67-c499243c8c70</webElementGuid>
+      <webElementGuid>edaefb92-acc5-4e9f-aeb3-b251137ebc16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;P101_COMPANY&quot;)</value>
-      <webElementGuid>28764bb9-9dad-4545-a21a-9e322d70ffe7</webElementGuid>
+      <webElementGuid>346d849a-613b-4119-849c-00e8c9af115f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='P101_COMPANY']</value>
-      <webElementGuid>44889420-b1b6-4fa4-92ef-540ba002ec05</webElementGuid>
+      <webElementGuid>80ed7b9d-62dd-4a4c-bfcd-2856abffe0d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='P101_COMPANY_CONTAINER']/div[2]/div/input</value>
-      <webElementGuid>a7596741-c942-4826-9d07-1475f2685e58</webElementGuid>
+      <webElementGuid>00e703b0-b50b-498e-abbe-9609103b68c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/input</value>
-      <webElementGuid>05d0ca03-6e7a-404e-925b-fac3dc75a889</webElementGuid>
+      <webElementGuid>eb53bcda-010b-470b-a1dd-c04fbb7cc25b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'P101_COMPANY' and @name = 'P101_COMPANY' and @placeholder = 'Company']</value>
-      <webElementGuid>335f55af-d4b5-42e7-b597-9d8ef82ea7f7</webElementGuid>
+      <webElementGuid>a028ca1e-b5c5-434a-a2b7-f4e0cc724126</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
