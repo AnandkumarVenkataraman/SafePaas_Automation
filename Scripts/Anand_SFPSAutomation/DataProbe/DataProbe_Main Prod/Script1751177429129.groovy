@@ -23,6 +23,8 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 
+WebUI.delay(10)
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
@@ -74,9 +76,9 @@ WebUI.back()
 //
 //WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Data Source (4)'))
 //
-//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Active contains , , Yes, , )__d41043'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Active contains , , Yes, , )__d41043'), FailureHandling.OPTIONAL)
 //
-//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Active contains , , Yes, , )__d41043'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Active contains , , Yes, , )__d41043'), FailureHandling.OPTIONAL)
 
 //Manage Objects
 //Attribute

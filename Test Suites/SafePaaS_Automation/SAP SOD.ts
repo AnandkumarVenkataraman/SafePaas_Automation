@@ -60,4 +60,32 @@
       <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/SAP/5. Restricted Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>17b3d902-9d08-468b-b7e1-d68d0d2de13b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/DataProbe/DataProbe_Main IQA</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7c608ed9-328f-46dc-ac5f-220c969d09f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Administration/Administration_Main IQA</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>caca95ab-baec-467f-9cfe-c3c0a0f93ae5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Certification/EACM_Main</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>db2bdb5d-a1e8-4724-98b3-1ae94f949f5b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/EAM_Main</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
