@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create (4)</name>
+   <tag></tag>
+   <elementGuidId>f3f05fdb-8f15-4b94-b298-f8bea33dc808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[68]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.js-confirmBtn.ui-button.ui-corner-all.ui-widget.ui-button--hot</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;SOD Test Validation&quot;i >> internal:role=button[name=&quot;Create&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d01441b5-19c0-4f4b-9e0e-298fa7dcb812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f89a494b-09c5-4330-ab04-18c6fed0c1e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot</value>
+      <webElementGuid>f0467b41-c139-40be-b193-ad1b0b5fb530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>89ddaa58-974e-479d-bf21-6ab843801f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-dialog--notification ui-dialog--hasTitle ui-dialog--modern ui-dialog--warning ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot&quot;]</value>
+      <webElementGuid>920205bf-57d1-46cc-89f7-ee001e7df38e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[68]</value>
+      <webElementGuid>fdf6e7e4-cce9-4e08-bf65-d77116d241ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='t_PageBody']/div[27]/div[3]/div/button[2]</value>
+      <webElementGuid>381cb82c-e778-48fb-8037-362960a13d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::button[1]</value>
+      <webElementGuid>56563a65-f5fc-4fdf-9582-5593f1d94a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOD Test Validation'])[1]/following::button[2]</value>
+      <webElementGuid>43c4d88f-f31f-4419-bc28-ae0533a753be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button[2]</value>
+      <webElementGuid>2441c71d-8034-4b89-915f-e95bb37822aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>d3da957a-6d99-4dc8-af94-a7d1ea3f9086</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

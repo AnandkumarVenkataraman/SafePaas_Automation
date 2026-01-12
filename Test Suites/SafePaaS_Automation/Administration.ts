@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>1_SnapshotExtract for EIA</name>
+   <description>Administration</description>
+   <name>Administration</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>3</numberOfRerun>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>10</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>435113c5-07c8-44aa-bfc0-a7f3d86eb231</testSuiteGuid>
+   <testSuiteGuid>9d16797e-474d-4121-a32c-7a4d7671f0a3</testSuiteGuid>
    <testCaseLink>
-      <guid>f011743a-ca31-4e8e-81ee-386cf3ccc415</guid>
+      <guid>ef66df52-3a93-4858-b9cb-9acd721cd609</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Enterprise IAccess/1_Snapshot Extract for EIA_Network Users_Active Directory</testCaseId>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Administration/Administration_Main Prod</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

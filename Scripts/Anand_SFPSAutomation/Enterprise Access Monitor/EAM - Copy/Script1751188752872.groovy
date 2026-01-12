@@ -23,14 +23,9 @@ import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl('https://us01n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/button_Test Name_P98_TEST_NAME_lov_btn (1)'))
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/input_Search_a-PopupLOV-search apex-item-text (1)'), 
-    'SODTST_02122025050017')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/span_SODTST_02122025050017'))
+WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/button_Create (4)'))
 
 WebUI.closeBrowser()
 
