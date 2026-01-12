@@ -51,7 +51,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Settings/input_Settings_R30
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/button_Settings_a-Button a-Toolbar-item'), FailureHandling.OPTIONAL)
 
-WebUI.takeScreenshot()
+//WebUI.takeScreenshot()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/button_concat(Search for , , Enterprise Acc_57ba07'), 
     FailureHandling.OPTIONAL)

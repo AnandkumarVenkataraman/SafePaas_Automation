@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2. Create User</description>
+   <name>2. Create User</name>
+   <tag>EIA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aecb97d9-dec2-439c-8d64-36a294b18f0f</testCaseGuid>
+</TestCaseEntity>

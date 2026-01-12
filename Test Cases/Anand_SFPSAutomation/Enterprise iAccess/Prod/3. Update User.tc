@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3. Update User</description>
+   <name>3. Update User</name>
+   <tag>EIA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93d040e9-faaa-423c-9330-bb0cd9f167ee</testCaseGuid>
+</TestCaseEntity>
