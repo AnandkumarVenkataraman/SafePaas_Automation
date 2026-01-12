@@ -95,4 +95,11 @@
       <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise iAccess/Prod/4. Deactivate User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>6a6a8c6c-fd58-4ff2-af91-d121febe7b7b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/MonitorPaaS/MonitorPaaS_Main_Prod</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
