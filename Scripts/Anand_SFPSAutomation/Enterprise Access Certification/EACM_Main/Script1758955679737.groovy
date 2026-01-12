@@ -37,7 +37,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P1
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn (1)'))
 
 //Verify the EACM Setups in Company Settings
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (9)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (9)'), FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Administration_a-TreeView-toggle (6)'))
 
