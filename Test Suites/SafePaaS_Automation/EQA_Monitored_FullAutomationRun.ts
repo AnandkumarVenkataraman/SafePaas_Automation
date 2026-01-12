@@ -60,4 +60,39 @@
       <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/5. Analytics</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>321e7975-bbb0-4f1c-8ba7-7871551c39e5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Certification/EACM_Main_Prod</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e33cb549-7659-4226-adfd-87846b9495f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise iAccess/Prod/1. Setup</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9f70298c-6643-4139-a9eb-dd9a5d14785c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise iAccess/Prod/2. Create User</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a8d8f02d-156d-44ba-a0d3-a8ea68acb6c1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise iAccess/Prod/3. Update User</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>aee62c89-9e88-4348-a63d-f55d6380b778</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise iAccess/Prod/4. Deactivate User</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
