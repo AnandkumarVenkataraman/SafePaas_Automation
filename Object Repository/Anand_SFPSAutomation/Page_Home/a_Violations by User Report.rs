@@ -6,12 +6,12 @@
    <elementGuidId>1ebb1579-52a0-4de4-a44d-f3d8294f6454</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Violations by User Report')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_24']/div[2]/a</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d06bd442-71b0-4c72-9e06-007429a96b7d</webElementGuid>
+      <webElementGuid>fe541149-4c40-42a4-99c9-b3cdb905ea28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>94d28433-2bdb-4480-b8a8-7a280878f3ac</webElementGuid>
+      <webElementGuid>9f1b0228-48b4-4214-b925-41f326cd6567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>ff261960-364d-4af7-8eac-249c0231de35</webElementGuid>
+      <webElementGuid>a9656178-5f3b-44dd-8a3a-4dcd2a6446fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>ea890768-34e8-43f6-903c-f3dbf3d37574</webElementGuid>
+      <webElementGuid>56f52d69-ba52-454a-82a4-818645c4497e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:86:12415295459031:::86::</value>
-      <webElementGuid>e6ae854f-4a47-4ec6-b882-f3baa7e5d962</webElementGuid>
+      <webElementGuid>e0f9f4c3-b83c-441d-9c4d-a6dc8396ccf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>1f0b4401-acb0-4610-b96d-af0f58207e13</webElementGuid>
+      <webElementGuid>c6175285-6afc-4fc5-9a59-914da551f584</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>620dc496-f7fc-44fe-b726-d363f7de219f</webElementGuid>
+      <webElementGuid>b400e0f0-7c98-4298-8414-5248184d6bbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Violations by User Report</value>
-      <webElementGuid>dd9a7e9c-1fc9-4568-ad16-5cbab8ba89d9</webElementGuid>
+      <webElementGuid>c4b5854a-0d31-4896-87ac-9349c41252f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_24&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>9c631600-b29e-4f21-8385-2eecbfc8df70</webElementGuid>
+      <webElementGuid>15f66cab-6db6-458b-90d2-a42cfcb92945</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_24']/div[2]/a</value>
-      <webElementGuid>56d35c47-63fa-4094-b8f3-a9781cfe6244</webElementGuid>
+      <webElementGuid>9e184749-4692-4b1d-a58d-b70eaab2e6f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Violations by User Report')]</value>
-      <webElementGuid>6e3f7e41-98c7-4579-a12b-f2d71a0f41e3</webElementGuid>
+      <webElementGuid>4fed5584-7284-4575-a8b1-bb87c7a65048</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Review Actions Details'])[1]/following::a[1]</value>
-      <webElementGuid>32375dc7-fa01-4542-8b5e-390c1d0ce23f</webElementGuid>
+      <webElementGuid>c619bc84-e449-4ed8-936b-58b6db1a7233</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Report'])[1]/following::a[2]</value>
-      <webElementGuid>de514335-8fc2-4840-84cb-0fa189f9574e</webElementGuid>
+      <webElementGuid>967702d5-b557-4bcd-8733-805ffca10881</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Matrix by User'])[1]/preceding::a[1]</value>
-      <webElementGuid>3e709f3b-49eb-4120-a766-405a0dc93707</webElementGuid>
+      <webElementGuid>2153e08f-e884-4a04-93bd-2a63810655ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Intra Role Violation Details Report'])[1]/preceding::a[2]</value>
-      <webElementGuid>7079ee4b-7020-45cf-95c8-0c44a94bdb4e</webElementGuid>
+      <webElementGuid>351eb1b4-c165-4545-95ad-2446bc07502b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Violations by User Report']/parent::*</value>
-      <webElementGuid>4063e667-9e7d-432c-86fe-6553957726a1</webElementGuid>
+      <webElementGuid>ac31ca54-a916-404f-8141-55df8569d507</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:86:12415295459031:::86::')]</value>
-      <webElementGuid>1ddc4f38-6437-432f-8885-77f780386876</webElementGuid>
+      <webElementGuid>48d93e8e-00ec-416e-b303-8fc5de5251c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div[2]/a</value>
-      <webElementGuid>8b097689-4367-4319-bbf2-9d5eee5b491b</webElementGuid>
+      <webElementGuid>15ab4bec-2efa-477a-adb2-801c2f1afc41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:86:12415295459031:::86::' and (text() = 'Violations by User Report' or . = 'Violations by User Report')]</value>
-      <webElementGuid>f8e408b9-9c31-4f88-9f2e-0221ec8c0676</webElementGuid>
+      <webElementGuid>be8acf18-3f34-4f4e-9fab-73a7026eb125</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

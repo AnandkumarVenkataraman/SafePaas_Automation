@@ -6,12 +6,12 @@
    <elementGuidId>45ab8b46-ac6e-4056-9504-51625e76cb61</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//a[contains(text(),'Security Snapshot Details')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f8457c9e-d429-416f-ad7a-2838ac0ac653</webElementGuid>
+      <webElementGuid>7b2205a6-705b-48ee-8b04-d45655273b76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>29d23cbc-b9ce-4a93-9d86-36efcb501e09</webElementGuid>
+      <webElementGuid>3eb435a2-1a76-4ff9-9230-e9521d8aaedc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>921f3e37-4639-4386-9c09-4cb25c72f2fe</webElementGuid>
+      <webElementGuid>73e98b09-9a82-4356-b7a3-7c6b2caa6670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>45c736c3-d6ed-4b6a-be97-5ad0aad94483</webElementGuid>
+      <webElementGuid>ec4d521b-9add-4d35-bdbe-7244e663f552</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:169:12415295459031:::169::</value>
-      <webElementGuid>6dbe665a-2cc3-4121-9072-5629284d009d</webElementGuid>
+      <webElementGuid>4a674e94-9fdc-4489-be15-a9d9fde3806e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>e8e460f5-4fac-451d-9802-24bc65f20c82</webElementGuid>
+      <webElementGuid>58fc9862-146f-497e-a3a4-351bc0b7343c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e65d6358-8227-4065-93f0-44e07c49ca55</webElementGuid>
+      <webElementGuid>c69373be-8b24-4d52-a8d8-64c72b1701c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Security Snapshot Details</value>
-      <webElementGuid>3c08de8f-b4ed-486c-9894-5f6774954198</webElementGuid>
+      <webElementGuid>490fb900-ca5c-4e15-951e-797d47f54068</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_147&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>76b24ba6-9377-45a3-a7b7-7a69ca3d0bd8</webElementGuid>
+      <webElementGuid>d01af3dc-72d1-4f3e-adab-1dc9663bf471</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_147']/div[2]/a</value>
-      <webElementGuid>6a500bd0-0694-48e7-8798-1dfe12dfe47e</webElementGuid>
+      <webElementGuid>1a536ade-4357-4d10-a8ad-3840bb528996</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Security Snapshot Details')])[2]</value>
-      <webElementGuid>5a4ea2b5-928b-41a4-bcf6-88cc2b1a6a6f</webElementGuid>
+      <webElementGuid>f48fa29c-64d4-41bf-92fb-0ad8cec4f173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Test Environment Reports'])[2]/following::a[1]</value>
-      <webElementGuid>16e8d923-34af-4102-97f9-0dcd7ecb76be</webElementGuid>
+      <webElementGuid>75670d76-442a-40ac-bfb9-96c97a791ee8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rules Report'])[2]/following::a[1]</value>
-      <webElementGuid>fa0e8046-045f-4a12-828b-013973052b70</webElementGuid>
+      <webElementGuid>6f6e2a34-e804-40bd-bcc4-bf6e9a48f007</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Environment Status Summary'])[2]/preceding::a[1]</value>
-      <webElementGuid>5537214c-2b6f-419c-9a2a-e30472c24766</webElementGuid>
+      <webElementGuid>d30c24d5-fe0a-477a-a3ca-a88983832cc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SOD Review Survey'])[1]/preceding::a[2]</value>
-      <webElementGuid>6480a60f-28fa-4b6d-9d7f-2217f38beafd</webElementGuid>
+      <webElementGuid>cc1f46bd-bc3f-4782-989b-7b2b690a8b39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:169:12415295459031:::169::')]</value>
-      <webElementGuid>aeaa884f-5fba-4e2c-9077-3f28520f82cb</webElementGuid>
+      <webElementGuid>b34abbdf-6126-456d-b449-b4c6af406a2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[2]/ul/li[4]/ul/li/div[2]/a</value>
-      <webElementGuid>0440dae7-9812-4b2c-a383-9782947a7191</webElementGuid>
+      <webElementGuid>1f3225bc-7b1e-421c-b5a2-9cc97e7f0992</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +165,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:169:12415295459031:::169::' and (text() = 'Security Snapshot Details' or . = 'Security Snapshot Details')]</value>
-      <webElementGuid>58f15d80-4e84-4912-b94b-9107d594c586</webElementGuid>
+      <webElementGuid>55005364-b564-4a3b-a470-c18079b04dfd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

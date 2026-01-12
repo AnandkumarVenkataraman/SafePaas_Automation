@@ -25,7 +25,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us01n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/button_Create (4)'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/select_Select any OneSODTST_12012026021047T_d7a34d'), 
+    1)
 
 WebUI.closeBrowser()
 

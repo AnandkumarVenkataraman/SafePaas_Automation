@@ -19,7 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://prod.safepaas.com/monitor/f?p=1000:101::::::')
+//WebUI.navigateToUrl('https://prod.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl('https://us01n.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.maximizeWindow()
 
@@ -47,7 +48,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn (7)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text (8)'), 
-    'SODTST_19122025033544')
+    'SODTST_12012026021047')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_SODTST_19122025033544'))
 

@@ -6,12 +6,12 @@
    <elementGuidId>db72df17-369c-4db8-aa82-ef52146d167c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Intra Role Violation Details Report')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_136']/div[2]/a</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>47fd351f-e0c8-40f2-af35-4ad753e9fd3f</webElementGuid>
+      <webElementGuid>441f25e8-2e35-45c6-98a9-9cc57b8bdbb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>3025fb7b-e2eb-4fee-a6b3-9a6e7cc20be8</webElementGuid>
+      <webElementGuid>ec9ce51c-0a29-48ca-a86e-8c409833c309</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>d08c9d64-f424-48d9-bb02-b7cc72086fc6</webElementGuid>
+      <webElementGuid>f27fc9e6-c963-44d8-91da-e49a10ae5791</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>0e97ccc7-49de-4f99-8f87-411981f3f27d</webElementGuid>
+      <webElementGuid>b1e9f002-b2b7-4384-baef-a9e9fc7dd0d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:98:12415295459031:::98::</value>
-      <webElementGuid>50c4cf91-e727-4638-8d20-18a1b9205a77</webElementGuid>
+      <webElementGuid>6ceab436-0afb-4f15-a463-e15f9a2818f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>fb6d46f5-c531-408e-9fdf-eac935382d29</webElementGuid>
+      <webElementGuid>464d23b5-bb03-480c-83d1-2d4f42846150</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>669804a7-8279-44e2-ad71-56991f8ee9a7</webElementGuid>
+      <webElementGuid>ad2d6ed9-08f1-413b-b213-b4c262533235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Intra Role Violation Details Report</value>
-      <webElementGuid>2f9e049e-c777-4bf0-8bd4-f43acbd6c48f</webElementGuid>
+      <webElementGuid>0d670149-54bb-474f-b9a6-5fbae7324974</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_136&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>396fd92a-1de9-4e78-b8fb-fc1cc2182401</webElementGuid>
+      <webElementGuid>67a0d2f7-b67a-40a1-8cb3-becc7915877c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_136']/div[2]/a</value>
-      <webElementGuid>cc289559-07b0-4de4-bbcb-216a044caa8f</webElementGuid>
+      <webElementGuid>ce5f3748-19ba-49c6-980e-0b440716599b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Intra Role Violation Details Report')]</value>
-      <webElementGuid>44217c6c-0e57-4198-ae78-9c427b83e700</webElementGuid>
+      <webElementGuid>258b4443-8d5b-4856-91dc-f21800ee02c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Matrix by User'])[2]/following::a[1]</value>
-      <webElementGuid>0e5624f3-46e3-4297-8699-5b78ee38681e</webElementGuid>
+      <webElementGuid>86523aea-33b7-46e2-aeae-a585830ec378</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Violations by User Report'])[1]/following::a[2]</value>
-      <webElementGuid>4adfeb12-7626-4b83-832c-abe93d4b599e</webElementGuid>
+      <webElementGuid>c9999645-1b5d-4ed9-80c0-e82eb53cce7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggregate Violations by User'])[1]/preceding::a[1]</value>
-      <webElementGuid>9defdd42-4a04-47e9-8d0b-c50edf3159a6</webElementGuid>
+      <webElementGuid>3410b122-13f6-4c7f-a444-35710ecbdc99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Excluded Mitigated Violations'])[1]/preceding::a[2]</value>
-      <webElementGuid>a659e8a3-648d-408d-987c-8686c1cc2fd4</webElementGuid>
+      <webElementGuid>c78e767b-ffa2-48dc-bd80-47c772c7b08c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Intra Role Violation Details Report']/parent::*</value>
-      <webElementGuid>69ea1eb6-d458-4ae6-a53d-8de009f7b6ce</webElementGuid>
+      <webElementGuid>c4326f24-4848-49f9-94a2-556dea118f50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:98:12415295459031:::98::')]</value>
-      <webElementGuid>8bebd311-8d5c-47cc-bcd4-ab3d5ef81b9e</webElementGuid>
+      <webElementGuid>06f0c8cd-6a88-4988-9ea7-71c4355ec707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[2]/ul/li/ul/li[4]/div[2]/a</value>
-      <webElementGuid>8d43b602-b130-4e00-a49f-16b78031f5c4</webElementGuid>
+      <webElementGuid>365fcd78-1c15-40f2-8e06-5fe0ee56d3af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:98:12415295459031:::98::' and (text() = 'Intra Role Violation Details Report' or . = 'Intra Role Violation Details Report')]</value>
-      <webElementGuid>a0ba68e3-fe10-4735-93eb-e1cf843bf065</webElementGuid>
+      <webElementGuid>409b782f-7855-467c-bb44-a4ba837f19f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
