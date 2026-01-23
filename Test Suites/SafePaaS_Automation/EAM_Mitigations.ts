@@ -53,4 +53,18 @@
       <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/6. Dashboard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>2fbe7050-a45f-433e-acfb-dd88ef07d4de</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/9. Mitigations</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>80e552c7-8051-4687-bc04-494e59658764</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/7. CrossAppSOD</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
