@@ -19,8 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-//WebUI.navigateToUrl('https://prod.safepaas.com/monitor/f?p=1000:101::::::')
-WebUI.navigateToUrl('https://us01n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl('https://prod.safepaas.com/monitor/f?p=1000:101::::::')
+//WebUI.navigateToUrl('https://us01n.safepaas.com/monitor/f?p=1000:101::::::')
 WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Fall 2025_P101_COMPANY (16)'), 'KAT')
