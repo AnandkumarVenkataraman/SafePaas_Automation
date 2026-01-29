@@ -20,161 +20,130 @@ import org.openqa.selenium.Keys as Keys
 import org.openqa.selenium.WebElement as WebElement
 import java.util.Arrays as Arrays
 
-int T = 20
-
-def resolveCheckFromLabel = { WebElement lbl ->
-    String js = '\n    var el = arguments[0];\n    var id = el.getAttribute(\'for\');\n    var cb = null;\n    if (id) cb = document.getElementById(id);\n    if (!cb) cb = el.querySelector(\'input[type="checkbox"]\');\n    if (!cb) {\n      var nxt = el.nextElementSibling;\n      if (nxt && nxt.tagName === \'INPUT\' && nxt.type === \'checkbox\') cb = nxt;\n    }\n    if (!cb) return {found:false, id:null, checked:false};\n    return {found:true, id: cb.id || null, checked: !!cb.checked};\n  '
-
-        ((WebUI.executeJavaScript(js, Arrays.asList(lbl))) as Map)
-}
-
-def ensureOnByLabel = { String labelObjPath ->
-    def to = findTestObject(labelObjPath)
-
-    WebUI.waitForElementVisible(to, T)
-
-    WebElement lbl = WebUI.findWebElement(to, T)
-
-    Map res = resolveCheckFromLabel(lbl)
-
-    if (!(res.found)) {
-        WebUI.enhancedClick(to)
-
-        return null
-    }
-    
-    if (!(res.checked)) {
-        WebUI.enhancedClick(to)
-
-        if (res.id) {
-            boolean nowOn = ((WebUI.executeJavaScript('return !!document.getElementById(arguments[0])?.checked;', Arrays.asList(
-                        res.id))) as Boolean)
-
-            WebUI.verifyEqual(nowOn, true, FH.STOP_ON_FAILURE)
-        }
-    }
-}
-
-def ensureOffByLabel = { String labelObjPath ->
-    def to = findTestObject(labelObjPath)
-
-    WebUI.waitForElementVisible(to, T)
-
-    WebElement lbl = WebUI.findWebElement(to, T)
-
-    Map res = resolveCheckFromLabel(lbl)
-
-    if (!(res.found)) {
-        WebUI.enhancedClick(to)
-
-        return null
-    }
-    
-    if (res.checked) {
-        WebUI.enhancedClick(to)
-
-        if (res.id) {
-            boolean nowOff = ((WebUI.executeJavaScript('return !!document.getElementById(arguments[0])?.checked;', Arrays.asList(
-                        res.id))) as Boolean)
-
-            WebUI.verifyEqual(nowOff, false, FH.STOP_ON_FAILURE)
-        }
-    }
-}
+//WebUI.openBrowser('')
+//
+//WebUI.navigateToUrl('https://prod.safepaas.com/monitor/f?p=1000:101::::::')
+//
+//WebUI.switchToWindowTitle('Login')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Winter 2026_P101_COMPANY'))
+//
+//WebUI.closeBrowser()
 
 WebUI.openBrowser('')
 
-//WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 WebUI.navigateToUrl('https://prod.safepaas.com/monitor/f?p=1000:101::::::')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Login/input_Summer 2025_P101_COMPANY (13)'), 'kat')
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Winter 2026_P101_COMPANY'), 'KAT')
 
-WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (13)'), 'katadmin')
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (75)'), 
+    'KATALON_ADMIN')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ALEXOR/alex/Page_Login/input_New_P101_PASSWORD (14)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (75)'), 
+    'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Login/button_Reset Password_loginBtn (13)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (34)'))
 
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/span_Help_a-TreeView-toggle (9)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (78)'))
 
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/span_Access Monitor_a-TreeView-toggle (5)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (60)'))
 
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/span_Roles Manager_a-TreeView-toggle (5)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Dashboard_a-TreeView-toggle (18)'))
 
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/a_Manage Remediation Plan_a-TreeView-label (5)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (43)'))
 
-WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/input_Create_R296130228590446614_search_field (2)'), 
-    'ktl')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Violations by User Report (1)'))
 
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/button_Create_R296130228590446614_search_button (2)'))
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/select_Select any oneCoupa_Env1EBizApp_JDBC_159789'), 
+    'EBizApp_JDBC_Env', false)
 
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/img_ktl_apex-edit-page'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_Test Name_P86_TEST_NAME_lov_btn (4)'))
 
-ensureOnByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Read only a_af6758 (3)')
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text (4)'), 
+    'SODTST_19122025033544')
 
-ensureOnByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Read only access to R_637490 (3)')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_SODTST_19122025033544 (1)'))
 
-ensureOnByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Read only access_fa7825 (3)')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_ShowHide Filters'))
 
-ensureOnByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (3)')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_ShowHide Filters'))
 
-ensureOnByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (3)')
-
-ensureOnByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (3)')
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/button_Security_B296312419684494474 (3)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/img_EAM_apex-edit-page (3)'))
-
-ensureOffByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Manage Business Process - Enables edi_a0ef8a (3)')
-
-ensureOffByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Rules Reviews - Enables edit capabili_20abea (3)')
-
-ensureOffByLabel('Object Repository/ALEXOR/alex/Page_Define Security/label_Create Assignments - Enables edit cap_27346c (3)')
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Define Security/button_Security_B296312419684494474 (3)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage EAM Roles/a_Manage Remediation Plan_a-TreeView-label (1)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigations/button_Mitigation Controls_B303188941954620028 (1)'))
-
-WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/input_(Value Required)_P178_CODE (1)'), 
-    'Testqakat')
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/div_Create_t-Form-labelContainer col col-2'))
-
-WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/input_(Value Required)_P178_CODE (1)'), 
-    'TESTQAKAT')
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/input_(Value Required)_P178_CODE (1)'))
-
-WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/input_(Value Required)_P178_NAME (1)'), 
-    'Testqakat')
-
-WebUI.setText(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/textarea_Description_P178_DESCRIPTION (1)'), 
-    'Testqakat')
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/button_Cancel_B303288340752288580 (1)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Manage Mitigation Control/span_Mitigation Details_t-Tabs-label (3)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Mitigation Assigned Monitors/button_Assigned Monitors_B303317908793999336 (1)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Assign Monitors to Mitigation/input_Actions_select-all (1)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Assign Monitors to Mitigation/button_Assign Available Monitors_B306023348_33c9de (1)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Mitigation Assigned Monitors/button_Breadcrumb_t-Button t-Button--noUI t_c90c1f (2)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Mitigation Assigned Monitors/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/button_Inbox_L14205299837764170 (19)'))
-
-WebUI.click(findTestObject('Object Repository/ALEXOR/alex/Page_Home/a_My Profile_menu_L14205299837764170_1i (20)'))
-
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/label_High (14)'))
 WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Risk Level_P86_F_RISK_LEVEL_0'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/label_Asset Inquiry vs. General Ledger Rule31 (7)'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Rule Name (Top 5)_P86_F_RULE_NAME_0'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/label_Asset Inquiry vs. General Ledger Rule2 (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Asset Inquiry vs. General Ledger Rule_573a4b'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/label_SPAIN (6)'))
+WebUI.delay(3)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_User Name (Top 5)_P86_F_USER_NAME_0'))
+WebUI.delay(3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/label_PSTOCKMAN (4)'))
+WebUI.delay(3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_SPAIN (6)_P86_F_USER_NAME_1'))
+WebUI.delay(5)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/label_KJONES (4)'))
+WebUI.delay(3)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_PSTOCKMAN (4)_P86_F_USER_NAME_2'))
+WebUI.delay(2)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/label_OPEN (14)'))
+WebUI.delay(3)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Remediation Status_P86_F_REMEDIATION__be9ea0'))
+WebUI.delay(3)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/a_PSTOCKMAN (1)'))
+WebUI.delay(5)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/jmnode_Asset Inquiry vs. General Ledger Rule2'))
+WebUI.delay(5)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
+WebUI.delay(5)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/a_Asset Inquiry vs. General Ledger Rule2'))
+WebUI.delay(3)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/jmnode_SPAIN-Ruiloba Pacho, Pau'))
+WebUI.delay(5)
+WebUI.takeScreenshot()
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c'))
+WebUI.delay(3)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/select_Select any oneCoupa_Env1EBizApp_JDBC_159789'), 
+    0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katalon_admin (7)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (10)'))
 
 WebUI.closeBrowser()
 
