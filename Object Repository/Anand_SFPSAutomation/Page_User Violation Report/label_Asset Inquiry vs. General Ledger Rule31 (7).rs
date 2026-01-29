@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Asset Inquiry vs. General Ledger Rule31 (7)</name>
+   <tag></tag>
+   <elementGuidId>dbca2549-0f06-4d91-9a1e-b94951a6892b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P86_F_RULE_NAME > div.apex-item-option > label.u-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P86_F_RULE_NAME']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Asset Inquiry vs. General Ledger Rule31 (7)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6a67c859-3da0-4872-b77a-7136d34a95d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>0c53180b-fd71-4efb-861a-7cd026b7ce41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P86_F_RULE_NAME_0</value>
+      <webElementGuid>f1c6258d-faec-4773-8d9c-f9368a70a599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Inquiry vs. General Ledger Rule31 (7)</value>
+      <webElementGuid>dc510ebc-e7b3-477c-9c6a-39cb74ce2cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P86_F_RULE_NAME&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>42ce1c90-a065-408e-b2ac-4608c3d0f540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P86_F_RULE_NAME']/div/label</value>
+      <webElementGuid>88906e07-62b6-4d1d-b718-fbeb04c9b31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Name (Top 5)'])[1]/following::label[1]</value>
+      <webElementGuid>6231edf3-efc8-4441-b65b-57392ec758c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High (14)'])[1]/following::label[2]</value>
+      <webElementGuid>beeec901-c6b5-4709-ab54-93766d6205f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inquiry vs. General Ledger Rule2 (7)'])[1]/preceding::label[1]</value>
+      <webElementGuid>afa0492f-5385-4e26-99e0-b1b013ae1c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name (Top 5)'])[1]/preceding::label[2]</value>
+      <webElementGuid>a2dd5726-45cf-448d-aacb-7d1e8af10c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset Inquiry vs. General Ledger Rule31 (7)']/parent::*</value>
+      <webElementGuid>29a653c5-9e5a-40be-b8db-31ef1c2babc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div/label</value>
+      <webElementGuid>3675da7e-dadc-4117-8fb6-10a0847542bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Asset Inquiry vs. General Ledger Rule31 (7)' or . = 'Asset Inquiry vs. General Ledger Rule31 (7)')]</value>
+      <webElementGuid>e9cfaaff-103a-43d8-bf3a-bf934fb5b591</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

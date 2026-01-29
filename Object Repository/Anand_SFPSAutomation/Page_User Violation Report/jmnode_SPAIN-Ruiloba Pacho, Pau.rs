@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jmnode_SPAIN-Ruiloba Pacho, Pau</name>
+   <tag></tag>
+   <elementGuidId>0eadc88b-0b01-4676-928a-ef3e03edef9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>jmnode.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jsMindMap']/div/jmnodes/jmnode[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SPAIN-Ruiloba Pacho, Pau&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>jmnode</value>
+      <webElementGuid>ec27cb01-474b-4c90-aa93-d7c4fbfbeb0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nodeid</name>
+      <type>Main</type>
+      <value>3043472963</value>
+      <webElementGuid>bd339061-373c-45d7-9cde-2810a1d57e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SPAIN-Ruiloba Pacho, Pau</value>
+      <webElementGuid>87f7d417-9e19-44c8-a488-720e63b04a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> selected</value>
+      <webElementGuid>829cfe56-294c-4d08-ad20-7c355e1a70c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SPAIN-Ruiloba Pacho, Pau</value>
+      <webElementGuid>efd2b692-b41c-4891-85b5-5c49a49616df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jsMindMap&quot;)/div[@class=&quot;jsmind-inner&quot;]/jmnodes[@class=&quot;theme-primary&quot;]/jmnode[@class=&quot;selected&quot;]</value>
+      <webElementGuid>d6c61601-9643-46ca-84b8-068725805e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Anand_SFPSAutomation/Page_User Violation Report/iframe_1</value>
+      <webElementGuid>26996140-5f4a-4b98-a360-7f2bbceea266</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jsMindMap']/div/jmnodes/jmnode[3]</value>
+      <webElementGuid>c5c4e8b0-3bc0-4792-9ad8-135730e7050c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::jmnode[1]</value>
+      <webElementGuid>2f1b0fb6-73ce-4d83-a7d2-025d1ed8c591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KJONES-Jones, Ms. Kerry'])[1]/following::jmnode[1]</value>
+      <webElementGuid>342b214d-9b3b-472e-b4d8-bf775c2f7708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::jmnode[1]</value>
+      <webElementGuid>901c072b-1089-416d-8f90-29b871179b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PSTOCKMAN-Stockman, Mr. Pat'])[1]/preceding::jmnode[1]</value>
+      <webElementGuid>b41e5bb1-69a3-49ef-9643-dc89ba6a9ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SPAIN-Ruiloba Pacho, Pau']/parent::*</value>
+      <webElementGuid>bd5e2a87-0a00-4ebd-8444-2042cd873057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//jmnode[3]</value>
+      <webElementGuid>6f6e160c-9aad-4d65-b3f2-f1683d2888eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//jmnode[@title = 'SPAIN-Ruiloba Pacho, Pau' and (text() = 'SPAIN-Ruiloba Pacho, Pau' or . = 'SPAIN-Ruiloba Pacho, Pau')]</value>
+      <webElementGuid>52c58642-601e-4491-b878-aa3b9fe30c91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

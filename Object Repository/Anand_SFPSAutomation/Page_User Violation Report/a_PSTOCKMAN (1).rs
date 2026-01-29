@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PSTOCKMAN (1)</name>
+   <tag></tag>
+   <elementGuidId>d2ad552e-b1ef-4d76-a190-8740a419f8e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tL > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PSTOCKMAN&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d4b1957c-4b51-499e-a0ad-e054505d0d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:apex.navigation.dialog('f?p=1180:196:15927215696289::::P196_ENVIRONMENT,P196_REQUEST_ID,P196_USER_ID,P196_USER_NAME,P196_F_EXC_STATUS,P196_F_REM_STATUS,P196_F_RISK_LEVEL,P196_F_RULE_ID:6579,12966,3043472982,PSTOCKMAN,,,,\u0026p_dialog_cs=0EwsWcnfAYE1N6aAfRr6CRpCiBqu3YiXTLttES41rGvVEBcy5z37ZIR59Tlhjxi-e_AcRJMVXyvqRFavPxL7bw',{title:'User Mind Map',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#uvrReport'));</value>
+      <webElementGuid>ca66ff8e-de4b-4d6a-948f-b0ed190fb487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PSTOCKMAN</value>
+      <webElementGuid>b4eaa08b-b235-42bd-af0c-696cd3d57280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;154256958746258637_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[1]</value>
+      <webElementGuid>51640f4e-cb4b-410a-ab1f-16c7ae794d0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='154256958746258637_orig']/tbody/tr[2]/td/a</value>
+      <webElementGuid>08d840e6-745a-4191-99b6-34e968fdb4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'PSTOCKMAN')]</value>
+      <webElementGuid>0dab951d-3e8d-4795-9799-10fb13b5f7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute Group Code'])[1]/following::a[12]</value>
+      <webElementGuid>214cad3c-408e-48f5-90c9-c39b7fe488a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remediation Status'])[2]/following::a[13]</value>
+      <webElementGuid>d676bab5-564d-4b30-9754-13919400e874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inquiry vs. General Ledger Rule2'])[1]/preceding::a[1]</value>
+      <webElementGuid>c48814be-2e6b-4f7e-a1a7-1d8dc6ef2b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SET'])[1]/preceding::a[2]</value>
+      <webElementGuid>cbdf3c66-be69-4b30-8508-77c86c1b29cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PSTOCKMAN']/parent::*</value>
+      <webElementGuid>2e0bab0d-8a30-4256-8c6c-2e0a476fbdd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:apex.navigation.dialog('f?p=1180:196:15927215696289::::P196_ENVIRONMENT,P196_REQUEST_ID,P196_USER_ID,P196_USER_NAME,P196_F_EXC_STATUS,P196_F_REM_STATUS,P196_F_RISK_LEVEL,P196_F_RULE_ID:6579,12966,3043472982,PSTOCKMAN,,,,\u0026p_dialog_cs=0EwsWcnfAYE1N6aAfRr6CRpCiBqu3YiXTLttES41rGvVEBcy5z37ZIR59Tlhjxi-e_AcRJMVXyvqRFavPxL7bw',{title:'User Mind Map',height:'auto',width:'720',maxWidth:'960',modal:true,dialog:null},'t-Dialog-page--standard '+'',apex.jQuery('#uvrReport'));&quot;)]</value>
+      <webElementGuid>d84ee6cd-53ec-4f11-baaa-bf0a68d2168e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>e5891246-0c0c-4de8-93e1-f7200eba8203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:apex.navigation.dialog(&quot; , &quot;'&quot; , &quot;f?p=1180:196:15927215696289::::P196_ENVIRONMENT,P196_REQUEST_ID,P196_USER_ID,P196_USER_NAME,P196_F_EXC_STATUS,P196_F_REM_STATUS,P196_F_RISK_LEVEL,P196_F_RULE_ID:6579,12966,3043472982,PSTOCKMAN,,,,\u0026p_dialog_cs=0EwsWcnfAYE1N6aAfRr6CRpCiBqu3YiXTLttES41rGvVEBcy5z37ZIR59Tlhjxi-e_AcRJMVXyvqRFavPxL7bw&quot; , &quot;'&quot; , &quot;,{title:&quot; , &quot;'&quot; , &quot;User Mind Map&quot; , &quot;'&quot; , &quot;,height:&quot; , &quot;'&quot; , &quot;auto&quot; , &quot;'&quot; , &quot;,width:&quot; , &quot;'&quot; , &quot;720&quot; , &quot;'&quot; , &quot;,maxWidth:&quot; , &quot;'&quot; , &quot;960&quot; , &quot;'&quot; , &quot;,modal:true,dialog:null},&quot; , &quot;'&quot; , &quot;t-Dialog-page--standard &quot; , &quot;'&quot; , &quot;+&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;,apex.jQuery(&quot; , &quot;'&quot; , &quot;#uvrReport&quot; , &quot;'&quot; , &quot;));&quot;) and (text() = 'PSTOCKMAN' or . = 'PSTOCKMAN')]</value>
+      <webElementGuid>a5b42969-a74b-4a51-b6c5-fa3f06ab9a94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

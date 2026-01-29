@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_SPAIN (6)</name>
+   <tag></tag>
+   <elementGuidId>5059228a-82f2-4bf7-a6f9-700782fccdf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P86_F_USER_NAME > div.apex-item-option > label.u-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P86_F_USER_NAME']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SPAIN (6)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a76ae82b-6368-4458-95b9-aacb2b031e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>1459d9a6-b681-48cb-9031-d6f3ace988cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P86_F_USER_NAME_0</value>
+      <webElementGuid>c76633d9-6152-42a0-b5e0-819b93ecc3ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SPAIN (6)</value>
+      <webElementGuid>76e42bd2-8bb1-4dd6-b269-1f0410844ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P86_F_USER_NAME&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>b257f562-4d1b-4875-aceb-775334ab449f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P86_F_USER_NAME']/div/label</value>
+      <webElementGuid>5223116e-76e7-4074-b759-7a6fa203d8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name (Top 5)'])[1]/following::label[1]</value>
+      <webElementGuid>47ada166-903b-4ff8-8ee1-d552efe6b6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inquiry vs. General Ledger Rule2 (7)'])[1]/following::label[2]</value>
+      <webElementGuid>40163867-129d-4dce-b17e-8a4702bca902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PSTOCKMAN (4)'])[1]/preceding::label[1]</value>
+      <webElementGuid>f1b96330-57d6-4026-b454-e9894c899792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KJONES (4)'])[1]/preceding::label[2]</value>
+      <webElementGuid>74912230-fc6c-4d60-96b5-edecd98882c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SPAIN (6)']/parent::*</value>
+      <webElementGuid>ca5132f3-2e97-43ec-a05e-70e8896b2ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/label</value>
+      <webElementGuid>8b016d50-8336-4813-b1a2-5985e4ef333a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'SPAIN (6)' or . = 'SPAIN (6)')]</value>
+      <webElementGuid>0cb71ff2-cadd-4553-bf33-428bd94640b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

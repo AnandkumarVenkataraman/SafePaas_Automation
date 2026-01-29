@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_OPEN (14)</name>
+   <tag></tag>
+   <elementGuidId>c4b013b7-21d8-4c5d-ba69-9fa52286efa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P86_F_REMEDIATION_STATUS > div.apex-item-option > label.u-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P86_F_REMEDIATION_STATUS']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;OPEN (14)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6ad13c5e-915e-4b99-9434-ec2aeda9b186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-checkbox</value>
+      <webElementGuid>d20b63e0-1c4c-47dc-b7c9-7d68f187da61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P86_F_REMEDIATION_STATUS_0</value>
+      <webElementGuid>f6be4e9d-b078-4f39-8f24-7d42729257a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OPEN (14)</value>
+      <webElementGuid>ef723bae-9369-4868-8e2d-d69e6d973d7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P86_F_REMEDIATION_STATUS&quot;)/div[@class=&quot;apex-item-option&quot;]/label[@class=&quot;u-checkbox&quot;]</value>
+      <webElementGuid>e134daef-7df1-4693-9553-301804255be1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P86_F_REMEDIATION_STATUS']/div/label</value>
+      <webElementGuid>f235e6f4-a4b1-4fae-876f-0185e767b252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remediation Status'])[1]/following::label[1]</value>
+      <webElementGuid>d5ccac64-af38-4c52-a548-be675af23e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exception Status'])[1]/following::label[2]</value>
+      <webElementGuid>01ef7903-c68d-40c8-b492-9f7e1bc0b188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Violation Report'])[2]/preceding::label[1]</value>
+      <webElementGuid>54757e07-8d32-4025-bbc6-2addc63c715a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show/Hide Filters'])[1]/preceding::label[1]</value>
+      <webElementGuid>d6ee0694-0307-4a23-a99a-843b3a88b5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OPEN (14)']/parent::*</value>
+      <webElementGuid>c449cc39-97d9-4c1d-8272-2657bcd59112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div/label</value>
+      <webElementGuid>da49d5fc-9d91-4d46-8ada-20754470d94c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'OPEN (14)' or . = 'OPEN (14)')]</value>
+      <webElementGuid>d5b11c70-2906-40e4-8e9e-46c4bfd82556</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

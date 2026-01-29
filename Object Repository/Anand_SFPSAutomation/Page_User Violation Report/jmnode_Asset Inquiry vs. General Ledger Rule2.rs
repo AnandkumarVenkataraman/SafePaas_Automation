@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jmnode_Asset Inquiry vs. General Ledger Rule2</name>
+   <tag></tag>
+   <elementGuidId>114660ad-7836-40a5-be09-3db91d32a01c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>jmnode.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jsMindMap']/div/jmnodes/jmnode</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Asset Inquiry vs. General Ledger Rule2&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>jmnode</value>
+      <webElementGuid>25af8bfe-0051-4a17-811f-8abd63ba7567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nodeid</name>
+      <type>Main</type>
+      <value>31256</value>
+      <webElementGuid>f9d75d43-d115-4c62-a06c-600ee6abf0a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Asset Inquiry vs. General Ledger Rule2</value>
+      <webElementGuid>29f8ce73-7cde-4c7a-b46f-4a4601250f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> selected</value>
+      <webElementGuid>23a8bb30-4da3-4e87-bbd1-e85810cdd5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Inquiry vs. General Ledger Rule2</value>
+      <webElementGuid>11e97609-1782-4ec4-a485-4e224fc21fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jsMindMap&quot;)/div[@class=&quot;jsmind-inner&quot;]/jmnodes[@class=&quot;theme-primary&quot;]/jmnode[@class=&quot;selected&quot;]</value>
+      <webElementGuid>fd2f8680-96b6-431b-aed4-c94191a02570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Anand_SFPSAutomation/Page_User Violation Report/iframe</value>
+      <webElementGuid>d72a98ee-cf10-44d3-b45c-dd3e74bfc2a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jsMindMap']/div/jmnodes/jmnode</value>
+      <webElementGuid>0a11eed9-08d3-48bb-89a6-2a38f451cdbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::jmnode[1]</value>
+      <webElementGuid>f48efdb0-85e3-4453-b2d4-a0f75f334856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After selecting a Rule, scroll down to see the mind map.'])[1]/following::jmnode[1]</value>
+      <webElementGuid>5da9692b-00f4-44b3-a072-8fa422c11bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::jmnode[1]</value>
+      <webElementGuid>b9c89cdf-0eb2-41c1-b647-8e4f541a6319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inquiry vs. General Ledger Rule31'])[1]/preceding::jmnode[1]</value>
+      <webElementGuid>b3f9f486-cde7-4fa2-b152-47f24bc9c242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset Inquiry vs. General Ledger Rule2']/parent::*</value>
+      <webElementGuid>2c0c96aa-fbb9-4a35-b5cc-a3673aaa8d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//jmnode</value>
+      <webElementGuid>23944fe2-e681-4235-a41e-a229c80afe3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//jmnode[@title = 'Asset Inquiry vs. General Ledger Rule2' and (text() = 'Asset Inquiry vs. General Ledger Rule2' or . = 'Asset Inquiry vs. General Ledger Rule2')]</value>
+      <webElementGuid>a1f37b53-3146-49a6-855a-9e4b493aae82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
