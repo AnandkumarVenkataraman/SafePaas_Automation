@@ -6,12 +6,12 @@
    <elementGuidId>c79588e0-d41c-4745-b927-de5fafba9431</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Dashboard')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_9']/div[2]/a</value>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8c7e7b32-496c-45e6-a909-fdd419e11069</webElementGuid>
+      <webElementGuid>ab1d0d38-3cff-42e5-8b4b-aafbf5abceaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>49b8e902-5013-4272-ae11-623f1a84c174</webElementGuid>
+      <webElementGuid>69bc6e33-cade-4f17-aa27-f59972582eab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>4fa5681b-9c25-433e-866c-ca14d8ecb914</webElementGuid>
+      <webElementGuid>c56f4d69-ed68-41eb-9417-414df0a8929c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>74f5ded7-8c43-423c-8632-6456a6ea7b5f</webElementGuid>
+      <webElementGuid>c1fa97a9-ae1b-4f28-bd14-76dcd13a0354</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1110:103:16930995574692:::103::</value>
-      <webElementGuid>c344cd57-bc28-4a6f-9dfc-a93aeb0c5f8a</webElementGuid>
+      <webElementGuid>32d5bbfd-013f-4907-8a1d-aadf79985d16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>d69962fc-2b6c-442e-a789-f156ba904b22</webElementGuid>
+      <webElementGuid>1b5ec638-d28f-4399-b7a4-453e435a0f3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3926f40e-1480-491f-ad1b-10191b216466</webElementGuid>
+      <webElementGuid>702e4f51-07b2-4599-ae63-eddc23a13329</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dashboard</value>
-      <webElementGuid>aeeebe59-822c-422d-9e51-dc5d956123fc</webElementGuid>
+      <webElementGuid>074f6418-f060-4536-becd-4ba07f36f9ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_9&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>3c3fe244-fc54-47ff-97ad-a69b76b13d57</webElementGuid>
+      <webElementGuid>d6662b4e-833a-4ed3-b035-7bebbd6dc989</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_9']/div[2]/a</value>
-      <webElementGuid>9c26dcd8-0b6d-4e49-becf-ce25cdf99a26</webElementGuid>
+      <webElementGuid>e2328048-b47c-40fc-b7e2-bc6e563d1a6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Dashboard')]</value>
-      <webElementGuid>a7db05ab-eadc-4b38-a478-022fc30624a7</webElementGuid>
+      <webElementGuid>89038e3e-c123-4b26-9400-f4b8ee9c393e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Tracker'])[1]/following::a[1]</value>
-      <webElementGuid>4acab5ad-c701-4ec0-9a55-9a3ea6482787</webElementGuid>
+      <webElementGuid>843ff93b-b9cd-4104-b051-d5a3a842435d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Monitors'])[1]/following::a[1]</value>
-      <webElementGuid>33f1129e-03e3-490e-8e3c-ee12a46cfdd7</webElementGuid>
+      <webElementGuid>cc8d429e-f02b-4316-a32c-e7dfccca9d3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/preceding::a[1]</value>
-      <webElementGuid>ae43d258-8a86-42a6-83df-7a97427d1ee5</webElementGuid>
+      <webElementGuid>fba3a8de-9324-480b-89ba-170c911468e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/preceding::a[1]</value>
-      <webElementGuid>b3578f4f-ae56-497b-8a6a-3aa011c80a05</webElementGuid>
+      <webElementGuid>d7c5289f-fc0a-482d-8c3c-4a0c43fcc6c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
-      <webElementGuid>242955c8-06a5-4a39-bf52-f81f773aefe5</webElementGuid>
+      <webElementGuid>94a1eb70-764d-4be9-baaa-dcd3adc30a86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1110:103:16930995574692:::103::')]</value>
-      <webElementGuid>3b203d11-c6ad-4d37-9c5e-cbd8948a10f4</webElementGuid>
+      <webElementGuid>2f236797-0f2a-4756-9eb6-979369c09dcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/ul/li[2]/ul/li/div[2]/a</value>
-      <webElementGuid>59599ed1-37c9-445a-96ef-1f4f0cd06d1c</webElementGuid>
+      <webElementGuid>dfd18253-013c-4156-bc07-69c651ec6c1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1110:103:16930995574692:::103::' and (text() = 'Dashboard' or . = 'Dashboard')]</value>
-      <webElementGuid>b3265cc4-770d-46c1-ad14-c31735b81d8b</webElementGuid>
+      <webElementGuid>c83ed4d1-8e2e-4f52-a2a7-aa30a8c85664</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

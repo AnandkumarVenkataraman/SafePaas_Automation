@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dashboard</description>
+   <name>Dashboard - Prod</name>
+   <tag>MTP</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a12f3b74-afdf-4f61-b6d7-ee550d29d922</testCaseGuid>
+</TestCaseEntity>
