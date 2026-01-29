@@ -57,7 +57,7 @@
       <guid>2fbe7050-a45f-433e-acfb-dd88ef07d4de</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/9. Mitigations</testCaseId>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/9. MindMaps</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
