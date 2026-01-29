@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description>Mitigations</description>
-   <name>5. Mitigations</name>
+   <name>5. MindMaps</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>4b671493-f29b-4390-8aa1-77d77685dc91</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/9. Mitigations</testCaseId>
+      <testCaseId>Test Cases/Anand_SFPSAutomation/Enterprise Access Monitor/Prod_Main/9. MindMaps</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
