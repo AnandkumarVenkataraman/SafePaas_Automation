@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneSODTST_11012026_V2SODT_fc97f1</name>
+   <tag></tag>
+   <elementGuidId>3e2e580d-4926-4dd8-9299-43da67aa1044</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P136_TEST_NAME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P136_TEST_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Test Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>beaba751-2452-45e9-9b37-98cf7acefa71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P136_TEST_NAME</value>
+      <webElementGuid>1319722a-cc2b-4a39-b55a-3a6f14f47123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P136_TEST_NAME</value>
+      <webElementGuid>bd65de8b-7857-43d2-9718-80a59375a4eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>e40192fe-695e-49c0-acee-ab04255eea69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>95405a94-f6bf-4d97-bfd8-7761435ca54d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>249f95c3-392a-40bc-bd00-4232c4deaf56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P136_TEST_NAME');</value>
+      <webElementGuid>02f30719-1526-4944-9f3e-950392ec4d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+SODTST_11012026_V2
+SODTST_11012026
+SODTST_02012026
+SODTST_19122025033544
+SODTST_1912_V5
+SODTST_1912_V1
+TEST
+SODTEST_DEC_2027_17_V1
+EBIZAPP_202517
+SODTST_1512_V5
+SODTST_1512_V4
+SODTST_1512_V3
+SODTST_1512_V2
+SODTST_1512_V1
+SODTST_DTP1396_V1
+SODTEST_2311
+TEST1630RULES7
+TEST1RULE1630
+TEST1630
+SODTEST_0311_1
+TESTEAM1352V1_AUTOMATIC_SOD_TEST
+TESTSFP1035
+SODTEST_SEP27_V4
+SODTEST_SEP27_V3
+SODTEST_SEP27_V2
+SODTEST_SEP27_V1
+SODTest_Aug7_v1
+SNPEXTRCT_V1
+SODTest_May24_v1
+</value>
+      <webElementGuid>97f76d2d-aae2-46bc-8af6-edffb2483f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P136_TEST_NAME&quot;)</value>
+      <webElementGuid>e1580d20-f3f1-4939-ad36-0936785f3695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P136_TEST_NAME']</value>
+      <webElementGuid>c0b945b1-46ce-4d81-a966-72e2e2735c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P136_TEST_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>3322a498-25ba-4fab-868a-a5ac3f4bde9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Name'])[1]/following::select[1]</value>
+      <webElementGuid>c0fb16cb-93cb-44be-b13c-801018ee3189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>25cff18e-2a03-4993-bac0-f147fed492dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggregate User Violation Report'])[1]/preceding::select[1]</value>
+      <webElementGuid>f115d9b9-7ff4-47fb-9a1e-76c68f2aaee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>8ac18d4f-0c07-4690-b85f-07afa98d79cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>1890992a-a2c7-4315-9d9f-ad8047c4e15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P136_TEST_NAME' and @name = 'P136_TEST_NAME' and (text() = 'Select any one
+SODTST_11012026_V2
+SODTST_11012026
+SODTST_02012026
+SODTST_19122025033544
+SODTST_1912_V5
+SODTST_1912_V1
+TEST
+SODTEST_DEC_2027_17_V1
+EBIZAPP_202517
+SODTST_1512_V5
+SODTST_1512_V4
+SODTST_1512_V3
+SODTST_1512_V2
+SODTST_1512_V1
+SODTST_DTP1396_V1
+SODTEST_2311
+TEST1630RULES7
+TEST1RULE1630
+TEST1630
+SODTEST_0311_1
+TESTEAM1352V1_AUTOMATIC_SOD_TEST
+TESTSFP1035
+SODTEST_SEP27_V4
+SODTEST_SEP27_V3
+SODTEST_SEP27_V2
+SODTEST_SEP27_V1
+SODTest_Aug7_v1
+SNPEXTRCT_V1
+SODTest_May24_v1
+' or . = 'Select any one
+SODTST_11012026_V2
+SODTST_11012026
+SODTST_02012026
+SODTST_19122025033544
+SODTST_1912_V5
+SODTST_1912_V1
+TEST
+SODTEST_DEC_2027_17_V1
+EBIZAPP_202517
+SODTST_1512_V5
+SODTST_1512_V4
+SODTST_1512_V3
+SODTST_1512_V2
+SODTST_1512_V1
+SODTST_DTP1396_V1
+SODTEST_2311
+TEST1630RULES7
+TEST1RULE1630
+TEST1630
+SODTEST_0311_1
+TESTEAM1352V1_AUTOMATIC_SOD_TEST
+TESTSFP1035
+SODTEST_SEP27_V4
+SODTEST_SEP27_V3
+SODTEST_SEP27_V2
+SODTEST_SEP27_V1
+SODTest_Aug7_v1
+SNPEXTRCT_V1
+SODTest_May24_v1
+')]</value>
+      <webElementGuid>32f12932-155f-4e5c-ba62-53cda608348d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

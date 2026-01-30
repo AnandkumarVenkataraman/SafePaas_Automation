@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneSODTST_11012026_V2SODT_17b238</name>
+   <tag></tag>
+   <elementGuidId>3c7da812-2853-4f26-8fc6-e3068d1b01c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P73_TEST_NAME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P73_TEST_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Test Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a569c5ff-b9e6-4b3e-82c9-77807d0b328b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P73_TEST_NAME</value>
+      <webElementGuid>a6ac13df-05b5-4bbd-82a4-2f97ded0f0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P73_TEST_NAME</value>
+      <webElementGuid>bf91c52e-e472-4624-9cd7-affccd76ca4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>f7d8afde-0ccf-4b59-99c3-8c4d0b7cfc5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bbafb55d-4f25-4ac9-9ae8-660bfc8cd5e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f79e4caf-d7e3-4f7a-aa47-c8e32c932c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P73_TEST_NAME');</value>
+      <webElementGuid>b657bfbf-6cef-4c58-85ce-b24ce8f5fb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+SODTST_11012026_V2
+SODTST_11012026
+SODTST_02012026
+SODTST_19122025033544
+SODTST_1912_V5
+SODTST_1912_V1
+TEST
+SODTEST_DEC_2027_17_V1
+EBIZAPP_202517
+SODTST_1512_V5
+SODTST_1512_V4
+SODTST_1512_V3
+SODTST_1512_V2
+SODTST_1512_V1
+SODTST_DTP1396_V1
+SODTEST_2311
+TEST1630RULES7
+TEST1RULE1630
+TEST1630
+SODTEST_0311_1
+TESTEAM1352V1_AUTOMATIC_SOD_TEST
+TESTSFP1035
+SODTEST_SEP27_V4
+SODTEST_SEP27_V3
+SODTEST_SEP27_V2
+SODTEST_SEP27_V1
+SODTest_Aug7_v1
+SNPEXTRCT_V1
+SODTest_May24_v1
+</value>
+      <webElementGuid>2fb6411b-4aee-4e80-aa13-c4d6cfae41a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P73_TEST_NAME&quot;)</value>
+      <webElementGuid>6ef5ad3c-d567-452d-b9b9-de31ed16df76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P73_TEST_NAME']</value>
+      <webElementGuid>a4701481-f8f0-415f-9272-899fd6688c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P73_TEST_NAME_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>d7a13191-7323-46a0-b7f8-47caf6bb4a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Name'])[1]/following::select[1]</value>
+      <webElementGuid>eaa2dd1a-6318-47ec-9f2e-146aa15f0020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>4621815c-e94b-4e11-a61c-1707d475ce37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Matrix by User'])[4]/preceding::select[1]</value>
+      <webElementGuid>cf9b1e30-a183-4bdf-9393-9ee8c876e599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>2ea5fb90-a6eb-4822-b6d8-09b7bfe127fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>afd2af54-e168-4804-a6e2-6a0139899d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P73_TEST_NAME' and @name = 'P73_TEST_NAME' and (text() = 'Select any One
+SODTST_11012026_V2
+SODTST_11012026
+SODTST_02012026
+SODTST_19122025033544
+SODTST_1912_V5
+SODTST_1912_V1
+TEST
+SODTEST_DEC_2027_17_V1
+EBIZAPP_202517
+SODTST_1512_V5
+SODTST_1512_V4
+SODTST_1512_V3
+SODTST_1512_V2
+SODTST_1512_V1
+SODTST_DTP1396_V1
+SODTEST_2311
+TEST1630RULES7
+TEST1RULE1630
+TEST1630
+SODTEST_0311_1
+TESTEAM1352V1_AUTOMATIC_SOD_TEST
+TESTSFP1035
+SODTEST_SEP27_V4
+SODTEST_SEP27_V3
+SODTEST_SEP27_V2
+SODTEST_SEP27_V1
+SODTest_Aug7_v1
+SNPEXTRCT_V1
+SODTest_May24_v1
+' or . = 'Select any One
+SODTST_11012026_V2
+SODTST_11012026
+SODTST_02012026
+SODTST_19122025033544
+SODTST_1912_V5
+SODTST_1912_V1
+TEST
+SODTEST_DEC_2027_17_V1
+EBIZAPP_202517
+SODTST_1512_V5
+SODTST_1512_V4
+SODTST_1512_V3
+SODTST_1512_V2
+SODTST_1512_V1
+SODTST_DTP1396_V1
+SODTEST_2311
+TEST1630RULES7
+TEST1RULE1630
+TEST1630
+SODTEST_0311_1
+TESTEAM1352V1_AUTOMATIC_SOD_TEST
+TESTSFP1035
+SODTEST_SEP27_V4
+SODTEST_SEP27_V3
+SODTEST_SEP27_V2
+SODTEST_SEP27_V1
+SODTest_Aug7_v1
+SNPEXTRCT_V1
+SODTest_May24_v1
+')]</value>
+      <webElementGuid>4ef30072-5590-40ee-8b79-42dab4c65dae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

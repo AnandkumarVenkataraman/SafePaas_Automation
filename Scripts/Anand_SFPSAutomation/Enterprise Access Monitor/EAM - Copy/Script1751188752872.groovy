@@ -23,10 +23,9 @@ import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us01n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl('https://prod.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/select_Select any OneSODTST_12012026021047T_d7a34d'), 
-    1)
+
 
 WebUI.closeBrowser()
 
