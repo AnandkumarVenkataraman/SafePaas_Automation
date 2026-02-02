@@ -553,4 +553,37 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_My Profile_menu_L14205299837764170_1i (1)'))
 
+//SFTP
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (1)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (6)'), 'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (6)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (9)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_SFTP File Explorer'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_data (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_katdataadm_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_sftp (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_net (2)_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_processed (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_error (27)_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_20251230_101524_local_EBSDB_11122025_S_150a38'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14205299837764170 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_My Profile_menu_L14205299837764170_1i (1)'))
+
 WebUI.closeBrowser()

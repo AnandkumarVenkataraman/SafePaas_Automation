@@ -23,13 +23,12 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 
-WebUI.delay(10)
-
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
 WebUI.maximizeWindow()
+WebUI.delay(10)
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (1)'), 'KAT')
 
@@ -357,15 +356,15 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/a_Inb
 //Analytics
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/span_Help_a-TreeView-toggle (1)'))
-
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/span_Access Monitor_a-TreeView-toggle'))
-
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/span_Dashboard_a-TreeView-toggle'))
-
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/span_Violation Report_a-TreeView-toggle'))
-
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/a_User Listing and access'))
-
+WebUI.delay(2)
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/select_Select any oneCoupa_Env1EBizApp_JDBC_e66b03'),
 	'EBizApp_JDBC_Env', false)
 
@@ -528,6 +527,39 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Snapshot
 	0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14205299837764170 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_My Profile_menu_L14205299837764170_1i (1)'))
+
+//SFTP
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (1)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (6)'), 'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (6)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (9)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_SFTP File Explorer'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_data (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_katdataadm_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_sftp (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_net (2)_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_processed (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_error (27)_a-TreeView-toggle'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/span_20251230_101524_local_EBSDB_11122025_S_150a38'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_File Explorer/a_Inbox'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14205299837764170 (1)'))
 
