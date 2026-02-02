@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;t_TreeNav_17&quot;]/span</value>
+         <value>//li[@id='t_TreeNav_19']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b1c20c38-ad6d-4070-88ef-32b7ad5220b4</webElementGuid>
+      <webElementGuid>59c79aa1-78d5-435f-89bc-2a04aa6946e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>1198fd73-7e6e-451f-b706-ca58835e1ca3</webElementGuid>
+      <webElementGuid>31d0ecbc-facf-4d9a-845f-c98899a59feb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_19&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>8510e4c7-c699-4e52-af30-7b855099eae2</webElementGuid>
+      <webElementGuid>d8b126c7-4aeb-43f7-b188-913df502ce14</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_19']/span</value>
-      <webElementGuid>585e0775-1a99-465f-a215-6f0d3319795c</webElementGuid>
+      <webElementGuid>3a2b4923-c389-416c-a904-de740620e4e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/ul/li[2]/span</value>
-      <webElementGuid>393f00c3-1d8c-4fc5-8540-5919a53706a8</webElementGuid>
+      <webElementGuid>a40035f0-61b9-40df-bfbf-b2766852abb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

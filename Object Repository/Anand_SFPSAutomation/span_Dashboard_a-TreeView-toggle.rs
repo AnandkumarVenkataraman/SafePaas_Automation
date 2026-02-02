@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;t_TreeNav_9&quot;]/span</value>
+         <value>//li[@id='t_TreeNav_11']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6d303f23-6e39-4f9d-9674-792c93bebcb5</webElementGuid>
+      <webElementGuid>f719e57f-94cb-4197-b2e3-702fc34b1149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-toggle</value>
-      <webElementGuid>7d43ed23-17a3-43f0-a3cd-cd6149896b6d</webElementGuid>
+      <webElementGuid>0627506b-1a95-4f0f-b466-f1abd574fc65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_11&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
-      <webElementGuid>468896f3-d1da-4563-85a5-cbf922592887</webElementGuid>
+      <webElementGuid>cd857d0a-79fc-47ee-964d-b21474565341</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_11']/span</value>
-      <webElementGuid>2390bac6-b6b7-4025-ae5c-9efe0da5daae</webElementGuid>
+      <webElementGuid>65677d27-a342-4156-acff-e498c6050adc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/ul/li[2]/span</value>
-      <webElementGuid>483741db-5add-4491-ac47-a83e03d149a1</webElementGuid>
+      <webElementGuid>8c6319e7-af5f-4dff-af06-3e3df30a61db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
