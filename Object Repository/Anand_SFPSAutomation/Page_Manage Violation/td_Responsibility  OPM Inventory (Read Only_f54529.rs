@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Responsibility  OPM Inventory (Read Only_f54529</name>
+   <tag></tag>
+   <elementGuidId>3b9bf016-9133-4d53-88b8-1d15af16c4c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='259198704773637840']/tbody/tr[16]/td[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>tr:nth-child(16) > td:nth-child(13)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2aaef353-255e-42f3-8376-30b9a87fc6fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>609f4283-2af9-466e-a17d-b7e9dca58c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C29376970314545445</value>
+      <webElementGuid>824f1dcc-5c29-4365-b03a-05e2fac30f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responsibility : OPM Inventory (Read Only)->Menu : OPM Application Navigator Menu Inventory->Menu : OPM Application IC Forms Menu->Menu : OPM Application IC Setup Menu->Function : Change Organization - MRP</value>
+      <webElementGuid>7a314bb6-9d11-4963-a742-04d567bb1677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;259198704773637840&quot;)/tbody[1]/tr[16]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>347d599a-06d5-45d5-b830-07171ee037c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='259198704773637840']/tbody/tr[16]/td[13]</value>
+      <webElementGuid>d9f02c78-57f0-4650-a2e3-6286328e2d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Organization'])[15]/following::td[1]</value>
+      <webElementGuid>b05d5819-9388-439b-9a74-f95075a0ba67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Organization - MRP[MRPCHORG]'])[15]/following::td[2]</value>
+      <webElementGuid>0f547e35-6e6d-4d2a-96b6-d48a379c1752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPEN'])[15]/preceding::td[1]</value>
+      <webElementGuid>0331014a-def6-461f-8890-2e9fa1ddde33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBS_11'])[15]/preceding::td[3]</value>
+      <webElementGuid>a11b0239-85aa-4531-a8ba-9cb0b7a7b5ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td[13]</value>
+      <webElementGuid>3c516f3e-ea32-45f6-8cbb-0d3ad026356d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Responsibility : OPM Inventory (Read Only)->Menu : OPM Application Navigator Menu Inventory->Menu : OPM Application IC Forms Menu->Menu : OPM Application IC Setup Menu->Function : Change Organization - MRP' or . = 'Responsibility : OPM Inventory (Read Only)->Menu : OPM Application Navigator Menu Inventory->Menu : OPM Application IC Forms Menu->Menu : OPM Application IC Setup Menu->Function : Change Organization - MRP')]</value>
+      <webElementGuid>237f620a-4c2b-4e44-87a5-c5b64c894e3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

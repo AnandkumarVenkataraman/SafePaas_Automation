@@ -39,679 +39,312 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Pa
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (19)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (14)'))
+//Manage Rules
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (82)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (9)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (64)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (6)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (46)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rules (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rules (6)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Select any oneCoupa_Env1EBizApp_JDBC_a5cb0e'), 
-    'EBiz_SFTP', false)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	'EBizApp_JDBC_Env', false)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Approval Status (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Approval Status (2)'))
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Search_R247793226539899118_sort_widge_30a3c6'), 
-    'approved')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Approved (1)'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Search_R247793226539899118_sort_widge_30a3c6'), 
-    Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Import Rules_R247793226539899118_sear_84acb9 (10)'),
+	'SREL 380')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Rule Tags'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Go (3)'))
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Search_R247793226539899118_sort_widge_30a3c6'), 
-    'sftp')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_EBIZ JDBC - SREL 380'))
+WebUI.takeScreenshot()
 
-WebUI.sendKeys(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Search_R247793226539899118_sort_widge_30a3c6'), 
-    Keys.chord(Keys.ENTER))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Rules (2)'))
 
-WebUI.delay(10)
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_concat(Rule Tags contains , , sftp, _127162'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Rule Attributes (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_concat(Rule Tags contains , , sftp, _127162'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Activities (2)'))
 
-//EAM Setup
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_People (2)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Rules/select_Environment_P0_ENVIRONMENT'), 0)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/a_Manage Rules (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Remove Filter'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (3)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Remove Filter_1'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (3)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Roles Manager_a-TreeView-toggle (2)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Setup_a-TreeView-label (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Add Attributes/a_Manage Rule Attributes_a-TreeView-label'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (1)'),
-	'SFTP_1')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_Activity Report_R242004504603843036__cd9013'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/img_SFTP_1_apex-edit-page'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_AddEdit Activity/td_EBiz_SFTP_u-tL'), 'SFTP_Rule1', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Activity/span_Activity_t-Tabs-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_1 (1)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Change Organization_u-tL'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_2'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Profile User Values Form_u-tL'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/a_Setup_t-Breadcrumb-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_concat(Row text contains , , SFTP_1,_aaf103'), FailureHandling.OPTIONAL)
-
-WebUI.setText(findTestObject('Object Repository/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (1)'),
-	'SFTP_2')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_Activity Report_R242004504603843036__cd9013'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/img_SFTP_1_apex-edit-page'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_AddEdit Activity/td_EBiz_SFTP_u-tL_1'), 'SFTP_Rule2', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Activity/span_Activity_t-Tabs-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view (1)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Request Sets User Mode Form_u-tL'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_1 (1)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Requests Run Form_u-tL'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_2'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Concurrent Request Form View Requests Mode_u-tL'),
-	'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_3'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_-_u-tL'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_4'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Profile User Values Form_u-tL (1)'),
-	'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_5'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_SFM Profile User Values Form_u-tL'),
-	'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_6'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_-_u-tL (1)'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_7'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_-_u-tL (2)'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/a_Setup_t-Breadcrumb-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_concat(Row text contains , , SFTP_1,_aaf103'), FailureHandling.OPTIONAL)
-
-WebUI.setText(findTestObject('Object Repository/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (1)'),
-	'SFTP_3')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_Activity Report_R242004504603843036__cd9013'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/img_SFTP_1_apex-edit-page'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_AddEdit Activity/td_EBiz_SFTP_u-tL_2'), 'SFTP_Rule3', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Activity/span_Activity_t-Tabs-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view (1)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_Monitor Running Jobs - ADS_u-tL'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/a_Setup_t-Breadcrumb-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_concat(Row text contains , , SFTP_1,_aaf103'), FailureHandling.OPTIONAL)
-
-WebUI.setText(findTestObject('Object Repository/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (1)'),
-	'SFTP_4')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_Activity Report_R242004504603843036__cd9013'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/img_SFTP_1_apex-edit-page'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_AddEdit Activity/td_SFTP_Rule4_u-tL'), 'SFTP_Rule4', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Activity/span_Activity_t-Tabs-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view (1)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_-_u-tL (3)'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/img_Function_apex-edit-view_1 (1)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Activity Entries/td_-_u-tL (4)'), 'EBiz_SFTP', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/span_Close_ui-button-icon ui-icon ui-icon-c_9c474c (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity Entries/a_Setup_t-Breadcrumb-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Activity/button_concat(Row text contains , , SFTP_1,_aaf103'), FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/a_Manage Activity_a-TreeView-label'))
-WebUI.delay(1)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Business Process/a_Manage Business Process_a-TreeView-label'))
-WebUI.delay(1)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Attribute Grouping/a_Manage Attribute Groups_a-TreeView-label'))
-WebUI.delay(1)
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/input_Create_R189436115360253186_search_field (2)'),
-	'SFTP')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/button_Create_R189436115360253186_search_button'))
-WebUI.delay(1)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/button_concat(Row text contains , , SFTP, ,_bafa7b'), FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/a_Manage Rule Tags_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Environment_P0_ENVIRONMENT'),
-	'EBiz_SFTP', false)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Environment_P0_ENVIRONMENT'),
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
 	0)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/a_Manage Exception Type_a-TreeView-label'))
-WebUI.delay(1)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Inbox (2)'))
+WebUI.comment("Manage Rules completed")
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/input_Create_R327963090047660484_search_field (1)'),
-	'EBS_REM')
+//EAM Setup
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (83)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/button_Create_R327963090047660484_search_button'))
-WebUI.delay(1)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (65)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL'), 'Selected', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Roles Manager_a-TreeView-toggle (4)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_Selected_u-tL'),
-	'Single Notification', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rule Attributes (1)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL_1'), 'Selected', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Add Attributes/a_Manage Activity (1)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_Selected_u-tL_1'),
-	'SOD Review', FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (3)'),
+	'EBS_11')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL_2'), 'All User Violations', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_Go (2)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_All User Violations_u-tL'),
-	'Multiple Notifications', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/img_EBS_11_apex-edit-page'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_-_u-tL_3'), 'All User Responsibilities Violations', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/span_Entry (2)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_All User Responsibilities Violations_u-tL'),
-	'Multiple Notifications', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/a_Manage Activity (2)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM1_u-tC'),
-	'Y', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_Remove Filter'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM2_u-tC'),
-	'Y', FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (3)'),
+	'EBS_12')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM3_u-tC'),
-	'Y', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_Go (2)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/td_EBS_REM4_u-tC'),
-	'Y', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/img_EBS_11_apex-edit-page'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/button_concat(Row text contains , , EBS_REM_ee440d'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Activity/span_Entry (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Function_apex-edit-view'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (7)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/span_Entry Details_ui-button-icon ui-icon u_ede766'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Administration_a-TreeView-toggle (5)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Function_apex-edit-view_1'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Company Settings_a-TreeView-label'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/span_Entry Details_ui-button-icon ui-icon u_ede766'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Company/div_Enterprise Access Certification_apex-it_ee9767'),
-	0, FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/a_Manage Activity (2)'))
 
-WebUI.delay(2)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_Remove Filter'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Company/a_Manage Company_a-TreeView-label'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/a_Manage Business Process (2)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage Environment/input_Create_R258165063082313757_search_field (2)'),
-	'EBiz_SFTP')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Business Process/a_Manage Attribute Groups (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_Create_R258165063082313757_search_button'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Attribute Grouping/a_Manage Rule Tags (1)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environment/td_-_u-tC'), 'A', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/a_Manage Exception Type (2)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environment/td_A_u-tC'), 'EBS R12.2', FailureHandling.OPTIONAL)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	'EBizApp_JDBC_Env', false)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Environment/td_EBS R12.2_u-tL'), 'Operations', FailureHandling.OPTIONAL)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	0)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/button_concat(Row text contains , , EBiz_SF_00c342'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/a_Manage Remediation Plan (3)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Environment/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Remediation Plan/a_Manage EAM Roles (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/a_Assign EAM Roles'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign EAM Roles/a_Inbox'))
+WebUI.comment("EAM Setups verified successfully")
 
 //SOD Test
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (84)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (66)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Manage ERP Snapshot_a-TreeView-toggle (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage SOD Test (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Define Scope_a-TreeView-label'))
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	'EBizApp_JDBC_Env', false)
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (1)'), 'EBiz_SFTP', false)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Create (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a'))
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_-- Select any one ---- Local File -- (2)'),
+//	'0', true)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_Restricted AccessSOD DetectiveSOD Pr_810bc4 (2)'),
+	1)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_1456471471_3471_RAALL CERP RULESAR_A_742b0f'),
+	'All', true)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
-WebUI.takeScreenshot()
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE (9)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_1456471471_3471_RAALL CERP RULESAR_A_3047ab'),
+	'EBiz', true)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE (9)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_1'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_1456471471_3471_RAALL CERP RULESAR_A_3ae5a5'),
+	'EBizRule', true)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE (9)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
-WebUI.takeScreenshot()
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_1456471471_3471_RAALL CERP RULESAR_A_420ef9'),
+	'ENVREARCH', true)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
-WebUI.takeScreenshot()
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE (9)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_2'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_3'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_1'))
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_2'))
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/span_3'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Rule Report/a_Define Scope_t-Breadcrumb-label'))
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (1)'), 0)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Rules/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (2)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (4)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (4)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 'EBiz_SFTP', false)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Manage SOD Test_B169646823131451684'))
-WebUI.delay(10)
-
-//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_DS_ID (1)'), 4)
-
-//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_(Value Required)_P30_COMPONENT'), 2)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Job Detail/select_SOD Objective_P30_TEST_TYPE_CODE'), 1)//This indexing is for selecting SOD Detective
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Job Detail/select_Rule Tags_P30_RULE_TAG_LEFT'), 'SFTP',
-	true)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Rule Tags_P30_RULE_TAG_MOVE'))
-
-//Set the run-time variable here, based on Date and Time
+//Set the current date & time as a variable
 def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 def currentDateTime = dateFormat.format(new Date())
-def sodTST = 'SODTST_' + currentDateTime
+def sodTst = 'SODTST' + currentDateTime
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (1)'), sodTST)
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (11)'),
+	sodTst)
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (1)'), 'This SOD Test was initiated by QA Automation, for EBS')
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (9)'),
+	'This SOD Test is initiated by QA Automation, for EBS')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_B123623581915827245 (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Create (4)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Job Detail/button_Cancel_js-confirmBtn ui-button ui-co_a46fe3'), FailureHandling.OPTIONAL)
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/h2_Job initiated SODTST_06022026_V2_2026020_f84369'),
+	'Job initiated: SODTST_06022026_V2_202602060428.SOD Test initiated successfully.', FailureHandling.OPTIONAL)
 
-//Update this verification [lines 442 & 444 below] later,
-//to handle the SOD Test's jobname dynamically during run time,
-//based on the value that was set for sodTST
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/h2_Breadcrumb_t-Alert-title'), 'Job initiated: SODTEST_SEPT14_V2_202509140442.SOD Test initiated successfully.', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Job initiated SODTST_06022026_V2_202_1035a8'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Job initiated SODTEST_SEPT14_V2_2025_3bd077'), FailureHandling.OPTIONAL)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	0)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/a_Inbox (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (8)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (29)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Company Settings_a-TreeView-toggle (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Company Settings_a-TreeView-toggle (14)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Platform_a-TreeView-label'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Scheduler (1)'))
+WebUI.delay(10)
 
-WebUI.setText(findTestObject('Object Repository/Page_Scheduler/input_Job Time_SCHEDULER_search_field'), sodTST, FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/input_Job Time_SCHEDULER_search_field (2)'),
+	sodTst, FailureHandling.OPTIONAL)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_Job Time_SCHEDULER_search_button'), FailureHandling.OPTIONAL)
-WebUI.delay(1)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/button_Go (1)'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/button_Remove Filter'), FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/a_Inbox (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (84)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (66)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Manage ERP Snapshot_a-TreeView-toggle (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage SOD Test_1'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	'EBizApp_JDBC_Env', false)
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/input_Create_R169645132708451655_search_field (9)'),
+	sodTst)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Go (2)'))
+WebUI.delay(300)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Go (2)'))
 WebUI.takeScreenshot()
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/td_Closed (1)'), 'Closed')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/button_concat(Row text contains , , SODTEST_44645a'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/a_Test Log (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Scheduler/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Error'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Error'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (2)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 'EBiz_SFTP', false)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (2)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Manage SOD Test/input_Create_R169645132708451655_search_field'), sodTST)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/input_Level_P10_LOG_LEVEL_1'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (2)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_-_u-tL'), 'Running', FailureHandling.OPTIONAL)
-WebUI.delay(600)
+WebUI.back()
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_Create_R169645132708451655_search_button'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/a_SODTST_06022026_V2'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage SOD Test/td_SOD Detective_u-tL'), 'Closed')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Test/button_Cancel (1)'))
 
-//Verify the logs
-//WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_concat(Row text contains , , SODTest_c4f3ac'), FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/button_Remove Filter'), FailureHandling.OPTIONAL)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	0)
 
-//WebUI.doubleClick(findTestObject('Object Repository/Page_Log Report/ul_Report Settings_a-IRR-controls'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage SOD Test/a_Inbox (1)'))
+WebUI.comment("SOD Test completed successfully")
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/a_Description_a-IRR-headerLink'))
+//Manage Violations
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (85)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/button_Documentation_a-Button a-IRR-button _ce8d41'))
-WebUI.delay(2)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (67)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/a_Record Count_a-IRR-headerLink'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Define Scope_a-TreeView-toggle (16)'))
 
-//WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/div_Error_row'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Violation (3)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Level_u-checkbox'))
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	'EBizApp_JDBC_Env', false)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Info_u-checkbox'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn (8)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Log Report/span_Request_a-IRR-noDataMsg-text'), 'No data found.')
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/input_Close_a-PopupLOV-search apex-item-text'),
+	sodTst)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Info_u-checkbox'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/label_Level_u-checkbox'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Log Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (5)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (5)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Detect Violations_a-TreeView-label (1)'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage SOD Test/select_Environment_P0_ENVIRONMENT'), 'EBiz_SFTP', false)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/button_concat(Row text contains , , sodtest_4b92e9'), FailureHandling.OPTIONAL)
-
-//Verify in Manage Violations
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage SOD Test/a_Manage SOD Test_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Violation/select_Environment_P74_ENVIRONMENT'),
-	'EBiz_SFTP', false)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'), sodTST)
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_Select List 1 rows. Use arrow keys_pop_e9b563 (1)'))
-
-//WebUI.sendKeys(findTestObject('Object Repository/Page_Manage Violation/input_Search_a-PopupLOV-search apex-item-text'),
-//	Keys.chord(Keys.ENTER))
-
-WebUI.delay(2)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_SODTST06022026044044'))
+WebUI.delay(5)
 WebUI.takeScreenshot()
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_1 -                   15 of           _131179'),
+	'1 - 15 of 119', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Violation/td_Change Organization_u-tL'), 'Responsibility : Chef->Menu : CLR_TOP_MENU->Menu : FND_OTHER 4.0->Function : Change Organization - MRP', FailureHandling.OPTIONAL)
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_EBIZ JDBC - SREL 380'),
+	'EBIZ JDBC - SREL 380', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Violation/span_INTRA_a-IRR-pagination-label'), '1 - 15 of 41')
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_OPM Inventory (Read Only)OPM_INVENTORY'),
+	'OPM Inventory (Read Only)[OPM_INVENTORY]', FailureHandling.OPTIONAL)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Violation/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Responsibility (2)'),
+	'Responsibility', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Oracle Process Manufacturing Inventory'),
+	'Oracle Process Manufacturing Inventory', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Function (1)'),
+	'Function', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Change Organization - MRPMRPCHORG'),
+	'Change Organization - MRP[MRPCHORG]', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Change Organization'),
+	'Change Organization', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_Responsibility  OPM Inventory (Read Only_f54529'),
+	'Responsibility : OPM Inventory (Read Only)->Menu : OPM Application Navigator Menu Inventory->Menu : OPM Application IC Forms Menu->Menu : OPM Application IC Setup Menu->Function : Change Organization - MRP', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_OPEN (3)'), 'OPEN', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_1 (3)'), '1', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_EBS_11'), 'EBS_11', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_ZSTUDENTA'), 'ZSTUDENTA', FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/td_OPM Student A'),
+	'OPM Student A', FailureHandling.OPTIONAL)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/a_Inbox (1)'))
+WebUI.comment("Manage Violations verified successfully")
 
 //Analytics
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (6)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (6)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Dashboard_a-TreeView-toggle (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle (2)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review Actions Details_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT'),
-	'EBiz_SFTP', false)
-
-//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME'),
-//	1)
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_Test Name_P86_TEST_NAME_lov_btn (2)'))
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text (2)'),
-	sodTST)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_SODTEST_EAM1500_V3'))
-
-WebUI.delay(2)
-WebUI.takeScreenshot()
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/span_-_a-IRR-pagination-label'), '1 - 41 of 41')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Violations by User Report_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Violation Matrix by User/select_Environment_P73_ENVIRONMENT'),
-	'EBiz_SFTP', false)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Violation Matrix by User/select_Test Name_P73_TEST_NAME'),
-	1)//This indexing is for selecting the SOD Test
-WebUI.delay(2)
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Violation Matrix by User/a_Violation Matrix by User_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Environment_P98_ENVIRONMENT'),
-	'EBiz_SFTP', false)
-
-//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Intra Role Violation Details Report/select_Test Name_P98_TEST_NAME'),
-//	1)
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/button_Test Name_P98_TEST_NAME_lov_btn (1)'))
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/input_Search_a-PopupLOV-search apex-item-text (1)'),
-	sodTST)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Intra Role Violation Details Report/span_SODTST_02122025050017'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Intra Role Violation Details Report/span_Open_a-IRR-pagination-label'),
-	'1 - 25 of 41')
-WebUI.delay(2)
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Intra Role Violation Details Report/a_Intra Role Violation Details Report_a-Tre_fca8d0'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Aggregate Violation Report/select_Environment_P136_ENVIRONMENT'),
-	'EBiz_SFTP', false)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Aggregate Violation Report/select_Test Name_P136_TEST_NAME'),
-	1)//This indexing is for selecting the SOD Test
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Aggregate Violation Report/span_ChefCHEF CULINAIR_a-IRR-pagination-label'),
-	'1 - 7 of 7')
-WebUI.delay(2)
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Aggregate Violation Report/span_Rules Report_a-TreeView-toggle'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Aggregate Violation Report/a_Application Test Environment Reports_a-Tr_da745a'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Security Snapshot Details/select_Environment_P0_ENVIRONMENT'),
-	'Coupa_Env1', false)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Security Snapshot Details/a_Security Snapshot Details_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Test Environment Status Summary/select_Environment_P0_ENVIRONMENT'),
-	'EBiz_SFTP', false)
-WebUI.delay(2)
-WebUI.takeScreenshot()
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Test Environment Status Summary/select_Environment_P0_ENVIRONMENT (1)'),
-	0)//This indexing is not for Env. selection
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Test Environment Status Summary/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
-
-//Exception
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (7)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (7)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Define Scope_a-TreeView-toggle (2)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Violation_a-TreeView-label'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Exception/select_Environment_P43_ENVIRONMENT'),
-	'Coupa_Env1', false)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Exception/td_-_u-tL'), 'PERMISSION')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Exception/td_-_u-tL_1'), 'Approved')
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Exception/select_Environment_P43_ENVIRONMENT'),
-	0)//This indexing is not for Env. selection
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Exception/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (7)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Monitor_a-TreeView-toggle (7)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Dashboard_a-TreeView-toggle (2)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Analytics_a-TreeView-toggle (3)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Review Actions Details_a-TreeView-label (1)'))
-
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
-	'Coupa_Env1', false)
-
-//WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
-//	1)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/button_Test Name_P86_TEST_NAME_lov_btn (2)'))
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/input_Search_a-PopupLOV-search apex-item-text (2)'),
-	'SODTST_EAM1531_NOV25_V1')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Violation Report/span_SODTEST_EAM1500_V3'))
-
-WebUI.delay(2)
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Attribute(s)_a-IRR-headerLink'))
-
-WebUI.setText(findTestObject('Object Repository/Page_User Violation Report/input_Search_uvrReport_sort_widget_search_field'),
-	'PERMISSION')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_User Violation Report/input_Search_uvrReport_sort_widget_search_field'),
-	Keys.chord(Keys.ENTER))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL'), 'PERMISSION', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_User Violation Report/td_-_u-tL_1'), 'PERMISSION', FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/button_concat(Exception Status contains , ,_28a539'), FailureHandling.OPTIONAL)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Test Name_P86_TEST_NAME (1)'),
-	0, FailureHandling.OPTIONAL)//This indexing is not for Env. selection
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_User Violation Report/select_Environment_P86_ENVIRONMENT (1)'),
-	0)//This indexing is not for Env. selection
-
-//Logout
-WebUI.enhancedClick(findTestObject('Object Repository/Page_User Violation Report/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (26)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (27)'))
-
-WebUI.closeBrowser()
 
