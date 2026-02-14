@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 //Login as Admin and verify in Manage Review Status and Analytics
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL)
 WebUI.maximizeWindow(FailureHandling.OPTIONAL)
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (18)'), 'KAT')
@@ -91,22 +91,6 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Actions Details/select_Environment_P0_ENVIRONMENT'),
 	0)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Actions Details/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
-
-//Reset it back to Violation-Level
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_ARCPaaS_a-TreeView-toggle (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle (16)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Approval Workflow_a-TreeView-label (2)'))
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SOD Review Configuration/select_Environment_P130_ENVIRONMENT (3)'),
-	2)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SOD Review Configuration/label_Aggregated Level_u-radio'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SOD Review Configuration/button_Environment Level_B85503899241306397 (1)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Review Actions Details/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 

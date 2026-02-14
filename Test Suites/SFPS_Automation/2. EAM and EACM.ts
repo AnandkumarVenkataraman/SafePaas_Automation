@@ -29,7 +29,7 @@
       <guid>f8d9b1c5-3cd8-49ce-8495-29f4a579c75c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/EnterpriseRolesManager(ERM)</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/19. EnterpriseRolesManager(ERM)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -85,7 +85,7 @@
       <guid>0779ce43-720a-468c-ab89-e92dbbadae12</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/CrossApp_SOD</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/18. CrossApp_SOD</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>SODReview_AggregateLevel_Main</description>
-   <name>SODReview_AggregateLevel_Main</name>
+   <name>20. SODReview_AggregateLevel_Main</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

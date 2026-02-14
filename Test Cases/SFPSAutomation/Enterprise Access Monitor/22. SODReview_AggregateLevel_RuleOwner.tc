@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>SODReview_AggregateLevel_RuleOwner</description>
-   <name>SODReview_AggregateLevel_RuleOwner</name>
+   <name>22. SODReview_AggregateLevel_RuleOwner</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

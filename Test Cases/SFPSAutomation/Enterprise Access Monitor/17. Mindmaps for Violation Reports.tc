@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>EAM-1440</name>
+   <description>Mindmaps for Violation Reports</description>
+   <name>17. Mindmaps for Violation Reports</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

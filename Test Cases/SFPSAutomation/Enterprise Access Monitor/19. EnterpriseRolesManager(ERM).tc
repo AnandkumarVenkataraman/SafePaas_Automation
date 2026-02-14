@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>EnterpriseRolesManager(ERM)</description>
-   <name>EnterpriseRolesManager(ERM)</name>
+   <name>19. EnterpriseRolesManager(ERM)</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

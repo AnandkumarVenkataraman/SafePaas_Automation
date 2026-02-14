@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 //Launch the SOD Review survey [at Aggregate Level] as Role-owner, and remediate
 WebUI.openBrowser('')
 WebUI.delay(5)
-
+//Update the below url every time
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD532C4D28706EB59C3FB881D4C497D719')
 WebUI.maximizeWindow(FailureHandling.OPTIONAL)
 
