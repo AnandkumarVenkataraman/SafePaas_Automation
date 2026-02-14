@@ -4,5 +4,6 @@
    <name>1_RuleCreation_AddRule</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>fa3cde24-3d12-42fe-940e-05e210257930</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d4db776-3d80-4cdc-a946-7649c2560bfc</testCaseGuid>
 </TestCaseEntity>

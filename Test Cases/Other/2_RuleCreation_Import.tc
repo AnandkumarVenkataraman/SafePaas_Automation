@@ -4,5 +4,6 @@
    <name>2_RuleCreation_Import</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>4629bfae-ab45-4263-b6ee-c7c7604f1d8a</testCaseGuid>
 </TestCaseEntity>
