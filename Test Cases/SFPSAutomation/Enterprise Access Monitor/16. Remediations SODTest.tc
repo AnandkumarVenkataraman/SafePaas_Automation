@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Remediations</description>
-   <name>Remediations</name>
+   <description>Remediations SODTest</description>
+   <name>16. Remediations SODTest</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

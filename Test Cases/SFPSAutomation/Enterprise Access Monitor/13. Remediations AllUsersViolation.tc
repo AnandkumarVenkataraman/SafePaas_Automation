@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Remediations AllUsersViolation</description>
+   <name>13. Remediations AllUsersViolation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e88b1d3f-c432-4741-b4ae-76f40c89c041</testCaseGuid>
+</TestCaseEntity>

@@ -50,7 +50,7 @@
       <guid>df48d5fd-e363-4d26-9ddc-2df651daeb3a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/Remediations</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/16. Remediations SODTest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
