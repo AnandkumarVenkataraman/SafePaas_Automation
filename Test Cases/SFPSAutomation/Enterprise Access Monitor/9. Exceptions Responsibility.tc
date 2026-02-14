@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Exceptions</description>
+   <description>Exceptions - Responsibility</description>
    <name>9. Exceptions Responsibility</name>
    <tag>EAM</tag>
    <comment></comment>

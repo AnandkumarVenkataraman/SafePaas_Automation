@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
@@ -32,23 +32,23 @@ WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/P
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Login/input_P101_PASSWORD (1) (1) (1) (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Login/button_Login (1) (1) (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Login/button_Login (1) (1) (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle (1) (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle (1) (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle (1) (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle_1 (1) (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle_1 (1) (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle_1 (1) (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle_1_2 (1) (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle_1_2 (1) (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/span_a-TreeView-toggle_1_2 (1) (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/a_Actions (1) (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/a_Actions (1) (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Home/a_Actions (1) (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1) (1)'))
 
@@ -62,15 +62,15 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrecti
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Go (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Go (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Go (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -82,15 +82,15 @@ WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/P
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -105,15 +105,15 @@ WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/P
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -128,7 +128,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/All User Roles Violation/P
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/span_1 -                    4 of           _30b9b1'), 
     0, FailureHandling.OPTIONAL)
@@ -142,7 +142,7 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/input_f01'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/input_f01'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/input_f01'))
 
 WebUI.scrollToPosition(0, 0)
 
@@ -165,7 +165,7 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Submit'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/All User Roles Violation/Page_Remediate Issues/button_Submit'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
     '')
@@ -179,7 +179,7 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
 
 WebUI.delay(20)
 

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
-   <name>10_MassUpdateException_UsersWithConflict</name>
+   <description>MassUpdateException UsersWithConflict</description>
+   <name>11. MassUpdateException UsersWithConflict</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>6905a341-fa3d-4b94-a0a7-ac6eb1cd60ba</testCaseGuid>
 </TestCaseEntity>

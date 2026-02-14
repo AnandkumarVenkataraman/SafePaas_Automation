@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
@@ -32,23 +32,23 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Se
 WebUI.setEncryptedText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Login/input_P101_PASSWORD (1) (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Login/button_Login (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Login/button_Login (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle_1 (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle_1 (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle_1 (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle_1_2 (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle_1_2 (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/span_a-TreeView-toggle_1_2 (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/a_Actions (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/a_Actions (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Home/a_Actions (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Select any oneCERP_1CloudERPEBizApp__fcbf94 (1)'))
 
@@ -62,15 +62,15 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba1/ManageCorrecti
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Go (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Go (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Go (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_a-Menu-statusCol (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_a-Menu-statusCol (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -90,15 +90,15 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Se
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -110,15 +110,15 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Se
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_a-Menu-statusCol (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -133,15 +133,15 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Se
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -150,7 +150,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba1/ManageCorrecti
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_p_ignore_10 (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_p_ignore_10 (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_p_ignore_10 (1)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_p_ignore_10 (1)'), 
     '')
@@ -160,15 +160,15 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Se
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/select_Rule NameStart Entry NameViolation E_742f60 (1)'))
 
@@ -183,7 +183,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Se
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/button_Apply (1)'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/span_1 -                    1 of           _e353a0'), 
     0, FailureHandling.OPTIONAL)
@@ -195,7 +195,7 @@ WebUI.delay(2)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_f01'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_f01'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/input_f01'))
 
 WebUI.scrollToPosition(0, 0)
 
@@ -211,7 +211,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/ManageCorrect
 
 WebUI.verifyElementClickable(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/Submit_RemediateViolation'))
 
-WebUI.click(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/Submit_RemediateViolation'))
+WebUI.enhancedClick(findTestObject('deba1/ManageCorrectiveActions_Selected/Page_Remediate Issues/Submit_RemediateViolation'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/input_P120_JUSTIFICATION'), 
     '')
@@ -221,7 +221,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Se
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageCorrectiveActions_Selected/Page_Add Remediation Action/button_Submit'))
 
 WebUI.delay(20)
 
