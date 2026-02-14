@@ -36,7 +36,7 @@
       <guid>2a6a6c14-19ab-4e3e-9915-b21d7fc97fd5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/Exceptions</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/9. Exceptions Responsibility</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

@@ -24,6 +24,7 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
+import com.kms.katalon.core.util.KeywordUtil
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Function_apex-edit-view_1'))
 
@@ -54,5 +55,6 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/a_Assign EAM Roles'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign EAM Roles/a_Inbox'))
-WebUI.comment("EAM Setups verified successfully")
+//WebUI.comment("EAM Setups verified successfully")
+KeywordUtil.markPassed("EAM Setups for Admin. verified successfully")
 WebUI.closeBrowser()

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Exceptions</description>
-   <name>Exceptions</name>
+   <name>9. Exceptions Responsibility</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

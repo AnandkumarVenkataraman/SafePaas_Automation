@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
 WebUI.maximizeWindow()
 
@@ -32,32 +32,32 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/
 WebUI.setEncryptedText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_New_P101_PASSWORD (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/button_Login (1) (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/button_Login (1) (1)'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle -U200'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle -U200'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle -U200'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle- U201'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle- U201'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle- U201'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/span_Detect Violation_U202'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/span_Detect Violation_U202'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/span_Detect Violation_U202'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Violation - U205'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Violation - U205'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Violation - U205'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Select any oneCERP_1CloudERPEBizApp__fcbf94'), 
-    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
+    'EBizApp_JDBC_Env', false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
 
-WebUI.click(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/buttonP74_REQUEST_NAME_lov_btn - 123'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/input_a-PopupLOV-search apex-item-text - 799'), 
     '')
@@ -67,7 +67,7 @@ WebUI.setText(findTestObject('Object Repository/deba1/FilterFalsePositives_Entri
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
-WebUI.click(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/FilterFalsePositives_EntriesRole/Page_Manage Violation/span_KTLN_SODTest_Dec22_V4_All - Copy'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_PrivilegeRole'))
 
@@ -81,11 +81,11 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/deba10/ExceptionRole
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Filter'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Filter'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Rule NameStart Entry NameViolation E_2541a1'))
 
@@ -96,15 +96,15 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Actions'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Filter'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Filter'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/select_Rule NameStart Entry NameViolation E_2541a1'))
 
@@ -118,11 +118,11 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Apply'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_f01'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_f01'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/input_f01'))
 
 WebUI.takeFullPageScreenshot()
 
@@ -130,7 +130,7 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Submit'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Violation/button_Submit'))
 
 WebUI.delay(3)
 
@@ -146,7 +146,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/deba1/Page_Add Exce
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/Page_Add Exception/button_Submit (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba1/Page_Add Exception/button_Submit (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/Page_Add Exception/button_Submit (1)'))
 
 WebUI.delay(10)
 
@@ -154,7 +154,7 @@ WebUI.scrollToElement(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Ex
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'))
 
@@ -163,11 +163,11 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Filter'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Filter'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_EditRule NameUser NameException Type_96c83f'))
 
@@ -182,7 +182,7 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
 WebUI.delay(3)
 
@@ -192,11 +192,11 @@ WebUI.scrollToPosition(0, 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Manage Exception/button_ktln_eam_user1'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Manage Exception/button_ktln_eam_user1'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Manage Exception/button_ktln_eam_user1'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Manage Exception/span_a-Menu-statusCol'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Manage Exception/a_Logout'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageException_ApprovalProcess/Page_Manage Exception/a_Logout'))
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_IQA - Fall 2023_P101_COMPANY (1)'), 
     'KAT')
@@ -207,31 +207,31 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/
 WebUI.setEncryptedText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_New_P101_PASSWORD (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Login/button_Login - U300'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Login/button_Login - U300'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Inbox (3)'), 0, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Inbox (3)'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Inbox (3)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Inbox (3)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Begin Date (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Begin Date (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Begin Date (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Last Day (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Last Day (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Last Day (1)'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_Actions (1)'), 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_Actions (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_Actions (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_Actions (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_Filter (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/span_Filter (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/select_PriorityMessage TypeRecipient RoleSu_d404c1 (1)'))
 
@@ -249,11 +249,11 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/i
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/button_Apply (1) - U301'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/button_Apply (1) - U301'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/button_Apply (1) - U301'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/a_Maintain GL configuration_U400'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/a_Maintain GL configuration_U400'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/a_Maintain GL configuration_U400'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Notification/textarea_P3_NORES_TEXTAREA_1'), 
     '')
@@ -263,19 +263,19 @@ WebUI.setText(findTestObject('Object Repository/deba1/ManageException_Privilege_
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Notification/label_Approve'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Notification/label_Approve'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Notification/label_Approve'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Notification/button_Go'))
 
-WebUI.click(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Notification/button_Go'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba1/ManageException_Privilege_Approval_Process/Page_Notification/button_Go'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_katalon_admin (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_katalon_admin (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/button_katalon_admin (1)'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Logout (1)'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Logout (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Home/a_Logout (1)'))
 
 WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_IQA - Fall 2023_P101_COMPANY (1)'), 
     'KAT')
@@ -286,36 +286,36 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/
 WebUI.setEncryptedText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Login/input_New_P101_PASSWORD (1)'), 
     'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Login/button_Login - U300'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Login/button_Login - U300'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle -U200'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle -U200'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle -U200'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle- U201'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle- U201'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/span_a-TreeView-toggle- U201'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/span_Detect Violation_U202'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/span_Detect Violation_U202'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/span_Detect Violation_U202'))
 
 WebUI.verifyElementClickable(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'))
 
-WebUI.click(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'))
+WebUI.enhancedClick(findTestObject('deba10/ExceptionRole/Page_Home/a_Manage Exception - U206'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'))
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_Select any oneEBizApp_JDBC_EnvKTLN_C_7a3a43'), 
-    'KTLN_CloudERP', false, FailureHandling.STOP_ON_FAILURE)
+    'KTLN_CloudERP', false, FailureHandling.OPTIONAL)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Actions'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Filter'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Filter'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Filter'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/select_EditRule NameUser NameException Type_96c83f'))
 
@@ -330,7 +330,7 @@ WebUI.setText(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
-WebUI.click(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
+WebUI.enhancedClick(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/button_Apply'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/deba10/ExceptionRole/Page_Manage Exception/a_Approval Status'), 
     0)

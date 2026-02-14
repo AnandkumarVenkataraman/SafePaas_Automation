@@ -75,7 +75,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/button_Request Name_P74_REQUEST_NAME_lov_btn (8)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/input_Close_a-PopupLOV-search apex-item-text'),
-	sodTst)
+	'SODTST06022026055543')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/span_SODTST06022026044044'))
 WebUI.delay(5)
