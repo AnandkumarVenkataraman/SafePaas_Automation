@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>EAM Setups</description>
-   <name>1. EAM Setups</name>
+   <description></description>
+   <name>10_Exceptions Functions</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fa3cde24-3d12-42fe-940e-05e210257930</testCaseGuid>
+   <testCaseGuid>4cbe5033-439a-4aab-b253-7b3a0a20bb29</testCaseGuid>
 </TestCaseEntity>

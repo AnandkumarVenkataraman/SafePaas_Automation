@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>6. Analytics - Violation Reports</description>
+   <description>Analytics - Violation Reports</description>
    <name>6. Analytics - Violation Reports</name>
    <tag>EAM</tag>
    <comment></comment>
