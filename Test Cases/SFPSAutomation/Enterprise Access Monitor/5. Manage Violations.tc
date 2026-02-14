@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>5. Manage Violations</description>
+   <name>5. Manage Violations</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a7e4f8a-2a50-4b1e-8d60-cd630e0c2ae6</testCaseGuid>
+</TestCaseEntity>

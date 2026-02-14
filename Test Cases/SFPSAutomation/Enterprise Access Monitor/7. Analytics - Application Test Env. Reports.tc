@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>7. Analytics - Application Test Env. Reports</description>
+   <name>7. Analytics - Application Test Env. Reports</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ec43792-b955-4f6a-adae-ca640eae0482</testCaseGuid>
+</TestCaseEntity>

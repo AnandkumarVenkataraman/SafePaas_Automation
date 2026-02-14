@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>6. Analytics - Violation Reports</description>
+   <name>6. Analytics - Violation Reports</name>
+   <tag>EAM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2955bc71-1d52-4688-a31e-78f13b7fc2fe</testCaseGuid>
+</TestCaseEntity>
