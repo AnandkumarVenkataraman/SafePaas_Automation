@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select one -Action Approval_bc1e73 (2)</name>
+   <tag></tag>
+   <elementGuidId>cc678764-d98f-45d2-ab5e-420119e609a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P34_EMAIL_CATEGORY']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P34_EMAIL_CATEGORY</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Email Category&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>750db27c-4d8e-413f-9bae-85ee879b3980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P34_EMAIL_CATEGORY</value>
+      <webElementGuid>2d7b8033-1428-4f6f-a113-5a68c7a82e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P34_EMAIL_CATEGORY</value>
+      <webElementGuid>5a0fe77b-84a3-4de3-b9e4-2a42aaf20607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>582834e7-f337-436e-ac81-f6a9aa9556ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2f6ab005-3bcd-431d-912c-b437d57fe9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c9e20f0e-a580-474c-9cb4-0b60fbf81d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select one -
+Action Approval Approved NotificationAction Approval Rejection NotificationAction Approval Reminder NotificationAction Approval Request NotificationAction Approval Reviewer NotificationAction Cancel NotificationCancelling NotificationEscalation NotificationException Approval Approved NotificationException Approval Rejection NotificationException Approval Reminder NotificationException Approval Request NotificationException Approval Reviewer NotificationException Cancel NotificationGenericReassignment NotificationReminder NotificationRule Approval Approved NotificationRule Approval Cancel NotificationRule Approval Rejection NotificationRule Approval Reminder NotificationRule Approval Request NotificationRule Approval Reviewer NotificationRules Review Cancel NotificationRules Review Generic NotificationRules Review Reminder Notification</value>
+      <webElementGuid>55b924e0-9b74-4bbd-b42f-6d1e650f7552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P34_EMAIL_CATEGORY&quot;)</value>
+      <webElementGuid>9c0d3d40-9c57-4106-b1ad-42086f6ffcd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P34_EMAIL_CATEGORY']</value>
+      <webElementGuid>50f23c1a-a4f1-4929-b83b-29e850a32a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P34_EMAIL_CATEGORY_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>ed7563ca-0dd6-4a2e-b95c-fa7b4538ae57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Category'])[1]/following::select[1]</value>
+      <webElementGuid>26fda6f1-e4db-4033-9304-5e7b1ef50f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::select[2]</value>
+      <webElementGuid>bbd6f214-6caf-4449-85ab-0e2f156d1232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Template Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>8ba47ac4-ea54-414a-85c3-ab8838b6c4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email From'])[1]/preceding::select[2]</value>
+      <webElementGuid>99c5913a-d280-4ee9-9d0f-d94d0510dfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>b627ec39-ceb3-4b52-859e-93d95b815e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P34_EMAIL_CATEGORY' and @name = 'P34_EMAIL_CATEGORY' and (text() = '- Please select one -
+Action Approval Approved NotificationAction Approval Rejection NotificationAction Approval Reminder NotificationAction Approval Request NotificationAction Approval Reviewer NotificationAction Cancel NotificationCancelling NotificationEscalation NotificationException Approval Approved NotificationException Approval Rejection NotificationException Approval Reminder NotificationException Approval Request NotificationException Approval Reviewer NotificationException Cancel NotificationGenericReassignment NotificationReminder NotificationRule Approval Approved NotificationRule Approval Cancel NotificationRule Approval Rejection NotificationRule Approval Reminder NotificationRule Approval Request NotificationRule Approval Reviewer NotificationRules Review Cancel NotificationRules Review Generic NotificationRules Review Reminder Notification' or . = '- Please select one -
+Action Approval Approved NotificationAction Approval Rejection NotificationAction Approval Reminder NotificationAction Approval Request NotificationAction Approval Reviewer NotificationAction Cancel NotificationCancelling NotificationEscalation NotificationException Approval Approved NotificationException Approval Rejection NotificationException Approval Reminder NotificationException Approval Request NotificationException Approval Reviewer NotificationException Cancel NotificationGenericReassignment NotificationReminder NotificationRule Approval Approved NotificationRule Approval Cancel NotificationRule Approval Rejection NotificationRule Approval Reminder NotificationRule Approval Request NotificationRule Approval Reviewer NotificationRules Review Cancel NotificationRules Review Generic NotificationRules Review Reminder Notification')]</value>
+      <webElementGuid>181160c1-a9a2-4e04-86ae-67ebfcd4af83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

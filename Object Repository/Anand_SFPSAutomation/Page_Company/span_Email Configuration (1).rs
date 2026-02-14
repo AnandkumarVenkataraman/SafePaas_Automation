@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email Configuration (1)</name>
+   <tag></tag>
+   <elementGuidId>c1141a7a-1cc3-45ae-812e-3c2a84bea191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[9]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Email Configuration&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>adfe1b30-e710-4e54-9f4e-30d9cebc0c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Tabs-label</value>
+      <webElementGuid>47d05df9-cc6b-4075-aea0-201913f96bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Configuration</value>
+      <webElementGuid>93935db4-0f3c-4ff4-b1fe-fc104f42fead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
+      <webElementGuid>25b983a4-c11a-4b52-833f-49018af7346e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[9]/a/span[2]</value>
+      <webElementGuid>9d9ebe50-2311-4f5b-9f1a-c5b94c2c65a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::span[2]</value>
+      <webElementGuid>f391b504-1b07-45b1-bcbb-83656a1949ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAML'])[1]/following::span[4]</value>
+      <webElementGuid>1a11c406-0eb4-4edb-87e9-65d7280cb42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[3]/preceding::span[1]</value>
+      <webElementGuid>2a42d81b-e813-40a3-aafd-8c1892a90cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Changes'])[1]/preceding::span[1]</value>
+      <webElementGuid>e5f86677-32d2-4c99-be18-7b54dfaabd67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email Configuration']/parent::*</value>
+      <webElementGuid>b19c46fd-5e80-4a2d-b16a-b301bf8627d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/span[2]</value>
+      <webElementGuid>95acf376-1b5d-4bcc-a72c-9ff22e2b1917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email Configuration' or . = 'Email Configuration')]</value>
+      <webElementGuid>6325c5ef-36d9-450e-a728-5e02f34c4190</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
