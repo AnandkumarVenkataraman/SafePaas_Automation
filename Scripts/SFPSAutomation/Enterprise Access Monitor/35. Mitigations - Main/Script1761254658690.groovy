@@ -84,7 +84,7 @@ def ensureOffByLabel = { String labelObjPath ->
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
