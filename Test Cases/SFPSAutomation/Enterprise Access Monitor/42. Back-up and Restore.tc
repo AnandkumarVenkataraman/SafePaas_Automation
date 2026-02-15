@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM-1560 - Back-up &amp; Restore</description>
+   <name>42. Back-up and Restore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>888f2432-0eef-408c-bc4e-45437775a15c</testCaseGuid>
+</TestCaseEntity>
