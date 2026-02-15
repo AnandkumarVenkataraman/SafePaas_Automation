@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>36. Mitigations - Reverse</description>
+   <name>36. Mitigations - Reverse</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5322835e-90cc-46fe-af71-31638c776977</testCaseGuid>
+</TestCaseEntity>
