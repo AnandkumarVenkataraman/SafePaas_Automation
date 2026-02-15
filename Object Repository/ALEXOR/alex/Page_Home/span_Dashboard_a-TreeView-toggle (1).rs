@@ -6,12 +6,12 @@
    <elementGuidId>8d452999-75ab-4f89-8c8a-e943c12e35db</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#t_TreeNav_36 > span.a-TreeView-toggle</value>
+         <key>XPATH</key>
+         <value>//li[4]/ul/li[2]/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_36']/span</value>
+         <key>CSS</key>
+         <value>#t_TreeNav_36 > span.a-TreeView-toggle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

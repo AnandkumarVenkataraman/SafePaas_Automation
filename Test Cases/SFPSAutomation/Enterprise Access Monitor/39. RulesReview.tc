@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>RulesReview</description>
-   <name>RulesReview</name>
+   <description>Rules Review</description>
+   <name>39. RulesReview</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

@@ -6,12 +6,11 @@
    <elementGuidId>eeb0905d-903a-4459-b7dd-0badea5918d2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Name'])[1]/preceding::label[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='P86_F_RISK_LEVEL']/div[3]/label</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

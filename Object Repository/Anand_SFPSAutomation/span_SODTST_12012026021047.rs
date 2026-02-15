@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='PopupLov_86_P86_TEST_NAME_dlg']/div[3]/div/div[3]/ul/li/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More Rows'])[1]/preceding::span[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

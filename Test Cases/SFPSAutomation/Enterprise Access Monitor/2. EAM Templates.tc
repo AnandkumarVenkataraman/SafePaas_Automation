@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Verify the Admin. setups for EAM</description>
-   <name>2. Admin Setups</name>
+   <description>EAM Templates</description>
+   <name>2. EAM Templates</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

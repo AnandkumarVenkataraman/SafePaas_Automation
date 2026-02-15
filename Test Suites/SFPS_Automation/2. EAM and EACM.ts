@@ -43,7 +43,7 @@
       <guid>be175a94-e098-47d8-8f71-59e83137fbbb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/FilterFalsePositives</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/38. FilterFalse-Positives</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -57,28 +57,28 @@
       <guid>c6471652-19a5-4986-8814-65b97aeda697</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/RestrictedAccess</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/37. RestrictedAccess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>73813178-63df-4f77-9847-6bf7e129c6b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/Schedule</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Old/Schedule</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>4bbf1a30-518e-42e1-b3d2-3b101962ff45</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/Scheduler</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/40. Scheduler</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>6c962d03-31c7-447a-8004-0a18a9de584c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/Security</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/41. Security</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

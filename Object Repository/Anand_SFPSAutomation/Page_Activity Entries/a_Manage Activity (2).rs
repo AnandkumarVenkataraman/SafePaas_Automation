@@ -6,12 +6,11 @@
    <elementGuidId>34165958-a6e1-41fe-83de-1b11f2ca1b80</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Access Monitor'])[2]/following::a[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='R240791628227405174']/div/div/ul/li[4]/a</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

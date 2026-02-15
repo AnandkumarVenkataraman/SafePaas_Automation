@@ -76,7 +76,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/span_Entry Details_ui-button-icon ui-icon u_ede766'))
 
-//WebUI.callTestCase(findTestCase('SFPSAutomation/Enterprise Access Monitor/2. Admin Setups'), [:], FailureHandling.OPTIONAL)
+//WebUI.callTestCase(findTestCase('SFPSAutomation/Enterprise Access Monitor/2. EAM Templates'), [:], FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Function_apex-edit-view_1'))
 

@@ -6,12 +6,12 @@
    <elementGuidId>481e048e-a8e0-4c07-ac14-e038b7941918</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R242004504603843036_search_field</value>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div[2]/div/div/div/div/div[2]/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='R242004504603843036_search_field']</value>
+         <key>CSS</key>
+         <value>#R242004504603843036_search_field</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -22,7 +22,7 @@
       <guid>e33dafae-8c8f-452c-99e5-1bfca4d2db8c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/2. Admin Setups</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/2. EAM Templates</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

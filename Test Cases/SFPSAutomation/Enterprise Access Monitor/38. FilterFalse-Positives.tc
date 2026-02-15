@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>FilterFalsePositives</description>
-   <name>FilterFalsePositives</name>
+   <name>38. FilterFalse-Positives</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

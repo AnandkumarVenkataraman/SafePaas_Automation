@@ -6,12 +6,12 @@
    <elementGuidId>e1bd273b-6541-4135-b622-55e894876b07</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#R242004504603843036_search_button</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[3]/preceding::button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='R242004504603843036_search_button']</value>
+         <key>CSS</key>
+         <value>#R242004504603843036_search_button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

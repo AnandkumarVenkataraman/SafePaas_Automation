@@ -6,12 +6,12 @@
    <elementGuidId>ee2ff57a-cd22-476b-8a86-33e92423299e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#P103_OBJSET</value>
+         <key>XPATH</key>
+         <value>//select</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='P103_OBJSET']</value>
+         <key>CSS</key>
+         <value>#P103_OBJSET</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

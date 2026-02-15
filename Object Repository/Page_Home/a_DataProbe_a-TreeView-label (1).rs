@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Manage Snapshot')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='DataProbe'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

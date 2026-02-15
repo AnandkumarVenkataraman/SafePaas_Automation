@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Mitigation Control</description>
-   <name>Mitigations</name>
+   <description>SFP-1021 - Scheduler</description>
+   <name>40. Scheduler</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>453f82eb-f024-4ccc-981a-d7d64e45ee84</testCaseGuid>
+   <testCaseGuid>be5c45ad-7dbd-4034-a04c-7bbe3b993a96</testCaseGuid>
 </TestCaseEntity>

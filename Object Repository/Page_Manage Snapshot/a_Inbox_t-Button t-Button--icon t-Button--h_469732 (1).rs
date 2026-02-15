@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='116800744957041106']/li/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='anandk1'])[1]/preceding::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

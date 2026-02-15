@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>SOD RestrictedAccess</description>
-   <name>RestrictedAccess</name>
+   <description>RestrictedAccess SOD</description>
+   <name>37. RestrictedAccess</name>
    <tag>EAM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

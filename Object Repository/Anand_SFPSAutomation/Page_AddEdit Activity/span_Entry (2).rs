@@ -6,12 +6,11 @@
    <elementGuidId>0aeb0ab1-6439-41d7-84fc-9c389bcccb69</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::span[6]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='t_Body_content']/div[2]/div/div/div/ul/li[2]/a/span[2]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>a6775a33-30b0-436d-8736-b74b71023a02</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.t-Button.t-Button--icon.t-Button--header.t-Button--navBar</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='katadmin'])[1]/preceding::a[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='19866709289512388']/li/a</value>
+         <key>CSS</key>
+         <value>a.t-Button.t-Button--icon.t-Button--header.t-Button--navBar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

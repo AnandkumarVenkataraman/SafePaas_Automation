@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Dashboard')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Tracker'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
