@@ -15,7 +15,7 @@
       <guid>814191ec-f104-4e6a-b9dd-c2a77d88cbab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/43. EAM Main</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/EAM Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
