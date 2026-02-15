@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Restricted Access</description>
-   <name>5. Restricted Access</name>
+   <description>SAP - Restricted Access</description>
+   <name>34. SAP - Restricted Access</name>
    <tag>SAP</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

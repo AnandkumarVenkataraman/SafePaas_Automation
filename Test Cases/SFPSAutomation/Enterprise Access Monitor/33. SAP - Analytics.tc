@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Setups</description>
-   <name>1. Setups</name>
+   <description>SAP - Analytics</description>
+   <name>33. SAP - Analytics</name>
    <tag>SAP</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fdf66993-ab8a-4e3d-ad62-caf77500982a</testCaseGuid>
+   <testCaseGuid>3d22bc59-fe08-46f9-a5fd-0753c284cbc4</testCaseGuid>
 </TestCaseEntity>

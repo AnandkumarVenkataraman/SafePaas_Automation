@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>SAP Rules</description>
-   <name>2. Rules</name>
+   <description>SAP Rules - OR and AND &amp; OR Conditions</description>
+   <name>29. SAP Rules - AND and OR Conditions</name>
    <tag>SAP</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

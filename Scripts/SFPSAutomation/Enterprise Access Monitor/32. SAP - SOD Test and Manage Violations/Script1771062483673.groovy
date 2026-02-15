@@ -25,7 +25,7 @@ import groovy.json.JsonOutput
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
@@ -285,7 +285,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 //Pass the value of sapSODTST to Analytics
 //String dynamicSAPSODTEST = sapSODTST
 //
-//WebUI.callTestCase(findTestCase('Test Cases/SFPSAutomation/Enterprise Access Monitor/SAP/4. Analytics'), [('valueSAPSODTEST'): dynamicSAPSODTEST], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('Test Cases/SFPSAutomation/Enterprise Access Monitor/33. SAP - Analytics'), [('valueSAPSODTEST'): dynamicSAPSODTEST], FailureHandling.STOP_ON_FAILURE)
 
 //Logout
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Violation/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (5)'))

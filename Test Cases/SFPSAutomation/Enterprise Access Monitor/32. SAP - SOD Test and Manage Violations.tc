@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>SOD Test</description>
-   <name>3. SOD Test and Manage Violations</name>
+   <description>SAP - SOD Test and Manage Violations</description>
+   <name>32. SAP - SOD Test and Manage Violations</name>
    <tag>SAP</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

@@ -16,9 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.testobject.ConditionType
+import com.kms.katalon.core.testobject.ConditionType as ConditionType
 
-WebUI.callTestCase(findTestCase('SFPSAutomation/Enterprise Access Monitor/SAP/2. Rules2/1. Rules'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('SFPSAutomation/Enterprise Access Monitor/30. SAP Rules - Auth Field Values'), [:], FailureHandling.OPTIONAL)
 
 //Rule with OR Condition
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (62)'))
@@ -43,21 +43,21 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 //Verify if Previous button is present
 //and if present, click on it
+String buttonText = 'Previous'
 
-String buttonText = "Previous"
-TestObject dynamicObj = new TestObject("dynamicPrevButton")
-dynamicObj.addProperty("xpath", ConditionType.EQUALS,
-   "//a[contains(normalize-space(.),'Previous')]"
-)
+TestObject dynamicObj = new TestObject('dynamicPrevButton')
+
+dynamicObj.addProperty('xpath', ConditionType.EQUALS, '//a[contains(normalize-space(.),\'Previous\')]')
+
 if (WebUI.verifyElementVisible(dynamicObj, FailureHandling.OPTIONAL)) {
-   WebUI.click(dynamicObj)
-   println("Clicked on the '" + buttonText + "' button.")
+    WebUI.click(dynamicObj)
+
+    println(('Clicked on the \'' + buttonText) + '\' button.')
 } else {
-   println("Button '" + buttonText + "' is NOT visible. Skipping click.")
+    println(('Button \'' + buttonText) + '\' is NOT visible. Skipping click.')
 }
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Name_P9_NAME'), 'Z_AccessChecks_OR_Rule#3')
-
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/span_Approval Status_P9_APPROVAL_STATUS'), 
     'Approved')
@@ -175,19 +175,21 @@ WebUI.delay(3)
 
 //Verify if 'Previous' is present
 //and if present, click on it
-String buttonText2 = "Previous"
-TestObject dynamicObj2 = new TestObject("dynamicPrevButton2")
-dynamicObj2.addProperty("xpath", ConditionType.EQUALS,
-   "//a[contains(normalize-space(.),'Previous')]"
-)
-if (WebUI.verifyElementVisible(dynamicObj2, FailureHandling.OPTIONAL)) {
-   WebUI.click(dynamicObj2)
-   println("Clicked on the '" + buttonText2 + "' button.")
-} else {
-   println("Button '" + buttonText2 + "' is NOT visible. Skipping click.")
-}
-//End, verifying for Previous
+String buttonText2 = 'Previous'
 
+TestObject dynamicObj2 = new TestObject('dynamicPrevButton2')
+
+dynamicObj2.addProperty('xpath', ConditionType.EQUALS, '//a[contains(normalize-space(.),\'Previous\')]')
+
+if (WebUI.verifyElementVisible(dynamicObj2, FailureHandling.OPTIONAL)) {
+    WebUI.click(dynamicObj2)
+
+    println(('Clicked on the \'' + buttonText2) + '\' button.')
+} else {
+    println(('Button \'' + buttonText2) + '\' is NOT visible. Skipping click.')
+}
+
+//End, verifying for Previous
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/td_Last Updated By_t-Report-cell'), 
     'ACTVT.01')
 
@@ -672,12 +674,19 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
     'Set2 Activity')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Rule Report/a_Define Scope_t-Breadcrumb-label (1)'))
+
 WebUI.delay(3)
+
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_concat(Row text contains , , Z_Acces_fa4f66'))
+
 WebUI.delay(3)
+
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/select_Environment_P0_ENVIRONMENT (9)'), 
     0)
+
 WebUI.delay(3)
+
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Inbox_t-Button t-Button--icon t-Button--h_469732 (10)'))
 
-WebUI.callTestCase(findTestCase('SFPSAutomation/Enterprise Access Monitor/SAP/2. Rules2/2. Rules4'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('SFPSAutomation/Enterprise Access Monitor/31. SAP Rules - with STAR Values'), [:], FailureHandling.OPTIONAL)
+
