@@ -15,7 +15,7 @@
       <guid>814191ec-f104-4e6a-b9dd-c2a77d88cbab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/EAM_Main</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/43. EAM Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -64,7 +64,7 @@
       <guid>73813178-63df-4f77-9847-6bf7e129c6b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Old/Schedule</testCaseId>
+      <testCaseId>Test Cases/Other/Old/Schedule</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
