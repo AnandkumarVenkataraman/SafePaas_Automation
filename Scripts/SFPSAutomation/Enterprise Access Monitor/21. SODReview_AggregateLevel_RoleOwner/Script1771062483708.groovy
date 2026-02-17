@@ -23,7 +23,7 @@ WebUI.delay(5)
 //Update the below url every time
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/ferm.survey_remediate_entrypoint?URLC=SOD532C4D28706EB59C3FB881D4C497D719')
 WebUI.maximizeWindow(FailureHandling.OPTIONAL)
-
+//x
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Summer 2025_P101_COMPANY (21)'), 'KAT')
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (41)'),
