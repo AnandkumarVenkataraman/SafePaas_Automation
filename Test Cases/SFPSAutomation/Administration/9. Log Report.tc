@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Log Report</description>
+   <name>9. Log Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3ac21a2-579b-4906-ba91-212fd1b4e652</testCaseGuid>
+</TestCaseEntity>

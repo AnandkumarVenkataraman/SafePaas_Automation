@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scheduled Downloads</description>
+   <name>8. Scheduled Downloads</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d351d3e-97dd-4d8f-bd59-556becc8f3d6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SafePaaS User Application Listing Report</description>
+   <name>6. SafePaaS User Application Listing Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d694784-c17c-4df5-90df-b101a963afaa</testCaseGuid>
+</TestCaseEntity>

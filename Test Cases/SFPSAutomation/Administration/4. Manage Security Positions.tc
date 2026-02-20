@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Security Positions</description>
+   <name>4. Manage Security Positions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbee6be1-4579-4a9d-a658-74e87251a8bf</testCaseGuid>
+</TestCaseEntity>

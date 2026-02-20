@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Environment</description>
+   <name>2. Manage Environment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38dc6a46-2580-4c0c-810f-2344fe515621</testCaseGuid>
+</TestCaseEntity>

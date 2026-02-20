@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Enterprise IT Map</description>
+   <name>3. Manage Enterprise IT Map</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>888af6c1-985a-4446-8947-6b06fd790132</testCaseGuid>
+</TestCaseEntity>

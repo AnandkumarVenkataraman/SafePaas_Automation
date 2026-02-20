@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Company</description>
+   <name>1. Manage Company</name>
+   <tag>Administration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4f6dc2f-aaf6-4258-b768-46a81cbe1777</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Release Update</description>
+   <name>11. Release Update</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d020974b-365d-4f65-aa39-28400ae748e8</testCaseGuid>
+</TestCaseEntity>
