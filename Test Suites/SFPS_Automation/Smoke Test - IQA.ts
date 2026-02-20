@@ -15,7 +15,7 @@
       <guid>643b3478-f26a-4f1c-b358-dcdf82787c55</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Administration/Administration_Main IQA</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/Administration/Administration_Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

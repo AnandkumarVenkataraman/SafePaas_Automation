@@ -15,7 +15,7 @@
       <guid>ef66df52-3a93-4858-b9cb-9acd721cd609</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/Administration/Administration_Main Prod</testCaseId>
+      <testCaseId>Test Cases/Other/Administration/Administration_Main Prod</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
