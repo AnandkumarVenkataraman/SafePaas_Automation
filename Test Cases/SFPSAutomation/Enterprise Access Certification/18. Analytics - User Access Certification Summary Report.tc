@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Analytics - User Access Certification Summary Report</description>
+   <name>18. Analytics - User Access Certification Summary Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b048bdcf-f506-47e9-be5e-e6055f024aee</testCaseGuid>
+</TestCaseEntity>
