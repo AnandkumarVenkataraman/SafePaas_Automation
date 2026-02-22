@@ -1,0 +1,58 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
+
+//Synchronization
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Setup_a-TreeView-label'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Data Source/select_Environment_P100_ENVIRONMENT'), 
+    'EBizApp_JDBC_Env', false)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Data Source/input_Create_R119140564844328612_search_field (3)'), 
+    'EBiz_JDBC_DS')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Create_R119140564844328612_search_button'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/input_Run script_f01 (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Manage Data Source_B117273309101097005'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Data Source/h2_Breadcrumb_t-Alert-title'), 'Synchronization processing in the background.', 
+    FailureHandling.OPTIONAL)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Data Source/span'), 'Running', FailureHandling.OPTIONAL)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_Synchronization processing in the ba_b153f5'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/button_concat(Row text contains , , EBiz_JD_36edac (1)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Source/select_Environment_P100_ENVIRONMENT'), 
+    0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+
+WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/7. Security'), [:])
+

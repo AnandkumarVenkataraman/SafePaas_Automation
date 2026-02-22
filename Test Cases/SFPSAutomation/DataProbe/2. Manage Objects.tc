@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Objects</description>
+   <name>2. Manage Objects</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2b012b2-1d2a-4838-a680-420163337ee6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DataSource</description>
+   <name>1. DataSource</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed368534-e4de-498e-8c00-0c8620139e46</testCaseGuid>
+</TestCaseEntity>

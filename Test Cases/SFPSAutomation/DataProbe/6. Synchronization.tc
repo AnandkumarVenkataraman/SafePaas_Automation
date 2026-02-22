@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DataSource Synchronization</description>
+   <name>6. Synchronization</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>150ec459-071e-431f-80ec-786855ee49ce</testCaseGuid>
+</TestCaseEntity>

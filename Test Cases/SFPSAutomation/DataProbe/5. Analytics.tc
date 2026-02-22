@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Application Access Reports</description>
+   <name>5. Analytics</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>679ca4fe-06c1-47c9-9864-123fc5bd8cde</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Snapshot Extract</description>
+   <name>4. Manage Snapshot</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fe63e45-f3cd-407b-9a23-fc56524e89e6</testCaseGuid>
+</TestCaseEntity>
