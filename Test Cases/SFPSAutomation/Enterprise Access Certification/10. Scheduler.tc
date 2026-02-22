@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scheduler</description>
+   <name>10. Scheduler</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84d648d3-5530-447f-bcff-1b841da98127</testCaseGuid>
+</TestCaseEntity>

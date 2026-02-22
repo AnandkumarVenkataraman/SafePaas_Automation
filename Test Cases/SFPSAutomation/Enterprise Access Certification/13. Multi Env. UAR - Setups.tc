@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DTP1104_Env_ReArchitecture</description>
+   <name>13. Multi Env. UAR - Setups</name>
+   <tag>DTP1104</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cea4d15-1589-4758-a97f-e5541ae7a09a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Single Env. UAR - Manage User Access</description>
+   <name>11. Single Env. UAR - Manage User Access</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08c67b46-568e-437e-acd4-8ff5cd1d5e5f</testCaseGuid>
+</TestCaseEntity>

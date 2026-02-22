@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Portuguese AP Localizations  Portuguese _28634e</name>
+   <tag></tag>
+   <elementGuidId>d6002ba6-96df-46c4-9692-ece1db17e86d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='164615927265973902']/tbody/tr[51]/td[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Portuguese AP Localizations | Portuguese AP Localizations&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e031dbb2-9c01-41bd-a1fd-1f83a2b828f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>c3cab884-84fa-4205-89df-2072f153da96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>roleH</value>
+      <webElementGuid>7a4bbc41-cfe3-4f02-a8e5-8d519d277176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Portuguese AP Localizations | Portuguese AP Localizations</value>
+      <webElementGuid>fcb0b0cb-c613-4f1f-8a59-3d20bd71f878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;164615927265973902&quot;)/tbody[1]/tr[51]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>cdbf5183-a516-408e-8e58-53ab38d71df7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='164615927265973902']/tbody/tr[51]/td[8]</value>
+      <webElementGuid>e0e26c55-00a2-4593-a924-49324d1e08f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[296]/following::td[1]</value>
+      <webElementGuid>d11a59e4-276c-4ee6-b222-141582ae21cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[295]/following::td[2]</value>
+      <webElementGuid>229107c3-002f-4c08-abe3-2be27b4cfcee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANANDK'])[50]/preceding::td[1]</value>
+      <webElementGuid>a82c2940-0395-45b5-a9b4-58cf30433f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MARIAB'])[50]/preceding::td[2]</value>
+      <webElementGuid>49e72ab6-89fa-4a3e-860e-28ae506104e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Portuguese AP Localizations | Portuguese AP Localizations']/parent::*</value>
+      <webElementGuid>0c59ab1a-1811-4171-a227-e35f463c399d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[51]/td[8]</value>
+      <webElementGuid>deb67170-44d8-44df-8284-d17a14bf58f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Portuguese AP Localizations | Portuguese AP Localizations' or . = 'Portuguese AP Localizations | Portuguese AP Localizations')]</value>
+      <webElementGuid>0ccad352-2468-4ada-ad61-b6617dd6ab2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
