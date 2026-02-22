@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Initiate Single Env. UAR</description>
+   <name>9. Single Env. UAR - Initiate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0db6a20d-d56a-4a5e-9921-a5a674e73968</testCaseGuid>
+</TestCaseEntity>

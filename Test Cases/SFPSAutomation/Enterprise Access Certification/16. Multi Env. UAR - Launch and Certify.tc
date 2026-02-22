@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Launch and Certify the Multi Env. UAR</description>
-   <name>Launch and Certify the Multi Env. UAR</name>
+   <name>16. Multi Env. UAR - Launch and Certify</name>
    <tag>EACM</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

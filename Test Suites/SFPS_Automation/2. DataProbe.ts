@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>a482eaea-6fba-4521-a3f4-5db4be4d3ea8</testSuiteGuid>
    <testCaseLink>
-      <guid>894802cf-1504-4841-b249-cf8af3efc7b5</guid>
+      <guid>a63b8bf5-2b7f-42a8-bdab-a3da41088eef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/DataProbe/1. DataSource</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/DataProbe/DataProbe_Main IQA</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

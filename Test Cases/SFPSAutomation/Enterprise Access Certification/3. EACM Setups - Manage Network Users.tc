@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>EACM Setup - Manage Network Users</description>
-   <name>3. Manage Network Users</name>
+   <name>3. EACM Setups - Manage Network Users</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

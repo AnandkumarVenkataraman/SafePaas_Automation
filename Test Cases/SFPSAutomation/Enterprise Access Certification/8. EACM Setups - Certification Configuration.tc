@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Certification Configuration</description>
-   <name>8. Certification Configuration</name>
+   <name>8. EACM Setups - Certification Configuration</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
