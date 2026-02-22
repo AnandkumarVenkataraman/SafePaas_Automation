@@ -31,28 +31,27 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P1
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (90)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (92)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (13)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (15)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Dashboard_a-TreeView-toggle (25)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Dashboard_a-TreeView-toggle (27)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Assignment Report'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Unassigned Accesses'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
-    '5888', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
     '9028', true)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
+    '5888', true)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
     0)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/a_Inbox'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/a_Inbox'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (9)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (11)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (16)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (18)'))
 
 WebUI.closeBrowser()
-

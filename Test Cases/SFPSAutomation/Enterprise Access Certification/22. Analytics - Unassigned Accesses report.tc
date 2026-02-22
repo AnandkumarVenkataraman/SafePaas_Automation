@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Analytics - Unassigned Accesses report</description>
+   <name>22. Analytics - Unassigned Accesses report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7500e43c-bbda-4ac8-8019-e26690a4f736</testCaseGuid>
+</TestCaseEntity>

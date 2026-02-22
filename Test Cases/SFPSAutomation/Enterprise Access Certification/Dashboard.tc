@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EACM_Dashboard</description>
-   <name>Dashboard</name>
-   <tag>EACM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>1cc2c417-b4db-446d-9bf4-f1fd9cc701b1</testCaseGuid>
-</TestCaseEntity>

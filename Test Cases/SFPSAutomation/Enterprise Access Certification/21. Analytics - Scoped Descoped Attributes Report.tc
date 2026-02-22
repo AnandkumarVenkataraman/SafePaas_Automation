@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Analytics - Scoped Descoped Attributes Report</description>
+   <name>21. Analytics - Scoped Descoped Attributes Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10a89e86-fff6-4272-8854-cb79c653cb06</testCaseGuid>
+</TestCaseEntity>

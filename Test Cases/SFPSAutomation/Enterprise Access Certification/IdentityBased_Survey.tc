@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>IdentityBased_Survey</description>
-   <name>IdentityBased_Survey</name>
-   <tag>EACM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e7d7d611-ca94-4589-94a0-57b84afb2914</testCaseGuid>
-</TestCaseEntity>

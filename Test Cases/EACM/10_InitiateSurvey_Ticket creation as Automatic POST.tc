@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>10_InitiateSurvey_Ticket creation as Automatic POST</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>df3e4cbf-bc29-44be-ad85-d57e7ed53827</testCaseGuid>
-</TestCaseEntity>
