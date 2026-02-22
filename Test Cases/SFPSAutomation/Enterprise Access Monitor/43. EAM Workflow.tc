@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM Workflow</description>
+   <name>43. EAM Workflow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e0e98ba-046c-4afd-a983-9495d24c0c55</testCaseGuid>
+</TestCaseEntity>

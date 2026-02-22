@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allow the EAC to Initiate a another survey in parallel</description>
+   <name>28. Allow the EAC to Initiate a another survey in parallel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a5920d2-df06-4995-9e5e-b51b8f6f699c</testCaseGuid>
+</TestCaseEntity>

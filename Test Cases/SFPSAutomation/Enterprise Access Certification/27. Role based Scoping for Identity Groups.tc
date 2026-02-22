@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Role based Scoping for Identity Groups</description>
+   <name>27. Role based Scoping for Identity Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb3bd75a-329b-4bba-ae5d-edcd143683ec</testCaseGuid>
+</TestCaseEntity>

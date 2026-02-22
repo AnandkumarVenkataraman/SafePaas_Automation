@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EIA Workflow</description>
+   <name>6. EIA Workflow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e701f4dc-0a32-4ac8-a012-da54ec6f037a</testCaseGuid>
+</TestCaseEntity>

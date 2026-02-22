@@ -311,3 +311,4 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 //End Reminder
 
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
+WebUI.closeBrowser()

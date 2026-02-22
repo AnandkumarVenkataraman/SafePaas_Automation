@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Deactivate User</description>
+   <name>4. Deactivate User</name>
+   <tag>EIA</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b44f262-a279-4ca1-9488-78485d33e84c</testCaseGuid>
+</TestCaseEntity>

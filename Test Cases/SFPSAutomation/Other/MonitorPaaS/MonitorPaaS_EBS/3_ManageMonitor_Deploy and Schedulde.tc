@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3_ManageMonitor_Deploy and Schedulde</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf356db6-c213-4926-9d96-bdd7ee1c5130</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d41979a-8b81-4671-9e7a-74608cd07c53</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>1d41979a-8b81-4671-9e7a-74608cd07c53</id>
+      <masked>false</masked>
+      <name>Snapshot</name>
+   </variable>
+</TestCaseEntity>
