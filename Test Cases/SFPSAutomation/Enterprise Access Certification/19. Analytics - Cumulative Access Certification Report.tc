@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Analytics - Cumulative Access Certification Report</description>
+   <name>19. Analytics - Cumulative Access Certification Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c63a2a60-7498-480c-a0d5-36cee6b5ebf0</testCaseGuid>
+</TestCaseEntity>
