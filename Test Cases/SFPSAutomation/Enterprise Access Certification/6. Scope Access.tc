@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM Setup - Scope Access</description>
+   <name>6. Scope Access</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae099c6f-efe2-4475-8623-5af5b7a27a02</testCaseGuid>
+</TestCaseEntity>

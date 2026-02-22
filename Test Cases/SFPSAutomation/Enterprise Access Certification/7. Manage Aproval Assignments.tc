@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Aproval Assignments</description>
+   <name>7. Manage Aproval Assignments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18fb0e81-5734-40fa-ae0c-9db3854a7de6</testCaseGuid>
+</TestCaseEntity>

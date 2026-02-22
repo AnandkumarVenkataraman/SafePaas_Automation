@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Certification Configuration</description>
+   <name>8. Certification Configuration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f60e80b-0a38-4761-bc93-d5e4aee3b4ad</testCaseGuid>
+</TestCaseEntity>

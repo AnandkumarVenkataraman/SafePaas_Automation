@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EACM Environments</description>
-   <name>2. EACM Environments</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>91b7908b-8f36-4e7d-bd51-409364cf7b23</testCaseGuid>
-</TestCaseEntity>

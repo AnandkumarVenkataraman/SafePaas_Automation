@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM Setup - Manage Access Groups</description>
+   <name>4. Manage Access Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71a1577c-0e76-419f-b204-1b8174501a3a</testCaseGuid>
+</TestCaseEntity>

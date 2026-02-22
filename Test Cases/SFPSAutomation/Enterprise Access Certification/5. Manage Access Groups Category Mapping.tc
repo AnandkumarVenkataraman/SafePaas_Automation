@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EACM Setup - Manage Access Groups Category Mapping</description>
+   <name>5. Manage Access Groups Category Mapping</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e591f921-1142-4467-8502-855425f15022</testCaseGuid>
+</TestCaseEntity>
