@@ -52,6 +52,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_katdataadm'), 'katdataadm', 
     FailureHandling.OPTIONAL)
-
+WebUI.takeScreenshot()
 WebUI.callTestCase(findTestCase('SFPSAutomation/Administration/2. Manage Environment'), [:])
 
