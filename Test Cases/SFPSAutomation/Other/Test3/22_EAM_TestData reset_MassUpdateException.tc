@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>22_EAM_TestData reset_MassUpdateException</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>9890bf18-c81b-448f-bbe7-fd380b3cca1a</testCaseGuid>
-</TestCaseEntity>

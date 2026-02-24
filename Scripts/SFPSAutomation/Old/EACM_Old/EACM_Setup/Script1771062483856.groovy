@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.webui.common.WebUiCommonHelper as WebUiCommonHelper
 import org.openqa.selenium.WebElement as WebElement
 
-WebUI.callTestCase(findTestCase('Test Cases/SFPSAutomation/Other/Old/commonFlow_Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.STOP_ON_FAILURE)
 
 //Company settings -> Verify EACM Product is selected
 TestObject Administration = findTestObject('Object Repository/Anand_SFPSAutomation/EACM/span_DataPaaS_a-TreeView-toggle')

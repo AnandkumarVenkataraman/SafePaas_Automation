@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EAM_Rule</description>
-   <name>EAM_Rule</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>22eec185-86be-4334-a469-07e6dab22c3a</testCaseGuid>
-</TestCaseEntity>

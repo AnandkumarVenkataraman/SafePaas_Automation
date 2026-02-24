@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EAM_Security</description>
-   <name>EAM_Security</name>
-   <tag>EAM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f778960e-8fa4-4b4c-82de-e6e21926b4ae</testCaseGuid>
-</TestCaseEntity>

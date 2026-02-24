@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Enterprise iAccess</description>
-   <name>EIA_Copy</name>
-   <tag>EIA</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0b0176b7-8c12-4865-850b-60799372a16c</testCaseGuid>
-</TestCaseEntity>

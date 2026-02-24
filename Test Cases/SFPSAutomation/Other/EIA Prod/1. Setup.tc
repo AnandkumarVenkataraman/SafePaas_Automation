@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>1. Setup</description>
-   <name>1. Setup</name>
-   <tag>EIA</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>733d48b4-a653-4704-9af2-e7d147d162f0</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EAM_EBS</description>
-   <name>EAM_Main_Copy</name>
-   <tag>EAM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>160d4c93-950e-44a9-a0ad-145613141558</testCaseGuid>
-</TestCaseEntity>

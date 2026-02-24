@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Dashboard</description>
-   <name>Dashboard - Prod</name>
-   <tag>EIA</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>5cc64b7b-d714-490a-9ba7-ea6083d4e48b</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>CrossApp SOD</description>
-   <name>5b. CrossApp SOD</name>
-   <tag>SAP</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e1f5a753-998c-4eed-87ee-16d8bbc28b1f</testCaseGuid>
-</TestCaseEntity>

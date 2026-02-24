@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>EACM_Main_Prod</description>
-   <name>EACM_Main_Prod</name>
-   <tag>EACM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e1191a55-1139-45f7-a483-18d2b81755c3</testCaseGuid>
-</TestCaseEntity>

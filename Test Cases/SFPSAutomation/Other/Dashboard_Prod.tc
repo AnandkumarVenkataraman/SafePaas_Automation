@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Dashboard_Prod</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>6d6c7700-3615-4cfe-a447-775276e7bdb6</testCaseGuid>
-</TestCaseEntity>

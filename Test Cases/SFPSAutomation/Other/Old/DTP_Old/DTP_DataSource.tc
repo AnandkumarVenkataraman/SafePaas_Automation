@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>DTP_DataSource</description>
-   <name>DTP_DataSource</name>
-   <tag>DTP</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4c8f3d4b-6d44-4420-b702-007ba0f92983</testCaseGuid>
-</TestCaseEntity>

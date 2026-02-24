@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>2_DTP_JDBC_SnapshotExtract</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>43a27271-3736-4e6f-8521-785ced36342c</testCaseGuid>
-</TestCaseEntity>

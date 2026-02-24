@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Schedule</description>
-   <name>Schedule</name>
-   <tag>EACM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>699c08bb-b216-4f90-bfe7-b0c6a1d13ca4</testCaseGuid>
-</TestCaseEntity>

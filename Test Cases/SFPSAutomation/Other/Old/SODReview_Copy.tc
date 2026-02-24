@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>SODReview_Copy</description>
-   <name>SODReview_Copy</name>
-   <tag>EAM</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>29bcce90-d369-45de-b235-c65641fe4968</testCaseGuid>
-</TestCaseEntity>

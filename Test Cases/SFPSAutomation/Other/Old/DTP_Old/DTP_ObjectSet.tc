@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>DTP_ObjectSet</description>
-   <name>DTP_ObjectSet</name>
-   <tag>DTP</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>9d8b7436-2782-4fc6-a3cb-84048cd6ba71</testCaseGuid>
-</TestCaseEntity>
