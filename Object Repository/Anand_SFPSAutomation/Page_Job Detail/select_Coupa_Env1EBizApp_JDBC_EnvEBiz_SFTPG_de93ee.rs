@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Coupa_Env1EBizApp_JDBC_EnvEBiz_SFTPG_de93ee</name>
+   <tag></tag>
+   <elementGuidId>16b41c8c-fe4b-4769-933c-fc786ae56256</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_CROSS_ENVIRONMENTS_LEFT']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_CROSS_ENVIRONMENTS_LEFT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Cross Environments&quot;i] >> internal:attr=[title=&quot;Move from&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b0214295-8dd5-433a-a8e1-cd0bad1be454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Move from</value>
+      <webElementGuid>50e58b42-d347-48c7-99ac-fc6a646ab1c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>73987882-47f0-48c0-b46f-2bd1a810fb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_CROSS_ENVIRONMENTS_LEFT</value>
+      <webElementGuid>8e1e4b9b-8a9c-473f-b70b-a45b98dabf64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>6d31f915-8f9d-4f8f-a1e8-902547200b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shuttle_left apex-item-select</value>
+      <webElementGuid>1965be44-2384-47b4-a7b5-a8820d0ac2b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+Kyriba_Env1
+NEW_CLOUDERP
+SAP_DEMO
+SAP_ECC
+SAP_S4HANA
+SFTP_Env2
+SailPoint_ENV2
+SailPoint_Env
+TEST_JDE92_ENV
+Test_Environment
+Test_Environment3_Hybris
+Test_Environment4_CloudERP
+Tririga_Env
+Tririga_OS
+WorkDayEnv_3
+WorkDay_Env
+Y_Endur
+Z-EBS1574ENV
+Z1639_NEv1
+Z_1639_BUG_eNv
+Z_Coupav2
+Z_EBS_TestEnv.
+Z_KAT_Automated1560
+ZtestCoupa2
+</value>
+      <webElementGuid>a6a0f21c-a07f-4ace-8cf8-4e9721917252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_CROSS_ENVIRONMENTS_LEFT&quot;)</value>
+      <webElementGuid>9cc128ce-33ec-463c-9a66-cd4e910ffe05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_CROSS_ENVIRONMENTS_LEFT']</value>
+      <webElementGuid>327ed221-5f6e-4b95-b35d-a24646a2a6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P30_CROSS_ENVIRONMENTS']/table/tbody/tr/td/select</value>
+      <webElementGuid>522ac922-9959-48d8-876a-46c43dc79e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cross Environments'])[1]/following::select[1]</value>
+      <webElementGuid>6dec3879-bd0e-46fd-9c4f-94f81109db8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Tags'])[1]/following::select[3]</value>
+      <webElementGuid>3a637d3c-0746-4c2d-8b9e-718c0c689dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclude Mitigated Violations'])[1]/preceding::select[2]</value>
+      <webElementGuid>359554ab-0da5-40c1-8bdf-6a2d8f4448ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Objects'])[1]/preceding::select[2]</value>
+      <webElementGuid>cdac462c-16ef-4727-bca5-6af18a83ba54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[2]/div/div/table/tbody/tr/td/select</value>
+      <webElementGuid>ee8cc08b-9be1-4388-9e4d-fbeae9db75e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Move from' and @id = 'P30_CROSS_ENVIRONMENTS_LEFT' and (text() = '
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+Kyriba_Env1
+NEW_CLOUDERP
+SAP_DEMO
+SAP_ECC
+SAP_S4HANA
+SFTP_Env2
+SailPoint_ENV2
+SailPoint_Env
+TEST_JDE92_ENV
+Test_Environment
+Test_Environment3_Hybris
+Test_Environment4_CloudERP
+Tririga_Env
+Tririga_OS
+WorkDayEnv_3
+WorkDay_Env
+Y_Endur
+Z-EBS1574ENV
+Z1639_NEv1
+Z_1639_BUG_eNv
+Z_Coupav2
+Z_EBS_TestEnv.
+Z_KAT_Automated1560
+ZtestCoupa2
+' or . = '
+Coupa_Env1
+EBizApp_JDBC_Env
+EBiz_SFTP
+GRM_CERP_ENV2_Cloud
+GRM_CERP_ENV2_GRM
+JDE_Env
+JDE_TEST
+KTLNCloud_MonitorPaaS
+KTLN_CloudERP
+KTLN_CloudERP_EACM
+Kyriba_Env1
+NEW_CLOUDERP
+SAP_DEMO
+SAP_ECC
+SAP_S4HANA
+SFTP_Env2
+SailPoint_ENV2
+SailPoint_Env
+TEST_JDE92_ENV
+Test_Environment
+Test_Environment3_Hybris
+Test_Environment4_CloudERP
+Tririga_Env
+Tririga_OS
+WorkDayEnv_3
+WorkDay_Env
+Y_Endur
+Z-EBS1574ENV
+Z1639_NEv1
+Z_1639_BUG_eNv
+Z_Coupav2
+Z_EBS_TestEnv.
+Z_KAT_Automated1560
+ZtestCoupa2
+')]</value>
+      <webElementGuid>71b65d09-37e5-4f92-a52d-ff5704670d37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

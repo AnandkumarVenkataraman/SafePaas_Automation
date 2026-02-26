@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select any one -Coupa_Env1EBiz_SFT_d4debd</name>
+   <tag></tag>
+   <elementGuidId>3dc48b4f-6668-47b6-aa07-a058424a0299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P47_SECONDARY_DS']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P47_SECONDARY_DS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Secondary Source (Value Required)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>73e55492-7dcf-42d2-a0de-906436af81e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P47_SECONDARY_DS</value>
+      <webElementGuid>5e21ebfd-361f-4b3c-9fbd-b4c8319ef083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P47_SECONDARY_DS</value>
+      <webElementGuid>e9c9b5c5-6257-4d07-9635-9efc6c24f6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>0dc53964-16d5-4a14-bf51-adc946c78790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>311281b0-42d5-493c-8f6f-69cb8e44afda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b7a6b73e-0986-4779-9134-2f5f5a0ef921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select any one -
+Coupa_Env1EBiz_SFTPGRM_CERP_ENV2_CloudGRM_CERP_ENV2_GRMJDE_EnvJDE_TESTKTLNCloud_MonitorPaaSKTLN_CloudERPKTLN_CloudERP_EACMKyriba_Env1NEW_CLOUDERPSailPoint_EnvSailPoint_ENV2SAP_DEMOSAP_ECCSAP_S4HANASFTP_Env2Test_EnvironmentTest_Environment3_HybrisTest_Environment4_CloudERPTEST_JDE92_ENVTririga_EnvTririga_OSWorkDayEnv_3WorkDay_EnvY_EndurZ-EBS1574ENVZ1639_NEv1ZtestCoupa2Z_1639_BUG_eNvZ_Coupav2Z_EBS_TestEnv.Z_KAT_Automated1560</value>
+      <webElementGuid>abadd251-d071-494a-94a9-8215d048cf42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P47_SECONDARY_DS&quot;)</value>
+      <webElementGuid>0b96d436-1868-41d5-828d-ed151cd1b073</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P47_SECONDARY_DS']</value>
+      <webElementGuid>fa57833d-1596-4696-bcc7-fb32d3c10c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P47_SECONDARY_DS_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>00927bf2-314a-4277-b41d-ce7db1b1dccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/following::select[1]</value>
+      <webElementGuid>54ff2f0a-5097-4a26-8528-bde43b6281e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>5de9d8a7-7f9f-43cd-8d80-80ea39c98f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>30eb9747-6055-4fdc-a646-01e15f8e72d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P47_SECONDARY_DS' and @name = 'P47_SECONDARY_DS' and (text() = '- Select any one -
+Coupa_Env1EBiz_SFTPGRM_CERP_ENV2_CloudGRM_CERP_ENV2_GRMJDE_EnvJDE_TESTKTLNCloud_MonitorPaaSKTLN_CloudERPKTLN_CloudERP_EACMKyriba_Env1NEW_CLOUDERPSailPoint_EnvSailPoint_ENV2SAP_DEMOSAP_ECCSAP_S4HANASFTP_Env2Test_EnvironmentTest_Environment3_HybrisTest_Environment4_CloudERPTEST_JDE92_ENVTririga_EnvTririga_OSWorkDayEnv_3WorkDay_EnvY_EndurZ-EBS1574ENVZ1639_NEv1ZtestCoupa2Z_1639_BUG_eNvZ_Coupav2Z_EBS_TestEnv.Z_KAT_Automated1560' or . = '- Select any one -
+Coupa_Env1EBiz_SFTPGRM_CERP_ENV2_CloudGRM_CERP_ENV2_GRMJDE_EnvJDE_TESTKTLNCloud_MonitorPaaSKTLN_CloudERPKTLN_CloudERP_EACMKyriba_Env1NEW_CLOUDERPSailPoint_EnvSailPoint_ENV2SAP_DEMOSAP_ECCSAP_S4HANASFTP_Env2Test_EnvironmentTest_Environment3_HybrisTest_Environment4_CloudERPTEST_JDE92_ENVTririga_EnvTririga_OSWorkDayEnv_3WorkDay_EnvY_EndurZ-EBS1574ENVZ1639_NEv1ZtestCoupa2Z_1639_BUG_eNvZ_Coupav2Z_EBS_TestEnv.Z_KAT_Automated1560')]</value>
+      <webElementGuid>b37b6a38-7542-4a0f-9cf0-fadf8c0b1786</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

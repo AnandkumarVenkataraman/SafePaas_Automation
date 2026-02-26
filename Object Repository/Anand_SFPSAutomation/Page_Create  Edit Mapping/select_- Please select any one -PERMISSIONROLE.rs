@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select any one -PERMISSIONROLE</name>
+   <tag></tag>
+   <elementGuidId>66de7053-5b1d-4479-b86b-ff8f694506ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P47_STOP_HIERARCHY_AT_TYPE_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P47_STOP_HIERARCHY_AT_TYPE_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Stop Secondary Datasource Hierarchy at Type&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4fa13441-7202-4eb2-9f4e-2bc4e44a15d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P47_STOP_HIERARCHY_AT_TYPE_ID</value>
+      <webElementGuid>a7df612c-da3a-4cb7-a595-cef9705acbb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P47_STOP_HIERARCHY_AT_TYPE_ID</value>
+      <webElementGuid>2e8422c5-13c0-42ca-8769-6f1cc76f4297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>4edcb174-629d-4fd7-be83-e36c44764c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ded97d66-867a-4e2b-a4f9-96cbf60cb963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>38366568-52a5-416b-9b81-53ff73369164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select any one -
+PERMISSIONROLE</value>
+      <webElementGuid>8fbee816-d5ac-482d-9a28-753d05001494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P47_STOP_HIERARCHY_AT_TYPE_ID&quot;)</value>
+      <webElementGuid>fcf981ff-ae55-4b63-a3de-038c1bc193d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P47_STOP_HIERARCHY_AT_TYPE_ID']</value>
+      <webElementGuid>be79ad48-a874-4e87-8b84-6ef47c1d5b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P47_STOP_HIERARCHY_AT_TYPE_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>82387269-0e6f-400e-bd8b-179095e14e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stop Secondary Datasource Hierarchy at Type'])[1]/following::select[1]</value>
+      <webElementGuid>5b684525-7fe4-44eb-920a-59edd0463352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::select[2]</value>
+      <webElementGuid>698c0a50-46d0-40ae-8dfa-901df5310076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Identity Security Data'])[1]/preceding::select[1]</value>
+      <webElementGuid>8db25fe8-af13-4e0e-9724-e2f5acb90dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Links'])[1]/preceding::select[1]</value>
+      <webElementGuid>1e77ffc7-2b57-44a0-9771-c2780504a819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/select</value>
+      <webElementGuid>a5a02ffb-37da-46fb-aa09-516d8ef8c3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P47_STOP_HIERARCHY_AT_TYPE_ID' and @name = 'P47_STOP_HIERARCHY_AT_TYPE_ID' and (text() = '- Please select any one -
+PERMISSIONROLE' or . = '- Please select any one -
+PERMISSIONROLE')]</value>
+      <webElementGuid>cb7aa49f-d2b8-494e-bdc7-e1d127bbb55c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
