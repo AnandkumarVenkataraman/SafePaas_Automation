@@ -17,26 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Role/button_Cancel'))
+WebUI.openBrowser('')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/button_concat(Row text contains , , all, , _45e6fd'))
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles/a_Assign Roles'))
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/input_Create_R127441311092542518_search_field'), 
-    'KATADMIN')
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (10)'), 'KAT')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_Go'))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (10)'),
+	'KATADMIN')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_KATADMIN'), 'KATADMIN', 
-    FailureHandling.OPTIONAL)
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (10)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/td_ALL_ACCESS'), 'ALL_ACCESS')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/button_concat(Row text contains , , KATADMI_68d78e'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (40)'))
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Roles/input_Create_R127441311092542518_search_field'), 
-    'ANANDK1')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Company Settings_a-TreeView-toggle (18)'))
 
-WebUI.callTestCase(findTestCase('SFPSAutomation/Administration/11. Release Update'), [:])
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Usage'))
 
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Usage/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (21)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (28)'))
+
+WebUI.closeBrowser()
