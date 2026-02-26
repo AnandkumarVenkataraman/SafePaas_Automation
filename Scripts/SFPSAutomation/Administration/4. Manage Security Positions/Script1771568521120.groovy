@@ -17,89 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/button_concat(Row text contains , , KATADMI_68d78e'))
+WebUI.openBrowser('')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/span_Users Access'))
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/input_Submit_R259422667645149962_ig_toolbar_d69900 (1)'), 
-    'KATADMIN')
+WebUI.maximizeWindow()
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/button_Go (1)'))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (10)'), 'KAT')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (10)'),
+	'KATADMIN')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Company Settings'), 
-    'Company Settings', FailureHandling.OPTIONAL)
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (10)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Access Monitor'), 
-    'Access Monitor', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (34)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle (25)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_DataPaaS'), 
-    'DataPaaS', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Security Positions'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Security Position/a_Inbox'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_DataProbe'), 
-    'DataProbe', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (15)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (22)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise Access Certification (1)'), 
-    'Enterprise Access Certification', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise Access Monitor'), 
-    'Enterprise Access Monitor', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise iAccess'), 
-    'Enterprise iAccess', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Enterprise iCatalog'), 
-    'Enterprise iCatalog', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_MonitorPaaS'), 
-    'MonitorPaaS', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_Policy Manager'), 
-    'Policy Manager', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_KATADMIN'), 
-    'KATADMIN', FailureHandling.OPTIONAL)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/td_SafeInsight'), 
-    'SafeInsight', FailureHandling.OPTIONAL)
-
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/button_concat(Search for , , KATADMIN, , )__5d4760'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Users Application Access/a_SafePaaS User Listing'))
-
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Listing/input_SafePaaS User Listing_R17563888885482_0bb8ed'), 
-    'KATADMIN')
-
-WebUI.callTestCase(findTestCase('SFPSAutomation/Administration/5. SafePaaS User Listing Report'), [:])
-
+WebUI.closeBrowser()
