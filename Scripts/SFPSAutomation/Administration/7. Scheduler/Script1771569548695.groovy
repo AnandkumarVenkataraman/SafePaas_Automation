@@ -17,39 +17,56 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(2)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Security Position/a_Inbox'))
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
-WebUI.delay(2)
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (5)'))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (10)'), 'KAT')
 
-WebUI.click(findTestObject('Object Repository/Page_Home/span_Company Settings_a-TreeView-toggle'))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (10)'),
+	'KATADMIN')
 
-//WebUI.click(findTestObject('Object Repository/Page_Manage Security Position/div_Security Positions    Submit           _2b4ddf'))
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_SafePaaS User Application Listing/a_Scheduler'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (10)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.delay(10)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
 
-//Pls. note -> The indexing used here is not related to Env.
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last 30 daysLast 60 daysLast 90 days_5f1203'), 
-    1)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (37)'))
 
-WebUI.delay(10)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Company Settings_a-TreeView-toggle (15)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last 30 daysLast 60 daysLast 90 days_5f1203'), 
-    2)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Scheduler (2)'))
+WebUI.delay(30)
+WebUI.takeScreenshot()
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last dayLast 30 daysLast 60 daysLast_07589b'),
+	1)
+WebUI.delay(30)
+WebUI.takeScreenshot()
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last dayLast 30 daysLast 60 daysLast_07589b'),
+	2)
+WebUI.delay(30)
+WebUI.takeScreenshot()
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last dayLast 30 daysLast 60 daysLast_07589b'),
+	3)
+WebUI.delay(30)
+WebUI.takeScreenshot()
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last dayLast 30 daysLast 60 daysLast_07589b'),
+	4)
+WebUI.delay(30)
+WebUI.takeScreenshot()
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last dayLast 30 daysLast 60 daysLast_07589b'),
+	5)
+WebUI.delay(30)
+WebUI.takeScreenshot()
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last dayLast 30 daysLast 60 daysLast_07589b'),
+	0)
+WebUI.delay(30)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/a_Inbox (2)'))
 
-WebUI.delay(10)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (18)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last 30 daysLast 60 daysLast 90 days_5f1203'), 
-    3)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (25)'))
 
-WebUI.delay(10)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last 30 daysLast 60 daysLast 90 days_5f1203'), 
-    4)
-
-WebUI.callTestCase(findTestCase('SFPSAutomation/Administration/8. Scheduled Downloads'), [:])
-
+WebUI.closeBrowser()
