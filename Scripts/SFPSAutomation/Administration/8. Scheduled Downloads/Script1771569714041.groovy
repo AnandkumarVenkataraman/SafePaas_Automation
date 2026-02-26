@@ -17,52 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(10)
+WebUI.openBrowser('')
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/select_Last 30 daysLast 60 daysLast 90 days_5f1203'), 
-    0)
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
-WebUI.delay(10)
+WebUI.maximizeWindow()
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/img'))
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (10)'), 'KAT')
 
-WebUI.takeScreenshot()
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (10)'),
+	'KATADMIN')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Cancel'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (10)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.delay(2)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduler/a_Scheduled Downloads'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (38)'))
 
-WebUI.takeScreenshot()
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Company Settings_a-TreeView-toggle (16)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduled Downloads/a_Log Report'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Scheduled Downloads'))
 
-WebUI.takeScreenshot()
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Scheduled Downloads/a_Inbox'))
 
-WebUI.delay(2)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (19)'))
 
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/select_TodayLast 7 daysLast MonthLast 3 Mon_d22ccc'),
-//	'T1', true)
-//
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/select_TodayLast 7 daysLast MonthLast 3 Mon_d22ccc'),
-//	'D7', true)
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/a_Usage'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (26)'))
 
-WebUI.takeScreenshot()
-
-WebUI.delay(2)
-
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Usage/select_- Select -QAQA1QA2'),
-//	'374', true)
-//
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Usage/select_- Select -QAQA1QA2'),
-//	'- Select -', true)
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Usage/a_Release Update'))
-
-WebUI.takeScreenshot()
-
-WebUI.delay(2)
-
-WebUI.callTestCase(findTestCase('SFPSAutomation/Administration/9. Log Report'), [:])
-
+WebUI.closeBrowser()
