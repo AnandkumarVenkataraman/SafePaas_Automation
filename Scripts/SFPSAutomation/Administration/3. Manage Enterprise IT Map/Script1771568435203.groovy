@@ -17,44 +17,67 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/button_concat(Search for , , Company Settin_672aab'))
+WebUI.openBrowser('')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Settings/span_Users'))
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/input_Create_R23213727076438815_search_field'), 
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (10)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (10)'), 
     'KATADMIN')
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/button_Go'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (10)'), 
+    'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KATADMIN'), 'KATADMIN', 
-    FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KATADMIN'), 'KATADMIN', 
-    FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle (33)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_anandkumar.venkataramansafepaas.com'), 
-    'anandkumar.venkataraman@safepaas.com', FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle (24)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_KAT Admin'), 'KAT Admin', 
-    FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Enterprise IT Map'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_09-APR-25'), '09-APR-25', 
-    FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_Create'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_-'), '-', FailureHandling.OPTIONAL)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/select_- Select any one -Coupa_Env1EBizApp__26fa1d'),
+	'9028', true)
 
-//WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_15-JUN-25'), '15-JUN-25')
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_OPEN'), 'OPEN', FailureHandling.OPTIONAL)
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/select_- Please select any one -EntryUser E_fcc26f'),
+//	'- Please select any one -', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_Y'), 'Y', FailureHandling.OPTIONAL)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/select_- Select any one -EBizApp_JDBC_EnvEB_360383'),
+	'5888', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_09-APR-25'), '09-APR-25', 
-    FailureHandling.OPTIONAL)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/select_- Please select any one -EntryUser E_fcc26f'),
+	'FSOD.FSOD_USER_ALL', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create Users/td_66812979'), '66812979', 
-    FailureHandling.OPTIONAL)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/select_- Please select any one -Concurrent _8299bd'),
+	'481', true)
 
-WebUI.takeScreenshot()
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/button_Create'))
 
-WebUI.callTestCase(findTestCase('SFPSAutomation/Administration/4. Manage Security Positions'), [:])
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/h2_Mapping successfully created'),
+	'Mapping successfully created')
 
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_Mapping successfully created_t-Butto_00317c (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/img_Join Condition_apex-edit-page (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/button_Delete'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Create  Edit Mapping/button_OK'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/h2_Mapping successfully deleted'),
+	'Mapping successfully deleted')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/button_Mapping successfully created_t-Butto_00317c (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Enterprise IT Map/a_Inbox'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (14)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (21)'))
+
+WebUI.closeBrowser()
