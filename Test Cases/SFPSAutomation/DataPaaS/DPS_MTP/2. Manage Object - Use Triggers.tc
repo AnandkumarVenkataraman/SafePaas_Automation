@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Object - Use Triggers</description>
+   <name>2. Manage Object - Use Triggers</name>
+   <tag>DPS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc0d52fb-9c74-4b03-ac94-0b213929c7b3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dashboard</description>
+   <name>9. Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f507a5d5-4180-45e9-afca-809382ef2e08</testCaseGuid>
+</TestCaseEntity>

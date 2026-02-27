@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Object - Use Snapshot</description>
+   <name>1. Manage Object - Use Snapshot</name>
+   <tag>DPS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>370c36d7-f35c-4ca2-9760-be86cd95a5e9</testCaseGuid>
+</TestCaseEntity>

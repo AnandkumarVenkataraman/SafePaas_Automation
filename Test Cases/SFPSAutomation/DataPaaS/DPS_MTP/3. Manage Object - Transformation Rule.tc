@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Object - Transformation Rule</description>
+   <name>3. Manage Object - Transformation Rule</name>
+   <tag>DPS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b304d717-1114-4af2-9273-83187793df80</testCaseGuid>
+</TestCaseEntity>

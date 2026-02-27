@@ -6,12 +6,12 @@
    <elementGuidId>d76a6e08-011f-40f3-b702-395542756e65</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.js-confirmBtn.ui-button.ui-corner-all.ui-widget.ui-button--hot</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.js-confirmBtn.ui-button.ui-corner-all.ui-widget.ui-button--hot</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3ee028e5-879b-4cd8-a6ea-346e93a62a19</webElementGuid>
+      <webElementGuid>2f14601e-282b-40fa-9009-75f479c26c32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>10075f43-68d8-4f2d-815d-0f9aede79b37</webElementGuid>
+      <webElementGuid>1164b1a2-5f20-4ccd-be28-f3d16755cd18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot</value>
-      <webElementGuid>5a884ea6-3bfa-46c3-ad0f-bc7c59280aec</webElementGuid>
+      <webElementGuid>b351837b-0466-4ecd-bc30-5dc31368b768</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>6f4651ca-28d0-4d5b-be65-be6f2094ac1e</webElementGuid>
+      <webElementGuid>a52c92fa-9e97-424a-b180-cf3e97fad4a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-dialog--notification ui-dialog--modern ui-widget ui-widget-content ui-front ui-dialog-buttons ui-draggable&quot;]/div[@class=&quot;ui-dialog-buttonpane ui-widget-content ui-helper-clearfix&quot;]/div[@class=&quot;ui-dialog-buttonset&quot;]/button[@class=&quot;js-confirmBtn ui-button ui-corner-all ui-widget ui-button--hot&quot;]</value>
-      <webElementGuid>5cda88ba-a4f2-4a57-917b-028a23c507d1</webElementGuid>
+      <webElementGuid>c45d74dc-53bb-4624-8da9-44913571a74c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[14]</value>
-      <webElementGuid>785da31b-a999-43b7-903a-7973dd49d539</webElementGuid>
+      <webElementGuid>88ceb224-517f-4b10-977c-7c463af460d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='t_PageBody']/div[7]/div[3]/div/button[2]</value>
-      <webElementGuid>2d79e21c-b8ee-4ccc-88fd-abfe0ad180e0</webElementGuid>
+      <webElementGuid>51d31ffc-c1ce-40fa-b200-578615f35431</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>d71b4446-ea99-4041-8875-9f1daea4a10a</webElementGuid>
+      <webElementGuid>43c1fe7c-7cce-4bb2-ac88-11deaacbec68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure to Download this file ?'])[1]/following::button[2]</value>
-      <webElementGuid>7bce55db-0925-46c7-9d83-f9122f7f70a7</webElementGuid>
+      <webElementGuid>6d1f4546-0ad1-4c03-b4e7-ed9fe39c793d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
-      <webElementGuid>d872f50c-36db-48d2-9388-f742b03813fd</webElementGuid>
+      <webElementGuid>0b3b1a86-0ce6-4764-9f96-3bbec7c14b63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>e02aae76-29b7-47a0-9375-20d2faaa46e5</webElementGuid>
+      <webElementGuid>14bf3ff3-a6e5-44d6-acac-657e768e9e23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>86bf4ab3-d701-44f9-8781-ae3d855c018f</webElementGuid>
+      <webElementGuid>82b1b39c-f7bb-4ab2-a057-d17c6b746e8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Monitors - DTP</description>
+   <name>5. Manage Monitors - DTP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c19016cf-2cac-4ac3-8fe9-91cf0ebebcf5</testCaseGuid>
+</TestCaseEntity>

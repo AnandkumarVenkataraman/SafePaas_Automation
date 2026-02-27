@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Object Set - for mapping Monitors</description>
+   <name>4. Manage Object Set</name>
+   <tag>DPS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27c5b0b7-6443-47a2-afb0-e392921d6fc1</testCaseGuid>
+</TestCaseEntity>

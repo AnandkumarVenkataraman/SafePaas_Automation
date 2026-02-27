@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Incidents Report</description>
+   <name>7. Open Incidents Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>254096fc-ee8e-4337-b8f1-dc4ba0600620</testCaseGuid>
+</TestCaseEntity>

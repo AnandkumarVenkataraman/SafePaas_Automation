@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Synchronization</description>
+   <name>8. Synchronization</name>
+   <tag>DPS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0653835-8b8f-456b-8d76-5daea7a41607</testCaseGuid>
+</TestCaseEntity>

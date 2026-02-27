@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Snapshot Extract</description>
+   <name>5. Snapshot Extract</name>
+   <tag>DPS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5122305c-53c3-4d21-86f7-3e80225996ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Monitors - ConfigCompare</description>
+   <name>1. Manage Monitors</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ca3b0d7-a81d-45f0-b906-f877ab2d775e</testCaseGuid>
+</TestCaseEntity>

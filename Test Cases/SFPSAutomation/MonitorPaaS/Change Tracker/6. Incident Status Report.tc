@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Incident Status Report</description>
+   <name>6. Incident Status Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc1b98d3-2870-4f61-85f1-5ace13ca5aff</testCaseGuid>
+</TestCaseEntity>

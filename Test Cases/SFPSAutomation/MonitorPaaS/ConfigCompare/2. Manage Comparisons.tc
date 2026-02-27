@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Comparisons</description>
+   <name>2. Manage Comparisons</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f85ff922-0d89-4d68-bd25-d0b99e0209b1</testCaseGuid>
+</TestCaseEntity>

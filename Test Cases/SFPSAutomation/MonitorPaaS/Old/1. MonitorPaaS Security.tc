@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>MonitorPaaS Security</description>
+   <name>1. MonitorPaaS Security</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>774061e5-704a-46a8-b5f6-3dc5088f4331</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Security</description>
+   <name>11. Security</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33d4358d-0a0e-4eb3-88b5-cb129a304e32</testCaseGuid>
+</TestCaseEntity>

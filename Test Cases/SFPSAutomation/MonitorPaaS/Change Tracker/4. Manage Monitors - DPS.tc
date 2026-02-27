@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Monitors - DPS</description>
+   <name>4. Manage Monitors - DPS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15820ef8-4635-4a4f-b735-d54ca7fd616f</testCaseGuid>
+</TestCaseEntity>

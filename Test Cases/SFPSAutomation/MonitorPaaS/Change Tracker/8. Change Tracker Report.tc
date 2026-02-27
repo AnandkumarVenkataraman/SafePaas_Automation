@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change Tracker Report</description>
+   <name>8. Change Tracker Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e6fa9ad-1ed2-423f-90cc-aaaf54f3c825</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DataProbe Monitor</description>
+   <name>6. DataProbe Monitor</name>
+   <tag>DPS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eec95fcd-c4fa-4e71-a9a1-d8750465d842</testCaseGuid>
+</TestCaseEntity>

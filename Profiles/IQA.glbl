@@ -32,4 +32,18 @@
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://us21n.safepaas.com/monitor/f?p=1180:25:1864746640076:::25::'</initValue>
+      <name>URL_EAM_MANAGE_ROLES</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://us21n.safepaas.com/monitor/f?p=1180:210:1864746640076:::210::'</initValue>
+      <name>URL_EAM_FILTER_FALSE_POSITIVE</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

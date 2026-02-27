@@ -6,12 +6,12 @@
    <elementGuidId>afbd7ad0-5f2f-45f0-94f1-09a1a406313c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.apex-edit-page</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='296130301834446615']/tbody/tr[2]/td/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.apex-edit-page</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d42bdd1d-e653-45dd-a023-150fb912c886</webElementGuid>
+      <webElementGuid>7d5e2396-b00d-4876-89e0-5ce74519bc89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/i/app_ui/img/icons/apex-edit-page.png</value>
-      <webElementGuid>1be45e2c-0446-4296-8d33-1b48ef95ffc6</webElementGuid>
+      <webElementGuid>3196d991-d2be-4b5b-a21a-b576ea39c5d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>apex-edit-page</value>
-      <webElementGuid>28ef920f-07a7-400b-9d00-2217cb68a1f6</webElementGuid>
+      <webElementGuid>fa057cba-a8ed-481c-860d-bff5c96c29f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;296130301834446615&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/img[@class=&quot;apex-edit-page&quot;]</value>
-      <webElementGuid>1251e332-3939-4236-8369-543ddff78449</webElementGuid>
+      <webElementGuid>67001d43-5477-4030-89a4-b1c4142f2723</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='296130301834446615']/tbody/tr[2]/td/a/img</value>
-      <webElementGuid>9765a17a-4e8b-4819-902c-734e480da851</webElementGuid>
+      <webElementGuid>2a4220c5-f0a5-4b27-8792-5779cb2c86b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/img</value>
-      <webElementGuid>f42f1f80-74ec-4f64-b189-5cf7a118c7fb</webElementGuid>
+      <webElementGuid>0d9cdd36-b3cd-4af2-a324-bfca9fcbcd47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/i/app_ui/img/icons/apex-edit-page.png']</value>
-      <webElementGuid>5dbab997-9ee5-4dcd-a209-edbc7bbeb5b7</webElementGuid>
+      <webElementGuid>3894b786-fa40-43dc-b068-43289ae06c96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
