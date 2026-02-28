@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_General Ledger Super User</name>
+   <tag></tag>
+   <elementGuidId>e53373b3-8e9f-420a-8c41-adce90f8e71f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.popup-lov-highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PopupLov_13_P13_RESPONSIBILITY_dlg']/div[2]/div/div[3]/ul/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.popup-lov-highlight >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db04f272-71f8-48a1-a2ad-5b2ca02e5b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-lov-highlight</value>
+      <webElementGuid>0d82d4fb-91b6-435d-8d63-3bc3a9943cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Ledger Super User</value>
+      <webElementGuid>83e8ecdc-0c2f-4448-8ca3-41384b09bddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_13_P13_RESPONSIBILITY_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV js-no-select&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]/span[@class=&quot;popup-lov-highlight&quot;]</value>
+      <webElementGuid>7912d983-c4dc-4208-8ee4-67536c06c37f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_13_P13_RESPONSIBILITY_dlg']/div[2]/div/div[3]/ul/li/span</value>
+      <webElementGuid>33c86fe4-aa49-43cc-bc53-c20da6a4ca9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Presented in 20 rows'])[1]/following::span[1]</value>
+      <webElementGuid>e5b3995e-e409-4cc9-884b-b21b9f4fac95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger Super User'])[2]/preceding::span[1]</value>
+      <webElementGuid>7a55910e-f356-47e7-a84a-5de67ee36047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Ledger Super User']/parent::*</value>
+      <webElementGuid>11404a9b-1a77-440c-a2dc-56d4724eb480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/span</value>
+      <webElementGuid>58576780-c995-4dd0-ac65-1b0de75c66f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'General Ledger Super User' or . = 'General Ledger Super User')]</value>
+      <webElementGuid>836900c7-3adb-4d0e-8898-96f9aef45447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
