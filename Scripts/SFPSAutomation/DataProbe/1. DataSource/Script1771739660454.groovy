@@ -23,8 +23,7 @@ import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.URL //IQA or Prod. Profile should be selected during execution
-    )
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
 WebUI.maximizeWindow()
 
@@ -67,5 +66,5 @@ WebUI.takeScreenshot()
 
 WebUI.back()
 
-WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/2. Manage Objects'), [:])
-
+//WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/2. Manage Objects'), [:])
+WebUI.closeBrowser()
