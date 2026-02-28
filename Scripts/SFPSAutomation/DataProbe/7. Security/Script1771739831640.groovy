@@ -23,6 +23,20 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (1)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (6)'), 'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (6)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (6)'))
+
 //Security
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_MonitorPaaS_a-TreeView-toggle (7)'))
