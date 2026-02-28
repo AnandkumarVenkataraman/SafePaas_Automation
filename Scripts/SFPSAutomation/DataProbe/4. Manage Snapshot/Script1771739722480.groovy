@@ -21,6 +21,26 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (1)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (6)'), 'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (6)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (6)'))
+
+//Navigate to DataProbe > Manage Snapshot
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (6)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Snapshot (1)'))
+
 //Snapshot Extract
 def dateFormat = new SimpleDateFormat('ddMMyyyyHHmmss')
 
@@ -74,5 +94,5 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/butto
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
 
-WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/5. Analytics'), [:])
-
+//WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/5. Analytics'), [:])
+WebUI.closeBrowser()

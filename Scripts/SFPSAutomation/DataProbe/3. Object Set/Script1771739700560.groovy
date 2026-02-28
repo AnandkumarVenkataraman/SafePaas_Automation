@@ -21,8 +21,27 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (1)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (6)'), 'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (6)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Login (6)'))
+
 //Object Set
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/a_Manage Object Set (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Object Set (1)'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Object Set/input_Create_R137674426230792379_search_field (1)'), 
     'EBizApp_JDBC_ObjSet')
@@ -40,5 +59,5 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_AddEdit Objectset/but
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Object Set/button_concat(Row text contains , , EBizApp_af7ab9'), 
     FailureHandling.OPTIONAL)
 
-WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/4. Manage Snapshot'), [:])
-
+//WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/4. Manage Snapshot'), [:])
+WebUI.closeBrowser()
