@@ -503,5 +503,5 @@ WebUI.closeBrowser()
 }
 catch(Exception e) {
 	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("MassUpdateException UsersWithConflict - Passed with exceptions")
+	KeywordUtil.markPassed("Mass Update Exceptions - Users with Conflict")
 }

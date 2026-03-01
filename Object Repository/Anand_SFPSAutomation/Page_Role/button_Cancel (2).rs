@@ -6,12 +6,12 @@
    <elementGuidId>2986d15e-4de3-4557-89d4-83d88823a86b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='B126256047212149717']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#B126256047212149717</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumbs'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

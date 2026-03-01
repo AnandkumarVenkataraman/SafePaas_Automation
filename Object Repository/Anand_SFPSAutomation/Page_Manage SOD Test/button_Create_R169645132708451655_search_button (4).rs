@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='R169645132708451655_search_button']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

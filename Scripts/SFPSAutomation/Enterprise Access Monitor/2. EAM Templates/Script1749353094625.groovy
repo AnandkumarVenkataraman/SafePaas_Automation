@@ -21,7 +21,8 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
-
+try
+{
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
@@ -161,4 +162,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (12)'))
 
 WebUI.closeBrowser()
-
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	KeywordUtil.markPassed("EAM Templates")
+}

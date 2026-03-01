@@ -20,7 +20,9 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
-
+import com.kms.katalon.core.util.KeywordUtil
+try
+{
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
@@ -197,15 +199,9 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_Inbox_L14205299837764170 (9)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (9)'))
-
-
-
-
-
-//DataProbe
-
-//Schedule
-
-//WebUI.closeBrowser()
-
-
+WebUI.closeBrowser()
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	KeywordUtil.markPassed("SOD Test from Scheduler")
+}

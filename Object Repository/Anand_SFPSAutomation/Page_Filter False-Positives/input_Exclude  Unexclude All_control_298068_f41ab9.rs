@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='control_29806868040112917']</value>
+         <value>//div[@id='a_Collapsible3_aRep_control_panel_content']/ul/li/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

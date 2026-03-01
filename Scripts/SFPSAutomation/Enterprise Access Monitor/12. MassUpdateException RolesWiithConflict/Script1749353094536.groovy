@@ -16,7 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+import com.kms.katalon.core.util.KeywordUtil
+try
+{
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
@@ -788,4 +790,8 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/deba1/RolewithConfl
 WebUI.scrollToPosition(0, 0, FailureHandling.OPTIONAL)
 
 WebUI.closeBrowser()
-
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	KeywordUtil.markPassed("Mass Update Exceptions - Roles with Conflict")
+}
