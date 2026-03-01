@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Analytics - Application Test Env. Reports</description>
+   <description>Analytics - Application Test Env. Reports ->&#xd;
+1. Security Snapshot Details report&#xd;
+2. Test Environment Status Summary report</description>
    <name>7. Analytics - Application Test Env. Reports</name>
    <tag>EAM</tag>
    <comment></comment>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Analytics - Violation Reports</description>
+   <description>Analytics - Violation Reports ->&#xd;
+1. Violations by User report&#xd;
+2. Violation Matrix by User report&#xd;
+3. Intra Role Violation Details report&#xd;
+4. Aggregate Violations by User report</description>
    <name>6. Analytics - Violation Reports</name>
    <tag>EAM</tag>
    <comment></comment>
