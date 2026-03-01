@@ -34,7 +34,7 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/input_Import Rules_R247793226539899118_sear_84acb9 (6)'), 
     'Z_AccessChecks_OR_Rule#3')
-
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/button_Import Rules_R247793226539899118_sea_c93c8e (4)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a (6)'))
