@@ -73,7 +73,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/a_Inbox (1)'))
 
 //Verify the DataPaaS Monitor for type = MonitorPaaS, and CT Type = 'Use Snapshots'
-
+WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataProbe_a-TreeView-toggle'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Manage Snapshot_a-TreeView-toggle'))
