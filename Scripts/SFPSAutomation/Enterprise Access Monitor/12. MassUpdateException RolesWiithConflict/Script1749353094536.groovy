@@ -793,5 +793,5 @@ WebUI.closeBrowser()
 }
 catch(Exception e) {
 	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("Mass Update Exceptions - Roles with Conflict")
+	//
 }

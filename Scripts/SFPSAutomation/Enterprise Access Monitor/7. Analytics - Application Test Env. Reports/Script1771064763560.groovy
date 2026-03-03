@@ -48,5 +48,5 @@ WebUI.comment("Analytics - Application Test Env. Reports completed")
 }
 catch(Exception e) {
 	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("Application Test Env. Reports")
+	//
 }

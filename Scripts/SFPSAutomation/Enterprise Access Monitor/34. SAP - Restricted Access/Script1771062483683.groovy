@@ -22,7 +22,7 @@ import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 import groovy.json.JsonSlurper
 import groovy.json.JsonOutput
-
+import com.kms.katalon.core.util.KeywordUtil
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)

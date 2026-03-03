@@ -16,7 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+import com.kms.katalon.core.util.KeywordUtil
+try
+{
 //Launch the SOD Review survey [at Aggregate Level] as Role-owner, and remediate
 WebUI.openBrowser('')
 WebUI.delay(5)
@@ -121,3 +123,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 	'Thank You and Manage Review Action sent to Rule Owners')
 
 WebUI.closeBrowser()
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	//
+}

@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import groovy.json.JsonSlurper
 import groovy.json.JsonOutput
-
+import com.kms.katalon.core.util.KeywordUtil
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)

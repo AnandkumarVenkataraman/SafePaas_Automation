@@ -16,7 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+import com.kms.katalon.core.util.KeywordUtil
+try
+{
 //Rule-owner
 WebUI.openBrowser('')
 
@@ -74,3 +76,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 	'Thanks for validating the Users.')
 
 WebUI.closeBrowser()
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	//
+}

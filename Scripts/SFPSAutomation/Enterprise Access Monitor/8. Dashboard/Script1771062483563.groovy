@@ -67,5 +67,5 @@ WebUI.closeBrowser()
 }
 catch(Exception e) {
 	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("Dashboard")
+	//
 }
