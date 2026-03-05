@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Configure Objects</name>
+   <tag></tag>
+   <elementGuidId>75824463-df9d-499f-808c-2a5ef4de19ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='L342296473128586054']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#L342296473128586054 > div.t-WizardSteps-wrap > span.t-WizardSteps-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Configure Objects&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a133e44-6af3-4a0a-bfef-99267e92b175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-WizardSteps-label</value>
+      <webElementGuid>ef49b99b-211a-4d97-81e2-a6b2499e3f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configure Objects </value>
+      <webElementGuid>6258b477-af20-4ac9-ab2e-ea30fd37bb63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;L342296473128586054&quot;)/div[@class=&quot;t-WizardSteps-wrap&quot;]/span[@class=&quot;t-WizardSteps-label&quot;]</value>
+      <webElementGuid>38933ba5-1cac-4d7a-a640-7f9e88743ee8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='L342296473128586054']/div/span[2]</value>
+      <webElementGuid>9f073dbb-11fe-4489-897c-9e165056b243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Active)'])[1]/following::span[3]</value>
+      <webElementGuid>42ac2d67-8070-4a34-a347-eb64c922c9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Trackers'])[2]/preceding::span[4]</value>
+      <webElementGuid>8ae0c613-0f28-4b83-9988-601f659e6ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Catalog Items'])[1]/preceding::span[6]</value>
+      <webElementGuid>457757ea-4fa8-4a83-a102-6bdd5bee27e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Configure Objects']/parent::*</value>
+      <webElementGuid>9421be8c-65f1-4ea8-b96e-5a76b8a5b8b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/div/span[2]</value>
+      <webElementGuid>cd705e89-217f-432f-9967-654924bb75d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Configure Objects ' or . = 'Configure Objects ')]</value>
+      <webElementGuid>22ca180e-31a8-41cd-9ee8-e180a81a6368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

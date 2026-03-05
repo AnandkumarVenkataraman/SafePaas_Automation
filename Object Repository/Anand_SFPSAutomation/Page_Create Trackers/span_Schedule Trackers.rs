@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Schedule Trackers</name>
+   <tag></tag>
+   <elementGuidId>125f44f4-dd0b-4abb-baf3-cee78160d764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='L342296896365586054']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#L342296896365586054 > div.t-WizardSteps-wrap > span.t-WizardSteps-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#L342296896365586054 >> internal:text=&quot;Schedule Trackers&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b11cec9a-73d4-44a1-b183-31ebc21f2070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-WizardSteps-label</value>
+      <webElementGuid>74950eec-7909-417f-ae65-d8b9f1b36f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule Trackers </value>
+      <webElementGuid>fb945031-71f9-4691-916c-00bddfc3dfb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;L342296896365586054&quot;)/div[@class=&quot;t-WizardSteps-wrap&quot;]/span[@class=&quot;t-WizardSteps-label&quot;]</value>
+      <webElementGuid>918b281a-9f89-4577-844b-17e7972a6c3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='L342296896365586054']/div/span[2]</value>
+      <webElementGuid>d6c11875-c615-4577-94b7-a5036dcff914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure Objects'])[1]/following::span[3]</value>
+      <webElementGuid>1fac6c13-119d-4c80-8ddd-12a7883165ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Active)'])[1]/following::span[7]</value>
+      <webElementGuid>59cec8f0-deea-47b9-ad39-00500af827fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Catalog Items'])[1]/preceding::span[2]</value>
+      <webElementGuid>5a821597-563e-4420-a23c-c856b580c4aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::span[4]</value>
+      <webElementGuid>83b945c1-bdc1-46b3-8dc5-f66518f20621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[3]/div/span[2]</value>
+      <webElementGuid>89d8f3d9-d7df-49da-81ce-637b7ce626a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Schedule Trackers ' or . = 'Schedule Trackers ')]</value>
+      <webElementGuid>db401a23-fac1-4cf9-9ff7-92db8a77d498</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

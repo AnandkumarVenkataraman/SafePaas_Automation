@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Catalog Items (Active)</name>
+   <tag></tag>
+   <elementGuidId>835b1d57-f354-406c-ab91-9c9280f1defc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='L342296086378586052']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.t-WizardSteps-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Select Catalog Items (Active)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4dc7e924-c54f-4acd-a9e0-1337eadd8059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-WizardSteps-label</value>
+      <webElementGuid>3b418255-14a5-42fe-9290-1ba463ff7d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Catalog Items (Active)</value>
+      <webElementGuid>5be1310e-17cb-4db4-b766-0a54eb7d1320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;L342296086378586052&quot;)/div[@class=&quot;t-WizardSteps-wrap&quot;]/span[@class=&quot;t-WizardSteps-label&quot;]</value>
+      <webElementGuid>fc4c8ac8-4e1c-42df-8a70-ea506fdd0e11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='L342296086378586052']/div/span[2]</value>
+      <webElementGuid>ae3fc669-60e2-4bf8-94a5-d89e76b187f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Progress'])[1]/following::span[2]</value>
+      <webElementGuid>a8ef1624-7758-405c-8626-45a7f20987df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::span[3]</value>
+      <webElementGuid>e4a8ab40-094f-4d2f-820a-dd12e1be8be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure Objects'])[1]/preceding::span[4]</value>
+      <webElementGuid>53943bc7-3253-450e-a765-e6817f7acfac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Catalog Items']/parent::*</value>
+      <webElementGuid>262b4f13-8b24-418d-ac83-3d9351a55708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div/span[2]</value>
+      <webElementGuid>b4a288fa-747d-4dd7-a764-6a8826ebfa63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select Catalog Items (Active)' or . = 'Select Catalog Items (Active)')]</value>
+      <webElementGuid>e8e5cc77-6a00-4b2a-8eca-f296f72de097</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

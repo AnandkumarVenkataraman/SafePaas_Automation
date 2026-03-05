@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Schedule Trackers</description>
-   <name>3. Schedule Trackers</name>
+   <name>5. Schedule Trackers</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

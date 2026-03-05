@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Edit Trackers</description>
+   <description>Deploy from Edit Trackers for ->&#xd;
+a. Object Type = JDBC&#xd;
+b. Incident Workflow = Change Level&#xd;
+c. Type = Occurrences&#xd;
+d. CT Type = Use Snapshot</description>
    <name>2. Edit Trackers</name>
    <tag></tag>
    <comment></comment>
