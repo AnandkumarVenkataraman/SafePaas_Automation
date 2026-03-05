@@ -108,7 +108,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Snapshot/a_Inb
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/button_Inbox_L14205299837764170 (1)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_My Profile_menu_L14205299837764170_1i (1)'))
-
+WebUI.delay(2)
 //SFTP
 //WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (1)'), 'KAT')
 //
