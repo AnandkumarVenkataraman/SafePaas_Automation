@@ -17,3 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+//Deploy from Manage Monitors for ->
+//Object Type = JDBC
+//Incident Workflow = Consolidated Level
+//Type = Occurrences
+//CT Type = Use Triggers
