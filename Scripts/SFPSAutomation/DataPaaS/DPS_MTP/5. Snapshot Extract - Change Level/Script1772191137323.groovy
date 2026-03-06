@@ -61,23 +61,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataProbe_a-TreeView-toggle (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataProbe_a-TreeView-toggle (2)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Snapshot (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Snapshot (2)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Object Set_P0_OBJECT_SET_lov_btn'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Object Set_P0_OBJECT_SET_lov_btn'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/input_Close_a-PopupLOV-search apex-item-text'),
 	'559_ObjectSet')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/span_559_ObjectSet'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/span_559_ObjectSet'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Extract Data (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Extract Data (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_-- Select any one ---- Local File --_b6cbf8'),
 	'0', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/label_Occurrences (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/label_Occurrences (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_-- Select any one ---- Local File --_b6cbf8'),
 	'4170', true)
@@ -85,9 +85,9 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/select_559_APTerms559_APTerms_ConfigCompare_74d53b'),
 	'365', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_(Value Required)_P30_MULTI_OBJECT_ID_MOVE (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_(Value Required)_P30_MULTI_OBJECT_ID_MOVE (1)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/label_Run Monitor_u-checkbox (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/label_Run Monitor_u-checkbox (1)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/input_(Value Required)_P30_SCHEDULER_JOB_NAME (13)'),
 	'PRPO_MAR6_V1')
@@ -95,58 +95,58 @@ WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job De
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/textarea_Comments_P30_SCHEDULER_JOB_COMMENTS (11)'),
 	'PRPO_MAR6_V1')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Create (6)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Job Detail/button_Create (6)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/h2_Job initiated PRPO_MAR6_V1'),
 	'Job initiated: PRPO_MAR6_V1.')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Job initiated PRPO_MAR6_V1_t-Button _a9b7d4'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Job initiated PRPO_MAR6_V1_t-Button _a9b7d4'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/input_Extract Data_mngSnap_search_field'),
 	'PRPO_MAR6_V1')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed (1)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/input_Level_P10_LOG_LEVEL_1 (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/input_Level_P10_LOG_LEVEL_1 (2)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_1'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_1'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/span_No data found (2)'),
 	'No data found.')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed (1)'), 'Completed')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_1'), 'Completed')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Remove Filter'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Remove Filter'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Object Set_P0_OBJECT_SET_lov_btn'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Object Set_P0_OBJECT_SET_lov_btn'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_- Select any one -'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_- Select any one -'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Inbox (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Inbox (1)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (9)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (9)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Snapshot_1'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Snapshot_1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/select_Select any oneAccountsPayableCERP_Ob_803579'),
 	'5775', true)
@@ -154,12 +154,12 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/input_Extract Data_mngSnap_search_field'),
 	'PRPO_MAR6_V1')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/input_Extract Data_mngSnap_search_field'),
 	'PRPO_MAR6_V1')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Go (2)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_2'), 'Completed')
 
@@ -167,42 +167,42 @@ WebUI.rightClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Man
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_4'), 'Completed')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_2'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_2'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/span_No data found (2)'),
-	'No data found.')
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_3'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
-
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/span_No data found (2)'),
 	'No data found.')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Remove Filter_1'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Completed_3'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/span_No data found (2)'),
+	'No data found.')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Info (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Log Report/label_Warning (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/button_Remove Filter_1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/select_Select any oneAccountsPayableCERP_Ob_803579'),
 	'Select any one', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Inbox_1'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Snapshot/a_Inbox_1'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (10)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (10)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Monitors (3)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Monitors (3)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/select_- Select -559_ObjectSet_V2559_ObjectSet (1)'),
 	'5774', true)
@@ -210,11 +210,11 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/input_EBS122_mngMonitos_search_field (1)'),
 	'DPS_PR_PO_SameUser')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Go (3)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Go (3)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_DPS_PR_PO_SameUser (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_DPS_PR_PO_SameUser (1)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/span_ResultSets'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Monitor Details/span_ResultSets'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/select_Select any OnePRPO_MAR6_V1_202603060509'),
 	'48284', true)
@@ -222,17 +222,17 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/select_Select any OnePRPO_MAR6_V1_202603060509'),
 	'Select any One', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/a_Manage Monitors (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_ResultSets/a_Manage Monitors (1)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Remove Filter (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/button_Remove Filter (1)'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/select_- Select -559_ObjectSet_V2559_ObjectSet (1)'),
 	'- Select -', true)
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_Inbox (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Monitors/a_Inbox (2)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (31)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (31)'))
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (39)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (39)'))
 
 WebUI.closeBrowser()
