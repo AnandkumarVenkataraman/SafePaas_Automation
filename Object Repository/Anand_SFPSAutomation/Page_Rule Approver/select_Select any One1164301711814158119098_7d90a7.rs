@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any One1164301711814158119098_7d90a7</name>
+   <tag></tag>
+   <elementGuidId>d7939349-87d6-42a5-8a13-b95efc89468a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_USER_ID</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_USER_ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;User Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c867b9ae-854a-434b-a88b-2003881de7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_USER_ID</value>
+      <webElementGuid>4a45700a-affd-46e8-a83f-7ad0ff3b0090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P35_USER_ID</value>
+      <webElementGuid>2e3bbb91-ce79-4417-b990-c61fc28abf47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>8585f604-d564-418e-a42a-6592e5bcbefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>67ee9475-d900-46df-9691-9e29d12b91cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>51721211-9c2f-43fc-bc6b-e885c30c9363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+11643017
+11814158
+11909895
+11921943
+AALLEN
+AGRANDE
+AGUERIN
+AKASH.KUMAR GANDHI
+AKHILA.CB@COGNIZANT.COM
+AMAJUL
+ANANDBABU1
+ANANDK
+ANANDK1
+ANANDTEST
+CMILLER
+DPATEL
+E7403237
+E7404429
+EG338521
+EM002489
+EN000297
+EN413708
+HARIOM VIMALKUMAR.BRAHMBHATT
+JBROWN
+JCAREY
+KATADMIN
+KATALON_ADMIN
+KKANCHARLA
+KTLN_EACM_USER1
+KTLN_EAM_USER1
+MARIAB
+MARIAB1
+MARIAB11
+MATEUSZ.CIBOR@PL.MCD.COM
+MBANSAL
+MC28967
+MCD.SAFEPAAS2
+MOHIT.KUMAR
+NEWUSERREQUEST1
+NICOPONCE
+PMARTIN
+SATHISH KUMAR.PONNUSAMY
+SCANNEBI
+SMCFADDE
+SYEDMF
+TMAHONEY
+UTILMGR
+</value>
+      <webElementGuid>484788ff-114d-4e57-a6bf-bc6a94ef2cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_USER_ID&quot;)</value>
+      <webElementGuid>18bf4d24-aa22-44c6-b865-a7230aa983c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_USER_ID']</value>
+      <webElementGuid>70b501a2-686e-4054-84bb-cf711f0b480c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_USER_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>79df464c-cb82-4b90-8250-86754c822c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::select[1]</value>
+      <webElementGuid>2b9663a9-9751-4191-8f0c-30a77df584e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Another'])[1]/following::select[1]</value>
+      <webElementGuid>73627cfb-6308-407c-928d-b4f3b0bb61b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/preceding::select[1]</value>
+      <webElementGuid>358f80c9-fac9-4943-bfc5-a104998e18f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::select[2]</value>
+      <webElementGuid>cc294211-890d-43c2-9948-795888bd9144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d6919420-16cd-4ad1-af9e-c14799cbe6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P35_USER_ID' and @name = 'P35_USER_ID' and (text() = 'Select any One
+11643017
+11814158
+11909895
+11921943
+AALLEN
+AGRANDE
+AGUERIN
+AKASH.KUMAR GANDHI
+AKHILA.CB@COGNIZANT.COM
+AMAJUL
+ANANDBABU1
+ANANDK
+ANANDK1
+ANANDTEST
+CMILLER
+DPATEL
+E7403237
+E7404429
+EG338521
+EM002489
+EN000297
+EN413708
+HARIOM VIMALKUMAR.BRAHMBHATT
+JBROWN
+JCAREY
+KATADMIN
+KATALON_ADMIN
+KKANCHARLA
+KTLN_EACM_USER1
+KTLN_EAM_USER1
+MARIAB
+MARIAB1
+MARIAB11
+MATEUSZ.CIBOR@PL.MCD.COM
+MBANSAL
+MC28967
+MCD.SAFEPAAS2
+MOHIT.KUMAR
+NEWUSERREQUEST1
+NICOPONCE
+PMARTIN
+SATHISH KUMAR.PONNUSAMY
+SCANNEBI
+SMCFADDE
+SYEDMF
+TMAHONEY
+UTILMGR
+' or . = 'Select any One
+11643017
+11814158
+11909895
+11921943
+AALLEN
+AGRANDE
+AGUERIN
+AKASH.KUMAR GANDHI
+AKHILA.CB@COGNIZANT.COM
+AMAJUL
+ANANDBABU1
+ANANDK
+ANANDK1
+ANANDTEST
+CMILLER
+DPATEL
+E7403237
+E7404429
+EG338521
+EM002489
+EN000297
+EN413708
+HARIOM VIMALKUMAR.BRAHMBHATT
+JBROWN
+JCAREY
+KATADMIN
+KATALON_ADMIN
+KKANCHARLA
+KTLN_EACM_USER1
+KTLN_EAM_USER1
+MARIAB
+MARIAB1
+MARIAB11
+MATEUSZ.CIBOR@PL.MCD.COM
+MBANSAL
+MC28967
+MCD.SAFEPAAS2
+MOHIT.KUMAR
+NEWUSERREQUEST1
+NICOPONCE
+PMARTIN
+SATHISH KUMAR.PONNUSAMY
+SCANNEBI
+SMCFADDE
+SYEDMF
+TMAHONEY
+UTILMGR
+')]</value>
+      <webElementGuid>9d4ddaaa-b0f1-48b8-af70-89329c03008f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

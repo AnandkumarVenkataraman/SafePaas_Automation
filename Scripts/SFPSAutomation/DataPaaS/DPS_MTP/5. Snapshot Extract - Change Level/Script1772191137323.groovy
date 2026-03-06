@@ -51,3 +51,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Pa
 	'Ioqy8emDrxi5mkiNQATzxQ==')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
+
+//This snapshot extract will be initiated from DataPaaS for a Change-level/Occurrences Monitor

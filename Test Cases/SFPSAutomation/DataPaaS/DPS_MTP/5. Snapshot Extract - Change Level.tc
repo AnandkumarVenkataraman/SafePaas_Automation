@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Snapshot Extract</description>
-   <name>5. Snapshot Extract - Use Snapshot</name>
+   <name>5. Snapshot Extract - Change Level</name>
    <tag>DPS</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
