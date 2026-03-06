@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OnePRPO_MAR6_V1_202603060509</name>
+   <tag></tag>
+   <elementGuidId>a784acf7-4377-4051-a7e9-3bd582814a7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P85_RESULTSET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P85_RESULTSET']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#P85_RESULTSET</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>173e9bcd-299e-4afa-9da3-05fa6c755768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P85_RESULTSET</value>
+      <webElementGuid>ff8a26f4-92f3-4aa8-bd44-a71a8667b08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P85_RESULTSET</value>
+      <webElementGuid>570e5c79-b271-45f8-a99a-99249a839b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>fc6b5ae0-82c6-41a7-ab67-3fef15cb01b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8d56e4e5-6bef-4664-af2e-364b07eed6be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>5e9f9fc9-bda1-4ae9-a513-bc6aa3d15c00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P85_RESULTSET');</value>
+      <webElementGuid>6e90a918-88a9-4613-b0f1-bb5941da5031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+PRPO_MAR6_V1_202603060509
+</value>
+      <webElementGuid>43f05bb5-66d7-4d05-8651-d03746886c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P85_RESULTSET&quot;)</value>
+      <webElementGuid>8ea7903b-7b13-47dd-9abc-306fd4e4dfed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P85_RESULTSET']</value>
+      <webElementGuid>95ca577e-172a-45fc-8f0a-30474ed06b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R398460865647407202']/div[2]/div[2]/div/div/div/select</value>
+      <webElementGuid>357dce0e-9ba3-4e04-90bf-62c3da6e1c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ResultSets'])[4]/following::select[1]</value>
+      <webElementGuid>ce738b37-d66c-4fb9-850b-497622ccd30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Set based on'])[1]/preceding::select[1]</value>
+      <webElementGuid>2135b075-5766-48a2-a160-c9f1e22acdd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>83fdee6b-a931-4013-adeb-e022f2b80e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d14a6b33-adbe-4530-8bbd-71345e708cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P85_RESULTSET' and @name = 'P85_RESULTSET' and (text() = 'Select any One
+PRPO_MAR6_V1_202603060509
+' or . = 'Select any One
+PRPO_MAR6_V1_202603060509
+')]</value>
+      <webElementGuid>c724175d-aff0-4824-b990-2bc3df3aa253</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

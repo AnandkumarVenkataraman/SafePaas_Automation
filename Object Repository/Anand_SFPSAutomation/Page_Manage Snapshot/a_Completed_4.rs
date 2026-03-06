@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Completed_4</name>
+   <tag></tag>
+   <elementGuidId>9c0529a7-6b04-4d81-8f10-c5ae7fb46a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'f?p=1001:10:1313259770811:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:338318,Y' and (text() = 'Completed' or . = 'Completed')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bbd2cd48-e241-4ba7-9aec-96a3d0d81aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1001:10:1313259770811:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:338318,Y</value>
+      <webElementGuid>48a80791-ed74-4937-86db-91121bb590d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Completed</value>
+      <webElementGuid>40d3df83-f418-4f0e-b864-c9d9e287fd22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;144264340282266620_orig&quot;)/tbody[1]/tr[3]/td[@class=&quot;u-tC&quot;]/a[1]</value>
+      <webElementGuid>b999c7dc-e9a3-4bc3-a153-55a58146c486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1001:10:1313259770811:::RIR,CIR:IR_REQUEST_ID,P10_CALLER_DEBUG_ON:338318,Y' and (text() = 'Completed' or . = 'Completed')]</value>
+      <webElementGuid>e07e9328-437e-4e74-a9a2-384f000fb9e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
