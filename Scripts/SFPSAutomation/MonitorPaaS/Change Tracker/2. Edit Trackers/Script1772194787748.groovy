@@ -56,8 +56,21 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/select_- Select -559_ObjectSet_V2559_ObjectSet'),
 	'559_ObjectSet', false)
+//Filter for DPS_PR_PO_SameUser Monitor; i.e., the Monitor to be deployed
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/input_EBS R12.2_f01'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/a_Name'))
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/input_Search_R433726316682115957_sort_widge_f97375'),
+	'DPS_PR_PO_SameUser')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/a_DPS_PR_PO_SameUser'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/input_Name_f01'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/button_Remove Filter'))
+
+//ENd
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/input_EBS R12.2_f01'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Move Process/button_Deploy Objects (1)'))
 
