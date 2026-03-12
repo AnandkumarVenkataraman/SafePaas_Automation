@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MonitorPaaS (1)</name>
+   <tag></tag>
+   <elementGuidId>ba570e34-77b2-428d-9277-07a1766369cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.apex-item-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P12_OBJ_APP_TYPE']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Product Type&quot;i >> div >> internal:has-text=/^MonitorPaaS$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>652ac6bc-5f69-49d8-b546-ec65335c7aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-item-option</value>
+      <webElementGuid>02852e19-4b97-4e0e-aee2-54aae88c7662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MonitorPaaS</value>
+      <webElementGuid>97a8a269-e7fb-4413-b72d-9fa26dd9f4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P12_OBJ_APP_TYPE&quot;)/div[@class=&quot;apex-item-grid radio_group&quot;]/div[@class=&quot;apex-item-grid-row&quot;]/div[@class=&quot;apex-item-option&quot;]</value>
+      <webElementGuid>0c9ccf42-e1b4-457f-b6ab-bfc1b006b490</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P12_OBJ_APP_TYPE']/div/div/div</value>
+      <webElementGuid>22083533-a830-4f68-88f8-ad3d361f456c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Type'])[1]/following::div[6]</value>
+      <webElementGuid>2366c751-8a42-4453-986d-512944b7b0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Description'])[1]/following::div[12]</value>
+      <webElementGuid>b159328a-3545-4556-a165-ae9c9d88e351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usage'])[1]/preceding::div[5]</value>
+      <webElementGuid>b8c40ea4-6abf-4526-a1d8-2f08a8566548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Tracker Type'])[1]/preceding::div[16]</value>
+      <webElementGuid>a4ee2c23-bfcf-4418-a8c0-c8de32b5e288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>420d1ca7-8ddf-459a-9af9-9987f7181e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MonitorPaaS' or . = 'MonitorPaaS')]</value>
+      <webElementGuid>a4472426-b05e-40b0-ab5a-f204b1b16fe2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

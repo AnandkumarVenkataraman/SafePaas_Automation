@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Object (1)</name>
+   <tag></tag>
+   <elementGuidId>9ca2bc40-c6c7-4356-8576-de031f2646af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R214650381075441630']/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Manage Object&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f71d92fd-6bbf-41e1-beaa-1ce1b299ea19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1700:2:4457215128483:::::</value>
+      <webElementGuid>6380cd38-40c6-409c-8cff-db8ad98503f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Breadcrumb-label</value>
+      <webElementGuid>d9ad89d3-bf7a-409b-b257-39a45280266a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Object</value>
+      <webElementGuid>a48fa574-7414-402c-b1c4-afeda95917c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R214650381075441630&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
+      <webElementGuid>363d2d3c-1f0d-4bf9-8c22-954c4969f559</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R214650381075441630']/div/div/ul/li[3]/a</value>
+      <webElementGuid>dfc65109-2708-435b-ab81-a11c379437ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Manage Object')])[5]</value>
+      <webElementGuid>127e4a50-877d-49dd-8709-9a1fd6560fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[10]/following::a[1]</value>
+      <webElementGuid>62d372e8-060a-4bdd-8840-f389032ca40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataPaaS'])[2]/following::a[2]</value>
+      <webElementGuid>86721857-3487-47dd-bbcf-59e48a32ae9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add / Edit Object Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>584d3da2-fda7-4416-bd97-0628b0beec35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ba888b3-e792-42b8-97dc-71b93e4e1129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1700:2:4457215128483:::::')]</value>
+      <webElementGuid>7557a7af-0641-4c03-ad5f-48de16a937ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>28cd023a-0b85-4035-a2a1-85111c0546e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1700:2:4457215128483:::::' and (text() = 'Manage Object' or . = 'Manage Object')]</value>
+      <webElementGuid>cd9008d1-a3b3-4d47-8e64-a734791f9b08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

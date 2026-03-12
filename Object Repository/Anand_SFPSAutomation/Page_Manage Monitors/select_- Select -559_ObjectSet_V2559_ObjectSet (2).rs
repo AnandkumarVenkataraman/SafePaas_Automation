@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select -559_ObjectSet_V2559_ObjectSet (2)</name>
+   <tag></tag>
+   <elementGuidId>d01f88a7-a75a-4658-95ad-e80688ee6184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P20_DPS_OBJECT_SET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P20_DPS_OBJECT_SET']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Manage Monitors DPS&quot;s >> internal:label=&quot;Object Set&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>49ee7f42-c7cc-4dbe-a58b-83e46a87b2fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P20_DPS_OBJECT_SET</value>
+      <webElementGuid>8a45f08c-b66d-44a7-ac61-2cd45f4168d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P20_DPS_OBJECT_SET</value>
+      <webElementGuid>2c34c580-074a-4e08-a45b-e2758b482505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>e1a720d9-eca2-4cb3-b1a2-3cc970316996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9ff0e261-82b9-494e-9f77-9799b29d1b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>a794126b-9847-4cf3-8a2c-df9e34bd46cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P20_DPS_OBJECT_SET');</value>
+      <webElementGuid>769619c1-6987-4cb1-994f-90c12089dd4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select -
+559_ObjectSet_V2
+559_ObjectSet
+</value>
+      <webElementGuid>90f8510a-85a6-4a3e-8d46-5dd6e4d6d411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P20_DPS_OBJECT_SET&quot;)</value>
+      <webElementGuid>9507b940-be80-4907-bd99-d854aa68f5c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P20_DPS_OBJECT_SET']</value>
+      <webElementGuid>fe64c0e3-1392-4b17-81f1-f793d327cf82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P20_DPS_OBJECT_SET_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>f9eb9a69-6694-43da-ae0d-d33420f0877b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Set'])[1]/following::select[1]</value>
+      <webElementGuid>f10487a3-bd15-4df6-9c11-40506275514d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deploy'])[1]/following::select[1]</value>
+      <webElementGuid>fb2fe90e-afca-4f00-b68f-239250fab327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dps App Type Version'])[1]/preceding::select[1]</value>
+      <webElementGuid>b0866937-3674-4c01-98b7-eb41e3d562d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>ed3c8b3d-99f5-43f3-a36b-525c5a57564c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>12a6c649-b1fc-4f60-a0d4-80e5d0e2dd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P20_DPS_OBJECT_SET' and @name = 'P20_DPS_OBJECT_SET' and (text() = '- Select -
+559_ObjectSet_V2
+559_ObjectSet
+' or . = '- Select -
+559_ObjectSet_V2
+559_ObjectSet
+')]</value>
+      <webElementGuid>fca6b62b-6915-4abb-8041-0ac9b0b9fc13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

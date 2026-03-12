@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Procure to Pay (1)</name>
+   <tag></tag>
+   <elementGuidId>8fd35666-2ee5-4686-b8cc-eaa708c53ba1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P21_BUSINESS_PROC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P21_BUSINESS_PROC']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Business Process&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0ae9c7a0-c00a-4ecb-81c2-cfe6b55a440b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P21_BUSINESS_PROC</value>
+      <webElementGuid>1802258e-8bc1-4238-a946-154013a8940e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P21_BUSINESS_PROC</value>
+      <webElementGuid>9ce85a05-2a79-4bfe-9cad-64c22092264f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>43df7819-c733-47d0-b223-5453acafb2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>cb53de1e-0c3d-429f-acdf-bfaf8c8b8b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f95a5e1a-d85b-4fe5-b51f-fe4a3eaac214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Procure to Pay
+</value>
+      <webElementGuid>a6dbc780-37f3-4506-a319-30919fc078b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P21_BUSINESS_PROC&quot;)</value>
+      <webElementGuid>125922da-b915-44be-9649-6f44cc933f64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P21_BUSINESS_PROC']</value>
+      <webElementGuid>5d60ce6c-2b42-4801-afc0-0d13448d3f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P21_BUSINESS_PROC_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>571d57e7-4e31-42ae-9823-1de4a2d5deb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Process'])[1]/following::select[1]</value>
+      <webElementGuid>368e3e57-2e53-435e-8f45-272d97240c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::select[2]</value>
+      <webElementGuid>2b166b84-715f-444c-a944-8a3cca17342b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Details DB'])[1]/preceding::select[1]</value>
+      <webElementGuid>17a26eef-a3f3-4923-9861-f21f605631c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>76f386b6-2acf-420c-8ce0-98f6397cfb5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/select</value>
+      <webElementGuid>4af10a00-6c26-4e2f-baf6-5ca441741144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P21_BUSINESS_PROC' and @name = 'P21_BUSINESS_PROC' and (text() = '
+Procure to Pay
+' or . = '
+Procure to Pay
+')]</value>
+      <webElementGuid>04064826-fa28-418b-9cf8-9ed223025438</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

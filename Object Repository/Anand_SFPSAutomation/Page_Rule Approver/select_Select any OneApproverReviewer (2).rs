@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneApproverReviewer (2)</name>
+   <tag></tag>
+   <elementGuidId>18ef3912-2e36-436e-b325-315bd16f2c83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P35_ROLE_ID</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P35_ROLE_ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Role&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9b90062b-e081-4794-afe5-cd3a0b9955cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P35_ROLE_ID</value>
+      <webElementGuid>19d4847e-883b-4673-adf4-d2c3ab9cd260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P35_ROLE_ID</value>
+      <webElementGuid>0ff6dc78-64f1-433b-aa0e-9965b6af1453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>0c9c3721-abc5-4c3d-a316-8213b24d4935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4795866f-5750-48f7-b46a-dd72ee5b7286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>046e45c9-9e05-425c-b4ba-13e2824d71ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+Approver
+Reviewer
+</value>
+      <webElementGuid>d30c088e-26c8-476b-a5ec-9e238a6fc853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_ROLE_ID&quot;)</value>
+      <webElementGuid>068e43f4-fa3d-4789-b3a8-b4280646ef4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P35_ROLE_ID']</value>
+      <webElementGuid>2340ab92-b312-427b-9a75-7672a9195ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_ROLE_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>c831b07b-672f-49e1-bfdb-f99a88b0404c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::select[1]</value>
+      <webElementGuid>05f2191a-f5e2-4304-aa90-c8c5dab531fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::select[2]</value>
+      <webElementGuid>810e693b-25a3-4c04-a861-a2cc5b9975c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>7ecba1eb-93b7-457c-867a-3c195b5293e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popup Calendar: Start Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>07c06a06-71f6-4f43-8841-571ee6acf4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>cdc8fad2-577a-4441-9ec1-03e228d3a08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P35_ROLE_ID' and @name = 'P35_ROLE_ID' and (text() = 'Select any One
+Approver
+Reviewer
+' or . = 'Select any One
+Approver
+Reviewer
+')]</value>
+      <webElementGuid>9af57db4-64ab-4ccd-8a78-87404b691247</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

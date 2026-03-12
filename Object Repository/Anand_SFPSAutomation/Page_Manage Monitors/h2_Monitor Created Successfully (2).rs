@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Monitor Created Successfully (2)</name>
+   <tag></tag>
+   <elementGuidId>0b79155f-475c-4881-b3fc-f445d7ac0be8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.t-Alert-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Monitor Created Successfully&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d42eb60c-a991-42ed-8f7b-392a865f8123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Alert-title</value>
+      <webElementGuid>c49b95d1-a662-42ff-a153-9ef21e771f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitor Created Successfully</value>
+      <webElementGuid>a4d911ed-e0d1-407f-82db-dab1b03b2e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Alert_Success&quot;)/div[@class=&quot;t-Alert-wrap&quot;]/div[@class=&quot;t-Alert-content&quot;]/div[@class=&quot;t-Alert-header&quot;]/h2[@class=&quot;t-Alert-title&quot;]</value>
+      <webElementGuid>7db4d935-61e4-4aeb-bf44-b4e03f6d2282</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Alert_Success']/div/div[2]/div/h2</value>
+      <webElementGuid>bd4989f6-7595-44ab-bdda-6b34d007e7ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::h2[1]</value>
+      <webElementGuid>3c6aaf58-6545-4249-8a78-b18a8d60c655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Monitors'])[4]/following::h2[1]</value>
+      <webElementGuid>eddb2f40-18e4-4072-8a8f-81e9dd1132a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Monitors'])[5]/preceding::h2[1]</value>
+      <webElementGuid>fcfd8c9e-31d1-44ee-99aa-43400e2643d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Monitors DPS'])[1]/preceding::h2[2]</value>
+      <webElementGuid>626c7692-5360-40bf-98d9-1de15a2be885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monitor Created Successfully']/parent::*</value>
+      <webElementGuid>17b0757f-a450-4a6e-a481-637ad9d19b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>33cfca4b-f368-4bdb-a04e-04edfdf7d844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Monitor Created Successfully' or . = 'Monitor Created Successfully')]</value>
+      <webElementGuid>d2e343b5-beaa-48cb-8e19-15431a0bf1d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
