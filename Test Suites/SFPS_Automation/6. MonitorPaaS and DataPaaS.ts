@@ -60,4 +60,11 @@
       <testCaseId>Test Cases/SFPSAutomation/DataPaaS/DPS_MTP/5. Snapshot Extract - Change Level</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>9ba88f33-5072-476e-a572-b7af0f862080</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/3. Manage Monitors - DPS</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
