@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Open Incidents Report</description>
-   <name>7. Open Incidents Report</name>
+   <name>11. Open Incidents Report - DTP</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

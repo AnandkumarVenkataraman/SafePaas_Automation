@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Dashboard</description>
-   <name>9. Dashboard</name>
+   <name>15. Dashboard</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

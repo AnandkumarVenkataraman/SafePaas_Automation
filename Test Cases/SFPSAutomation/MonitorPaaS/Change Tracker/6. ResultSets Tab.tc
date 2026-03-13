@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ResultSet</description>
+   <name>6. ResultSets Tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81fc7c85-404a-45da-b731-28e22d45097b</testCaseGuid>
+</TestCaseEntity>

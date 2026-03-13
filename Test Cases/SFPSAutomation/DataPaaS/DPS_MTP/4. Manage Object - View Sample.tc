@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Object - View Sample</description>
+   <name>4. Manage Object - View Sample</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d8a0d2b-6129-4344-8aea-0af87ffb8ed8</testCaseGuid>
+</TestCaseEntity>

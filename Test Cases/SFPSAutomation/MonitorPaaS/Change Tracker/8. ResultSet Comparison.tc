@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ResultSet Comparison</description>
+   <name>8. ResultSet Comparison</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e056eb8a-181f-4a2d-8080-5c33527f8564</testCaseGuid>
+</TestCaseEntity>

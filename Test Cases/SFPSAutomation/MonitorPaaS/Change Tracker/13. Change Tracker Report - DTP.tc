@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Change Tracker Report</description>
-   <name>8. Change Tracker Report</name>
+   <name>13. Change Tracker Report - DTP</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

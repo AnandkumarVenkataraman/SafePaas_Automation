@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assign Roles</description>
+   <name>19. Assign Roles</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b1a9fff-69cb-4be8-8db1-de0350fe3993</testCaseGuid>
+</TestCaseEntity>

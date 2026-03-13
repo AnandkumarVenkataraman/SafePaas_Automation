@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Incident Status Report</description>
-   <name>6. Incident Status Report</name>
+   <name>9. Incident Status Report - Consolidated Level</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

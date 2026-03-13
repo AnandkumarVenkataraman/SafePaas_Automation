@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Security</description>
-   <name>7. Security</name>
-   <tag>DPS</tag>
+   <name>10. Security</name>
+   <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f3422f57-5ac1-4540-8496-675661e29127</testCaseGuid>
+   <testCaseGuid>38b482b6-81dd-4072-87dc-637abceec997</testCaseGuid>
 </TestCaseEntity>

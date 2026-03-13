@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10. Incident Status Report - Change Level</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4146c797-f090-4314-aaa7-d85dc86969fa</testCaseGuid>
+</TestCaseEntity>

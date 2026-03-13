@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>DataProbe Monitor</description>
-   <name>6. Snapshot Extract - Consolidated Level</name>
+   <name>7. Snapshot Extract - Consolidated Level</name>
    <tag>DPS</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
