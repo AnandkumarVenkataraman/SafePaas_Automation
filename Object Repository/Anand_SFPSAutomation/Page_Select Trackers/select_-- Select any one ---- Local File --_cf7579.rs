@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Select any one ---- Local File --_cf7579</name>
+   <tag></tag>
+   <elementGuidId>0a02a3f3-71c8-4e35-ad0b-ffe38ff84b10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P110_DS_ID</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P110_DS_ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Datasource (Value Required)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>db3edcca-25e8-43b7-ad04-ed907b333629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P110_DS_ID</value>
+      <webElementGuid>f5eb6aeb-2aaa-4a09-ad89-1f984a2118ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P110_DS_ID</value>
+      <webElementGuid>afa49500-747c-4797-8687-e6b840a4e8d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>8a475c39-fa4d-40cc-8f8e-4f427f323758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4d571bc5-ec2e-43c2-aacb-32103d5d7388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>8181ad79-07ef-4de6-bb83-432b3cd30eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+-- Select any one ---- Local File --SFTP_Env2_DS_LocalZ_EBS_DSZ_EBS_DS2EBiz_JDBC_DSSFTP_DS</value>
+      <webElementGuid>b3ff5f17-7171-45b5-95a7-80efcf4dd4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P110_DS_ID&quot;)</value>
+      <webElementGuid>a96e485f-0895-4063-95f5-fb5f1934b087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P110_DS_ID']</value>
+      <webElementGuid>add603c6-8636-4249-be9a-815f1a1ea020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P110_DS_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>45443215-30c6-49cf-860f-61511164b84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[3]/following::select[1]</value>
+      <webElementGuid>bb6b0956-a696-40a1-a592-6ffb8bfe8300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[4]/preceding::select[1]</value>
+      <webElementGuid>08fc8a3a-929a-4e2d-a81f-7982e3b90ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>3a04c123-8e82-46cf-acf3-7563e5d458d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P110_DS_ID' and @name = 'P110_DS_ID' and (text() = '
+
+-- Select any one ---- Local File --SFTP_Env2_DS_LocalZ_EBS_DSZ_EBS_DS2EBiz_JDBC_DSSFTP_DS' or . = '
+
+-- Select any one ---- Local File --SFTP_Env2_DS_LocalZ_EBS_DSZ_EBS_DS2EBiz_JDBC_DSSFTP_DS')]</value>
+      <webElementGuid>2a23fa76-fc6b-4a46-bf6c-81214d9293c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
