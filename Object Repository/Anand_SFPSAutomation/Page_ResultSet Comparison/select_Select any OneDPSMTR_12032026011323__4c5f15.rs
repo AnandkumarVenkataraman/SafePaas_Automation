@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any OneDPSMTR_12032026011323__4c5f15</name>
+   <tag></tag>
+   <elementGuidId>df4f6f9b-f718-44bd-abc9-fd52a328d99a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P30_SNAPSHOT_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P30_SNAPSHOT_1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#P30_SNAPSHOT_1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>81b0d76f-67e3-4fce-aca6-3376dff71fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P30_SNAPSHOT_1</value>
+      <webElementGuid>e49208d4-2923-4184-8008-fc8684dbc84a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P30_SNAPSHOT_1</value>
+      <webElementGuid>79612d28-d526-4873-b82d-82ade8c44a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>ecfdfc5c-8d30-4024-a0c6-8373a161fedb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3b4f9dfb-a57b-48c7-910a-2a7177955e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>2964b309-fd1f-41c4-86f6-bba58b088221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+DPSMTR_12032026011323_202603120114
+</value>
+      <webElementGuid>20237a54-bb94-4f52-9b18-84357b39c3c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P30_SNAPSHOT_1&quot;)</value>
+      <webElementGuid>04d78d0d-4742-4637-b8a9-0a16ad25a4c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P30_SNAPSHOT_1']</value>
+      <webElementGuid>d9726b7a-37a8-498b-835d-af0cb46f5cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R151294812492522954']/div[2]/div[2]/div/div/div/select</value>
+      <webElementGuid>ee3291da-9207-4247-9f67-71d7751af0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[1]/following::select[1]</value>
+      <webElementGuid>682bff04-410e-44b9-8012-67a7074ac759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/preceding::select[2]</value>
+      <webElementGuid>2a664253-202a-4a88-8166-e273211440da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>51bfb449-863b-4e95-8990-719835bdf263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P30_SNAPSHOT_1' and @name = 'P30_SNAPSHOT_1' and (text() = 'Select any One
+DPSMTR_12032026011323_202603120114
+' or . = 'Select any One
+DPSMTR_12032026011323_202603120114
+')]</value>
+      <webElementGuid>91268d46-b5e0-46ec-b375-6fb318cf9b0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
