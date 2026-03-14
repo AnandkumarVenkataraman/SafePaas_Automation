@@ -147,105 +147,105 @@
    <testCaseLink>
       <guid>e6eed2d7-7b97-4ad6-bc18-4e7a50d0b9e6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/20. SODReview_AggregateLevel_Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f2dfc27b-2031-45c6-8269-0f5d9045850e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/21. SODReview_AggregateLevel_RoleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1efe4043-259d-4f59-9a78-f6de39be5679</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/22. SODReview_AggregateLevel_RuleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bf23980f-f2e2-48af-9c93-815cd3605bbc</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/23. SODReview_AggregateLevel_Analytics</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9d241e02-5427-464c-a79f-e0ac2fbcbbcb</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/24. SODReview_ViolationLevel_Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7b3bafaa-01ac-4738-a777-4c075c3e751c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/25. SODReview_ViolationLevel_RoleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>122a4639-9a87-4f1b-bec0-43a5d4851d82</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/26. SODReview_ViolationLevel_RuleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e7436004-6cc4-4c41-b93a-059393d0d9a6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/27. SODReview_ViolationLevel_Analytics</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>a4a9b240-6f0e-4ea7-8698-59a84927e6da</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/28. SAP Setups</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7a69f4bd-0a01-4a70-b64c-ac5daccf49f2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/29. SAP Rules - AND and OR Conditions</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8fd1c88e-0579-498b-aacc-1cb052e45185</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/30. SAP Rules - Auth Field Values</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3259cef7-8494-4602-8a96-54bdb63bfa68</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/31. SAP Rules - with STAR Values</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>88ff55f0-4875-4ed6-b352-1a8b3badde23</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/32. SAP - SOD Test and Manage Violations</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e3d23238-8d61-40bb-8bea-d4b8a6de0f25</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/33. SAP - Analytics</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>2dda5227-69fe-4979-8c77-1d944618ded3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/34. SAP - Restricted Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -308,7 +308,7 @@
    <testCaseLink>
       <guid>5caafb0b-a39f-4164-a437-ce6d8454bd1d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/43. EAM Workflow</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
