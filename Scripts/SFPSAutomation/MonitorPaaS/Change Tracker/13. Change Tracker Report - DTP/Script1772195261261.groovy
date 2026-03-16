@@ -16,4 +16,62 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
+//Pls. note -> This report is built, jus to verify the menu and page
+//QA doesn't have access to Datasource [CloudERP in this case]
+//in order to verify the actual functionality
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (10)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (10)'),
+	'KATADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (10)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (13)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Transaction Governor_a-TreeView-toggle (3)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Dashboard_a-TreeView-toggle (30)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Change Tracker Report'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/select_- Select any one -CERP_1CloudERPCoup_2be26b'),
+	'EBizApp_JDBC_Env', false)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/select_- Select any one -AccountsPayable - _aaec9c'),
+	3)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/select_- Select any one -PRPO_FEB18_V1_2026_245783'),
+	1)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/button_Run'))
+WebUI.delay(2)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/select_- Select any one -PRPO_FEB18_V1_2026_245783_1'),
+	0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/select_- Select any one -AccountsPayable - _aaec9c_1'),
+	0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/select_- Select any one -CERP_1CloudERPCoup_2be26b'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker Report/a_Inbox'))
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (35)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (43)'))
+WebUI.closeBrowser()
