@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select any one -AccountsPayable - _aaec9c</name>
+   <tag></tag>
+   <elementGuidId>7a170099-166d-4ff0-be54-1d6404b466d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P84_DTP_OBJECT']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P84_DTP_OBJECT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Filters DTP&quot;i >> internal:label=&quot;Object&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e4da5b7d-f1b4-4a6a-a4de-237fa0d6083e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P84_DTP_OBJECT</value>
+      <webElementGuid>ecc6833e-ad71-4b95-b4eb-77deee476126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P84_DTP_OBJECT</value>
+      <webElementGuid>5c4b2e6f-af92-4ad6-9e62-50f7be37ee6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>2602a5bf-2b72-401c-9842-c7ae46486460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a7566aca-83f0-49f0-8804-d30649889cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6fcf8baa-4404-49a3-9bf4-65e697125bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select any one -
+AccountsPayable - AP Employee Signing LimitsAccountsPayable - AP Employee Signing Limits V2AccountsPayable - PR &amp; PO Created By Same UserEBizApp_JDBC_MTP_ObjSet - DBA_USERS_V</value>
+      <webElementGuid>b642ee7e-3c8c-4904-91cd-a3ef1b1c015d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P84_DTP_OBJECT&quot;)</value>
+      <webElementGuid>d3b7276d-54ed-421c-aec2-8089c02a95fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P84_DTP_OBJECT']</value>
+      <webElementGuid>e2cb468d-10e1-464f-948b-c89be521a070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P84_DTP_OBJECT_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>5939340f-bd4e-44e0-ad02-24ebd334b15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object'])[1]/following::select[1]</value>
+      <webElementGuid>afa79348-fcb9-4905-bc0d-7feaf255cc29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[2]</value>
+      <webElementGuid>29cbdfca-9101-4d56-a550-9829d256f4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Set'])[1]/preceding::select[1]</value>
+      <webElementGuid>f52ba372-cd81-491b-9b3b-85e8fed23603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::select[2]</value>
+      <webElementGuid>b0fcb8c0-3c00-4f3a-a737-ef0f74b9fb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/select</value>
+      <webElementGuid>731c1863-731b-4c41-bdd5-61534a8b1767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P84_DTP_OBJECT' and @name = 'P84_DTP_OBJECT' and (text() = '- Select any one -
+AccountsPayable - AP Employee Signing LimitsAccountsPayable - AP Employee Signing Limits V2AccountsPayable - PR &amp; PO Created By Same UserEBizApp_JDBC_MTP_ObjSet - DBA_USERS_V' or . = '- Select any one -
+AccountsPayable - AP Employee Signing LimitsAccountsPayable - AP Employee Signing Limits V2AccountsPayable - PR &amp; PO Created By Same UserEBizApp_JDBC_MTP_ObjSet - DBA_USERS_V')]</value>
+      <webElementGuid>94f44f1e-adc0-4584-a72c-908b8ac8366a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select any one -PRPO_FEB18_V1_2026_245783_1</name>
+   <tag></tag>
+   <elementGuidId>50f16e9d-5e32-4d05-8cbf-b8e0dee8a32d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P84_DTP_RESULT_SET']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P84_DTP_RESULT_SET</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Filters DTP&quot;i >> internal:label=&quot;Result Set&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a4ae9e4f-0b01-4f78-b7c7-594c9049909f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P84_DTP_RESULT_SET</value>
+      <webElementGuid>8bc4d28f-54ab-4984-a12c-cfe52ec4e31c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P84_DTP_RESULT_SET</value>
+      <webElementGuid>5bdeea4d-94ee-426f-b589-5fa3fbb873d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>9faf2715-5ab1-4ad8-8487-ba5870f3df34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e1f789b9-6ba5-469e-9033-80d9cc73cf99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>e114f826-6131-4592-946a-377023eedad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select any one -
+PRPO_FEB18_V1_20260218032812
+PRPO_FEB16_V1_20260216002107
+MTP643_0602_V1_20260206014451
+DPS107_FEB3_V1_20260202234451
+MTP587_2101_V1_20260121042843
+MTP574_0701_V1_20260107000056
+PR_PO_SMUSR_V1_20241210000855
+</value>
+      <webElementGuid>365478c9-8fc9-4122-9b57-e4269e8764c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P84_DTP_RESULT_SET&quot;)</value>
+      <webElementGuid>1449d5a3-69c6-45f7-9f3c-8aa5b3d109ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P84_DTP_RESULT_SET']</value>
+      <webElementGuid>154fe33d-6c17-44ea-83b3-50e791d6f7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P84_DTP_RESULT_SET_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>027bff4f-c936-4ab9-9dba-d046053a2bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Set'])[1]/following::select[1]</value>
+      <webElementGuid>07cb6238-e930-4150-9ca7-fc1a8e4ac564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object'])[1]/following::select[2]</value>
+      <webElementGuid>a09ea63e-d010-486f-97d1-ef70ff565f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>67ec9062-ae65-4cb5-a528-5ae6479045fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popup Calendar: Start Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>8a4d6b7f-6fc8-4be9-a546-0e716abbcd28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>d5baf121-282e-44f2-86df-3150b3c44501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P84_DTP_RESULT_SET' and @name = 'P84_DTP_RESULT_SET' and (text() = '- Select any one -
+PRPO_FEB18_V1_20260218032812
+PRPO_FEB16_V1_20260216002107
+MTP643_0602_V1_20260206014451
+DPS107_FEB3_V1_20260202234451
+MTP587_2101_V1_20260121042843
+MTP574_0701_V1_20260107000056
+PR_PO_SMUSR_V1_20241210000855
+' or . = '- Select any one -
+PRPO_FEB18_V1_20260218032812
+PRPO_FEB16_V1_20260216002107
+MTP643_0602_V1_20260206014451
+DPS107_FEB3_V1_20260202234451
+MTP587_2101_V1_20260121042843
+MTP574_0701_V1_20260107000056
+PR_PO_SMUSR_V1_20241210000855
+')]</value>
+      <webElementGuid>347c1fd0-1317-4087-88c3-22deb1db3c38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
