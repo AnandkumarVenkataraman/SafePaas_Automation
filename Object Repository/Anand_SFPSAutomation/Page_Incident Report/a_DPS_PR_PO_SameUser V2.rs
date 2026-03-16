@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DPS_PR_PO_SameUser V2</name>
+   <tag></tag>
+   <elementGuidId>68160f2a-3f50-41d8-864e-b948c28aa949</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CONSOLIDATED_TAB_sort_widget_rows']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-IRR-sortWidget-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;DPS_PR_PO_SameUser V2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5a6630b-dbe0-4331-841e-41582af38ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>aff1d1e3-5392-4260-88ab-d58ab6989ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-return-value</name>
+      <type>Main</type>
+      <value>DPS_PR_PO_SameUser V2</value>
+      <webElementGuid>f5bdbbc2-0ce4-4cbb-8c3c-7de2770ef05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-sortWidget-row</value>
+      <webElementGuid>d0b80a4b-0fb1-434e-85ac-9ce29b5191d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DPS_PR_PO_SameUser V2</value>
+      <webElementGuid>589d1de6-d60b-41ae-9238-5342d33e14f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CONSOLIDATED_TAB_sort_widget_rows&quot;)/a[@class=&quot;a-IRR-sortWidget-row&quot;]</value>
+      <webElementGuid>f4d8518a-0849-4982-b286-ee25f6ed1b2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CONSOLIDATED_TAB_sort_widget_rows']/a</value>
+      <webElementGuid>85b07b17-fb0a-458c-8018-328aba117351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DPS_PR_PO_SameUser V2')]</value>
+      <webElementGuid>c6ad2076-32fa-4c7c-8a5a-4fa451fe0fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[1]</value>
+      <webElementGuid>d348056f-6882-4def-9aa0-1f4074242fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Column Actions'])[1]/preceding::a[2]</value>
+      <webElementGuid>ea149b32-6dc1-46a4-b4a5-9e05c221d4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::a[2]</value>
+      <webElementGuid>e4b858f6-4589-4626-928f-70f3579e022a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[26]</value>
+      <webElementGuid>5bfd1131-28c5-40aa-9e49-086a3c08a500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>efea9782-0730-464c-ad6c-20ec050221c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'DPS_PR_PO_SameUser V2' or . = 'DPS_PR_PO_SameUser V2')]</value>
+      <webElementGuid>193628b3-eb38-4523-b708-332fc6aefa72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

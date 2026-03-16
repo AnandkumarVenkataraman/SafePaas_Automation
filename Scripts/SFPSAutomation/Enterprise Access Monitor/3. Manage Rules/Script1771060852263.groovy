@@ -25,8 +25,6 @@ import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 import com.kms.katalon.core.util.KeywordUtil
-try
-{
 
 WebUI.openBrowser('')
 
@@ -88,8 +86,3 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Rules/a_Inbox (2)'))
 WebUI.comment("Manage Rules completed")
 WebUI.closeBrowser()
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	//
-}

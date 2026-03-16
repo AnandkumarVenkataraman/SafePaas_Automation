@@ -173,4 +173,3 @@ WebUI.enhancedClick(findTestObject('Object Repository/ALEXOR/alex/Page_Scheduled
 WebUI.enhancedClick(findTestObject('Object Repository/ALEXOR/alex/Page_Scheduled Downloads/button_OK'))
 
 WebUI.closeBrowser()
-
