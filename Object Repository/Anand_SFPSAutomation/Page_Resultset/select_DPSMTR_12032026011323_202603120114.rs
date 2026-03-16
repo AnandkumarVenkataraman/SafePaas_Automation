@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_DPSMTR_12032026011323_202603120114</name>
+   <tag></tag>
+   <elementGuidId>d4f9247b-a04b-4c26-ba74-6aa200a6310c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P124_ANALYTIC']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#P124_ANALYTIC</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Resul Sets&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ba1a3007-54dc-4cf3-a615-39db7677214e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P124_ANALYTIC</value>
+      <webElementGuid>a4d50fd9-661e-4fcc-918b-c085088234a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P124_ANALYTIC</value>
+      <webElementGuid>f55eda4a-4cff-470e-88db-60fb08ec50b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>b7a497ef-bc89-46ad-a58b-8959e3d054c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>088343fd-598d-4384-8a03-6eec0a170ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>e3a29965-a5d9-4538-b684-9d06d59b90d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P124_ANALYTIC');</value>
+      <webElementGuid>c57b7342-5b2e-489f-9835-22550e909b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+DPSMTR_12032026011323_202603120114
+</value>
+      <webElementGuid>030b422d-ce29-4f9a-9c16-dc640587e03c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P124_ANALYTIC&quot;)</value>
+      <webElementGuid>55597787-0810-487f-85c8-be6ce1297dec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P124_ANALYTIC']</value>
+      <webElementGuid>4371adfc-5611-4197-8ee0-ff89f584dda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P124_ANALYTIC_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>7ecacb6b-980e-49c9-99cb-53be9c3a807a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resul Sets'])[1]/following::select[1]</value>
+      <webElementGuid>56b1108a-af2a-430e-b538-cce2aa9bf167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incidents'])[1]/following::select[1]</value>
+      <webElementGuid>a23c1cf4-2a62-483b-b59c-77705a178ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Download'])[1]/preceding::select[1]</value>
+      <webElementGuid>11c3d102-7e0d-4f3e-b90c-0bb062f663ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>40a4d7bd-798c-456e-aaf9-14b42b8b9a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P124_ANALYTIC' and @name = 'P124_ANALYTIC' and (text() = '
+DPSMTR_12032026011323_202603120114
+' or . = '
+DPSMTR_12032026011323_202603120114
+')]</value>
+      <webElementGuid>f209a3c4-5fb0-4ab4-bb5e-a3a41dfaaf00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
