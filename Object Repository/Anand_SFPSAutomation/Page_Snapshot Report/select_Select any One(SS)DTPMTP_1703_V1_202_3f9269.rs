@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any One(SS)DTPMTP_1703_V1_202_3f9269</name>
+   <tag></tag>
+   <elementGuidId>c200449d-2892-4916-bd91-041ecbfa979b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P13_SNAPSHOT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P13_SNAPSHOT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#P13_SNAPSHOT</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>96c4a52c-4c00-49d8-a01f-de73bfbd7c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P13_SNAPSHOT</value>
+      <webElementGuid>3ea06d45-cd4d-4b1d-9390-2c8980516195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P13_SNAPSHOT</value>
+      <webElementGuid>16b04f9b-3b89-4d2c-ab97-9fbf966a186a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>e03a12e0-aa05-4936-aad8-cd0f0eec5fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5bc208fe-081d-4725-9069-0406e2e13b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>cf2017f2-6a78-49ff-a764-abc837896b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P13_SNAPSHOT');</value>
+      <webElementGuid>01a638a2-156f-48e0-804e-86afdd0e9d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any One
+(SS)DTPMTP_1703_V1_20260317013656
+(SS)MTP_1603_V1_20260316054704
+(SS)PRPO_FEB18_V1_20260218032812
+(SS)PRPO_FEB16_V1_20260216002107
+(SS)MTP643_0602_V1_20260206014451
+(SS)DPS107_FEB3_V1_20260202234451
+(SS)MTP587_2101_V1_20260121042843
+(SS)MTP574_0701_V1_20260107000056
+(SS)PR_PO_SMUSR_V1_20241210000855
+</value>
+      <webElementGuid>2dac2b4b-8b1a-49ec-a6f3-c9f268d37317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P13_SNAPSHOT&quot;)</value>
+      <webElementGuid>f2bbc882-ddb6-4b95-982a-ce06c507b7d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P13_SNAPSHOT']</value>
+      <webElementGuid>ecc1ca76-fb3b-4128-a5bb-cb2ad7f25f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R21041807254719889']/div[2]/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>71efea98-8018-4802-81db-f1d18f6af943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snapshot'])[2]/following::select[1]</value>
+      <webElementGuid>e8e242ff-1d38-43c4-80c6-fbb669d3e60c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::select[1]</value>
+      <webElementGuid>333a4472-6ee4-4ec4-aeb2-ca0e8fb5986e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::select[1]</value>
+      <webElementGuid>54bc8dc6-62c6-41cc-a7b5-8e902084222f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a0f382f5-23ac-45b8-b529-ddbd3d182817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P13_SNAPSHOT' and @name = 'P13_SNAPSHOT' and (text() = 'Select any One
+(SS)DTPMTP_1703_V1_20260317013656
+(SS)MTP_1603_V1_20260316054704
+(SS)PRPO_FEB18_V1_20260218032812
+(SS)PRPO_FEB16_V1_20260216002107
+(SS)MTP643_0602_V1_20260206014451
+(SS)DPS107_FEB3_V1_20260202234451
+(SS)MTP587_2101_V1_20260121042843
+(SS)MTP574_0701_V1_20260107000056
+(SS)PR_PO_SMUSR_V1_20241210000855
+' or . = 'Select any One
+(SS)DTPMTP_1703_V1_20260317013656
+(SS)MTP_1603_V1_20260316054704
+(SS)PRPO_FEB18_V1_20260218032812
+(SS)PRPO_FEB16_V1_20260216002107
+(SS)MTP643_0602_V1_20260206014451
+(SS)DPS107_FEB3_V1_20260202234451
+(SS)MTP587_2101_V1_20260121042843
+(SS)MTP574_0701_V1_20260107000056
+(SS)PR_PO_SMUSR_V1_20241210000855
+')]</value>
+      <webElementGuid>bc4aa49a-1898-4974-95c4-1b6ea85bed74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
