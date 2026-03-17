@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>7. Snapshots Tab</name>
+   <name>23. ResultSets Tab - DTP Monitor</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>9efd98c1-5966-4693-8de3-34b75b9f3203</testCaseGuid>
+   <testCaseGuid>265def9c-3fc7-4ed9-9bf9-64c2cfe5e19d</testCaseGuid>
 </TestCaseEntity>

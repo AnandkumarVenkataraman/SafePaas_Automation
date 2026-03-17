@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>ResultSet</description>
-   <name>6. ResultSets Tab</name>
+   <name>6. ResultSets Tab - DPS</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
