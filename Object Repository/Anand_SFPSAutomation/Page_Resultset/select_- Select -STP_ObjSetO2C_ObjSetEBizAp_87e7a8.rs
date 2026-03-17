@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select -STP_ObjSetO2C_ObjSetEBizAp_87e7a8</name>
+   <tag></tag>
+   <elementGuidId>44195e72-b4a0-4995-b229-2a3cfacf16e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P61_DTP_OBJECT_SET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P61_DTP_OBJECT_SET']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Object Set&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3aae512e-35e4-488e-86f6-97f692472b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P61_DTP_OBJECT_SET</value>
+      <webElementGuid>f066d0f4-40cf-436b-825d-6edcf7e58f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P61_DTP_OBJECT_SET</value>
+      <webElementGuid>8f97d35e-0a7b-4a04-9e35-8d611ed4ed5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>84faa645-c360-4918-b424-62329e82d273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d0b0ad34-e865-4cf6-902f-ca5e4de221dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ed394c8a-d023-483c-abd4-a4545ae6ee12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select -
+STP_ObjSet
+O2C_ObjSet
+EBizApp_JDBC_MTP_ObjSet
+AccountsPayable
+</value>
+      <webElementGuid>aa08cf8b-1277-4097-9e66-c7cecbbc30e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P61_DTP_OBJECT_SET&quot;)</value>
+      <webElementGuid>d9ebb8a6-3761-43d5-8fc4-b0fe342b59af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P61_DTP_OBJECT_SET']</value>
+      <webElementGuid>75eb96bf-eb2f-4ab7-a371-5ce0bc87167a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P61_DTP_OBJECT_SET_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>a4cc0bf8-edda-454a-8622-a3d264f4f289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Set'])[1]/following::select[1]</value>
+      <webElementGuid>6ef1c7e0-7a8b-4433-8c45-5d7690b80b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitors DTP'])[1]/following::select[1]</value>
+      <webElementGuid>b0950273-de9f-4429-b731-a169a754e0a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incidents'])[1]/preceding::select[1]</value>
+      <webElementGuid>46bc93f5-9728-45f5-8e4e-2d102fff5cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resul Sets'])[1]/preceding::select[1]</value>
+      <webElementGuid>d3079b1a-00a3-4da4-b0ee-a614d98d653f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0b418c8a-6d99-4da2-9b9c-f39dd9017e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P61_DTP_OBJECT_SET' and @name = 'P61_DTP_OBJECT_SET' and (text() = '- Select -
+STP_ObjSet
+O2C_ObjSet
+EBizApp_JDBC_MTP_ObjSet
+AccountsPayable
+' or . = '- Select -
+STP_ObjSet
+O2C_ObjSet
+EBizApp_JDBC_MTP_ObjSet
+AccountsPayable
+')]</value>
+      <webElementGuid>5cead574-6917-4771-ad0b-328993fdddfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

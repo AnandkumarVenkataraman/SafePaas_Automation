@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Reviewer</description>
-   <name>17. Reviewer</name>
+   <description>Security</description>
+   <name>20. Manage Roles</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2a130fb0-4a34-4ce3-a476-762f586f80f2</testCaseGuid>
+   <testCaseGuid>33d4358d-0a0e-4eb3-88b5-cb129a304e32</testCaseGuid>
 </TestCaseEntity>

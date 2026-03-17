@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Select -STP_ObjSetO2C_ObjSetEBizAp_87e7a8</name>
+   <tag></tag>
+   <elementGuidId>f4aefe04-a9b7-4be9-b251-bf47f3ee942c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P20_DTP_OBJECT_SET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P20_DTP_OBJECT_SET']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Manage Monitors DTP&quot;s >> internal:label=&quot;Object Set&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e37b0c82-dedb-4183-bf54-e9f37d5aaa3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P20_DTP_OBJECT_SET</value>
+      <webElementGuid>eda6aa56-f507-40b2-aec1-273f6f39fbc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P20_DTP_OBJECT_SET</value>
+      <webElementGuid>5a85c51e-0f1c-4a43-9a9c-8ef39c9e4b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>c20861af-5e1c-436f-8faa-3618d472adb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>880d21de-4393-46f9-a90c-95e167e04ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>25bed9b8-bcd9-4f0a-8cc5-c50e56acfba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P20_DTP_OBJECT_SET');</value>
+      <webElementGuid>208bbe6b-e77a-480c-9804-16c76182b225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select -
+STP_ObjSet
+O2C_ObjSet
+EBizApp_JDBC_MTP_ObjSet
+AccountsPayable
+</value>
+      <webElementGuid>45604174-31cc-4aa7-9c9a-40bfbd3c374c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P20_DTP_OBJECT_SET&quot;)</value>
+      <webElementGuid>2b1ad1a5-87f7-415d-9ce4-1884e2d68997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P20_DTP_OBJECT_SET']</value>
+      <webElementGuid>a17a1ab9-894e-4de5-bc63-894297ba75b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P20_DTP_OBJECT_SET_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>4f9270e5-f3d6-4ffd-aa11-52a61004ea66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Set'])[2]/following::select[1]</value>
+      <webElementGuid>dcd27a49-d88c-4c27-b358-7dc6a484ab60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Monitors DTP'])[2]/following::select[1]</value>
+      <webElementGuid>1743e261-d362-4cea-901d-afa591c06516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dtp App Type Version'])[1]/preceding::select[1]</value>
+      <webElementGuid>8168f495-8574-47f1-9229-5d07f5d5c8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[2]/preceding::select[1]</value>
+      <webElementGuid>c6f38476-212e-49fc-bb1a-f7a180ed1cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>4a61c8cf-a8ff-4867-8b12-9711243c5e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P20_DTP_OBJECT_SET' and @name = 'P20_DTP_OBJECT_SET' and (text() = '- Select -
+STP_ObjSet
+O2C_ObjSet
+EBizApp_JDBC_MTP_ObjSet
+AccountsPayable
+' or . = '- Select -
+STP_ObjSet
+O2C_ObjSet
+EBizApp_JDBC_MTP_ObjSet
+AccountsPayable
+')]</value>
+      <webElementGuid>de441bab-c14b-4877-9441-66e8672ed16d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

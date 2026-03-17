@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Security</description>
-   <name>18. Manage Roles</name>
+   <description>Assign Roles</description>
+   <name>21. Assign Roles</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>33d4358d-0a0e-4eb3-88b5-cb129a304e32</testCaseGuid>
+   <testCaseGuid>9b1a9fff-69cb-4be8-8db1-de0350fe3993</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_DTPMTP_1703_V1_20260317013656MTP_160_a8b60d</name>
+   <tag></tag>
+   <elementGuidId>38ad9fbc-49e8-4a3e-b2b3-667e70067e7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P61_ANALYTIC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P61_ANALYTIC']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Resul Sets&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d2acf043-4f88-47bd-ad84-704bbfcb51a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P61_ANALYTIC</value>
+      <webElementGuid>0600a646-00b7-49c5-a3c9-7eacf0aa1174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P61_ANALYTIC</value>
+      <webElementGuid>d487eba3-a006-4fd6-9a77-4fb9f6d1214b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>7e9739c8-b73c-4bb1-98b4-36f9e9496602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f83d8171-a535-4e41-8a67-706b75c4b216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c455aaa2-dca8-44ac-a7e6-e23439854f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P61_ANALYTIC');</value>
+      <webElementGuid>9313fc41-8f74-4cbc-a797-fa6f6caf3bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+DTPMTP_1703_V1_20260317013656
+MTP_1603_V1_20260316054704
+PRPO_FEB18_V1_20260218032812
+PRPO_FEB16_V1_20260216002107
+MTP643_0602_V1_20260206014451
+DPS107_FEB3_V1_20260202234451
+MTP587_2101_V1_20260121042843
+MTP574_0701_V1_20260107000056
+PR_PO_SMUSR_V1_20241210000855
+</value>
+      <webElementGuid>01a347df-386f-4895-9d75-7232033687c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P61_ANALYTIC&quot;)</value>
+      <webElementGuid>5ff0206b-a2ad-4cd5-b8e5-2d00c7c379b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P61_ANALYTIC']</value>
+      <webElementGuid>9af4e7c6-df6d-40d5-8988-e239b98d449c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P61_ANALYTIC_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>e27fa410-7286-42c9-a4a3-1b7d7df7f0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resul Sets'])[1]/following::select[1]</value>
+      <webElementGuid>709a3c15-fc60-4a5b-b094-40933b4259a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incidents'])[1]/following::select[1]</value>
+      <webElementGuid>21e76e56-b397-4565-bed3-d8e102499eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Download'])[1]/preceding::select[1]</value>
+      <webElementGuid>f489f02e-a525-4b56-b0fb-d804c5ebbc20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>f6d22be7-2f49-4f74-9eab-1542d75e6d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P61_ANALYTIC' and @name = 'P61_ANALYTIC' and (text() = '
+DTPMTP_1703_V1_20260317013656
+MTP_1603_V1_20260316054704
+PRPO_FEB18_V1_20260218032812
+PRPO_FEB16_V1_20260216002107
+MTP643_0602_V1_20260206014451
+DPS107_FEB3_V1_20260202234451
+MTP587_2101_V1_20260121042843
+MTP574_0701_V1_20260107000056
+PR_PO_SMUSR_V1_20241210000855
+' or . = '
+DTPMTP_1703_V1_20260317013656
+MTP_1603_V1_20260316054704
+PRPO_FEB18_V1_20260218032812
+PRPO_FEB16_V1_20260216002107
+MTP643_0602_V1_20260206014451
+DPS107_FEB3_V1_20260202234451
+MTP587_2101_V1_20260121042843
+MTP574_0701_V1_20260107000056
+PR_PO_SMUSR_V1_20241210000855
+')]</value>
+      <webElementGuid>260fe381-84d3-4b7d-b980-34e97bcddc90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

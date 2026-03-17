@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any onePR  PO Created By Same User</name>
+   <tag></tag>
+   <elementGuidId>0e8e49db-df6b-41ca-b4e6-c92a57566a4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P21_OBJECTS</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P21_OBJECTS']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#P21_OBJECTS</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ef0af7d5-a249-482a-8c2e-6343216ad42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P21_OBJECTS</value>
+      <webElementGuid>bfced7fe-eb6f-45e1-a712-fa38cb78ed51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P21_OBJECTS</value>
+      <webElementGuid>fbf96fc6-a30b-4568-b3ac-00a0e1e754bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>28e53a84-72bc-41bd-9384-7b1e2392306e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>05c5d262-098b-46c4-8ef3-6e25c01bb21f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f8485b7e-abbc-4241-9253-4f272863085e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P21_OBJECTS');</value>
+      <webElementGuid>9bec6ffd-02d2-45bf-8020-64040c79ea9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+PR &amp; PO Created By Same User
+</value>
+      <webElementGuid>edfcacf0-2756-4edb-82cb-b02342f27bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P21_OBJECTS&quot;)</value>
+      <webElementGuid>fb59e1ea-4a2b-49f1-8f26-56589dbe5781</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P21_OBJECTS']</value>
+      <webElementGuid>d119fd38-0911-4ffa-b4f7-c461fa2c0e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R262953225731837231']/div[2]/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>301697e1-23bf-4cd1-a2e9-d1efa1a5f7c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(SS)DTPMTP_1703_V1_20260317013656'])[1]/following::select[1]</value>
+      <webElementGuid>de39233f-f45d-400c-8333-ecc6a8404731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='release 1.0'])[1]/preceding::select[1]</value>
+      <webElementGuid>0c6c7655-cba6-41a8-8c4d-b9668b3a8ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Screen Reader Mode On'])[1]/preceding::select[1]</value>
+      <webElementGuid>2d09de7c-052f-405d-9f63-6544992a85bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b84ea2f8-5a7f-4e08-8569-e51ae18cc199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P21_OBJECTS' and @name = 'P21_OBJECTS' and (text() = 'Select any one
+PR &amp; PO Created By Same User
+' or . = 'Select any one
+PR &amp; PO Created By Same User
+')]</value>
+      <webElementGuid>207715c7-5d0f-413d-b4d0-a0ef7bc0058a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
