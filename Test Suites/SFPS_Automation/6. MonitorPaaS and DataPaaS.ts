@@ -82,6 +82,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>a8e965e0-c334-4cdd-9502-1d8b26bfc5ad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/4. Manage Monitors - DTP</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>120b84f6-3b92-4ff2-8425-2836c33e0cd9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -92,14 +99,14 @@
       <guid>e067044e-616f-4628-b053-0ca0f0264501</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/6. ResultSets Tab</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/6. ResultSets Tab - DPS</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3f94cbc8-4858-4b73-899f-c1bb03775c29</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/7. Snapshots Tab</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/7. Snapshots Tab - DPS</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -127,28 +134,28 @@
       <guid>1d3095bc-7edb-4248-9ad4-f85ee38a9966</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/11. Open Incidents Report - DTP</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/11. Open Incidents Report - DTP Monitor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7f85a281-f437-4a9e-b185-be84cbd9d6ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/12. Open Incidents Report - DPS</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/12. Open Incidents Report - DPS Monitor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>495dc347-bb03-4ac3-8b0c-129716fe89a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/13. Change Tracker Report - DTP</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/13. Change Tracker Report - DTP Monitor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1e1fd094-d8d4-46f0-8085-1e65513788c5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/14. Change Tracker Report - DPS</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/14. Change Tracker Report - DPS Monitor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
