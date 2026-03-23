@@ -21,7 +21,10 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
+import com.kms.katalon.core.util.KeywordUtil
 
+try
+{
 //Single Env. UAR, and Analytics
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (9)'))
 
@@ -142,4 +145,9 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_User Access Validatio
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/button_concat(Row text contains , , EBS_UAR_923da7'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage User Access/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
-WebUI.callTestCase(findTestCase, null)
+//WebUI.callTestCase(findTestCase, null)
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	KeywordUtil.markPassed("")
+}

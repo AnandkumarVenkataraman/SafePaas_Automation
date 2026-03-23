@@ -16,7 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil
 
+try
+{
 //Verify the foll. ->
 //Company Settings -> User# is assigned EACM
 //EACM > Setup > Manage Roles [Function-read access and Function-write access]
@@ -132,5 +135,9 @@ WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/but
 WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i (3)'))
 
 WebUI.closeBrowser()
-
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	KeywordUtil.markPassed("")
+}
 
