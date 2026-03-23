@@ -16,10 +16,44 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.text.SimpleDateFormat as SimpleDateFormat
+import java.util.Date as Date
+import java.time.LocalDate as LocalDate
+import java.time.format.DateTimeFormatter as DateTimeFormatter
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Spring 2025_P101_COMPANY (10)'), 'KAT')
+
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (10)'),
+	'KATALON_ADMIN')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_New_P101_PASSWORD (10)'),
+	'Ioqy8emDrxi5mkiNQATzxQ==')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
+
+WebUI.setText(findTestObject('Anand_SFPSAutomation/Page_Home/input_R163105974055422926_search_field'), 'safepaas incident - approver')
+
+WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Home/button_R163105974055422926_search_button'))
+
+WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Home/a_SafePaaS Incident - Approver (1)'))
+
+WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Notification/label_Approve (1)'))
+
+WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Notification/button_P3_RESULT_ACTION'))
+
+WebUI.mouseOver(findTestObject('Anand_SFPSAutomation/Page_Home/li_control_text_39756318477898570'))
+
+WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Home/button_Remove Filter'))
+
+WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Home/a_Inbox (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (35)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (43)'))
 WebUI.closeBrowser()
-
