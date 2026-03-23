@@ -1,21 +1,47 @@
-.gradle
-
-bin
-
-Reports
-
-Libs
-
-output
-
+# =========================
+# Katalon default ignores
+# =========================
+bin/
+Libs/
+Reports/
+output/
+build/
+.gradle/
+ 
+# Keep empty output folder if needed
 !output/.gitkeep
-build
-
+ 
+# =========================
+# Eclipse / Katalon IDE files
+# =========================
 .classpath
-
 .project
-/bin/
-/Libs/
-/.settings/
-/.classpath
-.svn/
+.settings/
+ 
+# =========================
+# Katalon-specific temp files
+# =========================
+Libs/TempTestCase*
+Libs/TempTestSuite*
+bin/lib/TempTestCase*
+ 
+# =========================
+# Cache & runtime files
+# =========================
+.cache/
+*.class
+*.log
+*.tmp
+*.swp
+*.prj
+ 
+# =========================
+# Optional (recommended)
+# =========================
+settings/internal/
+ 
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
