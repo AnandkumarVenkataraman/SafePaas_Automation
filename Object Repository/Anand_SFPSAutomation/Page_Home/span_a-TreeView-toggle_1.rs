@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_a-TreeView-toggle_1</name>
+   <tag></tag>
+   <elementGuidId>8e5dc071-d373-4900-a01f-c42dfee85c18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-collapsible ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-expandable ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' a-TreeView-toggle ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.is-collapsible .is-expandable:nth-child(3) .a-TreeView-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>414bc73d-de63-40b8-af2f-a48dc7503ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f36a691c-6717-474b-8213-4d6a89b385ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-toggle</value>
+      <webElementGuid>2ff9b753-7cf7-446c-b3df-6e7287a66993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a9ee40ee90851526075c72fbc270a2ee</value>
+      <webElementGuid>1ea4341d-51e9-408b-9157-87f0c66b3366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-collapsible ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-expandable ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' a-TreeView-toggle ')]</value>
+      <webElementGuid>4fec2f69-c7aa-4dc5-9176-50f3ba944926</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-collapsible ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-expandable ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' a-TreeView-toggle ')]</value>
+      <webElementGuid>dcdea842-f310-407e-b31f-e21f1d1656b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

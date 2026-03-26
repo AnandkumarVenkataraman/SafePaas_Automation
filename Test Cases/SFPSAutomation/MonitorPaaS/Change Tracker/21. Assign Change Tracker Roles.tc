@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Assign Roles</description>
-   <name>21. Assign Roles</name>
+   <name>21. Assign Change Tracker Roles</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
