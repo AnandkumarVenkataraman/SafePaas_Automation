@@ -45,3 +45,9 @@ settings/internal/
 # =========================
 .DS_Store
 Thumbs.db
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+.cache/

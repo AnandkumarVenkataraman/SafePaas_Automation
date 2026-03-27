@@ -51,7 +51,7 @@ WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Change Tracker Cre
 WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Manage Change Tracker Roles/img_apex-edit-page_1 (1)'))
 
 WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Change Tracker CreateEdit Role/button_B344885550140643881 (1)'))
-
+WebUI.delay(5)
 WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Manage Change Tracker Roles/a_Inbox (1)'))
 //ENd
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (35)'))
