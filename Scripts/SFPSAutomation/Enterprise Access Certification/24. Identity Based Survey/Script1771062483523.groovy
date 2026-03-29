@@ -31,7 +31,7 @@ try
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL)
 WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (3)'), 'KAT')
@@ -102,9 +102,9 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/button_Initiate User Access Certification_B_c29e18'))
 
 //WebUI.enhancedClick(findTestObject('Object Repository/Page_Initiate User Access/input_Role Group_f01'))
-//Select JDE_Env. for Identity based survey
+//Select EBiz_SFTP. for Identity based survey
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/input_Access Certification - Select Environ_956008'),
-	'JDE_Env')
+	'EBiz_SFTP')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Initiate User Access/button_Access Certification - Select Enviro_177a03'))
 
@@ -257,10 +257,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 	'Completed')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/td_Completed_t-Report-cell (2)'),
-	'JDE_Env')
+	'EBiz_SFTP')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/td_Completed_t-Report-cell_1 (2)'),
-	'JDE_Env')
+	'EBiz_SFTP')
 
 WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Validation/a_Access Certification_t-Breadcrumb-label (3)'))
 
