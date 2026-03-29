@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Manage Access Groups Category Mapping_a-T_716809</name>
+   <name>a_Manage Access Groups Category Mapping</name>
    <tag></tag>
-   <elementGuidId>7ba82b03-f6f2-4d5e-ae4a-4d72ea23578f</elementGuidId>
+   <elementGuidId>9ef2c988-dfe9-4634-ac01-123185b32ad6</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_16']/div[2]/a</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='Scope Access']/parent::*</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Scope Access&quot;i]</value>
+         <value>internal:role=treeitem[name=&quot;Manage Access Groups Category Mapping&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9379bb0f-52cf-4a16-a408-6f911c9811ec</webElementGuid>
+      <webElementGuid>30d45784-6486-456e-9133-e8123d1b4392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>7278c827-3a76-49b9-924e-f73b04fb5b7c</webElementGuid>
+      <webElementGuid>f4cc1f63-fdb8-45e8-bf7c-29f5acfa1482</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>f7ad0c95-f414-4607-b009-e9bc1363c57e</webElementGuid>
+      <webElementGuid>91685459-4110-4b9b-9523-cbbbbb941559</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>fc763427-55b0-481b-90f9-3ae872495375</webElementGuid>
+      <webElementGuid>c8022876-6bc2-4e41-af7f-f1ef1fdb9d6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>f?p=1400:13:5634641998444:::13::</value>
-      <webElementGuid>798e6e0b-1160-49fa-8871-566c0bca67cb</webElementGuid>
+      <value>f?p=1400:45:11806540205550:::45::&amp;cs=3tLLCkl5WCU_Qlxs7ziBxEEo-ls-DfRM9DaCzQt0MYCDMIF8Yc6MmSycgb4H0OJ1535BQNnrQ-bdpm_9iOerLKA</value>
+      <webElementGuid>448c549b-d190-4f56-b030-dd71676dede1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>73876318-65e2-40ed-97c1-7de5dfb08839</webElementGuid>
+      <webElementGuid>00aaec62-8004-4bcd-a89d-1c308c5cf9c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,102 +77,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6bc758b3-1b43-45b0-82eb-236a06c718d8</webElementGuid>
+      <webElementGuid>874d0501-95ce-4f81-9eed-719cd540185b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Scope Access</value>
-      <webElementGuid>84322016-7a86-4d12-9e5b-85f81d009276</webElementGuid>
+      <value>Manage Access Groups Category Mapping</value>
+      <webElementGuid>f06b0451-c6b6-4182-9744-21e0d0ef73f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;t_TreeNav_199&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>b03d18ae-4cd3-40de-ade5-b9885d2fefb5</webElementGuid>
+      <value>id(&quot;t_TreeNav_16&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>26c12c85-0526-4a5a-a27e-db3be2ce79d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='t_TreeNav_199']/div[2]/a</value>
-      <webElementGuid>8afca214-ba69-4024-bc31-afb39d411753</webElementGuid>
+      <value>//li[@id='t_TreeNav_16']/div[2]/a</value>
+      <webElementGuid>ff56199c-896a-4bca-8a54-e2ffab770ed8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Scope Access')]</value>
-      <webElementGuid>6d9bc1de-9724-42c5-bc5d-993aaeecda41</webElementGuid>
+      <value>//a[contains(text(),'Manage Access Groups Category Mapping')]</value>
+      <webElementGuid>27d2aee7-ac01-4290-9c7b-54a7d6c95526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Access Groups Category Mapping'])[1]/following::a[1]</value>
-      <webElementGuid>8e1bde31-ecc6-4c23-a518-1f8f5a7c5eed</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Access Groups'])[1]/following::a[1]</value>
+      <webElementGuid>bc35c7f4-4a3d-472f-89b3-2fef25ff0cde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Access Groups'])[2]/following::a[2]</value>
-      <webElementGuid>ce48e7f9-bd17-406f-9616-e3b53e0c8cff</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Network Users'])[1]/following::a[2]</value>
+      <webElementGuid>46c4fcf2-5339-4935-b2fb-76ef7f179312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments'])[1]/preceding::a[1]</value>
-      <webElementGuid>bd287bf0-d83e-4b1d-ac35-abe51fb40e07</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scope Access'])[1]/preceding::a[1]</value>
+      <webElementGuid>8534b8c8-3d43-440f-bade-de5eb6005c9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Risk Levels'])[2]/preceding::a[2]</value>
-      <webElementGuid>93a022d8-202a-41bd-9567-d55dfc15556b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Approval Assignments'])[1]/preceding::a[2]</value>
+      <webElementGuid>4fc8de9e-dc98-4102-9bf4-763fad525e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Scope Access']/parent::*</value>
-      <webElementGuid>b0268310-ec8b-4ec6-ac86-2c2eb3bf304c</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Manage Access Groups Category Mapping']/parent::*</value>
+      <webElementGuid>e6a40a68-0a18-4fde-b9c2-bf527a8427c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'f?p=1400:13:5634641998444:::13::')]</value>
-      <webElementGuid>16a43645-0ada-4def-84f6-c3f37628e7d9</webElementGuid>
+      <value>//a[contains(@href, 'f?p=1400:45:11806540205550:::45::&amp;cs=3tLLCkl5WCU_Qlxs7ziBxEEo-ls-DfRM9DaCzQt0MYCDMIF8Yc6MmSycgb4H0OJ1535BQNnrQ-bdpm_9iOerLKA')]</value>
+      <webElementGuid>3d3e991e-7154-4bb2-95e7-6952100428be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/ul/li[4]/div[2]/a</value>
-      <webElementGuid>a7c78733-3ff4-46a7-9a6d-410ad56a9849</webElementGuid>
+      <value>//li[3]/div[2]/a</value>
+      <webElementGuid>4a05d10f-8196-4657-bd95-9b9d6ac19526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'f?p=1400:13:5634641998444:::13::' and (text() = 'Scope Access' or . = 'Scope Access')]</value>
-      <webElementGuid>b808f6e4-9039-425a-a1d0-9cd00551af91</webElementGuid>
+      <value>//a[@href = 'f?p=1400:45:11806540205550:::45::&amp;cs=3tLLCkl5WCU_Qlxs7ziBxEEo-ls-DfRM9DaCzQt0MYCDMIF8Yc6MmSycgb4H0OJ1535BQNnrQ-bdpm_9iOerLKA' and (text() = 'Manage Access Groups Category Mapping' or . = 'Manage Access Groups Category Mapping')]</value>
+      <webElementGuid>076f2c10-9b6b-4154-9052-69f4fca3e003</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
