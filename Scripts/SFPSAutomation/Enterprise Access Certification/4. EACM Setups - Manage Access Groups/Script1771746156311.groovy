@@ -21,56 +21,41 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
-import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-try
-{
 //Verify Map Roles for an EBS Env.
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Access Groups/button_Map Roles (CSV)_B149605989596714417'))
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/button_Cancel_B149607375770714431'))
+WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/span_Actions_a-IRR-noDataMsg-text'),
-	'No data found for the current selection', FailureHandling.OPTIONAL)
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/button_Previous_B149608377236714441'))
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Summer 2025_P101_COMPANY (3)'), 'KAT')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/span_Actions_a-IRR-noDataMsg-text_1'),
-	'No data found for the current selection', FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_OR CONTINUE WITH_P101_USERNAME (8)'), 'KATADMIN')
 
-WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Roles Mapping/a_Setup_t-Breadcrumb-label'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P101_PASSWORD (8)'), 'Ioqy8emDrxi5mkiNQATzxQ==')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	'8028', true)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	'7408', true)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Help_a-TreeView-toggle (14)'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Groups/select_Environment_P0_ENVIRONMENT'),
-	0)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Enterprise Access Monitor_a-TreeView-toggle (2)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Access Groups/a_Manage Access Groups_a-TreeView-label'))
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Access Certification_a-TreeView-toggle (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'9028', true)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Manage Access Groups'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'5888', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Access Groups/select_Select any oneCoupa_Env1EBizApp_JDBC_98ef84'), 
+    'EBizApp_JDBC_Env', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'8028', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Access Groups/select_Select any oneCoupa_Env1EBizApp_JDBC_98ef84'), 
+    'Coupa_Env1', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	'7408', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Groups/select_Select any oneCoupa_Env1EBizApp_JDBC_98ef84'), 
+    0)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Access Group Category Mapping/select_Environment_P0_ENVIRONMENT'),
-	0)
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Access Groups/a_Inbox'))
 
-//End verifying of Map Roles
+WebUI.closeBrowser()
 
-//WebUI.callTestCase(findTestCase, null)
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}
