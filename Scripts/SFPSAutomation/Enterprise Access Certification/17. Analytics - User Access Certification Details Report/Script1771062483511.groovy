@@ -18,9 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil
 
-try
-{
-
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
@@ -46,7 +43,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/button_User Access Certification_P7_UAC_lov_btn'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/input_Search_a-PopupLOV-search apex-item-text'), 
-    'EBS_UAR_04022026_075616')
+    'EBS_UAR_')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/span_EBS_UAR_04022026_075616'))
 WebUI.delay(60)
@@ -85,11 +82,11 @@ WebUI.verifyElementText(findTestObject('Object Repository/Anand_SFPSAutomation/P
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/button_User Access Certification_P7_UAC_lov_btn'))
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/input_Close_a-PopupLOV-search apex-item-text'), 
-    'MULTIEnv_UAR_0611')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/span_MULTIEnv_UAR_0611'))
-WebUI.delay(60)
+//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/input_Close_a-PopupLOV-search apex-item-text'), 
+//    'MULTIEnv_UAR_0611')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/span_MULTIEnv_UAR_0611'))
+//WebUI.delay(60)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/a_Inbox'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (6)'))
@@ -97,8 +94,3 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (13)'))
 
 WebUI.closeBrowser()
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}
