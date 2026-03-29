@@ -23,8 +23,7 @@ import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 import com.kms.katalon.core.util.KeywordUtil
 
-try
-{
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
@@ -39,101 +38,34 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_New_P1
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/button_Reset Password_loginBtn (1)'))
 
-//Verify the EACM Setups in Company Settings
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_DataPaaS_a-TreeView-toggle (9)'), FailureHandling.OPTIONAL)
+//Verify the EACM Templates
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_DataPaaS_a-TreeView-toggle'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/span_Administration_a-TreeView-toggle (6)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Administration_a-TreeView-toggle'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Home/a_Company Settings_a-TreeView-label (1)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Company'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Company/div_DataProbe_apex-item-option'), 0)
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Company/span_Email Configuration'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Company/span_Company_t-Tabs-label'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Email Configuration/select_- Please select one -DataProbeEnterp_9ed873'),
+	2)
 
-WebUI.setText(findTestObject('Object Repository/Page_Settings/input_Settings_R307838823214507554_ig_toolb_058319'), 'Enterprise Access Certification')
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Email Configuration/select_- Please select one -After Review No_1d58b0'),
+	'Generic', false)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/button_Settings_a-Button a-Toolbar-item'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Email Configuration/select_- Please select one -After Review No_1d58b0'),
+	0)
 
-WebUI.takeScreenshot()
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/button_concat(Search for , , Enterprise Acc_57ba07'),
-	FailureHandling.OPTIONAL)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Settings/span_Subscription_t-Tabs-label'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Product_P34_PRODUCT'), 'UAC',
-	true)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	1)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'714', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Cancelling Notification', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'710', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Delegation Notification', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'711', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Escalation Notification', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'712', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Generic', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'707', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Identity Group User Mapping Generic Notification', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Identity Group User Mapping Reminder Notification', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'POST Process Error', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'708', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Reassignment Notification', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'709', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Reminder Notification', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Template Name_P34_TEMPLATE_NAME'),
-	'713', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Survey Advance Intimation', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Email Configuration/select_Email Category_P34_EMAIL_CATEGORY'),
-	'Survey job failure', true)
-
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Email Configuration/select_Product_P34_PRODUCT'), 0)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_Email Configuration/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Email Configuration/select_- Please select one -DataProbeEnterp_9ed873'),
+	0)
 
 //Verify pop-up
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Email Configuration/a_Inbox'))
+
+WebUI.closeBrowser()
+
 //WebUI.callTestCase(findTestCase, null)
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}
+
+

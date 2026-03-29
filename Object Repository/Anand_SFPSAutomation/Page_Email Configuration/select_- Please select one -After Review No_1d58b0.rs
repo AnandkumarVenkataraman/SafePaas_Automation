@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_- Please select one -DataProbeEnterp_9ed873</name>
+   <name>select_- Please select one -After Review No_1d58b0</name>
    <tag></tag>
-   <elementGuidId>d0a7c0bd-cb20-4319-b3d2-af9a6047a7e0</elementGuidId>
+   <elementGuidId>8f709f08-b084-4c30-bd9f-3619fe35c221</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='P34_PRODUCT']</value>
+         <value>//select[@id='P34_EMAIL_CATEGORY']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#P34_PRODUCT</value>
+         <value>#P34_EMAIL_CATEGORY</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#P34_PRODUCT</value>
+         <value>internal:label=&quot;Email Category&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5a7fae60-92cc-4caa-9fa1-fc7c21afedc2</webElementGuid>
+      <webElementGuid>b9a6a68e-83c0-424d-9ee6-660f071dae22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>P34_PRODUCT</value>
-      <webElementGuid>c6faf813-5128-4027-b5e8-fa0c2e6d5bdd</webElementGuid>
+      <value>P34_EMAIL_CATEGORY</value>
+      <webElementGuid>f930513f-7f90-4a3c-9951-91df07805b83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>P34_PRODUCT</value>
-      <webElementGuid>c7975496-653b-44c0-9f79-ada32b9464b4</webElementGuid>
+      <value>P34_EMAIL_CATEGORY</value>
+      <webElementGuid>da58ce0e-68c1-4b74-92ff-87c59014e0a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectlist apex-item-select</value>
-      <webElementGuid>8ddf1ef9-e812-4687-9000-1232cbd989f3</webElementGuid>
+      <webElementGuid>f7ce8ce7-095a-49c7-af97-a638a99458b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-native-menu</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>28dae033-fb75-45bf-9901-252d812ddc09</webElementGuid>
+      <webElementGuid>0aed3051-8b13-4535-86dd-8f3547608f0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>size</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>802349a6-1f40-4330-b178-2eaa16a674cd</webElementGuid>
+      <webElementGuid>82fd3f0a-bf93-4d81-a284-89067dacf01f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,116 +77,81 @@
       <name>text</name>
       <type>Main</type>
       <value>- Please select one -
-DataProbe
-Enterprise Access Certification
-Enterprise Access Monitor
-Enterprise iAccess
-MonitorPaaS
-</value>
-      <webElementGuid>a3a5c87d-c04a-49c4-82d9-fc5a24d0af8d</webElementGuid>
+After Review NotificationCancelling NotificationDelegation NotificationEscalation NotificationGenericIdentity Group User Mapping Generic NotificationIdentity Group User Mapping Reminder NotificationPOST Process ErrorReassignment NotificationReminder NotificationSurvey Advance IntimationSurvey job failure</value>
+      <webElementGuid>0cefd876-ab8a-4da5-8fb6-b97cafefd83e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;P34_PRODUCT&quot;)</value>
-      <webElementGuid>55dc7b8f-e5ba-4c16-b4d3-b67d8645e59b</webElementGuid>
+      <value>id(&quot;P34_EMAIL_CATEGORY&quot;)</value>
+      <webElementGuid>40eab093-3462-468a-a8cc-c9f7f6687980</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//select[@id='P34_PRODUCT']</value>
-      <webElementGuid>3746b2fc-03d8-41af-9be3-44afbb244708</webElementGuid>
+      <value>//select[@id='P34_EMAIL_CATEGORY']</value>
+      <webElementGuid>f92aea5e-839f-4669-a5c4-f5e4a59a9507</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='P34_PRODUCT_CONTAINER']/div[2]/div/select</value>
-      <webElementGuid>cea9b28f-24fe-4072-b117-7ba1d95aec2d</webElementGuid>
+      <value>//div[@id='P34_EMAIL_CATEGORY_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>2be2ec64-0318-4f77-a34a-0b543f28a0b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::select[1]</value>
-      <webElementGuid>764daba9-6238-4a66-ae09-cd91f8e7a069</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Category'])[1]/following::select[1]</value>
+      <webElementGuid>adc3841c-6a00-40e9-8e10-9bfbcf114ac6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Template'])[1]/following::select[1]</value>
-      <webElementGuid>4144b855-7874-4bfc-bb47-adc146532dfc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::select[2]</value>
+      <webElementGuid>f36d3569-e644-48c7-ba19-cf82498bc06c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Category'])[1]/preceding::select[1]</value>
-      <webElementGuid>83118d22-b3e5-48a7-8ec4-de9ccb8932be</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Template Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>c2873d3b-e0aa-4d6c-8e7a-eece68c3c351</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Template Name'])[1]/preceding::select[2]</value>
-      <webElementGuid>d6735577-0b61-4be2-a046-3dcea657de4c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email From'])[1]/preceding::select[2]</value>
+      <webElementGuid>b02aa4d1-a2f6-4846-b756-a0bb9bec6558</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>bf2080d8-c68e-4529-b576-e06c4bdb3f34</webElementGuid>
+      <value>//div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>a455a8f0-53c8-448a-a08a-d51d2442ec6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'P34_PRODUCT' and @name = 'P34_PRODUCT' and (text() = '- Please select one -
-DataProbe
-Enterprise Access Certification
-Enterprise Access Monitor
-Enterprise iAccess
-MonitorPaaS
-' or . = '- Please select one -
-DataProbe
-Enterprise Access Certification
-Enterprise Access Monitor
-Enterprise iAccess
-MonitorPaaS
-')]</value>
-      <webElementGuid>d1ad2723-a2af-455d-a8df-cbf851a96555</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//select[@name = 'P34_PRODUCT' and (text() = '- Please select one -
-DataProbe
-Enterprise Access Certification
-Enterprise Access Monitor
-Enterprise iAccess
-MonitorPaaS
-' or . = '- Please select one -
-DataProbe
-Enterprise Access Certification
-Enterprise Access Monitor
-Enterprise iAccess
-MonitorPaaS
-')]</value>
-      <webElementGuid>c6a4afd8-e0d6-410e-8d65-ce96814dbca7</webElementGuid>
+      <value>//select[@id = 'P34_EMAIL_CATEGORY' and @name = 'P34_EMAIL_CATEGORY' and (text() = '- Please select one -
+After Review NotificationCancelling NotificationDelegation NotificationEscalation NotificationGenericIdentity Group User Mapping Generic NotificationIdentity Group User Mapping Reminder NotificationPOST Process ErrorReassignment NotificationReminder NotificationSurvey Advance IntimationSurvey job failure' or . = '- Please select one -
+After Review NotificationCancelling NotificationDelegation NotificationEscalation NotificationGenericIdentity Group User Mapping Generic NotificationIdentity Group User Mapping Reminder NotificationPOST Process ErrorReassignment NotificationReminder NotificationSurvey Advance IntimationSurvey job failure')]</value>
+      <webElementGuid>2672a9c6-ca62-4364-b04c-ade4b58825cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
