@@ -23,7 +23,6 @@ import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 import com.kms.katalon.core.util.KeywordUtil
 
-
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
