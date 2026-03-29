@@ -46,8 +46,6 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Certification_a-TreeView-label'))
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1400:11:11290823382912:::11::')
-
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage User Access/input_User Access_userAccessReport_search_field (1)'),
 	'EBS_UAR_')
 
