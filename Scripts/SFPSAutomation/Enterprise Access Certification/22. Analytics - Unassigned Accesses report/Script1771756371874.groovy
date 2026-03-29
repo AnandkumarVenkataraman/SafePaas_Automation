@@ -18,8 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil
 
-try
-{
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
@@ -42,11 +40,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Unassigned Accesses'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
-    '9028', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
+    'EBizApp_JDBC_Env', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
-    '5888', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
+    'Coupa_Env1', false)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Unassigned Access/select_- Select a Value - Coupa_Env1EBizApp_019594'), 
     0)
@@ -58,8 +56,3 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (18)'))
 
 WebUI.closeBrowser()
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}

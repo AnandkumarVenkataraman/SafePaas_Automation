@@ -18,8 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil
 
-try
-{
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
@@ -45,7 +43,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/body_Inbox                katadmin         _00d9b7'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_View Results_caCert_search_field (1)'), 
-    'EBS_UAR_11102025_004741')
+    'EBS_UAR_')
 WebUI.delay(20)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_Go (1)'))
 
@@ -53,23 +51,23 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_View Results (1)'))
 WebUI.back()
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_Last Updated By_f01 (1)'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_Last Updated By_f01 (1)'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_Remove Filter'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_Remove Filter'))
+//
+//WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_View Results_caCert_search_field (1)'), 
+//    'MULTIENV_UAR_06112025_231029')
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_Go (1)'))
+//WebUI.delay(20)
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_Last Updated By_f01 (1)'))
+//
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_View Results (1)'))
+//WebUI.back()
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_Last Updated By_f01 (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_View Results_caCert_search_field (1)'), 
-    'MULTIENV_UAR_06112025_231029')
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_Go (1)'))
-WebUI.delay(20)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_Last Updated By_f01 (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_View Results (1)'))
-WebUI.back()
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_Last Updated By_f01 (1)'))
-
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_Remove Filter'))
+//WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/button_Remove Filter'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/a_Inbox'))
 
@@ -78,8 +76,3 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (15)'))
 
 WebUI.closeBrowser()
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}

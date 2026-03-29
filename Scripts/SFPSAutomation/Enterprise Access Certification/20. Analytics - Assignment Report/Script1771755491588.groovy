@@ -18,8 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil
 
-try
-{
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
@@ -42,11 +40,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Assignment Report'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
-    '5888', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
+    'EBizApp_JDBC_Env', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
-    '9028', true)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
+    'Coupa_Env1', false)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assignment Report/select_Select any oneCoupa_Env1EBizApp_JDBC_73bea7'), 
     0)
@@ -58,8 +56,3 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (16)'))
 
 WebUI.closeBrowser()
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}
