@@ -38,31 +38,25 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Pa
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (9)'))
 
 //Verify Assign Change Tracker roles
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Home/span_a-TreeView-toggle (3)'))
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Home/span_a-TreeView-toggle_1 (2)'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_AccessPaaS_a-TreeView-toggle (16)'))
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Home/a_Assign Change Tracker Roles'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Manage Monitors_a-TreeView-toggle (2)'))
 
-WebUI.setText(findTestObject('Anand_SFPSAutomation/Page_Assign Change Tracker Roles/input_R962300842329082428_search_field'),
-	'KATADMIN')
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Analytics_a-TreeView-toggle (53)'))
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Assign Change Tracker Roles/button_R962300842329082428_search_button'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Assign Change Tracker Roles (1)'))
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Assign Change Tracker Roles/img_edit assignment'))
-
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Change Tracker User Role Assignment/button_B344907365372704129'))
-
-WebUI.setText(findTestObject('Anand_SFPSAutomation/Page_Assign Change Tracker Roles/input_R962300842329082428_search_field'),
+WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Change Tracker Roles/input_Create_R962300842329082428_search_field'),
 	'ANANDK1')
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Assign Change Tracker Roles/button_R962300842329082428_search_button'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Change Tracker Roles/button_Go'))
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Assign Change Tracker Roles/img_edit assignment'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Change Tracker Roles/img_Role Name_apex-edit-page'))
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Change Tracker User Role Assignment/button_B344907365372704129'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Change Tracker User Role Assignment/button_Cancel'))
 
-WebUI.enhancedClick(findTestObject('Anand_SFPSAutomation/Page_Assign Change Tracker Roles/a_Inbox'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign Change Tracker Roles/a_Inbox (1)'))
 //ENd
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/button_katadmin (35)'))
 
