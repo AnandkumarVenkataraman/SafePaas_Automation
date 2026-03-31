@@ -14,8 +14,15 @@
    <testCaseLink>
       <guid>43cd96b3-bf46-4566-b78b-7f45d37417a7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Other/AlexFolder/Sample_Demo2</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>81858aa8-60e3-4f25-bdc5-7cf1d6a974b2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Old/New Test Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
