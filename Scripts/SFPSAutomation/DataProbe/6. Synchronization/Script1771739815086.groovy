@@ -74,6 +74,6 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_Manage Data Sou
     0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Data Source/a_Inbox_t-Button t-Button--icon t-Button--h_469732'))
-WebUI.delay(3600)
+WebUI.delay(3500)
 //WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/7. Security'), [:])
 WebUI.closeBrowser()
