@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Inbox</name>
+   <tag></tag>
+   <elementGuidId>078bc875-a11e-454e-9e6e-721cf8fda37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.t-Button.t-Button--icon.t-Button--header.t-Button--navBar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='19866709289512388']/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Inbox&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8c75f0b-5397-45e0-a2c8-939932660245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Button t-Button--icon t-Button--header t-Button--navBar </value>
+      <webElementGuid>91e1cbe4-d349-4810-868b-91a62a2e7e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1000:1:7548498374730:::::</value>
+      <webElementGuid>4aeecd12-b80d-41bb-ad67-410dcd9e79b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4baa2f19-2d60-47ad-9414-b74357dae486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Inbox
+      
+  </value>
+      <webElementGuid>fddde3ba-730f-4463-94a6-bfb7ef31c5b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;19866709289512388&quot;)/li[@class=&quot;t-NavigationBar-item 0&quot;]/a[@class=&quot;t-Button t-Button--icon t-Button--header t-Button--navBar&quot;]</value>
+      <webElementGuid>89d4f585-aa95-452d-9af0-c30af3cbb9dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='19866709289512388']/li/a</value>
+      <webElementGuid>6659611f-85ef-4715-a6f2-c51bb182d518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katadmin'])[1]/preceding::a[1]</value>
+      <webElementGuid>1ba53a23-ebb8-4f33-91a6-f8fdb3afb13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1000:1:7548498374730:::::')]</value>
+      <webElementGuid>b4cdc1e9-eee7-43da-8527-24465ab507f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>cbdd0875-f1b3-4720-9625-4404758fa099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1000:1:7548498374730:::::' and (text() = '
+    Inbox
+      
+  ' or . = '
+    Inbox
+      
+  ')]</value>
+      <webElementGuid>87b88069-a232-4b5d-8514-8fa518e7e949</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

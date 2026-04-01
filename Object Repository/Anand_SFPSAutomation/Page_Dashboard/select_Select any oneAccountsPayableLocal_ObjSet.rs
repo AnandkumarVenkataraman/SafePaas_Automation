@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneAccountsPayableLocal_ObjSet</name>
+   <tag></tag>
+   <elementGuidId>c59faf20-eb76-48d2-8958-9d00ebde8f13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P103_DTP_OBJSET</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P103_DTP_OBJSET']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;DTP Object Set&quot;i >> internal:label=&quot;Object Set&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5ab905e1-8ac1-442c-bbc5-4e8e1ec0438b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P103_DTP_OBJSET</value>
+      <webElementGuid>4efe5842-c396-4764-95cb-c7843f537d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P103_DTP_OBJSET</value>
+      <webElementGuid>3f75aa41-92e5-4271-8296-ce35cadc4726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>c4c0dd3c-73a6-450a-b0eb-37f36f3c29ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>224d7db8-cdb1-4f76-adb0-1db961139d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>cc69c57b-4055-48e6-baee-53738665a45d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+AccountsPayable
+Local_ObjSet
+</value>
+      <webElementGuid>c5e2acf5-bed6-4c90-9242-a85cc1e82b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P103_DTP_OBJSET&quot;)</value>
+      <webElementGuid>15415068-fa9a-4aef-8d55-708c441bee50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P103_DTP_OBJSET']</value>
+      <webElementGuid>9980a325-43d1-4e54-8691-9dd007cca637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P103_DTP_OBJSET_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>c3874bae-e9b0-4ffb-b96e-fde913bfe8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Set'])[2]/following::select[1]</value>
+      <webElementGuid>153b4c2b-fb4c-4ba2-9d51-ebda1b1275a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DTP Object Set'])[2]/following::select[1]</value>
+      <webElementGuid>24a355b1-7bb5-4972-8862-d48e3efbe992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DPS Object Set'])[2]/preceding::select[1]</value>
+      <webElementGuid>2fda2f44-58ac-47c2-90bb-b93dc3177596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Set'])[3]/preceding::select[1]</value>
+      <webElementGuid>8aa6a9db-27c8-4323-825f-2c117551ea6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4d113bb0-e8f2-4e9d-8b4c-4f9bf55e6545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P103_DTP_OBJSET' and @name = 'P103_DTP_OBJSET' and (text() = 'Select any one
+AccountsPayable
+Local_ObjSet
+' or . = 'Select any one
+AccountsPayable
+Local_ObjSet
+')]</value>
+      <webElementGuid>aed4010a-52a5-49f1-9811-1c5d83092eb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

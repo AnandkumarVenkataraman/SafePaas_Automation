@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DPS Object Set</name>
+   <tag></tag>
+   <elementGuidId>0b8ce87c-3163-4c68-a7d9-5afaea5a4e47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#R351031433938521720_tab > a.a-RDS-link > span.a-RDS-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='R351031433938521720_tab']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;DPS Object Set&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d180b05b-44b0-4d83-9913-0c7dc3af8df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-RDS-label</value>
+      <webElementGuid>1fcecf9a-30ff-4326-a4af-7b8f396f3c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DPS Object Set</value>
+      <webElementGuid>28625893-5bef-4200-b213-d16361f2e7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R351031433938521720_tab&quot;)/a[@class=&quot;a-RDS-link&quot;]/span[@class=&quot;a-RDS-label&quot;]</value>
+      <webElementGuid>ec7bb2b8-bb36-49ac-a918-20c84bc505dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='R351031433938521720_tab']/a/span</value>
+      <webElementGuid>e3ee3acf-45de-438e-a2ed-e21f5a2738a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DTP Object Set'])[1]/following::span[1]</value>
+      <webElementGuid>a37e68c2-31b6-407b-beb2-8ab9b3b5a04d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All'])[1]/following::span[2]</value>
+      <webElementGuid>a4f23fee-c411-48a5-a2d5-e4a6a72bcdcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DTP Object Set'])[2]/preceding::span[1]</value>
+      <webElementGuid>1003e070-a2f1-4690-94fd-3c7ff26b5511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Set'])[2]/preceding::span[2]</value>
+      <webElementGuid>3fdc82a0-0fd7-4714-815f-bd0349309cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DPS Object Set']/parent::*</value>
+      <webElementGuid>c5df6044-1261-4efc-9e47-1ed6813bb217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>93df6f53-6a18-4af6-96c1-8e34b798e817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DPS Object Set' or . = 'DPS Object Set')]</value>
+      <webElementGuid>64419885-697c-4d63-9f09-4ed20d82d51c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

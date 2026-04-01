@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Monitors</name>
+   <tag></tag>
+   <elementGuidId>7031e989-4283-401e-a126-e0a8cf4d7316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R22650844399404706']/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Manage Monitors&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>826639ab-f839-4af1-9716-e2ac04bf1793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1110:20:11546861064186:::::</value>
+      <webElementGuid>3f6b243e-ae82-4bd2-9b9c-fd8c06812b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Breadcrumb-label</value>
+      <webElementGuid>47e22c89-a783-463f-b00f-ee698a680932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Monitors</value>
+      <webElementGuid>81cf9276-45b5-4a32-8824-011de3a4e530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R22650844399404706&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
+      <webElementGuid>b3b0b2d0-56d4-4983-a53f-20cc4ce8c65e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R22650844399404706']/div/div/ul/li[3]/a</value>
+      <webElementGuid>9989e7bd-2273-4f2e-95b7-b817b545d951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Manage Monitors')])[3]</value>
+      <webElementGuid>57ec872f-6e53-485e-a308-11304ad9ac4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MonitorPaas'])[1]/following::a[2]</value>
+      <webElementGuid>11db806d-3497-4263-8d47-027b45a9e052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::a[3]</value>
+      <webElementGuid>51fc5a98-7a39-4e64-b98f-ec204a0ca86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add/Edit Monitors'])[1]/preceding::a[1]</value>
+      <webElementGuid>b081c7d3-2430-4240-b7b0-2a25c6836d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/preceding::a[1]</value>
+      <webElementGuid>62898421-ee93-4475-89db-599aedb0c4af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1110:20:11546861064186:::::')]</value>
+      <webElementGuid>23913e0d-3225-442f-8b1d-fd3a77616a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>d7573880-4138-4ab0-ad7b-99e3cf329eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1110:20:11546861064186:::::' and (text() = 'Manage Monitors' or . = 'Manage Monitors')]</value>
+      <webElementGuid>4695c501-7707-4678-83e5-3afb7fcb51bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

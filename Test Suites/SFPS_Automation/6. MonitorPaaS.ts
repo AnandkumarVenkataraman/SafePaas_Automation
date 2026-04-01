@@ -159,6 +159,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>726e4f9a-1836-4309-bfdf-86ce4c6e98fe</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/15. Dashboard</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>bf590a46-afcb-411c-ad39-dea60a6149a4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -187,6 +194,27 @@
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>edc60678-0371-40e1-882b-773f2712e731</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/20. Manage Change Tracker Roles</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cd572645-4b4d-41c2-be33-aab3c72778af</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/21. Assign Change Tracker Roles</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>436ccf31-c418-416c-a449-42fd64eb33f5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/22. Security</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>73779df3-3449-4d72-855d-51cdb13da9cc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -199,5 +227,54 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/Change Tracker/24. Snapshots Tab - DTP Monitor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9c53992c-4399-4560-834a-dcf7defce49c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/ConfigCompare/1. Manage Monitors</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>28812372-2188-4d3e-bc90-8f67c75e03c2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/MonitorPaaS/ConfigCompare/2. Manage Comparisons</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6521acac-9d1c-4965-9cd9-503c24573202</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/DataPaaS/DPS_MTP/8. Manage Roles</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9bcdfcb6-b869-48fa-b810-2e82a39319f8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/DataPaaS/DPS_MTP/9. Assign Roles</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6ee0c2eb-52eb-4315-9156-3fc9e75d58e5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/DataPaaS/DPS_MTP/10. Security</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1c2461c8-3b96-49fc-a94a-71da2d85c3f7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/DataPaaS/DPS_MTP/11. Snapshot Details</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fbc0e1ef-9c85-41d0-84be-48d25cb36e85</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/DataPaaS/DPS_MTP/12. Synchronization</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Config Compare Report</name>
+   <tag></tag>
+   <elementGuidId>98c25c3b-9b35-41aa-b1d2-6bea6389d0d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[2]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Config Compare Report&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32e8b88e-c8d6-47ff-91d5-215425480cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Tabs-label</value>
+      <webElementGuid>dd798ce1-8fc1-4b23-8f2e-0b4ba3541c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Config Compare Report</value>
+      <webElementGuid>a3138395-9ea1-4cb6-8666-3736c2460e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
+      <webElementGuid>529a49ac-211d-4c06-ad1b-6d3d2bd106ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Body_content']/div[2]/div/div[2]/div/ul/li[2]/a/span[2]</value>
+      <webElementGuid>1a9392df-92dd-444f-9549-3ee26f41e6cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object Selection'])[1]/following::span[2]</value>
+      <webElementGuid>d05d8a27-c7f9-4d4e-8bb4-361e2341b853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No comparison data available'])[1]/following::span[4]</value>
+      <webElementGuid>ae8fcb97-716f-42ea-bfbb-4c245650466b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select ObjectSets/Objects to compare'])[1]/preceding::span[1]</value>
+      <webElementGuid>c50b4dea-647d-4987-af5c-86068f838486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Comparison'])[1]/preceding::span[1]</value>
+      <webElementGuid>11390a0b-4dff-45d9-a955-eb65974219d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Config Compare Report']/parent::*</value>
+      <webElementGuid>78b64cdb-7487-4696-8824-e69669e3694b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span[2]</value>
+      <webElementGuid>2441e0fe-d3f1-4b10-a69d-f49b5f043971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Config Compare Report' or . = 'Config Compare Report')]</value>
+      <webElementGuid>c5e03a43-b5a6-4520-9480-99d1a297f5a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
