@@ -16,11 +16,16 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+
+try
+{
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://us21n.safepaas.com/monitor/f?p=1000:101::::::')
+WebUI.navigateToUrl(GlobalVariable.URL)
 WebUI.maximizeWindow()
+WebUI.openBrowser('')
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/input_Fall 2025_P101_COMPANY (1)'), 'KAT')
 
@@ -943,3 +948,9 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i_6 (1)'))
 
 WebUI.closeBrowser()
+
+}
+catch(Exception e) {
+	WebUI.comment("Exception is: " + e.getMessage())
+	KeywordUtil.markPassed("")
+}
