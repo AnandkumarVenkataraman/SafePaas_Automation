@@ -33,7 +33,7 @@ bin/lib/TempTestCase*
 *.log
 *.tmp
 *.swp
-*.prj
+.prj
  
 # =========================
 # Optional (recommended)
