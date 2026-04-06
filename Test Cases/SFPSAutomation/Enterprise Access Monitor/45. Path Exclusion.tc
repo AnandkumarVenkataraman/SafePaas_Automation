@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Path Exclusion</description>
+   <name>45. Path Exclusion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5eae160d-d72c-47a5-9a56-fc8005b0d9f6</testCaseGuid>
+</TestCaseEntity>

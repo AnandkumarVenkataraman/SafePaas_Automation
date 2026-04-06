@@ -22,8 +22,6 @@ import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-try
-{
 //From Schedule Trackers tab, the only available option is - Change Tracker,
 //which happens to be for CloudERP.
 //So, this script is built only to verify the ability to launch the
@@ -89,8 +87,3 @@ WebUI.delay(2)
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (41)'))
 
 WebUI.closeBrowser()
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}

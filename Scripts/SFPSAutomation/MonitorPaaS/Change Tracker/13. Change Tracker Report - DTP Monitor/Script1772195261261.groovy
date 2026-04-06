@@ -22,8 +22,6 @@ import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-try
-{
 //Pls. note -> This report is built, jus to verify the menu and page
 //QA doesn't have access to Datasource [CloudERP in this case]
 //in order to verify the actual functionality
@@ -78,8 +76,3 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Logout (43)'))
 WebUI.closeBrowser()
-}
-catch(Exception e) {
-	WebUI.comment("Exception is: " + e.getMessage())
-	KeywordUtil.markPassed("")
-}
