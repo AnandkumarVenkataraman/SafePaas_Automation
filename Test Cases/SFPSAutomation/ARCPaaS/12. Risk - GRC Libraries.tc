@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Risk - GRC Libraries</description>
+   <name>12. Risk - GRC Libraries</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17b86065-3e1b-4a93-89b2-c976926eb51e</testCaseGuid>
+</TestCaseEntity>

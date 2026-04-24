@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Process - GRC Libraries</description>
+   <name>9. Process - GRC Libraries</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a45b012c-81f3-4443-8752-6193bcd18099</testCaseGuid>
+</TestCaseEntity>

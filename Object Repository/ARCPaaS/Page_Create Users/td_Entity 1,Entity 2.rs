@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Entity 1,Entity 2</name>
+   <tag></tag>
+   <elementGuidId>fabc4f60-0898-4640-935d-4fef9f409937</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='23213810039438815']/tbody/tr[2]/td[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Entity 1,Entity 2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ada0846d-9a62-448d-a33c-06d18344aa0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>dc9d0208-a5e1-4df8-aa6a-754762ab7ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C389070712729723628</value>
+      <webElementGuid>3ae056a5-b4ab-4ec0-90ee-1abb0b5ee3f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entity 1,Entity 2</value>
+      <webElementGuid>28196af1-16ea-43f6-b7bc-90ada208d617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;23213810039438815&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>2643b9b8-4a15-490a-95ce-81e2b93f5b37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='23213810039438815']/tbody/tr[2]/td[7]</value>
+      <webElementGuid>93fb3228-0d36-425c-bf9c-6323874ae024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anand Babu1'])[1]/following::td[2]</value>
+      <webElementGuid>7cba7d8e-d155-4306-a355-867512aedf28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anandkumar.venkataraman@safepaas.com'])[1]/following::td[3]</value>
+      <webElementGuid>7bf09173-382d-48ed-bf58-20cd3bb5498f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[1]</value>
+      <webElementGuid>e44e2f9a-7e47-4fda-8303-6165588b92f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::td[5]</value>
+      <webElementGuid>ac5e696f-3a3a-4eb4-bbf7-c41d71620c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entity 1,Entity 2']/parent::*</value>
+      <webElementGuid>15bfc5cd-98b2-4de2-8b67-8a5457641bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>0f0b053a-fd9a-4e92-8b1e-4903c5c166ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Entity 1,Entity 2' or . = 'Entity 1,Entity 2')]</value>
+      <webElementGuid>336fdba5-51b1-41a2-9b37-175284e0dbf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

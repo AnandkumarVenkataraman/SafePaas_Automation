@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Filter</name>
+   <tag></tag>
+   <elementGuidId>728f2354-e8f5-4e39-b2b4-37c6bceafeb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#search_actions_menu_2 > div.a-Menu-inner > span.a-Menu-labelContainer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='search_actions_menu_2']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Filter&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>02221dcd-f9d0-4361-91e1-680aed00711c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Menu-labelContainer</value>
+      <webElementGuid>c3ac5e80-0c26-4cf6-b72e-5032cb4e8fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter</value>
+      <webElementGuid>ed202069-2672-4608-91aa-37ec90735f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_actions_menu_2&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]</value>
+      <webElementGuid>5ca0d311-f772-4360-a624-dd8c7d11c990</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='search_actions_menu_2']/div/span</value>
+      <webElementGuid>2734f557-c494-4db4-87f5-d6bd07409807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Columns'])[1]/following::span[7]</value>
+      <webElementGuid>a85a074c-cf05-40dc-af0f-5683c5cff723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::span[10]</value>
+      <webElementGuid>a44842d4-b128-47e5-a85d-ebe5acf7e66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows Per Page'])[1]/preceding::span[7]</value>
+      <webElementGuid>32b9a941-e336-4e3b-85c0-a2d2a3535306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ul/li[3]/div/span</value>
+      <webElementGuid>20b4dc23-33f5-4efb-8c7e-3419a97ccb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Filter' or . = 'Filter')]</value>
+      <webElementGuid>ce41a3a9-cb76-40c2-86ef-cda6c7f3c120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

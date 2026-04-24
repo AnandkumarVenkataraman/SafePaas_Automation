@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>EAM - Import from Risk Library</description>
+   <name>19. EAM - Import from Risk Library</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94a82360-0277-4290-a7e1-1f87702cea9f</testCaseGuid>
+</TestCaseEntity>

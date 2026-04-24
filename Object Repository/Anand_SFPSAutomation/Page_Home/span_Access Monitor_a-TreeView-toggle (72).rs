@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Access Monitor_a-TreeView-toggle (72)</name>
+   <tag></tag>
+   <elementGuidId>70fcefdf-9bc8-497b-8bfe-b7ed080a0fd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#t_TreeNav_7 > span.a-TreeView-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='t_TreeNav_7']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=/^Enterprise Access Monitor$/ >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>994e8582-ce17-4f8c-ba6b-81f16699def7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4742506a-2cdb-4542-904e-5949830ac6ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-toggle</value>
+      <webElementGuid>b8b5d3d9-42c4-496f-b9bc-7937e44cd8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_7&quot;)/span[@class=&quot;a-TreeView-toggle&quot;]</value>
+      <webElementGuid>a5f371ff-ab99-4d15-ad84-bd7ab325b5d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_7']/span</value>
+      <webElementGuid>5a1d99ae-1736-48c1-ac93-d1304b2426e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[3]/span</value>
+      <webElementGuid>d22c7c4b-4c44-4395-bc99-e6693be41fb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

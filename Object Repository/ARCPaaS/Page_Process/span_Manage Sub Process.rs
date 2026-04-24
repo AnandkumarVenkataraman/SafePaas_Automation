@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manage Sub Process</name>
+   <tag></tag>
+   <elementGuidId>ec89295b-e416-4a38-b1a2-0761adb43c8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#R19902394121399350_tab > a.a-RDS-link > span.a-RDS-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='R19902394121399350_tab']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Manage Sub Process&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>175a82fc-5c29-4c4f-ad42-10dd37737841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-RDS-label</value>
+      <webElementGuid>6f93e458-7974-4a4d-a351-5aaca1104a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Sub Process</value>
+      <webElementGuid>f4c644ce-5e14-4054-8d76-128d616ed0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R19902394121399350_tab&quot;)/a[@class=&quot;a-RDS-link&quot;]/span[@class=&quot;a-RDS-label&quot;]</value>
+      <webElementGuid>17a6ce93-9b27-4edf-b3bc-6b9c3ac1aebf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='R19902394121399350_tab']/a/span</value>
+      <webElementGuid>821b69f7-c254-40dd-ac53-0effeb476f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/following::span[1]</value>
+      <webElementGuid>cbb8434d-ba87-4cd9-b66b-2789ce436516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process'])[3]/following::span[2]</value>
+      <webElementGuid>178a4aed-5565-4898-a44b-cb1f997fd630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Interdependent Process'])[1]/preceding::span[1]</value>
+      <webElementGuid>31dc44ef-295c-478c-84f0-9480156b7389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Risks'])[1]/preceding::span[2]</value>
+      <webElementGuid>7d9e504d-4794-423c-b199-5ebd8b5fba95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Sub Process']/parent::*</value>
+      <webElementGuid>fd9f772a-2da3-4d0a-a772-7385553040b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>844937a5-8eb3-4e50-b6a0-9e5d4568eb60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manage Sub Process' or . = 'Manage Sub Process')]</value>
+      <webElementGuid>0a53f64b-718e-4c80-b22b-3be6d5fb8558</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

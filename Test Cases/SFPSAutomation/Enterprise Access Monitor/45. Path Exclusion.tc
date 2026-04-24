@@ -6,4 +6,39 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>5eae160d-d72c-47a5-9a56-fc8005b0d9f6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>95a71891-4bec-4594-a7b8-1205df927083</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/EAM/Path Exclusion</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>95a71891-4bec-4594-a7b8-1205df927083</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>exclusionSource</value>
+      <variableId>bffb0583-aa7f-4db5-a564-52807bea8f9d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>95a71891-4bec-4594-a7b8-1205df927083</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>violationPath</value>
+      <variableId>5b4317b3-4e97-41c2-90d9-d65cb5d794b1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bffb0583-aa7f-4db5-a564-52807bea8f9d</id>
+      <masked>false</masked>
+      <name>exclusionSource</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b4317b3-4e97-41c2-90d9-d65cb5d794b1</id>
+      <masked>false</masked>
+      <name>violationPath</name>
+   </variable>
 </TestCaseEntity>

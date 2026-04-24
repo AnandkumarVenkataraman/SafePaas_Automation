@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Control - Compliance Manager</description>
+   <name>13. Control - Compliance Manager</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b745e430-1b1f-4c5b-80df-3d635ad23aab</testCaseGuid>
+</TestCaseEntity>

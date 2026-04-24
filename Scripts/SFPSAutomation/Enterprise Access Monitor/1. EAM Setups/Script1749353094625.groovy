@@ -20,11 +20,12 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
-import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.URL) //IQA or Prod. Profile should be selected during execution
+WebUI.navigateToUrl(GlobalVariable.URL //IQA or Prod. Profile should be selected during execution
+    )
 
 WebUI.maximizeWindow()
 
@@ -38,6 +39,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Anand_SFPSAutomation/Pa
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Login/button_Login (19)'))
 
+//EAM Setups
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Help_a-TreeView-toggle (96)'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_Access Monitor_a-TreeView-toggle (71)'))
@@ -47,11 +49,10 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rule Attributes (2)'))
 
 //WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Rule Attributes (1)'))
-
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Add Attributes/a_Manage Activity (1)'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (3)'), 
-    'EBS_11')
+    activitySet1)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_Go (2)'))
 
@@ -64,7 +65,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_Remove Filter'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/input_Activity Report_R242004504603843036_s_342084 (3)'), 
-    'EBS_12')
+    activitySet2)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity/button_Go (2)'))
 
@@ -77,7 +78,6 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/span_Entry Details_ui-button-icon ui-icon u_ede766'))
 
 //WebUI.callTestCase(findTestCase('SFPSAutomation/Enterprise Access Monitor/2. EAM Templates'), [:], FailureHandling.OPTIONAL)
-
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/img_Function_apex-edit-view_1'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Activity Entries/span_Entry Details_ui-button-icon ui-icon u_ede766'))
@@ -94,11 +94,11 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Tag/a_Manage Exception Type (2)'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
-	'EBizApp_JDBC_Env', false)
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'), 
+    'EBizApp_JDBC_Env', false)
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'),
-	0)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/select_Select any oneCoupa_Env1EBizApp_JDBC_743da1'), 
+    0)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Exception Type/a_Manage Remediation Plan (3)'))
 
@@ -107,4 +107,5 @@ WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage EAM Roles/a_Assign EAM Roles'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Assign EAM Roles/a_Inbox'))
+
 WebUI.closeBrowser()

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Object Items (5)</name>
+   <tag></tag>
+   <elementGuidId>71cd08c5-731d-44ad-93af-51563a01b3ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Object Items&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>97b26e10-40b9-46d1-a663-ac61787d9737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Tabs-label</value>
+      <webElementGuid>32789e9d-7b25-4c85-b0c8-ee8ae20022ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Object Items</value>
+      <webElementGuid>dce127ff-9b7a-4612-b149-ca9213118b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
+      <webElementGuid>a0daf928-b001-4d2f-821b-574e140a7dcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[2]/a/span[2]</value>
+      <webElementGuid>e7b7f8d8-2396-42fc-9112-9291b6915fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Object'])[1]/following::span[2]</value>
+      <webElementGuid>d4eeebe4-dc5b-4f72-aa06-ac5625d7b869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EBS R12.2'])[1]/following::span[5]</value>
+      <webElementGuid>a694186c-ad74-4bf7-bedf-9a5e9b8099ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Logic'])[1]/preceding::span[2]</value>
+      <webElementGuid>11519d3f-65d2-43ec-b8dc-00b354a98d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add/Edit Object Details'])[3]/preceding::span[3]</value>
+      <webElementGuid>71ef54f1-b561-4d8a-8b4b-ddc76df2160a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Object Items']/parent::*</value>
+      <webElementGuid>f887ca5d-58c7-4834-8d61-38117ea33de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span[2]</value>
+      <webElementGuid>ed06460c-02f8-43e4-a38f-14cf1267a502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Object Items' or . = 'Object Items')]</value>
+      <webElementGuid>6a04fdd2-b45a-4f00-bb42-36a0307078cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

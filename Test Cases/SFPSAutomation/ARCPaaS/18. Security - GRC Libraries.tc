@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Security - GRC Libraries</description>
+   <name>18. Security - GRC Libraries</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0932d98f-11b0-4055-9b4a-26f21588d925</testCaseGuid>
+</TestCaseEntity>

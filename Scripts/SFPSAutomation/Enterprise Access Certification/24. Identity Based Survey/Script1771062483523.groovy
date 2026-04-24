@@ -271,5 +271,3 @@ WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/but
 WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_My Profile_menu_L14205299837764170_1i_2 (1)'))
 
 WebUI.closeBrowser()
-
-//Analytics

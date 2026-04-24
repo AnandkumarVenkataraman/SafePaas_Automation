@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Upload</description>
+   <name>16. Manage Upload</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3e155c6-d8b5-4aa9-ac98-e728b8932752</testCaseGuid>
+</TestCaseEntity>

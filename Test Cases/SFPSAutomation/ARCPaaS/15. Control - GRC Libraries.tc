@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Control - GRC Libraries</description>
+   <name>15. Control - GRC Libraries</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6162eab0-bec1-4ec1-8236-b19aa9a757a0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Financial Hierarchy and Financial Entity</description>
+   <name>2. Financial Hierarchy and Financial Entity</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42e67844-aed7-475a-bd5c-a2e3ad761817</testCaseGuid>
+</TestCaseEntity>

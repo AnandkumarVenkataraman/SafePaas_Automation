@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No data found</name>
+   <tag></tag>
+   <elementGuidId>60f78130-8a8d-43d9-8f3e-9493838c0af3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-IRR-noDataMsg-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search_data_panel']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;No data found.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0586540a-855f-42b2-8c1b-8bf0aa8b2d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IRR-noDataMsg-text</value>
+      <webElementGuid>b1842385-5948-4081-8139-967b3fe39d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No data found.</value>
+      <webElementGuid>20853930-06eb-48da-a78d-21a9079ffd35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_data_panel&quot;)/div[@class=&quot;a-IRR-noDataMsg&quot;]/span[@class=&quot;a-IRR-noDataMsg-text&quot;]</value>
+      <webElementGuid>5ce4a7a6-f722-4e54-9d74-e84a97e7e48b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search_data_panel']/div/span</value>
+      <webElementGuid>ead9526c-c19d-498b-8731-d024d53d3fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Violation Path Descr...'])[1]/following::span[2]</value>
+      <webElementGuid>db6b7d89-d70f-4cd1-acc5-3e1ec1154e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Filter'])[1]/following::span[5]</value>
+      <webElementGuid>c2b9ad5a-eff8-4f9a-b0a3-b935ced9a76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2017, SafePaaS, Inc. All rights reserved.'])[1]/preceding::span[1]</value>
+      <webElementGuid>7856eb4c-659d-4024-9c87-47194a69cc43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release 2.0'])[1]/preceding::span[1]</value>
+      <webElementGuid>610375e7-be94-4dbe-a99b-bf4ee8149c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No data found.']/parent::*</value>
+      <webElementGuid>5cda4804-043f-48b0-8a2b-9c2c88a44b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span</value>
+      <webElementGuid>c04c17e7-bb62-4ce3-8155-17740cc848e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No data found.' or . = 'No data found.')]</value>
+      <webElementGuid>859118fe-5d92-455a-9f11-688a02349bec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

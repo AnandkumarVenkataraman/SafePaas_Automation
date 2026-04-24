@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Level 5</name>
+   <tag></tag>
+   <elementGuidId>0d391bc2-3e85-458d-b104-5db780ecb7c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(6) > td.u-tL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='351558352382852031_orig']/tbody/tr[6]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Level 5&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5e676656-5e3a-415c-86d9-b4efd2594fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> u-tL</value>
+      <webElementGuid>c8af8d62-0fe0-4e1d-8da2-6c54014cd6f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headers</name>
+      <type>Main</type>
+      <value>C351558558945852033</value>
+      <webElementGuid>e9654860-ae8c-41fe-80b0-6c2851284d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Level 5</value>
+      <webElementGuid>012bfd09-3c79-4470-80ce-d594acdc567a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;351558352382852031_orig&quot;)/tbody[1]/tr[6]/td[@class=&quot;u-tL&quot;]</value>
+      <webElementGuid>5ed20633-7954-4646-93fc-101cb2cf5f72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='351558352382852031_orig']/tbody/tr[6]/td[2]</value>
+      <webElementGuid>55ca377d-e5ea-416b-ba65-25520cbb1032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 3'])[4]/following::td[4]</value>
+      <webElementGuid>634978e2-3d99-485a-b17b-818880a05aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 4'])[3]/following::td[5]</value>
+      <webElementGuid>989feb42-a66c-455f-9e69-d742cbd588bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Level 5'])[1]/preceding::td[1]</value>
+      <webElementGuid>5e0d4a4b-7f6f-4db3-82cd-3af5866db769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 5'])[2]/preceding::td[2]</value>
+      <webElementGuid>6a2378a7-2c38-44f7-a055-ea6a20c0b0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Level 5']/parent::*</value>
+      <webElementGuid>e7b1df8f-9011-45e2-adb1-8585e42de585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]</value>
+      <webElementGuid>bcc3b5ea-1830-41aa-a31e-801006a88dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Level 5' or . = 'Level 5')]</value>
+      <webElementGuid>9938ed4d-df6d-4948-bd26-3ec76a5c34af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

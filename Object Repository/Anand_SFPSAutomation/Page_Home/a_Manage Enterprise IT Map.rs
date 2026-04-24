@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_10']/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Enterprise IT Map')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d015ee58-4c48-41d9-a609-0970733e600d</webElementGuid>
+      <webElementGuid>1f27fdf3-e524-4ed4-9cf5-854a3174b226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>b7874f2c-0b5a-4164-b2f2-748adcaf8285</webElementGuid>
+      <webElementGuid>94a6d14f-6359-4467-bd5b-8973b0cfbe0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>7183b97f-e3c4-410e-bdba-95d1ccdad4e4</webElementGuid>
+      <webElementGuid>114a2d61-d52d-4dcf-9b32-f416494045fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>26de18aa-01c7-4fa8-b9b4-aff43b56c459</webElementGuid>
+      <webElementGuid>c9ac2407-9736-452e-b8e2-ba39799f74f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1001:44:15203999088824:::44::&amp;cs=36l0A-9Fn5XXKRnf55HG7FScKYu7-NSrPvFBcGKm7HyFOSYNk-7phrYFdrKaOPjfNwpnpPxzXW4D0OCORMqyAjw</value>
-      <webElementGuid>7eee4a00-76aa-4967-ac16-0eae811c5bfb</webElementGuid>
+      <webElementGuid>70757a2c-b2b5-4ec0-8c9f-c86a2420a254</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>ad6e0a96-49a7-4e0e-9423-6ee7ef1b22b7</webElementGuid>
+      <webElementGuid>303c92d5-9472-4787-894e-0e811313fcac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>514f3701-c6e2-4b5f-bff0-eb6ebbecd362</webElementGuid>
+      <webElementGuid>b87fca3e-ea24-47a5-b6a5-215df73da8f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Enterprise IT Map</value>
-      <webElementGuid>35bb5d8b-e93d-4f4f-a25b-3af6aaee38b6</webElementGuid>
+      <webElementGuid>6ad3139c-cbb9-436b-a32c-800e99379ae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_10&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>b7defe16-032e-424e-af52-16ea57bb6027</webElementGuid>
+      <webElementGuid>86b1660d-0f73-4c66-8d1b-e7bd340556dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_10']/div[2]/a</value>
-      <webElementGuid>a2031734-94d5-4d87-8c57-29e36cd70b20</webElementGuid>
+      <webElementGuid>aeb1cba6-570f-42e6-9a1f-a25539cff006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Enterprise IT Map')]</value>
-      <webElementGuid>8868d264-06e6-4cd7-a0e7-75028086e117</webElementGuid>
+      <webElementGuid>61e018c1-a018-4e56-88aa-84bd455ac23f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Environment'])[1]/following::a[1]</value>
-      <webElementGuid>1452b730-71cf-448c-bc70-5f0d59f9bbdc</webElementGuid>
+      <webElementGuid>b6f4917a-c912-43e3-8751-decbfdfd4451</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Company'])[1]/following::a[2]</value>
-      <webElementGuid>2f3d2ad5-ddfe-47b0-8c5a-abcae1bfe5cd</webElementGuid>
+      <webElementGuid>b691566a-2294-46fd-9965-8bbbb4af8338</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Security Positions'])[1]/preceding::a[1]</value>
-      <webElementGuid>ec72cee7-c30a-4f38-a21d-7009a0c20143</webElementGuid>
+      <webElementGuid>e68494d2-035d-44a7-ae55-b8e052ee844e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SafePaaS User Listing'])[1]/preceding::a[2]</value>
-      <webElementGuid>97a4679f-b722-44ab-8fec-75af90cd6911</webElementGuid>
+      <webElementGuid>43b31586-6a6b-4922-ad0e-17b4da1d5eed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Enterprise IT Map']/parent::*</value>
-      <webElementGuid>7812d5b7-fef3-466d-bdfa-89d0d693de2b</webElementGuid>
+      <webElementGuid>24c845e8-fe06-47cd-a936-03ade94a6e43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1001:44:15203999088824:::44::&amp;cs=36l0A-9Fn5XXKRnf55HG7FScKYu7-NSrPvFBcGKm7HyFOSYNk-7phrYFdrKaOPjfNwpnpPxzXW4D0OCORMqyAjw')]</value>
-      <webElementGuid>7c001961-bf70-46f4-ab2f-e6032a83e43f</webElementGuid>
+      <webElementGuid>e30349d0-b1b9-48a3-b7fb-36ecec8d4a8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div[2]/a</value>
-      <webElementGuid>93bdfd12-33dd-4f5c-920b-bfe3c4088b4e</webElementGuid>
+      <webElementGuid>36ce717c-6485-43b9-b4c8-5a7e974d57f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1001:44:15203999088824:::44::&amp;cs=36l0A-9Fn5XXKRnf55HG7FScKYu7-NSrPvFBcGKm7HyFOSYNk-7phrYFdrKaOPjfNwpnpPxzXW4D0OCORMqyAjw' and (text() = 'Manage Enterprise IT Map' or . = 'Manage Enterprise IT Map')]</value>
-      <webElementGuid>89b256bd-2ecf-40de-8d04-f5173910e478</webElementGuid>
+      <webElementGuid>1bd1ffaf-26b0-40fc-a999-4dc6d4e8010f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

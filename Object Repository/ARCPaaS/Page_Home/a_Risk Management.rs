@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Risk Management</name>
+   <tag></tag>
+   <elementGuidId>f6ffa819-c73e-43fc-9e16-aff2c9c53f5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-TreeView-content.is-hover > a.a-TreeView-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Risk Management')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Risk Management&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>506297c2-cb84-4e48-83ef-c15d68738362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>ed573ebd-5c7d-4e2a-ade1-f430977dc2ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>8c2547a3-3e3d-469c-b956-75fd60fb1829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-TreeView-label</value>
+      <webElementGuid>8927e701-119d-4d9b-8bed-1e4758bfab17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1005:252:10924680396401:::252::</value>
+      <webElementGuid>cc786902-0f13-4a8e-af16-2726a2ffe9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>af91df1e-89a4-4734-993a-c86beffc9ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fc271ba7-0bee-4601-8f6f-9496e78d2ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Risk Management</value>
+      <webElementGuid>66d1b91f-186f-49d2-ad99-6f8c57c03dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_TreeNav_20&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
+      <webElementGuid>fa8833f9-91ad-414c-9822-b1554f99a013</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='t_TreeNav_20']/div[2]/a</value>
+      <webElementGuid>70ce809f-2b1e-4bc0-9545-21e1d898c4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Risk Management')]</value>
+      <webElementGuid>338a9891-ea61-4452-b7ab-1151a997cd82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Management'])[1]/following::a[1]</value>
+      <webElementGuid>851e8c73-413a-470d-b791-c27165b36228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Risk Library'])[1]/following::a[2]</value>
+      <webElementGuid>6fb83ca6-22e4-4a47-ac05-7147eb3e5605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Control Management'])[1]/preceding::a[1]</value>
+      <webElementGuid>e91b1b8c-aa94-485e-b496-802c9541f4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/preceding::a[2]</value>
+      <webElementGuid>b2c148d6-1509-4fa5-9df5-bfbcdbf9fef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Risk Management']/parent::*</value>
+      <webElementGuid>5d864b29-810d-4216-9acd-537d48a0d462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1005:252:10924680396401:::252::')]</value>
+      <webElementGuid>20e0b240-1288-4972-ba06-8e9bac57b05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/a</value>
+      <webElementGuid>2d4718c3-31ce-41c3-82c5-7429113d8325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1005:252:10924680396401:::252::' and (text() = 'Risk Management' or . = 'Risk Management')]</value>
+      <webElementGuid>af14cf48-e214-4efa-8ab7-4b93d977fd89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

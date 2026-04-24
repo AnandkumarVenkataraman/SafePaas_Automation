@@ -4,18 +4,18 @@
    <name>2. DataProbe</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <mailRecipient>anandkumar.venkataraman@safepaas.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>10</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>a482eaea-6fba-4521-a3f4-5db4be4d3ea8</testSuiteGuid>
    <testCaseLink>
-      <guid>a63b8bf5-2b7f-42a8-bdab-a3da41088eef</guid>
+      <guid>297fa976-2a85-4d5e-98fc-e6cbd8beb968</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SFPSAutomation/DataProbe/DataProbe_Main IQA</testCaseId>
+      <testCaseId>Test Cases/SFPSAutomation/DataProbe/1. DataSource</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

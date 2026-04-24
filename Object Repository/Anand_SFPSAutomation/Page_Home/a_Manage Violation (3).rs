@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='t_TreeNav_18']/div[2]/a</value>
+         <value>//a[contains(text(),'Manage Violation')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8c1c2db9-2965-4815-8705-39f6cc671641</webElementGuid>
+      <webElementGuid>c14ae2a0-9479-4bc1-a56d-1616189bf395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>18ea943b-6cb9-493b-ba55-a5e7f0012754</webElementGuid>
+      <webElementGuid>20f11e39-28dd-43d5-a0e5-9a6971c1aa74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>treeitem</value>
-      <webElementGuid>5f7549f6-1f34-41e1-82ab-496de73e09ed</webElementGuid>
+      <webElementGuid>2375a99c-b940-408d-9917-bcb17f523a8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-TreeView-label</value>
-      <webElementGuid>7f86fe9b-9c83-4469-9ef3-91600b7f60df</webElementGuid>
+      <webElementGuid>670274b5-23e2-4e49-bc31-4c0866eeba66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>f?p=1180:74:25895361767208:::74::</value>
-      <webElementGuid>2abc8220-955a-48b4-b1d7-753d1c93edb2</webElementGuid>
+      <webElementGuid>1aacaa9f-5f8c-41ba-9c80-c8a9aefd4a3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-level</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>85d17150-c7cb-4778-b2f0-52f26984a94f</webElementGuid>
+      <webElementGuid>b9cf3fae-a786-4f4b-9094-f6f5b953abde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>503f16cf-b4d7-4781-8671-9e3edeae7de6</webElementGuid>
+      <webElementGuid>4470236e-4d35-4397-9dfc-202cd2db78c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Violation</value>
-      <webElementGuid>5339dd97-617a-41e1-ab4e-cc2e80cfe348</webElementGuid>
+      <webElementGuid>fa1962e2-a82f-4da3-aa53-c5c2e0cc5372</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;t_TreeNav_18&quot;)/div[@class=&quot;a-TreeView-content is-hover&quot;]/a[@class=&quot;a-TreeView-label&quot;]</value>
-      <webElementGuid>65b19541-7ab1-40bb-bea6-deacf3db899e</webElementGuid>
+      <webElementGuid>551998d8-e503-4537-902e-12259f00cec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='t_TreeNav_18']/div[2]/a</value>
-      <webElementGuid>85072db2-4d9c-472a-ba38-4950ed3747d4</webElementGuid>
+      <webElementGuid>5902a5c7-9f4f-4155-bcac-d898efad03f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Manage Violation')]</value>
-      <webElementGuid>86e9847b-4681-4c58-afcf-3e6eb8bab45b</webElementGuid>
+      <webElementGuid>aee7ff99-b123-4b8c-b6bd-08f013e38787</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage SOD Test'])[1]/following::a[1]</value>
-      <webElementGuid>ec8046ee-6904-4a01-89aa-5e940afa3962</webElementGuid>
+      <webElementGuid>5eadc3dd-2ff8-445b-98b1-414a8d60ab12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detect Violations'])[1]/following::a[2]</value>
-      <webElementGuid>a9850b0f-5cb0-4197-b794-2d0e96677dce</webElementGuid>
+      <webElementGuid>76223398-4a40-4a48-ac33-b0549ffe70ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exception'])[1]/preceding::a[1]</value>
-      <webElementGuid>1f3ee71d-5424-4393-a1b8-bef92054132b</webElementGuid>
+      <webElementGuid>7e3d50fc-70dd-4405-bd21-c3d20e9840ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remediate Violations'])[1]/preceding::a[2]</value>
-      <webElementGuid>3d6a3059-4fdd-4e82-9be5-648a2b02f6aa</webElementGuid>
+      <webElementGuid>22126635-58fb-4421-b062-3c0928475435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Manage Violation']/parent::*</value>
-      <webElementGuid>6d9f3832-918f-45a2-bc25-fd49840c5f2b</webElementGuid>
+      <webElementGuid>43312346-6850-4939-bf33-e96d66ddd0a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'f?p=1180:74:25895361767208:::74::')]</value>
-      <webElementGuid>3f99cdc3-54d8-4316-aaf6-8282f0eb5121</webElementGuid>
+      <webElementGuid>1a3e631b-4acf-47db-8911-4ccd3306ecaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div[2]/a</value>
-      <webElementGuid>0cdd6374-0363-4ce7-8e58-8fbe14af0fdd</webElementGuid>
+      <webElementGuid>7241772c-b157-4362-b52f-bc861c834201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'f?p=1180:74:25895361767208:::74::' and (text() = 'Manage Violation' or . = 'Manage Violation')]</value>
-      <webElementGuid>602c22d1-7881-4e54-bcec-02827603ae4d</webElementGuid>
+      <webElementGuid>fc56568d-e834-40b0-90ef-d5963dc908b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

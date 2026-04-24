@@ -20,6 +20,7 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 import java.time.LocalDate as LocalDate
 import java.time.format.DateTimeFormatter as DateTimeFormatter
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 WebUI.openBrowser('')
 
@@ -270,5 +271,39 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Objects
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_concat(Row text contains , , EntryAt_e48873'), 
     FailureHandling.OPTIONAL)
 
-//WebUI.callTestCase(findTestCase('SFPSAutomation/DataProbe/3. Object Set'), [:])
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/a_Inbox (5)'))
+
+//Path Exclusion object
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_MonitorPaaS_a-TreeView-toggle (4)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/span_SFTP File Explorer_a-TreeView-toggle (2)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Home/a_Manage Object (1)'))
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/select_- Select an Environment -Coupa_Env1E_696603'),
+	'EBizApp_JDBC_Env', false)
+
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Manage Objects/select_- All -MonitorPaaSEnterprise Access _717d25'),
+	'Enterprise Access Monitor', false)
+
+WebUI.setText(findTestObject('Object Repository/Page_Manage Objects/input_Objects Report_R122864292076293001_se_c86a1e (1)'),
+	'Entry Hierarchy_PathExcl_JDBC2')
+
+WebUI.enhancedClick(findTestObject('Object Repository/Page_Manage Objects/button_Go (1)'))
+//
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/a_Entry Hierarchy_PathExcl_JDBC2'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_AddEdit Object Details/span_Object Items (5)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Add Object Items/a_Manage Objects (1)'))
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/button_Remove Filter (4)'))
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/select_- All -MonitorPaaSEnterprise Access _ba5c00 (2)'),
+	0)
+
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/select_- Select an Environment -Coupa_Env1E_696603 (3)'),
+	0)
+
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Manage Objects/a_Inbox (5)'))
 WebUI.closeBrowser()

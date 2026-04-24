@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Path Exclusion</name>
+   <tag></tag>
+   <elementGuidId>4e0178ad-0aec-4193-ac22-3adc9fcc7be9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[3]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Path Exclusion&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e05dc3b-66a8-4928-9ad0-99d02a9495ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Tabs-label</value>
+      <webElementGuid>cc0547f7-8d41-4ee2-947c-ec522b1509ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Path Exclusion</value>
+      <webElementGuid>18861b3b-2e63-4d5d-8681-ec2bc11c0709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_Body_content&quot;)/div[@class=&quot;t-Body-contentInner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12 apex-col-auto&quot;]/ul[@class=&quot;t-Tabs t-Tabs--simple&quot;]/li[@class=&quot;t-Tabs-item&quot;]/a[@class=&quot;t-Tabs-link&quot;]/span[@class=&quot;t-Tabs-label&quot;]</value>
+      <webElementGuid>0e11df08-272a-413f-bba9-61bae8c324e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='t_Body_content']/div[2]/div[2]/div/div/ul/li[3]/a/span[2]</value>
+      <webElementGuid>d396bf37-6778-478c-a34b-ffee055776e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Logic'])[1]/following::span[2]</value>
+      <webElementGuid>a711cae7-f912-4468-9ef0-8ab5374fa70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/following::span[4]</value>
+      <webElementGuid>888e26ce-477c-4e35-a442-53a6f230be70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter False-Positive'])[1]/preceding::span[1]</value>
+      <webElementGuid>82d1550a-f499-4d78-8fea-10cf759dd07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Options'])[1]/preceding::span[1]</value>
+      <webElementGuid>81736734-dfe3-40a0-a4d0-0a6bdda10238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Path Exclusion']/parent::*</value>
+      <webElementGuid>92fb4b80-22db-4fd2-a5c0-d3b1c39d36aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span[2]</value>
+      <webElementGuid>61b08f05-9c82-434d-9c6e-b8e953c4f32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Path Exclusion' or . = 'Path Exclusion')]</value>
+      <webElementGuid>7adb6872-62fc-48cb-b160-6366f501651e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

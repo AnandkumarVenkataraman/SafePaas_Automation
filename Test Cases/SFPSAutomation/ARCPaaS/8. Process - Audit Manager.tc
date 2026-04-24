@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Process - Audit Manager</description>
+   <name>8. Process - Audit Manager</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0326e0c-1b5e-46ff-ba18-e4d439a5973e</testCaseGuid>
+</TestCaseEntity>

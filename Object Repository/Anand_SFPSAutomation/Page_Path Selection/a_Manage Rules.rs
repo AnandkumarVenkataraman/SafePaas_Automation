@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Rules</name>
+   <tag></tag>
+   <elementGuidId>182df6d0-9f49-4020-a9c1-a90d48552683</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R240791628227405174']/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Manage Rules&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>63fe3bb3-7ba3-4122-b96b-f9f69308e0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1180:7:13211563281194:::::</value>
+      <webElementGuid>9c02ba5d-f955-446a-a342-1d280cb928db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Breadcrumb-label</value>
+      <webElementGuid>5304bd38-fb0f-4827-8aae-5ebd16ef8a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Rules</value>
+      <webElementGuid>e8c2a818-e8d2-4018-9d21-f34c9a197919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R240791628227405174&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
+      <webElementGuid>c2cad96d-8722-4533-a006-5189ae356a4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R240791628227405174']/div/div/ul/li[2]/a</value>
+      <webElementGuid>055d60bf-366b-427a-a920-ba6f6c5c9d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Manage Rules')])[4]</value>
+      <webElementGuid>d9d98345-74ac-408f-96fb-c9db1cabbeef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Define Scope'])[3]/following::a[1]</value>
+      <webElementGuid>7fad1188-df18-4d9f-a0d4-291c28a2ebc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::a[2]</value>
+      <webElementGuid>1aec6100-4d92-478d-84b5-23d291071c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter False-Positives'])[1]/preceding::a[1]</value>
+      <webElementGuid>a1628060-4cac-4299-a1d2-296759837193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Logic'])[1]/preceding::a[2]</value>
+      <webElementGuid>d015ff63-c3ba-4594-9a9c-b0fd44619e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1180:7:13211563281194:::::')]</value>
+      <webElementGuid>4806ed43-be79-472c-8c98-789ae4a2d9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>e619a0a9-84fe-4615-ad1f-5636fd6da553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1180:7:13211563281194:::::' and (text() = 'Manage Rules' or . = 'Manage Rules')]</value>
+      <webElementGuid>d7c19ed5-850b-4b06-a401-82c727972022</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

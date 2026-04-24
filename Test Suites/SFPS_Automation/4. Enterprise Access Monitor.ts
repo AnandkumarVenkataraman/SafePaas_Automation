@@ -17,6 +17,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/1. EAM Setups</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>16abb6b5-d5a0-4125-8aa7-fd74d0af3439</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b139d2a3-6411-4a9f-95e1-60fe80dd8358</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>e33dafae-8c8f-452c-99e5-1bfca4d2db8c</guid>
@@ -147,56 +159,56 @@
    <testCaseLink>
       <guid>e6eed2d7-7b97-4ad6-bc18-4e7a50d0b9e6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/20. SODReview_AggregateLevel_Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f2dfc27b-2031-45c6-8269-0f5d9045850e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/21. SODReview_AggregateLevel_RoleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1efe4043-259d-4f59-9a78-f6de39be5679</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/22. SODReview_AggregateLevel_RuleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bf23980f-f2e2-48af-9c93-815cd3605bbc</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/23. SODReview_AggregateLevel_Analytics</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9d241e02-5427-464c-a79f-e0ac2fbcbbcb</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/24. SODReview_ViolationLevel_Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7b3bafaa-01ac-4738-a777-4c075c3e751c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/25. SODReview_ViolationLevel_RoleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>122a4639-9a87-4f1b-bec0-43a5d4851d82</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/26. SODReview_ViolationLevel_RuleOwner</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e7436004-6cc4-4c41-b93a-059393d0d9a6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/27. SODReview_ViolationLevel_Analytics</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -318,5 +330,24 @@
       <isRun>false</isRun>
       <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/44. Analytics - Reporting related to False Positive Filters is missing from EAM</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9f298df1-2412-4f1b-953f-632e3ddb59d3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SFPSAutomation/Enterprise Access Monitor/45. Path Exclusion</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bffb0583-aa7f-4db5-a564-52807bea8f9d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5b4317b3-4e97-41c2-90d9-d65cb5d794b1</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

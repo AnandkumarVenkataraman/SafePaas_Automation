@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Risk - Compliance Manager</description>
+   <name>10. Risk - Compliance Manager</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba5af393-df9c-45b9-ba7e-e3bddbfe3918</testCaseGuid>
+</TestCaseEntity>

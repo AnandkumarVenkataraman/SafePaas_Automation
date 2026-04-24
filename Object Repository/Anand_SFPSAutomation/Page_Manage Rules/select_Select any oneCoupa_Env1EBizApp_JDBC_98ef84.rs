@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select any oneCoupa_Env1EBizApp_JDBC_98ef84</name>
+   <tag></tag>
+   <elementGuidId>7a1b0954-954b-4275-8216-c4a3abc1fbd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P0_ENVIRONMENT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P0_ENVIRONMENT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Environment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>210ad86d-b88f-45bd-9819-7c8fb0e55274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P0_ENVIRONMENT</value>
+      <webElementGuid>cffc9593-c607-4df2-89d8-5fea50342279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P0_ENVIRONMENT</value>
+      <webElementGuid>79a8a728-d382-40af-875b-91ef61727dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>dae21f71-7561-4b2c-9109-3e72f0fc4b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fb72a0df-8fc6-4aa6-b49e-9585efa2e568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>59bf4b17-7b9f-4854-bdd3-1e95ed8577df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>apex.submit('P0_ENVIRONMENT');</value>
+      <webElementGuid>4d0d1b94-9b7b-42c6-8a17-afd20a23e8a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select any one
+Coupa_Env1
+EBizApp_JDBC_Env
+EBizApp_New
+EBiz_SFTP
+OS_IDM_Copy
+SAP_S4HANA
+SFTP_Env2
+Test_Environment3_Hybris
+WorkDayEnv_1
+Y_DEV_OS_ENV_Copy
+Y_Endur
+Z_AutoKAT
+Z_Azure
+Z_EBS_XRef1
+Z_Hybris_Env
+</value>
+      <webElementGuid>dbac2011-38e6-4cc4-9111-980fb9915db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P0_ENVIRONMENT&quot;)</value>
+      <webElementGuid>2738e80e-3b09-4d5e-93d0-53d2d2b685ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P0_ENVIRONMENT']</value>
+      <webElementGuid>a8543df2-f722-4f3f-a034-62ac9fb8d75a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P0_ENVIRONMENT_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>5447024a-0cfd-489b-bec2-8c2e873bdd77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Environment'])[1]/following::select[1]</value>
+      <webElementGuid>cfa59aaf-dd20-4dc4-bf92-da0c28441ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::select[1]</value>
+      <webElementGuid>8202bc91-8066-4967-966b-60f0cfc867e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Rules'])[5]/preceding::select[1]</value>
+      <webElementGuid>3a85d62b-3c8f-4d42-a98d-f3be6bf6e526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>7fa58825-dacc-4722-808e-f45909a20c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1671401c-9fc7-4b0f-8d8a-ab9437fc89be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P0_ENVIRONMENT' and @name = 'P0_ENVIRONMENT' and (text() = 'Select any one
+Coupa_Env1
+EBizApp_JDBC_Env
+EBizApp_New
+EBiz_SFTP
+OS_IDM_Copy
+SAP_S4HANA
+SFTP_Env2
+Test_Environment3_Hybris
+WorkDayEnv_1
+Y_DEV_OS_ENV_Copy
+Y_Endur
+Z_AutoKAT
+Z_Azure
+Z_EBS_XRef1
+Z_Hybris_Env
+' or . = 'Select any one
+Coupa_Env1
+EBizApp_JDBC_Env
+EBizApp_New
+EBiz_SFTP
+OS_IDM_Copy
+SAP_S4HANA
+SFTP_Env2
+Test_Environment3_Hybris
+WorkDayEnv_1
+Y_DEV_OS_ENV_Copy
+Y_Endur
+Z_AutoKAT
+Z_Azure
+Z_EBS_XRef1
+Z_Hybris_Env
+')]</value>
+      <webElementGuid>93595bcf-1371-4606-96cf-1733105d822f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Process - Compliance Manager</description>
+   <name>7. Process - Compliance Manager</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e552c112-f016-4698-9fcf-d845c14523e8</testCaseGuid>
+</TestCaseEntity>

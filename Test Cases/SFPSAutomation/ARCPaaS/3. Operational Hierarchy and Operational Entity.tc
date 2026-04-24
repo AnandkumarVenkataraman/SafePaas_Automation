@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Operational Hierarchy and Operational Entity</description>
+   <name>3. Operational Hierarchy and Operational Entity</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f83e16dd-d06f-461b-b556-3d3777269ead</testCaseGuid>
+</TestCaseEntity>

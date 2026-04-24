@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Filter</name>
+   <tag></tag>
+   <elementGuidId>0353cea4-88d0-40a6-988a-9dce8c279b63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#uvrReport_actions_menu_2 > div.a-Menu-inner > span.a-Menu-labelContainer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='uvrReport_actions_menu_2']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=/^Filter$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4bfaf1df-41b5-47e5-8dda-1e4ce342fc45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Menu-labelContainer</value>
+      <webElementGuid>c8bd64b7-7335-4280-ad2e-3e9b0838930a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter</value>
+      <webElementGuid>590193ec-aaa6-419e-a497-a474e12dc411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uvrReport_actions_menu_2&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]</value>
+      <webElementGuid>1a8a11c5-8c9c-4f74-aab1-c4bc81090e54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='uvrReport_actions_menu_2']/div/span</value>
+      <webElementGuid>4ef5f766-a9af-49eb-aec0-b20ece6cd9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Columns'])[1]/following::span[7]</value>
+      <webElementGuid>206e91d6-22c8-4f80-abd1-e60354c06c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::span[10]</value>
+      <webElementGuid>0a1ce0a3-bded-44e5-9635-295d33cb92a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows Per Page'])[1]/preceding::span[7]</value>
+      <webElementGuid>7c666b5f-6f06-4e1a-a76b-7cf903a50369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ul/li[3]/div/span</value>
+      <webElementGuid>4568408f-eda7-4523-8e93-16930d53c3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Filter' or . = 'Filter')]</value>
+      <webElementGuid>24087e69-fe9e-4544-b83e-5229b79c363c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

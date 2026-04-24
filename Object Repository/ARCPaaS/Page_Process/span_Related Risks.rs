@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Related Risks</name>
+   <tag></tag>
+   <elementGuidId>51884cbf-ea3f-445c-91e9-acf59db7adfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#R20291045533018802_tab > a.a-RDS-link > span.a-RDS-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='R20291045533018802_tab']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Related Risks&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>702ba133-7430-438e-9288-f83905b577b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-RDS-label</value>
+      <webElementGuid>7a5f37d9-7398-4bec-b287-92d78b886b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Related Risks</value>
+      <webElementGuid>4883b9a2-4cb2-48cb-bfdb-d349e1232b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R20291045533018802_tab&quot;)/a[@class=&quot;a-RDS-link&quot;]/span[@class=&quot;a-RDS-label&quot;]</value>
+      <webElementGuid>1dc323b7-b71c-4956-89ec-75dc97b1a6ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='R20291045533018802_tab']/a/span</value>
+      <webElementGuid>a4494b71-c112-4924-8464-8e7636fe50ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Interdependent Process'])[1]/following::span[1]</value>
+      <webElementGuid>30bd5caa-19b5-4369-8d48-beb8b153d138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Sub Process'])[1]/following::span[2]</value>
+      <webElementGuid>e765e733-94b8-4475-bcc5-f81821bd3457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Controls'])[1]/preceding::span[1]</value>
+      <webElementGuid>d3e7cbcb-495f-495b-8f3e-170220d2b269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process'])[4]/preceding::span[4]</value>
+      <webElementGuid>2438bb3c-291f-4aaa-b575-53291f74dec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Related Risks']/parent::*</value>
+      <webElementGuid>47522b98-9163-4537-af11-ebe75cdf7918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>1e157168-b3ab-4dc1-9604-7c0cc1dbc771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Related Risks' or . = 'Related Risks')]</value>
+      <webElementGuid>3bc4eeed-f739-4e53-b62c-5b3507ea5242</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

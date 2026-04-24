@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Import Status Report</description>
+   <name>17. Import Status Report</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ef2a036-1b5f-47cd-92a7-3cf56628c68a</testCaseGuid>
+</TestCaseEntity>

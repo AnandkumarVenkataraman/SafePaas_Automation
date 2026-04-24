@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>59658b2b-086c-4507-ba7f-4ce317409ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.u-tC > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='22469073946520274_orig']/tbody/tr[2]/td/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;RAE1 Receivables acct Entries Receivables acct Entries Assessment,Audit Testing Active IT Operations GDPR Entity 1,Entity 2 NICOPONCE,ANANDBABU1 - Owner Organisations Only Entity 1,Entity 2 ANANDBABU1 20-04-2026 07:59:00 20-04-2026 07:59:00 ANANDBABU1&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0a5163c5-c353-40bc-bc08-7776e2df33af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/i/edit_big.gif</value>
+      <webElementGuid>c3f0ba9b-19ef-4567-ab25-572428d01afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;22469073946520274_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tC&quot;]/a[1]/img[1]</value>
+      <webElementGuid>a0e7db81-8d6c-49c6-b08e-f22ce3e72ee0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='22469073946520274_orig']/tbody/tr[2]/td/a/img</value>
+      <webElementGuid>8ebfb497-4c0c-44dc-9378-2d1d1840b509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/a/img</value>
+      <webElementGuid>5ee9eb86-1e00-498f-94e3-ec82adc2323b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/i/edit_big.gif']</value>
+      <webElementGuid>9382fdc2-f71c-4b03-87c2-31c6430ef730</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

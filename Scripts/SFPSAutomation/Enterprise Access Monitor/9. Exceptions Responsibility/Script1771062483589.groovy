@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.util.KeywordUtil
 
 WebUI.openBrowser('')
 

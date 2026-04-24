@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Objects (1)</name>
+   <tag></tag>
+   <elementGuidId>1fc5366a-d4aa-4bd5-b2c6-b83663d29471</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R122159485930507513']/div/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Manage Objects&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9cdea8c-965f-420f-bb1b-3bd9300e26b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>f?p=1120:9:10682320656153:::::</value>
+      <webElementGuid>60dbf93e-b770-4c38-a50e-2865d4f7fdb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Breadcrumb-label</value>
+      <webElementGuid>eb897596-ff36-4367-a1bd-94466d1566f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Objects</value>
+      <webElementGuid>a106bc57-925c-48c1-9ea3-80696ce0c921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R122159485930507513&quot;)/div[@class=&quot;t-BreadcrumbRegion-body&quot;]/div[@class=&quot;t-BreadcrumbRegion-breadcrumb&quot;]/ul[@class=&quot;t-Breadcrumb&quot;]/li[@class=&quot;t-Breadcrumb-item&quot;]/a[@class=&quot;t-Breadcrumb-label&quot;]</value>
+      <webElementGuid>ad27784a-b719-4beb-8f4c-c76e24a4b3bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R122159485930507513']/div/div/ul/li[3]/a</value>
+      <webElementGuid>da1b22f8-f111-4774-8378-1b1c242e3388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Objects')]</value>
+      <webElementGuid>05921791-9f80-4052-b7d3-4dab2d8c2708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[9]/following::a[1]</value>
+      <webElementGuid>6a373a73-47b1-46db-8c04-b7204fcfee0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DataProbe'])[2]/following::a[2]</value>
+      <webElementGuid>93ad6ca7-9a5e-486f-ae2b-30759a5960ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add/Edit Object Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>9b5e71f7-77b4-4b8c-bc02-397c05b263b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Object Items'])[2]/preceding::a[2]</value>
+      <webElementGuid>0ae5d30c-285f-4d06-8109-970593df976f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Objects']/parent::*</value>
+      <webElementGuid>62c34252-cbb8-4f98-8060-ea3abda7af0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'f?p=1120:9:10682320656153:::::')]</value>
+      <webElementGuid>8e4f8460-dcbf-4ee8-be21-607c39c42a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>30daf2f4-3123-48e1-a997-31685b23ce44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'f?p=1120:9:10682320656153:::::' and (text() = 'Manage Objects' or . = 'Manage Objects')]</value>
+      <webElementGuid>c47b207e-7a41-4f72-a6e2-a64e177db0fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

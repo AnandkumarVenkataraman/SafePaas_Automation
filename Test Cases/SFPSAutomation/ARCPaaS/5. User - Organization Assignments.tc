@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User - Organization Assignments</description>
+   <name>5. User - Organization Assignments</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>651e95b2-4f27-43a2-b0c0-5a4cb0722dbb</testCaseGuid>
+</TestCaseEntity>

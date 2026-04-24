@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Locations</description>
+   <name>4. Locations</name>
+   <tag>ARCPaaS</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01aa1892-18b5-4c0f-bad1-86e55a8bba86</testCaseGuid>
+</TestCaseEntity>
