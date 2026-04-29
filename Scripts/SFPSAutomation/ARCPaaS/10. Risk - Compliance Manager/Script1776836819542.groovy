@@ -63,5 +63,5 @@ WebUI.enhancedClick(findTestObject('Object Repository/ARCPaaS/Page_Risk/button_C
 WebUI.enhancedClick(findTestObject('Object Repository/ARCPaaS/Page_Risk Management/button_Remove Filter'), FailureHandling.OPTIONAL)
 
 WebUI.enhancedClick(findTestObject('Object Repository/ARCPaaS/Page_Manage Hierarchy/a_Inbox'))
-
+WebUI.delay(2)
 WebUI.closeBrowser()
