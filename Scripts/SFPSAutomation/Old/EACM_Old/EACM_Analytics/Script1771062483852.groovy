@@ -44,7 +44,7 @@ WebUI.click(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Acc
 
 WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/a_User Access Certification Summary'))
 
-WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Summary/select_Select any oneEBS_EACMSurvey_0510202_c268f5'), 
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Anand_SFPSAutomation/PUACS/selectAnyOne'), 
     1)
 
 WebUI.delay(2)
@@ -54,10 +54,10 @@ WebUI.comment(eacmSurveyID)
 WebUI.selectOptionByLabel(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Details/select_Select any oneEBS_EACMSurvey_0510202_c268f5 - 2'), 
     eacmSurveyID, true)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Summary/td_Procurement'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Anand_SFPSAutomation/PUACS/td_Procurement'), 
     15)
 
-WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/Page_User Access Certification Summary/a_Cumulative Access Certification'))
+WebUI.enhancedClick(findTestObject('Object Repository/Anand_SFPSAutomation/PUACS/a_Cumulative Access Certification'))
 
 WebUI.setText(findTestObject('Object Repository/Anand_SFPSAutomation/Page_Cumulative Access Certification/input_View Results_caCert_search_field'), 
     eacmSurveyID)

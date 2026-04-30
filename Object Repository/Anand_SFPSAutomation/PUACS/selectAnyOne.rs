@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select any oneEBS_EACMSurvey_0510202_c268f5</name>
+   <name>selectAnyOne</name>
    <tag></tag>
    <elementGuidId>7b7024d9-0080-45a0-a447-b6f19dbe525b</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P8_TEST</value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@name = 'P8_TEST' and (text() = 'Select any one
@@ -38,10 +42,6 @@ EBS_EACMSurvey_10052025_062935
 EBS_Survey_May012025_v1
 EBiz_Survey_R1
 ')]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#P8_TEST</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
